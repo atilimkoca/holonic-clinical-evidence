@@ -1,0 +1,430 @@
+{
+  "disease": "Ankylosing Spondylitis",
+  "slug": "ankylosing_spondylitis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "36270658",
+      "title": "ASAS-EULAR recommendations for the management of axial spondyloarthritis: 2022 update.",
+      "abstract": "To update the Assessment of SpondyloArthritis international Society (ASAS)-EULAR recommendations for the management of axial spondyloarthritis (axSpA). Following the EULAR Standardised Operating Procedures, two systematic literature reviews were conducted on non-pharmacological and pharmacological treatment of axSpA. In a task force meeting, the evidence was presented, discussed, and overarching principles and recommendations were updated, followed by voting. Five overarching principles and 15 recommendations with a focus on personalised medicine were agreed: eight remained unchanged from the previous recommendations; three with minor edits on nomenclature; two with relevant updates (#9, 12); two newly formulated (#10, 11). The first five recommendations focus on treatment target and monitoring, non-pharmacological management and non-steroidal anti-inflammatory drugs (NSAIDs) as first-choice pharmacological treatment. Recommendations 6-8 deal with analgesics and discourage long-term glucocorticoids and conventional synthetic disease-modifying antirheumatic drugs (DMARDs) for pure axial involvement. Recommendation 9 describes the indication of biological DMARDs (bDMARDs, that is, tumour necrosis factor inhibitors (TNFi), interleukin-17 inhibitors (IL-17i)) and targeted synthetic DMARDs (tsDMARDs, ie, Janus kinase inhibitors) for patients who have Ankylosing Spondylitis Disease Activity Score \u22652.1\u2009and failed \u22652 NSAIDs and also have either elevated C reactive protein, MRI inflammation of sacroiliac joints or radiographic sacroiliitis. Current practice is to start a TNFi or IL-17i. Recommendation 10 addresses extramusculoskeletal manifestations with TNF monoclonal antibodies preferred for recurrent uveitis or inflammatory bowel disease, and IL-17i for significant psoriasis. Treatment failure should prompt re-evaluation of the diagnosis and consideration of the presence of comorbidities (#11). If active axSpA is confirmed, switching to another b/tsDMARD is recommended (#12). Tapering, rather than immediate discontinuation of a bDMARD, can be considered in patients in sustained remission (#13). The last recommendations (#14, 15) deal with surgery and spinal fractures. The 2022 ASAS-EULAR recommendations provide up-to-date guidance on the management of patients with axSpA.",
+      "pub_date": "2023-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antirheumatic Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Spondylarthritis",
+        "Spondylitis, Ankylosing",
+        "Analgesics"
+      ],
+      "chemicals": [
+        "Antirheumatic Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Analgesics"
+      ],
+      "journal": "Annals of the rheumatic diseases",
+      "authors": [
+        "Sofia Ramiro",
+        "Elena Nikiphorou",
+        "Alexandre Sepriano",
+        "Augusta Ortolan",
+        "Casper Webers",
+        "Xenofon Baraliakos"
+      ]
+    },
+    {
+      "pmid": "35935936",
+      "title": "Efficacy and Safety of Curcumin and",
+      "abstract": "Modern pharmacological research found that the chemical components of Pubmed, Cochran Library, CNKI, and other databases were searched to collect the randomized controlled trials (RCTs). Then, the risk of bias of RCTs were assessed and data of RCTs were extracted. Finally, RevMan 5.3 was utilized for meta-analysis. Twenty-nine (29) RCTs involving 2396 participants and 5 types of arthritis were included. The arthritis included Ankylosing Spondylitis (AS), Rheumatoid Arthritis (RA), Osteoarthritis (OA), Juvenile idiopathic arthritis (JIA) and gout/hyperuricemia. Curcumin and Curcuma longa Extract were administered in doses ranging from 120 mg to 1500 mg for a duration of 4-36 weeks. In general, Curcumin and Curcuma longa Extract showed safety in all studies and improved the severity of inflammation and pain levels in these arthritis patients. However, more RCTs are needed in the future to elucidate the effect of Curcumin and Curcuma longa Extract supplementation in patients with arthritis, including RA, OA, AS and JIA. Curcumin and Curcuma longa Extract may improve symptoms and inflammation levels in people with arthritis. However, due to the low quality and small quantity of RCTs, the conclusions need to be interpreted carefully.",
+      "pub_date": "2022-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Arthritis, Rheumatoid",
+        "Curcuma",
+        "Curcumin",
+        "Humans",
+        "Inflammation",
+        "Osteoarthritis",
+        "Plant Extracts",
+        "Randomized Controlled Trials as Topic",
+        "Spondylitis, Ankylosing"
+      ],
+      "chemicals": [
+        "Plant Extracts",
+        "turmeric extract",
+        "Curcumin"
+      ],
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Liuting Zeng",
+        "Tiejun Yang",
+        "Kailin Yang",
+        "Ganpeng Yu",
+        "Jun Li",
+        "Wang Xiang"
+      ]
+    },
+    {
+      "pmid": "39835510",
+      "title": "Ankylosing Spondylitis and Cancer Risk.",
+      "abstract": "Chronic inflammation is a major characteristic of ankylosing spondylitis (AS) and is closely related to the mechanisms of cancer development. Persistent inflammatory responses can lead to DNA damage, gene mutations, and abnormal cell proliferation, all of which may increase the risk of cancer. We also explore the use of biologic therapy of AS and their potential cancer risks.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Biological Products",
+        "Neoplasms",
+        "Risk Assessment",
+        "Risk Factors",
+        "Spondylitis, Ankylosing"
+      ],
+      "chemicals": [
+        "Biological Products"
+      ],
+      "journal": "International journal of rheumatic diseases",
+      "authors": [
+        "Shiuan-Tzuen Su",
+        "Yung-Heng Lee",
+        "Po-Cheng Shih",
+        "James C-C Wei"
+      ]
+    },
+    {
+      "pmid": "37984057",
+      "title": "Upadacitinib: Mechanism of action, clinical, and translational science.",
+      "abstract": "Upadacitinib is a selective Janus kinase (JAK) inhibitor which is approved by the US Food and Drug Administration, the European Medicines Agency, as well as other agencies around the world for the treatment of several chronic inflammatory diseases, including rheumatic, dermatologic, and gastrointestinal diseases. Through inhibition of JAK, upadacitinib inhibits phosphorylation of downstream effector proteins, which consequently inhibits cytokine signaling for key pathways involved in inflammatory diseases. Upadacitinib more potently inhibits JAK1 than other JAK isoforms. The pharmacokinetics, pharmacodynamics, efficacy, and safety of upadacitinib were characterized in many clinical trials, which demonstrated the superiority of upadacitinib treatment over placebo or an active comparator in rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, non-radiographic axial spondyloarthritis, atopic dermatitis, Crohn's disease, and ulcerative colitis. The safety profile of upadacitinib supported a favorable benefit-risk profile across all the approved indications. In this article, we review the mechanism of action of upadacitinib and describe how the JAK-STAT (Janus kinase-signal transducers and activators of transcription) pathway is involved in the pathogenesis of several chronic and progressive immune-mediated inflammatory diseases. In addition, this review also provides an overview of key clinical trials that were conducted as well as relevant data which supported the clinical development of upadacitinib and informed the recommended dose(s) in each of the approved indications.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "United States",
+        "Humans",
+        "Translational Science, Biomedical",
+        "Arthritis, Rheumatoid",
+        "Spondylitis, Ankylosing",
+        "Janus Kinase Inhibitors",
+        "Janus Kinases",
+        "Heterocyclic Compounds, 3-Ring"
+      ],
+      "chemicals": [
+        "upadacitinib",
+        "Janus Kinase Inhibitors",
+        "Janus Kinases",
+        "Heterocyclic Compounds, 3-Ring"
+      ],
+      "journal": "Clinical and translational science",
+      "authors": [
+        "Mohamed-Eslam F Mohamed",
+        "Sumit Bhatnagar",
+        "Julie M Parmentier",
+        "Priscila Nakasato",
+        "Peter Wung"
+      ]
+    },
+    {
+      "pmid": "36688014",
+      "title": "Seronegative spondyloarthropathy-associated inflammatory bowel disease.",
+      "abstract": "Seronegative spondyloarthropathy (SpA) usually starts in the third decade of life with negative rheumatoid factor, human leukocyte antigen-B27 genetic marker and clinical features of spinal and peripheral arthritis, dactylitis, enthesitis and extra-articular manifestations (EAMs). Cases can be classified as ankylosing spondylitis, psoriatic arthritis, reactive arthritis, enteropathic arthritis, or juvenile-onset spondyloarthritis. Joint and gut inflammation is intricately linked in SpA and inflammatory bowel disease (IBD), with shared genetic and immunopathogenic mechanisms. IBD is a common EAM in SpA patients, while extraintestinal manifestations in IBD patients mostly affect the joints. Although individual protocols are available for the management of each disease, the standard therapeutic guidelines of SpA-associated IBD patients remain to be established. Nonsteroidal anti-inflammatory drugs are recommended as initial therapy of peripheral and axial SpA, whereas their use is controversial in IBD due to associated disease flares. Conventional disease-modifying anti-rheumatic drugs are beneficial for peripheral arthritis but ineffective for axial SpA or IBD therapy. Anti-tumor necrosis factor monoclonal antibodies are effective medications with indicated use in SpA and IBD, and a drug of choice for treating SpA-associated IBD. Janus kinase inhibitors, approved for treating SpA and ulcerative colitis, are promising therapeutics in SpA coexistent with ulcerative colitis. A tight collaboration between gastroenterologists and rheumatologists with mutual referral from early accurate diagnosis to appropriately prompt therapy is required in this complex clinical scenario.",
+      "pub_date": "2023-01-21",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colitis, Ulcerative",
+        "Spondylarthropathies",
+        "Spondylarthritis",
+        "Inflammatory Bowel Diseases",
+        "Tumor Necrosis Factor-alpha",
+        "Spondylitis, Ankylosing"
+      ],
+      "chemicals": [
+        "Tumor Necrosis Factor-alpha"
+      ],
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Chrong-Reen Wang",
+        "Hung-Wen Tsai"
+      ]
+    },
+    {
+      "pmid": "36754548",
+      "title": "Safety profile of upadacitinib over 15 000 patient-years across rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis and atopic dermatitis.",
+      "abstract": "To evaluate the long-term safety profile for upadacitinib across rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS) and atopic dermatitis (AD). Safety data from clinical trials of upadacitinib 15\u2009mg and upadacitinib 30\u2009mg (AD only) for treating RA, PsA, AS and AD as of 30 June 2021 were analysed; some RA and PsA studies included adalimumab and methotrexate as active comparators. Treatment-emergent adverse events (TEAEs) were presented by disease as exposure-adjusted event rates per 100 patient years (E/100 PY). The analysis included 6991 patients (RA, n=3209; PsA, n=907; AS, n=182; AD, n=2693) who received at least one dose of upadacitinib, representing 15 425 PY of exposure (maximum duration 2.75-5.45 years) across diseases. Rates (E/100 PY) of any TEAE (205.5-278.1) and TEAE leading to discontinuation (4.5-5.4) were similar across diseases; serious TEAEs were numerically higher in patients with RA and PsA. Rates of herpes zoster (1.6-3.6), non-melanoma skin cancer (0-0.8) and elevations in creatine phosphokinase levels (4.4-7.9) were higher with upadacitinib than with active comparators in the RA and PsA populations. Deaths (0-0.8), serious infections (0-3.9), major adverse cardiovascular events (0-0.4), venous thromboembolism (<0.1-0.4) and malignancies (0.3-1.4) were observed, with rates generally lowest in AS and AD. Increased rates of acne were observed in patients with AD only. Findings from this analysis demonstrate that upadacitinib is generally well tolerated with observed differences in safety profiles likely reflective of varying patient characteristics across RA, PsA, AS and AD populations. NCT02675426, NCT02706951, NCT02706847, NCT02629159, NCT02706873, NCT03086343, NCT03104374, NCT03104400, NCT03178487, NCT03569293, NCT03568318 and NCT03607422.",
+      "pub_date": "2023-02-01",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antirheumatic Agents",
+        "Arthritis, Psoriatic",
+        "Arthritis, Rheumatoid",
+        "Dermatitis, Atopic",
+        "Spondylitis, Ankylosing",
+        "Heterocyclic Compounds, 3-Ring"
+      ],
+      "chemicals": [
+        "Antirheumatic Agents",
+        "upadacitinib",
+        "Heterocyclic Compounds, 3-Ring"
+      ],
+      "journal": "RMD open",
+      "authors": [
+        "Gerd R Burmester",
+        "Stanley B Cohen",
+        "Kevin L Winthrop",
+        "Peter Nash",
+        "Alan D Irvine",
+        "Atul Deodhar"
+      ]
+    },
+    {
+      "pmid": "35788492",
+      "title": "Efficacy and safety of upadacitinib for active ankylosing spondylitis refractory to biological therapy: a double-blind, randomised, placebo-controlled phase 3 trial.",
+      "abstract": "To evaluate the efficacy and safety of upadacitinib, a Janus kinase inhibitor, in patients with active ankylosing spondylitis (AS) with an inadequate response (IR) to biological disease-modifying antirheumatic drugs (bDMARDs). Adults with active AS who met modified New York criteria and had an IR to one or two bDMARDs (tumour necrosis factor or interleukin-17 inhibitors) were randomised 1:1 to oral upadacitinib 15 mg once daily or placebo. The primary endpoint was Assessment of SpondyloArthritis international Society 40 (ASAS40) response at week 14. Sequentially tested secondary endpoints included Ankylosing Spondylitis Disease Activity score, Spondyloarthritis Research Consortium of Canada MRI spine inflammation score, total back pain, nocturnal back pain, Bath Ankylosing Spondylitis Functional Index, Bath Ankylosing Spondylitis Metrology Index and Maastricht Ankylosing Spondylitis Enthesitis Score. Results are reported from the 14-week double-blind treatment period. A total of 420 patients with active AS were randomised (upadacitinib 15 mg, n=211; placebo, n=209). Significantly more patients achieved the primary endpoint of ASAS40 at week 14 with upadacitinib vs placebo (45% vs 18%; p<0.0001). Statistically significant improvements were observed with upadacitinib vs placebo for all multiplicity-controlled secondary endpoints (p<0.0001). Adverse events were reported for 41% of upadacitinib-treated and 37% of placebo-treated patients through week 14. No events of malignancy, major adverse cardiovascular events, venous thromboembolism or deaths were reported with upadacitinib. Upadacitinib 15 mg was significantly more effective than placebo over 14 weeks of treatment in bDMARD-IR patients with active AS. No new safety risks were identified with upadacitinib. NCT04169373.",
+      "pub_date": "2022-11-01",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Antirheumatic Agents",
+        "Biological Therapy",
+        "Double-Blind Method",
+        "Heterocyclic Compounds, 3-Ring",
+        "Humans",
+        "Interleukin-17",
+        "Janus Kinase Inhibitors",
+        "Spondylarthritis",
+        "Spondylitis, Ankylosing",
+        "Treatment Outcome",
+        "Tumor Necrosis Factors"
+      ],
+      "chemicals": [
+        "Antirheumatic Agents",
+        "Heterocyclic Compounds, 3-Ring",
+        "Interleukin-17",
+        "Janus Kinase Inhibitors",
+        "Tumor Necrosis Factors",
+        "upadacitinib"
+      ],
+      "journal": "Annals of the rheumatic diseases",
+      "authors": [
+        "D\u00e9sir\u00e9e van der Heijde",
+        "Xenofon Baraliakos",
+        "Joachim Sieper",
+        "Atul Deodhar",
+        "Robert D Inman",
+        "Hideto Kameda"
+      ]
+    },
+    {
+      "pmid": "39533349",
+      "title": "Efficacy and safety of upadacitinib in patients with active ankylosing spondylitis refractory to biologic therapy: 2-year clinical and radiographic results from the open-label extension of the SELECT-AXIS 2 study.",
+      "abstract": "The efficacy and safety of upadacitinib in patients with ankylosing spondylitis (AS) and inadequate response/intolerance to biologic disease-modifying antirheumatic drugs (bDMARD-IR) were evaluated through 1 year in the SELECT-AXIS 2 study. Here, we assess 2-year efficacy, safety, and imaging outcomes in SELECT-AXIS 2. Patients who received continuous upadacitinib, and those who switched from placebo to upadacitinib at week 14, could enter the open-label extension (OLE). Efficacy endpoints included Assessment of SpondyloArthritis international Society (ASAS) and Axial Spondyloarthritis Disease Activity Score (ASDAS) responses, and changes from baseline in measures of disease activity, back pain, function, and quality of life. Radiographic progression was evaluated using the modified Stoke Ankylosing Spondylitis Spinal Score (mSASSS). As observed (AO) and AO with non-responder imputation (AO-NRI) analyses were used for binary endpoints; AO with mixed-effects model for repeated measures (AO-MMRM) for continuous endpoints; and AO-analysis of covariance for mSASSS. Treatment-emergent adverse events (TEAEs) in patients receiving\u2009\u2265\u20091 upadacitinib dose through week 104 are presented as events (E)/100 patient-years (PY). Subgroup analyses were performed by prior tumor necrosis factor/interleukin-17 inhibitor exposure and bDMARD lack of efficacy/intolerance. Of 420 patients who entered the bDMARD-IR AS study, 409 entered the OLE, and 331 (continuous upadacitinib, n\u2009=\u2009163; placebo to upadacitinib, n\u2009=\u2009168) completed week 104. Improvements in efficacy measures were sustained through the OLE, with similar response rates between the continuous upadacitinib and placebo to upadacitinib groups at week 104. At week 104, 64.9% and 61.7% of patients, respectively, had achieved ASAS 40% response (AO-NRI). Mean changes from baseline were similar between the two groups at week 104 across measures (ASDAS: -2.1 and -2.0; total back pain: -4.9 and -4.6, respectively; AO-MMRM). Over 93.0% of patients showed no radiographic progression (mSASSS mean change from baseline\u2009<\u20092) at week 104. The overall TEAE rate was 165.2 E/100 PY, with low rates of major adverse cardiovascular and venous thromboembolic events (0.3 E/100 PY each). Upadacitinib efficacy, including very low rates of radiographic progression, was demonstrated through 104 weeks in treatment-refractory patients with active AS. Treatment was well tolerated, with no newly identified safety signals. NCT04169373.",
+      "pub_date": "2024-11-12",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Spondylitis, Ankylosing",
+        "Adult",
+        "Heterocyclic Compounds, 3-Ring",
+        "Middle Aged",
+        "Antirheumatic Agents",
+        "Treatment Outcome",
+        "Double-Blind Method",
+        "Biological Products"
+      ],
+      "chemicals": [
+        "upadacitinib",
+        "Heterocyclic Compounds, 3-Ring",
+        "Antirheumatic Agents",
+        "Biological Products"
+      ],
+      "journal": "Arthritis research & therapy",
+      "authors": [
+        "Xenofon Baraliakos",
+        "D\u00e9sir\u00e9e van der Heijde",
+        "Joachim Sieper",
+        "Robert Davies Inman",
+        "Hideto Kameda",
+        "Walter Peter Maksymowych"
+      ]
+    },
+    {
+      "pmid": "36649967",
+      "title": "Efficacy and safety of bimekizumab in axial spondyloarthritis: results of two parallel phase 3 randomised controlled trials.",
+      "abstract": "Axial spondyloarthritis (axSpA) is a complex disease with diverse manifestations, for which new treatment options are warranted. BE MOBILE 1 (non-radiographic (nr)-axSpA) and BE MOBILE 2 (radiographic axSpA (r-axSpA)) are double-blind, phase 3 trials designed to evaluate efficacy and safety of bimekizumab, a novel dual interleukin (IL)-17A and IL-17F inhibitor, across the axSpA spectrum. In parallel 52-week trials, patients with active disease were randomised 1:1 (nr-axSpA) or 2:1 (r-axSpA) to bimekizumab 160\u2009mg every 4 weeks:placebo. From week 16, all patients received bimekizumab 160\u2009mg every 4 weeks. Primary (Assessment of SpondyloArthritis international Society \u226540% improvement (ASAS40)) and secondary endpoints were assessed at week 16. Here, efficacy and treatment-emergent adverse events (TEAEs) are reported up to week 24. 254 patients with nr-axSpA and 332 with r-axSpA were randomised. At week 16, primary (ASAS40, nr-axSpA: 47.7% bimekizumab vs 21.4% placebo; r-axSpA: 44.8% vs 22.5%; p<0.001) and all ranked secondary endpoints were met in both trials. ASAS40 responses were similar across TNFi-na\u00efve and TNFi-inadequate responder patients. Improvements were observed in Ankylosing Spondylitis Disease Activity Score (ASDAS) states and objective measures of inflammation, including high-sensitivity C-reactive protein (hs-CRP) and MRI of the sacroiliac joints and spine. Most frequent TEAEs with bimekizumab (>3%) included nasopharyngitis, upper respiratory tract infection, pharyngitis, diarrhoea, headache and oral candidiasis. More fungal infections (all localised) were observed with bimekizumab vs placebo; no major adverse cardiovascular events (MACE) or active tuberculosis were reported. Incidence of uveitis and adjudicated inflammatory bowel disease was low. Dual inhibition of IL-17A and IL-17F with bimekizumab resulted in significant and rapid improvements in efficacy outcomes vs placebo and was well tolerated in patients with nr-axSpA and r-axSpA.",
+      "pub_date": "2023-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Interleukin-17",
+        "Non-Radiographic Axial Spondyloarthritis",
+        "Treatment Outcome",
+        "Spondylitis, Ankylosing",
+        "Spondylarthritis",
+        "Double-Blind Method",
+        "Randomized Controlled Trials as Topic",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "chemicals": [
+        "Interleukin-17",
+        "bimekizumab",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "Annals of the rheumatic diseases",
+      "authors": [
+        "D\u00e9sir\u00e9e van der Heijde",
+        "Atul Deodhar",
+        "Xenofon Baraliakos",
+        "Matthew A Brown",
+        "Hiroaki Dobashi",
+        "Maxime Dougados"
+      ]
+    },
+    {
+      "pmid": "35185872",
+      "title": "Indole-3-Acetic Acid Alters Intestinal Microbiota and Alleviates Ankylosing Spondylitis in Mice.",
+      "abstract": "Ankylosing spondylitis (AS) is a systemic, chronic, and inflammatory autoimmune disease associated with the disorder of intestinal microbiota. Unfortunately, effective therapies for AS are lacking. Recent evidence has indicated that indole-3-acetic acid (IAA), an important microbial tryptophan metabolite, can modulate intestinal homeostasis and suppress inflammatory responses. However, reports have not examined the",
+      "pub_date": "2022-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Anti-Inflammatory Agents",
+        "Cytokines",
+        "Disease Models, Animal",
+        "Female",
+        "Gastrointestinal Microbiome",
+        "Indoleacetic Acids",
+        "Intestinal Mucosa",
+        "Mice",
+        "Mice, Inbred BALB C",
+        "Proteoglycans",
+        "Spondylitis, Ankylosing",
+        "T-Lymphocytes, Regulatory",
+        "Th17 Cells"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents",
+        "Cytokines",
+        "Indoleacetic Acids",
+        "Proteoglycans",
+        "indoleacetic acid"
+      ],
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Jun Shen",
+        "Lianjun Yang",
+        "Ke You",
+        "Tao Chen",
+        "Zhihai Su",
+        "Zhifei Cui"
+      ]
+    },
+    {
+      "pmid": "38566994",
+      "title": "Proteome-wide Mendelian randomization identifies therapeutic targets for ankylosing spondylitis.",
+      "abstract": "Ankylosing Spondylitis (AS) is a chronic inflammatory disorder which can lead to considerable pain and disability. Mendelian randomization (MR) has been extensively applied for repurposing licensed drugs and uncovering new therapeutic targets. Our objective is to pinpoint innovative therapeutic protein targets for AS and assess the potential adverse effects of druggable proteins. We conducted a comprehensive proteome-wide MR study to assess the causal relationships between plasma proteins and the risk of AS. The plasma proteins were sourced from the UK Biobank Pharma Proteomics Project (UKB-PPP) database, encompassing GWAS data for 2,940 plasma proteins. Additionally, GWAS data for AS were extracted from the R9 version of the Finnish database, including 2,860 patients and 270,964 controls. The colocalization analysis was executed to identify shared causal variants between plasma proteins and AS. Finally, we examined the potential adverse effects of druggable proteins for AS therapy by conducting a phenome-wide association study (PheWAS) utilizing the extensive Finnish database in version R9, encompassing 2,272 phenotypes categorized into 46 groups. The findings revealed a positive genetic association between the predicted plasma levels of six proteins and an elevated risk of AS, while two proteins exhibited an inverse association with AS risk ( Our investigation examined the causal connections between six plasma proteins and AS, providing a comprehensive understanding of potential therapeutic targets.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Proteome",
+        "Mendelian Randomization Analysis",
+        "Spondylitis, Ankylosing",
+        "Cell Cycle Proteins",
+        "Blood Proteins",
+        "Tacrolimus Binding Proteins"
+      ],
+      "chemicals": [
+        "Proteome",
+        "Cell Cycle Proteins",
+        "Blood Proteins",
+        "FKBPL protein, human",
+        "Tacrolimus Binding Proteins"
+      ],
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Wenlong Zhao",
+        "Peng Fang",
+        "Chengteng Lai",
+        "Xiaoyu Xu",
+        "Yang Wang",
+        "Hao Liu"
+      ]
+    },
+    {
+      "pmid": "37872223",
+      "title": "Targeted depletion of TRBV9",
+      "abstract": "Autoimmunity is intrinsically driven by memory T and B cell clones inappropriately targeted at self-antigens. Selective depletion or suppression of self-reactive T cells remains a holy grail of autoimmune therapy, but disease-associated T cell receptors (TCRs) and cognate antigenic epitopes remained elusive. A TRBV9-containing CD8",
+      "pub_date": "2023-11-01",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Epitopes",
+        "HLA-B Antigens",
+        "Immunotherapy",
+        "Receptors, Antigen, T-Cell",
+        "Spondylitis, Ankylosing",
+        "T-Lymphocytes",
+        "Tumor Necrosis Factor Inhibitors"
+      ],
+      "chemicals": [
+        "Epitopes",
+        "HLA-B Antigens",
+        "Receptors, Antigen, T-Cell",
+        "Tumor Necrosis Factor Inhibitors"
+      ],
+      "journal": "Nature medicine",
+      "authors": [
+        "Olga V Britanova",
+        "Kseniia R Lupyr",
+        "Dmitry B Staroverov",
+        "Irina A Shagina",
+        "Alexey A Aleksandrov",
+        "Yakov Y Ustyugov"
+      ]
+    }
+  ]
+}

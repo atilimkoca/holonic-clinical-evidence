@@ -1,0 +1,104 @@
+# =============================================================================
+# FULL FOUR-LAYER HOLON EXAMPLE 1/3 — DiseaseHolon (Hypertension)
+# §2.1 worked example + report appendix ("3 tam holon örneği, dört katman ile").
+#
+# Serialised as TriG so each of the four holon layers is an explicit named
+# graph (interior / boundary / projection / context). Linked to the REAL MeSH
+# descriptor D006973 (Hypertension) fetched in §2.6, tying the example to the
+# OWL→SHACL work.
+# =============================================================================
+
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix prov:   <http://www.w3.org/ns/prov#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+@prefix oed:    <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oesrc:  <https://example.org/openevidence/sources/> .
+@prefix oeevt:  <https://example.org/openevidence/events/> .
+@prefix mesh:   <http://id.nlm.nih.gov/mesh/> .
+
+# --- Holon declaration (4 layers) --------------------------------------------
+
+oed:hypertension a holon:DiseaseHolon ;
+    rdfs:label "Disease Holon: Hypertension"@en ;
+    holon:hasInteriorGraph   oed:hypertension-int ;
+    holon:hasBoundaryGraph   oed:hypertension-bnd ;
+    holon:hasProjectionGraph oed:hypertension-prj ;
+    holon:hasContextGraph    oed:hypertension-ctx .
+
+# --- INTERIOR: symptoms, treatments, drugs, prognosis, evidence --------------
+
+oed:hypertension-int {
+    oed:hypertension a oe:Disease ;
+        rdfs:label "Hypertension"@en ;
+        oe:icdCode "I10" ;
+        rdfs:seeAlso mesh:D006973 ;                         # real MeSH link
+        oe:prognosis "Good with treatment; risk of stroke/MI if uncontrolled" ;
+        oe:hasSymptom oe:headache , oe:dizziness .
+
+    oe:headache  a oe:Symptom ; rdfs:label "Headache"@en .
+    oe:dizziness a oe:Symptom ; rdfs:label "Dizziness"@en .
+
+    # Reified evidence assertion (materialised RDF 1.2 form).
+    oedrug:lisinopril oe:treats oed:hypertension .
+    oeevt:dh_ev1 a holon:EvidenceAssertion ;
+        rdf:reifies oeevt:dh_ev1-tt ;
+        holon:confidence "0.92"^^xsd:decimal ;
+        holon:evidenceLevel "Level-1A" ;
+        holon:assessedBy oe:openevidence_ai ;
+        holon:recordedOn "2025-03-15"^^xsd:date ;
+        oe:cites oesrc:pubmed_34567890 ;
+        oe:effectiveness "effective" ;
+        holon:inHolon oed:hypertension .
+    oeevt:dh_ev1-tt rdf:subject oedrug:lisinopril ;
+        rdf:predicate oe:treats ; rdf:object oed:hypertension .
+
+    oedrug:lisinopril a oe:Drug ; rdfs:label "Lisinopril"@en ; oe:atcCode "C09AA03" .
+    oesrc:pubmed_34567890 a oe:SystematicReview ;
+        rdfs:label "SR: ACE inhibitors in HTN"@en ; oe:pubmedId "34567890" ;
+        oe:publicationDate "2024-06-01"^^xsd:date .
+}
+
+# --- BOUNDARY: diagnostic criteria (as SHACL) + entry events -----------------
+
+oed:hypertension-bnd {
+    # Diagnostic criterion expressed as a SHACL shape on the boundary: a patient
+    # entity is admitted into this disease holon only if systolic BP >= 130.
+    oed:HypertensionDiagnosisShape a sh:NodeShape ;
+        sh:targetClass oe:PatientObservation ;
+        sh:property [
+            sh:path oe:systolicBP ;
+            sh:datatype xsd:integer ;
+            sh:minInclusive 130 ;
+            sh:severity sh:Violation ;
+            sh:message "Hypertension diagnosis requires systolic BP >= 130 mmHg." ;
+        ] .
+
+    oeevt:dh_entry1 a holon:EntityEntry ;
+        holon:entity oedrug:lisinopril ;
+        holon:entryMode "evidence-linked" .
+}
+
+# --- PROJECTION: outward disease profile summary -----------------------------
+
+oed:hypertension-prj {
+    oed:hypertension holon:narrativeFunction
+        "Chronic elevated arterial pressure; first-line therapy ACEi/ARB + CCB/thiazide"@en ;
+        holon:summaryConfidence "0.90"^^xsd:decimal ;
+        holon:prerequisiteFor oed:hypertensive_crisis .
+}
+
+# --- CONTEXT: provenance + classification system -----------------------------
+
+oed:hypertension-ctx {
+    oed:hypertension prov:wasAttributedTo oe:openevidence_ai ;
+        prov:generatedAtTime "2025-03-15T10:30:00Z"^^xsd:dateTime ;
+        prov:wasDerivedFrom mesh:D006973 ;
+        rdfs:comment "Classification: ICD-10 I10; MeSH D006973 (tree C14.907.489)."@en .
+
+    oe:openevidence_ai a prov:Agent ; rdfs:label "OpenEvidence AI System"@en .
+}

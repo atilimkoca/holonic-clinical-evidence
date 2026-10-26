@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_addison_disease_safety a holon:EntityEntry ;
+    holon:entity oed:addison_disease ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_addison_disease_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_addison_disease_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.39 ;
+    holon:evidenceLevel "Level-4" ;
+    holon:inHolon oeq:q_addison_disease_safety ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:32192601 .
+
+oedrug:prednisone oe:causesSideEffect oesym:fatigue .
+
+oeevt:ev_q_addison_disease_safety-tt rdf:object oesym:fatigue ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:prednisone .
+
+oeq:q_addison_disease_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Addison Disease with p"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.33 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_addison_disease_safety-bnd ;
+    holon:hasContextGraph oeq:q_addison_disease_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_addison_disease_safety-int ;
+    holon:hasProjectionGraph oeq:q_addison_disease_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Addison Disease with prednisone."^^xsd:string ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.39 ;
+    oe:aboutDisease oed:addison_disease ;
+    oe:answerText "Evidence from 4 sources informs management of Addison Disease."^^xsd:string ;
+    oe:belongsToSpecialty "Endocrinology" ;
+    oe:cites oesrc:12536360,
+        oesrc:17077949,
+        oesrc:31791082,
+        oesrc:32192601 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Addison Disease with prednisone?"^^xsd:string .
+

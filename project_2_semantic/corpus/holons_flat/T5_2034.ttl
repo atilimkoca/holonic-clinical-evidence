@@ -1,0 +1,87 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oe:symptom2034 a oe:Symptom ;
+    rdfs:label "Symptom-2034"@en .
+
+oeevt:ev2034_0 a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev2034_0-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.79 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q2034 ;
+    holon:recordedOn "2020-06-01"^^xsd:date ;
+    oe:cites oesrc:src2034 ;
+    oe:effectiveness "effective" .
+
+oeevt:ev2034_1 a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev2034_1-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.83 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q2034 ;
+    holon:recordedOn "2020-06-01"^^xsd:date ;
+    oe:cites oesrc:src2034 ;
+    oe:effectiveness "effective" .
+
+oeevt:ev2034_partner a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev2034_partner-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.82 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q2034_partner ;
+    holon:recordedOn "2021-01-01"^^xsd:date ;
+    oe:cites oesrc:src2034 ;
+    oe:effectiveness "ineffective" .
+
+oeevt:ev2034_0-tt rdf:object oed:disease2034 ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:drug2034 .
+
+oeevt:ev2034_1-tt rdf:object oed:disease2034 ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:drug2034 .
+
+oeevt:ev2034_partner-tt rdf:object oed:disease2034 ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:drug2034 .
+
+oeq:q2034_partner a holon:ClinicalQuestionHolon ;
+    holon:narrativeFunction "Contradicts the first holon"@en ;
+    holon:summaryConfidence 0.80 ;
+    oe:answerText "Evidence suggests no benefit."^^xsd:string ;
+    oe:belongsToSpecialty "Cardiology" ;
+    oe:questionText "Is Drug-2034 effective for Disease-2034?"^^xsd:string .
+
+oeq:q2034 a holon:ClinicalQuestionHolon ;
+    rdfs:label "Holon 2034"@en ;
+    holon:narrativeFunction "Establishes Drug-2034 as first-line for Disease-2034"@en ;
+    holon:summaryConfidence 0.85 ;
+    oe:answerText "Drug-2034 is recommended as first-line therapy."^^xsd:string ;
+    oe:belongsToSpecialty "Cardiology" ;
+    oe:questionText "What is the first-line treatment for Disease-2034?"^^xsd:string .
+
+oedrug:drug2034 a oe:Drug ;
+    rdfs:label "Drug-2034"@en ;
+    oe:approvalDate "2010-01-01"^^xsd:date ;
+    oe:atcCode "C09AA03"^^xsd:string ;
+    oe:treats oed:disease2034 .
+
+oesrc:src2034 a oe:SystematicReview ;
+    rdfs:label "Source-2034"@en ;
+    oe:publicationDate "2018-01-01"^^xsd:date ;
+    oe:pubmedId "30002034"^^xsd:string .
+
+oed:disease2034 a oe:Disease ;
+    rdfs:label "Disease-2034"@en ;
+    oe:firstDescribedDate "1990-01-01"^^xsd:date ;
+    oe:icdCode "I10"^^xsd:string .
+

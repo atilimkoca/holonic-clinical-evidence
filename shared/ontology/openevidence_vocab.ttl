@@ -1,0 +1,184 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
+@prefix schema: <https://schema.org/> .
+@prefix dct:    <http://purl.org/dc/terms/> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# OPENEVIDENCE DOMAIN VOCABULARY
+# Domain-specific classes and properties for medical evidence modeling
+# =============================================================================
+
+# --- Core Medical Entity Classes ----------------------------------------------
+
+oe:Disease a owl:Class ;
+    rdfs:label "Disease"@en ;
+    rdfs:comment "A medical condition or disease entity."@en .
+
+oe:Drug a owl:Class ;
+    rdfs:label "Drug"@en ;
+    rdfs:comment "A pharmaceutical substance."@en .
+
+oe:Symptom a owl:Class ;
+    rdfs:label "Symptom"@en ;
+    rdfs:comment "A clinical symptom or sign."@en .
+
+oe:Treatment a owl:Class ;
+    rdfs:label "Treatment"@en ;
+    rdfs:comment "A therapeutic intervention."@en .
+
+oe:ClinicalQuestion a owl:Class ;
+    rdfs:label "Clinical Question"@en ;
+    rdfs:comment "A clinical question posed to the OpenEvidence system."@en .
+
+oe:EvidenceSource a owl:Class ;
+    rdfs:label "Evidence Source"@en ;
+    rdfs:comment "A published source of clinical evidence (journal, trial, etc.)."@en .
+
+oe:Author a owl:Class ;
+    rdfs:label "Author"@en ;
+    rdfs:comment "An author of a clinical evidence source."@en .
+
+oe:ClinicalTrial a owl:Class ;
+    rdfs:subClassOf oe:EvidenceSource ;
+    rdfs:label "Clinical Trial"@en .
+
+oe:SystematicReview a owl:Class ;
+    rdfs:subClassOf oe:EvidenceSource ;
+    rdfs:label "Systematic Review"@en .
+
+oe:MetaAnalysis a owl:Class ;
+    rdfs:subClassOf oe:EvidenceSource ;
+    rdfs:label "Meta-Analysis"@en .
+
+oe:CaseReport a owl:Class ;
+    rdfs:subClassOf oe:EvidenceSource ;
+    rdfs:label "Case Report"@en .
+
+# --- Evidence Level Hierarchy -------------------------------------------------
+
+oe:EvidenceLevel a owl:Class ;
+    rdfs:label "Evidence Level"@en .
+
+oe:Level1A a oe:EvidenceLevel ;
+    rdfs:label "Level 1A - Systematic Review of RCTs"@en ;
+    oe:rank 1 .
+
+oe:Level1B a oe:EvidenceLevel ;
+    rdfs:label "Level 1B - Individual RCT"@en ;
+    oe:rank 2 .
+
+oe:Level2A a oe:EvidenceLevel ;
+    rdfs:label "Level 2A - Systematic Review of Cohort Studies"@en ;
+    oe:rank 3 .
+
+oe:Level2B a oe:EvidenceLevel ;
+    rdfs:label "Level 2B - Individual Cohort Study"@en ;
+    oe:rank 4 .
+
+oe:Level3 a oe:EvidenceLevel ;
+    rdfs:label "Level 3 - Case-Control Studies"@en ;
+    oe:rank 5 .
+
+oe:Level4 a oe:EvidenceLevel ;
+    rdfs:label "Level 4 - Case Series"@en ;
+    oe:rank 6 .
+
+oe:Level5 a oe:EvidenceLevel ;
+    rdfs:label "Level 5 - Expert Opinion"@en ;
+    oe:rank 7 .
+
+# --- Core Relationships -------------------------------------------------------
+
+oe:treats a owl:ObjectProperty ;
+    rdfs:domain oe:Drug ;
+    rdfs:range oe:Disease ;
+    rdfs:label "treats"@en .
+
+oe:causesSideEffect a owl:ObjectProperty ;
+    rdfs:domain oe:Drug ;
+    rdfs:range oe:Symptom ;
+    rdfs:label "causes side effect"@en .
+
+oe:hasSymptom a owl:ObjectProperty ;
+    rdfs:domain oe:Disease ;
+    rdfs:range oe:Symptom ;
+    rdfs:label "has symptom"@en .
+
+oe:contraindicatedWith a owl:ObjectProperty ;
+    rdfs:domain oe:Drug ;
+    rdfs:range oe:Drug ;
+    rdfs:label "contraindicated with"@en .
+
+oe:hasAnswer a owl:ObjectProperty ;
+    rdfs:domain oe:ClinicalQuestion ;
+    rdfs:label "has answer"@en .
+
+oe:cites a owl:ObjectProperty ;
+    rdfs:range oe:EvidenceSource ;
+    rdfs:label "cites"@en .
+
+oe:supports a owl:ObjectProperty ;
+    rdfs:label "supports"@en ;
+    rdfs:comment "Evidence supports a claim."@en .
+
+oe:contradicts a owl:ObjectProperty ;
+    rdfs:label "contradicts"@en ;
+    rdfs:comment "Evidence contradicts a claim."@en .
+
+oe:supersedes a owl:ObjectProperty ;
+    rdfs:label "supersedes"@en ;
+    rdfs:comment "Newer evidence supersedes older evidence."@en .
+
+oe:relatedTo a owl:ObjectProperty ;
+    rdfs:label "related to"@en .
+
+oe:belongsToSpecialty a owl:ObjectProperty ;
+    rdfs:domain oe:ClinicalQuestion ;
+    rdfs:label "belongs to specialty"@en .
+
+# --- Data Properties ----------------------------------------------------------
+
+oe:rank a owl:DatatypeProperty ;
+    rdfs:range xsd:integer ;
+    rdfs:label "rank"@en .
+
+oe:pubmedId a owl:DatatypeProperty ;
+    rdfs:range xsd:string ;
+    rdfs:label "PubMed ID"@en .
+
+oe:doi a owl:DatatypeProperty ;
+    rdfs:range xsd:string ;
+    rdfs:label "DOI"@en .
+
+oe:questionText a owl:DatatypeProperty ;
+    rdfs:domain oe:ClinicalQuestion ;
+    rdfs:range xsd:string ;
+    rdfs:label "question text"@en .
+
+oe:answerText a owl:DatatypeProperty ;
+    rdfs:range xsd:string ;
+    rdfs:label "answer text"@en .
+
+oe:icdCode a owl:DatatypeProperty ;
+    rdfs:domain oe:Disease ;
+    rdfs:range xsd:string ;
+    rdfs:label "ICD code"@en .
+
+oe:atcCode a owl:DatatypeProperty ;
+    rdfs:domain oe:Drug ;
+    rdfs:range xsd:string ;
+    rdfs:label "ATC code"@en .
+
+oe:sampleSize a owl:DatatypeProperty ;
+    rdfs:domain oe:ClinicalTrial ;
+    rdfs:range xsd:integer ;
+    rdfs:label "sample size"@en .
+
+oe:publicationDate a owl:DatatypeProperty ;
+    rdfs:range xsd:date ;
+    rdfs:label "publication date"@en .

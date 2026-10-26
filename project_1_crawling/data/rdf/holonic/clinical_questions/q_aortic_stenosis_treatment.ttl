@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_aortic_stenosis_treatment a holon:EntityEntry ;
+    holon:entity oed:aortic_stenosis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_aortic_stenosis_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_aortic_stenosis_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.92 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_aortic_stenosis_treatment ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:38739079 ;
+    oe:effectiveness "effective" .
+
+oedrug:furosemide oe:treats oed:aortic_stenosis .
+
+oeevt:ev_q_aortic_stenosis_treatment-tt rdf:object oed:aortic_stenosis ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:furosemide .
+
+oeq:q_aortic_stenosis_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Aortic Stenosis?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.41 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_aortic_stenosis_treatment-bnd ;
+    holon:hasContextGraph oeq:q_aortic_stenosis_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_aortic_stenosis_treatment-int ;
+    holon:hasProjectionGraph oeq:q_aortic_stenosis_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Aortic Stenosis with furosemide."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_aortic_stenosis_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.92 ;
+    oe:aboutDisease oed:aortic_stenosis ;
+    oe:answerText "One of the major determinants of exercise intolerance and limiting symptoms among patients with obstructive hypertrophic cardiomyopathy (HCM) is an elevated intracardiac pressure resulting from left ventricular outflow tract obstruction. Aficamten is an oral selective cardiac myosin inhibitor that reduces left ventricular outflow tract gradients by mitigating cardiac hypercontractility."^^xsd:string ;
+    oe:belongsToSpecialty "Cardiology" ;
+    oe:cites oesrc:35583875,
+        oesrc:37966402,
+        oesrc:38739079,
+        oesrc:39656785 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Aortic Stenosis?"^^xsd:string .
+

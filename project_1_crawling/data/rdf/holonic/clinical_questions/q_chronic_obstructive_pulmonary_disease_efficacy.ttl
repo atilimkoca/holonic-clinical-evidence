@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_chronic_obstructive_pulmonary_disease_efficacy a holon:EntityEntry ;
+    holon:entity oed:chronic_obstructive_pulmonary_disease ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_chronic_obstructive_pulmonary_disease_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_chronic_obstructive_pulmonary_disease_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.81 ;
+    holon:evidenceLevel "Level-2A" ;
+    holon:inHolon oeq:q_chronic_obstructive_pulmonary_disease_efficacy ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    oe:cites oesrc:40622686 ;
+    oe:effectiveness "effective" .
+
+oedrug:tiotropium oe:treats oed:chronic_obstructive_pulmonary_disease .
+
+oeevt:ev_q_chronic_obstructive_pulmonary_disease_efficacy-tt rdf:object oed:chronic_obstructive_pulmonary_disease ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:tiotropium .
+
+oeq:q_chronic_obstructive_pulmonary_disease_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is tiotropium compared with other agents for Chronic Obstructive Pulmonary D"@en ;
+    prov:generatedAtTime "2026-04-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.54 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_chronic_obstructive_pulmonary_disease_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_chronic_obstructive_pulmonary_disease_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_chronic_obstructive_pulmonary_disease_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_chronic_obstructive_pulmonary_disease_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Chronic Obstructive Pulmonary Disease with tiotropium."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_chronic_obstructive_pulmonary_disease_safety ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    holon:summaryConfidence 0.81 ;
+    oe:aboutDisease oed:chronic_obstructive_pulmonary_disease ;
+    oe:answerText "Transitioning from metered-dose inhalers to propellant-free dry-powder inhalers could reduce health care-related greenhouse gas emissions, but the clinical difference in outcomes that may be associated with this switch is uncertain. To evaluate the clinical difference in outcomes associated with a July 2021 Veterans Health Administration (VHA) formulary change that replaced budesonide-formoterol metered-dose inhaler with fluticasone-salmeterol dry-powder inhaler for the treatment of chronic obstructive pulmonary disease and asthma."^^xsd:string ;
+    oe:belongsToSpecialty "Pulmonology" ;
+    oe:cites oesrc:40388086,
+        oesrc:40622686,
+        oesrc:40669599,
+        oesrc:40835544 ;
+    oe:questionText "How effective is tiotropium compared with other agents for Chronic Obstructive Pulmonary Disease?"^^xsd:string .
+

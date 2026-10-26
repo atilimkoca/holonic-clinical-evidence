@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_aortic_stenosis_efficacy> a holon:ClinicalQuestionHolon .\n\n<https://example.org/openevidence/drugs/furosemide> oe:treats <https://example.org/openevidence/diseases/aortic_stenosis> .\n<https://example.org/openevidence/generated/ev_q_aortic_stenosis_efficacy_0> a holon:EvidenceAssertion ;\n    rdf:reifies <https://example.org/openevidence/generated/ev_q_aortic_stenosis_efficacy_0-tt> ;\n    holon:confidence \"0.56\"^^xsd:decimal ;\n    holon:evidenceLevel \"Level-3\" ;\n    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;\n    holon:recordedOn \"2026-12-31\"^^xsd:date ;\n    oe:cites <https://example.org/openevidence/sources/37495229> ;\n    holon:inHolon <https://example.org/openevidence/questions/q_aortic_stenosis_efficacy> ;\n    oe:effectiveness \"effective\" .\n<https://example.org/openevidence/generated/ev_q_aortic_stenosis_efficacy_0-tt> rdf:subject <https://example.org/openevidence/drugs/furosemide> ;\n    rdf:predicate oe:treats ;\n    rdf:object <https://example.org/openevidence/diseases/aortic_stenosis> .\n\n",
+  "provider": "mock",
+  "model": "mock-deterministic-v1",
+  "prompt_tokens": 616,
+  "completion_tokens": 369,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 985
+}

@@ -1,0 +1,135 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# SET C — FLAT RDF + CONTEXT-AWARE SPARQL  ·  FILE 3/3: CONTEXT-AWARE CHECKS
+#
+# The reviewer-requested middle ground between Set A and Set B. The DATA is the
+# flat export (corpus/holons_flat, see src/flatten_corpus.py): all assertional
+# facts survive, but the holonic organisational structure — layer graphs,
+# boundary events, and the per-holon boundary admission rule
+# holon:evidenceQualityThreshold — is gone.
+#
+# These four constraints re-express Set A's context-dependent checks (T4a,
+# T4b, T5, T6) as far as flat data permits:
+#
+#   * T4a must HARD-CODE the schema-level default threshold (0.50). The
+#     per-holon rule is not representable in flat RDF; the constant works on
+#     this corpus only because every holon happens to declare 0.50. A single
+#     holon with a stricter or looser boundary would silently mis-validate —
+#     that is the representational cost this set makes measurable.
+#   * T4b needs only assertion-local fields and ports directly.
+#   * T5 and T6 remain expressible only because the flat export retains the
+#     holon-membership FACT (holon:inHolon) and the aggregate summary fact —
+#     they exploit leftover context facts, not a boundary contract.
+# =============================================================================
+
+oe:_ctxPrefixes
+    sh:declare [ sh:prefix "holon" ; sh:namespace "https://example.org/holon#"^^xsd:anyURI ] ;
+    sh:declare [ sh:prefix "oe"    ; sh:namespace "https://example.org/openevidence#"^^xsd:anyURI ] ;
+    sh:declare [ sh:prefix "xsd"   ; sh:namespace "http://www.w3.org/2001/XMLSchema#"^^xsd:anyURI ] ;
+    sh:declare [ sh:prefix "rdf"   ; sh:namespace "http://www.w3.org/1999/02/22-rdf-syntax-ns#"^^xsd:anyURI ] .
+
+# --- T4a (flat approximation): 'effective' below the SCHEMA-LEVEL threshold --
+# Set A reads the threshold from the holon boundary ($this holon:inHolon ?h .
+# ?h holon:evidenceQualityThreshold ?thr). Flat RDF has no such rule, so the
+# corpus-wide default 0.50 is fixed INSIDE the shape.
+
+oe:CtxT4_SchemaThresholdShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T4 semantic (flat): 'effective' claim below the schema-level quality threshold (0.50)." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_ctxPrefixes ;
+        sh:select """
+            SELECT $this (holon:confidence AS ?path) (?conf AS ?value)
+            WHERE {
+                $this holon:confidence ?conf .
+                $this oe:effectiveness "effective" .
+                FILTER (?conf < 0.50)
+            }
+        """ ;
+    ] .
+
+# --- T4b: evidence-level / confidence gross mismatch (assertion-local) -------
+# Identical logic to Set A's oe:T4_LevelConfidenceShape minus the holon
+# membership pattern, which the check never actually needed.
+
+oe:CtxT4_LevelConfidenceShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T4 semantic (flat): evidence level and confidence are grossly inconsistent." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_ctxPrefixes ;
+        sh:select """
+            SELECT $this (holon:confidence AS ?path) (?conf AS ?value)
+            WHERE {
+                $this holon:evidenceLevel ?lvl .
+                $this holon:confidence ?conf .
+                FILTER (
+                    ( (?lvl = "Level-1A" || ?lvl = "Level-1B") && ?conf < 0.4 ) ||
+                    ( (?lvl = "Level-5"  || ?lvl = "Level-4")  && ?conf > 0.9 )
+                )
+            }
+        """ ;
+    ] .
+
+# --- T5: contradictory effectiveness across membership groups ----------------
+# Works on flat data ONLY because holon:inHolon survives the export as a plain
+# membership fact; the query treats it as an arbitrary grouping attribute.
+
+oe:CtxT5_ContradictionShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T5 cross-group (flat): contradictory effectiveness for the same drug-disease pair." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_ctxPrefixes ;
+        sh:select """
+            SELECT $this (oe:effectiveness AS ?path) (?eff1 AS ?value)
+            WHERE {
+                $this rdf:reifies ?tt1 .
+                ?tt1 rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?disease .
+                $this oe:effectiveness ?eff1 .
+                $this holon:inHolon ?h1 .
+
+                ?other rdf:reifies ?tt2 .
+                ?tt2 rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?disease .
+                ?other oe:effectiveness ?eff2 .
+                ?other holon:inHolon ?h2 .
+
+                FILTER (?h1 != ?h2 && ?eff1 = "effective" && ?eff2 = "ineffective")
+            }
+        """ ;
+    ] .
+
+# --- T6: aggregate summary diverges from member evidence ---------------------
+# Same caveat as T5: the aggregate summary and membership survive as facts, so
+# the coherence check is expressible; there is no projection LAYER to anchor
+# it to, so nothing marks holon:aggregateConfidence as the value other holons
+# are entitled to consume.
+
+oe:CtxT6_AggregateCoherenceShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceChainHolon ;
+    sh:sparql [
+        sh:message "T6 aggregate (flat): summary confidence diverges from member evidence." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_ctxPrefixes ;
+        sh:select """
+            SELECT $this (holon:aggregateConfidence AS ?path) (?agg AS ?value)
+            WHERE {
+                $this holon:aggregateConfidence ?agg .
+                {
+                    SELECT $this (AVG(?c) AS ?mean)
+                    WHERE {
+                        ?a holon:inHolon $this .
+                        ?a holon:confidence ?c .
+                    } GROUP BY $this
+                }
+                FILTER (ABS(?agg - ?mean) > 0.25)
+            }
+        """ ;
+    ] .

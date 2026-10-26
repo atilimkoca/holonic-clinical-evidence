@@ -1,0 +1,377 @@
+{
+  "disease": "Obsessive-Compulsive Disorder",
+  "slug": "obsessive_compulsive_disorder",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "30101713",
+      "title": "Psychopharmacological Treatment of Obsessive-Compulsive Disorder (OCD).",
+      "abstract": "Obsessive-compulsive disorder (OCD) is associated with affective and cognitive symptoms causing personal distress and reduced global functioning. These have considerable societal costs due to healthcare service utilization. Our aim was to assess the efficacy of pharmacological interventions in OCD and clinical guidelines, providing a comprehensive overview of this field. We searched the PubMed database for papers dealing with drug treatment of OCD, with a specific focus on clinical guidelines, treatments with antidepressants, antipsychotics, mood stabilizers, off-label medications, and pharmacogenomics. Prolonged administration of selective serotonin reuptake inhibitors (SSRIs) is most effective. Better results can be obtained with a SSRI combined with cognitive behavioral therapy (CBT) or the similarly oriented exposure and response prevention (ERP). Refractory OCD could be treated with different strategies, including a switch to another SSRI or clomipramine, or augmentation with an atypical antipsychotic. The addition of medications other than antipsychotics or intravenous antidepressant administration needs further investigation, as the evidence is inconsistent. Pharmacogenomics and personalization of therapy could reduce treatment resistance. SSRI/clomipramine in combination with CBT/ERP is associated with the optimal response compared to each treatment alone or to other treatments. New strategies for refractory OCD are needed. The role of pharmacogenomics could become preponderant in the coming years.",
+      "pub_date": "2019-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Antidepressive Agents",
+        "Antidepressive Agents, Second-Generation",
+        "Antipsychotic Agents",
+        "Cognitive Behavioral Therapy",
+        "Combined Modality Therapy",
+        "Drug Therapy, Combination",
+        "Guidelines as Topic",
+        "Humans",
+        "Obsessive-Compulsive Disorder",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antidepressive Agents",
+        "Antidepressive Agents, Second-Generation",
+        "Antipsychotic Agents",
+        "Selective Serotonin Reuptake Inhibitors"
+      ],
+      "journal": "Current neuropharmacology",
+      "authors": [
+        "Antonio Del Casale",
+        "Serena Sorice",
+        "Alessio Padovano",
+        "Maurizio Simmaco",
+        "Stefano Ferracuti",
+        "Dorian A Lamis"
+      ]
+    },
+    {
+      "pmid": "35900161",
+      "title": "World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part I: Anxiety disorders.",
+      "abstract": "This is the third version of the guideline of the World Federation of Societies of Biological Psychiatry (WFSBP) Task Force for the Pharmacological Treatment of Anxiety, Obsessive-Compulsive and Posttraumatic Stress Disorders (published in 2002, revised in 2008). A consensus panel of 33 international experts representing 22 countries developed recommendations based on efficacy and acceptability of available treatments. In total, 1007 RCTs for the treatment of these disorders in adults, adolescents, and children with medications, psychotherapy and other non-pharmacological interventions were evaluated, applying the same rigorous methods that are standard for the assessment of medications. This paper, Part I, contains recommendations for the treatment of panic disorder/agoraphobia (PDA), generalised anxiety disorder (GAD), social anxiety disorder (SAD), specific phobias, mixed anxiety disorders in children and adolescents, separation anxiety and selective mutism. Selective serotonin reuptake inhibitors (SSRI) and serotonin-norepinephrine reuptake inhibitors (SNRIs) are first-line medications. Cognitive behavioural therapy (CBT) is the first-line psychotherapy for anxiety disorders. The expert panel also made recommendations for patients not responding to standard treatments and recommendations against interventions with insufficient evidence. It is the goal of this initiative to provide treatment guidance for these disorders that has validity throughout the world.",
+      "pub_date": "2023-02-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Adolescent",
+        "Child",
+        "Humans",
+        "Stress Disorders, Post-Traumatic",
+        "Biological Psychiatry",
+        "Anxiety Disorders",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Anxiety",
+        "Obsessive-Compulsive Disorder"
+      ],
+      "chemicals": [
+        "Selective Serotonin Reuptake Inhibitors"
+      ],
+      "journal": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+      "authors": [
+        "Borwin Bandelow",
+        "Christer Allgulander",
+        "David S Baldwin",
+        "Daniel Lucas da Concei\u00e7\u00e3o Costa",
+        "Damiaan Denys",
+        "Nesrin Dilbaz"
+      ]
+    },
+    {
+      "pmid": "36368186",
+      "title": "Treatment-resistant OCD: Pharmacotherapies in adults.",
+      "abstract": "Serotonin reuptake inhibitor (SRI) medications are well established as first-line pharmacotherapeutic treatment for Obsessive-Compulsive Disorder (OCD). However, despite the excellent safety profile and demonstrated efficacy of these medications, a substantial proportion of individuals with OCD fail to attain sufficient benefit from SRIs. In this narrative review, we discuss clinical features of OCD that have been associated with poorer response to SRIs, and we present pharmacotherapeutic interventions that have been explored as augmenting or alternative treatments for treatment-resistant OCD. We additionally highlight non-SRI interventions for OCD that are currently under investigation. Pharmacotherapeutic interventions were identified via expert consensus. To assess the evidence base for individual pharmacotherapies, targeted searches for relevant English-language publications were performed on standard biomedical research databases, including MEDLINE. Information relevant to ongoing registered clinical trials in OCD was obtained by search of ClinicalTrials.gov. Pharmacotherapies are grouped for review in accordance with the general principles of Neuroscience-based Nomenclature (NbN). Clinical features of OCD that may suggest poorer response to SRI treatment include early age of onset, severity of illness, duration of untreated illness, and the presence of symmetry/ordering or hoarding-related symptoms. Based on evolving pathophysiologic models of OCD, diverse agents engaging serotonin, dopamine, norepinephrine, glutamate, and anti-inflammatory pathways have been explored as alternative or adjunctive therapies for treatment-resistant OCD and have at least preliminary evidence of efficacy. Medications with dopamine antagonist activity remain the most robustly evidence-based of augmenting interventions, yet dopamine antagonists benefit only a minority of those who try them and carry elevated risks of adverse effects. Interventions targeting glutamatergic and anti-inflammatory pathways are less well evidenced, but may offer more favorable benefit to risk profiles. Ongoing research should explore whether specific interventions may benefit individuals with particular features of treatment-resistant OCD.",
+      "pub_date": "2023-01-01",
+      "publication_types": [
+        "Review",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Obsessive-Compulsive Disorder",
+        "Anti-Inflammatory Agents"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents"
+      ],
+      "journal": "Comprehensive psychiatry",
+      "authors": [
+        "Peter J van Roessel",
+        "Giacomo Grassi",
+        "Elias N Aboujaoude",
+        "Jos\u00e9 M Mench\u00f3n",
+        "Michael Van Ameringen",
+        "Carolyn I Rodr\u00edguez"
+      ]
+    },
+    {
+      "pmid": "36815632",
+      "title": "The Gut-Brain Axis and the Microbiome in Anxiety Disorders, Post-Traumatic Stress Disorder and Obsessive-Compulsive Disorder.",
+      "abstract": "A large body of research supports the role of stress in several psychiatric disorders in which anxiety is a prominent symptom. Other research has indicated that the gut microbiome-immune system- brain axis is involved in a large number of disorders and that this axis is affected by various stressors. The focus of the current review is on the following stress-related disorders: generalized anxiety disorder, panic disorder, social anxiety disorder, post-traumatic stress disorder and obsessivecompulsive disorder. Descriptions of systems interacting in the gut-brain axis, microbiome-derived molecules and of pro- and prebiotics are given. Preclinical and clinical studies on the relationship of the gut microbiome to the psychiatric disorders mentioned above are reviewed. Many studies support the role of the gut microbiome in the production of symptoms in these disorders and suggest the potential for pro- and prebiotics for their treatment, but there are also contradictory findings and concerns about the limitations of some of the research that has been done. Matters to be considered in future research include longer-term studies with factors such as sex of the subjects, drug use, comorbidity, ethnicity/ race, environmental effects, diet, and exercise taken into account; appropriate compositions of pro- and prebiotics; the translatability of studies on animal models to clinical situations; and the effects on the gut microbiome of drugs currently used to treat these disorders. Despite these challenges, this is a very active area of research that holds promise for more effective, precision treatment of these stressrelated disorders in the future.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Stress Disorders, Post-Traumatic",
+        "Brain-Gut Axis",
+        "Probiotics",
+        "Microbiota",
+        "Anxiety Disorders",
+        "Obsessive-Compulsive Disorder",
+        "Prebiotics",
+        "Brain"
+      ],
+      "chemicals": [
+        "Prebiotics"
+      ],
+      "journal": "Current neuropharmacology",
+      "authors": [
+        "Marnie MacKay",
+        "Bohan H Yang",
+        "Serdar M Dursun",
+        "Glen B Baker"
+      ]
+    },
+    {
+      "pmid": "34553483",
+      "title": "Role of vitamin D in hair loss: A short review.",
+      "abstract": "Vitamin D, a vitamin and hormone, plays an important role in dermatology and dermatotherapeutics, due to its anti-inflammatory and immunomodulatory properties, and regulation of keratinocyte differentiation and proliferation. It also affects the hair cycle, and its role in hair loss is under constant research. This review aims to give a brief overview of vitamin D biology within the hair follicle, role in the etiopathogenesis, and rationale for supplementation in various alopecias. A PubMed literature search was performed to review relevant current literature and studies investigating the role of vitamin D in the etiopathogenesis, as a supplement and a potential therapeutic modality in hair loss. Vitamin D is intricately involved in various signaling pathways of growth and differentiation of hair follicles. Most studies show an inverse relationship between serum vitamin D levels and non-scarring alopecias such as telogen effluvium, androgenetic alopecia, alopecia areata, and trichotillomania. Vitamin D deficiency is also associated with scarring alopecia. However, conclusive studies to demonstrate the benefit of vitamin D administration in correcting hair loss and managing these conditions are lacking. Hence, further studies are needed before vitamin D can be routinely recommended as a treatment modality in these conditions.",
+      "pub_date": "2021-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Alopecia",
+        "Alopecia Areata",
+        "Hair Follicle",
+        "Humans",
+        "Trichotillomania",
+        "Vitamin D",
+        "Vitamins"
+      ],
+      "chemicals": [
+        "Vitamins",
+        "Vitamin D"
+      ],
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Kriteeka Saini",
+        "Venkataram Mysore"
+      ]
+    },
+    {
+      "pmid": "35325671",
+      "title": "Optimizing first line treatments for adults with OCD.",
+      "abstract": "OCD is characterized by obsessions (recurrent, intrusive, unwanted thoughts, images or impulses and compulsions (repetitive behaviors or mental acts that the individual feels compelled to perform), which can manifest together or separately (Fineberg et al., 2020). NICE guidelines suggest that low intensity psychological treatments (including ERP) is the first line treatment for OCD, and that a \"stepped care\" treatment approach for OCD reserves combination treatment for adults with OCD with severe functional impairment, and for adults without an adequate response to: 1) treatment with an SSRI alone (12\u00a0weeks duration) or 2) CBT (including ERP) alone (NICE, 2005). Existing US treatment guidelines (APA guidelines) suggest that there are three first-line treatments for OCD (SSRI, CBT, SSRI+CBT) and recommends combined treatment for patients with an unsatisfactory response to monotherapy or for patients with severe OCD. Although, systematic review and meta-analysis of studies published in 1993-2014 suggest that combination treatment was not significantly better than CBT plus placebo (Ost et al., 2015), based on data from a recent systematic and meta-analysis which searched the two controlled trials registers maintained by the Cochrane Collaboration Common Mental Disorders group, the combination treatment approach is likely to be more effective than psychotherapeutic interventions alone, at least in severe obsessive-compulsive disorder (Skapinakis et al., 2016a). Based on data from Optimal treatment for OCD study conducted by Fineberg et al., (2018) combined treatment appeared to be the most effective especially when compared to CBT monotherapy, but SSRI monotherapy was found as the most cost effective. In this review we summarize available treatment recommendations.",
+      "pub_date": "2022-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Cognitive Behavioral Therapy",
+        "Combined Modality Therapy",
+        "Compulsive Behavior",
+        "Humans",
+        "Obsessive-Compulsive Disorder",
+        "Treatment Outcome"
+      ],
+      "chemicals": [],
+      "journal": "Comprehensive psychiatry",
+      "authors": [
+        "V Nezgovorova",
+        "J Reid",
+        "N A Fineberg",
+        "E Hollander"
+      ]
+    },
+    {
+      "pmid": "30892151",
+      "title": "Drug Treatment of Trichotillomania (Hair-Pulling Disorder), Excoriation (Skin-picking) Disorder, and Nail-biting (Onychophagia).",
+      "abstract": "Trichotillomania (TTM), excoriation (or skin-picking) disorder and some severe forms of onychophagia are classified under obsessive-compulsive and related disorders. There are different interacting neurotransmitter systems involved in the pathophysiology of impulse-control disorders, implicating noradrenaline, serotonin, dopamine, opioid peptides and glutamate, hence investigators focused on drugs able to act on these transmitters. Our aim was to critically review the efficacy of the drugs employed in impulse-control disorders. We searched for controlled drug trials to treat TTM, excoriation, and/or nail-biting six databases (PubMed, Cochrane, Scopus, CINAHL, PsycINFO/PsycARTICLES, and Web of Science), using the search strategy: (trichotillomania OR \"excoriation disorder\" OR \"face picking\" OR \"skin picking\" OR \"hair pulling\" OR onychophagia OR \"nail-biting\") AND drug treatment on 12 March 2018 for all databases. We followed in our method of identifying relevant literature the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement. SSRIs and clomipramine are considered first-line in TTM. In addition, family members of TTM patients are often affected by obsessive-compulsive spectrum disorders. Other drugs used in the treatment of TTM are lamotrigine, olanzapine, N-Acetylcysteine, inositol, and naltrexone. The treatment of TTM, excoriation disorder and nail-biting is still rather disappointing. Conjectures made from preclinical studies and the relative pathophysiological hypotheses found poor confirmations at a clinical level. There is a need for further studies and the integration of pharmacological and psychotherapeutic. Our results point to the need of integrating personalised medicine principles in the treatment of these patients.",
+      "pub_date": "2019-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Humans",
+        "Nail Biting",
+        "Obsessive-Compulsive Disorder",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Trichotillomania"
+      ],
+      "chemicals": [
+        "Selective Serotonin Reuptake Inhibitors"
+      ],
+      "journal": "Current neuropharmacology",
+      "authors": [
+        "Gabriele Sani",
+        "Ida Gualtieri",
+        "Marco Paolini",
+        "Luca Bonanni",
+        "Edoardo Spinazzola",
+        "Matteo Maggiora"
+      ]
+    },
+    {
+      "pmid": "35316513",
+      "title": "The Potential of N-Acetyl-L-Cysteine (NAC) in the Treatment of Psychiatric Disorders.",
+      "abstract": "N-acetyl-L-cysteine (NAC) is a compound of increasing interest in the treatment of psychiatric disorders. Primarily through its antioxidant, anti-inflammatory, and glutamate modulation activity, NAC has been investigated in the treatment of neurodevelopmental disorders, schizophrenia spectrum disorders, bipolar-related disorders, depressive disorders, anxiety disorders, obsessive compulsive-related disorders, substance-use disorders, neurocognitive disorders, and chronic pain. Whilst there is ample preclinical evidence and theoretical justification for the use of NAC in the treatment of multiple psychiatric disorders, clinical trials in most disorders have yielded mixed results. However, most studies have been underpowered and perhaps too brief, with some evidence of benefit only after months of treatment with NAC. Currently NAC has the most evidence of having a beneficial effect as an adjuvant agent in the negative symptoms of schizophrenia, severe autism, depression, and obsessive compulsive and related disorders. Future research with well-powered studies that are of sufficient length will be critical to better understand the utility of NAC in the treatment of psychiatric disorders.",
+      "pub_date": "2022-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Acetylcysteine",
+        "Anxiety Disorders",
+        "Bipolar Disorder",
+        "Humans",
+        "Obsessive-Compulsive Disorder",
+        "Schizophrenia"
+      ],
+      "chemicals": [
+        "Acetylcysteine"
+      ],
+      "journal": "CNS drugs",
+      "authors": [
+        "Richard C J Bradlow",
+        "Michael Berk",
+        "Peter W Kalivas",
+        "Sudie E Back",
+        "Richard A Kanaan"
+      ]
+    },
+    {
+      "pmid": "35900217",
+      "title": "World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part II: OCD and PTSD.",
+      "abstract": "This is the third version of the guideline of the World Federation of Societies of Biological Psychiatry (WFSBP) Task Force for the Pharmacological Treatment of Anxiety, Obsessive-Compulsive and Posttraumatic Stress Disorders which was published in 2002 and revised in 2008. A consensus panel of 34 international experts representing 22 countries developed recommendations based on efficacy and acceptability of the treatments. In this version, not only medications but also psychotherapies and other non-pharmacological interventions were evaluated, applying the same rigorous methods that are standard for the assessment of medication treatments. The present paper (Part II) contains recommendations based on published randomised controlled trials (RCTs) for the treatment of OCD ( OCD and PTSD can be effectively treated with CBT and medications.",
+      "pub_date": "2023-02-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Adolescent",
+        "Child",
+        "Humans",
+        "Stress Disorders, Post-Traumatic",
+        "Obsessive-Compulsive Disorder",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Biological Psychiatry",
+        "Anxiety Disorders",
+        "Anxiety",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Selective Serotonin Reuptake Inhibitors"
+      ],
+      "journal": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+      "authors": [
+        "Borwin Bandelow",
+        "Christer Allgulander",
+        "David S Baldwin",
+        "Daniel Lucas da Concei\u00e7\u00e3o Costa",
+        "Damiaan Denys",
+        "Nesrin Dilbaz"
+      ]
+    },
+    {
+      "pmid": "35794777",
+      "title": "Comorbidities in Youth with Bipolar Disorder: Clinical Features and Pharmacological Management.",
+      "abstract": "Bipolar Disorder (BD) is a highly comorbid condition, and rates of cooccurring disorders are even higher in youth. Comorbid disorders strongly affect clinical presentation, natural course, prognosis, and treatment. This review focuses on the clinical and treatment implications of the comorbidity between BD and Attention-Deficit/Hyperactivity Disorder, disruptive behavior disorders (Oppositional Defiant Disorder and/or Conduct Disorder), alcohol and substance use disorders, Autism Spectrum Disorder, anxiety disorders, Obsessive-Compulsive Disorder, and eating disorders. These associations define specific conditions which are not simply a sum of different clinical pictures, but occur as distinct and complex combinations with specific developmental pathways over time and selective therapeutic requirements. Pharmacological treatments can improve these clinical pictures by addressing the comorbid conditions, though the same treatments may also worsen BD by inducing manic or depressive switches. The timely identification of BD comorbidities may have relevant clinical implications in terms of symptomatology, course, treatment and outcome. Specific studies addressing the pharmacological management of BD and comorbidities are still scarce, and information is particularly lacking in children and adolescents; for this reason, the present review also included studies conducted on adult samples. Developmentally-sensitive controlled clinical trials are thus warranted to improve the prognosis of these highly complex patients, requiring timely and finely personalized therapies.",
+      "pub_date": "2023-01-01",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Child",
+        "Humans",
+        "Adolescent",
+        "Bipolar Disorder",
+        "Autism Spectrum Disorder",
+        "Comorbidity",
+        "Anxiety Disorders",
+        "Obsessive-Compulsive Disorder",
+        "Attention Deficit Disorder with Hyperactivity"
+      ],
+      "chemicals": [],
+      "journal": "Current neuropharmacology",
+      "authors": [
+        "Gianluca Sesso",
+        "Giulio Emilio Brancati",
+        "Gabriele Masi"
+      ]
+    },
+    {
+      "pmid": "37177823",
+      "title": "Pharmacological augmentation of serotonin reuptake inhibitors in patients with obsessive-compulsive disorder: A network meta-analysis.",
+      "abstract": "The augmentation of serotonin reuptake inhibitors (SRIs) can be achieved by add-on therapy with different pharmacological agents in obsessive-compulsive disorder (OCD) for a better clinical outcome. This network meta-analysis (NMA) was conducted to evaluate and compare the effects of available augmentation agents for SRIs in OCD. The data was extracted from 59 relevant clinical trials after a literature search on MEDLINE/PubMed, Scopus, Cochrane databases and clinical trial registries. PRISMA guidelines were followed in data extraction, analysis and reporting. Random effects Bayesian NMA was done to pool the effects across the interventions for the change in Yale-Brown Obsessive-Compulsive Scale (YBOCS) scoring from baseline to the end of the study. Network graph was built, consistency model was run, node splitting analysis was performed, treatments were ranked as per SUCRA score and meta-regression was done for refractoriness to SRIs and duration of augmentation therapy as the predictor variables. The drugs showing significant reduction in YBOCS scoring were pregabalin (MD:-8.1;95% CrI: -16, -0.43), memantine (MD:-6.2;95% CrI: -9.9, -2.3), lamotrigine (MD:-6;95% CrI: -12, -0.47), ondansetron (MD:-5.7;95% CrI: -11, -0.67), granisetron (MD:-5.6;95% CrI: -11, -0.44), aripiprazole (MD:-5.4;95% CrI:-9.1, -1.6), risperidone (MD:-3.3;95% CrI: -6.4, -0.20) and topiramate (MD:-5.3;95% CrI: -9.6, -0.97). The node-split analysis showed that direct and indirect pooled effect sizes for all comparisons were comparable. Meta-regression showed a statistically non-significant association between YBOCS score reduction with the duration of augmentation therapy, but significant with SRI-refractory status. Finally, the results were sorted based on certainty of evidence. Memantine was found to be most effective augmentation agent for SRIs in OCD, followed by lamotrigine, ondansetron and granisetron with moderate certainty of evidence. The augmentation agents showed better symptom reduction in patients with SRI-refractory OCD in comparison to non-refractory OCD. CRD42022360110.",
+      "pub_date": "2023-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Ondansetron",
+        "Drug Therapy, Combination",
+        "Lamotrigine",
+        "Bayes Theorem",
+        "Granisetron",
+        "Memantine",
+        "Obsessive-Compulsive Disorder",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Selective Serotonin Reuptake Inhibitors",
+        "Ondansetron",
+        "Lamotrigine",
+        "Granisetron",
+        "Memantine"
+      ],
+      "journal": "Acta psychiatrica Scandinavica",
+      "authors": [
+        "Rituparna Maiti",
+        "Archana Mishra",
+        "Anand Srinivasan",
+        "Biswa Ranjan Mishra"
+      ]
+    },
+    {
+      "pmid": "39097816",
+      "title": "Adjuvant and mainstream treatments for depression, schizophrenia, obsessive-compulsive disorder, and cognitive impairment.",
+      "abstract": "",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Editorial",
+        "Introductory Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Obsessive-Compulsive Disorder",
+        "Schizophrenia",
+        "Cognitive Dysfunction",
+        "Depressive Disorder"
+      ],
+      "chemicals": [],
+      "journal": "International journal of psychiatry in medicine",
+      "authors": [
+        "Harold G Koenig"
+      ]
+    }
+  ]
+}

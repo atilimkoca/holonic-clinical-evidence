@@ -1,0 +1,24 @@
+Validation Report
+Conforms: False
+Results (1):
+Constraint Violation in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: oe:ProjectionCoherenceShape
+	Focus Node: oeq:chain2042
+	Value Node: Literal("0.20", datatype=xsd:decimal)
+	Result Path: holon:aggregateConfidence
+	Source Constraint: [ sh:message Literal("T6 projection-interior: projected aggregate confidence diverges from interior evidence.") ; sh:prefixes oe:_prefixes ; sh:select Literal("
+            SELECT $this (holon:aggregateConfidence AS ?path) (?agg AS ?value)
+            WHERE {
+                $this holon:aggregateConfidence ?agg .
+                {
+                    SELECT $this (AVG(?c) AS ?mean)
+                    WHERE {
+                        ?a holon:inHolon $this .
+                        ?a holon:confidence ?c .
+                    } GROUP BY $this
+                }
+                FILTER (ABS(?agg - ?mean) > 0.25)
+            }
+        ") ; sh:severity sh:Violation ]
+	Message: T6 projection-interior: projected aggregate confidence diverges from interior evidence.

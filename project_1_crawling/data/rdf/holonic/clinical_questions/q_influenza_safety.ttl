@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_influenza_safety a holon:EntityEntry ;
+    holon:entity oed:influenza ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_influenza_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_influenza_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.53 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_influenza_safety ;
+    holon:recordedOn "2025-07-01"^^xsd:date ;
+    oe:cites oesrc:40169139 .
+
+oedrug:oseltamivir oe:causesSideEffect oesym:fever .
+
+oeevt:ev_q_influenza_safety-tt rdf:object oesym:fever ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:oseltamivir .
+
+oeq:q_influenza_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Influenza with oseltam"@en ;
+    prov:generatedAtTime "2025-07-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.33 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_influenza_safety-bnd ;
+    holon:hasContextGraph oeq:q_influenza_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_influenza_safety-int ;
+    holon:hasProjectionGraph oeq:q_influenza_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Influenza with oseltamivir."^^xsd:string ;
+    holon:recordedOn "2025-07-01"^^xsd:date ;
+    holon:summaryConfidence 0.53 ;
+    oe:aboutDisease oed:influenza ;
+    oe:answerText "Every year, more than one billion people around the world are infected with influenza, an acute infection of the respiratory tract. Influenza spreads from person to person through air, contaminated hands or objects."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    oe:cites oesrc:39775605,
+        oesrc:39809680,
+        oesrc:39945883,
+        oesrc:40169139 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Influenza with oseltamivir?"^^xsd:string .
+

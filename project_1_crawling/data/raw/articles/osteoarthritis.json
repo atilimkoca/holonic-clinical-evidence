@@ -1,0 +1,429 @@
+{
+  "disease": "Osteoarthritis",
+  "slug": "osteoarthritis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41308124",
+      "title": "Inhibition of 15-hydroxy prostaglandin dehydrogenase promotes cartilage regeneration.",
+      "abstract": "Aging or injury to the joints can lead to cartilage degeneration and osteoarthritis (OA), for which there are limited effective treatments. We found that expression of 15-hydroxy prostaglandin dehydrogenase (15-PGDH) is increased in the articular cartilage of aged or injured mice. Both systemic and local inhibition of 15-PGDH with a small-molecule inhibitor (PGDHi) led to regeneration of articular cartilage and reduction in OA-associated pain. Using single-cell RNA-sequencing and multiplexed immunofluorescence imaging of cartilage, we identified the major chondrocyte subpopulations. Inhibition of 15-PGDH decreased hypertrophic-like chondrocytes expressing 15-PGDH and increased extracellular matrix-synthesizing articular chondrocytes. Cartilage regeneration appears to occur through gene expression changes in preexisting chondrocytes, rather than stem or progenitor cell proliferation. 15-PGDH inhibition could be a potential disease-modifying and regenerative approach for osteoarthritis.",
+      "pub_date": "2026-03-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Cartilage, Articular",
+        "Mice",
+        "Regeneration",
+        "Chondrocytes",
+        "Hydroxyprostaglandin Dehydrogenases",
+        "Osteoarthritis",
+        "Enzyme Inhibitors",
+        "Mice, Inbred C57BL",
+        "Male",
+        "Extracellular Matrix",
+        "Aging"
+      ],
+      "chemicals": [
+        "15-hydroxyprostaglandin dehydrogenase",
+        "Hydroxyprostaglandin Dehydrogenases",
+        "Enzyme Inhibitors"
+      ],
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Mamta Singla",
+        "Yu Xin Wang",
+        "Elena Monti",
+        "Yudhishtar Bedi",
+        "Pranay Agarwal",
+        "Shiqi Su"
+      ]
+    },
+    {
+      "pmid": "41090431",
+      "title": "Retatrutide for the treatment of obesity, obstructive sleep apnea and knee osteoarthritis: Rationale and design of the TRIUMPH registrational clinical trials.",
+      "abstract": "Retatrutide, a novel synthetic molecule, is a triple agonist activating the glucose-dependent insulinotropic polypeptide, glucagon-like peptide-1 and glucagon receptors. The TRIUMPH clinical development program evaluates its safety and efficacy concurrently for the treatment of obesity and two related complications-obstructive sleep apnea (OSA) and knee osteoarthritis (OA). A novel basket trial design simultaneously evaluates retatrutide treatment across these multiple adiposity-related disease states. TRIUMPH consists of four Phase 3, multicenter, randomized, double-blind studies assessing weekly subcutaneous retatrutide compared to placebo, in conjunction with healthy diet and physical activity in over 5800 participants. The four trials consist of two weight management basket trials (TRIUMPH-1 and TRIUMPH-2) with OSA and/or OA protocols nested within the weight management trial; one weight management trial in a population with CVD (TRIUMPH-3); and one stand-alone OA trial (TRIUMPH-4). The primary endpoint for weight management is percent change in body weight, for OSA is change in Apnea-Hypopnea Index and for knee OA includes change in the Western Ontario and McMaster Universities Osteoarthritis Index pain subscale score. The basket trial permits independent analysis of weight management, OSA and OA studies with type I error rate controlled at \u03b1\u2009=\u20090.05, split between the overarching weight management and each basket trial. By recruiting participants with shared disease exposures, the TRIUMPH program will assess the safety and efficacy of retatrutide for the treatment of adults with obesity and two of its common complications-OSA and OA.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Osteoarthritis, Knee",
+        "Sleep Apnea, Obstructive",
+        "Obesity",
+        "Double-Blind Method",
+        "Clinical Trials, Phase III as Topic",
+        "Male",
+        "Middle Aged",
+        "Randomized Controlled Trials as Topic",
+        "Female",
+        "Adult",
+        "Multicenter Studies as Topic",
+        "Fatty Acids",
+        "Peptides"
+      ],
+      "chemicals": [
+        "retatrutide",
+        "Fatty Acids",
+        "Peptides"
+      ],
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": [
+        "Kathryn Giblin",
+        "Lee M Kaplan",
+        "Virend K Somers",
+        "Carel W Le Roux",
+        "David J Hunter",
+        "Qiwei Wu"
+      ]
+    },
+    {
+      "pmid": "41339496",
+      "title": "Osteoarthritis as a systemic disease.",
+      "abstract": "Osteoarthritis (OA) is a painful disorder of the synovial joints characterized by dysfunctional cellular metabolism and extracellular matrix degradation that activates maladaptive repair responses, including pro-inflammatory pathways of innate immunity. OA has historically been viewed as an unavoidable consequence of ageing owing to wear-and-tear of the joint. Most strategies to mitigate OA have primarily focused on the articular cartilage and, more recently, other specific joint tissues, which limits understanding of OA as a systemic disease beyond the joint. Preclinical and clinical data support a paradigm shift in understanding OA as a disease of the whole person, focusing on changes throughout the body that both promote and are caused by OA. This shift provides novel insights into why preclinical research findings have not been successfully translated into clinical therapies. Moreover, a viable strategy for OA drug development could be to treat pain separately from OA structural damage. Challenging classically held views that lack evidence or have been disproven is required for progress. We explore some key emerging questions that should be carefully considered in future OA studies. Adapting and integrating new technologies, techniques, and tools into the rapidly evolving understanding of OA could lead to the development of drugs that might not only treat OA but also provide mechanistic insight into other conditions that result from the dysregulation of systemic factors or from the communication breakdown in inter-organ crosstalk. Such developments would reposition OA researchers from adapting approaches from other fields of science and medicine to leaders in the fight against chronic disease.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Osteoarthritis",
+        "Cartilage, Articular",
+        "Animals"
+      ],
+      "chemicals": [],
+      "journal": "Nature reviews. Rheumatology",
+      "authors": [
+        "Kelsey H Collins",
+        "Ida K Haugen",
+        "Tuhina Neogi",
+        "Farshid Guilak"
+      ]
+    },
+    {
+      "pmid": "40712009",
+      "title": "Genetically engineered chondrocyte-mimetic nanoplatform attenuates osteoarthritis by blocking IL-1\u03b2 and restoring sirtuin-3.",
+      "abstract": "Osteoarthritis (OA) is a multifactorial disease characterized by joint inflammation and cartilage degeneration, with no disease-modifying drugs available. The vicious cycle between the inflammatory microenvironment (inflamed soil) and dysfunctional chondrocytes (degeneration-related seeds) drives the chronic progressive deterioration of OA. Here, we report a genetically engineered chondrocyte-mimetic nanoplatform (termed HKL-GECM@MPNPs) comprising a honokiol (HKL)-loaded mitochondrion-targeting nanoparticle core coated with an interleukin-1 receptor type 2 (IL-1R2)-overexpressing chondrocyte membrane. HKL-GECM@MPNPs fuse with OA chondrocytes, transferring IL-1R2 onto the plasma membrane and reprogramming the inflamed microenvironment through IL-1\u03b2 blockade. Mitochondrion-targeting cores then directly deliver HKL to restore mitochondrial sirtuin-3 in OA chondrocytes, reprogramming the cells' pathological phenotype. Intra-articular injection of HKL-GECM@MPNPs in OA mice reduces inflammation, alleviates joint pain, and mitigates cartilage damage through a synergistic effect. Moreover, HKL-GECM@MPNPs effectively reverse cartilage degeneration in human OA cartilage explants. This approach highlights the potential of HKL-GECM@MPNPs to combine IL-1\u03b2 blockade and mitochondrial sirtuin-3 restoration as a promising strategy for OA treatment.",
+      "pub_date": "2025-07-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Chondrocytes",
+        "Osteoarthritis",
+        "Interleukin-1beta",
+        "Animals",
+        "Humans",
+        "Mice",
+        "Sirtuin 3",
+        "Nanoparticles",
+        "Biphenyl Compounds",
+        "Lignans",
+        "Genetic Engineering",
+        "Disease Models, Animal",
+        "Male",
+        "Mitochondria",
+        "Allyl Compounds",
+        "Phenols"
+      ],
+      "chemicals": [
+        "Interleukin-1beta",
+        "Sirtuin 3",
+        "Biphenyl Compounds",
+        "honokiol",
+        "Lignans",
+        "Allyl Compounds",
+        "Phenols"
+      ],
+      "journal": "Science advances",
+      "authors": [
+        "Caifeng Deng",
+        "Liukang Yu",
+        "Xuan Zhao",
+        "Yuxiao Chen",
+        "Jiabin Mei",
+        "Jie Wei"
+      ]
+    },
+    {
+      "pmid": "41101901",
+      "title": "Traditional Injection Therapy for Osteoarthritis: Do They Work and Are They Safe?",
+      "abstract": "Osteoarthritis is a debilitating joint disease that affects the knee joint most frequently. Conservative treatment options aim to alleviate symptoms of pain while improving function and delaying the need for operative intervention. Corticosteroid injections and hyaluronic acid injections have become the mainstay of conservative treatment options. This article reviews the efficacy and safety of both injections, as well as their utility in the treatment of knee osteoarthritis.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hyaluronic Acid",
+        "Osteoarthritis, Knee",
+        "Injections, Intra-Articular",
+        "Adrenal Cortex Hormones",
+        "Viscosupplements"
+      ],
+      "chemicals": [
+        "Hyaluronic Acid",
+        "Adrenal Cortex Hormones",
+        "Viscosupplements"
+      ],
+      "journal": "Clinics in sports medicine",
+      "authors": [
+        "Matthew Hakim Nasra",
+        "Abhinaba Chatterjee",
+        "Kenneth Zaslav"
+      ]
+    },
+    {
+      "pmid": "41407913",
+      "title": "Denosumab attenuates knee osteoarthritis progression by inhibiting synovial inflammation via the RANK/TRAF6/FSTL1 signalling.",
+      "abstract": "Synovitis has recently been shown to be a critical early stage in development of osteoarthritis (OA), and inhibiting synovitis significantly alleviates OA symptoms. Denosumab, a monoclonal antibody targeting RANKL, previously developed for osteoporosis. Here, we report the effect of denosumab on fibroblast-like synoviocytes (FLSs), attenuating synovitis and consequently OA progression. We first demonstrate that RANKL is highly expressed in the knee synovium of OA mice, as well as in patients. Next, we show that denosumab, injected systemically, accumulates in the synovium and effectively reduces synovitis through RANK/TRAF6/FSTL1 signalling in post-traumatic, inflammatory, and aged OA murine models and a beagle dog OA model, delaying OA progression. Finally, a single-arm clinical trial with primary endpoints of VAS and OKS scores, and secondary endpoints of WOMAC score and adverse events rate, shows that denosumab alleviates synovitis and pain, improving joint function in knee OA patients. These findings provide a translational basis for using denosumab to treat knee OA in the clinic.",
+      "pub_date": "2025-12-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Osteoarthritis, Knee",
+        "Denosumab",
+        "Humans",
+        "Signal Transduction",
+        "Synovitis",
+        "Mice",
+        "RANK Ligand",
+        "Male",
+        "Disease Progression",
+        "Female",
+        "Dogs",
+        "Synovial Membrane",
+        "TNF Receptor-Associated Factor 6",
+        "Receptor Activator of Nuclear Factor-kappa B",
+        "Disease Models, Animal",
+        "Synoviocytes",
+        "Mice, Inbred C57BL",
+        "Aged",
+        "Middle Aged"
+      ],
+      "chemicals": [
+        "Denosumab",
+        "RANK Ligand",
+        "TNF Receptor-Associated Factor 6",
+        "Receptor Activator of Nuclear Factor-kappa B"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Yuxiang Hu",
+        "Wei Chen",
+        "Shenghui Lan",
+        "Chaochang Ming",
+        "Dongdong Xu",
+        "Haitao Li"
+      ]
+    },
+    {
+      "pmid": "40721187",
+      "title": "Current status and future perspectives of research on intra-articular drug delivery systems for osteoarthritis therapy.",
+      "abstract": "Osteoarthritis (OA) is a degenerative joint disease and the leading cause of joint-related disability worldwide. In current clinical treatment approaches, drug therapy remains widely used, primarily through systemic administration of anti-inflammatory drugs and intra-articular injections. However, effective OA treatment remains challenging due to several barriers: the continuous flow of synovial fluid, the dense and negatively charged cartilage matrix, and the resulting poor drug accumulation at target sites. Moreover, rapid drug clearance from the synovial cavity, frequent dosing requirements, and increased risk of adverse effects further limit treatment efficacy. Recent advancements in intra-articular drug delivery systems, constructed from biological, organic, and inorganic materials, have demonstrated significant potential for OA treatment. Leveraging nanotechnology, these systems not only enhance targeted drug delivery to specific lesions but also enable controlled drug release at inflammatory sites through the optimization of nanocarrier design. This review explores the most innovative strategies for intra-articular drug delivery systems and the key challenges associated with this field. We discuss the development and research progress of emerging delivery technologies, including nanoparticles, liposomes, hydrogels, microspheres, and exosomes. Finally, we highlight the current limitations of intra-articular drug delivery systems and their prospects, aiming to provide valuable insights for further research and clinical translation. STATEMENT OF SIGNIFICANCE: Osteoarthritis (OA) involves the progressive degradation of articular cartilage components, such as type II collagen and aggrecan, leading to chronic disability. Traditional treatments (systemic drugs, surgery) face limitations like poor targeting, short half-life, and invasiveness. While intra-articular injections enable localized delivery, rapid clearance, cartilage matrix barriers, and inadequate tissue penetration hinder efficacy. Recent advances in nanomaterials and drug delivery systems offer solutions. Stimulus-responsive nanocarriers enable precise targeting and controlled release in inflammatory microenvironments. Nanoparticles, liposomes, hydrogels, and microspheres enhance drug penetration and retention, overcoming rapid clearance. These innovations improve delivery efficiency and prolong the therapeutic effects, thereby advancing cartilage regeneration and personalized treatment. This review examines novel intra-articular delivery strategies to expedite the clinical translation of nanomaterial-based therapies.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Osteoarthritis",
+        "Drug Delivery Systems",
+        "Injections, Intra-Articular",
+        "Animals",
+        "Nanoparticles"
+      ],
+      "chemicals": [],
+      "journal": "Acta biomaterialia",
+      "authors": [
+        "Mengru Wu",
+        "Zhihao Chen",
+        "Baoqin Song",
+        "Xiu Wang",
+        "Wanjun Liang"
+      ]
+    },
+    {
+      "pmid": "40887466",
+      "title": "The impact of mitochondrial dysfunction on osteoarthritis cartilage: current insights and emerging mitochondria-targeted therapies.",
+      "abstract": "Osteoarthritis (OA) is a degenerative joint disease associated with age, prominently marked by articular cartilage degradation. In OA cartilage, the pathological manifestations show elevated chondrocyte hypertrophy and apoptosis. The mitochondrion serves as key energy supporter in eukaryotic cells and is tightly linked to a myriad of diseases including OA. As age advances, mitochondrial function declines progressively, which leads to an imbalance in chondrocyte energy homeostasis, partially initiating the process of cartilage degeneration. Elevated oxidative stress, impaired mitophagy and mitochondrial dynamics jointly contribute to chondrocyte pathology, with mitochondrial DNA haplogroups, particularly haplogroup J, influencing OA progression. Therapeutic approaches directed at mitochondria have demonstrated remarkable efficacy in treating various diseases, with triphenylphosphonium (TPP) emerging as the most widely utilized molecule. Other strategies encompass Dequalinium (DQA), the Szeto-Schiller (SS) tetrapeptide family, the KLA peptide, and mitochondrial-penetrating peptides (MPP), etc. These molecules share common properties of lipophilicity and positive charge. Through various technological modifications, they are conjugated to nanocarriers, enabling targeted drug delivery to mitochondria. Therapeutic interventions targeting mitochondria offer a hopeful direction for OA treatment. In the future, mitochondria-targeted therapy is anticipated to improve the well-being of life for the majority of OA patients. This review summarizes the link between chondrocyte mitochondrial dysfunction and OA, as well as discusses promising mitochondria-targeted therapies and potential therapeutic compounds.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Osteoarthritis",
+        "Mitochondria",
+        "Cartilage, Articular",
+        "Animals",
+        "Chondrocytes"
+      ],
+      "chemicals": [],
+      "journal": "Bone research",
+      "authors": [
+        "Siyuan Tan",
+        "Yujun Sun",
+        "Shixun Li",
+        "Haoyu Wu",
+        "Yue Ding"
+      ]
+    },
+    {
+      "pmid": "40875519",
+      "title": "Histamine H1 receptor inverse agonists improve structure and pain in an osteoarthritis mouse model.",
+      "abstract": "Osteoarthritis (OA) is the most common joint disease. Controlling the complex pathogenesis is challenging, thus, disease-modifying OA drugs are not available. Forkhead box O (FOXO) transcription factors contribute to cartilage homeostasis through autophagy and oxidative stress resistance. Here, we sought to discover FOXO activators and found that cyproheptadine, a histamine H1 receptor (HRH1) inverse agonist, promoted FOXO3 nuclear translocation and increased FOXO target genes while suppressing inflammation. In a murine OA model, cyproheptadine reduced structural joint tissue damage and pain behaviors. Mechanistically, the inhibition of HRH1 constitutive activity mediated the effects of cyproheptadine on calcium balance between endoplasmic reticulum (ER) and cytoplasm, and FOXO activation was part of this mechanism. The antiinflammatory effect of cyproheptadine involved the inhibition of protein kinase C/NF-\u03baB pathway. HRH1 inhibition also suppressed osteogenesis in mesenchymal stem cells and nerve growth factor expression, which are mechanisms of osteophyte formation and pain behaviors. Moreover, cyproheptadine suppressed ER stress-induced lipogenesis by upregulating insulin-induced gene 1. Our findings suggest that HRH1 constitutive activity controls important OA-promoting mechanisms and indicate that HRH1 inverse agonists are promising drug repurposing candidates for structure and pain improvement in OA.",
+      "pub_date": "2025-11-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Mice",
+        "Osteoarthritis",
+        "Disease Models, Animal",
+        "Receptors, Histamine H1",
+        "Cyproheptadine",
+        "Male",
+        "Pain",
+        "Forkhead Box Protein O3",
+        "Humans",
+        "Drug Inverse Agonism"
+      ],
+      "chemicals": [
+        "Receptors, Histamine H1",
+        "Cyproheptadine",
+        "Forkhead Box Protein O3"
+      ],
+      "journal": "The Journal of clinical investigation",
+      "authors": [
+        "Ichiro Kurakazu",
+        "Merissa Olmer",
+        "Hannah Swahn",
+        "Kevin Myers",
+        "Chelsea Kenvisay",
+        "Yukio Akasaki"
+      ]
+    },
+    {
+      "pmid": "41291434",
+      "title": "Identification of osteoarthritis-related genes and potential drugs based on single cell RNA-seq data.",
+      "abstract": "Osteoarthritis (OA) is a global problem that seriously affects human health. At present, there is still a lack of effective drugs to treat OA. Therefore, we need to find more drugs with preventive and therapeutic effects on OA. In this study, we obtained single-cell RNA sequencing (scRNA-seq) and bulk-RNA seq datasets from Gene Expression Omnibus (GEO). By using high-dimensional weighted correlation network analysis (hdWGCNA), random forest method and protein-protein interaction (PPI) network analyses, five key genes (CXCL8, CCL20, MMP3, BIRC3 and ICAM1) related to OA were identified and the RT-qPCR experiments verified the differential expression of CXCL8, CCL20 and BIRC3 between Triclocarban (TCC) treated zebrafishes and controls. The SAVERUNNER algorithm predicted 42 candidate drugs. Mendelian randomization (MR) of the candidate drugs showed that the increased expression of TUBB1 led to a reduced risk of OA (\u03b2\u2009=\u2009-0.08, P-value\u2009=\u20094.56E-04), while Cabazitaxel (a microtubule dynamics inhibitor commonly used in the treatment of advanced prostate cancer) inhibits the expression of TUBB1, thus increases the risk of OA. Pitavastatin (a statin lipid-lowering drug that can reduce blood lipid levels and the risk of cardiovascular diseases) target genes expression (for HMGCR [Formula: see text]= 0.13, P-value\u2009=\u20092.67E-06, for ITGAL [Formula: see text]= 0.08, P-value\u2009=\u20096.57E-08) leads to an increased risk of OA, while Pitavastatin inhibits the expression of target genes, thus reduces risk of OA. The zebrafish experiments showed that Pitavastatin can increase the joint space of TCC treated OA zebrafish, while Cabazitaxel can decrease the joint space of TCC treated OA zebrafish. The RT-qPCR results of zebrafish verified that Pitavastatin inhibited the expression of HMGCR, while Cabazitaxel inhibited the expression of TUBB1. Our study suggested that Pitavastatin has therapeutic effects on OA, while Cabazitaxel increases the risk of OA.",
+      "pub_date": "2025-11-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Osteoarthritis",
+        "Humans",
+        "Single-Cell Analysis",
+        "Animals",
+        "Protein Interaction Maps",
+        "RNA-Seq",
+        "Gene Expression Profiling",
+        "Gene Regulatory Networks",
+        "Computational Biology",
+        "Gene Expression Regulation"
+      ],
+      "chemicals": [],
+      "journal": "Molecular medicine (Cambridge, Mass.)",
+      "authors": [
+        "Ning Wang",
+        "Kun Liu",
+        "Jia-Li Li",
+        "Wei-Wei Pang",
+        "Fu-Rong Zhang",
+        "Qin Zeng"
+      ]
+    },
+    {
+      "pmid": "41766657",
+      "title": "\u03b1-Ketoglutarate protects against cartilage damage via epigenetically driven metabolic reprogramming in osteoarthritis models.",
+      "abstract": "The link between glutaminolysis and osteoarthritis (OA) has only recently begun to be elucidated. Here, we report the association of obesity- and injury-induced cartilage damage with impaired glutaminolysis in chondrocytes. Defective glutaminolysis triggered the onset and progression of OA, with enhanced catabolism and decreased anabolism. Supplementation of \u03b1-ketoglutarate (\u03b1KG), a key component in glutaminolysis and an epigenetic factor, effectively protected cartilage against degradation in vivo via a TCA cycle- and HIF-1\u03b1-independent manner. Mechanistically, OA pathogenic factors increased H3K27me3 deposition on promoters of key glutaminolysis genes, including Slc1a5 and Gls1, leading to impaired glutaminolysis. Conversely, \u03b1KG facilitated Kdm6b-dependent H3K27me3 demethylation of not only glutaminolysis genes to rescue Gln metabolism but also Ube2o to reverse OA. Elevated Ube2o expression led to TRAF6 ubiquitination and subsequent inhibition of NF-\u03baB signaling, thereby reversing the pathological reprogramming of glycolysis and oxidative phosphorylation and protecting against cartilage destruction. Collectively, these results demonstrated that OA pathogenic factors impair glutaminolysis through epigenetic regulation, which further exacerbate OA. Moreover, \u03b1KG restores metabolic homeostasis and alleviates OA through H3K27me3 demethylation.",
+      "pub_date": "2026-03-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Ketoglutaric Acids",
+        "Animals",
+        "Epigenesis, Genetic",
+        "Osteoarthritis",
+        "Mice",
+        "Chondrocytes",
+        "Jumonji Domain-Containing Histone Demethylases",
+        "Disease Models, Animal",
+        "Humans",
+        "Male",
+        "Cartilage, Articular",
+        "Glutamine",
+        "Metabolic Reprogramming"
+      ],
+      "chemicals": [
+        "Ketoglutaric Acids",
+        "Jumonji Domain-Containing Histone Demethylases",
+        "Kdm6b protein, mouse",
+        "Glutamine"
+      ],
+      "journal": "The Journal of clinical investigation",
+      "authors": [
+        "Shuaijun Li",
+        "Jiefeng Huang",
+        "Ting Shang",
+        "Laiya Lu",
+        "Orion R Fan",
+        "Peisheng Jin"
+      ]
+    },
+    {
+      "pmid": "40631878",
+      "title": "Efficacy and safety of low-dose rosuvastatin/ezetimibe for dyslipidemia in patients with rheumatoid arthritis or osteoarthritis.",
+      "abstract": "Dyslipidemia is an important condition in patients with rheumatoid arthritis (RA). This study compared the effectiveness and safety of a low-dose rosuvastatin/ezetimibe formulation for dyslipidemia in RA and osteoarthritis (OA). This multicenter, open-label, clinical trial enrolled patients >19 years of age with RA and or hand/knee OA who met the prescribing indications for rosuvastatin/ezetimibe in primary hypercholesterolemia or mixed dyslipidemia, and the Korean insurance criteria. All the patients received rosuvastatin 5\u2009mg/ezetimibe 10\u2009mg daily. The primary endpoint was a low-density lipoprotein cholesterol (LDL-C) reduction\u2005\u2265\u200550% from baseline at 12 weeks. The study recruited 162 patients with RA and 119 with OA, of whom 143 RA and 107 OA patients completed the follow-up and were included in the final analysis. Compared to the OA group, the RA group was older, had more females, had a lower body mass index, and a higher C-reactive protein level. The primary endpoint of an LDL-C reduction\u2005\u2265\u200550% from baseline was achieved in 79.7% of the RA group and 70.1% of the OA group (P\u2005=\u2005.1086). No significant differences were found in the safety endpoints. In the univariate linear regression analysis, baseline LDL-C levels were associated with absolute LDL-C reduction. This association remained significant in the multivariate analysis. The Disease Activity Score-28 for RA with erythrocyte sedimentation rate, C-reactive protein level, age, body mass index, current smoking, hypertension, diabetes, and daily glucocorticoid dose, were not significantly associated. The efficacy and safety of low-dose rosuvastatin/ezetimibe in reducing LDL-C levels were similar between the RA and OA groups. Baseline LDL-C level was the sole independent factor associated with LDL-C reduction, irrespective of inflammatory status.",
+      "pub_date": "2025-07-04",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Clinical Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Rosuvastatin Calcium",
+        "Male",
+        "Arthritis, Rheumatoid",
+        "Middle Aged",
+        "Dyslipidemias",
+        "Aged",
+        "Ezetimibe",
+        "Osteoarthritis",
+        "Anticholesteremic Agents",
+        "Treatment Outcome",
+        "Cholesterol, LDL",
+        "Adult"
+      ],
+      "chemicals": [
+        "Rosuvastatin Calcium",
+        "Ezetimibe",
+        "Anticholesteremic Agents",
+        "Cholesterol, LDL"
+      ],
+      "journal": "Medicine",
+      "authors": [
+        "Seong-Hyeok Bak",
+        "Kyung-Ann Lee",
+        "Sung Soo Kim",
+        "Sang-Hyon Kim",
+        "Seung-Jae Hong",
+        "Hyun-Sook Kim"
+      ]
+    }
+  ]
+}

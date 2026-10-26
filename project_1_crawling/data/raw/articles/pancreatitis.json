@@ -1,0 +1,465 @@
+{
+  "disease": "Pancreatitis",
+  "slug": "pancreatitis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "39961335",
+      "title": "Characterization of single neurons reprogrammed by pancreatic cancer.",
+      "abstract": "The peripheral nervous system (PNS) orchestrates organ function in health and disease. Most cancers, including pancreatic ductal adenocarcinoma (PDAC), are infiltrated by PNS neurons, and this contributes to the complex tumour microenvironment (TME)",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Pancreatic Neoplasms",
+        "Single-Cell Analysis",
+        "Mice",
+        "Tumor Microenvironment",
+        "Carcinoma, Pancreatic Ductal",
+        "Humans",
+        "Neurons",
+        "Pancreas",
+        "Female",
+        "Paclitaxel",
+        "Male",
+        "Cellular Reprogramming",
+        "Sensory Receptor Cells",
+        "Transcriptome",
+        "Axons",
+        "Pancreatitis"
+      ],
+      "chemicals": [
+        "Paclitaxel"
+      ],
+      "journal": "Nature",
+      "authors": [
+        "Vera Thiel",
+        "Simon Renders",
+        "Jasper Panten",
+        "Nicolas Dross",
+        "Katharina Bauer",
+        "Daniel Azorin"
+      ]
+    },
+    {
+      "pmid": "38587247",
+      "title": "Olezarsen, Acute Pancreatitis, and Familial Chylomicronemia Syndrome.",
+      "abstract": "Familial chylomicronemia syndrome is a genetic disorder associated with severe hypertriglyceridemia and severe acute pancreatitis. Olezarsen reduces the plasma triglyceride level by reducing hepatic synthesis of apolipoprotein C-III. In a phase 3, double-blind, placebo-controlled trial, we randomly assigned patients with genetically identified familial chylomicronemia syndrome to receive olezarsen at a dose of 80 mg or 50 mg or placebo subcutaneously every 4 weeks for 49 weeks. There were two primary end points: the difference between the 80-mg olezarsen group and the placebo group in the percent change in the fasting triglyceride level from baseline to 6 months, and (to be assessed if the first was significant) the difference between the 50-mg olezarsen group and the placebo group. Secondary end points included the mean percent change from baseline in the apolipoprotein C-III level and an independently adjudicated episode of acute pancreatitis. A total of 66 patients underwent randomization; 22 were assigned to the 80-mg olezarsen group, 21 to the 50-mg olezarsen group, and 23 to the placebo group. At baseline, the mean (\u00b1SD) triglyceride level among the patients was 2630\u00b11315 mg per deciliter, and 71% had a history of acute pancreatitis within the previous 10 years. Triglyceride levels at 6 months were significantly reduced with the 80-mg dose of olezarsen as compared with placebo (-43.5 percentage points; 95% confidence interval [CI], -69.1 to -17.9; P<0.001) but not with the 50-mg dose (-22.4 percentage points; 95% CI, -47.2 to 2.5; P\u2009=\u20090.08). The difference in the mean percent change in the apolipoprotein C-III level from baseline to 6 months in the 80-mg group as compared with the placebo group was -73.7 percentage points (95% CI, -94.6 to -52.8) and between the 50-mg group as compared with the placebo group was -65.5 percentage points (95% CI, -82.6 to -48.3). By 53 weeks, 11 episodes of acute pancreatitis had occurred in the placebo group, and 1 episode had occurred in each olezarsen group (rate ratio [pooled olezarsen groups vs. placebo], 0.12; 95% CI, 0.02 to 0.66). Adverse events of moderate severity that were considered by a trial investigator at the site to be related to the trial drug or placebo occurred in 4 patients in the 80-mg olezarsen group. In patients with familial chylomicronemia syndrome, olezarsen may represent a new therapy to reduce plasma triglyceride levels. (Funded by Ionis Pharmaceuticals; Balance ClinicalTrials.gov number, NCT04568434.).",
+      "pub_date": "2024-05-16",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pancreatitis",
+        "Male",
+        "Female",
+        "Double-Blind Method",
+        "Apolipoprotein C-III",
+        "Middle Aged",
+        "Adult",
+        "Triglycerides",
+        "Hyperlipoproteinemia Type I",
+        "Acute Disease",
+        "Oligonucleotides",
+        "Aged",
+        "Hypertriglyceridemia",
+        "Young Adult"
+      ],
+      "chemicals": [
+        "Apolipoprotein C-III",
+        "Triglycerides",
+        "Oligonucleotides"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Erik S G Stroes",
+        "Veronica J Alexander",
+        "Ewa Karwatowska-Prokopczuk",
+        "Robert A Hegele",
+        "Marcello Arca",
+        "Christie M Ballantyne"
+      ]
+    },
+    {
+      "pmid": "39707927",
+      "title": "Update on Autoimmune Pancreatitis and IgG4-Related Disease.",
+      "abstract": "Autoimmune pancreatitis is an increasingly recognized inflammatory type of subacute pancreatitis; two subtypes of autoimmune pancreatitis have been identified so far: the \"lymphoplasmacytic\" type 1 variant and the \"neutrophilic\" type 2 variant. Type 1 autoimmune pancreatitis represents the most common manifestation of IgG4-related disease, a fibro-inflammatory disorder characterized by elevated IgG4 levels in the serum and affected tissues. Type 2 autoimmune pancreatitis is a pancreas-specific disorder that frequently occurs in the context of inflammatory bowel diseases. Due to the complexity of both diseases, a comprehensive work up with imaging, laboratory, and histological studies is required to achieve a diagnosis and rule out malignancies. Glucocorticoids represent the cornerstone of the treatment, often supported by other immunosuppressive drugs in case of steroid intolerance or aggressive disease. Maintenance treatment is often employed in type 1 autoimmune pancreatitis because of the higher relapse rate compared with type 2 autoimmune pancreatitis. In this review, we summarize the key concept of autoimmune pancreatitis, delve into the differential diagnosis between the two subtypes, and cover the recent relevant research findings and pressing unmet needs.",
+      "pub_date": "2025-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Autoimmune Pancreatitis",
+        "Immunoglobulin G4-Related Disease",
+        "Glucocorticoids",
+        "Diagnosis, Differential",
+        "Immunoglobulin G",
+        "Immunosuppressive Agents",
+        "Pancreas",
+        "Autoimmune Diseases"
+      ],
+      "chemicals": [
+        "Glucocorticoids",
+        "Immunoglobulin G",
+        "Immunosuppressive Agents"
+      ],
+      "journal": "United European gastroenterology journal",
+      "authors": [
+        "Marco Lanzillotta",
+        "Miroslav Vujasinovic",
+        "Johannes-Matthias L\u00f6hr",
+        "Emanuel Della Torre"
+      ]
+    },
+    {
+      "pmid": "37908750",
+      "title": "Safety issues of tirzepatide (pancreatitis and gallbladder or biliary disease) in type 2 diabetes and obesity: a systematic review and meta-analysis.",
+      "abstract": "A systematic review and meta-analysis was conducted to synthesize the available data from clinical trials and assess the safety issues of tirzepatide (pancreatitis and gallbladder or biliary disease) in type 2 diabetes (T2D) and obesity. A systematic search was conducted in three electronic databases, namely Embase, PubMed, and the Cochrane Library, up until March 1, 2023, to identify randomized controlled trials (RCTs) comparing tirzepatide to either placebo or active hypoglycemic drugs in individuals with T2D and obesity. Heterogeneity was assessed using the I2 value and Cochran's Q test, and a fixed effects model was employed to estimate the safety profile of tirzepatide. The safety outcomes of interest, including pancreatitis, the composite of gallbladder or biliary diseases, cholecystitis, and cholelithiasis and biliary diseases, were evaluated. (The composite of gallbladder or biliary diseases incorporated cholelithiasis, cholecystitis, other gallbladder disorders, and biliary diseases.). A total of nine trials with 9871 participants (6828 in the tirzepatide group and 3043 in the control group) that met the pre-specified criteria were included. When compared to all control groups consisting of basal insulin (glargine or degludec), selective GLP1-RA (dulaglutide or semaglutide once weekly), and placebo, an increased risk of pancreatitis was not found to be significantly associated with tirzepatide (RR 1.46, [95% CI] 0.59 to 3.61; I2\u00a0=\u00a00.0%, p = 0.436). For gallbladder or biliary disease, the composite of gallbladder or biliary disease was significantly associated with tirzepatide compared with placebo or basal insulin (RR 1.97, [95% CI] 1.14 to 3.42; I2\u00a0=\u00a00.0%, p = 0.558), but not with the risk of cholelithiasis, cholecystitis or biliary diseases. Based on the currently available data, tirzepatide appears to be safe regarding the risk of pancreatitis. However, the increased risk of the composite outcome of gallbladder or biliary diseases observed in RCTs warrants further attention from physicians in clinical practice. https://www.crd.york.ac.uk/PROSPERO, identifier CRD42023412400.",
+      "pub_date": "2023-01-01",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cholecystitis",
+        "Diabetes Mellitus, Type 2",
+        "Insulin Glargine",
+        "Obesity",
+        "Pancreatitis",
+        "Cholelithiasis",
+        "Tirzepatide"
+      ],
+      "chemicals": [
+        "Tirzepatide",
+        "Insulin Glargine"
+      ],
+      "journal": "Frontiers in endocrinology",
+      "authors": [
+        "Qingyue Zeng",
+        "Jiao Xu",
+        "Xingyu Mu",
+        "Yi Shi",
+        "Hong Fan",
+        "Shuangqing Li"
+      ]
+    },
+    {
+      "pmid": "38516247",
+      "title": "Autoimmune pancreatitis: Cornerstones and future perspectives.",
+      "abstract": "Autoimmune pancreatitis (AIP) is an autoimmune subtype of chronic pancreatitis resulting from the aberrant immune response against the pancreas, leading to inflammation and fibrosis. Although AIP is rare, its incidence is increasing and is often misdiagnosed as other pancreatic diseases. AIP is commonly classified into two types. Type 1 AIP (AIP-1) is typically associated with elevated serum immunoglobulin G4 (IgG4) levels and systemic manifestations, while type 2 AIP is typically a more localized form of the disease, and may coexist with other autoimmune disorders, especially inflammatory bowel diseases. Additionally, there is emerging recognition of a third type (type 3 AIP), which refers to immunotherapy-triggered AIP, although this classification is still gaining acceptance in medical literature. The clinical manifestations of AIP mainly include painless jaundice and weight loss. Elevated serum IgG4 levels are particularly characteristic of AIP-1. Diagnosis relies on a combination of clinical, laboratory, radiological, and histological findings, given the similarity of AIP symptoms to other pancreatic disorders. The mainstay of treatment for AIP is steroid therapy, which is effective in most cases. Severe cases might require additional imm-unosuppressive agents. This review aims to summarize the current knowledge of AIP, encompassing its epidemiology, etiology, clinical presentation, diagnosis, and treatment options. We also address the challenges and controversies in diagnosing and treating AIP, such as distinguishing it from pancreatic cancer and managing long-term treatment, highlighting the need for increased awareness and knowledge of this complex disease.",
+      "pub_date": "2024-02-28",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Autoimmune Pancreatitis",
+        "Autoimmune Diseases",
+        "Immunoglobulin G",
+        "Diagnosis, Differential",
+        "Pancreas"
+      ],
+      "chemicals": [
+        "Immunoglobulin G"
+      ],
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Camilla Gallo",
+        "Giulia Dispinzieri",
+        "Nicola Zucchini",
+        "Pietro Invernizzi",
+        "Sara Massironi"
+      ]
+    },
+    {
+      "pmid": "38838711",
+      "title": "Management of acute-onset pancreatitis in dogs: a Narrative Review.",
+      "abstract": "Acute-onset pancreatitis (AP) is common in dogs and presents diagnostic as well as management challenges. Until recently, the management of AP in dogs was based mainly on supportive and symptomatic care. Identification and management of a possible cause of the disease is important, but the majority of cases are considered to be idiopathic. Fluid therapy that is tailored to the patient's needs is crucial to provide adequate hydration while preventing overhydration. Antiemetics are required to control vomiting and fluid loss and aid in early nutritional support. Recognition and management of complications is also crucial. Furthermore, analgesics for abdominal pain are very important. More recently, pharmaceutical modification of the inflammatory cascade has gained interest and the first specific therapeutic agent for the treatment of AP, fuzapladib sodium, has been shown to have a reasonable expectation of effectiveness in a pilot study. This drug has been licensed for the treatment of clinical signs of AP in dogs in Japan and also has achieved FDA conditional approval in the US. Antibiotics should not be used indiscriminately but are indicated for patients with aspiration pneumonia, gastrointestinal bacterial translocation, or evidence of another bacterial infection. Proton pump inhibitors and plasma are not routinely prescribed in pancreatitis unless specifically indicated. Nonsteroidal anti-inflammatory drugs should be avoided. Corticosteroid therapy, once thought to be contraindicated, may have some beneficial effects, as shown in a single retrospective study. However, further studies are required before their routine use can be recommended. Finally, a surgical approach is rarely indicated.",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Dogs",
+        "Dog Diseases",
+        "Animals",
+        "Pancreatitis",
+        "Acute Disease",
+        "Fluid Therapy"
+      ],
+      "chemicals": [],
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": [
+        "Sue Yee Lim",
+        "Harry Cridge",
+        "David C Twedt",
+        "Hiroshi Ohta",
+        "Takaomi Nuruki",
+        "J\u00f6rg M Steiner"
+      ]
+    },
+    {
+      "pmid": "39225259",
+      "title": "Plozasiran for Managing Persistent Chylomicronemia and Pancreatitis Risk.",
+      "abstract": "Persistent chylomicronemia is a genetic recessive disorder that is classically caused by familial chylomicronemia syndrome (FCS), but it also has multifactorial causes. The disorder is associated with the risk of recurrent acute pancreatitis. Plozasiran is a small interfering RNA that reduces hepatic production of apolipoprotein C-III and circulating triglycerides. In a phase 3 trial, we randomly assigned 75 patients with persistent chylomicronemia (with or without a genetic diagnosis) to receive subcutaneous plozasiran (25 mg or 50 mg) or placebo every 3 months for 12 months. The primary end point was the median percent change from baseline in the fasting triglyceride level at 10 months. Key secondary end points were the percent change in the fasting triglyceride level from baseline to the mean of values at 10 months and 12 months, changes in the fasting apolipoprotein C-III level from baseline to 10 months and 12 months, and the incidence of acute pancreatitis. At baseline, the median triglyceride level was 2044 mg per deciliter. At 10 months, the median change from baseline in the fasting triglyceride level (the primary end point) was -80% in the 25-mg plozasiran group, -78% in the 50-mg plozasiran group, and -17% in the placebo group (P<0.001). The key secondary end points showed better results in the plozasiran groups than in the placebo group, including the incidence of acute pancreatitis (odds ratio, 0.17; 95% confidence interval, 0.03 to 0.94; P\u2009=\u20090.03). The risk of adverse events was similar across groups; the most common adverse events were abdominal pain, nasopharyngitis, headache, and nausea. Severe and serious adverse events were less common with plozasiran than with placebo. Hyperglycemia with plozasiran occurred in some patients with prediabetes or diabetes at baseline. Patients with persistent chylomicronemia who received plozasiran had significantly lower triglyceride levels and a lower incidence of pancreatitis than those who received placebo. (Funded by Arrowhead Pharmaceuticals; PALISADE ClinicalTrials.gov number, NCT05089084.).",
+      "pub_date": "2025-01-09",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Apolipoprotein C-III",
+        "Double-Blind Method",
+        "Hyperlipoproteinemia Type I",
+        "Pancreatitis",
+        "RNA, Small Interfering",
+        "Triglycerides",
+        "Injections, Subcutaneous",
+        "Incidence"
+      ],
+      "chemicals": [
+        "ALN-PCS",
+        "Apolipoprotein C-III",
+        "RNA, Small Interfering",
+        "Triglycerides"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Gerald F Watts",
+        "Robert S Rosenson",
+        "Robert A Hegele",
+        "Ira J Goldberg",
+        "Antonio Gallo",
+        "Ann Mertens"
+      ]
+    },
+    {
+      "pmid": "41211918",
+      "title": "Olezarsen for Managing Severe Hypertriglyceridemia and Pancreatitis Risk.",
+      "abstract": "Patients with severe hypertriglyceridemia have an increased risk of acute pancreatitis. The efficacy and safety of olezarsen, an antisense oligonucleotide targeting apolipoprotein C-III messenger RNA, have not been established in this population. We conducted two double-blind, randomized, placebo-controlled trials (CORE-TIMI 72a and CORE2-TIMI 72b). Patients with severe hypertriglyceridemia were assigned in a 1:1:1 ratio to receive olezarsen at a dose of 50 mg, olezarsen at a dose of 80 mg, or placebo monthly for 12 months. The primary outcome was the percent change in the triglyceride level at 6 months, reported as the difference between each olezarsen dose group and the placebo group (placebo-adjusted change). Secondary lipid outcomes included the percent change in the triglyceride level at 12 months and in apolipoprotein C-III, remnant cholesterol, and non-high-density lipoprotein (non-HDL) cholesterol at 6 months and 12 months. Acute pancreatitis events were assessed across both trials. A total of 1061 patients were included in the primary analysis (617 in the CORE-TIMI 72a trial and 444 in the CORE2-TIMI 72b trial). At 6 months, the placebo-adjusted least-squares mean change from baseline in the triglyceride level was -62.9 percentage points in the olezarsen 50-mg group and -72.2 percentage points in the olezarsen 80-mg group in the CORE-TIMI 72a trial and was -49.2 percentage points in the olezarsen 50-mg group and -54.5 percentage points in the olezarsen 80-mg group in the CORE2-TIMI 72b trial (P<0.001 for all comparisons of olezarsen with placebo). Decreases in the levels of triglycerides, apolipoprotein C-III, remnant cholesterol, and non-HDL cholesterol were greater with olezarsen than with placebo (P<0.001 for all comparisons). The incidence of acute pancreatitis was lower with olezarsen than with placebo (mean rate ratio, 0.15; 95% confidence interval, 0.05 to 0.40; P<0.001). The incidence of any adverse events appeared to be similar across trial groups. Elevations in liver-enzyme levels and thrombocytopenia (platelet count, <100,000 per microliter) were more common with the 80-mg dose of olezarsen, and a dose-dependent increase in the hepatic fat fraction was noted. Among patients with severe hypertriglyceridemia, treatment with olezarsen led to a significantly greater reduction in the triglyceride level at 6 months and in the incidence of acute pancreatitis than placebo. (Funded by Ionis Pharmaceuticals; CORE-TIMI 72a and CORE2-TIMI 72b ClinicalTrials.gov numbers, NCT05079919 and NCT05552326.).",
+      "pub_date": "2026-01-29",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Apolipoprotein C-III",
+        "Cholesterol",
+        "Double-Blind Method",
+        "Hypertriglyceridemia",
+        "Oligonucleotides",
+        "Oligonucleotides, Antisense",
+        "Pancreatitis",
+        "Triglycerides",
+        "Severity of Illness Index",
+        "Treatment Outcome",
+        "Incidence",
+        "Dose-Response Relationship, Drug",
+        "Follow-Up Studies"
+      ],
+      "chemicals": [
+        "Apolipoprotein C-III",
+        "Cholesterol",
+        "Oligonucleotides",
+        "Oligonucleotides, Antisense",
+        "Triglycerides",
+        "olezarsen"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Nicholas A Marston",
+        "Brian A Bergmark",
+        "Veronica J Alexander",
+        "Thomas A Prohaska",
+        "Yu Mi Kang",
+        "Filipe A Moura"
+      ]
+    },
+    {
+      "pmid": "38555109",
+      "title": "Acute pancreatitis due to different semaglutide regimens: An updated meta-analysis.",
+      "abstract": "Some concerns persist regarding the safety of semaglutide. The objective of this updated meta-analysis is to assess the risk of acute pancreatitis with the use of semaglutide, assessing the results according to the different administration regimens. We performed an updated meta-analysis of randomised, placebo-controlled studies of semaglutide therapy that report acute pancreatitis. This meta-analysis was performed in line with PRISMA guidelines. A global and stratified analysis according to the therapeutic scheme used was performed using the fixed-effects model. Twenty-one eligible trials of semaglutide, including 34,721 patients, were identified and considered eligible for the analyses. Globally, semaglutide therapy was not associated with an increased risk of acute pancreatitis (OR 0.7; 95% CI 0.5-1.2, I This updated meta-analysis demonstrates that the use of semaglutide is not associated with an increased risk of acute pancreatitis compared to placebo. In the stratified analysis, the results were similar with the different semaglutide regimens analysed.",
+      "pub_date": "2024-03-01",
+      "publication_types": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Acute Disease",
+        "Glucagon-Like Peptides",
+        "Pancreatitis",
+        "Treatment Outcome",
+        "Randomized Controlled Trials as Topic",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptides",
+        "Semaglutide"
+      ],
+      "journal": "Endocrinologia, diabetes y nutricion",
+      "authors": [
+        "Walter Masson",
+        "Mart\u00edn Lobo",
+        "Leandro Barbagelata",
+        "Augusto Lavalle-Cobo",
+        "Juan P Nogueira"
+      ]
+    },
+    {
+      "pmid": "40020626",
+      "title": "Qingyi decoction and its active ingredients ameliorate acute pancreatitis by regulating acinar cells and macrophages via NF-\u03baB/NLRP3/Caspase-1 pathways.",
+      "abstract": "Macrophage infiltration and activation is a critical step during acute pancreatitis (AP). NLRP3 inflammasomes in macrophages plays a critical role in mediating pancreatic inflammatory responses. Qing-Yi Decoction(QYD)has been used for many years in clinical practice of Nankai Hospital combined with traditional Chinese and western medicine treatment of acute pancreatitis. Although QYD has a well-established clinical efficacy, little is known about its bioactive ingredients, how they interact with different therapeutic targets and the pathways to produce anti-inflammatory effects. Here, we elucidate the therapeutic effects of QYD against acute pancreatitis and reveal its mechanism of action. The main components of QYD were identified using UHPLC-Q-Orbitrap MS. Network pharmacology was employed to predict potential therapeutic targets and their mechanisms of action. C57BL/6 mice were randomly divided into control group, model group, low, medium and high dose (6, 12, 24 g/kg) QYD groups, with 10 mice in each group. The therapeutic effect of QYD on cerulein-induced acute pancreatitis. (CER-AP) was evaluated by histopathological score, immunohistochemistry, serum amylase and cytokines detection by ELISA. The protein expressions of MyD88/NF-\u03baB/NLRP3 signaling pathway were detected by Western blotting. Along with molecular docking of key bioactive compounds and targets, RAW264.7 cells stimulated with 1\u03bcg/ml LPS is used to screen components with more potent effects on target proteins. AR42 J cells were stimulated with 100 nM dexamethasone (dexa) combined with 10 nM cerulein (CN) as s a cell-culture model of acute pancreatitis. Inhibitory effects of the main chemical composition Wogonoside on NLRP3 inflammasomes were analyzed by qRT-PCR and Western blots. Using UHPLC-Q-Orbitrap MS, 217 compounds were identified from QYD, including Wogonoside, Catechins, Rhein, etc. A visualization network of QYD-compounds-key targets-pathways-AP show that QYD may modulate PI3K-Akt signaling pathway, NOD-like receptor signaling pathway, MAPK signaling pathway, Ras signaling pathway and Apoptosis signaling pathway by targeting TNF, IL1\u03b2, AKT1, TP53 and STAT3 exerting a therapeutic effect on AP. QYD administration effectively mitigated CER-induced cytokine storm, pancreas edema and serum amylase. QYD (12 mg/kg) showed better effect. The protein expression levels of MyD88, NF-\u03baB, NLRP3, Caspase-1 and GSDMD in pancreatic tissue were significantly decreased. Through molecular docking and LPS-RAW264.7 inflammation model, the selected Wogonoside significantly decreased IL-1\u03b2 mRNA. The expression levels of NLRP3/Caspase-1/GSDMD pathway-related proteins were also decreased on AR42J-AP. The results of network pharmacology indicate that QYD can inhibit AP through multiple pathways and targets. This finding was validated through in vivo tests, which demonstrated that QYD can reduce AP by inhibiting NLRP3 inflammasomes, additionally, it should be noted that 12mg/kg was a relatively superior dose. One of the main chemical compositions Wogonoside regulated NLRP3 inflammasome activation to protect against AP. This study is the first to verify the intrinsic molecular mechanism of QYD in treating AP by combining network pharmacology and animal experiments. The findings can provide evidence for subsequent clinical research and drug development.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Drugs, Chinese Herbal",
+        "Pancreatitis",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Macrophages",
+        "Acinar Cells",
+        "Caspase 1",
+        "Male",
+        "NF-kappa B",
+        "Signal Transduction",
+        "Ceruletide",
+        "RAW 264.7 Cells",
+        "Inflammasomes",
+        "Anti-Inflammatory Agents",
+        "Network Pharmacology"
+      ],
+      "chemicals": [
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Drugs, Chinese Herbal",
+        "Nlrp3 protein, mouse",
+        "Caspase 1",
+        "NF-kappa B",
+        "qingyi",
+        "Ceruletide",
+        "Inflammasomes",
+        "Anti-Inflammatory Agents",
+        "Casp1 protein, mouse"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Yu An",
+        "Zhengwei Tu",
+        "Ao Wang",
+        "Wenfeng Gou",
+        "Huijuan Yu",
+        "Xuefei Wang"
+      ]
+    },
+    {
+      "pmid": "39145797",
+      "title": "Corynoline protects chronic pancreatitis via binding to PSMA2 and alleviating pancreatic fibrosis.",
+      "abstract": "Pancreatic fibrosis is the main pathological feature of chronic pancreatitis. There is a lack of medications that effectively alleviate or reverse pancreatic fibrosis and thus cure chronic pancreatitis. We screened drugs that could alleviate pancreatic fibrosis from 80 traditional Chinese medicine monomers and verified their efficacy and mechanisms. We preliminarily identified corynoline as an antifibrotic candidate by drug screening among 80 compounds. In vitro, corynoline dose-dependently reduces collagen I synthesis in pancreatic stellate cells induced by TGF-\u03b21 and inhibits its activation. Furthermore, we found that corynoline could alleviate the morphological disruption, such as acinar cell atrophy, collagen deposition etc., as well as reduced pancreatic weight in mice with chronic pancreatitis. We further validated the antifibrotic effect of corynoline in mRNA and protein levels. We also found that corynoline could inhibit NF-\u03baB signaling pathway in vitro and in vivo. Next, we identified PSMA2 as the binding protein of corynoline by Lip-SMap and validated it using DARTS. Moreover, the siRNA of PSMA2 disrupts the anti-fibrotic effect of corynoline. In conclusion, corynoline is a promising agent for the treatment of pancreatic fibrosis and chronic pancreatitis.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Pancreatitis, Chronic",
+        "Fibrosis",
+        "Mice",
+        "Male",
+        "Pancreatic Stellate Cells",
+        "Pancreas",
+        "Signal Transduction",
+        "NF-kappa B",
+        "Mice, Inbred C57BL",
+        "Disease Models, Animal",
+        "Humans",
+        "Antifibrotic Agents",
+        "Transforming Growth Factor beta1",
+        "Collagen Type I"
+      ],
+      "chemicals": [
+        "NF-kappa B",
+        "Antifibrotic Agents",
+        "Transforming Growth Factor beta1",
+        "Collagen Type I"
+      ],
+      "journal": "Journal of gastroenterology",
+      "authors": [
+        "Pengyuan Wang",
+        "Bangwei Huang",
+        "Yu Liu",
+        "Xin Tan",
+        "Libo Liu",
+        "Baoru Zhang"
+      ]
+    },
+    {
+      "pmid": "40626736",
+      "title": "[Not Available].",
+      "abstract": "Hypomagnesemia is significantly more frequent in acute pancreatitis (AP) patients. Magnesium sulfate is a routine drug used in clinical practice to treat hypomagnesemia. This study aimed to explore the association between magnesium sulfate administration and short-term mortality among intensive care unit (ICU)-admitted AP patients. Data of this retrospective cohort study were extracted from the Medical Information Mart for Intensive Care-III (MIMIC-III) and MIMIC-IV database. The exposure was magnesium sulfate administration during the ICU stay. The primary outcome was 30-day mortality. The secondary outcome was in-hospital mortality. The weighted univariate and multivariate cox proportional hazard models were utilized to explore the association between magnesium sulfate administration and 30-day mortality and in-hospital mortality among ICU-admitted AP patients, based on hazard ratios (HRs) and 95% confidence interval (CIs). Subgroup analyses were conducted based on different age, gender, scoring systems and complications. A total of 1,924 AP patients were included. Of these, 1,334 (69.33%) received magnesium sulfate administration. After adjustment for all covariates, magnesium sulfate administration was associated with a lower risk of 30-day mortality (HR=0.49, 95%CI: 0.36-0.66) and in-hospital mortality (HR=0.42, 95% CI: 0.31-0.57) among ICU-admitted AP patients. This association remained robust when subgroup analyses were conducted based on age, gender, history of hypomagnesemia, heart failure, hypertension, diabetes, liver disease, acute kidney injury and sepsis, and Bedside Index of Severity of Acute Pancreatitis (BISAP) and Charlson Comorbidity Index (CCI). The administration of magnesium sulfate may have potential benefits in improving the short-term prognosis of ICU-admitted AP patients.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Magnesium Sulfate",
+        "Pancreatitis",
+        "Retrospective Studies",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Intensive Care Units",
+        "Aged",
+        "Hospital Mortality",
+        "Databases, Factual",
+        "Adult",
+        "Acute Disease",
+        "Cohort Studies"
+      ],
+      "chemicals": [
+        "Magnesium Sulfate"
+      ],
+      "journal": "Magnesium research",
+      "authors": [
+        "Yuwen Wu",
+        "Yiyuan Pan"
+      ]
+    }
+  ]
+}

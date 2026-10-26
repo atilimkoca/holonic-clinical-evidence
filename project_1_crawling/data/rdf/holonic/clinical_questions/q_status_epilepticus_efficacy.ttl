@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_status_epilepticus_efficacy a holon:EntityEntry ;
+    holon:entity oed:status_epilepticus ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_status_epilepticus_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_status_epilepticus_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.54 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_status_epilepticus_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:37391637 ;
+    oe:effectiveness "effective" .
+
+oedrug:levetiracetam oe:treats oed:status_epilepticus .
+
+oeevt:ev_q_status_epilepticus_efficacy-tt rdf:object oed:status_epilepticus ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:levetiracetam .
+
+oeq:q_status_epilepticus_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is levetiracetam compared with other agents for Status Epilepticus?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.36 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_status_epilepticus_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_status_epilepticus_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_status_epilepticus_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_status_epilepticus_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Status Epilepticus with levetiracetam."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_status_epilepticus_safety ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.54 ;
+    oe:aboutDisease oed:status_epilepticus ;
+    oe:answerText "Status epilepticus is a neurologic emergency defined as a seizure that lasts longer than 5 minutes. This is the most common neurologic emergency in children, and it is associated with significant morbidity and mortality."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    oe:cites oesrc:37391637,
+        oesrc:38430119,
+        oesrc:38441162,
+        oesrc:38830068 ;
+    oe:questionText "How effective is levetiracetam compared with other agents for Status Epilepticus?"^^xsd:string .
+

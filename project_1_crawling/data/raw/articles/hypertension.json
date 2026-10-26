@@ -1,0 +1,442 @@
+{
+  "disease": "Hypertension",
+  "slug": "hypertension",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41687677",
+      "title": "New drug therapies for hypertension.",
+      "abstract": "Despite the availability of effective antihypertensive therapies, global blood pressure control rates remain unacceptably low. Contributing factors, such as low treatment adherence, therapeutic inertia, and rising multimorbidity, underscore the need for innovative approaches to improve hypertension care. New antihypertensive drug therapies that act on physiological pathways beyond those targeted by conventional drug classes are emerging. These therapies include small interfering RNA agents that inhibit angiotensinogen synthesis as a novel approach to inhibit the renin-angiotensin system, and new strategies to more selectively modulate aldosterone, such as aldosterone synthase inhibitors and non-steroidal mineralocorticoid receptor antagonists. There is also growing interest in therapies to enhance the action of the natriuretic peptide system. Although these innovations present valuable therapeutic opportunities, their benefits must be carefully balanced against considerations of safety, cost, clinical outcomes, and equitable access-all of which are crucial to reducing the residual burden of cardiovascular and chronic kidney disease.",
+      "pub_date": "2026-03-07",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antihypertensive Agents",
+        "Hypertension",
+        "Mineralocorticoid Receptor Antagonists",
+        "Renin-Angiotensin System",
+        "RNA, Small Interfering",
+        "Cytochrome P-450 CYP11B2"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents",
+        "Mineralocorticoid Receptor Antagonists",
+        "RNA, Small Interfering",
+        "Cytochrome P-450 CYP11B2"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Michel Azizi",
+        "Katherine R Tuttle",
+        "Jenifer M Brown",
+        "Daniel L Piskorz",
+        "Kazuomi Kario",
+        "Bryan Williams"
+      ]
+    },
+    {
+      "pmid": "41712830",
+      "title": "[Not Available].",
+      "abstract": "Therapeutic inertia is a major cause of uncontrolled hypertension. The aim of our work study is to describe the knowledge, attitudes, and practices of primary care physicians in the management of hypertension and to describe the factors of therapeutic inertia. This was a descriptive study among primary care physicians conducted through an online questionnaire created using Google Forms during the period from March 15 to May 15, 2022. Our population included 232 physicians with an average age of 39 years. They mainly worked in the public sector (83%). Only 24% of the physicians knew the diagnostic thresholds for hypertension using all methods. Fifty percent knew the therapeutic objectives. Initiation with monotherapy was chosen by 49% of physicians. Angiotensin converting enzyme inhibitors and calcium channel blockers were chosen by 79.3% and 60.8% of physicians, respectively. The main reasons for therapeutic inertia were cost (78.4%), drug shortage (72.8%), non-adherence to therapy (61.2%), follow-up by another specialist (46.5%), fear of side effects of antihypertensive drugs (48.7%), patient's age (40.5%), lack of organization of patient follow-up (36.6%), and the presence of other comorbidities (35%). Renal failure was the main comorbidity involved (78.4%). Our study concludes that there was a lack of knowledge and application of the new recommendations for hypertension. It would be necessary to promote continuous training of primary care physicians, to insist on therapeutic education of patients, to reform the public health system in Tunisia to cover the provisions of hypertensive patients, and to introduce combination therapy.",
+      "pub_date": "2025-04-05",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hypertension",
+        "Adult",
+        "Female",
+        "Male",
+        "Physicians, Primary Care",
+        "Practice Patterns, Physicians'",
+        "Middle Aged",
+        "Antihypertensive Agents",
+        "Health Knowledge, Attitudes, Practice",
+        "Surveys and Questionnaires",
+        "Tunisia",
+        "Attitude of Health Personnel",
+        "Primary Health Care"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents"
+      ],
+      "journal": "La Tunisie medicale",
+      "authors": [
+        "Saoussen Antit",
+        "Olfa Ferchichi",
+        "Khouloud Khairallah",
+        "Khalil Bahri",
+        "Sabrine Bousnina",
+        "Elhem Boussabeh"
+      ]
+    },
+    {
+      "pmid": "41712811",
+      "title": "[Not Available].",
+      "abstract": "Paracetamol is widely used as a first-line treatment for chronic pain because it is thought to be safe. Unlike non-steroidal anti-inflammatory drugs (NSAIDs), paracetamol is thought to have no cardiovascular effects and specially no effect on blood pressure (BP). However, some studies suggest that paracetamol may increase BP. Thus, our aim was to address a systematic review in order to investigate the effects of regular paracetamol intake on BP. To address this systematic review, a search on PubMed, Cochrane and Scopus is planned. A search on grey literature, registries, thesis and congress abstracts will be performed. We will include randomized clinical trials, interventional studies and observational studies. Studies on child bearing women and those with eclampsia or preeclampsia will be excluded. Besides, only studies using recommended dosage of paracetamol will be included. The primary outcomes of interest will be the change of BP before and after the intake of paracetamol. Change of BP will be assessed on patients taking paracetamol. Any previous cardiovascular disease or hypertension will be raised in order to identify if there are risk factors of hypertension under paracetamol.",
+      "pub_date": "2025-05-05",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Acetaminophen",
+        "Systematic Reviews as Topic",
+        "Blood Pressure",
+        "Analgesics, Non-Narcotic",
+        "Hypertension",
+        "Female",
+        "Chronic Pain"
+      ],
+      "chemicals": [
+        "Acetaminophen",
+        "Analgesics, Non-Narcotic"
+      ],
+      "journal": "La Tunisie medicale",
+      "authors": [
+        "Saoussen Miladi",
+        "Leila Rouached",
+        "Selma Bouden",
+        "Hiba Boussaa",
+        "Yasmine Makhlouf",
+        "Aicha Ben Tekaya"
+      ]
+    },
+    {
+      "pmid": "41370563",
+      "title": "Upfront combination therapy with sildenafil and ambrisentan in patients with chronic thromboembolic pulmonary hypertension.",
+      "abstract": "Chronic thromboembolic pulmonary hypertension (CTEPH) is a rare complication of acute pulmonary embolism, being characterized by persistent obstruction of pulmonary vessels and leading to increased pulmonary vascular resistance and right ventricular failure. Although pulmonary endarterectomy is the preferred treatment, medical therapies may offer clinical benefits in specific settings. We sought to evaluate the clinical and hemodynamic response of CTEPH patients treated with sildenafil and ambrisentan upfront combination therapy. This was a retrospective cohort study including patients with operable and inoperable CTEPH. The patients were followed from 2019 to 2022 and were treated with sildenafil and ambrisentan as first-line therapy. Functional and hemodynamic data were analyzed at baseline and after a minimum of six months of therapy. Following treatment, there was a notable improvement in functional class, natriuretic peptide levels, and invasive hemodynamics. The combined use of sildenafil and ambrisentan appears to be associated with clinical, functional, and hemodynamic improvement in patients with CTEPH.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Sildenafil Citrate",
+        "Hypertension, Pulmonary",
+        "Retrospective Studies",
+        "Phenylpropionates",
+        "Male",
+        "Female",
+        "Pyridazines",
+        "Middle Aged",
+        "Drug Therapy, Combination",
+        "Pulmonary Embolism",
+        "Treatment Outcome",
+        "Chronic Disease",
+        "Aged",
+        "Antihypertensive Agents",
+        "Hemodynamics",
+        "Vasodilator Agents",
+        "Adult"
+      ],
+      "chemicals": [
+        "Sildenafil Citrate",
+        "ambrisentan",
+        "Phenylpropionates",
+        "Pyridazines",
+        "Antihypertensive Agents",
+        "Vasodilator Agents"
+      ],
+      "journal": "Jornal brasileiro de pneumologia : publicacao oficial da Sociedade Brasileira de Pneumologia e Tisilogia",
+      "authors": [
+        "William Salibe-Filho",
+        "Tulio Martins Vieira",
+        "Jos\u00e9 Leonidas Alves-Junior",
+        "Yally Priscila Pess\u00f4a Nascimento",
+        "Luiza Sarmento Tatagiba",
+        "Caio Julio Cesar Fernandes"
+      ]
+    },
+    {
+      "pmid": "41698137",
+      "title": "[Not Available].",
+      "abstract": "Describir la prevalencia de adultos con hipertensi\u00f3n arterial diagnosticada, tratada y controlada, a nivel nacional y por estados, adem\u00e1s de estimar el n\u00famero de personas que podr\u00edan desarrollar ECV por tener hipertensi\u00f3n. Material y m\u00e9todos. Se analiz\u00f3 la informaci\u00f3n de 34 954 participantes en la Encuesta Nacional de Salud y Nutrici\u00f3n 2021-2024. Se estimaron prevalencias de hipertensi\u00f3n a nivel nacional y estatal. Utilizando la escala de riesgo Globorisk y de la OMS, se estim\u00f3 el n\u00famero de personas que podr\u00edan desarrollar ECV por tener hipertensi\u00f3n. A nivel nacional la prevalencia de hipertensi\u00f3n en adultos fue de 29.1%. El 62.9% de los adultos con hipertensi\u00f3n ya hab\u00eda sido diagnosticado y de los que recib\u00eda tratamiento farmacol\u00f3gico, 60.1% ten\u00eda presi\u00f3n arterial (PA) bajo control. La prevalencia m\u00e1s baja de hipertensi\u00f3n se observ\u00f3 en Colima (20.7%) y la m\u00e1s alta en Sonora (40.6%). Podr\u00edan evitarse en los pr\u00f3ximos 10 a\u00f1os 1 119 060 eventos de ECV si se normalizara la PA en adultos. La hipertensi\u00f3n es un problema de salud p\u00fablica en M\u00e9xico y el desempe\u00f1o del sistema de salud para controlar la PA de los adultos es m\u00e1s bajo en los estados del Norte. Se requieren estrategias poblacionales, prontas y concertadas para reducir la carga de la hipertensi\u00f3n en M\u00e9xico.",
+      "pub_date": "2025-11-22",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hypertension",
+        "Adult",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Prevalence",
+        "Mexico",
+        "Nutrition Surveys",
+        "Aged",
+        "Young Adult",
+        "Antihypertensive Agents",
+        "Cardiovascular Diseases"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents"
+      ],
+      "journal": "Salud publica de Mexico",
+      "authors": [
+        "Ismael Campos-Nonato",
+        "Eric Monterrubio-Flores",
+        "Dolores Ram\u00edrez-Villalobos",
+        "Mar\u00eda Alexandra Arias-Mendoza",
+        "Enrique G\u00f3mez-\u00c1lvarez",
+        "Luis Alcocer-D\u00edaz-Barreiro"
+      ]
+    },
+    {
+      "pmid": "41444229",
+      "title": "Calcium channel blockers increase the risk of aortic aneurysm and dissection.",
+      "abstract": "Aortic aneurysm and dissection (AAD) are life-threatening conditions without effective medications. Impaired contractility of vascular smooth muscle cells (VSMCs) is strongly linked to AAD, but the role of calcium channel blockers (CCBs), which directly inhibits VSMC contractility, in AAD remains unclear. Here we showed data from 501,878 initially AAD-free participants in UK Biobank. Over a median follow-up of 13.5 years, CCB users had higher AAD risk (HR\u2009=\u20091.31) than hypertensive patients not receiving antihypertensive treatment. In mouse models of AAD, CCBs significantly aggravated aortic stiffness and AAD development. For patients with type B aortic dissection who underwent endovascular repair, CCBs limited AAD regression compared with other antihypertensives. Moreover, silencing of protein kinase cGMP-dependent 1 (PRKG1) significantly mitigated CCB-aggravated AAD progression. These findings suggest that CCBs may increase AAD risk and post-stent surgery prognosis, highlighting the need for caution when prescribing CCBs to hypertensive patients at risk for AAD.",
+      "pub_date": "2025-12-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Aortic Dissection",
+        "Calcium Channel Blockers",
+        "Animals",
+        "Male",
+        "Female",
+        "Mice",
+        "Hypertension",
+        "Middle Aged",
+        "Aortic Aneurysm",
+        "Muscle, Smooth, Vascular",
+        "Aged",
+        "Antihypertensive Agents",
+        "Risk Factors",
+        "Disease Models, Animal",
+        "Vascular Stiffness",
+        "Myocytes, Smooth Muscle",
+        "Follow-Up Studies"
+      ],
+      "chemicals": [
+        "Calcium Channel Blockers",
+        "Antihypertensive Agents"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Tianfeng Ma",
+        "Zeyu Cai",
+        "Xinming Xu",
+        "Long Cao",
+        "Ao Wang",
+        "Zhongshuang Zhang"
+      ]
+    },
+    {
+      "pmid": "41808633",
+      "title": "Treatment of Primary Aldosteronism.",
+      "abstract": "Primary aldosteronism (PA) is a common cause of hypertension, characterized by renin-independent aldosterone production that drives inappropriate mineralocorticoid receptor activation, sodium retention, volume expansion, and potassium wasting, ultimately resulting in hypertension and adverse cardiorenal outcomes. Management of PA involves therapies that target these pathophysiologic mechanisms to restore homeostasis and reduce risk, which is usually tailored based on patient preference and whether PA is lateralizing or nonlateralizing. For patients with lateralizing PA, surgical adrenalectomy, and to a lesser extent, minimally invasive adrenal or adrenal artery ablation, is highly effective at improving blood pressure control and risk for incident cardiovascular outcomes. However, the vast majority of patients with PA will be treated with medical therapy using steroidal mineralocorticoid receptor antagonists as the cornerstone of therapy, and epithelial sodium channel inhibitors serving as infrequent alternatives. Dietary sodium restriction in PA should be strongly encouraged because it reduces the substrate that fuels PA pathophysiology; dietary sodium restriction can facilitate substantial reductions in blood pressure, especially when combined with mineralocorticoid receptor antagonist therapy. Once initiated, medical therapy should be intensified to achieve 3 objectives in the following order of importance: normalization of blood pressure with the fewest number of antihypertensive agents, normalization of serum potassium when applicable, and increases in renin from baseline as a biomarker of adequate aldosterone blockade.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Hyperaldosteronism",
+        "Humans",
+        "Mineralocorticoid Receptor Antagonists",
+        "Adrenalectomy",
+        "Hypertension",
+        "Antihypertensive Agents",
+        "Aldosterone",
+        "Blood Pressure",
+        "Diet, Sodium-Restricted"
+      ],
+      "chemicals": [
+        "Mineralocorticoid Receptor Antagonists",
+        "Antihypertensive Agents",
+        "Aldosterone"
+      ],
+      "journal": "Hypertension (Dallas, Tex. : 1979)",
+      "authors": [
+        "St\u00e9fanie Parisien-La Salle",
+        "Gregory L Hundemer",
+        "Matthew A Nehs",
+        "Justine A Barletta",
+        "Anand Vaidya"
+      ]
+    },
+    {
+      "pmid": "41365773",
+      "title": "Energy drinks, hypertension and stroke.",
+      "abstract": "A man in his 50s, normally fit and well, had an ischaemic thalamic stroke confirmed on MRI, manifesting with left-sided weakness, numbness and ataxia. Admission BP was 254/150\u2009mm Hg. All tests for secondary hypertension were normal. After 72 hours as an inpatient, starting antihypertensives reduced the systolic BP to 170 mm Hg; however, after discharge, his BP rose again and remained persistently high despite up-titration of antihypertensives to five medications. After further questioning, the patient revealed an average daily consumption of eight cans of energy drink, each containing 160\u2009mg caffeine, a habit which had not been specifically asked about during admission. On cessation of this consumption, his BP normalised and antihypertensives were successfully withdrawn. This article explores what we can learn from this case about whether energy drink consumption could be a risk factor for stroke and cardiovascular disease, and therefore the importance of targeted questioning in clinical practice, and greater public awareness.",
+      "pub_date": "2025-12-09",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Energy Drinks",
+        "Male",
+        "Hypertension",
+        "Middle Aged",
+        "Antihypertensive Agents",
+        "Caffeine",
+        "Stroke",
+        "Ischemic Stroke",
+        "Magnetic Resonance Imaging",
+        "Risk Factors"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents",
+        "Caffeine"
+      ],
+      "journal": "BMJ case reports",
+      "authors": [
+        "Martha Coyle",
+        "Sunil Munshi"
+      ]
+    },
+    {
+      "pmid": "41794437",
+      "title": "Effect of baxdrostat on ambulatory blood pressure in patients with resistant hypertension (Bax24): a phase 3, randomised, double-blind, placebo-controlled trial.",
+      "abstract": "Aldosterone dysregulation is an important contributor in the pathogenesis of hard-to-control hypertension. We aimed to assess the effect of baxdrostat, a selective aldosterone synthase inhibitor, on ambulatory blood pressure in patients with resistant hypertension. The Bax24 international, phase 3, randomised, double-blind, placebo-controlled trial recruited adults (aged \u226518 years) with seated systolic blood pressure (SBP) \u2265140 mm Hg and <170 mm Hg, despite receiving three or more antihypertensive medications, including a diuretic, from 79 clinical sites (primary, secondary, and tertiary centres, in addition to research centres) in 22 countries. Following a 2-week placebo run-in period, patients with 24 h ambulatory SBP \u2265130 mm Hg were randomly assigned (1:1) to receive 2 mg baxdrostat or placebo orally once daily for 12 weeks, in addition to background therapy (stratified by baseline ambulatory SBP <140 mm Hg or \u2265140 mm Hg). Investigators, patients, and trial staff were masked to treatment assignment. The primary endpoint was change in 24 h ambulatory SBP from baseline to week 12, assessed by analysis of covariance in patients administered at least one dose of study medication with valid ambulatory SBP measurement at baseline and week 12. Missing or invalid ambulatory SBP measurements were not imputed. The safety analysis included all patients who received at least one dose of study medication. This trial is registered with ClinicalTrials.gov, NCT06168409, and is complete. Between March 1, 2024, and April 16, 2025, 854 patients were screened, 636 were excluded (437 before the placebo run-in and 199 during the placebo run-in) and 217 were randomly assigned to and received baxdrostat (n=108) or placebo (n=109). 140 patients (65%) were male, 77 (35%) patients were female, and 170 patients (78%) were White. The median age was 60\u00b70 years (IQR 51\u00b70-68\u00b70). At 12 weeks, the change from baseline in the least-squares mean 24 h ambulatory SBP was -16\u00b76 mm Hg (95% CI -18\u00b78 to -14\u00b73) in the baxdrostat group (n=89) and -2\u00b76 mm Hg (-4\u00b77 to -0\u00b74) in the placebo group (n=95); the estimated placebo-corrected difference was -14\u00b70 mm Hg (-17\u00b72 to -10\u00b78; p<0\u00b70001). Adverse events occurred in 56 (52%) of 108 patients in the baxdrostat group and 40 (37%) of 109 patients in the placebo group. A confirmed potassium level of more than 6 mmol/L occurred in three (3%) of the 108 baxdrostat recipients and in none of the placebo recipients. Baxdrostat significantly reduced 24 h ambulatory SBP versus placebo in patients with resistant hypertension, providing further evidence of the potential of aldosterone synthase inhibition for treatment of hard-to-control hypertension. AstraZeneca.",
+      "pub_date": "2026-03-07",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antihypertensive Agents",
+        "Blood Pressure",
+        "Blood Pressure Monitoring, Ambulatory",
+        "Cytochrome P-450 CYP11B2",
+        "Double-Blind Method",
+        "Hypertension",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents",
+        "Cytochrome P-450 CYP11B2"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Michel Azizi",
+        "Jenifer M Brown",
+        "Jamie P Dwyer",
+        "John M Flack",
+        "Erica S W Jones",
+        "Raisa Kurlyandskaya"
+      ]
+    },
+    {
+      "pmid": "41404655",
+      "title": "GWAS and Replication Analysis of Apparent Treatment-Resistant Hypertension.",
+      "abstract": "Resistant hypertension (RH), in which blood pressure remains elevated on \u22653 medications or controlled on \u22654 medications, increases the risk of adverse cardiovascular events nearly 50% more than primary hypertension. We sought to identify genetic drivers of RH in a reliable and generalizable manner. We utilized FinnGen (discovery) and UKBB (UK Biobank, replication) data sets to identify potential genetic drivers of RH. Using standard RH definitions, we developed cohorts in each data set and performed genome-wide (genome-wide association studies) and transcriptome-wide association studies, as well as Mendelian randomization analysis to evaluate potential causal associations. We replicated 5 genetic loci in We identified distinct genetic variants associated with RH, including those implicating the role of hyperaldosteronism, highlighting distinct pathways and targets for more effectively treating RH.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Genome-Wide Association Study",
+        "Hypertension",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Mendelian Randomization Analysis",
+        "Drug Resistance",
+        "Antihypertensive Agents",
+        "Blood Pressure",
+        "Polymorphism, Single Nucleotide",
+        "Aged"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents"
+      ],
+      "journal": "Hypertension (Dallas, Tex. : 1979)",
+      "authors": [
+        "Joseph E Ebinger",
+        "Anni Kauko",
+        "Felix Vaura",
+        "Paul Hage",
+        "Johan Sundstr\u00f6m",
+        "Sandy Y Joung"
+      ]
+    },
+    {
+      "pmid": "41819579",
+      "title": "Protocol for an open-label, randomised, controlled trial to evaluate the efficacy and safety of sotatercept add-on therapy compared with pulmonary vasodilator-based standard of care for pulmonary vasodilator-resistant pulmonary arterial hypertension associated with unrepaired congenital shunts (atrial septal defect, ventricular septal defect or patent ductus arteriosus), including Eisenmenger syndrome: the SuMILE trial.",
+      "abstract": "Eisenmenger syndrome and pulmonary arterial hypertension (PAH) due to unrepaired congenital shunts, including atrial septal defect (ASD), ventricular septal defect (VSD) and patent ductus arteriosus (PDA), remain life-threatening conditions despite advances in congenital heart disease (CHD) care. In this population, vasodilator-based therapies effective in other forms of PAH have shown limited benefit, and no disease-modifying treatment has been established. Sotatercept, an activin-signalling inhibitor, improved exercise capacity and haemodynamics in phase 2/3 PAH trials; however, patients with unrepaired CHD, including Eisenmenger syndrome, were excluded. The efficacy and safety of sotatercept in this population remain unknown. The SuMILE trial is a prospective, exploratory, multicentre, open-label, randomised, controlled trial conducted at 11 Japanese tertiary centres. 36 adults with vasodilator-resistant PAH due to unrepaired ASD, VSD or PDA, including Eisenmenger syndrome, will be randomised 2:1 to sotatercept add-on therapy plus vasodilator-based PAH therapy versus vasodilator-based PAH therapy alone. Sotatercept will be administered subcutaneously every 3\u2009weeks in accordance with label-approved dose-modification rules for haemoglobin and platelet changes. The primary endpoint is the change in 6-min walk distance from baseline to week 24. Key clinical events will be independently adjudicated. Secondary endpoints include all-cause mortality or lung transplantation; pulmonary hypertension-related hospitalisation or initiation of parenteral prostacyclin and changes in WHO functional class, N-terminal pro-brain natriuretic peptide and emPHasis-10. Exploratory endpoints include genotype, right heart catheterisation and cardiac MRI parameters. The primary analysis will use ANCOVA, adjusting for baseline 6-min walk distance and randomisation stratum in the intention-to-treat population. The protocol has been reviewed and approved by the certified central review board (Kyushu University Hospital Clinical Ethics Review Board) and participating institutions. Written informed consent will be obtained from all participants. Findings will be disseminated through peer-reviewed journals, scientific conferences and trial registries. Japan Registry of Clinical Trials no. 1071250069; ClinicalTrials.gov NCT07356778. Protocol version and date: V.1.3; 23 October 2025.",
+      "pub_date": "2026-03-12",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial Protocol"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Ductus Arteriosus, Patent",
+        "Prospective Studies",
+        "Vasodilator Agents",
+        "Heart Septal Defects, Ventricular",
+        "Heart Septal Defects, Atrial",
+        "Eisenmenger Complex",
+        "Recombinant Fusion Proteins",
+        "Randomized Controlled Trials as Topic",
+        "Multicenter Studies as Topic",
+        "Pulmonary Arterial Hypertension",
+        "Hypertension, Pulmonary",
+        "Female",
+        "Treatment Outcome",
+        "Drug Therapy, Combination",
+        "Male",
+        "Adult"
+      ],
+      "chemicals": [
+        "Vasodilator Agents",
+        "Recombinant Fusion Proteins"
+      ],
+      "journal": "BMJ open",
+      "authors": [
+        "Keimei Yoshida",
+        "Kazuya Hosokawa",
+        "Takahiro Hiraide",
+        "Satoshi Akagi",
+        "Kentaro Ejiri",
+        "Yu Taniguchi"
+      ]
+    },
+    {
+      "pmid": "41417518",
+      "title": "Treating Numbers or Patients? Rethinking Supine Hypertension in Hospitalized Adults.",
+      "abstract": "In-hospital blood pressure (BP) monitoring often leads to the detection of isolated elevated readings, particularly in the supine position during nighttime checks. However, growing evidence suggests that these transient hypertensive values - frequently labeled as \"supine hypertension\" - may not warrant pharmacologic intervention in the absence of acute end-organ damage. This opinion piece argues against the reflexive treatment of supine hypertension in hospitalized patients and highlights the risks associated with aggressive management. Excessive monitoring and the lack of contextual interpretation of BP fluctuations may expose patients to unnecessary harm.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hypertension",
+        "Supine Position",
+        "Hospitalization",
+        "Blood Pressure Determination",
+        "Blood Pressure",
+        "Adult"
+      ],
+      "chemicals": [],
+      "journal": "Arquivos brasileiros de cardiologia",
+      "authors": [
+        "Cassiano Teixeira"
+      ]
+    }
+  ]
+}

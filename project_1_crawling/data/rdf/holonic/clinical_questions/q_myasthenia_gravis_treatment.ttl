@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_myasthenia_gravis_treatment a holon:EntityEntry ;
+    holon:entity oed:myasthenia_gravis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_myasthenia_gravis_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_myasthenia_gravis_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.88 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_myasthenia_gravis_treatment ;
+    holon:recordedOn "2025-06-19"^^xsd:date ;
+    oe:cites oesrc:39862879 ;
+    oe:effectiveness "effective" .
+
+oedrug:prednisone oe:treats oed:myasthenia_gravis .
+
+oeevt:ev_q_myasthenia_gravis_treatment-tt rdf:object oed:myasthenia_gravis ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:prednisone .
+
+oeq:q_myasthenia_gravis_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Myasthenia Gravis?"@en ;
+    prov:generatedAtTime "2025-06-19T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.65 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_myasthenia_gravis_treatment-bnd ;
+    holon:hasContextGraph oeq:q_myasthenia_gravis_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_myasthenia_gravis_treatment-int ;
+    holon:hasProjectionGraph oeq:q_myasthenia_gravis_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Myasthenia Gravis with prednisone."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_myasthenia_gravis_efficacy ;
+    holon:recordedOn "2025-06-19"^^xsd:date ;
+    holon:summaryConfidence 0.88 ;
+    oe:aboutDisease oed:myasthenia_gravis ;
+    oe:answerText "Given burdensome side-effects and long latency for efficacy with conventional agents, there is a continued need for generalised myasthenia gravis treatments that are safe and provide consistently sustained, long-term disease control. Nipocalimab, a neonatal Fc receptor blocker, was associated with dose-dependent reductions in total IgG and anti-acetylcholine receptor (AChR) antibodies and clinically meaningful improvements in the Myasthenia Gravis Activities of Daily Living (MG-ADL) scale in patients with generalised myasthenia gravis in a phase 2 study."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    oe:cites oesrc:37353278,
+        oesrc:38321574,
+        oesrc:39862879,
+        oesrc:40202593 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Myasthenia Gravis?"^^xsd:string .
+

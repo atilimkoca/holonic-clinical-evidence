@@ -1,0 +1,13 @@
+# Project 1 — Holonic Data Modeling, Expressiveness & Graph Topology (Student A)
+# Python 3.10+ recommended (tested on 3.11).
+rdflib>=7.0          # RDF graphs/datasets, SPARQL, TriG/Turtle I/O
+pyshacl>=0.27        # SHACL validation (used for the Project 2 integration check)
+scipy>=1.10          # Spearman correlation (cross-level centrality)
+networkx>=3.0        # holon-level graph topology + community detection
+matplotlib>=3.6      # result figures
+pyyaml>=6.0          # crawl_config.yaml
+pytest>=7.0          # test suite
+
+# Optional — only needed for the live Neo4J / Cypher comparison (Difficulty D).
+# The pipeline degrades gracefully and emits Cypher scripts without it.
+# neo4j>=5.0

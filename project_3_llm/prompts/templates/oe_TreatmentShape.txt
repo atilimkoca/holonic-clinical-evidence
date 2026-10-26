@@ -1,0 +1,10 @@
+You are a careful biomedical knowledge engineer. Produce RDF 1.2 (Turtle) that is VALID against the SHACL shape below. Output ONLY Turtle (no prose). Use ONLY facts supplied in the ADMISSIBLE EVIDENCE block; never invent drugs, diseases, sources, dates, or numbers.
+
+# SHACL TARGET: oe:TreatmentShape  (target class oe:Treatment)
+
+RECOMMENDED fields (warnings if missing):
+  - rdfs:label: (min 1)
+
+FILL THIS TEMPLATE (replace every <...>):
+oegen:node_<id> a oe:Treatment ;
+    rdfs:label <value> .

@@ -1,0 +1,417 @@
+{
+  "disease": "Crohn Disease",
+  "slug": "crohn_disease",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40684778",
+      "title": "Efficacy and safety of intravenous induction and subcutaneous maintenance therapy with guselkumab for patients with Crohn's disease (GALAXI-2 and GALAXI-3): 48-week results from two phase 3, randomised, placebo and active comparator-controlled, double-blind, triple-dummy trials.",
+      "abstract": "Despite the availability of biological therapies, suboptimal disease control remains a problem for patients with Crohn's disease. We report the results of the GALAXI-2 and GALAXI-3 studies, which aimed to assess the efficacy and safety of intravenous induction followed by subcutaneous maintenance therapy with guselkumab over 48 weeks in adults with moderately to severely active Crohn's disease. GALAXI-2 and GALAXI-3 were identically designed, phase 3, randomised, double-blind, triple-dummy, treat-through trials with active and placebo comparators. Adult patients with moderately to severely active Crohn's disease (\u22653 months duration) were enrolled at 257 sites across 40 countries. Eligible participants were randomly assigned (2:2:2:1) by use of a centralised computer-generated schedule to one of four treatment groups: (1) 200 mg intravenous guselkumab at weeks 0, 4, and 8, then 200 mg subcutaneous guselkumab every 4 weeks from week 12 to week 44 (guselkumab 200 mg group); (2) 200 mg intravenous guselkumab at weeks 0, 4, and 8, then 100 mg subcutaneous guselkumab every 8 weeks from week 16 to week 40 (guselkumab 100 mg group); (3) approximately 6 mg/kg intravenous ustekinumab at week 0, then 90 mg subcutaneous ustekinumab every 8 weeks from week 8 to week 40 (ustekinumab group); or (4) intravenous placebo every 4 weeks at weeks 0, 4, and 8 (placebo group). At week 12, participants without a clinical response to placebo received masked rescue therapy with ustekinumab; all other participants remained on their randomised regimen irrespective of response status at week 12. Participants, investigators, site personnel, and the funder were masked to study treatment until all participants had either completed the follow-up visit at week 48 or terminated study participation before week 48. Coprimary composite endpoints (comparing each guselkumab regimen with placebo) were (1) clinical response at week 12 and clinical remission at week 48 and (2) clinical response at week 12 and endoscopic response at week 48, measured in the primary analysis population of all randomly assigned participants who received at least one dose of the study agent and satisfied the Simple Endoscopic Score for Crohn's Disease (SES-CD) eligibility criteria introduced with the third protocol amendment as per health authority request. Safety was assessed in participants who received at least one dose of study treatment (all-treated analysis population). These trials are registered with ClinicalTrials.gov (NCT03466411). From Jan 8, 2020, to Oct 20, 2023, 1048 participants were randomly assigned, treated, and followed up until week 48, of whom 1021 participants were included in the primary analysis population: 508 (49\u00b78%) in GALAXI-2 and 513 (50\u00b72%) in GALAXI-3. Both guselkumab regimens were superior to placebo for the endpoint of clinical response at week 12 and clinical remission at week 48 in GALAXI-2, which was observed in 80 (55%) of 146 participants in the guselkumab 200 mg group, 70 (49%) of 143 in the guselkumab 100 mg group, and nine (12%) of 76 in the placebo group (adjusted treatment difference 43% [95% CI 32-54] in the guselkumab 200 mg group and 38% [27-49] in the guselkumab 100 mg group; p<0\u00b70001), and in GALAXI-3, observed in 72 (48%) of 150 participants in the guselkumab 200 mg group, 67 (47%) of 143 in the guselkumab 100 mg group, and nine (13%) of 72 in the placebo group (35% [24-46] and 34% [23-45]; p<0\u00b70001). Similarly, both guselkumab regimens were superior to placebo for the endpoint of clinical response at week 12 and endoscopic response at week 48 in GALAXI-2, observed in 56 (38%) participants in the guselkumab 200 mg group, 56 (39%) in the guselkumab 100 mg group, and four (5%) in the placebo group (33% [24-42] in the guselkumab 200 mg group and 34% [24-43] in the guselkumab 100 mg group; p<0\u00b70001), and in GALAXI-3, observed in 54 (36%) participants in the guselkumab 200 mg group, 48 (34%) in the guselkumab 100 mg group, and four (6%) in the placebo group (31% [21-40] and 28% [19-37]; p<0\u00b70001). Serious adverse events occurred in 21 (7%) participants in the guselkumab 200 mg group (incidence rate 9\u00b77 events per 100 participant-years), 32 (11%) in the guselkumab 100 mg group (14\u00b79 events per 100 participant-years), 35 (12%) in the ustekinumab group (18\u00b74 events per 100 participant-years), and 23 (15%) in the placebo group (23\u00b78 events per 100 participant-years). No deaths were reported. Intravenous induction followed by subcutaneous maintenance therapy with guselkumab was efficacious in participants with moderately to severely active Crohn's disease, showing superiority to placebo and ustekinumab at week 48 across multiple endpoints. Safety outcomes were favourable and consistent with the known profile of guselkumab in approved indications. Johnson & Johnson.",
+      "pub_date": "2025-07-26",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "Administration, Intravenous",
+        "Antibodies, Monoclonal, Humanized",
+        "Crohn Disease",
+        "Double-Blind Method",
+        "Injections, Subcutaneous",
+        "Maintenance Chemotherapy",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "guselkumab"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Remo Panaccione",
+        "Brian G Feagan",
+        "Anita Afzali",
+        "David T Rubin",
+        "Walter Reinisch",
+        "Juli\u00e1n Pan\u00e9s"
+      ]
+    },
+    {
+      "pmid": "40001525",
+      "title": "Dual Therapy in Inflammatory Bowel Disease.",
+      "abstract": "Inflammatory bowel diseases (IBDs), including ulcerative colitis (UC) and Crohn's disease (CD), are chronic and complex autoimmune conditions. Despite the advancements in biologics and small molecules, the therapeutic ceiling persists, posing significant treatment challenges and contributing to the concept of difficult-to-treat IBD. Dual-targeted therapy (DTT), combining two biologic agents or biologics with small molecules, has emerged as a novel approach to address this unmet need by targeting multiple inflammatory pathways simultaneously. Evidence suggests that DTT holds promise in improving clinical and endoscopic outcomes, especially in patients with refractory disease or extraintestinal manifestations. Safety data, while consistent with monotherapy profiles, highlight the importance of vigilant monitoring for infections and other adverse events. Continued research and high-quality trials are crucial to defining optimal DTT regimens and broadening its clinical applicability. This review explores the efficacy and safety of DTT in IBD, reporting data from clinical trials, systematic reviews, and real-world studies.",
+      "pub_date": "2025-02-03",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Biological Products",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Drug Therapy, Combination"
+      ],
+      "chemicals": [
+        "Biological Products"
+      ],
+      "journal": "Biomolecules",
+      "authors": [
+        "Gabriele Altieri",
+        "Alessandra Zilli",
+        "Tommaso Lorenzo Parigi",
+        "Mariangela Allocca",
+        "Federica Furfaro",
+        "Gionata Fiorino"
+      ]
+    },
+    {
+      "pmid": "40078047",
+      "title": "Novel outcomes in inflammatory bowel disease.",
+      "abstract": "Inflammatory bowel diseases (IBD), Crohn's disease (CD), and ulcerative colitis (UC) are lifelong chronic, relapsing, and remitting conditions that culminate in disease progression in many patients. Effective management of CD and UC requires consideration of both short- and long-term treatment outcomes. Historically, short-term outcomes such as clinical and endoscopic remission and symptom relief have been evaluated in clinical trials. With the expansion of treatments targeting underlying disease pathophysiology, there is the opportunity to develop management strategies that improve disease control and patients' lives in both the short and the long term. Researchers have been examining novel outcomes for assessing the efficacy of CD and UC treatments that are important to patients, and also those that go beyond symptomatic improvements or clinical remission. These include new patient-reported outcomes for symptoms, as well as transmural/histological healing and disease clearance that can be more reflective of deeper remission states and disease modification. This review analyses published clinical studies involving patients with UC and CD treated with biologics or small molecule therapies. It highlights novel IBD endpoints employed in published clinical trials and discusses their likely value for assessing disease activity and disease modification, and as predictors of reduced risk of complications and morbidities.",
+      "pub_date": "2025-04-04",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Patient Reported Outcome Measures",
+        "Colitis, Ulcerative",
+        "Remission Induction",
+        "Crohn Disease",
+        "Inflammatory Bowel Diseases",
+        "Treatment Outcome",
+        "Biological Products"
+      ],
+      "chemicals": [
+        "Biological Products"
+      ],
+      "journal": "Journal of Crohn's & colitis",
+      "authors": [
+        "Vipul Jairath",
+        "Neeraj Narula",
+        "Ryan C Ungaro",
+        "Itzel Romo Bautista",
+        "Shashi Adsul"
+      ]
+    },
+    {
+      "pmid": "41419296",
+      "title": "Medical management of inflammatory bowel diseases.",
+      "abstract": "Inflammatory bowel diseases (IBD), comprising Crohn's disease and ulcerative colitis, are chronic, inflammatory, immune mediated, relapsing-remitting conditions of the gastrointestinal tract with multidimensional and often negative effects on patients' quality of life. The global burden of IBD is increasing and is forecast to affect 1% of the population in early industrialized nations over the next 10 years. Advances in our understanding of the causes and pathogenesis of IBD in the past three decades have translated into new treatments that modulate the immune inflammatory cascade. Modern goals of treatment are clinical remission through assessment of patient reported outcomes and deep remission defined as mucosal healing on colonoscopy or imaging. Achieving both clinical and deep remission affords patients a better long term prognosis and quality of life. This review summarizes the latest evidence on IBD diagnosis, staging, and prognosis, with a detailed focus on current treatments.",
+      "pub_date": "2025-12-19",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Prognosis",
+        "Inflammatory Bowel Diseases",
+        "Quality of Life",
+        "Remission Induction",
+        "Colitis, Ulcerative",
+        "Crohn Disease"
+      ],
+      "chemicals": [],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Jana G Hashash",
+        "Jimmy K Limdi",
+        "Jason M Shapiro",
+        "Samir A Shah"
+      ]
+    },
+    {
+      "pmid": "39978335",
+      "title": "Synergistic role of gut-microbial L-ornithine in enhancing ustekinumab efficacy for Crohn's disease.",
+      "abstract": "The role of the intestinal microbiome in Crohn's disease (CD) treatment remains poorly understood. This study investigates microbe-host interactions in CD patients undergoing ustekinumab (UST) therapy. Fecal metagenome, metabolome, and host transcriptome data from 85 CD patients were analyzed using multi-omics integration and mediation analysis. Our findings reveal significant microbiome-metabolite-host interactions. Specifically, Faecalibacterium prausnitzii was linked to altered L-ornithine biosynthesis, resulting in higher L-ornithine levels in patients before UST therapy. In\u00a0vivo and in\u00a0vitro studies demonstrated that microbiome-derived L-ornithine enhances UST treatment sensitivity in CD by disrupting the host IL-23 receptor signaling and inhibiting Th17 cell stabilization through the IL-12RB1/TYK2/STAT3 axis. L-ornithine significantly enhances the therapeutic efficacy of UST in CD patients, as demonstrated in a prospective clinical trial. These findings suggest that targeting specific microbe-host metabolic pathways may improve the efficacy of inflammatory bowel disease (IBD) treatments.",
+      "pub_date": "2025-05-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Crohn Disease",
+        "Humans",
+        "Gastrointestinal Microbiome",
+        "Ustekinumab",
+        "Male",
+        "Female",
+        "Ornithine",
+        "Adult",
+        "Animals",
+        "Mice",
+        "Th17 Cells",
+        "Middle Aged",
+        "Faecalibacterium prausnitzii",
+        "Signal Transduction",
+        "Treatment Outcome",
+        "Feces",
+        "Receptors, Interleukin"
+      ],
+      "chemicals": [
+        "Ustekinumab",
+        "Ornithine",
+        "Receptors, Interleukin"
+      ],
+      "journal": "Cell metabolism",
+      "authors": [
+        "Zhenyu Wang",
+        "Li Tian",
+        "Yi Jiang",
+        "Lijun Ning",
+        "Xiaoqiang Zhu",
+        "Xuejie Chen"
+      ]
+    },
+    {
+      "pmid": "40113101",
+      "title": "Efficacy and Safety of Guselkumab Subcutaneous Induction and Maintenance in Participants With Moderately to Severely Active Crohn's Disease: Results From the Phase 3 GRAVITI Study.",
+      "abstract": "Subcutaneous (SC) induction and maintenance with guselkumab was evaluated in adult participants with moderately to severely active Crohn's disease. The Phase 3 double-blind, placebo-controlled, treat-through GRAVITI study randomized 347 participants 1:1:1 to guselkumab 400 mg SC every 4 weeks\u2192100 mg SC every 8 weeks (n = 115), guselkumab 400 mg SC every 4 weeks\u2192200 mg SC every 4 weeks (n = 115), or placebo (n = 117). Placebo participants meeting rescue criteria received guselkumab from week 16 onward. Co-primary endpoints were clinical remission at week 12 and endoscopic response at week 12. Additional multiplicity-controlled endpoints were Patient-Reported Outcome-2 remission (week 12), clinical response (week 12), clinical remission (week 24), clinical remission (week 48), and endoscopic response (week 48). Safety was assessed through week 48. All multiplicity-controlled endpoints were met. At week 12, significantly greater proportions of participants receiving guselkumab 400 mg achieved clinical remission vs placebo (56.1% vs 21.4%; \u0394 = 34.9; P < .001), and endoscopic response vs placebo (41.3% vs 21.4%; \u0394 = 19.9; P < .001). At week 48, significantly greater proportions of participants in both guselkumab groups (100 mg SC every 8 weeks: 60.0%, \u0394 = 42.8; 200 mg SC every 4 weeks: 66.1%, \u0394 = 48.9) achieved clinical remission vs placebo (17.1%; P < .001 each) and endoscopic response (44.3%, \u0394 = 37.5; 51.3%, \u0394 = 44.6; vs placebo 6.8%; P < .001 each). Efficacy was observed in both bionaive participants and those with inadequate response or intolerance to biologics. Adverse event rates were not greater in guselkumab groups vs placebo. Subcutaneous guselkumab for both induction and maintenance was efficacious in treating participants with moderately to severely active Crohn's disease. Safety findings were consistent with those of guselkumab in approved indications, including ulcerative colitis. (ClinicalTrials.gov, Number: NCT05197049.).",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Crohn Disease",
+        "Male",
+        "Adult",
+        "Female",
+        "Double-Blind Method",
+        "Remission Induction",
+        "Antibodies, Monoclonal, Humanized",
+        "Injections, Subcutaneous",
+        "Middle Aged",
+        "Treatment Outcome",
+        "Severity of Illness Index",
+        "Maintenance Chemotherapy",
+        "Induction Chemotherapy",
+        "Young Adult",
+        "Gastrointestinal Agents",
+        "Patient Reported Outcome Measures",
+        "Adolescent"
+      ],
+      "chemicals": [
+        "guselkumab",
+        "Antibodies, Monoclonal, Humanized",
+        "Gastrointestinal Agents"
+      ],
+      "journal": "Gastroenterology",
+      "authors": [
+        "Ailsa Hart",
+        "Remo Panaccione",
+        "Flavio Steinwurz",
+        "Silvio Danese",
+        "Tadakazu Hisamatsu",
+        "Qian Cao"
+      ]
+    },
+    {
+      "pmid": "40456235",
+      "title": "Safety and efficacy of the anti-TL1A monoclonal antibody tulisokibart for Crohn's disease: a phase 2a induction trial.",
+      "abstract": "TNF-like cytokine 1A (TL1A) is a key mediator of inflammation and fibrosis. The efficacy and safety of the anti-TL1A monoclonal antibody tulisokibart as induction treatment was assessed in adults with moderately to severely active Crohn's disease with a history of insufficient response, loss of response, or intolerance to conventional or approved biological therapies. In the phase 2a, multicentre, open-label APOLLO-CD study, participants aged 18 years or older with moderately to severely active Crohn's disease, as defined by a Crohn's Disease Activity Index (CDAI) of 220-450 and a Simple Endoscopy Score for Crohn's Disease (SES-CD) of at least 6 for ileocolonic or colonic disease or at least 4 for isolated ileal disease, received intravenous tulisokibart (1000 mg on day 1 and 500 mg at weeks 2, 6, and 10). This Article reports the results of the primary analysis of the induction period. The primary endpoints were safety and the proportion of participants with endoscopic response at week 12, defined as a decrease in SES-CD of at least 50% from baseline. Safety was analysed in all participants treated with tulisokibart, and endoscopic response was analysed in the per-protocol analysis set, which included all participants treated with tulisokibart with baseline CDAI and SES-CD scores, except those with prespecified important protocol deviations. This trial is registered with ClinicalTrials.gov (NCT05013905) and is closed for recruitment; an open-label extension is ongoing. Of 101 participants screened for eligibility, 55 eligible participants were enrolled and received tulisokibart. The mean age of participants was 39\u00b71 years (SD 15\u00b77), 34 (62%) were male, 21 (38%) were female, and 39 (71%) had received previous biological therapy. At week 12, endoscopic response was observed in 13 (26\u00b70% [95% CI 15\u00b79-39\u00b76]) of 50 participants receiving tulisokibart in the per-protocol analysis set. Adverse events occurred in 43 (78%) of 55 participants, with most adverse events being mild to moderate in severity. The most frequently occurring adverse events (\u22655% of participants) were COVID-19 (six [11%] participants), urinary tract infection (five [9%]), Crohn's disease (five [9%]), anaemia (four [7%]), nasopharyngitis (three [5%]), and fatigue (three [5%]). Eight (15%) participants had serious adverse events, none of which were considered related to the study drug by the investigator. There were no deaths. This proof-of-concept study showed that tulisokibart is potentially efficacious in moderately to severely active Crohn's disease and is well tolerated. Randomised controlled trials with longer duration are needed to confirm these results; a double-blind, placebo-controlled, phase 3 trial is currently underway. Prometheus Biosciences, a subsidiary of Merck & Co, Rahway, NJ, USA.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Crohn Disease",
+        "Female",
+        "Male",
+        "Adult",
+        "Middle Aged",
+        "Antibodies, Monoclonal",
+        "Treatment Outcome",
+        "Severity of Illness Index",
+        "Tumor Necrosis Factor Ligand Superfamily Member 15",
+        "Young Adult"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal",
+        "Tumor Necrosis Factor Ligand Superfamily Member 15",
+        "TNFSF15 protein, human"
+      ],
+      "journal": "The lancet. Gastroenterology & hepatology",
+      "authors": [
+        "Brian G Feagan",
+        "Bruce E Sands",
+        "Corey A Siegel",
+        "Marla C Dubinsky",
+        "Randy S Longman",
+        "Jo\u00e3o Sabino"
+      ]
+    },
+    {
+      "pmid": "39891014",
+      "title": "Understanding the therapeutic toolkit for inflammatory bowel disease.",
+      "abstract": "Inflammatory bowel disease (IBD), encompassing ulcerative colitis and Crohn's disease, is a group of chronic, immune-mediated disorders of the gastrointestinal tract that present substantial clinical challenges owing to their complex pathophysiology and tendency to relapse. A treat-to-target approach is recommended, involving iterative treatment adjustments to achieve clinical response, reduce inflammatory markers and achieve long-term goals such as mucosal healing. Lifelong medication is often necessary to manage the disease, maintain remission and prevent complications. The therapeutic landscape for IBD has evolved substantially; however, a ceiling on therapeutic efficacy remains and surgery is sometimes required (owing to uncontrolled disease activity or complications). Effective IBD management involves comprehensive care, including medication adherence and a collaborative clinician-patient relationship. This Review discusses current therapeutic options for IBD, detailing mechanisms of action, efficacy, safety profiles and guidelines for use of each drug class. We also explore emerging therapies and the role of surgery. Additionally, the importance of a multidisciplinary team and personalized care in managing IBD is emphasized, advocating for patient empowerment and involvement in treatment decisions. By synthesizing current knowledge and emerging trends, this Review aims to equip healthcare professionals with a thorough understanding of therapeutic options for IBD, enhancing informed, evidence-based decisions in clinical practice.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Inflammatory Bowel Diseases",
+        "Colitis, Ulcerative",
+        "Crohn Disease"
+      ],
+      "chemicals": [],
+      "journal": "Nature reviews. Gastroenterology & hepatology",
+      "authors": [
+        "Sophie Vieujean",
+        "Vipul Jairath",
+        "Laurent Peyrin-Biroulet",
+        "Marla Dubinsky",
+        "Marietta Iacucci",
+        "Fernando Magro"
+      ]
+    },
+    {
+      "pmid": "40772520",
+      "title": "Biological Therapy and Small Molecules for Adults With Crohn's Disease: Systematic Review and Network Meta-Analysis.",
+      "abstract": "First-line therapeutic approaches for Crohn's disease include immunosuppressants, aminosalicylates, and corticosteroids. However, more than one-third of patients are resistant to these treatments and require second-line therapies. Our goal was to synthesize the evidence on the efficacy and safety of biologics and small molecules for inducing remission in patients with moderate-to-severe Crohn's disease. A systematic review was conducted by searching for randomized controlled trials on the target population in PubMed, Scopus, and Web of Science (March 2025). Data synthesis for the outcomes of remission, health-related quality of life (HRQoL), and safety was performed using network meta-analyses and surface under the cumulative rating curve (SUCRA) analyses. The results were presented as risk ratios with 95% credible intervals. We included 55 trials (n\u2009=\u200916,113 patients) evaluating 26 biological drugs across 83 doses and six small molecules across 15 doses. Similar results were obtained in the sensitivity analyses conducted across different measurement time points. Alongside infliximab 5\u2009mg/kg (SUCRA 98.6%), 10\u2009mg/kg (92%), and 20\u2009mg/kg intravenous (91.8%), the recently approved drugs guselkumab 1200\u2009mg (83.2%), 600\u2009mg (89.2%), and 200\u2009mg intravenous (90.1%), as well as mirikizumab 600\u2009mg (91.5%) and 1000\u2009mg intravenous (82.4%) presented higher probabilities of disease remission and were associated with increased HRQoL. Drugs such as certolizumab, andecaliximab, fontolizumab, abatacept, and etanercept ranked low for remission (SUCRA\u2009<\u200940%) and presented high probabilities of serious adverse events (over 60%). Small molecules presented an intermediate profile. Inhibitors of interleukin-23 appear to be promising alternatives for the treatment of moderate-to-severe Crohn's disease. Given their safety profile, some anti-TNF drugs should be avoided in practice. Trial Registration: PROSPERO: CRD42024519150.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Biological Products",
+        "Crohn Disease",
+        "Gastrointestinal Agents",
+        "Quality of Life",
+        "Randomized Controlled Trials as Topic",
+        "Remission Induction"
+      ],
+      "chemicals": [
+        "Biological Products",
+        "Gastrointestinal Agents"
+      ],
+      "journal": "Pharmacotherapy",
+      "authors": [
+        "Daniela Gorski",
+        "Raul Edison Luna Lazo",
+        "Dalton de Assis de Souza",
+        "Helena Hiemisch Lobo Borba",
+        "Roberto Pontarolo",
+        "Fernanda Stumpf Tonin"
+      ]
+    },
+    {
+      "pmid": "40323342",
+      "title": "Differentiating IL-23 Inhibitors in Crohn's Disease.",
+      "abstract": "Interleukin-23 (IL-23), a member of the IL-12 family of cytokines, plays a critical role in intestinal homeostasis and inflammation and is strongly implicated in the pathogenesis of inflammatory bowel disease (IBD). Therapies targeting the p19 subunit of IL-23 have recently expanded the therapeutic options for IBD demonstrating efficacy and safety for the treatment of moderate to severe Crohn's disease (CD). Thus, in this review, we provide an overview of agents targeting the IL-23 pathway in CD, highlighting similarities and differences of specific IL-23 inhibitors. Furthermore, we summarize key phase 3 trials and head-to-head trials, focusing on design features and interpretation. Finally, we discuss the positioning of selective IL-23 agents for CD treatment along with areas of unmet clinical needs. However, real-world data will offer additional comparative effectiveness information, data for disease subtypes, and insights into the long-term outcomes of IL-23 inhibition. Looking ahead, ongoing phase 3 studies testing p19-specific selective IL-23 inhibitors are expected to expand the therapeutic options for patients with complex phenotypes, including those with extraintestinal manifestations (EIMs), fistulas, and strictures. Advances in molecular and cellular characterization, including the development of predictive molecular biomarkers, may help guide clinical decision-making, enabling more personalized treatment approaches. Precision medicine studies may further enhance our understanding of the molecular biology of IL-23, shedding light on how these agents work in complex CD and clarify their potential complementary or synergistic effects with other therapies.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Crohn Disease",
+        "Interleukin-23"
+      ],
+      "chemicals": [
+        "Interleukin-23"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Olga Maria Nardone",
+        "Sudheer K Vuyyuru",
+        "Yuhong Yuan",
+        "Jurij Hanzel",
+        "Vipul Jairath"
+      ]
+    },
+    {
+      "pmid": "40782945",
+      "title": "Real-world Experience of Upadacitinib Reinduction and High-dose Maintenance Therapy in Inflammatory Bowel Disease.",
+      "abstract": "Upadacitinib (UPA) is approved for the treatment of moderately to severely active Crohn's disease (CD) or ulcerative colitis (UC). Responders to UPA 45 mg daily (QD) may lose response (LOR) after transition to lower maintenance doses. We describe our real-world experience of LOR, reinduction, and subsequent maintenance with UPA 45 mg QD. This is a prospective cohort study of patients with inflammatory bowel disease (IBD) treated with UPA between April 2022 and November 2023. Included patients responded to UPA induction, had LOR after dose reduction, and subsequently received reinduction therapy with 45 mg QD. Clinical, biochemical, radiologic, and endoscopic data were collected; comparative statistics and Kaplan-Meier survival were calculated. A total of 181 patients (79 CD, 83 UC, 6 IBD-Unclassified, 13 ileal pouch anal-anastomosis) responded to UPA 45 mg QD induction and were switched to a lower maintenance dose (30 mg QD, n = 180; 15 mg QD, n = 1), 46 (16 CD, 23 UC, 1 IBD- Unclassified, 6 ileal pouch anal-anastomosis) met the above criteria. They were followed for a median duration 93 weeks (interquartile range [IQR], 62-119 weeks). Relapse occurred at a median of 21 weeks (IQR, 8-46 weeks) after dose reduction. Dose escalation to 45 mg QD for a median of 13 weeks (IQR, 8-36 weeks) recaptured clinical response in 80.4%. Among patients who recaptured response, 19 again reduced to 30 mg or 15 mg. Over a median of 40 weeks (IQR, 22-59 weeks), 93.8% of patients on 45 mg QD maintained remission vs 21.1% who again dropped to 30 mg QD (P < .001). Disease extent and duration did not significantly predict response recapture. Acne/rosacea was the most common adverse event (39%); there were no serious adverse events. Most patients with IBD who lose response to UPA when dose reduced in maintenance can be recaptured with 45 mg QD. Among these, continuing 45 mg QD for maintenance is effective, and appears safe.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Adult",
+        "Middle Aged",
+        "Prospective Studies",
+        "Inflammatory Bowel Diseases",
+        "Heterocyclic Compounds, 3-Ring",
+        "Maintenance Chemotherapy",
+        "Treatment Outcome",
+        "Crohn Disease",
+        "Colitis, Ulcerative"
+      ],
+      "chemicals": [
+        "upadacitinib",
+        "Heterocyclic Compounds, 3-Ring"
+      ],
+      "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+      "authors": [
+        "Agnes H Y Ho",
+        "David Choi",
+        "Alex J Mathew",
+        "Alexandra McDermott",
+        "Zachary Fine",
+        "Evan Fear"
+      ]
+    },
+    {
+      "pmid": "40769616",
+      "title": "Treatment targets in IBD: is it time for new strategies?",
+      "abstract": "Inflammatory bowel diseases' traditional management focused primarily on symptom control, often failing to prevent long-term complications such as disease progression, disabilities, hospitalizations and surgeries. The introduction of biologics and small molecules has revolutionized IBD management, enhancing inflammation control. A pivotal advance in this field is represented by the Treat-to-Target approach, which prioritizes the achievement of specific goals like endoscopic remission and biomarker normalization, thus moving beyond symptomatic relief. The STRIDE recommendations have been pivotal in shaping treatment goals, with STRIDE-II advancing this approach by adding timelines to established targets and suggesting histologic remission for UC and transmural healing for CD as supplementary objectives. Future strategies are expected to incorporate these outcomes, aiming for more comprehensive disease control. This review evaluates whether new therapeutic targets are required to address the unmet needs in IBD management and to further improve longterm patient outcomes.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colitis, Ulcerative",
+        "Crohn Disease",
+        "Remission Induction",
+        "Biomarkers",
+        "Treatment Outcome",
+        "Biological Products",
+        "Inflammatory Bowel Diseases",
+        "Gastrointestinal Agents"
+      ],
+      "chemicals": [
+        "Biomarkers",
+        "Biological Products",
+        "Gastrointestinal Agents"
+      ],
+      "journal": "Best practice & research. Clinical gastroenterology",
+      "authors": [
+        "Fabrizio Fanizzi",
+        "Ferdinando D'Amico",
+        "Laurent Peyrin-Biroulet",
+        "Silvio Danese",
+        "Axel Dignass"
+      ]
+    }
+  ]
+}

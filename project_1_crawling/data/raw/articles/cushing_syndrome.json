@@ -1,0 +1,400 @@
+{
+  "disease": "Cushing Syndrome",
+  "slug": "cushing_syndrome",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "34253540",
+      "title": "Glucocorticoid induced adrenal insufficiency.",
+      "abstract": "Synthetic glucocorticoids are widely used for their anti-inflammatory and immunosuppressive actions. A possible unwanted effect of glucocorticoid treatment is suppression of the hypothalamic-pituitary-adrenal axis, which can lead to adrenal insufficiency. Factors affecting the risk of glucocorticoid induced adrenal insufficiency (GI-AI) include the duration of glucocorticoid therapy, mode of administration, glucocorticoid dose and potency, concomitant drugs that interfere with glucocorticoid metabolism, and individual susceptibility. Patients with exogenous glucocorticoid use may develop features of Cushing's syndrome and, subsequently, glucocorticoid withdrawal syndrome when the treatment is tapered down. Symptoms of glucocorticoid withdrawal can overlap with those of the underlying disorder, as well as of GI-AI. A careful approach to the glucocorticoid taper and appropriate patient counseling are needed to assure a successful taper. Glucocorticoid therapy should not be completely stopped until recovery of adrenal function is achieved. In this review, we discuss the factors affecting the risk of GI-AI, propose a regimen for the glucocorticoid taper, and make suggestions for assessment of adrenal function recovery. We also describe current gaps in the management of patients with GI-AI and make suggestions for an approach to the glucocorticoid withdrawal syndrome, chronic management of glucocorticoid therapy, and education on GI-AI for patients and providers.",
+      "pub_date": "2021-07-12",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Acute Disease",
+        "Adrenal Insufficiency",
+        "Chronic Disease",
+        "Cushing Syndrome",
+        "Directive Counseling",
+        "Glucocorticoids",
+        "Humans",
+        "Hypothalamo-Hypophyseal System",
+        "Patient Education as Topic",
+        "Risk Factors",
+        "Substance Withdrawal Syndrome"
+      ],
+      "chemicals": [
+        "Glucocorticoids"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Alessandro Prete",
+        "Irina Bancos"
+      ]
+    },
+    {
+      "pmid": "26222757",
+      "title": "Treatment of Cushing's Syndrome: An Endocrine Society Clinical Practice Guideline.",
+      "abstract": "The objective is to formulate clinical practice guidelines for treating Cushing's syndrome. Participants include an Endocrine Society-appointed Task Force of experts, a methodologist, and a medical writer. The European Society for Endocrinology co-sponsored the guideline. The Task Force used the Grading of Recommendations, Assessment, Development, and Evaluation system to describe the strength of recommendations and the quality of evidence. The Task Force commissioned three systematic reviews and used the best available evidence from other published systematic reviews and individual studies. The Task Force achieved consensus through one group meeting, several conference calls, and numerous e-mail communications. Committees and members of The Endocrine Society and the European Society of Endocrinology reviewed and commented on preliminary drafts of these guidelines. Treatment of Cushing's syndrome is essential to reduce mortality and associated comorbidities. Effective treatment includes the normalization of cortisol levels or action. It also includes the normalization of comorbidities via directly treating the cause of Cushing's syndrome and by adjunctive treatments (eg, antihypertensives). Surgical resection of the causal lesion(s) is generally the first-line approach. The choice of second-line treatments, including medication, bilateral adrenalectomy, and radiation therapy (for corticotrope tumors), must be individualized to each patient.",
+      "pub_date": "2015-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Research Support, N.I.H., Intramural"
+      ],
+      "mesh_descriptors": [
+        "Adrenal Gland Neoplasms",
+        "Adrenalectomy",
+        "Consensus",
+        "Cushing Syndrome",
+        "Endocrinology",
+        "Evidence-Based Medicine",
+        "Humans",
+        "Patient Care Planning",
+        "Pituitary Neoplasms",
+        "Recurrence",
+        "Remission Induction"
+      ],
+      "chemicals": [],
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "authors": [
+        "Lynnette K Nieman",
+        "Beverly M K Biller",
+        "James W Findling",
+        "M Hassan Murad",
+        "John Newell-Price",
+        "Martin O Savage"
+      ]
+    },
+    {
+      "pmid": "29094913",
+      "title": "Secondary Hypertension: Discovering the Underlying Cause.",
+      "abstract": "Most patients with hypertension have no clear etiology and are classified as having primary hypertension. However, 5% to 10% of these patients may have secondary hypertension, which indicates an underlying and potentially reversible cause. The prevalence and potential etiologies of secondary hypertension vary by age. The most common causes in children are renal parenchymal disease and coarctation of the aorta. In adults 65 years and older, atherosclerotic renal artery stenosis, renal failure, and hypothyroidism are common causes. Secondary hypertension should be considered in the presence of suggestive symptoms and signs, such as severe or resistant hypertension, age of onset younger than 30 years (especially before puberty), malignant or accelerated hypertension, and an acute rise in blood pressure from previously stable readings. Additionally, renovascular hypertension should be considered in patients with an increase in serum creatinine of at least 50% occurring within one week of initiating angiotensin-converting enzyme inhibitor or angiotensin receptor blocker therapy; severe hypertension and a unilateral smaller kidney or difference in kidney size greater than 1.5 cm; or recurrent flash pulmonary edema. Other underlying causes of secondary hypertension include hyperaldosteronism, obstructive sleep apnea, pheochromocytoma, Cushing syndrome, thyroid disease, coarctation of the aorta, and use of certain medications.",
+      "pub_date": "2017-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Antihypertensive Agents",
+        "Aortic Coarctation",
+        "Cushing Syndrome",
+        "Drug Therapy, Combination",
+        "Female",
+        "Humans",
+        "Hyperaldosteronism",
+        "Hypertension",
+        "Male",
+        "Middle Aged",
+        "Primary Health Care",
+        "Risk Factors",
+        "Young Adult"
+      ],
+      "chemicals": [
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Antihypertensive Agents"
+      ],
+      "journal": "American family physician",
+      "authors": [
+        "Lesley Charles",
+        "Jean Triscott",
+        "Bonnie Dobbs"
+      ]
+    },
+    {
+      "pmid": "30340659",
+      "title": "Treating canine Cushing's syndrome: Current options and future prospects.",
+      "abstract": "Naturally occurring hypercortisolism, also known as Cushing's syndrome, is a common endocrine disorder in dogs that can be caused by an adenocorticotrophic hormone (ACTH)-producing pituitary adenoma (pituitary-dependent hypercortisolism, PDH; 80-85% of cases), or by an adrenocortical tumor (ACT; 15-20% of cases). To determine the optimal treatment strategy, differentiating between these two main causes is essential. Good treatment options are surgical removal of the causal tumor, i.e. hypophysectomy for PDH and adrenalectomy for an ACT, or radiotherapy in cases with PDH. Because these options are not without risks, not widely available and not suitable for every patient, pharmacotherapy is often used. In cases with PDH, the steroidogenesis inhibitor trilostane is most often used. In cases with an ACT, either trilostane or the adrenocorticolytic drug mitotane can be used. Although mostly effective, both treatments have disadvantages. This review discusses the current treatment options for canine hypercortisolism, and considers their mechanism of action, efficacy, adverse effects, and effect on survival. In addition, developments in both adrenal-targeting and pituitary-targeting drugs that have the potential to become future treatment options are discussed, as a more selective and preferably also tumor-targeted approach could have many advantages for both PDH and ACTs.",
+      "pub_date": "2018-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Cushing Syndrome",
+        "Dog Diseases",
+        "Dogs",
+        "Forecasting",
+        "Veterinary Medicine"
+      ],
+      "chemicals": [],
+      "journal": "Veterinary journal (London, England : 1997)",
+      "authors": [
+        "K Sanders",
+        "H S Kooistra",
+        "S Galac"
+      ]
+    },
+    {
+      "pmid": "36876715",
+      "title": "Glucocorticoid withdrawal syndrome: what to expect and how to manage.",
+      "abstract": "Glucocorticoid withdrawal syndrome (GWS) can develop after withdrawing exposure to supraphysiological levels of endogenous or exogenous glucocorticoids due to an established physical dependence. It is characterised by symptoms similar to adrenal insufficiency but needs to be regarded as a separate entity. GWS is often under-recognised in clinical practice and affected patients can experience significant impairment in their quality of life. A cornerstone in GWS management is adequate patient education and reassurance that symptoms are expected and typically temporary. Patients with endogenous Cushing's syndrome need to be aware that psychopathology may persist into the postoperative period. GWS is more likely to develop in severe Cushing's syndrome and in patients with very low levels of cortisol after surgery. Postoperatively, glucocorticoid replacement should be initiated and tapered in an individualised approach but there is currently no consensus on the best tapering strategy. If symptoms of GWS develop, glucocorticoid replacement ought to be temporarily increased to the previous, well tolerated dose. No randomised studies have thus far compared regimens for withdrawing glucocorticoids after treatment for anti-inflammatory or immunosuppressive causes to determine the best and safest tapering strategy. One open-label, single-arm trial in patients with asthma has recently proposed a personalised glucocorticoid tapering regimen which included the systematic assessment of adrenal function. Awareness of GWS by treating physicians and patient education are essential. Evidence on optimal GWS management after Cushing's syndrome treatment is scarce, but new data are emerging for tapering after long-term glucocorticoid treatment.",
+      "pub_date": "2023-06-01",
+      "publication_types": [
+        "Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Glucocorticoids",
+        "Cushing Syndrome",
+        "Quality of Life",
+        "Hydrocortisone",
+        "Adrenal Insufficiency"
+      ],
+      "chemicals": [
+        "Glucocorticoids",
+        "Hydrocortisone"
+      ],
+      "journal": "Current opinion in endocrinology, diabetes, and obesity",
+      "authors": [
+        "Verena Theiler-Schwetz",
+        "Alessandro Prete"
+      ]
+    },
+    {
+      "pmid": "25480800",
+      "title": "Cushing's syndrome: from physiological principles to diagnosis and clinical care.",
+      "abstract": "The physiological control of cortisol synthesis in the adrenal cortex involves stimulation of adrenocorticotrophic hormone (ACTH) by hypothalamic corticotrophin-releasing hormone (CRH) and then stimulation of the adrenal by ACTH. The control loop of the hypothalamic-pituitary-adrenal (HPA) axis is closed by negative feedback of cortisol on the hypothalamus and pituitary. Understanding this system is required to master the diagnosis, differential diagnosis and treatment of endogenous hypercortisolism--Cushing's syndrome. Endogenous Cushing's syndrome is caused either by excess ACTH secretion or by autonomous cortisol release from the adrenal cortex. Diagnosis of cortisol excess exploits three physiological principles: failure to achieve the normal nadir in the cortisol diurnal rhythm, loss of sensitivity of ACTH-secreting tumours to cortisol negative feedback, and increased excretion of free cortisol in the urine. Differentiating a pituitary source of excess ACTH (Cushing's disease) from an ectopic source is accomplished by imaging the pituitary and sampling for ACTH in the venous drainage of the pituitary. With surgical removal of ACTH or cortisol-secreting tumours, secondary adrenal insufficiency ensues because of the prior suppression of the HPA axis by glucocorticoid negative feedback. Medical therapy is targeted to the anatomical location of the dysregulated component of the HPA axis. Future research will focus on new diagnostics and treatments of Cushing's syndrome. These are elegant examples of translational research: understanding basic physiology informs the development of new approaches to diagnosis and treatment. Appreciating pathophysiology generates new areas for inquiry of basic physiological and biochemical mechanisms.",
+      "pub_date": "2015-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Cushing Syndrome",
+        "Feedback, Physiological",
+        "Humans",
+        "Hypothalamo-Hypophyseal System",
+        "Pituitary-Adrenal System"
+      ],
+      "chemicals": [],
+      "journal": "The Journal of physiology",
+      "authors": [
+        "Hershel Raff",
+        "Ty Carroll"
+      ]
+    },
+    {
+      "pmid": "38010274",
+      "title": "Vitamin C supplementation alleviates hypercortisolemia caused by chronic stress.",
+      "abstract": "The aim of this study was to determine whether ascorbic acid (AA) supplementation can lower plasma levels of Cortisol and dehydroepiandrosterone-sulphate (DHEA-S) in patients diagnosed with functional hypercortisolemia due to unspecified chronic stress. Study includes data from 69 female with elevations in the cortisol and DHEA-S levels. Duration of follow-up was 2\u00a0months. Patients were divided into 3 groups. Group I included patients 23 with elevated cortisol, Group II-patients 24 with elevated levels of both hormones, Group III- patients 22 with normal cortisol and increased DHEA-S. Each group was randomly divided into two subgroups. The first subgroup was prescribed 1000\u00a0mg daily oral dose of AA. The diet of the second subgroup were left unaltered. All patients have their hormones levels re-examined 2\u00a0months later. After 2\u00a0months of AA supplementation the mean levels of elevated plasma cortisol and DHEA-S decreased. In Group I the level of cortisol fell from 780\u00a0\u00b1\u00a057-446\u00a0\u00b1\u00a026\u00a0nmol/L, p\u00a0=\u00a00.000065 in Group II from 657\u00a0\u00b1\u00a047-515\u00a0\u00b1\u00a029\u00a0nmol/L, p\u00a0=\u00a00.005. The elevated levels of DHEA-S have also declined in patients from AA-treated subgroups (from 13.9\u00a0\u00b1\u00a01.6-9.9\u00a0\u00b1\u00a01.2, p\u00a0=\u00a00.0007 in Group II, and from 12.8\u00a0\u00b1\u00a01.0-7.8\u00a0\u00b1\u00a01.4, p\u00a0=\u00a00.003 in Group III). In untreated subgroups changes in hormone levels were insignificant. The study shows that female patients with functional hypercortisolemia or elevated levels of DHEA-S can be treated with AA to bring level of these hormones closer to a normal range.",
+      "pub_date": "2024-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Ascorbic Acid",
+        "Hydrocortisone",
+        "Dehydroepiandrosterone Sulfate",
+        "Adult",
+        "Dietary Supplements",
+        "Middle Aged",
+        "Stress, Psychological",
+        "Cushing Syndrome",
+        "Chronic Disease"
+      ],
+      "chemicals": [
+        "Ascorbic Acid",
+        "Hydrocortisone",
+        "Dehydroepiandrosterone Sulfate"
+      ],
+      "journal": "Stress and health : journal of the International Society for the Investigation of Stress",
+      "authors": [
+        "Narine Beglaryan",
+        "Gagik Hakobyan",
+        "Eduard Nazaretyan"
+      ]
+    },
+    {
+      "pmid": "35507245",
+      "title": "Glucocorticoid receptor blockers.",
+      "abstract": "Mifepristone is the only glucocorticoid receptor antagonist currently approved for the treatment of Cushing's syndrome. Although originally developed as an abortifacient due to its blockade of the progesterone receptor, a number of case reports documented its efficacy as a glucocorticoid receptor blocker going back to 1985. The SEISMIC trial, published in 2012, provided sufficient data on efficacy and adverse effects for regulatory approval. Mifepristone provides clear benefits on glycemia, blood pressure, muscle weakness, body weight and the other myriad clinical manifestations of Cushing's syndrome. However, because it blocks the glucocorticoid receptor, blood cortisol and ACTH levels actually rise, rather than fall; this complicates patient management. Doses are adjusted based on clinical manifestations rather than hormone levels. Adverse effects include adrenal insufficiency due to overdosage, hypokalemia, and menorrhagia. Treatment of severe adrenal insufficiency requires high doses of dexamethasone. Other glucocorticoid receptor blockers without effects on the progesterone receptor are being developed. Because mifepristone inhibits CYP3A and CYP2C8/2C9, drug-drug interactions can occur. These potential adverse effects can largely be avoided with careful attention to detail. My opinion is that its current place in therapy is in patients with severe disease and in those not responding to other treatments.",
+      "pub_date": "2022-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Humans",
+        "Mifepristone",
+        "Receptors, Glucocorticoid",
+        "Cushing Syndrome",
+        "Hormone Antagonists",
+        "Receptors, Progesterone",
+        "Hydrocortisone",
+        "Cytochrome P-450 CYP2C8",
+        "Cytochrome P-450 CYP3A",
+        "Adrenal Insufficiency",
+        "Abortifacient Agents",
+        "Adrenocorticotropic Hormone",
+        "Dexamethasone"
+      ],
+      "chemicals": [
+        "Mifepristone",
+        "Receptors, Glucocorticoid",
+        "Hormone Antagonists",
+        "Receptors, Progesterone",
+        "Hydrocortisone",
+        "Cytochrome P-450 CYP2C8",
+        "Cytochrome P-450 CYP3A",
+        "Abortifacient Agents",
+        "Adrenocorticotropic Hormone",
+        "Dexamethasone"
+      ],
+      "journal": "Pituitary",
+      "authors": [
+        "Mark E Molitch"
+      ]
+    },
+    {
+      "pmid": "36470583",
+      "title": "Efficacy and Safety of Osilodrostat in Paraneoplastic Cushing Syndrome: A Real-World Multicenter Study in France.",
+      "abstract": "Prospective studies have demonstrated the efficacy of osilodrostat in Cushing disease. No study has evaluated osilodrostat in a series of patients with paraneoplastic Cushing syndrome/ectopic adrenocorticotropin syndrome (PNCS/EAS). This work aimed to evaluate in France the real-world efficacy and safety of osilodrostat in patients with PNCS/EAS. A total of 33 patients with PNCS/EAS with intense/severe hypercortisolism were involved in this retrospective, multicenter, real-world study. Patients received osilodrostat between May 2019 and March 2022 at a median initial dose (range) of 4 mg/day (1-60) and maximum dose, 20 mg/day (4-100), first under patient then cohort temporary authorizations and after marketing authorization. Regimens used titration (n = 6), block and replace (n = 16), or titration followed by block and replace (n = 11). In 11 patients receiving osilodrostat as first-line monotherapy, median 24-hour urinary free cortisol (24h-UFC) decreased dramatically (from 26 \u00d7 upper limit of normal [ULN; 2.9-659] to 0.11 \u00d7 ULN [0.08-14.9]; P < .001). In 9 of them, 24h-UFC normalization was achieved in 2 weeks (median). Thirteen additional patients were previously treated with classic steroidogenesis inhibitors but 10 of these 13 were not controlled. In these patients, osilodrostat monotherapy, used as second line, induced a significantly decreased of 24h-UFC (from 2.6 \u00d7 ULN [1.1-144] to 0.22 \u00d7 ULN [0.12-0.66]; P < .01). Nine additional patients received osilodrostat in combination with another anticortisolic drug, decreasing 24h-UFC from 11.8 \u00d7 ULN (0.3-247) to 0.43 \u00d7 ULN (0.33-2.4) (P < .01). In parallel, major clinical symptoms/comorbidities improved dramatically with improvement in blood pressure, hyperglycemia, and hypokalemia, allowing the discontinuation or dose reduction of patient treatments. Adrenal insufficiency (grade 3-4) was reported in 8 of 33 patients. Osilodrostat is a rapidly efficient therapy for PNCS/EAS with severe/intense hypercortisolism. Osilodrostat was generally well tolerated; adrenal insufficiency was the main side effect.",
+      "pub_date": "2023-05-17",
+      "publication_types": [
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cushing Syndrome",
+        "Prospective Studies",
+        "Retrospective Studies",
+        "Adrenocorticotropic Hormone",
+        "Adrenal Insufficiency",
+        "Hydrocortisone",
+        "Imidazoles",
+        "Pyridines"
+      ],
+      "chemicals": [
+        "Adrenocorticotropic Hormone",
+        "Hydrocortisone",
+        "Osilodrostat",
+        "Imidazoles",
+        "Pyridines"
+      ],
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "authors": [
+        "Alexandre Dormoy",
+        "Magalie Haissaguerre",
+        "G\u00e9raldine Vitellius",
+        "Christine Do Cao",
+        "Aurore Geslot",
+        "Delphine Drui"
+      ]
+    },
+    {
+      "pmid": "40249765",
+      "title": "Prevalence of Hypercortisolism in Difficult-to-Control Type 2 Diabetes.",
+      "abstract": "Despite the use of multiple glucose-lowering medications, glycemic targets are not met in a significant fraction of people with type 2 diabetes. In this prospective, observational study we assessed the prevalence of hypercortisolism, a potential contributing factor to inadequate glucose control. Individuals with type 2 diabetes and HbA1c 7.5%-11.5% (58-102 mmol/mol) on two or more glucose-lowering medications with or without micro-/macrovascular complications or taking multiple blood pressure-lowering medications were screened with a 1-mg dexamethasone suppression test. Common causes of false-positive DSTs were excluded. The primary end point was the prevalence of hypercortisolism, defined as post-DST cortisol >1.8 \u03bcg/dL (50 nmol/L). Characteristics associated with hypercortisolism were assessed with multiple logistic regression. The percentage and characteristics of participants with hypercortisolism and adrenal imaging abnormalities were also assessed. Post-DST cortisol was unsuppressed in 252 of 1,057 participants (prevalence 23.8%; 95% CI 21.3, 26.5). Hypercortisolism prevalence was 33.3% among participants with cardiac disorders and 36.6% among those taking three or more blood pressure-lowering medications. Adrenal imaging abnormalities were reported in 34.7% of participants with hypercortisolism. Use of sodium-glucose cotransporter 2 inhibitors (odds ratio 1.558), maximum-dose glucagon-like peptide 1 receptor agonists (1.544), tirzepatide (1.981), or a higher number of blood pressure-lowering medications (1.390); older age (1.316); BMI <30 kg/m2 (1.639); non-Latino/Hispanic ethnicity (3.718); and use of fibrates (2.676) or analgesics (1.457) were associated with higher prevalence (all P < 0.03). Hypercortisolism was associated with hyperglycemia in approximately one-quarter of individuals with inadequately controlled type 2 diabetes despite multiple medications.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Cushing Syndrome",
+        "Aged",
+        "Prevalence",
+        "Prospective Studies",
+        "Hydrocortisone",
+        "Hypoglycemic Agents"
+      ],
+      "chemicals": [
+        "Hydrocortisone",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "Diabetes care",
+      "authors": [
+        "John B Buse",
+        "Steven E Kahn",
+        "Vanita R Aroda",
+        "Richard J Auchus",
+        "Timothy Bailey",
+        "Irina Bancos"
+      ]
+    },
+    {
+      "pmid": "32141023",
+      "title": "Osilodrostat: First Approval.",
+      "abstract": "Osilodrostat (Isturisa",
+      "pub_date": "2020-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Administration, Oral",
+        "Cushing Syndrome",
+        "Drug Approval",
+        "Enzyme Inhibitors",
+        "Humans",
+        "Imidazoles",
+        "Molecular Conformation",
+        "Pyridines",
+        "Steroid 11-beta-Hydroxylase"
+      ],
+      "chemicals": [
+        "Enzyme Inhibitors",
+        "Imidazoles",
+        "Pyridines",
+        "Osilodrostat",
+        "Steroid 11-beta-Hydroxylase"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Sean Duggan"
+      ]
+    },
+    {
+      "pmid": "38569434",
+      "title": "Drug development and potential targets for Cushing's syndrome.",
+      "abstract": "Cushing's syndrome (CS) is a complex disorder characterized by the excessive secretion of cortisol, with Cushing's disease (CD), particularly associated with pituitary tumors, exhibiting heightened morbidity and mortality. Although transsphenoidal pituitary surgery (TSS) stands as the primary treatment for CD, there is a crucial need to optimize patient prognosis. Current medical therapy serves as an adjunctive measure due to its unsatisfactory efficacy and unpredictable side effects. In this comprehensive review, we delve into recent advances in understanding the pathogenesis of CS and explore therapeutic options by conducting a critical analysis of potential drug targets and candidates. Additionally, we provide an overview of the design strategy employed in previously reported candidates, along with a summary of structure-activity relationship (SAR) analyses and their biological efficacy. This review aims to contribute valuable insights to the evolving landscape of CS research, shedding light on potential avenues for therapeutic development.",
+      "pub_date": "2024-04-15",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cushing Syndrome",
+        "Pituitary ACTH Hypersecretion",
+        "Drug Delivery Systems",
+        "Drug Development",
+        "Hydrocortisone"
+      ],
+      "chemicals": [
+        "Hydrocortisone"
+      ],
+      "journal": "European journal of medicinal chemistry",
+      "authors": [
+        "Wei Wei",
+        "Qianqian Xu",
+        "Liuyi Wu",
+        "Guangyue Gong",
+        "Yucheng Tian",
+        "Huidan Huang"
+      ]
+    }
+  ]
+}

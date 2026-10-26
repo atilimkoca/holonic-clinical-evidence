@@ -1,0 +1,392 @@
+{
+  "disease": "HIV Infection",
+  "slug": "hiv_infection",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "42127259",
+      "title": "CROI 2026: HIV Comorbidities.",
+      "abstract": "Aging-related comorbid conditions have major effects on the health, quality of life, and survival of people with HIV (PWH). The 2026 Conference on Retroviruses and Opportunistic Infections (CROI) featured a number of studies about various comorbid diseases in PWH. Cardiovascular diseases and hypertension were important topics at CROI, with ancillary analyses from the REPRIEVE (Pitavastatin to Prevent Cardiovascular Disease in HIV Infection) trial and studies from lower- and middle-income countries. Metabolic dysfunction-associated fatty liver disease was highlighted in a themed discussion and studies on glucagon-like protein-1 receptor agonists in PWH and antiretroviral-related weight gain were featured prominently in other sessions. Research focusing on aging in PWH was presented, including numerous studies examining the effects of exercise and physical activity and important studies documenting the high prevalence of osteoporosis and frailty in PWH in sub-Saharan Africa. This review focuses on the abstracts presented at CROI 2026 in these areas, highlighting those with the most clinical impact.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "HIV Infections",
+        "Comorbidity",
+        "Cardiovascular Diseases",
+        "Quality of Life",
+        "Osteoporosis",
+        "Aging",
+        "Hypertension"
+      ],
+      "chemicals": [],
+      "journal": "Topics in antiviral medicine",
+      "authors": [
+        "Sudipa Sarkar",
+        "Todd T Brown"
+      ]
+    },
+    {
+      "pmid": "41742770",
+      "title": "The elite controller phenotype.",
+      "abstract": "Achieving a functional cure for HIV remains a major challenge. In this context, elite controllers (ECs) - rare people living with HIV who maintain durable virological suppression without antiretroviral therapy - represent a unique and highly informative model. Recent years have seen major advances in the characterization of EC phenotypes across diverse geographic settings, as well as renewed interest in their relevance for HIV cure strategies. This review is considering emerging data refining EC heterogeneity, and the unresolved question of antiretroviral treatment indications in this population. Recent studies highlight the marked heterogeneity among ECs, ranging from persistent controllers with long-term undetectable viral loads to transient or viremic controllers at risk of losing control. Key advances concern the quantitative and qualitative features of the HIV reservoir and the role of both adaptive and innate immune responses. Longitudinal cohorts have also clarified the dynamics of loss of control, and the generally low but nonnegligible burden of non-AIDS-defining comorbidities. Elite controllers provide critical insights into mechanisms of durable HIV remission and inform cure-oriented research. Improved stratification of EC phenotypes may help identify individuals approaching spontaneous functional cure. Antiretroviral therapy should be individualized, balancing virological stability, immune activation, comorbidities, and patient preference, while ongoing research aims to translate lessons from ECs into scalable HIV cure strategies.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "HIV Infections",
+        "Phenotype",
+        "HIV-1",
+        "Viral Load",
+        "HIV Long-Term Survivors",
+        "Anti-HIV Agents"
+      ],
+      "chemicals": [
+        "Anti-HIV Agents"
+      ],
+      "journal": "Current opinion in HIV and AIDS",
+      "authors": [
+        "Nicolas Noel",
+        "Olivier Lambotte"
+      ]
+    },
+    {
+      "pmid": "41680482",
+      "title": "Innate antiviral and immune functions associated with the HIV reservoir decay after anti-PD-1 therapy.",
+      "abstract": "Antiretroviral therapy (ART) suppresses HIV but does not eliminate the latent viral reservoir, which persists in programmed cell death protein 1 (PD-1)-expressing CD4",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase I"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "HIV Infections",
+        "Female",
+        "Programmed Cell Death 1 Receptor",
+        "HIV-1",
+        "Antibodies, Monoclonal, Humanized",
+        "Adult",
+        "Immunity, Innate",
+        "Middle Aged",
+        "CD8-Positive T-Lymphocytes",
+        "CD4-Positive T-Lymphocytes",
+        "Viral Load",
+        "Virus Latency",
+        "Neoplasms",
+        "Immune Checkpoint Inhibitors"
+      ],
+      "chemicals": [
+        "Programmed Cell Death 1 Receptor",
+        "Antibodies, Monoclonal, Humanized",
+        "pembrolizumab",
+        "PDCD1 protein, human",
+        "Immune Checkpoint Inhibitors"
+      ],
+      "journal": "Nature medicine",
+      "authors": [
+        "Aarthi Talla",
+        "Joao L L C Azevedo",
+        "Muhammad Bilal Latif",
+        "Ana B Enriquez",
+        "Gabriela Pacheco Sanchez",
+        "Adam N Pelletier"
+      ]
+    },
+    {
+      "pmid": "41734181",
+      "title": "HIV-1 drug resistance and associated risk factors in patients with antiretroviral therapy failure in Chongqing, China, 2019-2023.",
+      "abstract": "The emergence of drug resistance poses a major challenge to the long-term efficacy of antiretroviral therapy (ART) in managing HIV-1 infection. A comprehensive understanding of the prevalence and determinants of HIV-1 drug resistance mutations (DRMs) among patients with treatment failure in Chongqing, China, remains limited. This study sought to characterize the prevalence of HIV-1 DRMs and to identify factors associated with drug resistance in patients experiencing ART failure in Chongqing between 2019 and 2023. We conducted a retrospective analysis of individuals living with HIV/AIDS who had received ART for at least six months and exhibited virologic failure(VF) (viral load(VL) > 1000 copies/mL). Genotypic resistance testing was performed on plasma samples. Associations between potential risk factors and the presence of DRMs were evaluated using univariate and multivariate logistic regression models. Of the 1,522 patients with ART failure included in the study, amplifiable partial pol and integrase (INT) gene sequences were obtained from 1,426 and 653 specimens, respectively. DRMs were identified in 66.55% (949/1,426) of the patients. The predominant HIV-1 subtype was CRF07_BC (50.14%). Class-specific DRM prevalence was highest for non-nucleoside reverse transcriptase inhibitors (NNRTIs) at 61.15%, followed by nucleoside reverse transcriptase inhibitors (NRTIs) at 44.60%, integrase strand transfer inhibitors (INSTIs) at 6.13%, and protease inhibitors (PIs) at 5.39%. The most commonly observed mutations were M184V/I (38.00%) for NRTIs, K103N/S/H (24.96%) for NNRTIs, and M46I (1.54%) for PIs. Multivariate analysis confirmed that lower baseline CD4\u2009+\u2009T-cell counts and initiation of treatment with an NNRTI-based regimen were independently associated with the development of DRMs. Our study reveals a high prevalence of HIV-1 drug resistance among patients with treatment failure in Chongqing, with low baseline CD4\u2009+\u2009T-cell counts and NNRTI-based initial regimens identified as key risk factors. These findings underscore the urgency of optimizing first-line therapy by prioritizing dolutegravir (DTG)-based regimens, with protease inhibitor (PI)-based regimens as a practical alternative. Furthermore, we recommend implementing timely genotypic resistance testing, ideally within 4 weeks upon confirmed virologic failure, to guide effective regimen switching and curb the spread of drug resistance.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "HIV-1",
+        "Male",
+        "Female",
+        "Drug Resistance, Viral",
+        "Adult",
+        "China",
+        "Risk Factors",
+        "HIV Infections",
+        "Middle Aged",
+        "Treatment Failure",
+        "Retrospective Studies",
+        "Viral Load",
+        "Anti-HIV Agents",
+        "Mutation",
+        "Prevalence",
+        "Genotype"
+      ],
+      "chemicals": [
+        "Anti-HIV Agents"
+      ],
+      "journal": "PloS one",
+      "authors": [
+        "Huizheng Zhang",
+        "Ping Wu",
+        "Wei Ye"
+      ]
+    },
+    {
+      "pmid": "42126966",
+      "title": "CT Manifestations of HIV-associated Pulmonary Infections and Noninfectious Mimics in the Era of Antiretroviral Therapy.",
+      "abstract": "Following the introduction of antiretroviral therapy (ART), the prognosis after being diagnosed with HIV infection has changed from a universally fatal disease to a largely manageable chronic condition. Despite these advances, opportunistic infections remain a central challenge, particularly in individuals with declining CD4 T-cell counts. The authors review the pathologic conditions unique to patients living with HIV infection at various levels of disease progression, based on CD4 cell thresholds, and examine how radiologic patterns at CT can guide differential diagnoses in the post-ART age. A CT pattern-based radiologic approach-such as consolidation, ground-glass opacities, cavitation, and nodularity-enables radiologists to distinguish between typical bacterial infections, opportunistic fungal or mycobacterial processes, and less common viral causes in addition to their many mimics. Immune reconstitution inflammatory syndrome (IRIS) further complicates the diagnostic algorithm, as newly reconstituted immune activity after initiation of ART can unmask previously subclinical infections or worsen known ones. The overlapping clinical and imaging features of IRIS with opportunistic disease underscore the need for vigilant monitoring and a nuanced interpretation of radiologic findings. Additionally, lymphadenopathy in patients living with HIV infection is a common CT finding with a broad differential diagnosis, which can be narrowed if one is attuned to certain characteristics useful in differentiating underlying disease. In this comprehensive overview, the authors highlight the critical role of using CD4 cell counts with a pattern-based approach to interpreting radiologic studies in optimizing care for people living with HIV infection.",
+      "pub_date": "2026-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diagnosis, Differential",
+        "Tomography, X-Ray Computed",
+        "AIDS-Related Opportunistic Infections",
+        "Immune Reconstitution Inflammatory Syndrome",
+        "HIV Infections",
+        "Anti-Retroviral Agents"
+      ],
+      "chemicals": [
+        "Anti-Retroviral Agents"
+      ],
+      "journal": "Radiographics : a review publication of the Radiological Society of North America, Inc",
+      "authors": [
+        "Joshua Volin",
+        "Luma Abunimer",
+        "Timothy Arleo",
+        "Michael Beal",
+        "David Kraft",
+        "Joseph Mansour"
+      ]
+    },
+    {
+      "pmid": "42156038",
+      "title": "[HIV-Associated Neurocognitive Disorders (HAND)].",
+      "abstract": "HIV-associated neurocognitive disorders (HAND) are characterized by an insidious onset and a slowly progressive course and are observed in approximately 20-50% of people living with HIV. No disease-specific laboratory tests or neuroimaging findings exist for the diagnosis of HAND, and comprehensive neuropsychological assessment is considered the ideal diagnostic approach. Although antiretroviral therapy reduces the risk of developing HAND, HIV is known to invade the central nervous system (CNS) early in the course of infection and establish a so-called \"CNS reservoir.\" Consequently, therapeutic strategies that take the CNS reservoir into account are required.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "HIV Infections",
+        "Neurocognitive Disorders",
+        "AIDS Dementia Complex"
+      ],
+      "chemicals": [],
+      "journal": "Brain and nerve = Shinkei kenkyu no shinpo",
+      "authors": [
+        "Hiroaki Yokote",
+        "Taiichiro Kobayashi",
+        "Yoshiharu Miura"
+      ]
+    },
+    {
+      "pmid": "41776101",
+      "title": "Autologous neutralizing antibodies and polyfunctional T cells contribute to long-term HIV-1 post-intervention control.",
+      "abstract": "Antiretroviral therapy (ART) interruption typically leads to rapid HIV-1 viral rebound in people with HIV-1. To develop an HIV-1 cure, insight into immunological mechanisms capable of preventing HIV-1 viral rebound is urgently needed. Here, we describe three exceptional post-intervention controllers (PICs) who maintained ART-free virological control for >6.5 years (ongoing), >7.5 years (ongoing) and 2.5 years following administration of broadly neutralizing antibodies. PICs had quantifiable genetically intact/inducible infectious proviral reservoirs that were increasingly clonal and located in nongenic/centromeric chromosomal regions, indicating immune-mediated selection. Potent autologous neutralizing antibodies and polyfunctional HIV-1-specific CD4",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "HIV-1",
+        "HIV Infections",
+        "CD4-Positive T-Lymphocytes",
+        "HIV Antibodies",
+        "CD8-Positive T-Lymphocytes",
+        "Male",
+        "Antibodies, Neutralizing",
+        "Adult",
+        "Female",
+        "Viral Load",
+        "Middle Aged",
+        "Broadly Neutralizing Antibodies"
+      ],
+      "chemicals": [
+        "HIV Antibodies",
+        "Antibodies, Neutralizing",
+        "Broadly Neutralizing Antibodies"
+      ],
+      "journal": "Nature immunology",
+      "authors": [
+        "Katie Fisher",
+        "Mauro A Garcia",
+        "Giacomo S Frattari",
+        "Chlo\u00e9 Naasz",
+        "Junlin Zhuo",
+        "Miriam Ros\u00e1s-Umbert"
+      ]
+    },
+    {
+      "pmid": "42116767",
+      "title": "Pharmacogenomics of current antiretroviral drugs.",
+      "abstract": "Advances in antiretroviral drug development have led to safer drugs with improved tolerability, enhanced activity against drug-resistant HIV, higher genetic barrier to resistance, and fewer drug-drug interactions. Genetic polymorphisms in drug-metabolizing enzymes, transporters, and immune pathways contribute to interindividual variability in antiretroviral pharmacokinetics and toxicity.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pharmacogenetics",
+        "Glucuronosyltransferase",
+        "Anti-Retroviral Agents",
+        "HIV Infections",
+        "Anti-HIV Agents",
+        "Polymorphism, Genetic",
+        "Drug Interactions"
+      ],
+      "chemicals": [
+        "Glucuronosyltransferase",
+        "Anti-Retroviral Agents",
+        "Anti-HIV Agents"
+      ],
+      "journal": "Pharmacogenomics",
+      "authors": [
+        "Jessica H Taylor",
+        "Hannah M Gunter",
+        "David W Haas",
+        "Phumla Z Sinxadi"
+      ]
+    },
+    {
+      "pmid": "42048495",
+      "title": "Machine Learning in HIV Care and Antiretroviral Therapy: Systematic Review.",
+      "abstract": "Artificial intelligence (AI) is expanding across various medical fields, with machine learning (ML) being increasingly used to enhance patient management in diagnosis, prevention, and therapeutic care. This study aims to provide an overview of ML applications in HIV care, focusing on real clinical data to improve health care for people living with HIV and on antiretroviral therapy, while highlighting unexplored areas. Following PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 2020 reporting guidelines, we analyzed four databases: PubMed, Embase, IEEE, and Web of Science until August 31, 2024. The keywords used were: \"Machine Learning,\" \"HIV,\" and \"Antiretroviral Therapy.\" We excluded from this review studies (1) that were not directly focused on HIV or those that did not apply ML to real clinical data, (2) that focused on pre-exposure prophylaxis, (3) studies involving in silico antiretroviral drug development, and (4) studies on the biological mechanisms underlying HIV diagnosis. Three experts (TB, MBVR, and JLR) screened each article independently. Overall, 476 studies were identified, and after eligibility assessment, 98 were finally analyzed in detail. Three experts (TB, MBVR, and JLR) identified 6 major categories of ML applications used in the clinical field of HIV: consideration of comorbidities for people living with HIV, predicting drug resistance of the virus, monitoring HIV infection itself, predicting treatment outcomes for people living with HIV, treatment adherence for people living with HIV, and treatment recommendation for clinicians. Random forests emerged as the most used algorithm with 17.49% (43/247), proving effective in identifying biomarkers of metabolic syndrome, genetic features of the HIV envelope, and predicting neurocognitive impairment. Random forests model has several advantages: (1) handle linear, nonlinear data, and missing data, (2) reduce overfitting compared to single trees, (3) robust to noise and outliers, (4) provide feature importance measures, and (5) good generalization ability. Support vector machines demonstrated strong abilities in analyzing the associations between HIV-1 genotypes and resistance phenotypes, predicting virological response to therapy based on HIV genotype, detecting mutations associated with HIV drug resistance , and enhancing computational predictions of resistance from genotype data. Logistic regression appears to be most powerful in predicting various treatment outcomes, including virological failure, adverse events, immune changes in people living with HIV receiving antiretrovirals, and biomarkers of mitochondrial toxicity. Depending on the field of application, some ML methods are more suitable and adapt better to certain HIV concerns. However, some areas, such as treatment recommendations, treatment adherence, and treatment optimization, still lack AI algorithms and need further exploration, such as therapeutical optimization. The development of new clinical decision-support systems for people living with HIV is the new challenge for the years ahead, and AI represents one of the most promising tools to address it.",
+      "pub_date": "2026-04-28",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "HIV Infections",
+        "Machine Learning",
+        "Anti-HIV Agents",
+        "Anti-Retroviral Agents"
+      ],
+      "chemicals": [
+        "Anti-HIV Agents",
+        "Anti-Retroviral Agents"
+      ],
+      "journal": "Journal of medical Internet research",
+      "authors": [
+        "Thamina Boudra",
+        "Arafate Idrissou",
+        "Oussama Barakat",
+        "Siamak Davani",
+        "Marie-Blanche Valnet Rabier",
+        "Jennifer Lagoutte-Renosi"
+      ]
+    },
+    {
+      "pmid": "41854072",
+      "title": "A nanopore-based HIV-1 reference epitranscriptome.",
+      "abstract": "Post-transcriptional modifications to RNA, which comprise the epitranscriptome, play important roles in RNA metabolism, gene regulation, and disease pathogenesis. However, mapping modifications and characterizing their function is often challenged by a lack of consensus on their presence and significance. The availability of reference epitranscriptomes to benchmark data would significantly advance epitranscriptomic studies. Toward this goal, we established a reference epitranscriptome for human immunodeficiency virus 1 (HIV-1), an important human pathogen. We sequenced a model HIV-1 genome from infected T cells using the latest nanopore technology. A sense and novel preliminary antisense HIV-1 epitranscriptome were generated, where N6-methyladenosine, 5-methylcytidine, pseudouridine, inosine, and 2'-O-methyl modifications were mapped by multiplexed base calling at nucleotide resolution. Modification miscalling due to sequence and modification context was corrected with synthetic RNA fragments, and m6A was validated with an inhibitor. Modifications were consistent under combination antiretroviral therapy treatment, in primary CD4+ T cells, and in HIV-1 virions. In contrast, spliced transcript-dependent modification levels were observed. Sequencing samples from people living with HIV revealed substantial conservation of m6A in circulating strains. Our approach offers a benchmark reference to advance HIV-1 epitranscriptomics and provides a roadmap for the creation of reference epitranscriptomes for other viruses or pathogens.",
+      "pub_date": "2026-03-19",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "HIV-1",
+        "Humans",
+        "Transcriptome",
+        "Nanopores",
+        "RNA, Viral",
+        "RNA Processing, Post-Transcriptional",
+        "HIV Infections",
+        "Epigenesis, Genetic"
+      ],
+      "chemicals": [
+        "RNA, Viral"
+      ],
+      "journal": "Nucleic acids research",
+      "authors": [
+        "Michael S Bosmeny",
+        "Adrian A Pater",
+        "Li Zhang",
+        "Lydia L Larkai",
+        "Beverly E Sha",
+        "Zidi Lyu"
+      ]
+    },
+    {
+      "pmid": "41841659",
+      "title": "\u03b3c-cytokines in HIV Cure Research.",
+      "abstract": "Well tolerated, scalable strategies capable of targeting latent HIV reservoirs are essential for the development of cure approaches that can be implemented globally. In recent years, common \u03b3-chain cytokines (\u03b3c-cytokines) have emerged as promising candidates as standalone interventions or in combination with complementary therapeutic strategies. \u03b3c-cytokines exhibit latency-reversing activity and immunomodulatory effects. In this review, we summarize recent in-vitro, ex-vivo, and in-vivo studies evaluating the use of \u03b3c-cytokines in HIV cure research. \u03b3c-cytokines, particularly IL-2 and IL-15 (or the superagonist N-803), promote reactivation of latent HIV proviruses, especially when combined with approaches that enhance STAT-dependent transcriptional activity. Recent in-vivo studies demonstrate that IL-15-based therapies can contribute to viral control when administered with broadly neutralizing antibodies. In addition, IL-15/N-803, alone or in combination with other interventions, consistently enhance HIV-specific immune responses by boosting the survival, proliferation, and effector function of NK cells and CD8- T cells. Collectively, \u03b3c-cytokines show promise as dual-function agents capable of targeting latent HIV reservoirs through latency reversal and immune enhancement. Emerging preclinical and clinical data support their integration into multipronged strategies aimed at reservoir reduction and sustained immune-mediated control of HIV, laying groundwork for the development of durable functional cure approaches.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "HIV Infections",
+        "Virus Latency",
+        "HIV-1",
+        "Interleukin-15",
+        "Cytokines",
+        "Animals"
+      ],
+      "chemicals": [
+        "Interleukin-15",
+        "Cytokines"
+      ],
+      "journal": "Current opinion in HIV and AIDS",
+      "authors": [
+        "Claudia Melo",
+        "Jonathan S Lochner",
+        "Alberto Bosque"
+      ]
+    },
+    {
+      "pmid": "41776157",
+      "title": "HIV-seq reveals gene expression differences between HIV-transcribing cells from viremic and suppressed people with HIV.",
+      "abstract": "HIV-transcribing cells can perpetuate chronic inflammation in ART-suppressed people with HIV (PWH) and likely contribute to viral rebound after ART interruption. However, these cells are difficult to study using single-cell RNA-seq (scRNA-seq) due to their low frequency and low levels of HIV transcripts, which are usually not polyadenylated. By spiking in capture sequences targeting conserved regions of HIV during scRNA-seq - a new method we call \"HIV-seq\" - we detect double the mean number of HIV reads per cell from PWH. HIV RNA+ cells are enriched among T effector memory cells during both viremia and ART suppression but exhibit a cytotoxic signature during viremia only. In contrast, HIV-transcribing cells from ART-suppressed timepoints exhibit a distinct anti-inflammatory signature involving elevated TGF-\u03b2 and diminished IFN signaling. These findings demonstrate that HIV-seq is a useful tool to better understand the mechanisms by which HIV-transcribing cells can persist during ART.",
+      "pub_date": "2026-03-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "HIV Infections",
+        "Viremia",
+        "HIV-1",
+        "RNA-Seq",
+        "Single-Cell Analysis",
+        "RNA, Viral",
+        "CD4-Positive T-Lymphocytes",
+        "Transforming Growth Factor beta",
+        "Interferons"
+      ],
+      "chemicals": [
+        "RNA, Viral",
+        "Transforming Growth Factor beta",
+        "Interferons"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Julie Frouard",
+        "Sushama Telwatte",
+        "Xiaoyu Luo",
+        "Natalie Gill",
+        "Reuben Thomas",
+        "Douglas Arneson"
+      ]
+    }
+  ]
+}

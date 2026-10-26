@@ -1,0 +1,464 @@
+{
+  "disease": "Stroke",
+  "slug": "stroke",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41849741",
+      "title": "Left Atrial Appendage Closure or Medical Therapy in Atrial Fibrillation.",
+      "abstract": "Catheter-based closure of the left atrial appendage is an alternative to oral anticoagulation for stroke prevention in patients with atrial fibrillation. The effectiveness of this strategy, as compared with physician-directed best medical care, in patients at high risk for stroke and bleeding is unknown. In this multicenter randomized trial conducted in Germany, we assigned patients with atrial fibrillation and a high risk of stroke and bleeding to undergo left atrial appendage closure or to receive physician-directed best medical care (including direct oral anticoagulants, if eligible). The primary end point, tested for noninferiority, was a composite of stroke (ischemic or hemorrhagic), systemic embolism, major bleeding, or cardiovascular or unexplained death, assessed in a time-to-event analysis. The noninferiority margin was a hazard ratio of 1.3. A total of 912 adult patients underwent randomization. The primary end-point analysis included 446 patients who were assigned to undergo left atrial appendage closure (device group) and 442 who were assigned to physician-directed best medical care (medical-therapy group). The mean (\u00b1SD) age was 77.9\u00b17.1 years; 38.6% of the patients were women, the mean CHA Among patients with atrial fibrillation at high risk for stroke and bleeding, left atrial appendage closure was not noninferior to physician-directed best medical care with regard to a composite end point of stroke, systemic embolism, major bleeding, or cardiovascular or unexplained death. (Funded by the German Center for Cardiovascular Research; CLOSURE-AF ClinicalTrials.gov number, NCT03463317.).",
+      "pub_date": "2026-04-02",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Anticoagulants",
+        "Atrial Appendage",
+        "Atrial Fibrillation",
+        "Cardiovascular Diseases",
+        "Embolism",
+        "Hemorrhage",
+        "Kaplan-Meier Estimate",
+        "Left Atrial Appendage Closure",
+        "Septal Occluder Device",
+        "Stroke",
+        "Follow-Up Studies",
+        "Incidence",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Ulf Landmesser",
+        "Carsten Skurk",
+        "Paulus Kirchhof",
+        "Thorsten Lewalter",
+        "Johannes Hartung",
+        "Andi Rroku"
+      ]
+    },
+    {
+      "pmid": "41985132",
+      "title": "Asundexian for Secondary Stroke Prevention.",
+      "abstract": "Patients with noncardioembolic ischemic stroke or transient ischemic attack (TIA) are at risk for recurrent stroke. Low factor XI levels are associated with a reduced risk of ischemic stroke. Asundexian inhibits activated factor XI. Whether the addition of asundexian to antiplatelet therapy would be superior to antiplatelet therapy alone for the secondary prevention of ischemic stroke is unclear. In this phase 3, double-blind trial, we randomly assigned patients within 72 hours after the onset of a noncardioembolic ischemic stroke or high-risk TIA to receive asundexian (50 mg once daily) or placebo, in addition to planned dual or single antiplatelet therapy. Patients had at least one of the following: a nonlacunar infarct on imaging, a history of atherosclerosis, or evidence of atherosclerotic plaque at any location on cerebrovascular imaging. The primary efficacy outcome was ischemic stroke. The composite of death from cardiovascular causes, myocardial infarction, or stroke was a key secondary outcome. The primary safety outcome was major bleeding. Among 12,327 patients who underwent randomization (6162 to the asundexian group and 6165 to the placebo group), the incidence of ischemic stroke was lower in the asundexian group than in the placebo group (6.2% vs. 8.4%; cause-specific hazard ratio, 0.74; 95% confidence interval [CI], 0.65 to 0.84; P<0.001). The incidence of the composite of death from cardiovascular causes, myocardial infarction, or stroke was lower in the asundexian group than in the placebo group. The incidence of major bleeding was similar in the asundexian group and the placebo group (1.9% and 1.7%, respectively; cause-specific hazard ratio, 1.10; 95% CI, 0.85 to 1.44). The incidence of adverse events was 69.3% in the asundexian group and 70.1% in the placebo group; the incidence of serious adverse events was 19.2% and 19.5%, respectively. Among patients with noncardioembolic ischemic stroke or high-risk TIA treated with antiplatelet therapy, asundexian at a daily dose of 50 mg resulted in lower risks of ischemic stroke and major cardiovascular events than placebo, without a higher risk of major bleeding. (Funded by Bayer; OCEANIC-STROKE ClinicalTrials.gov number, NCT05686070.).",
+      "pub_date": "2026-04-16",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Benzamides",
+        "Cardiovascular Diseases",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Factor XIa",
+        "Hemorrhage",
+        "Hydrocarbons, Fluorinated",
+        "Incidence",
+        "Ischemic Attack, Transient",
+        "Ischemic Stroke",
+        "Kaplan-Meier Estimate",
+        "Myocardial Infarction",
+        "Platelet Aggregation Inhibitors",
+        "Recurrence",
+        "Secondary Prevention",
+        "Triazoles",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "asundexian",
+        "Benzamides",
+        "Factor XIa",
+        "Hydrocarbons, Fluorinated",
+        "Platelet Aggregation Inhibitors",
+        "Triazoles"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Mukul Sharma",
+        "Qiang Dong",
+        "Teruyuki Hirano",
+        "Scott E Kasner",
+        "Jeffrey L Saver",
+        "Jaime Masjuan"
+      ]
+    },
+    {
+      "pmid": "41642827",
+      "title": "Tenecteplase for Acute Non-Large Vessel Occlusion 4.5 to 24 Hours After Ischemic Stroke: The OPTION Randomized Clinical Trial.",
+      "abstract": "The efficacy and safety of intravenous tenecteplase in non-large vessel occlusion acute ischemic stroke beyond 4.5 hours after symptom onset remain uncertain. To assess the efficacy and safety of intravenous tenecteplase administered 4.5 to 24 hours after stroke onset in patients with non-large vessel occlusion and salvageable brain tissue. This randomized, open-label, blinded end-point clinical trial was conducted at 48 centers in China. A total of 566 patients with non-large vessel occlusion stroke and evidence of potentially salvageable tissue determined on perfusion imaging presenting within 4.5 to 24 hours of the time last seen well were recruited between June 2, 2023, and August 4, 2025 (final follow-up, October 28, 2025). Patients were randomly assigned 1:1 using a minimization algorithm to receive intravenous tenecteplase (0.25 mg/kg; maximum dose, 25 mg; n\u2009=\u2009282) or standard medical treatment (n\u2009=\u2009284). The primary efficacy outcome was an excellent functional outcome, defined as a score of 0 or 1 on the modified Rankin Scale at 90 days. Safety outcomes included symptomatic intracranial hemorrhage within 36 hours and mortality within 90 days. Among the 570 patients randomized, 566 were included in the primary analysis (median age, 68 [IQR, 59-75] years; 196 female [34.6%]). An excellent functional outcome was observed in 123 of 282 patients (43.6%) in the tenecteplase group and 97 of 284 (34.2%) in the control group (risk ratio, 1.28 [95% CI, 1.04-1.57]; P\u2009=\u2009.02). The incidence of symptomatic intracranial hemorrhage at 2.8% was higher with tenecteplase than with standard medical treatment at 0% (risk difference, 2.85% [95% CI, 1.16%-5.54%]; P\u2009=\u2009.004), and the mortality at 90 days was 5.0% and 3.2%, respectively (risk ratio, 1.57 [95% CI, 0.69-3.57]; P\u2009=\u2009.28). Among patients with non-large vessel occlusion acute ischemic stroke and salvageable brain tissue, intravenous tenecteplase administered 4.5 to 24 hours after onset resulted in a greater likelihood of an excellent functional outcome at 90 days than standard care but had an increased risk of symptomatic intracranial hemorrhage. ClinicalTrials.gov Identifier: NCT05752916.",
+      "pub_date": "2026-04-07",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Administration, Intravenous",
+        "Fibrinolytic Agents",
+        "Intracranial Hemorrhages",
+        "Ischemic Stroke",
+        "Tenecteplase",
+        "Time Factors",
+        "Treatment Outcome",
+        "China",
+        "Time-to-Treatment",
+        "Incidence"
+      ],
+      "chemicals": [
+        "Fibrinolytic Agents",
+        "Tenecteplase"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Gaoting Ma",
+        "Ran Mo",
+        "Yingting Zuo",
+        "Qingfeng Ma",
+        "Guangjian Zhao",
+        "Xiaoxi Yao"
+      ]
+    },
+    {
+      "pmid": "41435452",
+      "title": "Ischemic stroke nanomedicine.",
+      "abstract": "With the changes in lifestyle and the intensification of population aging, the incidence of stroke has been increasing annually, making it a global public health concern. Early diagnosis and precise treatment remain critical factors in improving patient outcomes. Despite advances in clinical management, current diagnostic and therapeutic approaches still face significant limitations. Nanomedicine, leveraging the unique physicochemical properties of nanomaterials, has emerged as a transformative strategy to overcome these challenges. Translating nanotechnology-based innovations into clinical practice for stroke management hinges on a clear understanding of recent advances, persistent challenges, and future research priorities. This review elucidates the pivotal role of nanomedicine in advancing the early diagnosis and treatment of ischemic stroke, focusing on its major pathogenic factors, the diverse compositional features of nanomaterials, and surface design strategies. The discussion encompasses nanoplatforms serving as contrast agents for various imaging modalities, nanocarriers for drug delivery, and multifunctional nanosystems for therapeutic applications. Furthermore, the review explores the current challenges and considerations in the clinical translation of nanomedicine for ischemic stroke management, while proposing future research directions to highlight the advantages of nanotechnology in stroke theranostics and facilitate its clinical adoption.",
+      "pub_date": "2026-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Nanomedicine",
+        "Ischemic Stroke",
+        "Animals",
+        "Drug Delivery Systems",
+        "Contrast Media",
+        "Stroke"
+      ],
+      "chemicals": [
+        "Contrast Media"
+      ],
+      "journal": "Biomaterials",
+      "authors": [
+        "Lan Luo",
+        "Meiqi Chang",
+        "Ying Wang",
+        "Yu Chen",
+        "Bingcang Huang"
+      ]
+    },
+    {
+      "pmid": "41376587",
+      "title": "Acute Treatment of Disabling and Nondisabling Minor Ischemic Stroke: Expert Guidance for Clinicians.",
+      "abstract": "Minor ischemic strokes, usually defined as acute ischemic strokes with National Institutes of Health Stroke Scale score \u22645, account for over half of all cases and are often underestimated due to initially mild symptoms. Yet up to 30% of patients develop disability within 90 days, challenging the notion of a benign course. This guidance offers a pragmatic, scenario-based framework for acute minor ischemic stroke management, considering symptom severity (disabling versus nondisabling), eligibility for reperfusion, and presence of large vessel occlusion. Drawing from randomized trials, real-world evidence, and international guidelines, we examine therapeutic strategies, including dual antiplatelet therapy with aspirin plus a P2Y12 inhibitor, anticoagulation, intravenous thrombolysis, and endovascular treatment. Intravenous thrombolysis is preferred for disabling symptoms within 4.5 hours of symptom onset, whereas dual antiplatelet therapy remains standard for noncardioembolic, nondisabling events. For cardioembolic minor ischemic stroke ineligible for reperfusion, early anticoagulation within 48 hours appears safe and beneficial. Evidence for routine endovascular treatment in minor ischemic stroke with large vessel occlusion remains limited and controversial. We also address management of rapidly improving yet disabling symptoms and postreperfusion antithrombotic strategies, emphasizing individualized care and the need for further research.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Ischemic Stroke",
+        "Platelet Aggregation Inhibitors",
+        "Endovascular Procedures",
+        "Thrombolytic Therapy",
+        "Anticoagulants",
+        "Practice Guidelines as Topic",
+        "Stroke"
+      ],
+      "chemicals": [
+        "Platelet Aggregation Inhibitors",
+        "Anticoagulants"
+      ],
+      "journal": "Stroke",
+      "authors": [
+        "Federico De Santis",
+        "Matteo Foschi",
+        "Lucio D'Anna",
+        "Shelagh B Coutts",
+        "Urs Fischer",
+        "Pooja Khatri"
+      ]
+    },
+    {
+      "pmid": "41628627",
+      "title": "Efficacy and safety of minocycline in patients with acute ischaemic stroke (EMPHASIS): a multicentre, double-blind, randomised controlled trial.",
+      "abstract": "Minocycline has been reported as a multi-target anti-neuroinflammatory drug with potential benefits for ischaemic stroke in preclinical models and small-scale clinical studies. The EMPHASIS trial was designed to provide robust evidence regarding its efficacy and safety in patients with acute ischaemic stroke. A multicentre, double-blind, randomised, placebo-controlled trial was conducted at 58 hospitals across China. Patients who had an ischaemic stroke in the previous 72 h with a National Institutes of Health Stroke Scale (NIHSS) score ranging from 4 to 25 and a level of consciousness score (subscale 1a of the NIHSS) of 1 or less were randomly assigned in a 1:1 ratio to receive minocycline or placebo in addition to routine treatment. Minocycline (loading dose of 200 mg, followed by 100 mg every 12 h for the subsequent 4 days) or matching placebo was administered orally. Block randomisation with a fixed block size of four stratified by study site was done with a computer-generated randomisation sequence. All patients, treating clinicians, and investigators involved in the trial were fully masked to treatment allocation. The primary outcome was an excellent functional outcome at 90 days (with a modified Rankin Scale [mRS] score of 0-1) and was analysed in all patients who were randomised and received at least one dose of the study drug, without imputation for missing data. Safety outcomes were assessed in participants who received at least one dose of the study drug and had at least one safety evaluation and included symptomatic intracranial haemorrhage at 24 h and 6 days. This trial was registered with ClinicalTrials.gov (NCT05836740) and is now completed. Between May 19, 2023, and May 20, 2024, 1724 patients were randomly assigned to minocycline (n=862) or placebo (n=862) groups. Median age was 65 years (IQR 57-71). 1151 (66\u00b78%) patients were male and 573 (33\u00b72%) were female. Median NIHSS score at baseline was 5 (IQR 4-7). Four patients withdrew consent (three in the minocycline group and one in the placebo group) and 19 patients were lost to follow-up (nine in the minocycline group and ten in the placebo group). At 90 days, 447 (52\u00b76%) of 850 patients with minocycline and 403 (47\u00b74%) of 851 with placebo had an mRS score of 0-1 (adjusted risk ratio 1\u00b711, 95% CI 1\u00b703-1\u00b720; p=0\u00b70061). Ordinal analysis across the full range of mRS scores also favoured minocycline, with an adjusted common odds ratio of 1\u00b719 (95% CI 1\u00b703-1\u00b738; p=0\u00b7018). The incidence of symptomatic intracranial haemorrhage was similar between the minocycline and placebo groups at 24 h (1/860 [0\u00b71%] vs 0/861 [0%]) and 6 days (3/859 [0\u00b73%] vs 0/861 [0%]). No significant differences were observed in other safety outcomes, including serious adverse events (40/862 [4\u00b76%] in the minocycline group vs 51/862 [5\u00b79%] in the placebo group; p=0\u00b724). Minocycline therapy initiated within 72 h of acute ischaemic stroke provided a significant functional outcome benefit compared with placebo at 90 days, without safety concerns. Future studies are needed to confirm these findings and to establish whether the benefits extend to patients with more severe or minor strokes. National Natural Science Foundation of China, Beijing Healthunion Cardio-cerebrovascular Disease Prevention and Treatment Foundation, Noncommunicable Chronic Diseases-National Science and Technology Major Project, Beijing Municipal Science & Technology Commission, Chinese Institutes for Medical Research, Capital's Funds for Health Improvement and Research, and National Key R&D Program of China.",
+      "pub_date": "2026-02-14",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "China",
+        "Double-Blind Method",
+        "Ischemic Stroke",
+        "Minocycline",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Minocycline"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Yao Lu",
+        "Ling Guan",
+        "Jialing Wu",
+        "Qianqian Yang",
+        "Meiyang Zhang",
+        "Dongyang Zhou"
+      ]
+    },
+    {
+      "pmid": "41500725",
+      "title": "Edaravone dexborneol versus placebo on functional outcomes in patients with acute ischaemic stroke undergoing endovascular thrombectomy (TASTE-2): randomised controlled trial.",
+      "abstract": "To assess the efficacy and safety of edaravone dexborneol, a multitarget brain cytoprotectant composed of antioxidant and anti-inflammatory ingredients, in improving functional outcomes among patients with acute ischaemic stroke undergoing endovascular thrombectomy. Multicentre, double blind, randomised, placebo controlled trial. 106 hospitals in China between March 2022 and May 2023. 1362 patients with clinically diagnosed acute ischaemic stroke within 24 hours of symptom onset, aged 18-80 years, with a National Institutes of Health Stroke Scale (NIHSS) score of 6-25 and an Alberta Stroke Program Early Computed Tomography Score (ASPECTS) of 6-10, confirmed large vessel occlusion in the anterior circulation, and planned endovascular thrombectomy. Patients were randomly allocated in a 1:1 ratio to receive edaravone dexborneol 37.5 mg (edaravone, 30 mg; (+)-dexborneol, 7.5 mg; 690 patients) or placebo (672 patients) before endovascular thrombectomy and continued the regimen twice daily for a consecutive period of 10-14 days. Functional independence at 90 days, defined as a modified Rankin Scale score (range 0 (no symptoms) to 6 (death)) of 0-2, and serious adverse events. One patient from each group was lost to follow-up at 90 days. Of the 1360 patients included in the intention-to-treat analysis, 379 (55.0%) of 689 patients in the edaravone dexborneol group and 333 (49.6%) of 671 patients in the placebo group achieved functional independence on day 90 (risk ratio 1.11, 95% confidence interval (CI) 1.00 to 1.23; P=0.05; risk difference 5.4%, 95% CI 0.1% to 10.7%). Patients with mismatch at admission (defined as NIHSS score \u226510 and ASPECTS \u22659 or NIHSS score \u226520 and \u22657) were more likely to achieve functional independence in the subgroup analysis (55.5% (178/321) versus 42.9% (134/312); risk ratio 1.29, 1.10 to 1.52; risk difference 13.0%, 5.6% to 20.3%; P for interaction=0.003). The rates of serious adverse events were similar in the two groups (27.2% (188/690) versus 25.7% (173/672); risk ratio 1.06, 0.89 to 1.26; risk difference 1.5%, -3.2% to 6.2%: P=0.53). Among patients with acute ischaemic stroke within 24 hours of symptom onset who underwent endovascular thrombectomy, those treated with edaravone dexborneol, compared with placebo, were more likely to achieve functional independence at 90 days without increased safety concerns. This effect seemed to be primarily driven by the subgroup with mismatch present at admission, suggesting that dedicated trials in this population may be warranted. ClinicalTrials.gov NCT05249920.",
+      "pub_date": "2026-01-07",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Edaravone",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Ischemic Stroke",
+        "Double-Blind Method",
+        "Aged",
+        "Thrombectomy",
+        "Adult",
+        "Treatment Outcome",
+        "Endovascular Procedures",
+        "Aged, 80 and over",
+        "China",
+        "Free Radical Scavengers",
+        "Young Adult",
+        "Adolescent"
+      ],
+      "chemicals": [
+        "Edaravone",
+        "Free Radical Scavengers"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Chunjuan Wang",
+        "Hongqiu Gu",
+        "Xiaochuan Huo",
+        "Baoshi Yuan",
+        "Shuo Li",
+        "Jie Xu"
+      ]
+    },
+    {
+      "pmid": "41480685",
+      "title": "Timing of Initiation and Efficacy of Dual Antiplatelet Therapy in Minor Stroke or High-Risk TIA.",
+      "abstract": "Dual antiplatelet therapy (DAPT) is recommended within 24 hours for patients with minor ischemic stroke or high-risk transient ischemic attack. However, the optimal timing for initiating DAPT remains unclear. From a prospective multicenter cohort involving 20 stroke centers between January 2011 and April 2023, patients with minor noncardioembolic ischemic stroke (National Institutes of Health Stroke Scale score \u22645) or high-risk transient ischemic attack who presented within 7 days of symptom onset were included. We evaluated outcomes based on in-hospital initiation of DAPT versus monotherapy (aspirin or clopidogrel alone). The primary outcome was a composite of recurrent stroke, myocardial infarction, and death within 90 days. Patients were grouped by time from symptom onset to hospital arrival: 0 to 24 hours, 24 to 72 hours, and >72 hours. Time-to-treatment effects were analyzed using Cox proportional hazards models, with inverse probability of treatment weighting based on propensity scores. The adjusted models incorporated demographic factors, baseline clinical characteristics, vascular risk factors, stroke subtype, relevant arterial status, and prior antiplatelet use. Among the 41\u2009530 patients (mean age, 66.3 years; 25\u2009771 [62%] male), 25\u2009112 (60.5%) received DAPT. The 90-day primary outcome occurred in 2663 (10.7%) of the DAPT group versus 1900 (11.6%) in the monotherapy group (hazard ratio, 0.82 [95% CI, 0.77-0.87]). The benefit of DAPT was most pronounced when initiated within 24 hours (hazard ratio, 0.74 [95% CI, 0.69-0.79]). No significant benefit was observed when DAPT was initiated between 24 and 72 hours (hazard ratio, 1.00 [95% CI, 0.88-1.15]), and a higher risk was suggested for initiation beyond 72 hours (hazard ratio, 1.25 [95% CI, 1.01-1.55]). Time-dependent analysis showed a benefit crossing the null at \u224842 hours. Early initiation of DAPT was associated with the greatest clinical benefit, consistent with current guideline recommendations. The therapeutic effect appeared to decline progressively beyond this period, with an estimated threshold around 42 hours.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Aged",
+        "Ischemic Attack, Transient",
+        "Platelet Aggregation Inhibitors",
+        "Middle Aged",
+        "Prospective Studies",
+        "Clopidogrel",
+        "Aspirin",
+        "Dual Anti-Platelet Therapy",
+        "Treatment Outcome",
+        "Time-to-Treatment",
+        "Ischemic Stroke",
+        "Stroke",
+        "Time Factors",
+        "Drug Therapy, Combination",
+        "Risk Factors"
+      ],
+      "chemicals": [
+        "Platelet Aggregation Inhibitors",
+        "Clopidogrel",
+        "Aspirin"
+      ],
+      "journal": "Stroke",
+      "authors": [
+        "Jaemin Shin",
+        "Keon-Joo Lee",
+        "Chi Kyung Kim",
+        "Kyumgmi Oh",
+        "Do Yeon Kim",
+        "Beom Joon Kim"
+      ]
+    },
+    {
+      "pmid": "41569249",
+      "title": "[Not Available].",
+      "abstract": "",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Anticoagulants",
+        "Atrial Fibrillation",
+        "Catheter Ablation",
+        "Postoperative Complications",
+        "Stroke"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "Praxis",
+      "authors": [
+        "Andrea Rosemann",
+        "Thomas Rosemann"
+      ]
+    },
+    {
+      "pmid": "41822978",
+      "title": "Antithrombotic Therapy for Noncardioembolic Ischemic Stroke: Current Evidence and Future Directions.",
+      "abstract": "Antithrombotic therapy plays an important role in reducing stroke recurrence. For noncardioembolic stroke, multiple trials have demonstrated the efficacy of antiplatelet monotherapy for secondary stroke prevention. In select situations, such as short-term treatment in the acute period after a minor stroke or transient ischemic attack, dual-antiplatelet therapy has demonstrated superiority to monotherapy. Multiple trials have tested more aggressive strategies using long-term combination antiplatelet medications or full-dose anticoagulation with limited evidence of a reduction in ischemic events but a relatively consistent increased risk of bleeding. Emerging new agents targeting factor XI/XIa may uncouple necessary hemostasis from pathological thrombosis and offer promise for enhancing secondary prevention of stroke without increasing bleeding. The recently positive OCEANIC-STROKE trial (Oral Factor Eleven A Inhibitor Asundexian as Novel Antithrombotic) testing dual-pathway inhibition with the factor XIa inhibitor asundexian in combination with antiplatelet therapy represents a major advance in antithrombotic therapy for noncardioembolic stroke. This review summarizes the current state of the evidence for antithrombotic therapy in secondary stroke prevention after noncardioembolic stroke and discusses completed and ongoing trials of novel factor XI/XIa inhibitors for stroke prevention.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Ischemic Stroke",
+        "Fibrinolytic Agents",
+        "Platelet Aggregation Inhibitors",
+        "Secondary Prevention",
+        "Stroke",
+        "Drug Therapy, Combination"
+      ],
+      "chemicals": [
+        "Fibrinolytic Agents",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "journal": "Stroke",
+      "authors": [
+        "Brett Cucchiara",
+        "Jean M Connors",
+        "Alejandro A Rabinstein",
+        "Mukul Sharma"
+      ]
+    },
+    {
+      "pmid": "41365773",
+      "title": "Energy drinks, hypertension and stroke.",
+      "abstract": "A man in his 50s, normally fit and well, had an ischaemic thalamic stroke confirmed on MRI, manifesting with left-sided weakness, numbness and ataxia. Admission BP was 254/150\u2009mm Hg. All tests for secondary hypertension were normal. After 72 hours as an inpatient, starting antihypertensives reduced the systolic BP to 170 mm Hg; however, after discharge, his BP rose again and remained persistently high despite up-titration of antihypertensives to five medications. After further questioning, the patient revealed an average daily consumption of eight cans of energy drink, each containing 160\u2009mg caffeine, a habit which had not been specifically asked about during admission. On cessation of this consumption, his BP normalised and antihypertensives were successfully withdrawn. This article explores what we can learn from this case about whether energy drink consumption could be a risk factor for stroke and cardiovascular disease, and therefore the importance of targeted questioning in clinical practice, and greater public awareness.",
+      "pub_date": "2025-12-09",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Energy Drinks",
+        "Male",
+        "Hypertension",
+        "Middle Aged",
+        "Antihypertensive Agents",
+        "Caffeine",
+        "Stroke",
+        "Ischemic Stroke",
+        "Magnetic Resonance Imaging",
+        "Risk Factors"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents",
+        "Caffeine"
+      ],
+      "journal": "BMJ case reports",
+      "authors": [
+        "Martha Coyle",
+        "Sunil Munshi"
+      ]
+    },
+    {
+      "pmid": "41342122",
+      "title": "Adherence to Dual Antiplatelet Therapy Protocol in Acute Ischemic Stroke.",
+      "abstract": "Previous randomized trials, such as CHANCE and POINT, have shown that dual antiplatelet therapy (DAPT) reduces ischemic event recurrence. However, its effectiveness depends on accurate dosage and timely administration. This study is a comprehensive quality assessment of the implementation of the DAPT protocol-specifically, treatment initiation within 48\u2009h of symptom onset in patients with mild stroke or high-risk TIA-at our center. For this single-center, retrospective analysis we screened all 11,180 consecutive patients from the Helsinki Stroke Quality Registry (HSQR) treated at the emergency department between 1st of January 2019 and 25th of January 2023. Patients with DAPT (ASA and clopidogrel) within 2\u2009weeks of admission were included. Patients treated with i.v. thrombolysis, thrombectomy or if already on DAPT prior to admission were excluded. We analyzed the time of DAPT initiation, patient diagnoses and risk scores (NIHSS and ABCD Of 11,180 patients screened, 299 met the inclusion criteria. Among them, 263 (88.0%) had a final diagnosis of ischemic stroke or TIA, supporting DAPT use. Risk scores were documented in 193 (73.4%), and 197 (65.9%) initiated DAPT within 48\u2009h of symptom onset per our institutional protocol. Overall, 137 (45.8%) fully adhered to all protocol criteria. Fewer than half (45.8%) of patients fully adhered to the HUS protocol, and 65.9% initiated DAPT within 48\u2009h from symptom onset. We propose that DAPT should be considered as part of the acute stroke treatment protocol for eligible patients to minimize delays in treatment initiation.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Ischemic Stroke",
+        "Aged",
+        "Retrospective Studies",
+        "Platelet Aggregation Inhibitors",
+        "Middle Aged",
+        "Dual Anti-Platelet Therapy",
+        "Clopidogrel",
+        "Registries",
+        "Aspirin",
+        "Aged, 80 and over",
+        "Guideline Adherence",
+        "Ischemic Attack, Transient"
+      ],
+      "chemicals": [
+        "Platelet Aggregation Inhibitors",
+        "Clopidogrel",
+        "Aspirin"
+      ],
+      "journal": "European journal of neurology",
+      "authors": [
+        "Laura Martikainen",
+        "Petra lj\u00e4s",
+        "Olli P Suomalainen",
+        "Liisa Tomppo",
+        "Laura Mannism\u00e4ki",
+        "Henrietta T\u00f6rm\u00e4nen"
+      ]
+    }
+  ]
+}

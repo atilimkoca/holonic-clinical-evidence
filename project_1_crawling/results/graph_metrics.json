@@ -1,0 +1,131 @@
+{
+  "n_nodes": 216,
+  "n_edges": 639,
+  "density": 0.0275,
+  "avg_degree": 5.92,
+  "max_degree": 17,
+  "avg_clustering_coefficient": 1.0,
+  "n_connected_components": 43,
+  "largest_component_size": 18,
+  "community_detection": {
+    "n_communities": 43,
+    "modularity": 0.9194,
+    "purity_vs_specialty": 0.8333,
+    "NMI_vs_specialty": 0.6827,
+    "ARI_vs_specialty": 0.2338,
+    "n_specialties": 10
+  },
+  "cross_level": {
+    "spearman_betweenness_vs_aggregate_confidence": 0.0335,
+    "p_value": 0.6249,
+    "most_divergent_holons": [
+      "q_acute_kidney_injury_treatment",
+      "q_obsessive_compulsive_disorder_treatment",
+      "q_idiopathic_pulmonary_fibrosis_efficacy",
+      "q_ankylosing_spondylitis_efficacy",
+      "q_irritable_bowel_syndrome_safety"
+    ]
+  },
+  "top_betweenness": [
+    {
+      "holon": "q_generalized_anxiety_disorder_treatment",
+      "betweenness": 0.0001,
+      "specialty": "Psychiatry"
+    },
+    {
+      "holon": "q_generalized_anxiety_disorder_efficacy",
+      "betweenness": 0.0001,
+      "specialty": "Psychiatry"
+    },
+    {
+      "holon": "q_generalized_anxiety_disorder_safety",
+      "betweenness": 0.0001,
+      "specialty": "Psychiatry"
+    },
+    {
+      "holon": "q_obsessive_compulsive_disorder_treatment",
+      "betweenness": 0.0001,
+      "specialty": "Psychiatry"
+    },
+    {
+      "holon": "q_obsessive_compulsive_disorder_efficacy",
+      "betweenness": 0.0001,
+      "specialty": "Psychiatry"
+    },
+    {
+      "holon": "q_obsessive_compulsive_disorder_safety",
+      "betweenness": 0.0001,
+      "specialty": "Psychiatry"
+    },
+    {
+      "holon": "q_hypertension_treatment",
+      "betweenness": 0.0,
+      "specialty": "Cardiology"
+    },
+    {
+      "holon": "q_hypertension_efficacy",
+      "betweenness": 0.0,
+      "specialty": "Cardiology"
+    }
+  ],
+  "homomorphism_patterns": {
+    "P1_high_conf_treatment": 36,
+    "P2_effective_with_1A": 28,
+    "P3_side_effect": 68,
+    "P4_cardiology_treatment": 20
+  },
+  "homomorphism_pattern_examples": {
+    "P1_high_conf_treatment": [
+      "q_heart_failure_treatment",
+      "q_atrial_fibrillation_treatment",
+      "q_coronary_artery_disease_treatment"
+    ],
+    "P2_effective_with_1A": [
+      "q_heart_failure_treatment",
+      "q_atrial_fibrillation_efficacy",
+      "q_coronary_artery_disease_treatment"
+    ],
+    "P3_side_effect": [
+      "q_hypertension_safety",
+      "q_heart_failure_safety",
+      "q_atrial_fibrillation_safety"
+    ],
+    "P4_cardiology_treatment": [
+      "q_hypertension_treatment",
+      "q_hypertension_efficacy",
+      "q_heart_failure_treatment"
+    ]
+  },
+  "subsumption_pairs": [
+    {
+      "specific": "q_atrial_fibrillation_treatment",
+      "general": "q_deep_vein_thrombosis_treatment",
+      "phi": [
+        "class:DOAC",
+        "effective",
+        "evidence:Level-1B",
+        "facet:treatment",
+        "relation:treats",
+        "specialty:Cardiology"
+      ],
+      "extra_in_specific": [
+        "high-confidence"
+      ]
+    },
+    {
+      "specific": "q_angina_pectoris_treatment",
+      "general": "q_cardiomyopathy_treatment",
+      "phi": [
+        "class:Beta blocker",
+        "effective",
+        "evidence:Level-1B",
+        "facet:treatment",
+        "relation:treats",
+        "specialty:Cardiology"
+      ],
+      "extra_in_specific": [
+        "high-confidence"
+      ]
+    }
+  ]
+}

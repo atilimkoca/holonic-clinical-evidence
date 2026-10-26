@@ -1,0 +1,13 @@
+.venv/
+.pytest_cache/
+**/.pytest_cache/
+**/__pycache__/
+report/source/*.aux
+report/source/*.bbl
+report/source/*.blg
+report/source/*.fdb_latexmk
+report/source/*.fls
+report/source/*.log
+report/source/*.synctex
+report/source/paper.pdf
+*.zip

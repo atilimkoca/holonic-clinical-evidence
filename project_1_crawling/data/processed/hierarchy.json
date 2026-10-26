@@ -1,0 +1,628 @@
+{
+ "Cardiology": {
+  "holon_id": "spec_cardiology",
+  "diseases": {
+   "hypertension": {
+    "holon_id": "dis_hypertension",
+    "questions": [
+     "q_hypertension_treatment",
+     "q_hypertension_efficacy",
+     "q_hypertension_safety"
+    ]
+   },
+   "heart_failure": {
+    "holon_id": "dis_heart_failure",
+    "questions": [
+     "q_heart_failure_treatment",
+     "q_heart_failure_efficacy",
+     "q_heart_failure_safety"
+    ]
+   },
+   "atrial_fibrillation": {
+    "holon_id": "dis_atrial_fibrillation",
+    "questions": [
+     "q_atrial_fibrillation_treatment",
+     "q_atrial_fibrillation_efficacy",
+     "q_atrial_fibrillation_safety"
+    ]
+   },
+   "coronary_artery_disease": {
+    "holon_id": "dis_coronary_artery_disease",
+    "questions": [
+     "q_coronary_artery_disease_treatment",
+     "q_coronary_artery_disease_efficacy",
+     "q_coronary_artery_disease_safety"
+    ]
+   },
+   "hyperlipidemia": {
+    "holon_id": "dis_hyperlipidemia",
+    "questions": [
+     "q_hyperlipidemia_treatment",
+     "q_hyperlipidemia_efficacy",
+     "q_hyperlipidemia_safety"
+    ]
+   },
+   "angina_pectoris": {
+    "holon_id": "dis_angina_pectoris",
+    "questions": [
+     "q_angina_pectoris_treatment",
+     "q_angina_pectoris_efficacy",
+     "q_angina_pectoris_safety"
+    ]
+   },
+   "deep_vein_thrombosis": {
+    "holon_id": "dis_deep_vein_thrombosis",
+    "questions": [
+     "q_deep_vein_thrombosis_treatment",
+     "q_deep_vein_thrombosis_efficacy",
+     "q_deep_vein_thrombosis_safety"
+    ]
+   },
+   "cardiomyopathy": {
+    "holon_id": "dis_cardiomyopathy",
+    "questions": [
+     "q_cardiomyopathy_treatment",
+     "q_cardiomyopathy_efficacy",
+     "q_cardiomyopathy_safety"
+    ]
+   },
+   "peripheral_artery_disease": {
+    "holon_id": "dis_peripheral_artery_disease",
+    "questions": [
+     "q_peripheral_artery_disease_treatment",
+     "q_peripheral_artery_disease_efficacy",
+     "q_peripheral_artery_disease_safety"
+    ]
+   },
+   "aortic_stenosis": {
+    "holon_id": "dis_aortic_stenosis",
+    "questions": [
+     "q_aortic_stenosis_treatment",
+     "q_aortic_stenosis_efficacy",
+     "q_aortic_stenosis_safety"
+    ]
+   }
+  }
+ },
+ "Neurology": {
+  "holon_id": "spec_neurology",
+  "diseases": {
+   "epilepsy": {
+    "holon_id": "dis_epilepsy",
+    "questions": [
+     "q_epilepsy_treatment",
+     "q_epilepsy_efficacy",
+     "q_epilepsy_safety"
+    ]
+   },
+   "migraine": {
+    "holon_id": "dis_migraine",
+    "questions": [
+     "q_migraine_treatment",
+     "q_migraine_efficacy",
+     "q_migraine_safety"
+    ]
+   },
+   "parkinson_disease": {
+    "holon_id": "dis_parkinson_disease",
+    "questions": [
+     "q_parkinson_disease_treatment",
+     "q_parkinson_disease_efficacy",
+     "q_parkinson_disease_safety"
+    ]
+   },
+   "alzheimer_disease": {
+    "holon_id": "dis_alzheimer_disease",
+    "questions": [
+     "q_alzheimer_disease_treatment",
+     "q_alzheimer_disease_efficacy",
+     "q_alzheimer_disease_safety"
+    ]
+   },
+   "multiple_sclerosis": {
+    "holon_id": "dis_multiple_sclerosis",
+    "questions": [
+     "q_multiple_sclerosis_treatment",
+     "q_multiple_sclerosis_efficacy",
+     "q_multiple_sclerosis_safety"
+    ]
+   },
+   "neuropathic_pain": {
+    "holon_id": "dis_neuropathic_pain",
+    "questions": [
+     "q_neuropathic_pain_treatment",
+     "q_neuropathic_pain_efficacy",
+     "q_neuropathic_pain_safety"
+    ]
+   },
+   "stroke": {
+    "holon_id": "dis_stroke",
+    "questions": [
+     "q_stroke_treatment",
+     "q_stroke_efficacy",
+     "q_stroke_safety"
+    ]
+   },
+   "status_epilepticus": {
+    "holon_id": "dis_status_epilepticus",
+    "questions": [
+     "q_status_epilepticus_treatment",
+     "q_status_epilepticus_efficacy",
+     "q_status_epilepticus_safety"
+    ]
+   },
+   "trigeminal_neuralgia": {
+    "holon_id": "dis_trigeminal_neuralgia",
+    "questions": [
+     "q_trigeminal_neuralgia_treatment",
+     "q_trigeminal_neuralgia_efficacy",
+     "q_trigeminal_neuralgia_safety"
+    ]
+   },
+   "myasthenia_gravis": {
+    "holon_id": "dis_myasthenia_gravis",
+    "questions": [
+     "q_myasthenia_gravis_treatment",
+     "q_myasthenia_gravis_efficacy",
+     "q_myasthenia_gravis_safety"
+    ]
+   }
+  }
+ },
+ "Endocrinology": {
+  "holon_id": "spec_endocrinology",
+  "diseases": {
+   "type_2_diabetes_mellitus": {
+    "holon_id": "dis_type_2_diabetes_mellitus",
+    "questions": [
+     "q_type_2_diabetes_mellitus_treatment",
+     "q_type_2_diabetes_mellitus_efficacy",
+     "q_type_2_diabetes_mellitus_safety"
+    ]
+   },
+   "hypothyroidism": {
+    "holon_id": "dis_hypothyroidism",
+    "questions": [
+     "q_hypothyroidism_treatment",
+     "q_hypothyroidism_efficacy",
+     "q_hypothyroidism_safety"
+    ]
+   },
+   "type_1_diabetes_mellitus": {
+    "holon_id": "dis_type_1_diabetes_mellitus",
+    "questions": [
+     "q_type_1_diabetes_mellitus_treatment",
+     "q_type_1_diabetes_mellitus_efficacy",
+     "q_type_1_diabetes_mellitus_safety"
+    ]
+   },
+   "hyperthyroidism": {
+    "holon_id": "dis_hyperthyroidism",
+    "questions": [
+     "q_hyperthyroidism_treatment",
+     "q_hyperthyroidism_efficacy",
+     "q_hyperthyroidism_safety"
+    ]
+   },
+   "osteoporosis": {
+    "holon_id": "dis_osteoporosis",
+    "questions": [
+     "q_osteoporosis_treatment",
+     "q_osteoporosis_efficacy",
+     "q_osteoporosis_safety"
+    ]
+   },
+   "cushing_syndrome": {
+    "holon_id": "dis_cushing_syndrome",
+    "questions": [
+     "q_cushing_syndrome_treatment",
+     "q_cushing_syndrome_efficacy",
+     "q_cushing_syndrome_safety"
+    ]
+   },
+   "addison_disease": {
+    "holon_id": "dis_addison_disease",
+    "questions": [
+     "q_addison_disease_treatment",
+     "q_addison_disease_efficacy",
+     "q_addison_disease_safety"
+    ]
+   },
+   "polycystic_ovary_syndrome": {
+    "holon_id": "dis_polycystic_ovary_syndrome",
+    "questions": [
+     "q_polycystic_ovary_syndrome_treatment",
+     "q_polycystic_ovary_syndrome_efficacy",
+     "q_polycystic_ovary_syndrome_safety"
+    ]
+   }
+  }
+ },
+ "Psychiatry": {
+  "holon_id": "spec_psychiatry",
+  "diseases": {
+   "major_depressive_disorder": {
+    "holon_id": "dis_major_depressive_disorder",
+    "questions": [
+     "q_major_depressive_disorder_treatment",
+     "q_major_depressive_disorder_efficacy",
+     "q_major_depressive_disorder_safety"
+    ]
+   },
+   "generalized_anxiety_disorder": {
+    "holon_id": "dis_generalized_anxiety_disorder",
+    "questions": [
+     "q_generalized_anxiety_disorder_treatment",
+     "q_generalized_anxiety_disorder_efficacy",
+     "q_generalized_anxiety_disorder_safety"
+    ]
+   },
+   "bipolar_disorder": {
+    "holon_id": "dis_bipolar_disorder",
+    "questions": [
+     "q_bipolar_disorder_treatment",
+     "q_bipolar_disorder_efficacy",
+     "q_bipolar_disorder_safety"
+    ]
+   },
+   "schizophrenia": {
+    "holon_id": "dis_schizophrenia",
+    "questions": [
+     "q_schizophrenia_treatment",
+     "q_schizophrenia_efficacy",
+     "q_schizophrenia_safety"
+    ]
+   },
+   "obsessive_compulsive_disorder": {
+    "holon_id": "dis_obsessive_compulsive_disorder",
+    "questions": [
+     "q_obsessive_compulsive_disorder_treatment",
+     "q_obsessive_compulsive_disorder_efficacy",
+     "q_obsessive_compulsive_disorder_safety"
+    ]
+   },
+   "post_traumatic_stress_disorder": {
+    "holon_id": "dis_post_traumatic_stress_disorder",
+    "questions": [
+     "q_post_traumatic_stress_disorder_treatment",
+     "q_post_traumatic_stress_disorder_efficacy",
+     "q_post_traumatic_stress_disorder_safety"
+    ]
+   },
+   "attention_deficit_hyperactivity_disorder": {
+    "holon_id": "dis_attention_deficit_hyperactivity_disorder",
+    "questions": [
+     "q_attention_deficit_hyperactivity_disorder_treatment",
+     "q_attention_deficit_hyperactivity_disorder_efficacy",
+     "q_attention_deficit_hyperactivity_disorder_safety"
+    ]
+   }
+  }
+ },
+ "InfectiousDisease": {
+  "holon_id": "spec_infectiousdisease",
+  "diseases": {
+   "community_acquired_pneumonia": {
+    "holon_id": "dis_community_acquired_pneumonia",
+    "questions": [
+     "q_community_acquired_pneumonia_treatment",
+     "q_community_acquired_pneumonia_efficacy",
+     "q_community_acquired_pneumonia_safety"
+    ]
+   },
+   "urinary_tract_infection": {
+    "holon_id": "dis_urinary_tract_infection",
+    "questions": [
+     "q_urinary_tract_infection_treatment",
+     "q_urinary_tract_infection_efficacy",
+     "q_urinary_tract_infection_safety"
+    ]
+   },
+   "tuberculosis": {
+    "holon_id": "dis_tuberculosis",
+    "questions": [
+     "q_tuberculosis_treatment",
+     "q_tuberculosis_efficacy",
+     "q_tuberculosis_safety"
+    ]
+   },
+   "hiv_infection": {
+    "holon_id": "dis_hiv_infection",
+    "questions": [
+     "q_hiv_infection_treatment",
+     "q_hiv_infection_efficacy",
+     "q_hiv_infection_safety"
+    ]
+   },
+   "influenza": {
+    "holon_id": "dis_influenza",
+    "questions": [
+     "q_influenza_treatment",
+     "q_influenza_efficacy",
+     "q_influenza_safety"
+    ]
+   },
+   "sepsis": {
+    "holon_id": "dis_sepsis",
+    "questions": [
+     "q_sepsis_treatment",
+     "q_sepsis_efficacy",
+     "q_sepsis_safety"
+    ]
+   },
+   "cellulitis": {
+    "holon_id": "dis_cellulitis",
+    "questions": [
+     "q_cellulitis_treatment",
+     "q_cellulitis_efficacy",
+     "q_cellulitis_safety"
+    ]
+   },
+   "helicobacter_pylori_infection": {
+    "holon_id": "dis_helicobacter_pylori_infection",
+    "questions": [
+     "q_helicobacter_pylori_infection_treatment",
+     "q_helicobacter_pylori_infection_efficacy",
+     "q_helicobacter_pylori_infection_safety"
+    ]
+   },
+   "hepatitis_c": {
+    "holon_id": "dis_hepatitis_c",
+    "questions": [
+     "q_hepatitis_c_treatment",
+     "q_hepatitis_c_efficacy",
+     "q_hepatitis_c_safety"
+    ]
+   }
+  }
+ },
+ "Pulmonology": {
+  "holon_id": "spec_pulmonology",
+  "diseases": {
+   "asthma": {
+    "holon_id": "dis_asthma",
+    "questions": [
+     "q_asthma_treatment",
+     "q_asthma_efficacy",
+     "q_asthma_safety"
+    ]
+   },
+   "chronic_obstructive_pulmonary_disease": {
+    "holon_id": "dis_chronic_obstructive_pulmonary_disease",
+    "questions": [
+     "q_chronic_obstructive_pulmonary_disease_treatment",
+     "q_chronic_obstructive_pulmonary_disease_efficacy",
+     "q_chronic_obstructive_pulmonary_disease_safety"
+    ]
+   },
+   "pulmonary_embolism": {
+    "holon_id": "dis_pulmonary_embolism",
+    "questions": [
+     "q_pulmonary_embolism_treatment",
+     "q_pulmonary_embolism_efficacy",
+     "q_pulmonary_embolism_safety"
+    ]
+   },
+   "idiopathic_pulmonary_fibrosis": {
+    "holon_id": "dis_idiopathic_pulmonary_fibrosis",
+    "questions": [
+     "q_idiopathic_pulmonary_fibrosis_treatment",
+     "q_idiopathic_pulmonary_fibrosis_efficacy",
+     "q_idiopathic_pulmonary_fibrosis_safety"
+    ]
+   },
+   "obstructive_sleep_apnea": {
+    "holon_id": "dis_obstructive_sleep_apnea",
+    "questions": [
+     "q_obstructive_sleep_apnea_treatment",
+     "q_obstructive_sleep_apnea_efficacy",
+     "q_obstructive_sleep_apnea_safety"
+    ]
+   }
+  }
+ },
+ "Gastroenterology": {
+  "holon_id": "spec_gastroenterology",
+  "diseases": {
+   "gastroesophageal_reflux_disease": {
+    "holon_id": "dis_gastroesophageal_reflux_disease",
+    "questions": [
+     "q_gastroesophageal_reflux_disease_treatment",
+     "q_gastroesophageal_reflux_disease_efficacy",
+     "q_gastroesophageal_reflux_disease_safety"
+    ]
+   },
+   "peptic_ulcer_disease": {
+    "holon_id": "dis_peptic_ulcer_disease",
+    "questions": [
+     "q_peptic_ulcer_disease_treatment",
+     "q_peptic_ulcer_disease_efficacy",
+     "q_peptic_ulcer_disease_safety"
+    ]
+   },
+   "ulcerative_colitis": {
+    "holon_id": "dis_ulcerative_colitis",
+    "questions": [
+     "q_ulcerative_colitis_treatment",
+     "q_ulcerative_colitis_efficacy",
+     "q_ulcerative_colitis_safety"
+    ]
+   },
+   "crohn_disease": {
+    "holon_id": "dis_crohn_disease",
+    "questions": [
+     "q_crohn_disease_treatment",
+     "q_crohn_disease_efficacy",
+     "q_crohn_disease_safety"
+    ]
+   },
+   "irritable_bowel_syndrome": {
+    "holon_id": "dis_irritable_bowel_syndrome",
+    "questions": [
+     "q_irritable_bowel_syndrome_treatment",
+     "q_irritable_bowel_syndrome_efficacy",
+     "q_irritable_bowel_syndrome_safety"
+    ]
+   },
+   "cirrhosis": {
+    "holon_id": "dis_cirrhosis",
+    "questions": [
+     "q_cirrhosis_treatment",
+     "q_cirrhosis_efficacy",
+     "q_cirrhosis_safety"
+    ]
+   },
+   "pancreatitis": {
+    "holon_id": "dis_pancreatitis",
+    "questions": [
+     "q_pancreatitis_treatment",
+     "q_pancreatitis_efficacy",
+     "q_pancreatitis_safety"
+    ]
+   }
+  }
+ },
+ "Rheumatology": {
+  "holon_id": "spec_rheumatology",
+  "diseases": {
+   "rheumatoid_arthritis": {
+    "holon_id": "dis_rheumatoid_arthritis",
+    "questions": [
+     "q_rheumatoid_arthritis_treatment",
+     "q_rheumatoid_arthritis_efficacy",
+     "q_rheumatoid_arthritis_safety"
+    ]
+   },
+   "gout": {
+    "holon_id": "dis_gout",
+    "questions": [
+     "q_gout_treatment",
+     "q_gout_efficacy",
+     "q_gout_safety"
+    ]
+   },
+   "systemic_lupus_erythematosus": {
+    "holon_id": "dis_systemic_lupus_erythematosus",
+    "questions": [
+     "q_systemic_lupus_erythematosus_treatment",
+     "q_systemic_lupus_erythematosus_efficacy",
+     "q_systemic_lupus_erythematosus_safety"
+    ]
+   },
+   "osteoarthritis": {
+    "holon_id": "dis_osteoarthritis",
+    "questions": [
+     "q_osteoarthritis_treatment",
+     "q_osteoarthritis_efficacy",
+     "q_osteoarthritis_safety"
+    ]
+   },
+   "ankylosing_spondylitis": {
+    "holon_id": "dis_ankylosing_spondylitis",
+    "questions": [
+     "q_ankylosing_spondylitis_treatment",
+     "q_ankylosing_spondylitis_efficacy",
+     "q_ankylosing_spondylitis_safety"
+    ]
+   },
+   "psoriatic_arthritis": {
+    "holon_id": "dis_psoriatic_arthritis",
+    "questions": [
+     "q_psoriatic_arthritis_treatment",
+     "q_psoriatic_arthritis_efficacy",
+     "q_psoriatic_arthritis_safety"
+    ]
+   }
+  }
+ },
+ "Nephrology": {
+  "holon_id": "spec_nephrology",
+  "diseases": {
+   "chronic_kidney_disease": {
+    "holon_id": "dis_chronic_kidney_disease",
+    "questions": [
+     "q_chronic_kidney_disease_treatment",
+     "q_chronic_kidney_disease_efficacy",
+     "q_chronic_kidney_disease_safety"
+    ]
+   },
+   "nephrotic_syndrome": {
+    "holon_id": "dis_nephrotic_syndrome",
+    "questions": [
+     "q_nephrotic_syndrome_treatment",
+     "q_nephrotic_syndrome_efficacy",
+     "q_nephrotic_syndrome_safety"
+    ]
+   },
+   "acute_kidney_injury": {
+    "holon_id": "dis_acute_kidney_injury",
+    "questions": [
+     "q_acute_kidney_injury_treatment",
+     "q_acute_kidney_injury_efficacy",
+     "q_acute_kidney_injury_safety"
+    ]
+   },
+   "diabetic_nephropathy": {
+    "holon_id": "dis_diabetic_nephropathy",
+    "questions": [
+     "q_diabetic_nephropathy_treatment",
+     "q_diabetic_nephropathy_efficacy",
+     "q_diabetic_nephropathy_safety"
+    ]
+   }
+  }
+ },
+ "Oncology": {
+  "holon_id": "spec_oncology",
+  "diseases": {
+   "breast_cancer": {
+    "holon_id": "dis_breast_cancer",
+    "questions": [
+     "q_breast_cancer_treatment",
+     "q_breast_cancer_efficacy",
+     "q_breast_cancer_safety"
+    ]
+   },
+   "non_small_cell_lung_cancer": {
+    "holon_id": "dis_non_small_cell_lung_cancer",
+    "questions": [
+     "q_non_small_cell_lung_cancer_treatment",
+     "q_non_small_cell_lung_cancer_efficacy",
+     "q_non_small_cell_lung_cancer_safety"
+    ]
+   },
+   "chronic_myeloid_leukemia": {
+    "holon_id": "dis_chronic_myeloid_leukemia",
+    "questions": [
+     "q_chronic_myeloid_leukemia_treatment",
+     "q_chronic_myeloid_leukemia_efficacy",
+     "q_chronic_myeloid_leukemia_safety"
+    ]
+   },
+   "non_hodgkin_lymphoma": {
+    "holon_id": "dis_non_hodgkin_lymphoma",
+    "questions": [
+     "q_non_hodgkin_lymphoma_treatment",
+     "q_non_hodgkin_lymphoma_efficacy",
+     "q_non_hodgkin_lymphoma_safety"
+    ]
+   },
+   "colorectal_cancer": {
+    "holon_id": "dis_colorectal_cancer",
+    "questions": [
+     "q_colorectal_cancer_treatment",
+     "q_colorectal_cancer_efficacy",
+     "q_colorectal_cancer_safety"
+    ]
+   },
+   "prostate_cancer": {
+    "holon_id": "dis_prostate_cancer",
+    "questions": [
+     "q_prostate_cancer_treatment",
+     "q_prostate_cancer_efficacy",
+     "q_prostate_cancer_safety"
+    ]
+   }
+  }
+ }
+}

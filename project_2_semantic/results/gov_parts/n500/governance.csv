@@ -1,0 +1,4 @@
+regime,n_holons,detected,gold,detection_rate,latency_s
+C1,500,50,50,1.00,187.270
+C2,500,50,50,1.00,1.182
+C3,500,0,50,0.00,0.365

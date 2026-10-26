@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_bipolar_disorder_efficacy> a oe:Question ;\n  oe:answer <https://example.org/openevidence/generated/g123456789> .\n\n<https://example.org/openevidence/generated/g123456789> a oe:GeneratedAnswer ;\n  oe:answerType \"effectiveness comparison\" ;\n  oe:includes <https://example.org/openevidence/drugs/lithium> ;\n  oe:includes <https://example.org/openevidence/drugs/sertraline> ;\n  oe:includes <https://example.org/openevidence/drugs/morphine> ;\n  oe:includes <https://example.org/openevidence/drugs/prednisone> ;\n  oe:includes <https://example.org/openevidence/diseases/bipolar_disorder> ;\n  oe:includes <https://example.org/openevidence/diseases/pancreatitis> ;\n  oe:includes <https://example.org/openevidence/diseases/addison_disease> ;\n  oe:includes <https://example.org/openevidence/diseases/major_depressive_disorder> .\n\n<https://example.org/openevidence/drugs/lithium> oe:treats <https://example.org/openevidence/diseases/bipolar_disorder> .\n<https://example.org/openevidence/drugs/sertraline> oe:treats <https://example.org/openevidence/diseases/major_depressive_disorder> .\n<https://example.org/openevidence/drugs/morphine> oe:treats <https://example.org/openevidence/diseases/pancreatitis> .\n<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/addison_disease> .",
+  "provider": "ollama",
+  "model": "qwen3:8b",
+  "prompt_tokens": 684,
+  "completion_tokens": 538,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1222
+}

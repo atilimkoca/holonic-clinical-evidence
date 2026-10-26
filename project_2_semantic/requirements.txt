@@ -1,0 +1,7 @@
+# Project 2 — Holonic Semantic Layer (Student B)
+# Python 3.9+ (assignment targets 3.10+; code is written to run on 3.9 too).
+rdflib>=7.0
+pyshacl>=0.27
+scipy>=1.10
+statsmodels>=0.14
+pytest>=7.0

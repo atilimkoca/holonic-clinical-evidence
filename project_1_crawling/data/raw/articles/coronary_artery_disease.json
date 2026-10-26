@@ -1,0 +1,457 @@
+{
+  "disease": "Coronary Artery Disease",
+  "slug": "coronary_artery_disease",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "39225258",
+      "title": "Edoxaban Antithrombotic Therapy for Atrial Fibrillation and Stable Coronary Artery Disease.",
+      "abstract": "Despite consistent recommendations from clinical guidelines, data from randomized trials on a long-term antithrombotic treatment strategy for patients with atrial fibrillation and stable coronary artery disease are still lacking. We conducted a multicenter, open-label, adjudicator-masked, randomized trial comparing edoxaban monotherapy with dual antithrombotic therapy (edoxaban plus a single antiplatelet agent) in patients with atrial fibrillation and stable coronary artery disease (defined as coronary artery disease previously treated with revascularization or managed medically). The risk of stroke was assessed on the basis of the CHA We assigned 524 patients to the edoxaban monotherapy group and 516 patients to the dual antithrombotic therapy group at 18 sites in South Korea. The mean age of the patients was 72.1 years, 22.9% were women, and the mean CHA In patients with atrial fibrillation and stable coronary artery disease, edoxaban monotherapy led to a lower risk of a composite of death from any cause, myocardial infarction, stroke, systemic embolism, unplanned urgent revascularization, or major bleeding or clinically relevant nonmajor bleeding at 12 months than dual antithrombotic therapy. (Funded by the CardioVascular Research Foundation and others; EPIC-CAD ClinicalTrials.gov number, NCT03718559.).",
+      "pub_date": "2024-12-05",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Atrial Fibrillation",
+        "Coronary Artery Disease",
+        "Drug Therapy, Combination",
+        "Embolism",
+        "Factor Xa Inhibitors",
+        "Hemorrhage",
+        "Incidence",
+        "Kaplan-Meier Estimate",
+        "Myocardial Infarction",
+        "Platelet Aggregation Inhibitors",
+        "Pyridines",
+        "Republic of Korea",
+        "Stroke",
+        "Thiazoles",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "edoxaban",
+        "Factor Xa Inhibitors",
+        "Platelet Aggregation Inhibitors",
+        "Pyridines",
+        "Thiazoles"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Min Soo Cho",
+        "Do-Yoon Kang",
+        "Jung-Min Ahn",
+        "Sung-Cheol Yun",
+        "Yong-Seog Oh",
+        "Chang Hoon Lee"
+      ]
+    },
+    {
+      "pmid": "38242225",
+      "title": "Hegemony of inflammation in atherosclerosis and coronary artery disease.",
+      "abstract": "Inflammation drives coronary artery disease and atherosclerosis implications. Lipoprotein entry, retention, and oxidative modification cause endothelial damage, triggering innate and adaptive immune responses. Recruited immune cells orchestrate the early atherosclerotic lesions by releasing proinflammatory cytokines, expediting the foam cell formation, intraplaque haemorrhage, secretion of matrix-degrading enzymes, and lesion progression, eventually promoting coronary artery syndrome via various inflammatory cascades. In addition, soluble mediators disrupt the dynamic anti- and prothrombotic balance maintained by endothelial cells and pave the way for coronary artery disease such as angina pectoris. Recent studies have established a relationship between elevated levels of inflammatory markers, including C-reactive protein (CRP), interleukins (IL-6, IL-1\u03b2), and tumour necrosis factor-alpha (TNF-\u03b1) with the severity of CAD and the possibility of future cardiovascular events. High-sensitivity C-reactive protein (hs-CRP) is a marker for assessing systemic inflammation and predicting the risk of developing CAD based on its peak plasma levels. Hence, understanding cross-talk interactions of inflammation, atherogenesis, and CAD is highly warranted to recalculate the risk factors that activate and propagate arterial lesions and devise therapeutic strategies accordingly. Cholesterol-inflammation lowering agents (statins), monoclonal antibodies targeting IL-1 and IL-6 (canakinumab and tocilizumab), disease-modifying antirheumatic drugs (methotrexate), sodium-glucose transport protein-2 (SGLT2) inhibitors, colchicine and xanthene oxidase inhibitor (allopurinol) have shown promising results in reducing inflammation, regressing atherogenic plaque and modifying the course of CAD. Here, we review the complex interplay between inflammatory, endothelial, smooth muscle and foam cells. Moreover, the putative role of inflammation in atherosclerotic CAD, underlying mechanisms and potential therapeutic implications are also discussed herein.",
+      "pub_date": "2024-03-05",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Coronary Artery Disease",
+        "C-Reactive Protein",
+        "Interleukin-6",
+        "Endothelial Cells",
+        "Atherosclerosis",
+        "Inflammation"
+      ],
+      "chemicals": [
+        "C-Reactive Protein",
+        "Interleukin-6"
+      ],
+      "journal": "European journal of pharmacology",
+      "authors": [
+        "Ali Attiq",
+        "Sheryar Afzal",
+        "Waqas Ahmad",
+        "Mahmoud Kandeel"
+      ]
+    },
+    {
+      "pmid": "40902613",
+      "title": "Clopidogrel versus aspirin for secondary prevention of coronary artery disease: a systematic review and individual patient data meta-analysis.",
+      "abstract": "Aspirin monotherapy is recommended indefinitely for patients with established coronary artery disease (CAD). The aim of this individual patient level meta-analysis was to provide a comprehensive evaluation of the comparative efficacy and safety of clopidogrel versus aspirin monotherapy in patients with established CAD, most of whom had undergone percutaneous coronary intervention or had acute coronary syndrome. We conducted a systematic search in PubMed, Scopus, Web of Science, and Embase to identify randomised trials published from database inception to April 12, 2025, comparing clopidogrel monotherapy with aspirin monotherapy in patients with established CAD who had discontinued or never started dual antiplatelet therapy. Randomised trials featuring an initial phase of dual antiplatelet therapy were eligible for inclusion in this individual patient data meta-analysis. In the main analysis, we used semi-parametric shared log-normal frailty models (one-stage analysis), including a random intercept to account for differences in the baseline hazard across trials, and a random slope to account for between-trial differences in treatment effects. The primary efficacy endpoint was a composite of cardiovascular death, myocardial infarction, or stroke (major adverse cardiovascular or cerebrovascular events [MACCE]); the primary safety endpoint was major bleeding. This study is registered with PROSPERO (CRD42025645594). Seven randomised trials including 28\u2009982 patients (14\u2009507 assigned to clopidogrel; 14\u2009475 assigned to aspirin) with a median follow-up of 2\u00b73 years (IQR 1\u00b71-4\u00b70) were eligible and included. At 5\u00b75 years, MACCE was less common in patients assigned to clopidogrel than in patients assigned to aspirin (929 events [2\u00b761 per 100 patient-years] vs 1062 events [2\u00b799 per 100 patient-years]; hazard ratio 0\u00b786 [95% CI 0\u00b777-0\u00b796]; p=0\u00b70082). Mortality and major bleeding (256 events [0\u00b771 per 100 patient-years] with clopidogrel vs 279 events [0\u00b777 per 100 patient-years] with aspirin; 0\u00b794 [0\u00b774-1\u00b721]; p=0\u00b764) did not differ. These findings add to the evidence that clopidogrel monotherapy is superior to aspirin monotherapy for MACCE prevention with no increase in the risk of bleeding, and support the preferential use of clopidogrel over aspirin for secondary prevention in patients with established CAD. Cardiocentro Ticino Institute, Ente Ospedaliero Cantonale, Switzerland.",
+      "pub_date": "2025-09-13",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis",
+        "Comparative Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Clopidogrel",
+        "Aspirin",
+        "Coronary Artery Disease",
+        "Platelet Aggregation Inhibitors",
+        "Secondary Prevention",
+        "Randomized Controlled Trials as Topic",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged"
+      ],
+      "chemicals": [
+        "Clopidogrel",
+        "Aspirin",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Marco Valgimigli",
+        "Ki Hong Choi",
+        "Daniele Giacoppo",
+        "Felice Gragnano",
+        "Takeshi Kimura",
+        "Hirotoshi Watanabe"
+      ]
+    },
+    {
+      "pmid": "39918465",
+      "title": "Anticoagulation and Antiplatelet Therapy\u00a0for Atrial Fibrillation and Stable Coronary Disease: Meta-Analysis of Randomized Trials.",
+      "abstract": "The optimal long-term antithrombotic strategy in patients with atrial fibrillation (AF) and stable coronary artery disease (CAD) remains uncertain. Individual randomized controlled trials (RCTs) had variations in their reported results and were not powered for effectiveness outcomes. This study aimed to pool the results of RCTs comparing the effectiveness and safety of oral anticoagulation (OAC) monotherapy vs OAC plus single antiplatelet therapy (SAPT) in patients with AF and stable CAD. We systematically searched PubMed, Embase, and ClinicalTrials.gov until September 09, 2024. The primary effectiveness outcome was a composite of myocardial infarction, ischemic stroke, systemic embolism, or death. The primary safety outcome was major bleeding. We obtained unpublished results from principal investigators of the included RCTs, as needed, to calculate pooled HRs and 95%\u00a0CIs and to perform prespecified subgroup analyses. Among 690 screened records, 4 RCTs with 4,092 randomized patients were included (2 using edoxaban, 1 using rivaroxaban, and 1 using any oral anticoagulant; mean age 73.9 years, 20.1% women). The median follow-up durations ranged from 12 to 30\u00a0months (overall estimated weighted mean follow-up of 21.9\u00a0months). There were no statistically significant differences between OAC monotherapy vs OAC plus SAPT in the primary effectiveness outcome (7.3% vs 8.2%; HR: 0.90; 95%\u00a0CI: 0.72-1.12), myocardial infarction (1.0% vs 0.7%; HR: 1.51; 95%\u00a0CI: 0.75-3.04), ischemic stroke (1.9% vs 2.1%; HR: 0.89; 95%\u00a0CI: 0.57-1.37), all-cause death (4.2% vs 5.3%; HR: 0.94; 95%\u00a0CI: 0.49-1.80), or cardiovascular death (2.4% vs 3.0%; HR: 0.79; 95%\u00a0CI: 0.54-1.15). OAC monotherapy was associated with a lower risk of major bleeding than OAC plus SAPT (3.3% vs 5.7%; HR: 0.59; 95%\u00a0CI: 0.44-0.79). Subgroup analyses did not show significant interactions for effectiveness but suggested that the magnitude of bleeding reduction may be greater among men (P In patients with AF and stable CAD, OAC monotherapy, compared with OAC plus SAPT, was not associated with a statistically significant increased risk of ischemic events but resulted in a significantly reduced risk of bleeding.",
+      "pub_date": "2025-03-25",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Atrial Fibrillation",
+        "Randomized Controlled Trials as Topic",
+        "Anticoagulants",
+        "Platelet Aggregation Inhibitors",
+        "Coronary Artery Disease",
+        "Drug Therapy, Combination",
+        "Hemorrhage"
+      ],
+      "chemicals": [
+        "Anticoagulants",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Sina Rashedi",
+        "Mohammad Keykhaei",
+        "Alyssa Sato",
+        "Philippe Gabriel Steg",
+        "Gregory Piazza",
+        "John W Eikelboom"
+      ]
+    },
+    {
+      "pmid": "40005328",
+      "title": "Chronic Heart Failure and Coronary Artery Disease: Pharmacological Treatment and Cardiac Rehabilitation.",
+      "abstract": "Coronary artery disease is the leading cause of acute and chronic heart failure. Patients with heart failure and ischemic heart disease need a tailored assessment to define the appropriate treatment, while a specific multidisciplinary management plan should be followed. Indeed, several factors should be assessed before starting treatment, such as heart failure symptoms and/or signs, angina, electrocardiographic features, right and left ventricular systolic and diastolic function, serological abnormalities, cardiac structural and functional integrity, and pulmonary function. New scenarios and developments have emerged recently in this field, increasing our knowledge regarding pathophysiology, exercise, and pharmacology. Effective and appropriate management and treatment reduce the risk of death and hospitalization for heart failure. Herein, we provide an updated, state-of-the-art overview of pharmacological treatment and cardiac rehabilitation in patients with chronic heart failure and coronary artery disease. Furthermore, tailored and contemporary management in clinical practice will be proposed for this specific and fragile patient population.",
+      "pub_date": "2025-01-24",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Heart Failure",
+        "Cardiac Rehabilitation",
+        "Coronary Artery Disease",
+        "Chronic Disease"
+      ],
+      "chemicals": [],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "authors": [
+        "Maria-Alexandra Ciuca-Pan\u0103",
+        "Aristi Boulmpou",
+        "Cigdem Ileri",
+        "Giovanna Manzi",
+        "Michele Golino",
+        "Marina Ostojic"
+      ]
+    },
+    {
+      "pmid": "39111840",
+      "title": "Lipid-lowering Therapy and Coronary Plaque Regression.",
+      "abstract": "Lipid-lowering therapy plays a central role in reducing cardiovascular events. Over the past few decades, clinical trials utilizing several imaging techniques have consistently shown that lipid-lowering therapy can reduce the coronary plaque burden and improve plaque composition. Although intravascular ultrasound has been the most extensively used modality to assess plaque burden, other invasive modalities, such as optical coherence tomography and near-infrared spectroscopy, provide relevant data on plaque vulnerability, and computed tomography angiography detects both plaque volume and characteristics non-invasively. A large body of evidence supports the notion that reducing low-density lipoprotein cholesterol using statins combined with ezetimibe and proprotein convertase subtillisin/kexin type 9 inhibitors consistently shows improvements in plaque burden and favorable morphological changes. This review summarizes previously obtained data on the impact of lipid-lowering treatment strategies on atherosclerotic plaque regression, as assessed using several imaging modalities.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Plaque, Atherosclerotic",
+        "Coronary Artery Disease",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Tomography, Optical Coherence",
+        "Hypolipidemic Agents",
+        "Anticholesteremic Agents",
+        "Cholesterol, LDL",
+        "Ultrasonography, Interventional",
+        "Ezetimibe"
+      ],
+      "chemicals": [
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Hypolipidemic Agents",
+        "Anticholesteremic Agents",
+        "Cholesterol, LDL",
+        "Ezetimibe"
+      ],
+      "journal": "Journal of atherosclerosis and thrombosis",
+      "authors": [
+        "Yasushi Ueki",
+        "Tadashi Itagaki",
+        "Koichiro Kuwahara"
+      ]
+    },
+    {
+      "pmid": "41082727",
+      "title": "Chronic Coronary Artery Disease.",
+      "abstract": "Chronic coronary artery disease (CCAD) is a leading cause of death in the United States and many other countries. The defining pathobiology is an imbalance between the metabolic demands of the myocardium and oxygen supply, which most often results from coronary artery atherosclerosis. The classic presenting symptom of CCAD is angina, but clinical presentation varies greatly among patients. Since the last In the Clinic on CCAD (previously termed \"stable ischemic heart disease\") in 2019, several new medications have been approved to reduce ischemic complications.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Coronary Artery Disease",
+        "Chronic Disease"
+      ],
+      "chemicals": [],
+      "journal": "Annals of internal medicine",
+      "authors": [
+        "Michelle M Kittleson"
+      ]
+    },
+    {
+      "pmid": "37852649",
+      "title": "Rosuvastatin versus atorvastatin treatment in adults with coronary artery disease: secondary analysis of the randomised LODESTAR trial.",
+      "abstract": "To compare the long term efficacy and safety of rosuvastatin with atorvastatin treatment in adults with coronary artery disease. Randomised, open label, multicentre trial. 12 hospitals in South Korea, September 2016 to November 2019. 4400 adults (age \u226519 years) with coronary artery disease. Participants were assigned to receive either rosuvastatin (n=2204) or atorvastatin (n=2196) using 2\u00d72 factorial randomisation. The primary outcome was a three year composite of all cause death, myocardial infarction, stroke, or any coronary revascularisation. Secondary outcomes were safety endpoints: new onset diabetes mellitus; hospital admissions due to heart failure; deep vein thrombosis or pulmonary thromboembolism; endovascular revascularisation for peripheral artery disease; aortic intervention or surgery; end stage kidney disease; discontinuation of study drugs owing to intolerance; cataract surgery; and a composite of laboratory detected abnormalities. 4341 of the 4400 participants (98.7%) completed the trial. Mean daily dose of study drugs was 17.1 mg (standard deviation (SD) 5.2 mg) in the rosuvastatin group and 36.0 (12.8) mg in the atorvastatin group at three years (P<0.001). The primary outcome occurred in 189 participants (8.7%) in the rosuvastatin group and 178 (8.2%) in the atorvastatin group (hazard ratio 1.06, 95% confidence interval 0.86 to 1.30; P=0.58). The mean low density lipoprotein (LDL) cholesterol level during treatment was 1.8 mmol/L (SD 0.5 mmol/L) in the rosuvastatin group and 1.9 (0.5) mmol/L in the atorvastatin group (P<0.001). The rosuvastatin group had a higher incidence of new onset diabetes mellitus requiring initiation of antidiabetics (7.2% In adults with coronary artery disease, rosuvastatin and atorvastatin showed comparable efficacy for the composite outcome of all cause death, myocardial infarction, stroke, or any coronary revascularisation at three years. Rosuvastatin was associated with lower LDL cholesterol levels but a higher risk of new onset diabetes mellitus requiring antidiabetics and cataract surgery compared with atorvastatin. ClinicalTrials.gov NCT02579499.",
+      "pub_date": "2023-10-18",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Young Adult",
+        "Atorvastatin",
+        "Cataract",
+        "Cholesterol, LDL",
+        "Coronary Artery Disease",
+        "Diabetes Mellitus",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Myocardial Infarction",
+        "Rosuvastatin Calcium",
+        "Stroke",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Atorvastatin",
+        "Cholesterol, LDL",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Rosuvastatin Calcium"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Yong-Joon Lee",
+        "Sung-Jin Hong",
+        "Woong Chol Kang",
+        "Bum-Kee Hong",
+        "Jong-Young Lee",
+        "Jin-Bae Lee"
+      ]
+    },
+    {
+      "pmid": "39613875",
+      "title": "Immune checkpoint landscape of human atherosclerosis and influence of cardiometabolic factors.",
+      "abstract": "Immune checkpoint inhibitor (ICI) therapies can increase the risk of cardiovascular events in survivors of cancer by worsening atherosclerosis. Here we map the expression of immune checkpoints (ICs) within human carotid and coronary atherosclerotic plaques, revealing a network of immune cell interactions that ICI treatments can unintentionally target in arteries. We identify a population of mature, regulatory CCR7",
+      "pub_date": "2024-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Immune Checkpoint Inhibitors",
+        "Plaque, Atherosclerotic",
+        "Coronary Artery Disease",
+        "Carotid Artery Diseases",
+        "Cardiometabolic Risk Factors",
+        "Diabetes Mellitus, Type 2",
+        "Programmed Cell Death 1 Receptor",
+        "Signal Transduction",
+        "Lymphocyte Activation Gene 3 Protein",
+        "Antigens, CD",
+        "Male",
+        "Immune Checkpoint Proteins",
+        "CTLA-4 Antigen",
+        "Female",
+        "Atherosclerosis",
+        "Aged"
+      ],
+      "chemicals": [
+        "Immune Checkpoint Inhibitors",
+        "Programmed Cell Death 1 Receptor",
+        "Lag3 protein, human",
+        "Lymphocyte Activation Gene 3 Protein",
+        "Antigens, CD",
+        "CTLA4 protein, human",
+        "PDCD1 protein, human",
+        "Immune Checkpoint Proteins",
+        "CTLA-4 Antigen"
+      ],
+      "journal": "Nature cardiovascular research",
+      "authors": [
+        "Jos\u00e9 Gabriel Barcia Dur\u00e1n",
+        "Dayasagar Das",
+        "Michael Gildea",
+        "Letizia Amadori",
+        "Morgane Gourvest",
+        "Ravneet Kaur"
+      ]
+    },
+    {
+      "pmid": "39927618",
+      "title": "Xenotransplantation of a Porcine Kidney for End-Stage Kidney Disease.",
+      "abstract": "Xenotransplantation offers a potential solution to the organ shortage crisis. A 62-year-old hemodialysis-dependent man with long-standing diabetes, advanced vasculopathy, and marked dialysis-access challenges received a gene-edited porcine kidney with 69 genomic edits, including deletion of three glycan antigens, inactivation of porcine endogenous retroviruses, and insertion of seven human transgenes. The xenograft functioned immediately. The patient's creatinine levels decreased promptly and progressively, and dialysis was no longer needed. After a T-cell-mediated rejection episode on day 8, intensified immunosuppression reversed rejection. Despite sustained kidney function, the patient died from unexpected, sudden cardiac causes on day 52; autopsy revealed severe coronary artery disease and ventricular scarring without evident xenograft rejection. (Funded by Massachusetts General Hospital and eGenesis.).",
+      "pub_date": "2025-05-15",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Animals, Genetically Modified",
+        "Fatal Outcome",
+        "Graft Rejection",
+        "Heterografts",
+        "Kidney",
+        "Kidney Failure, Chronic",
+        "Kidney Transplantation",
+        "Swine",
+        "Transplantation, Heterologous",
+        "Immunosuppressive Agents",
+        "Coronary Artery Disease"
+      ],
+      "chemicals": [
+        "Immunosuppressive Agents"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Tatsuo Kawai",
+        "Winfred W Williams",
+        "Nahel Elias",
+        "Jay A Fishman",
+        "Kerry Crisalli",
+        "Alban Longchamp"
+      ]
+    },
+    {
+      "pmid": "38381407",
+      "title": "Effects of Pitavastatin on Coronary Artery Disease and Inflammatory Biomarkers in HIV: Mechanistic Substudy of the REPRIEVE Randomized Clinical Trial.",
+      "abstract": "Cardiovascular disease (CVD) is increased in people with HIV (PWH) and is characterized by premature noncalcified coronary plaque. In the Randomized Trial to Prevent Vascular Events in HIV (REPRIEVE), pitavastatin reduced major adverse cardiovascular events (MACE) by 35% over a median of 5.1 years. To investigate the effects of pitavastatin on noncalcified coronary artery plaque by coronary computed tomography angiography (CTA) and on inflammatory biomarkers as potential mechanisms for MACE prevention. This double-blind, placebo-controlled randomized clinical trial enrolled participants from April 2015 to February 2018 at 31 US clinical research sites. PWH without known CVD who were taking antiretroviral therapy and had low to moderate 10-year CVD risk were included. Data were analyzed from April to November 2023. Oral pitavastatin calcium, 4 mg per day. Coronary CTA and inflammatory biomarkers at baseline and 24 months. The primary outcomes were change in noncalcified coronary plaque volume and progression of noncalcified plaque. Of 804 enrolled persons, 774 had at least 1 evaluable CTA. Plaque changes were assessed in 611 who completed both CT scans. Of 611 analyzed participants, 513 (84.0%) were male, the mean (SD) age was 51 (6) years, and the median (IQR) 10-year CVD risk was 4.5% (2.6-7.0). A total of 302 were included in the pitavastatin arm and 309 in the placebo arm. The mean noncalcified plaque volume decreased with pitavastatin compared with placebo (mean [SD] change, -1.7 [25.2] mm3 vs 2.6 [27.1] mm3; baseline adjusted difference, -4.3 mm3; 95% CI, -8.6 to -0.1; P\u2009=\u2009.04; 7% [95% CI, 1-12] greater reduction relative to placebo). A larger effect size was seen among the subgroup with plaque at baseline (-8.8 mm3 [95% CI, -17.9 to 0.4]). Progression of noncalcified plaque was 33% less likely with pitavastatin compared with placebo (relative risk, 0.67; 95% CI, 0.52-0.88; P\u2009=\u2009.003). Compared with placebo, the mean low-density lipoprotein cholesterol decreased with pitavastatin (mean change: pitavastatin, -28.5 mg/dL; 95% CI, -31.9 to -25.1; placebo, -0.8; 95% CI, -3.8 to 2.2). The pitavastatin arm had a reduction in both oxidized low-density lipoprotein (-29% [95% CI, -32 to -26] vs -13% [95% CI, -17 to -9]; P\u2009<\u2009.001) and lipoprotein-associated phospholipase A2 (-7% [95% CI, -11 to -4] vs 14% [95% CI, 10-18]; P\u2009<\u2009.001) compared with placebo at 24 months. In PWH at low to moderate CVD risk, 24 months of pitavastatin reduced noncalcified plaque volume and progression as well as markers of lipid oxidation and arterial inflammation. These changes may contribute to the observed MACE reduction in REPRIEVE. ClinicalTrials.gov Identifier: NCT02344290.",
+      "pub_date": "2024-04-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Female",
+        "Coronary Artery Disease",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Double-Blind Method",
+        "Plaque, Atherosclerotic",
+        "Inflammation",
+        "Cardiovascular Diseases",
+        "HIV Infections",
+        "Biomarkers",
+        "Lipoproteins, LDL",
+        "Quinolines"
+      ],
+      "chemicals": [
+        "pitavastatin",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Biomarkers",
+        "Lipoproteins, LDL",
+        "Quinolines"
+      ],
+      "journal": "JAMA cardiology",
+      "authors": [
+        "Michael T Lu",
+        "Heather Ribaudo",
+        "Borek Foldyna",
+        "Markella V Zanni",
+        "Thomas Mayrhofer",
+        "Julia Karady"
+      ]
+    },
+    {
+      "pmid": "40178858",
+      "title": "Intravenous Immunoglobulin Alone for Coronary Artery Lesion Treatment of Kawasaki Disease: A Randomized Clinical Trial.",
+      "abstract": "Aspirin (acetylsalicylic acid) and intravenous immunoglobulin (IVIG) are standard treatments for Kawasaki disease (KD) to reduce coronary artery lesions (CALs). However, the optimal duration and dosage of aspirin remain inconsistent across hospitals. The absence of large-scale, multicenter randomized clinical trials hinders a clear understanding of the effectiveness of high-dose aspirin. To evaluate the effectiveness of IVIG alone compared with IVIG combined with high-dose aspirin as the active interventional therapy for KD and to compare treatment effectiveness across various KD subgroups. In this prospective, evaluator-blinded, multicenter noninferiority randomized clinical trial, children (aged <6 years) who had been diagnosed with KD according to American Heart Association criteria were recruited from 5 medical centers in Taiwan and were enrolled between September 1, 2016, and August 31, 2018, with follow-up assessments at 6 weeks and 6 months after treatment. Data were analyzed between January 23, 2023, and January 29, 2024. The standard group received IVIG (2 g/kg) plus high-dose aspirin (80-100 mg/kg per day) until fever subsided for 48 hours. The intervention group received IVIG (2 g/kg) alone. The primary outcome was the occurrence of CALs at 6 weeks. The noninferiority margin was set at 10%. Data analysis was performed using \u03c72 tests for categorical variables; independent t tests for continuous, normally distributed variables; generalized estimating equations for variables without specific distributions at multiple time points; and repeated-measures analysis of variance for continuous variables at multiple time points. The final cohort consisted of 134 patients with KD (mean [SD] age, 1.8 [1.3] years; 82 males [61.2%]), with matched age, weight, height, and sex distributions in 2 groups. Overall, in the IVIG plus aspirin group, among 69 patients, CAL occurrence decreased from 9 (13.0%) at baseline to 2 (2.9%) at 6 weeks and to 1 (1.4%) at 6 months. In the IVIG-only group, among 65 patients, CAL occurrence decreased from 7 (10.8%) at diagnosis to 1 (1.5%) at 6 weeks and to 2 (3.1%) at 6 months. No statistically significant differences in CAL frequency were observed between the 2 groups (0.7 percentage points [95% CI, -4.5 to 5.8 percentage points]; P\u2009=\u2009.65). There were also no significant differences in the treatment or prophylactic effect. This randomized clinical trial demonstrated the noninferiority of IVIG alone compared with IVIG plus aspirin, with a noninferiority margin set at 10%. The findings suggest that addition of high-dose aspirin during initial IVIG treatment is not clinically meaningful for CAL reduction in children with KD. Future studies on IVIG treatment alone for CAL reduction in KD across diverse racial and ethnic groups, beyond the Asian population, may be necessary to confirm minimal racial and ethnic variability and the broad applicability of these findings. ClinicalTrials.gov Identifier: NCT02951234.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Equivalence Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Mucocutaneous Lymph Node Syndrome",
+        "Immunoglobulins, Intravenous",
+        "Male",
+        "Female",
+        "Aspirin",
+        "Child, Preschool",
+        "Infant",
+        "Prospective Studies",
+        "Treatment Outcome",
+        "Coronary Artery Disease",
+        "Immunologic Factors",
+        "Taiwan",
+        "Drug Therapy, Combination"
+      ],
+      "chemicals": [
+        "Immunoglobulins, Intravenous",
+        "Aspirin",
+        "Immunologic Factors"
+      ],
+      "journal": "JAMA network open",
+      "authors": [
+        "Ho-Chang Kuo",
+        "Ming-Chih Lin",
+        "Chung-Chih Kao",
+        "Ken-Pen Weng",
+        "Yun Ding",
+        "Zhi Han"
+      ]
+    }
+  ]
+}

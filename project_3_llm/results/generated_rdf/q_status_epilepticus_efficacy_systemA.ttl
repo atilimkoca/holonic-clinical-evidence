@@ -1,0 +1,32 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_status_epilepticus_efficacy> a holon:ClinicalQuestionHolon ;
+    oe:questionText "How effective is levetiracetam compared with other agents for Status Epilepticus?"^^xsd:string ;
+    oe:answerText "Status epilepticus is a neurologic emergency defined as a seizure that lasts longer than 5 minutes. This is the most common neurologic emergency in children, and it is associated with significant morbidity and mortality."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_status_epilepticus_efficacy-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_status_epilepticus_efficacy-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_status_epilepticus_efficacy-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_status_epilepticus_efficacy-con> ;
+    holon:evidenceQualityThreshold "0.50"^^xsd:decimal .
+
+<https://example.org/openevidence/drugs/levetiracetam> oe:treats <https://example.org/openevidence/diseases/status_epilepticus> .
+<https://example.org/openevidence/generated/ev_q_status_epilepticus_efficacy_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_status_epilepticus_efficacy_0-tt> ;
+    holon:confidence "0.54"^^xsd:decimal ;
+    holon:evidenceLevel "Level-3" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/37391637> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_status_epilepticus_efficacy> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_status_epilepticus_efficacy_0-tt> rdf:subject <https://example.org/openevidence/drugs/levetiracetam> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/status_epilepticus> .
+

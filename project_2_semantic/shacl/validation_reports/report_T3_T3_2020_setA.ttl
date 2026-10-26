@@ -1,0 +1,19 @@
+Validation Report
+Conforms: False
+Results (1):
+Constraint Violation in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: oe:TemporalConstraintShape
+	Focus Node: oeevt:ev2020_0
+	Value Node: Literal("2015-01-01", datatype=xsd:date)
+	Result Path: holon:recordedOn
+	Source Constraint: [ sh:message Literal("T3 temporal: evidence recorded before the cited source was published.") ; sh:prefixes oe:_prefixes ; sh:select Literal("
+            SELECT $this (holon:recordedOn AS ?path) (?rec AS ?value)
+            WHERE {
+                $this holon:recordedOn ?rec .
+                $this oe:cites ?src .
+                ?src oe:publicationDate ?pub .
+                FILTER (?rec < ?pub)
+            }
+        ") ; sh:severity sh:Violation ]
+	Message: T3 temporal: evidence recorded before the cited source was published.

@@ -1,0 +1,56 @@
+{
+  "shared_test_set": "shared/test_data/integration_test_set.ttl",
+  "shared_test_set_triples": 6488,
+  "shared_test_set_holons": 20,
+  "shared_test_set_requested_holons": 20,
+  "validation": {
+    "sample_size": 3,
+    "conforming_holons": 3,
+    "rows": [
+      {
+        "file": "project_1_crawling/data/rdf/holonic/clinical_questions/q_acute_kidney_injury_efficacy.ttl",
+        "conforms": true,
+        "violations": 0
+      },
+      {
+        "file": "project_1_crawling/data/rdf/holonic/clinical_questions/q_acute_kidney_injury_safety.ttl",
+        "conforms": true,
+        "violations": 0
+      },
+      {
+        "file": "project_1_crawling/data/rdf/holonic/clinical_questions/q_acute_kidney_injury_treatment.ttl",
+        "conforms": true,
+        "violations": 0
+      }
+    ]
+  },
+  "query": {
+    "backend": "rdflib",
+    "result_count": 2,
+    "top_results": [
+      {
+        "drug": "levetiracetam",
+        "disease": "epilepsy",
+        "level": "Level-3",
+        "confidence": 0.58,
+        "source": "41393325"
+      },
+      {
+        "drug": "levetiracetam",
+        "disease": "epilepsy",
+        "level": "Level-3",
+        "confidence": 0.57,
+        "source": "41712824"
+      }
+    ]
+  },
+  "generation": {
+    "holon_id": "q_acute_kidney_injury_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Acute Kidney Injury?",
+    "first_pass_conforms": true,
+    "converged": true,
+    "iterations": 1,
+    "hallucination_rate": 0.0,
+    "context_tokens": 136
+  }
+}

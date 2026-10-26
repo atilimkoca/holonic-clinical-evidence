@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_osteoarthritis_efficacy a holon:EntityEntry ;
+    holon:entity oed:osteoarthritis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_osteoarthritis_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_osteoarthritis_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.54 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_osteoarthritis_efficacy ;
+    holon:recordedOn "2025-12-17"^^xsd:date ;
+    oe:cites oesrc:41407913 ;
+    oe:effectiveness "effective" .
+
+oedrug:ibuprofen oe:treats oed:osteoarthritis .
+
+oeevt:ev_q_osteoarthritis_efficacy-tt rdf:object oed:osteoarthritis ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:ibuprofen .
+
+oeq:q_osteoarthritis_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is ibuprofen compared with other agents for Osteoarthritis?"@en ;
+    prov:generatedAtTime "2025-12-17T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.33 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_osteoarthritis_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_osteoarthritis_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_osteoarthritis_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_osteoarthritis_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Osteoarthritis with ibuprofen."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_osteoarthritis_safety ;
+    holon:recordedOn "2025-12-17"^^xsd:date ;
+    holon:summaryConfidence 0.54 ;
+    oe:aboutDisease oed:osteoarthritis ;
+    oe:answerText "Synovitis has recently been shown to be a critical early stage in development of osteoarthritis (OA), and inhibiting synovitis significantly alleviates OA symptoms. Denosumab, a monoclonal antibody targeting RANKL, previously developed for osteoporosis."^^xsd:string ;
+    oe:belongsToSpecialty "Rheumatology" ;
+    oe:cites oesrc:40721187,
+        oesrc:40887466,
+        oesrc:41101901,
+        oesrc:41407913 ;
+    oe:questionText "How effective is ibuprofen compared with other agents for Osteoarthritis?"^^xsd:string .
+

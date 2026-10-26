@@ -1,0 +1,112 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# SET A — BOUNDARY-AWARE SHACL  ·  FILE 3/4: BOUNDARY META-SHAPES (SET-A ONLY)
+#
+# These shapes exist ONLY in the boundary-aware set. They validate the holon
+# STRUCTURE itself — entry/exit events, layer membership, and the admission
+# rules a holon's boundary enforces on its interior. A flat model has no
+# notion of a boundary, so it cannot express any of these.
+# =============================================================================
+
+# --- Holon boundary: entry/exit events --------------------------------------
+
+oe:HolonBoundaryShape a sh:NodeShape ;
+    sh:targetClass holon:EntityEntry ;
+    sh:severity sh:Violation ;
+    sh:property [
+        sh:path holon:entity ;
+        sh:minCount 1 ; sh:maxCount 1 ;
+        sh:severity sh:Violation ;
+        sh:message "Entity entry must reference exactly one entity." ;
+    ] ;
+    sh:property [
+        sh:path holon:entryMode ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:in ( "topic-match" "evidence-linked" "contradiction"
+                "superseded-by-newer-evidence" "temporal-update"
+                "new-evidence" "cross-reference" ) ;
+        sh:severity sh:Warning ;
+        sh:message "Entry mode must be one of the recognised boundary modes." ;
+    ] .
+
+# --- An entry/exit node is EXACTLY ONE of Entry or Exit (sh:xone) ------------
+
+oe:BoundaryEventShape a sh:NodeShape ;
+    sh:targetSubjectsOf holon:entity ;
+    sh:severity sh:Violation ;
+    sh:xone (
+        [ sh:property [ sh:path rdf:type ; sh:hasValue holon:EntityEntry ] ]
+        [ sh:property [ sh:path rdf:type ; sh:hasValue holon:EntityExit  ] ]
+    ) ;
+    sh:message "A boundary event must be exactly one of EntityEntry or EntityExit (not both, not neither)." .
+
+# --- Boundary admission rule for evidence chains ----------------------------
+# The boundary of an EvidenceChainHolon admits an assertion into its interior
+# only if that assertion's confidence clears the chain's quality threshold.
+# Encoded structurally via sh:node delegation to the admission sub-shape.
+
+oe:EvidenceChainBoundaryShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceChainHolon ;
+    sh:severity sh:Violation ;
+    sh:property [
+        sh:path holon:evidenceQualityThreshold ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 1 ; sh:maxCount 1 ;
+        sh:minInclusive 0.0 ; sh:maxInclusive 1.0 ;
+        sh:severity sh:Violation ;
+        sh:message "Evidence chain must declare exactly one quality threshold in [0,1]." ;
+    ] ;
+    # The chain's aggregate projection must itself be a well-formed projection.
+    sh:property [
+        sh:path holon:aggregateConfidence ;
+        sh:node oe:WellFormedConfidenceShape ;
+        sh:minCount 1 ; sh:maxCount 1 ;
+        sh:severity sh:Violation ;
+        sh:message "Evidence chain aggregate confidence must be a well-formed score." ;
+    ] .
+
+# --- Reusable sub-shapes referenced via sh:node ------------------------------
+
+oe:WellFormedConfidenceShape a sh:NodeShape ;
+    sh:datatype xsd:decimal ;
+    sh:minInclusive 0.0 ;
+    sh:maxInclusive 1.0 .
+
+# Projection nodes must carry a narrative function AND a summary confidence
+# that is a well-formed score (sh:node delegation #2).
+oe:ProjectionShape a sh:NodeShape ;
+    sh:targetSubjectsOf holon:narrativeFunction ;
+    sh:severity sh:Warning ;
+    sh:property [
+        sh:path holon:summaryConfidence ;
+        sh:node oe:WellFormedConfidenceShape ;
+        sh:minCount 1 ;
+        sh:severity sh:Warning ;
+        sh:message "Projection summary confidence must be a well-formed score." ;
+    ] .
+
+# Entry events must reference an entity that is itself a typed domain entity
+# (sh:node delegation #3 — boundary referential integrity).
+oe:TypedEntityShape a sh:NodeShape ;
+    sh:or (
+        [ sh:class oe:Disease ] [ sh:class oe:Drug ]
+        [ sh:class oe:Symptom ] [ sh:class oe:Treatment ]
+        [ sh:class oe:EvidenceSource ]
+    ) .
+
+oe:EntryReferentialShape a sh:NodeShape ;
+    sh:targetClass holon:EntityEntry ;
+    sh:severity sh:Warning ;
+    sh:property [
+        sh:path holon:entity ;
+        sh:node oe:TypedEntityShape ;
+        sh:severity sh:Warning ;
+        sh:message "Boundary entry must reference a typed domain entity (T2 at the boundary)." ;
+    ] .

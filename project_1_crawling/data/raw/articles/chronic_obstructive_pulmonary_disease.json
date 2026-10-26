@@ -1,0 +1,492 @@
+{
+  "disease": "Chronic Obstructive Pulmonary Disease",
+  "slug": "chronic_obstructive_pulmonary_disease",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40434001",
+      "title": "Eosinophils in chronic obstructive pulmonary disease.",
+      "abstract": "Chronic Obstructive Pulmonary Disease (COPD) is a heterogeneous lung condition characterised by chronic respiratory symptoms, fixed airway obstruction and persistent inflammation that leads to a progressive airflow limitation. Although COPD has traditionally been linked to neutrophilic inflammation, recent studies have identified a subset of patients - approximately 20%-40% - with elevated eosinophil levels in blood and sputum. Emerging evidence suggests that eosinophilic inflammation has a pivotal role in a subset of COPD patients and may influence disease progression, exacerbation frequency and therapeutic responses. This narrative review provides a comprehensive analysis of the role of eosinophils in COPD with particular attention to their role as biomarkers in blood and sputum. We evaluate the prevalence of eosinophilic inflammation in COPD exanimating different thresholds used in blood and in sputum to define it. In addition, we focus on eosinophilic COPD phenotype as a treatable trait, emphasising recent evidence that supports the effectiveness of biological target therapy.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Eosinophils",
+        "Sputum",
+        "Biomarkers",
+        "Disease Progression",
+        "Lung",
+        "Phenotype",
+        "Inflammation"
+      ],
+      "chemicals": [
+        "Biomarkers"
+      ],
+      "journal": "Therapeutic advances in respiratory disease",
+      "authors": [
+        "Marco Vanetti",
+        "Dina Visca",
+        "Francesco Ardesi",
+        "Martina Zappa",
+        "Patrizia Pignatti",
+        "Antonio Spanevello"
+      ]
+    },
+    {
+      "pmid": "40983665",
+      "title": "Treatment of chronic obstructive pulmonary disease: current pipeline and new opportunities.",
+      "abstract": "Chronic obstructive pulmonary disease (COPD) is an inflammatory disorder of the lungs that affects about 10% of the adult population and is currently the third leading global cause of death. COPD is the result of multiple, repeated and dynamic gene-environment interactions, starting early in life, that determine the lung function trajectory that a given individual follows over a lifetime. Increasing understanding of COPD pathogenesis has opened many new opportunities for drug development, including recently approved monoclonal antibodies that reduce inflammatory cytokine signalling by targeting the IL-4\u03b1 receptor or the eosinophil-activating IL-5. Drugs targeting a range of other culprits involved in COPD, including neutrophils, alarmins and kinases, are also in clinical development. As the current pipeline of drugs in development for COPD matures, potential areas for novel therapies continue to emerge while lessons from ongoing trials such as patient stratification can be used to refine the design of future trials in this disease.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Animals",
+        "Drug Development",
+        "Antibodies, Monoclonal"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal"
+      ],
+      "journal": "Nature reviews. Drug discovery",
+      "authors": [
+        "Alvar Agusti",
+        "Dave Singh",
+        "Rosa Faner"
+      ]
+    },
+    {
+      "pmid": "40619503",
+      "title": "Comparative Effectiveness of FF/UMEC/VI and BUD/GLY/FORM in Patients with COPD Stepping Up From Dual Therapy.",
+      "abstract": "Recent data suggest differences in effectiveness of single-inhaler triple therapies (SITTs) for patients with chronic obstructive pulmonary disease (COPD); however, data specifically from patients previously treated with dual bronchodilator therapy are lacking. This real-world comparative effectiveness study assessed patients with COPD treated with fluticasone furoate/umeclidinium/vilanterol (FF/UMEC/VI) and budesonide/glycopyrrolate/formoterol fumarate (BUD/GLY/FORM) who stepped up from dual therapy. This retrospective study used healthcare claims from the Komodo Research database to identify patients with COPD and Medicare Fee-for-Service insurance on dual therapy as their most recent treatment in the 90 days pre-index, stepping up to FF/UMEC/VI or BUD/GLY/FORM between January 1, 2016 and December 31, 2023. Primary outcome was annualized rate of moderate-severe exacerbations per patient-year (PPY) compared using rate ratios (RRs) and 95% confidence intervals (CIs) from Poisson regression models after adjustment with overlap weighting. Secondary outcomes were time to first moderate-severe exacerbation (analyzed as a composite and separately), reported using Kaplan-Meier (KM) analysis and compared using hazard ratios (HRs) with 95% CIs from weighted Cox regression models. All-cause mortality (KM\u00a0analysis) was included as an exploratory outcome. Overall, 10,093 FF/UMEC/VI and 3926 BUD/GLY/FORM patients stepping up from dual therapy were included. Patients stepping up to FF/UMEC/VI experienced an 18% significantly lower rate of moderate-severe COPD exacerbations compared with BUD/GLY/FORM [0.80 vs. 0.98 PPY; RR (95% CI) 0.82 (0.77, 0.88); P\u00a0<\u00a00.001]. Stepping up to FF/UMEC/VI was also associated with a 14% lower risk of moderate-severe COPD exacerbations [HR (95% CI) 0.86 (0.81, 0.92); P\u00a0<\u00a00.001] and 18% lower risk of all-cause mortality [HR (95% CI) 0.82 (0.68, 0.99); P\u00a0=\u00a00.040] at 12 months compared with BUD/GLY/FORM. In this real-world study, SITT with FF/UMEC/VI was associated with a significantly lower rate and risk of exacerbations compared with BUD/GLY/FORM in patients stepping up from dual therapy.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Male",
+        "Female",
+        "Aged",
+        "Retrospective Studies",
+        "Bronchodilator Agents",
+        "Glycopyrrolate",
+        "Benzyl Alcohols",
+        "Drug Combinations",
+        "Quinuclidines",
+        "Middle Aged",
+        "Budesonide",
+        "Chlorobenzenes",
+        "Drug Therapy, Combination",
+        "Formoterol Fumarate",
+        "Aged, 80 and over",
+        "Treatment Outcome",
+        "Androstadienes"
+      ],
+      "chemicals": [
+        "Bronchodilator Agents",
+        "Glycopyrrolate",
+        "Benzyl Alcohols",
+        "GSK573719",
+        "Drug Combinations",
+        "vilanterol",
+        "Quinuclidines",
+        "Budesonide",
+        "fluticasone furoate",
+        "Chlorobenzenes",
+        "Formoterol Fumarate",
+        "Androstadienes"
+      ],
+      "journal": "Advances in therapy",
+      "authors": [
+        "Jadwiga A Wedzicha",
+        "Stephen G Noorduyn",
+        "Valentina Di Boscio",
+        "Olivier Le Rouzic",
+        "Anurita Majumdar",
+        "Rosirene Paczkowski"
+      ]
+    },
+    {
+      "pmid": "40651490",
+      "title": "Type 2 inflammation biomarkers and their association with response to dupilumab in COPD (BOREAS): an analysis of a randomised, placebo-controlled, phase 3 trial.",
+      "abstract": "A raised blood eosinophil count (\u2265300 cells per \u03bcL), a marker of type 2 inflammation, can identify patients with chronic obstructive pulmonary disease (COPD) with higher exacerbation risk. Dupilumab reduced exacerbations in patients with COPD and type 2 inflammation in the BOREAS trial. In this post-hoc analysis, we evaluated the predictive value and longitudinal changes in type 2 inflammatory biomarkers in patients with COPD and type 2 inflammation from the BOREAS trial who received dupilumab treatment. BOREAS, a phase 3, multicentre, double-blind, randomised trial was conducted at 275 sites in 24 countries and included patients with COPD and type 2 inflammation (screening blood eosinophils \u2265300 cells per \u03bcL). Patients were randomly assigned (1:1) to receive 300 mg of dupilumab every 2 weeks for 52 weeks or matching placebo. Randomisation was stratified by country and inhaled corticosteroid dose at baseline. This post-hoc analysis assessed blood eosinophil counts, fractional exhaled nitric oxide (FeNO), serum eotaxin-3, total plasma immunoglobulin E (IgE), and serum pulmonary and activation-regulated chemokine (PARC) concentrations in the safety population. The study was registered at ClinicalTrials.gov, NCT03930732 and is complete. BOREAS was conducted between April 15, 2019, and May 2, 2023, and included 939 patients with COPD and type 2 inflammation. 468 patients were randomly assigned to receive 300 mg of dupilumab every 2 weeks for 52 weeks and 471 were randomly assigned to receive matching placebo. 319 (34%) participants were female and 620 (66%) were male. 657 (70%) were former smokers and 282 (30%) were current smokers. At week 52, greater median percentage reductions were observed in dupilumab versus placebo for most biomarkers (total IgE: -22\u00b75% [IQR -30\u00b74 to -16\u00b75] vs -0\u00b79% [-6\u00b75 to 4\u00b78]; FeNO: -28\u00b76% [-57\u00b71 to 0] vs -6\u00b79% [-35\u00b77 to 25\u00b70]; eotaxin-3: -8\u00b78% [-15\u00b76 to -2\u00b79] vs -0\u00b74% [-5\u00b76 to 5\u00b70]; and PARC: -14\u00b74% [-29\u00b72 to 2\u00b71] vs -0\u00b78% [-13\u00b79 to 17\u00b72]). Reductions were similar across treatment groups by blood eosinophil counts. Exacerbation risk overall was reduced, with a greater magnitude of reduction in those with higher baseline blood eosinophil count (p=0\u00b70056) and baseline FeNO (p=0\u00b7043). Patients with COPD and type 2 inflammation who were given dupilumab showed reduced type 2 inflammatory biomarkers, with elevated blood eosinophil count and FeNO predicting greater treatment response. These findings support biomarker-driven treatment strategies to optimise therapy. Sanofi and Regeneron Pharmaceuticals.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antibodies, Monoclonal, Humanized",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Male",
+        "Biomarkers",
+        "Female",
+        "Double-Blind Method",
+        "Aged",
+        "Middle Aged",
+        "Eosinophils",
+        "Immunoglobulin E",
+        "Inflammation",
+        "Leukocyte Count",
+        "Chemokine CCL26",
+        "Treatment Outcome",
+        "Fractional Exhaled Nitric Oxide Testing",
+        "Chemokine CCL17"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Biomarkers",
+        "dupilumab",
+        "Immunoglobulin E",
+        "Chemokine CCL26",
+        "CCL26 protein, human",
+        "Chemokine CCL17"
+      ],
+      "journal": "The Lancet. Respiratory medicine",
+      "authors": [
+        "Stephanie A Christenson",
+        "Nicola A Hanania",
+        "Surya P Bhatt",
+        "Mona Bafadhel",
+        "Klaus F Rabe",
+        "Claus F Vogelmeier"
+      ]
+    },
+    {
+      "pmid": "40669599",
+      "title": "Tussilagone attenuated cigarette smoke-induced chronic obstructive pulmonary disease through regulating Nrf2 and NF-\u03baB/NLRP3 inflammasome via directly targeting cysteine 434 of KEAP1.",
+      "abstract": "Chronic obstructive pulmonary disease (COPD) represents a significant global health challenge, characterized by substantial morbidity and mortality rates. In traditional Chinese medicine (TCM), Farfarae Flos (FF) has been widely utilized as a therapeutic agent for COPD. However, its specific bioactive compounds and the underlying mechanisms are unclear. This study aims to identify bioactive constituent of FF against COPD and illustrate its therapeutic target and mechanism. In this research, a high-throughput screening on constituents of FF was conducted, leading to the identification of a potent anti-COPD lead, tussilagone (TUS). Utilizing biotin-labeling approach, Kelch-like ECH-associated protein 1 (KEAP1), the ubiquitin E3 ligase of nuclear factor erythroid 2-related factor 2 (Nrf2), was identified to be the direct target of TUS. Mechanistically, TUS activated KEAP1-Nrf2 axis by covalent modification of cysteine 434 (Cys434), a novel high-reactivity cysteine of KEAP1. TUS-mediated Nrf2 activation further suppressed the activation of nuclear factor kappa-B (NF-\u03baB) and NOD-like receptor thermal protein domain associated protein 3 (NLRP3) inflammasome, consequently attenuating lung inflammation in COPD. TUS was identified as the bioactive constituent of FF against COPD, which directly targeted Cys434 of KEAP1. KEAP1 was proven to be a pharmacological target for the treatment of COPD, and Cys434 was identified to be the first highly reactive cysteine in Kelch domain of KEAP1. TUS inhibits lung inflammation by regulating Nrf2 and NF-\u03baB/NLRP3, which is the mechanism of FF against COPD.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Kelch-Like ECH-Associated Protein 1",
+        "NF-E2-Related Factor 2",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Inflammasomes",
+        "NF-kappa B",
+        "Animals",
+        "Humans",
+        "Mice",
+        "Male",
+        "Cysteine",
+        "Tussilago",
+        "Signal Transduction",
+        "Mice, Inbred C57BL",
+        "Disease Models, Animal",
+        "Cigarette Smoking"
+      ],
+      "chemicals": [
+        "Kelch-Like ECH-Associated Protein 1",
+        "NF-E2-Related Factor 2",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Inflammasomes",
+        "NF-kappa B",
+        "Cysteine",
+        "KEAP1 protein, human",
+        "Keap1 protein, mouse",
+        "NFE2L2 protein, human",
+        "Nlrp3 protein, mouse",
+        "Nfe2l2 protein, mouse"
+      ],
+      "journal": "Journal of advanced research",
+      "authors": [
+        "Lin-Tao Xu",
+        "Qing-Tong Han",
+        "Zhen-Peng Xu",
+        "Xiao-Ning Wang",
+        "Hua Zhang",
+        "Tao Shen"
+      ]
+    },
+    {
+      "pmid": "40388086",
+      "title": "Effectiveness and Safety of Tezepelumab in a Diverse Population of US Patients with Severe Asthma: Initial Results of the PASSAGE Study.",
+      "abstract": "Clinical trials for severe uncontrolled asthma (SUA) often underrepresent or exclude key patient populations. The phase 4 PASSAGE study assesses the effectiveness and safety of tezepelumab in a diverse, real-world US population of patients with SUA. PASSAGE is an ongoing, multicenter, single-arm, open-label study of patients (\u2265\u200912\u00a0years) with SUA. The study enrolled participants across asthma phenotypes, based on blood eosinophil counts (BECs) (\u2265/<\u2009300 cells/\u00b5L) and perennial aeroallergen sensitization, and underrepresented subgroups (Black/African Americans, adolescents, participants with comorbid mild to moderate chronic obstructive pulmonary disease (COPD) and smokers [\u2265\u200910 pack-years]). Participants receive tezepelumab 210\u00a0mg subcutaneously every 4\u00a0weeks for 52\u00a0weeks. This interim analysis assessed annualized asthma exacerbation rates (AAERs) in the 12-month baseline period (before starting tezepelumab) and the treatment period, and changes from baseline to week 24 in pre-bronchodilator (BD) forced expiratory volume in 1\u00a0second (FEV Of 208 participants in this analysis, 41% had BEC\u2009\u2265\u2009300 cells/\u00b5L, 56% had confirmed allergy, 17% were Black/African American, 5% were adolescents, 13% had comorbid COPD, and 23% were smokers. The AAER decreased by 76% (95% CI (confidence interval): 69, 81) from baseline to the treatment period; comparable reductions were observed across asthma phenotypes and underrepresented subgroups. The least squares mean change from baseline to week 24 in pre-BD FEV The PASSAGE study of US patients with SUA treated with tezepelumab demonstrates substantial reductions in AAERs across asthma phenotypes and underrepresented subgroups, with clinically meaningful improvements in lung function, asthma control and HRQoL. ClinicalTrials.gov identifier, NCT05329194.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Clinical Trial, Phase IV"
+      ],
+      "mesh_descriptors": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Child",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "Anti-Asthmatic Agents",
+        "Antibodies, Monoclonal, Humanized",
+        "Asthma",
+        "Black or African American",
+        "Forced Expiratory Volume",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Quality of Life",
+        "Severity of Illness Index",
+        "Treatment Outcome",
+        "United States",
+        "White"
+      ],
+      "chemicals": [
+        "Anti-Asthmatic Agents",
+        "Antibodies, Monoclonal, Humanized",
+        "tezepelumab"
+      ],
+      "journal": "Advances in therapy",
+      "authors": [
+        "Njira L Lugogo",
+        "Praveen Akuthota",
+        "Kaharu Sumino",
+        "Sameer K Mathur",
+        "Autumn F Burnette",
+        "Andrew W Lindsley"
+      ]
+    },
+    {
+      "pmid": "40835544",
+      "title": "Biological Therapy in COPD Management: Current Evidence, Challenges and Opportunities.",
+      "abstract": "The goals of COPD treatment are to improve symptoms and decrease future risks such as exacerbations, lung function decline and mortality. Despite receiving maximal inhaled treatment, many COPD patients continue to exacerbate. This highlights the need for novel therapeutic approaches. There is now positive clinical trial data supporting the use of monoclonal antibody treatments in COPD. There remain challenges to define responder populations for each monoclonal antibody class on the basis of clinical characteristics and biomarkers. There are considerable future opportunities, including the targeting of disease activity with monoclonal antibodies at earlier stages in the natural history of COPD in order to slow the rate of disease progression. Using monoclonal antibodies during an exacerbation as a targeted treatment also hold potential. Monoclonal antibody treatments have the potential to change the landscape of COPD management.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Antibodies, Monoclonal",
+        "Biological Therapy",
+        "Disease Progression",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "Archivos de bronconeumologia",
+      "authors": [
+        "Dave Singh",
+        "Antonio Men\u00e9ndez Lobo",
+        "Andrew Higham",
+        "Bernardino Alc\u00e1zar Navarrete"
+      ]
+    },
+    {
+      "pmid": "40622686",
+      "title": "Budesonide-Formoterol Metered-Dose Inhaler vs Fluticasone-Salmeterol Dry-Powder Inhaler.",
+      "abstract": "Transitioning from metered-dose inhalers to propellant-free dry-powder inhalers could reduce health care-related greenhouse gas emissions, but the clinical difference in outcomes that may be associated with this switch is uncertain. To evaluate the clinical difference in outcomes associated with a July 2021 Veterans Health Administration (VHA) formulary change that replaced budesonide-formoterol metered-dose inhaler with fluticasone-salmeterol dry-powder inhaler for the treatment of chronic obstructive pulmonary disease and asthma. This within-person, self-controlled case series (SCCS) and matched observational cohort study (cohort study) used data from the US Veterans Affairs health care system from January 2018 through December 2022. Veterans who were prescribed a combination inhaler before and after the formulary change were included in both the SCCS and cohort study. Data were analyzed between April 19, 2024, and April 4, 2025. Treatment with budesonide-formoterol metered-dose inhaler vs fluticasone-salmeterol dry-powder inhaler. Rescue medication use (albuterol and prednisone fills), emergency department visits, and hospitalizations (all-cause, respiratory-related, and pneumonia-specific) were assessed. Following the VHA formulary change, 260\u202f268 patients switched from budesonide-formoterol metered-dose therapy to fluticasone-salmeterol dry-powder therapy. In the SCCS (median [IQR] age, 71 [62-75] years; 91% male), among patients who switched inhalers and experienced the adverse outcomes of interest, treatment with fluticasone-salmeterol dry-powder inhaler therapy was associated with a 10% decrease in albuterol fills (incidence rate ratio [IRR], 0.90 [95% CI, 0.90-0.91]), a 2% increase in prednisone fills (IRR, 1.02 [95% CI, 1.01-1.03]), a 5% increase in all-cause emergency department visits (IRR, 1.05 [95% CI, 1.04-1.06]), an 8% increase in all-cause hospitalizations (IRR, 1.08 [95% CI, 1.06-1.09]), a 10% increase in respiratory-related hospitalizations (IRR, 1.10 [95% CI, 1.07-1.14]), and a 24% increase in pneumonia-specific hospitalizations (IRR, 1.24 [95% CI, 1.17-1.31]). In the cohort study of 258\u202f557 patients (mean [SD] age, 68.9 [11.3] years; 94% male), those who switched to a fluticasone-salmeterol dry-powder inhaler had no difference in mortality (1.89% vs 1.90%; adjusted absolute difference, -0.01 percentage points [95% CI, -0.12 to 0.10 percentage points]) but had increases in all-cause hospitalizations (16.14% vs 15.64%; adjusted absolute difference, 0.49 percentage points [95% CI, 0.21-0.78 percentage points]), respiratory-related hospitalizations (3.15% vs 2.74%; adjusted absolute difference, 0.41 percentage points [95% CI, 0.27-0.55 percentage points]), and pneumonia-related hospitalizations (1.15% vs 1.03%; adjusted absolute difference, 0.12 percentage points [95% CI, 0.04-0.21 percentage points]) at 180 days after the switch compared with matched patients who did not switch. The study found that the VHA formulary transition from budesonide-formoterol metered-dose inhaler to fluticasone-salmeterol dry-powder inhaler was associated with increased health care utilization, suggesting potential harm and the need to reevaluate this policy change.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Comparative Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Administration, Inhalation",
+        "Asthma",
+        "Bronchodilator Agents",
+        "Budesonide, Formoterol Fumarate Drug Combination",
+        "Dry Powder Inhalers",
+        "Fluticasone-Salmeterol Drug Combination",
+        "Metered Dose Inhalers",
+        "Pulmonary Disease, Chronic Obstructive",
+        "United States"
+      ],
+      "chemicals": [
+        "Bronchodilator Agents",
+        "Budesonide, Formoterol Fumarate Drug Combination",
+        "Fluticasone-Salmeterol Drug Combination"
+      ],
+      "journal": "JAMA internal medicine",
+      "authors": [
+        "Alexander S Rabin",
+        "Sarah M Seelye",
+        "Julien B Weinstein",
+        "Cainnear K Hogan",
+        "Taylor N Whittington",
+        "Jennifer Cano"
+      ]
+    },
+    {
+      "pmid": "40388132",
+      "title": "Tiotropium Initiation and Dementia Risk in Chronic Obstructive Pulmonary Disease.",
+      "abstract": "Long-acting muscarinic antagonists (LAMAs), such as tiotropium, are inhaled anticholinergic bronchodilators. However, there is limited clinical evidence examining whether LAMAs may have clinically meaningful central anticholinergic effects, such as increased dementia risk. To determine the association between tiotropium initiation and dementia risk in older adults with chronic obstructive pulmonary disease (COPD). This population-based, active-comparator, new-user cohort study used linkable administrative databases from Ontario, Canada, with a target trial emulation framework. The cohort included new users of tiotropium monotherapy or a long-acting \u03b22-agonist plus inhaled corticosteroid (LABA-ICS) who were 66 years or older with COPD and without dementia, from September 4, 2004, to February 29, 2012. The follow-up period was up to 10 years from treatment initiation. Analyses were conducted from May 13, 2024, to March 6, 2025. Tiotropium monotherapy initiators were compared with LABA-ICS initiators. The primary analysis used an intention-to-treat exposure definition. Incident dementia was determined using a validated algorithm. A 1-year lag time was implemented to mitigate reverse causality and to account for disease latency. Cause-specific hazard ratios (HRs) with death as a competing risk were obtained from Cox models with propensity score fine stratification weights. Weighted incidence rate differences (IRDs) per 1000 person-years were calculated. Among 30\u202f960 tiotropium monotherapy initiators and 19\u202f530 LABA-ICS initiators, the mean (SD) age was 75.1 (6.7) years and 46.7% were female. Over a median (IQR) follow-up period of 7.59 (3.91-10.0) years from treatment initiation, tiotropium monotherapy vs LABA-ICS initiation was associated with a small increase in dementia risk per 1000 person-years (incidence rates, 29.6 [95% CI, 28.8-30.4] vs 27.4 [95% CI, 26.4-28.3]; IRD, 2.3 [95% CI, 1.0-3.5]; HR, 1.09 [95% CI, 1.04-1.14]). The secondary as-treated analysis showed no significant association per 1000 person-years (incidence rates, 24.1 [95% CI, 22.2-26.0] vs 21.4 [95% CI, 18.5-24.3]; IRD, 2.7 [95% CI, -0.8 to 6.1]; HR, 1.11 [95% CI, 0.93-1.32]). In this cohort study, among older adults with COPD, the small absolute rate increase in incident dementia associated with tiotropium monotherapy vs LABA-ICS was of questionable clinical importance, particularly when weighed against the established clinical benefits of tiotropium.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Tiotropium Bromide",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Female",
+        "Dementia",
+        "Aged",
+        "Male",
+        "Bronchodilator Agents",
+        "Ontario",
+        "Administration, Inhalation",
+        "Muscarinic Antagonists",
+        "Aged, 80 and over",
+        "Incidence",
+        "Adrenergic beta-2 Receptor Agonists",
+        "Cohort Studies"
+      ],
+      "chemicals": [
+        "Tiotropium Bromide",
+        "Bronchodilator Agents",
+        "Muscarinic Antagonists",
+        "Adrenergic beta-2 Receptor Agonists"
+      ],
+      "journal": "JAMA internal medicine",
+      "authors": [
+        "Che-Yuan Wu",
+        "Tetyana Kendzerska",
+        "Christa Wang",
+        "Lisa Y Xiong",
+        "Jodi D Edwards",
+        "Peter P Liu"
+      ]
+    },
+    {
+      "pmid": "40668951",
+      "title": "Gabapentinoids and Risk for Exacerbation of Chronic Obstructive Pulmonary Disease.",
+      "abstract": "",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Gabapentin",
+        "Aged",
+        "Middle Aged",
+        "Chronic Pain",
+        "Antidepressive Agents, Tricyclic",
+        "Adrenal Cortex Hormones",
+        "Disease Progression",
+        "Risk Factors",
+        "Serotonin and Noradrenaline Reuptake Inhibitors",
+        "Proportional Hazards Models",
+        "Neuralgia"
+      ],
+      "chemicals": [
+        "Gabapentin",
+        "Antidepressive Agents, Tricyclic",
+        "Adrenal Cortex Hormones",
+        "Serotonin and Noradrenaline Reuptake Inhibitors"
+      ],
+      "journal": "Annals of the American Thoracic Society",
+      "authors": [
+        "Yuya Kimura",
+        "Taisuke Jo",
+        "Norihiko Inoue",
+        "Maho Suzukawa",
+        "Hiroki Matsui",
+        "Yusuke Sasabuchi"
+      ]
+    },
+    {
+      "pmid": "40982160",
+      "title": "Real-World Outcomes in Patients with COPD Initiating Budesonide/Glycopyrronium/Formoterol Fumarate Dehydrate in Spain: ORESTES Study.",
+      "abstract": "Chronic obstructive pulmonary disease (COPD) often results in progressive airflow limitation and is a major cause of morbidity, mortality, and healthcare resource utilization (HCRU). Single-inhaler triple therapy with budesonide/glycopyrronium/formoterol fumarate dehydrate (BGF) is recommended for maintenance in adults with moderate-to-severe COPD not adequately controlled by dual therapy. The ORESTES study aimed to describe the occurrence of exacerbations, clinical characteristics, and HCRU in patients with COPD initiating BGF in a real-life setting in Spain. Observational, retrospective, multicenter study in patients with COPD aged\u00a0\u2265\u00a040\u00a0years starting BGF treatment at their physician's discretion in routine clinical practice. Data were retrieved 12\u00a0months before and up to 12\u00a0months after BGF initiation. Occurrence of exacerbations, HCRU, and use of additional COPD medications, together with the patient demographic and clinical profiles, were evaluated. A total of 718 patients were evaluated, of whom 89.3% completed 12\u00a0months of BGF treatment. At BGF initiation, most patients were classified as having high-risk phenotype (72.3%), 78.4% presented with dyspnea (mMRC grade\u00a0\u2265\u00a02), 50.9% were GOLD E, 93.0% had\u00a0\u2265\u00a03 comorbidities, and 79.7%\u00a0\u2265\u00a01 cardiovascular comorbidity. Prior initiation of BGF, 41.1% had received dual therapy and 49.6% triple therapy. After BGF initiation, the proportions of patients experiencing moderate and severe exacerbations decreased by 20.8% and 23.1%, respectively. Additionally, the use of all rescue medication decreased by 21.3%, with a similar reduction (21.1%) observed specifically for short-acting beta-2 agonists (SABA). Oral corticosteroids and antibiotics use decreased 17.1%, and 18.2%, respectively. Primary care visits, admissions to the emergency room, and hospitalizations decreased by 18.0%, 25.5%, and 24.7%, respectively. These real-world findings suggest that BGF may provide clinical benefit with high treatment persistence in complex, high-risk patients with COPD, even following high-intensity therapy. The observed improvements, despite advanced disease, raise the possibility that earlier initiation of BGF may help optimize outcomes; however, further study is warranted. NCT06321731.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Male",
+        "Female",
+        "Aged",
+        "Retrospective Studies",
+        "Spain",
+        "Glycopyrrolate",
+        "Middle Aged",
+        "Formoterol Fumarate",
+        "Budesonide",
+        "Bronchodilator Agents",
+        "Treatment Outcome",
+        "Administration, Inhalation",
+        "Drug Therapy, Combination",
+        "Adult"
+      ],
+      "chemicals": [
+        "Glycopyrrolate",
+        "Formoterol Fumarate",
+        "Budesonide",
+        "Bronchodilator Agents"
+      ],
+      "journal": "Advances in therapy",
+      "authors": [
+        "Bernardino Alc\u00e1zar-Navarrete",
+        "Juan Marco Figueira-Gon\u00e7alves",
+        "Carmen Corregidor-Garc\u00eda",
+        "Eunice Fitas",
+        "Joaqu\u00edn S\u00e1nchez-Covisa"
+      ]
+    },
+    {
+      "pmid": "41198528",
+      "title": "Update 2025 of the Spanish COPD Guidelines (GesEPOC): Pharmacological Treatment of Stable COPD.",
+      "abstract": "The Spanish COPD Guidelines (GesEPOC) were first published in 2012, and since then, several updates have incorporated new evidence regarding the diagnosis and treatment of COPD. GesEPOC is a clinical practice guideline developed with the collaboration of the scientific societies involved in COPD management and the Spanish Patients' Forum. Its recommendations are based on an evaluation of the evidence using the GRADE methodology and on a narrative description of the evidence in those areas where application of this methodology is not feasible. This article summarizes the updated recommendations on the pharmacological treatment of stable COPD, derived from the development of 12 PICO questions. The COPD treatment process comprises five stages: (1) diagnosis; (2) risk stratification; (3) characterization; (4) initiation and continuation of treatment; and (5) follow-up. For inhaled treatment selection, high-risk patients are classified into three phenotypes: non-exacerbator, eosinophilic exacerbator, and non-eosinophilic exacerbator. Treatable traits include general aspects, applicable to all patients-such as smoking cessation and inhaler technique-and more specific conditions, mainly affecting severe patients, such as chronic hypoxemia or chronic bronchial infection. The cornerstone of COPD treatment is long-acting bronchodilators, either as monotherapy or in combination, depending on the patient's risk level. Eosinophilic exacerbators should receive inhaled corticosteroids, whereas non-eosinophilic exacerbators require a detailed evaluation to identify the most appropriate therapeutic option. GesEPOC 2025 also includes recommendations on inhaled corticosteroid withdrawal, the introduction of biologics, and the indication for alpha-1 antitrypsin therapy. GesEPOC 2025 represents a more individualized approach to COPD treatment, tailored to the clinical characteristics of patients and their level of risk or complexity.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Spain",
+        "Bronchodilator Agents",
+        "Adrenal Cortex Hormones",
+        "Administration, Inhalation"
+      ],
+      "chemicals": [
+        "Bronchodilator Agents",
+        "Adrenal Cortex Hormones"
+      ],
+      "journal": "Archivos de bronconeumologia",
+      "authors": [
+        "Marc Miravitlles",
+        "Myriam Calle",
+        "Jes\u00fas Molina",
+        "Pere Almagro",
+        "Jos\u00e9-Tom\u00e1s G\u00f3mez",
+        "Juan Antonio Trigueros"
+      ]
+    }
+  ]
+}

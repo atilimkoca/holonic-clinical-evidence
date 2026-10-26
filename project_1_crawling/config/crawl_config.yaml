@@ -1,0 +1,283 @@
+# =============================================================================
+# Project 1 — Crawl & Data Generation Configuration
+# BIL 930 Final Project · Student A · Holonic Data Modeling
+#
+# This file is the single source of truth for the data layer. It drives:
+#   - crawler.py        (which clinical topics to crawl from PubMed)
+#   - entity_extractor  (the curated medical knowledge used to normalise records)
+#   - rdf_transformer   (drug/disease/source vocabularies)
+#
+# Data-source note (crawling ethics, assignment §1.1):
+#   OpenEvidence.com is login-gated and its Terms of Service prohibit automated
+#   scraping, so crawling it directly is neither legal nor reproducible. The
+#   assignment explicitly permits PubMed Open Access / ClinicalTrials.gov as
+#   alternative sources. We therefore crawl the NCBI PubMed E-utilities API,
+#   which is a public, documented, rate-limited interface intended for
+#   programmatic access. This is recorded as a *threat to construct validity*
+#   in the report: our holons are reconstructed from primary-literature
+#   abstracts rather than from OpenEvidence's synthesised answers.
+# =============================================================================
+
+crawl:
+  source: pubmed
+  base_url: "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/"
+  # NCBI asks API clients to identify themselves; set your own e-mail before a
+  # live crawl. The bundled cache is keyed with an empty e-mail, so offline
+  # replay (--offline --refresh) works without changing this value.
+  email: ""
+  tool_name: "BIL930-HolonicKR-Project1"
+  user_agent: "BIL930-HolonicKR/1.0 (academic project)"
+  # NCBI allows 3 requests/sec without an API key. delay_seconds keeps us under it.
+  delay_seconds: 0.4
+  retmax_per_query: 12          # PMIDs fetched per clinical question
+  max_articles_per_holon: 5     # citations kept per clinical-question holon
+  max_retries: 3
+  timeout_seconds: 20
+  cache_dir: "data/raw/pubmed_cache"
+  respect_robots: true
+  seed: 42
+  # If the network is unavailable, the crawler falls back to deterministic
+  # synthetic citations so the pipeline is always reproducible offline.
+  allow_synthetic_fallback: true
+
+# Publication-type -> evidence level mapping (aligned with shared api_contracts.md).
+# The numeric score becomes holon:confidence on the reified evidence assertion.
+evidence_levels:
+  "Meta-Analysis":               { level: "Level-1A", score: 0.95, source_class: "MetaAnalysis" }
+  "Systematic Review":           { level: "Level-1A", score: 0.95, source_class: "SystematicReview" }
+  "Randomized Controlled Trial": { level: "Level-1B", score: 0.90, source_class: "ClinicalTrial" }
+  "Clinical Trial":              { level: "Level-2B", score: 0.70, source_class: "ClinicalTrial" }
+  "Comparative Study":           { level: "Level-2A", score: 0.80, source_class: "ClinicalTrial" }
+  "Observational Study":         { level: "Level-2B", score: 0.70, source_class: "EvidenceSource" }
+  "Case Reports":                { level: "Level-4",  score: 0.40, source_class: "CaseReport" }
+  "Review":                      { level: "Level-5",  score: 0.25, source_class: "EvidenceSource" }
+  "_default":                    { level: "Level-3",  score: 0.55, source_class: "EvidenceSource" }
+
+# Each disease is expanded into these clinical-question facets. With ~70
+# diseases x 3 facets this yields >200 ClinicalQuestionHolons (assignment min).
+question_templates:
+  - id: "treatment"
+    text: "What is the recommended first-line pharmacological treatment for {disease}?"
+    pubmed_term: "{mesh}[mesh] AND (drug therapy[sh] OR therapy[sh]) AND (Randomized Controlled Trial[ptyp] OR Meta-Analysis[ptyp])"
+    relation: "treats"
+  - id: "efficacy"
+    text: "How effective is {drug} compared with other agents for {disease}?"
+    pubmed_term: "{mesh}[mesh] AND {drug}[tiab] AND (Randomized Controlled Trial[ptyp] OR Comparative Study[ptyp])"
+    relation: "treats"
+  - id: "safety"
+    text: "What are the main adverse effects and contraindications of treating {disease} with {drug}?"
+    pubmed_term: "{mesh}[mesh] AND {drug}[tiab] AND (adverse effects[sh] OR toxicity[sh])"
+    relation: "causesSideEffect"
+
+# Specialties used for the holon hierarchy (Difficulty A: Specialty -> Disease ->
+# Evidence) and for community-detection ground truth in graph_analysis.py.
+specialties:
+  Cardiology:        "Heart and vascular disorders"
+  Neurology:         "Disorders of the nervous system"
+  Endocrinology:     "Hormonal and metabolic disorders"
+  Psychiatry:        "Mental and behavioural disorders"
+  InfectiousDisease: "Infections and antimicrobial therapy"
+  Pulmonology:       "Respiratory disorders"
+  Gastroenterology:  "Digestive system disorders"
+  Rheumatology:      "Autoimmune and joint disorders"
+  Nephrology:        "Kidney disorders"
+  Oncology:          "Cancers and neoplasms"
+
+# Drug catalogue: ATC codes + class. Referenced by diseases below.
+drugs:
+  lisinopril:      { atc: "C09AA03", class: "ACE inhibitor" }
+  enalapril:       { atc: "C09AA02", class: "ACE inhibitor" }
+  losartan:        { atc: "C09CA01", class: "ARB" }
+  valsartan:       { atc: "C09CA03", class: "ARB" }
+  amlodipine:      { atc: "C08CA01", class: "Calcium channel blocker" }
+  hydrochlorothiazide: { atc: "C03AA03", class: "Thiazide diuretic" }
+  metoprolol:      { atc: "C07AB02", class: "Beta blocker" }
+  propranolol:     { atc: "C07AA05", class: "Beta blocker" }
+  atorvastatin:    { atc: "C10AA05", class: "Statin" }
+  rosuvastatin:    { atc: "C10AA07", class: "Statin" }
+  clopidogrel:     { atc: "B01AC04", class: "Antiplatelet" }
+  warfarin:        { atc: "B01AA03", class: "Anticoagulant" }
+  apixaban:        { atc: "B01AF02", class: "DOAC" }
+  furosemide:      { atc: "C03CA01", class: "Loop diuretic" }
+  digoxin:         { atc: "C01AA05", class: "Cardiac glycoside" }
+  metformin:       { atc: "A10BA02", class: "Biguanide" }
+  empagliflozin:   { atc: "A10BK03", class: "SGLT2 inhibitor" }
+  insulin_glargine: { atc: "A10AE04", class: "Long-acting insulin" }
+  levothyroxine:   { atc: "H03AA01", class: "Thyroid hormone" }
+  prednisone:      { atc: "H02AB07", class: "Corticosteroid" }
+  methotrexate:    { atc: "L04AX03", class: "DMARD" }
+  adalimumab:      { atc: "L04AB04", class: "TNF inhibitor" }
+  allopurinol:     { atc: "M04AA01", class: "Xanthine oxidase inhibitor" }
+  colchicine:      { atc: "M04AC01", class: "Anti-gout" }
+  ibuprofen:       { atc: "M01AE01", class: "NSAID" }
+  omeprazole:      { atc: "A02BC01", class: "Proton pump inhibitor" }
+  mesalazine:      { atc: "A07EC02", class: "Aminosalicylate" }
+  amoxicillin:     { atc: "J01CA04", class: "Penicillin antibiotic" }
+  azithromycin:    { atc: "J01FA10", class: "Macrolide antibiotic" }
+  ceftriaxone:     { atc: "J01DD04", class: "Cephalosporin antibiotic" }
+  ciprofloxacin:   { atc: "J01MA02", class: "Fluoroquinolone" }
+  oseltamivir:     { atc: "J05AH02", class: "Neuraminidase inhibitor" }
+  salbutamol:      { atc: "R03AC02", class: "Short-acting beta agonist" }
+  budesonide:      { atc: "R03BA02", class: "Inhaled corticosteroid" }
+  tiotropium:      { atc: "R03BB04", class: "Long-acting muscarinic antagonist" }
+  montelukast:     { atc: "R03DC03", class: "Leukotriene antagonist" }
+  sertraline:      { atc: "N06AB06", class: "SSRI" }
+  fluoxetine:      { atc: "N06AB03", class: "SSRI" }
+  escitalopram:    { atc: "N06AB10", class: "SSRI" }
+  quetiapine:      { atc: "N05AH04", class: "Atypical antipsychotic" }
+  risperidone:     { atc: "N05AX08", class: "Atypical antipsychotic" }
+  lithium:         { atc: "N05AN01", class: "Mood stabiliser" }
+  lamotrigine:     { atc: "N03AX09", class: "Anticonvulsant" }
+  levetiracetam:   { atc: "N03AX14", class: "Anticonvulsant" }
+  valproate:       { atc: "N03AG01", class: "Anticonvulsant" }
+  donepezil:       { atc: "N06DA02", class: "Cholinesterase inhibitor" }
+  levodopa:        { atc: "N04BA01", class: "Dopamine precursor" }
+  sumatriptan:     { atc: "N02CC01", class: "Triptan" }
+  gabapentin:      { atc: "N02BF01", class: "Gabapentinoid" }
+  morphine:        { atc: "N02AA01", class: "Opioid analgesic" }
+  tamoxifen:       { atc: "L02BA01", class: "SERM" }
+  cisplatin:       { atc: "L01XA01", class: "Platinum chemotherapy" }
+  rituximab:       { atc: "L01FA01", class: "Anti-CD20 antibody" }
+  imatinib:        { atc: "L01EA01", class: "Tyrosine kinase inhibitor" }
+  pembrolizumab:   { atc: "L01FF02", class: "PD-1 checkpoint inhibitor" }
+  tenofovir:       { atc: "J05AF07", class: "NRTI antiretroviral" }
+  isoniazid:       { atc: "J04AC01", class: "Antitubercular" }
+  rifampicin:      { atc: "J04AB02", class: "Antitubercular" }
+  spironolactone:  { atc: "C03DA01", class: "Aldosterone antagonist" }
+  sacubitril_valsartan: { atc: "C09DX04", class: "ARNI" }
+
+# Symptom catalogue (referenced by diseases; used for hasSymptom relations).
+symptoms:
+  headache: "Headache"
+  dizziness: "Dizziness"
+  fatigue: "Fatigue"
+  chest_pain: "Chest pain"
+  dyspnea: "Shortness of breath"
+  cough: "Cough"
+  fever: "Fever"
+  nausea: "Nausea"
+  joint_pain: "Joint pain"
+  weight_loss: "Weight loss"
+  palpitations: "Palpitations"
+  edema: "Edema"
+  tremor: "Tremor"
+  seizure: "Seizure"
+  depressed_mood: "Depressed mood"
+  abdominal_pain: "Abdominal pain"
+  dry_cough: "Dry cough"
+
+# ---------------------------------------------------------------------------
+# Disease catalogue. Each entry becomes a DiseaseHolon and expands into the
+# question_templates above. `drugs` are first-line/representative agents (the
+# `efficacy` and `safety` facets use drugs[0]). `symptoms` feed hasSymptom.
+# ---------------------------------------------------------------------------
+diseases:
+  # --- Cardiology ---
+  - { name: "Hypertension", mesh: "Hypertension", icd10: "I10", specialty: Cardiology, drugs: [lisinopril, amlodipine, hydrochlorothiazide, losartan], symptoms: [headache, dizziness] }
+  - { name: "Heart Failure", mesh: "Heart Failure", icd10: "I50", specialty: Cardiology, drugs: [sacubitril_valsartan, furosemide, metoprolol, spironolactone], symptoms: [dyspnea, edema, fatigue] }
+  - { name: "Atrial Fibrillation", mesh: "Atrial Fibrillation", icd10: "I48", specialty: Cardiology, drugs: [apixaban, warfarin, metoprolol, digoxin], symptoms: [palpitations, dizziness] }
+  - { name: "Coronary Artery Disease", mesh: "Coronary Artery Disease", icd10: "I25.1", specialty: Cardiology, drugs: [atorvastatin, clopidogrel, metoprolol], symptoms: [chest_pain, dyspnea] }
+  - { name: "Hyperlipidemia", mesh: "Hyperlipidemias", icd10: "E78.5", specialty: Cardiology, drugs: [atorvastatin, rosuvastatin], symptoms: [] }
+  - { name: "Angina Pectoris", mesh: "Angina Pectoris", icd10: "I20", specialty: Cardiology, drugs: [metoprolol, amlodipine], symptoms: [chest_pain] }
+  - { name: "Deep Vein Thrombosis", mesh: "Venous Thrombosis", icd10: "I82.4", specialty: Cardiology, drugs: [apixaban, warfarin], symptoms: [edema] }
+
+  # --- Endocrinology ---
+  - { name: "Type 2 Diabetes Mellitus", mesh: "Diabetes Mellitus, Type 2", icd10: "E11", specialty: Endocrinology, drugs: [metformin, empagliflozin, insulin_glargine], symptoms: [fatigue, weight_loss] }
+  - { name: "Hypothyroidism", mesh: "Hypothyroidism", icd10: "E03", specialty: Endocrinology, drugs: [levothyroxine], symptoms: [fatigue, weight_loss] }
+  - { name: "Type 1 Diabetes Mellitus", mesh: "Diabetes Mellitus, Type 1", icd10: "E10", specialty: Endocrinology, drugs: [insulin_glargine], symptoms: [fatigue, weight_loss] }
+  - { name: "Hyperthyroidism", mesh: "Hyperthyroidism", icd10: "E05", specialty: Endocrinology, drugs: [metoprolol], symptoms: [palpitations, tremor, weight_loss] }
+  - { name: "Osteoporosis", mesh: "Osteoporosis", icd10: "M81", specialty: Endocrinology, drugs: [prednisone], symptoms: [] }
+
+  # --- Neurology ---
+  - { name: "Epilepsy", mesh: "Epilepsy", icd10: "G40", specialty: Neurology, drugs: [levetiracetam, lamotrigine, valproate], symptoms: [seizure] }
+  - { name: "Migraine", mesh: "Migraine Disorders", icd10: "G43", specialty: Neurology, drugs: [sumatriptan, propranolol], symptoms: [headache, nausea] }
+  - { name: "Parkinson Disease", mesh: "Parkinson Disease", icd10: "G20", specialty: Neurology, drugs: [levodopa], symptoms: [tremor] }
+  - { name: "Alzheimer Disease", mesh: "Alzheimer Disease", icd10: "G30", specialty: Neurology, drugs: [donepezil], symptoms: [fatigue] }
+  - { name: "Multiple Sclerosis", mesh: "Multiple Sclerosis", icd10: "G35", specialty: Neurology, drugs: [rituximab], symptoms: [fatigue] }
+  - { name: "Neuropathic Pain", mesh: "Neuralgia", icd10: "M79.2", specialty: Neurology, drugs: [gabapentin], symptoms: [joint_pain] }
+  - { name: "Stroke", mesh: "Stroke", icd10: "I63", specialty: Neurology, drugs: [clopidogrel, atorvastatin], symptoms: [dizziness] }
+
+  # --- Psychiatry ---
+  - { name: "Major Depressive Disorder", mesh: "Depressive Disorder, Major", icd10: "F32", specialty: Psychiatry, drugs: [sertraline, fluoxetine, escitalopram], symptoms: [depressed_mood, fatigue] }
+  - { name: "Generalized Anxiety Disorder", mesh: "Anxiety Disorders", icd10: "F41.1", specialty: Psychiatry, drugs: [escitalopram, sertraline], symptoms: [palpitations, fatigue] }
+  - { name: "Bipolar Disorder", mesh: "Bipolar Disorder", icd10: "F31", specialty: Psychiatry, drugs: [lithium, quetiapine, valproate], symptoms: [depressed_mood] }
+  - { name: "Schizophrenia", mesh: "Schizophrenia", icd10: "F20", specialty: Psychiatry, drugs: [risperidone, quetiapine], symptoms: [] }
+
+  # --- Infectious Disease ---
+  - { name: "Community-Acquired Pneumonia", mesh: "Pneumonia", icd10: "J18", specialty: InfectiousDisease, drugs: [amoxicillin, azithromycin, ceftriaxone], symptoms: [fever, cough, dyspnea] }
+  - { name: "Urinary Tract Infection", mesh: "Urinary Tract Infections", icd10: "N39.0", specialty: InfectiousDisease, drugs: [ciprofloxacin, amoxicillin], symptoms: [fever, abdominal_pain] }
+  - { name: "Tuberculosis", mesh: "Tuberculosis", icd10: "A15", specialty: InfectiousDisease, drugs: [isoniazid, rifampicin], symptoms: [cough, fever, weight_loss] }
+  - { name: "HIV Infection", mesh: "HIV Infections", icd10: "B20", specialty: InfectiousDisease, drugs: [tenofovir], symptoms: [fatigue, fever, weight_loss] }
+  - { name: "Influenza", mesh: "Influenza, Human", icd10: "J11", specialty: InfectiousDisease, drugs: [oseltamivir], symptoms: [fever, cough, fatigue] }
+
+  # --- Pulmonology ---
+  - { name: "Asthma", mesh: "Asthma", icd10: "J45", specialty: Pulmonology, drugs: [salbutamol, budesonide, montelukast], symptoms: [dyspnea, cough] }
+  - { name: "Chronic Obstructive Pulmonary Disease", mesh: "Pulmonary Disease, Chronic Obstructive", icd10: "J44", specialty: Pulmonology, drugs: [tiotropium, salbutamol, budesonide], symptoms: [dyspnea, cough] }
+  - { name: "Pulmonary Embolism", mesh: "Pulmonary Embolism", icd10: "I26", specialty: Pulmonology, drugs: [apixaban, warfarin], symptoms: [dyspnea, chest_pain] }
+
+  # --- Gastroenterology ---
+  - { name: "Gastroesophageal Reflux Disease", mesh: "Gastroesophageal Reflux", icd10: "K21", specialty: Gastroenterology, drugs: [omeprazole], symptoms: [chest_pain, cough] }
+  - { name: "Peptic Ulcer Disease", mesh: "Peptic Ulcer", icd10: "K27", specialty: Gastroenterology, drugs: [omeprazole, amoxicillin], symptoms: [abdominal_pain, nausea] }
+  - { name: "Ulcerative Colitis", mesh: "Colitis, Ulcerative", icd10: "K51", specialty: Gastroenterology, drugs: [mesalazine, adalimumab, prednisone], symptoms: [abdominal_pain] }
+  - { name: "Crohn Disease", mesh: "Crohn Disease", icd10: "K50", specialty: Gastroenterology, drugs: [adalimumab, methotrexate], symptoms: [abdominal_pain, weight_loss] }
+
+  # --- Rheumatology ---
+  - { name: "Rheumatoid Arthritis", mesh: "Arthritis, Rheumatoid", icd10: "M06", specialty: Rheumatology, drugs: [methotrexate, adalimumab, prednisone], symptoms: [joint_pain, fatigue] }
+  - { name: "Gout", mesh: "Gout", icd10: "M10", specialty: Rheumatology, drugs: [allopurinol, colchicine, ibuprofen], symptoms: [joint_pain] }
+  - { name: "Systemic Lupus Erythematosus", mesh: "Lupus Erythematosus, Systemic", icd10: "M32", specialty: Rheumatology, drugs: [prednisone, methotrexate], symptoms: [joint_pain, fatigue] }
+  - { name: "Osteoarthritis", mesh: "Osteoarthritis", icd10: "M19", specialty: Rheumatology, drugs: [ibuprofen], symptoms: [joint_pain] }
+
+  # --- Nephrology ---
+  - { name: "Chronic Kidney Disease", mesh: "Renal Insufficiency, Chronic", icd10: "N18", specialty: Nephrology, drugs: [lisinopril, furosemide, empagliflozin], symptoms: [edema, fatigue] }
+  - { name: "Nephrotic Syndrome", mesh: "Nephrotic Syndrome", icd10: "N04", specialty: Nephrology, drugs: [prednisone, furosemide], symptoms: [edema] }
+
+  # --- Oncology ---
+  - { name: "Breast Cancer", mesh: "Breast Neoplasms", icd10: "C50", specialty: Oncology, drugs: [tamoxifen, pembrolizumab], symptoms: [fatigue, weight_loss] }
+  - { name: "Non-Small Cell Lung Cancer", mesh: "Carcinoma, Non-Small-Cell Lung", icd10: "C34", specialty: Oncology, drugs: [pembrolizumab, cisplatin], symptoms: [cough, weight_loss, dyspnea] }
+  - { name: "Chronic Myeloid Leukemia", mesh: "Leukemia, Myelogenous, Chronic, BCR-ABL Positive", icd10: "C92.1", specialty: Oncology, drugs: [imatinib], symptoms: [fatigue, weight_loss] }
+  - { name: "Non-Hodgkin Lymphoma", mesh: "Lymphoma, Non-Hodgkin", icd10: "C85", specialty: Oncology, drugs: [rituximab, cisplatin], symptoms: [fatigue, weight_loss, fever] }
+  - { name: "Colorectal Cancer", mesh: "Colorectal Neoplasms", icd10: "C18", specialty: Oncology, drugs: [cisplatin, pembrolizumab], symptoms: [abdominal_pain, weight_loss] }
+  - { name: "Prostate Cancer", mesh: "Prostatic Neoplasms", icd10: "C61", specialty: Oncology, drugs: [pembrolizumab], symptoms: [weight_loss, fatigue] }
+
+  # --- Additional Cardiology ---
+  - { name: "Cardiomyopathy", mesh: "Cardiomyopathies", icd10: "I42", specialty: Cardiology, drugs: [metoprolol, spironolactone], symptoms: [dyspnea, fatigue, edema] }
+  - { name: "Peripheral Artery Disease", mesh: "Peripheral Arterial Disease", icd10: "I73.9", specialty: Cardiology, drugs: [clopidogrel, atorvastatin], symptoms: [chest_pain] }
+  - { name: "Aortic Stenosis", mesh: "Aortic Valve Stenosis", icd10: "I35.0", specialty: Cardiology, drugs: [furosemide], symptoms: [dyspnea, chest_pain] }
+
+  # --- Additional Endocrinology ---
+  - { name: "Cushing Syndrome", mesh: "Cushing Syndrome", icd10: "E24", specialty: Endocrinology, drugs: [], symptoms: [weight_loss, fatigue] }
+  - { name: "Addison Disease", mesh: "Addison Disease", icd10: "E27.1", specialty: Endocrinology, drugs: [prednisone], symptoms: [fatigue, weight_loss] }
+  - { name: "Polycystic Ovary Syndrome", mesh: "Polycystic Ovary Syndrome", icd10: "E28.2", specialty: Endocrinology, drugs: [metformin], symptoms: [fatigue] }
+
+  # --- Additional Neurology ---
+  - { name: "Status Epilepticus", mesh: "Status Epilepticus", icd10: "G41", specialty: Neurology, drugs: [levetiracetam, valproate], symptoms: [seizure] }
+  - { name: "Trigeminal Neuralgia", mesh: "Trigeminal Neuralgia", icd10: "G50.0", specialty: Neurology, drugs: [gabapentin], symptoms: [headache] }
+  - { name: "Myasthenia Gravis", mesh: "Myasthenia Gravis", icd10: "G70.0", specialty: Neurology, drugs: [prednisone], symptoms: [fatigue] }
+
+  # --- Additional Psychiatry ---
+  - { name: "Obsessive-Compulsive Disorder", mesh: "Obsessive-Compulsive Disorder", icd10: "F42", specialty: Psychiatry, drugs: [fluoxetine, sertraline], symptoms: [] }
+  - { name: "Post-Traumatic Stress Disorder", mesh: "Stress Disorders, Post-Traumatic", icd10: "F43.1", specialty: Psychiatry, drugs: [sertraline], symptoms: [depressed_mood] }
+  - { name: "Attention Deficit Hyperactivity Disorder", mesh: "Attention Deficit Disorder with Hyperactivity", icd10: "F90", specialty: Psychiatry, drugs: [], symptoms: [] }
+
+  # --- Additional Infectious Disease ---
+  - { name: "Sepsis", mesh: "Sepsis", icd10: "A41.9", specialty: InfectiousDisease, drugs: [ceftriaxone, ciprofloxacin], symptoms: [fever, dyspnea] }
+  - { name: "Cellulitis", mesh: "Cellulitis", icd10: "L03", specialty: InfectiousDisease, drugs: [amoxicillin, ceftriaxone], symptoms: [fever] }
+  - { name: "Helicobacter Pylori Infection", mesh: "Helicobacter Infections", icd10: "B96.81", specialty: InfectiousDisease, drugs: [amoxicillin, omeprazole], symptoms: [abdominal_pain, nausea] }
+  - { name: "Hepatitis C", mesh: "Hepatitis C", icd10: "B18.2", specialty: InfectiousDisease, drugs: [tenofovir], symptoms: [fatigue] }
+
+  # --- Additional Pulmonology ---
+  - { name: "Idiopathic Pulmonary Fibrosis", mesh: "Idiopathic Pulmonary Fibrosis", icd10: "J84.112", specialty: Pulmonology, drugs: [prednisone], symptoms: [dyspnea, dry_cough] }
+  - { name: "Obstructive Sleep Apnea", mesh: "Sleep Apnea, Obstructive", icd10: "G47.33", specialty: Pulmonology, drugs: [], symptoms: [fatigue] }
+
+  # --- Additional Gastroenterology ---
+  - { name: "Irritable Bowel Syndrome", mesh: "Irritable Bowel Syndrome", icd10: "K58", specialty: Gastroenterology, drugs: [], symptoms: [abdominal_pain] }
+  - { name: "Cirrhosis", mesh: "Liver Cirrhosis", icd10: "K74.6", specialty: Gastroenterology, drugs: [furosemide, spironolactone], symptoms: [edema, fatigue] }
+  - { name: "Pancreatitis", mesh: "Pancreatitis", icd10: "K85", specialty: Gastroenterology, drugs: [morphine], symptoms: [abdominal_pain, nausea] }
+
+  # --- Additional Rheumatology ---
+  - { name: "Ankylosing Spondylitis", mesh: "Spondylitis, Ankylosing", icd10: "M45", specialty: Rheumatology, drugs: [adalimumab, ibuprofen], symptoms: [joint_pain] }
+  - { name: "Psoriatic Arthritis", mesh: "Arthritis, Psoriatic", icd10: "L40.5", specialty: Rheumatology, drugs: [methotrexate, adalimumab], symptoms: [joint_pain] }
+
+  # --- Additional Nephrology ---
+  - { name: "Acute Kidney Injury", mesh: "Acute Kidney Injury", icd10: "N17", specialty: Nephrology, drugs: [furosemide], symptoms: [edema] }
+  - { name: "Diabetic Nephropathy", mesh: "Diabetic Nephropathies", icd10: "E11.21", specialty: Nephrology, drugs: [lisinopril, empagliflozin], symptoms: [edema] }

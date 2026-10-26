@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated#> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_alzheimer_disease_treatment> a holon:ClinicalQuestionHolon ;\n  holon:interior <https://example.org/openevidence/questions/q_alzheimer_disease_treatment-int> ;\n  holon:boundary <https://example.org/openevidence/questions/q_alzheimer_disease_treatment-bou> ;\n  holon:projection <https://example.org/openevidence/questions/q_alzheimer_disease_treatment-pro> ;\n  holon:context <https://example.org/openevidence/questions/q_alzheimer_disease_treatment-con> ;\n  .\n\n<https://example.org/openevidence/questions/q_alzheimer_disease_treatment-int> a oegen:Interior ;\n  oe:hasFact <https://example.org/openevidence/drugs/donepezil> oe:treats <https://example.org/openevidence/diseases/alzheimer_disease> ;\n  .\n\n<https://example.org/openevidence/questions/q_alzheimer_disease_treatment-bou> a oegen:Boundary ;\n  .\n\n<https://example.org/openevidence/questions/q_alzheimer_disease_treatment-pro> a oegen:Projection ;\n  .\n\n<https://example.org/openevidence/questions/q_alzheimer_disease_treatment-con> a oegen:Context ;\n  .\n\n<https://example.org/openevidence/drugs/donepezil> oe:treats <https://example.org/openevidence/diseases/alzheimer_disease> .",
+  "provider": "ollama",
+  "model": "qwen3:8b",
+  "prompt_tokens": 974,
+  "completion_tokens": 450,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1424
+}

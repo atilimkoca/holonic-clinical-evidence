@@ -1,0 +1,39 @@
+Validation Report
+Conforms: False
+Results (2):
+Constraint Violation in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: oe:T4_BoundaryAdmissionShape
+	Focus Node: oeevt:ev2028_0
+	Value Node: Literal("0.30", datatype=xsd:decimal)
+	Result Path: holon:confidence
+	Source Constraint: [ sh:message Literal("T4 semantic: 'effective' claim admitted below the holon's evidence-quality threshold.") ; sh:prefixes oe:_prefixes ; sh:select Literal("
+            SELECT $this (holon:confidence AS ?path) (?conf AS ?value)
+            WHERE {
+                $this holon:confidence ?conf .
+                $this oe:effectiveness "effective" .
+                $this holon:inHolon ?h .
+                ?h holon:evidenceQualityThreshold ?thr .
+                FILTER (?conf < ?thr)
+            }
+        ") ; sh:severity sh:Violation ]
+	Message: T4 semantic: 'effective' claim admitted below the holon's evidence-quality threshold.
+Constraint Violation in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: oe:T4_LevelConfidenceShape
+	Focus Node: oeevt:ev2028_0
+	Value Node: Literal("0.30", datatype=xsd:decimal)
+	Result Path: holon:confidence
+	Source Constraint: [ sh:message Literal("T4 semantic: evidence level and confidence are grossly inconsistent.") ; sh:prefixes oe:_prefixes ; sh:select Literal("
+            SELECT $this (holon:confidence AS ?path) (?conf AS ?value)
+            WHERE {
+                $this holon:inHolon ?h .
+                $this holon:evidenceLevel ?lvl .
+                $this holon:confidence ?conf .
+                FILTER (
+                    ( (?lvl = "Level-1A" || ?lvl = "Level-1B") && ?conf < 0.4 ) ||
+                    ( (?lvl = "Level-5"  || ?lvl = "Level-4")  && ?conf > 0.9 )
+                )
+            }
+        ") ; sh:severity sh:Violation ]
+	Message: T4 semantic: evidence level and confidence are grossly inconsistent.

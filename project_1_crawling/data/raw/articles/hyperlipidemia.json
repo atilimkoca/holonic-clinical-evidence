@@ -1,0 +1,485 @@
+{
+  "disease": "Hyperlipidemia",
+  "slug": "hyperlipidemia",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41206969",
+      "title": "Efficacy and Safety of Oral PCSK9 Inhibitor Enlicitide in Adults With Heterozygous Familial Hypercholesterolemia: A Randomized Clinical Trial.",
+      "abstract": "Persons with heterozygous familial hypercholesterolemia (HeFH) are at increased risk of atherosclerotic cardiovascular disease due to lifelong elevated levels of low-density lipoprotein cholesterol (LDL-C). Many patients with HeFH do not achieve guideline-recommended LDL-C goals with the currently available lipid-lowering therapies. To evaluate the efficacy of enlicitide decanoate (an oral proprotein convertase subtilisin/kexin type 9 inhibitor) vs placebo in adults with HeFH requiring further lowering of LDL-C levels despite use of statin therapy. This phase 3, randomized clinical trial included persons aged 18 years or older with HeFH currently using lipid-lowering therapy (taking at least a moderate- or high-intensity statin) and either an LDL-C level of 55 mg/dL or greater and a history of major atherosclerotic cardiovascular disease or an LDL-C level of 70 mg/dL or greater without a history of major atherosclerotic cardiovascular disease. The trial was conducted at 59 sites across 17 countries; the first participant was screened on August 8, 2023, and the last follow-up visit occurred on April 7, 2025. Participants were randomized (2:1) to 20 mg of enlicitide (n\u2009=\u2009202) or placebo (n\u2009=\u2009101) once daily for 52 weeks. The primary outcome was the mean percentage change in LDL-C level at week 24. The secondary outcomes included the mean percentage change in LDL-C level at week 52, the mean percentage change at week 24 in levels of non-high-density lipoprotein cholesterol (non-HDL-C) and apolipoprotein B, and the median percentage change at week 24 in lipoprotein(a). Of the 303 participants (mean age, 52.4 [SD, 13.5] years; 51% were female) randomized, 293 (96.7%) completed the trial. The mean LDL-C level was 119.0 mg/dL (SD, 41.0 mg/dL) at baseline, all had statin current use (81.5% were taking a high-intensity statin), and 64.4% were taking ezetimibe. The mean percentage change in LDL-C level at week 24 was -58.2% in the enlicitide group vs 2.6% in the placebo group (between-group difference, -59.4% [95% CI, -65.6% to -53.2%]; P\u2009<\u2009.001). The mean percentage change in LDL-C level at week 52 was -55.3% in the enlicitide group vs 8.7% in the placebo group (between-group difference, -61.5% [95% CI, -69.4% to -53.7%]; P\u2009<\u2009.001). At week 24, the mean percentage change in non-HDL-C level was -52.3% in the enlicitide group vs 2.1% in the placebo group (between-group difference, -53.0% [95% CI, -58.5% to -47.4%]; P\u2009<\u2009.001), the mean percentage change in apolipoprotein B level was -48.2% vs 1.8%, respectively (between-group difference, -49.1% [95% CI, -54.0% to -44.3%]; P\u2009<\u2009.001), and the median percentage change in lipoprotein(a) level was -24.7% vs -1.6% (between-group difference, -27.5% [95% CI, -34.3% to -20.6%]; P\u2009<\u2009.001). The incidence of adverse events, serious adverse events, and study discontinuation due to adverse events was similar between groups. Among adults with HeFH, treatment with enlicitide was well tolerated and significantly reduced levels of LDL-C, apolipoprotein B, non-HDL-C, and lipoprotein(a). ClinicalTrials.gov Identifier: NCT05952869.",
+      "pub_date": "2026-01-13",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Administration, Oral",
+        "Anticholesteremic Agents",
+        "Apolipoproteins B",
+        "Cholesterol, LDL",
+        "Double-Blind Method",
+        "Heterozygote",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Hyperlipoproteinemia Type II",
+        "Lipoprotein(a)",
+        "PCSK9 Inhibitors",
+        "Proprotein Convertase 9",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Anticholesteremic Agents",
+        "Apolipoproteins B",
+        "Cholesterol, LDL",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Lipoprotein(a)",
+        "PCSK9 Inhibitors",
+        "PCSK9 protein, human",
+        "Proprotein Convertase 9"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Christie M Ballantyne",
+        "Laura Gellis",
+        "Jean-Claude Tardif",
+        "Puja Banka",
+        "Ann Marie Navar",
+        "Emil Andreas Asprusten"
+      ]
+    },
+    {
+      "pmid": "40337982",
+      "title": "Safety and Efficacy of Obicetrapib in Patients at High Cardiovascular Risk.",
+      "abstract": "Obicetrapib is a highly selective cholesteryl ester transfer protein inhibitor that reduces low-density lipoprotein (LDL) cholesterol levels. The efficacy and safety of obicetrapib have not been fully characterized among patients at high risk for cardiovascular events. We conducted a multinational, randomized, placebo-controlled trial involving patients with heterozygous familial hypercholesterolemia or a history of atherosclerotic cardiovascular disease who were receiving maximum tolerated doses of lipid-lowering therapy. Patients with an LDL cholesterol level of 100 mg per deciliter or higher or a non-high-density lipoprotein (HDL) cholesterol level of 130 mg per deciliter or higher, as well as those with an LDL cholesterol level of 55 to 100 mg per deciliter or a non-HDL cholesterol level of 85 to 130 mg per deciliter and at least one additional cardiovascular risk factor, were eligible for inclusion. The patients were randomly assigned in a 2:1 ratio to receive either 10 mg of obicetrapib once daily or matching placebo for 365 days. The primary end point was the percent change in the LDL cholesterol level from baseline to day 84. A total of 2530 patients underwent randomization; 1686 patients were assigned to receive obicetrapib and 844 to receive placebo. The mean age of the patients was 65 years, 34% were women, and the mean baseline LDL cholesterol level was 98 mg per deciliter. The least-squares mean percent change from baseline to day 84 in the LDL cholesterol level was -29.9% (95% confidence interval [CI], -32.1 to -27.8) in the obicetrapib group, as compared with 2.7% (95% CI, -0.4 to 5.8) in the placebo group, for a between-group difference of -32.6 percentage points (95% CI, -35.8 to -29.5; P<0.001). The incidence of adverse events appeared to be similar in the two groups. Among patients with atherosclerotic cardiovascular disease or heterozygous familial hypercholesterolemia who were receiving maximum tolerated doses of lipid-lowering therapy and were at high risk for cardiovascular events, obicetrapib reduced LDL cholesterol levels by 29.9%. (Funded by NewAmsterdam Pharma; BROADWAY ClinicalTrials.gov number, NCT05142722.).",
+      "pub_date": "2025-07-03",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Anticholesteremic Agents",
+        "Atherosclerosis",
+        "Cardiovascular Diseases",
+        "Cholesterol Ester Transfer Proteins",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL",
+        "Double-Blind Method",
+        "Heart Disease Risk Factors",
+        "Hyperlipoproteinemia Type II"
+      ],
+      "chemicals": [
+        "Anticholesteremic Agents",
+        "Cholesterol Ester Transfer Proteins",
+        "Cholesterol, HDL",
+        "Cholesterol, LDL"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Stephen J Nicholls",
+        "Adam J Nelson",
+        "Marc Ditmarsch",
+        "John J P Kastelein",
+        "Christie M Ballantyne",
+        "Kausik K Ray"
+      ]
+    },
+    {
+      "pmid": "40257687",
+      "title": "Novel Therapeutics for Familial Chylomicronemia Syndrome.",
+      "abstract": "This review discusses new treatment approaches for familial chylomicronemia syndrome (FCS), a rare disorder affecting triglyceride metabolism. The focus is on antisense oligonucleotides (ASO) and small-interfering RNA (siRNA) therapies targeting APOC3 and angiopoietin-like protein 3 (ANGPTL3). Volanesorsen, an ASO targeting APOC3, has shown effectiveness in managing FCS, multifactorial chylomicronemia, and familial partial lipodystrophy, but its use is limited by thrombocytopenia. Emerging therapies, Olezarsen (ASO anti-APOC3) and Plozasiran (siRNA anti-APOC3), both conjugated with GalNAc, show promise in reducing acute pancreatitis risk without platelet concerns. ANGPTL3 inhibition requires residual lipoprotein lipase (LPL) activity, with only siRNA-based therapies-zodasiran and solbinsiran-under investigation. Suppressing APOC3 expression and targeting ANGPTL3 via siRNA offer significant potential, but long-term studies are needed to confirm their efficacy and safety. Future research may explore gene-editing strategies using lipid nanoparticle-based CRISPR-Cas9 delivery for more durable treatment outcomes.",
+      "pub_date": "2025-04-21",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hyperlipoproteinemia Type I",
+        "Angiopoietin-Like Protein 3",
+        "Oligonucleotides, Antisense",
+        "RNA, Small Interfering",
+        "Apolipoprotein C-III",
+        "Angiopoietin-like Proteins",
+        "Genetic Therapy",
+        "Oligonucleotides"
+      ],
+      "chemicals": [
+        "Angiopoietin-Like Protein 3",
+        "Oligonucleotides, Antisense",
+        "RNA, Small Interfering",
+        "ANGPTL3 protein, human",
+        "Apolipoprotein C-III",
+        "Angiopoietin-like Proteins",
+        "ISIS 304801",
+        "Oligonucleotides"
+      ],
+      "journal": "Current atherosclerosis reports",
+      "authors": [
+        "Maria Cristina Izar",
+        "Francisco Antonio Helfenstein Fonseca"
+      ]
+    },
+    {
+      "pmid": "40368577",
+      "title": "Target Populations for Novel Triglyceride-Lowering Therapies.",
+      "abstract": "Lipoprotein lipase regulates triglyceride hydrolysis and contributes to cellular uptake of triglyceride-rich lipoprotein remnants. Multiple pathways modulate lipoprotein lipase activity, which has prompted interest in the development of drugs that increase lipoprotein lipase activity as means to reduce risk for acute pancreatitis, atherosclerotic cardiovascular disease, and metabolic dysfunction-associated steatohepatitis through reduction of circulating triglycerides and remnant cholesterol. The authors provide an overview of the target populations for agents that lower triglycerides and remnant cholesterol through increased lipoprotein lipase activity, the drugs being developed for these indications, including apolipoprotein C-III and angiopoietin-like protein 3, 3/8, and 4 inhibitors, and the epidemiologic and genetic evidence supporting the use of these drugs for the prevention of atherosclerotic cardiovascular disease and acute pancreatitis. In addition, the authors provide a corresponding overview of fibroblast growth factor-21 analogues that share many characteristics with these novel triglyceride-lowering drugs. Apolipoprotein C-III inhibitors, angiopoietin-like protein 3, 3/8, and 4 inhibitors, and fibroblast growth factor-21 analogues have pronounced triglyceride-lowering and remnant cholesterol-lowering effects. In clinical trials, apolipoprotein C-III inhibitors have been shown to lower risk for acute pancreatitis in patients with severe hypertriglyceridemia and are approved for this indication, while fibroblast growth factor-21 analogues reduce hepatic steatosis and fibrosis in patients with metabolic dysfunction-associated steatohepatitis. It remains to be seen whether these novel drugs may lower risk for atherosclerotic cardiovascular disease as well.",
+      "pub_date": "2025-05-20",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hypertriglyceridemia",
+        "Triglycerides",
+        "Hypolipidemic Agents",
+        "Lipoprotein Lipase"
+      ],
+      "chemicals": [
+        "Triglycerides",
+        "Hypolipidemic Agents",
+        "Lipoprotein Lipase"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Ask T Nordestgaard",
+        "Anne Tybj\u00e6rg-Hansen",
+        "Hank Mansbach",
+        "Sander Kersten",
+        "B\u00f8rge G Nordestgaard",
+        "Robert S Rosenson"
+      ]
+    },
+    {
+      "pmid": "41211918",
+      "title": "Olezarsen for Managing Severe Hypertriglyceridemia and Pancreatitis Risk.",
+      "abstract": "Patients with severe hypertriglyceridemia have an increased risk of acute pancreatitis. The efficacy and safety of olezarsen, an antisense oligonucleotide targeting apolipoprotein C-III messenger RNA, have not been established in this population. We conducted two double-blind, randomized, placebo-controlled trials (CORE-TIMI 72a and CORE2-TIMI 72b). Patients with severe hypertriglyceridemia were assigned in a 1:1:1 ratio to receive olezarsen at a dose of 50 mg, olezarsen at a dose of 80 mg, or placebo monthly for 12 months. The primary outcome was the percent change in the triglyceride level at 6 months, reported as the difference between each olezarsen dose group and the placebo group (placebo-adjusted change). Secondary lipid outcomes included the percent change in the triglyceride level at 12 months and in apolipoprotein C-III, remnant cholesterol, and non-high-density lipoprotein (non-HDL) cholesterol at 6 months and 12 months. Acute pancreatitis events were assessed across both trials. A total of 1061 patients were included in the primary analysis (617 in the CORE-TIMI 72a trial and 444 in the CORE2-TIMI 72b trial). At 6 months, the placebo-adjusted least-squares mean change from baseline in the triglyceride level was -62.9 percentage points in the olezarsen 50-mg group and -72.2 percentage points in the olezarsen 80-mg group in the CORE-TIMI 72a trial and was -49.2 percentage points in the olezarsen 50-mg group and -54.5 percentage points in the olezarsen 80-mg group in the CORE2-TIMI 72b trial (P<0.001 for all comparisons of olezarsen with placebo). Decreases in the levels of triglycerides, apolipoprotein C-III, remnant cholesterol, and non-HDL cholesterol were greater with olezarsen than with placebo (P<0.001 for all comparisons). The incidence of acute pancreatitis was lower with olezarsen than with placebo (mean rate ratio, 0.15; 95% confidence interval, 0.05 to 0.40; P<0.001). The incidence of any adverse events appeared to be similar across trial groups. Elevations in liver-enzyme levels and thrombocytopenia (platelet count, <100,000 per microliter) were more common with the 80-mg dose of olezarsen, and a dose-dependent increase in the hepatic fat fraction was noted. Among patients with severe hypertriglyceridemia, treatment with olezarsen led to a significantly greater reduction in the triglyceride level at 6 months and in the incidence of acute pancreatitis than placebo. (Funded by Ionis Pharmaceuticals; CORE-TIMI 72a and CORE2-TIMI 72b ClinicalTrials.gov numbers, NCT05079919 and NCT05552326.).",
+      "pub_date": "2026-01-29",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Apolipoprotein C-III",
+        "Cholesterol",
+        "Double-Blind Method",
+        "Hypertriglyceridemia",
+        "Oligonucleotides",
+        "Oligonucleotides, Antisense",
+        "Pancreatitis",
+        "Triglycerides",
+        "Severity of Illness Index",
+        "Treatment Outcome",
+        "Incidence",
+        "Dose-Response Relationship, Drug",
+        "Follow-Up Studies"
+      ],
+      "chemicals": [
+        "Apolipoprotein C-III",
+        "Cholesterol",
+        "Oligonucleotides",
+        "Oligonucleotides, Antisense",
+        "Triglycerides",
+        "olezarsen"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Nicholas A Marston",
+        "Brian A Bergmark",
+        "Veronica J Alexander",
+        "Thomas A Prohaska",
+        "Yu Mi Kang",
+        "Filipe A Moura"
+      ]
+    },
+    {
+      "pmid": "40888739",
+      "title": "Targeting",
+      "abstract": "Highly effective therapies to reduce triglyceride levels are lacking. Olezarsen is an In this phase 3, international, double-blind, randomized, placebo-controlled trial, we enrolled patients with moderate hypertriglyceridemia (triglyceride level, 150 to 499 mg per deciliter) and elevated cardiovascular risk or with severe hypertriglyceridemia (triglyceride level, \u2265500 mg per deciliter) and randomly assigned them in a 1:3 ratio to a 50-mg or 80-mg cohort. The patients were then randomly assigned in a 3:1 ratio to receive monthly subcutaneous olezarsen or matching placebo within each cohort. The primary outcome was the least-squares mean percent change in triglyceride level from baseline to 6 months among the patients with moderate hypertriglyceridemia, reported as the difference between each olezarsen dose group and the placebo group (the placebo-adjusted change). A total of 1349 patients (254 in the olezarsen 50-mg group, 766 in the olezarsen 80-mg group, and 329 in the placebo group) were included in the primary efficacy analysis. The median age was 64 years, 40% of the patients were women, and the median triglyceride level at baseline was 238.5 mg per deciliter (interquartile range, 190.5 to 307.5). At 6 months, the placebo-adjusted least-squares mean change in triglyceride level was -58.4 percentage points (95% confidence interval [CI], -65.1 to -51.7; P<0.001) in the olezarsen 50-mg group and -60.6 percentage points (95% CI, -67.1 to -54.0; P<0.001) in the olezarsen 80-mg group. The incidence of serious adverse events appeared to be similar across the trial groups. Among patients with moderate hypertriglyceridemia and elevated cardiovascular risk, treatment with olezarsen resulted in significantly greater reduction in triglyceride levels at 6 months than placebo. (Funded by Ionis Pharmaceuticals; ESSENCE-TIMI 73b ClinicalTrials.gov number, NCT05610280.).",
+      "pub_date": "2025-10-02",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Apolipoprotein C-III",
+        "Cardiovascular Diseases",
+        "Double-Blind Method",
+        "Hypertriglyceridemia",
+        "Injections, Subcutaneous",
+        "Oligonucleotides",
+        "Oligonucleotides, Antisense",
+        "Severity of Illness Index",
+        "Triglycerides",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Apolipoprotein C-III",
+        "Oligonucleotides",
+        "Oligonucleotides, Antisense",
+        "Triglycerides",
+        "APOC3 protein, human",
+        "olezarsen"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Brian A Bergmark",
+        "Nicholas A Marston",
+        "Thomas A Prohaska",
+        "Veronica J Alexander",
+        "Andre Zimerman",
+        "Filipe A Moura"
+      ]
+    },
+    {
+      "pmid": "40225566",
+      "title": "A natural small molecule isoginkgetin alleviates hypercholesterolemia and atherosclerosis by targeting ACLY.",
+      "abstract": "",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Atherosclerosis",
+        "Hypercholesterolemia",
+        "Mice",
+        "Disease Models, Animal",
+        "ATP Citrate (pro-S)-Lyase",
+        "Humans",
+        "Cricetinae",
+        "Mice, Inbred C57BL",
+        "Male",
+        "Mice, Knockout"
+      ],
+      "chemicals": [
+        "ATP Citrate (pro-S)-Lyase"
+      ],
+      "journal": "Theranostics",
+      "authors": [
+        "Zhidan Zhang",
+        "Meijie Chen",
+        "Yitong Xu",
+        "Zhihua Wang",
+        "Zhenghong Liu",
+        "Chenyang He"
+      ]
+    },
+    {
+      "pmid": "40167413",
+      "title": "An Oral PCSK9 Inhibitor for Treatment of Hypercholesterolemia: The PURSUIT Randomized Trial.",
+      "abstract": "Most patients at high-risk for cardiovascular events do not achieve lipid goals advocated by American College of Cardiology/American Heart Association (ACC/AHA) guidelines despite the wide availability of lipid-lowering therapy. AZD0780 is a novel, oral, small molecule inhibitor of proprotein convertase subtilisin/kexin type 9 (PCSK9) in development as a once-daily treatment for hypercholesterolemia. The phase 2 randomized, double-blind, placebo-controlled, multicenter PURSUIT trial evaluated the efficacy and safety of AZD0780 in patients with hypercholesterolemia already on background moderate-to-high-intensity statin treatment. Eligible study patients had a fasting low-density lipoprotein cholesterol (LDL-C) level of \u226570 mg/dL (1.8 mmol/L) and <190 mg/dL (4.9 mmol/L), and triglycerides <400 mg/dL on stable dose of moderate- or high-intensity statins, as defined by ACC/AHA or local guidelines, with or without ezetimibe at baseline. The study randomized patients 1:1:1:1:1 to receive AZD0780 1, 3, 10, or 30 mg, or matching placebo, oral once daily, for 12 weeks. The primary efficacy endpoint was percent change of LDL-C from baseline to week 12. Safety and tolerability evaluations included the number of adverse events, vital signs, electrocardiograms, and laboratory assessments. In total, the study randomized 428 patients, of whom 426 started treatment. Patients were 52.1% male, with an average age of 62.4 \u00b1 7.6 years. At week 12, compared with baseline, the placebo-corrected difference in least squares mean percent change of LDL-C for AZD0780 1, 3, 10, and 30 mg vs placebo was -35.3% (95% CI: -43.6% to -26.9%), -37.9% (95% CI:-46.3% to -29.5%), -45.2% (95% CI: -53.5% to -36.9%), and -50.7% (95% CI: -59.0% to -42.4%), respectively. Baseline statin use, moderate vs high intensity, did not alter AZD0780 efficacy. The proportion of patients reaching the ACC/AHA guideline LDL-C goal for high-risk patients increased in a dose-proportional manner. Adverse events compared similarly between the total AZD0780 treatment group (38.2%) and placebo (32.6%). AZD0780 demonstrated robust, dose-dependent reductions in LDL-C with a favorable safety and tolerability profile supporting further development of this once daily, oral treatment. (A Study to Assess the Efficacy, Safety and Tolerability of Different Doses of AZD0780 in Patients With Dyslipidemia [PURSUIT]; NCT06173570).",
+      "pub_date": "2025-06-03",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase II"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Hypercholesterolemia",
+        "Middle Aged",
+        "Double-Blind Method",
+        "PCSK9 Inhibitors",
+        "Aged",
+        "Administration, Oral",
+        "Anticholesteremic Agents",
+        "Cholesterol, LDL",
+        "Treatment Outcome",
+        "Proprotein Convertase 9"
+      ],
+      "chemicals": [
+        "PCSK9 Inhibitors",
+        "PCSK9 protein, human",
+        "Anticholesteremic Agents",
+        "Cholesterol, LDL",
+        "Proprotein Convertase 9"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Michael J Koren",
+        "Rick B Vega",
+        "Nikhil Agrawal",
+        "Yuejia Xu",
+        "April M Barbour",
+        "Hongtao Yu"
+      ]
+    },
+    {
+      "pmid": "39751968",
+      "title": "Homozygous Familial Hypercholesterolemia Treatment: New Developments.",
+      "abstract": "Homozygous familial hypercholesterolaemia (HoFH) is characterized by marked elevation of low-density lipoprotein cholesterol (LDLC) and premature atherosclerotic cardiovascular disease. This is a review of novel pharmacological therapies to lower LDLC in patients with HoFH. Novel therapies can be broadly divided by whether their efficacy is dependent or independent of residual low-density lipoprotein receptor (LDLR) function. Novel LDLR dependent therapies that reduce proprotein subtilisin kexin type 9 levels include monoclonal antibodies (alirocumab and evolocumab) and a small inhibitory RNA (inclisiran). LDLC reductions are highly variable and depend on residual LDLR function. Microsomal triglyceride inhibitors (lomitapide) and therapies that reduce angiopoietin like factor 3 (evinacumab and zodasiran) both reduce LDLC by approximately 50%, irrespective of residual LDLR function. Most patients with HoFH require multiple therapies to achieve LDLC targets. Better LDLC control with LDLR independent therapies is likely to improve the outlook for patients with HoFH while at the same time reducing the need for other therapies such as apheresis or hepatic transplantation.",
+      "pub_date": "2025-01-03",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Receptors, LDL",
+        "Homozygous Familial Hypercholesterolemia",
+        "Cholesterol, LDL",
+        "Anticholesteremic Agents",
+        "Antibodies, Monoclonal",
+        "Hyperlipoproteinemia Type II"
+      ],
+      "chemicals": [
+        "Receptors, LDL",
+        "Cholesterol, LDL",
+        "Anticholesteremic Agents",
+        "Antibodies, Monoclonal"
+      ],
+      "journal": "Current atherosclerosis reports",
+      "authors": [
+        "Dirk J Blom",
+        "A David Marais",
+        "Frederick J Raal"
+      ]
+    },
+    {
+      "pmid": "40068508",
+      "title": "Familial chylomicronemia syndrome and treatments to target hepatic APOC3 mRNA.",
+      "abstract": "Familial chylomicronemia syndrome (FCS) is a rare, recessive monogenic disorder characterized by severely elevated plasma triglyceride (TG) levels due to absent or markedly impaired lipoprotein lipase activity, leading to a greatly increased risk of acute pancreatitis. Naturally occurring very low levels of apoC-III are associated with low TG levels; thus, apoC-III is a target for TG lowering, and therapies have been developed to reduce apoC-III. Strategies to inhibit hepatic apoC-III synthesis include antisense oligonucleotides (ASOs) and small interfering RNAs (siRNAs). In the last decade, technologies have been developed to enhance hepatic delivery of these potential therapeutic agents by conjugation of the ligand triantennary N-acetyl galactosamine to ASO and siRNA for receptor-mediated uptake by hepatocytes, where apoC-III is predominantly expressed. Enhanced delivery of these pharmacological agents to the target tissue has been found to support lower and/or less frequent dosing with consequent lower total systemic exposure. One antisense agent, the ASO olezarsen, is now approved by the US Food and Drug Administration (FDA) as an adjunct to diet to lower triglycerides in adults with FCS, and the other, the siRNA plozasiran, is in late-stage clinical development. Both agents have shown effectiveness in reducing both apoC-III and TG levels across several study populations. Reduced TG, lower rates of acute pancreatitis events, and similar proportions of adverse events in placebo and treated patients were recently demonstrated in placebo-controlled phase 3 trials of patients with FCS treated with olezarsen in Balance and with plozasiran in PALISADE. This review discusses causes and consequences of FCS and the rationale and progress made in developing APOC3 RNA-targeted therapeutics for the treatment of FCS.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Apolipoprotein C-III",
+        "Hyperlipoproteinemia Type I",
+        "Oligonucleotides, Antisense",
+        "RNA, Messenger",
+        "Liver",
+        "RNA, Small Interfering",
+        "Triglycerides",
+        "Animals",
+        "Oligonucleotides",
+        "Treatment Outcome",
+        "Genetic Therapy"
+      ],
+      "chemicals": [
+        "Apolipoprotein C-III",
+        "Oligonucleotides, Antisense",
+        "RNA, Messenger",
+        "RNA, Small Interfering",
+        "ISIS 304801",
+        "Triglycerides",
+        "APOC3 protein, human",
+        "Oligonucleotides"
+      ],
+      "journal": "Atherosclerosis",
+      "authors": [
+        "Eliot A Brinton",
+        "Robert H Eckel",
+        "Daniel Gaudet",
+        "Christie M Ballantyne",
+        "Brenda F Baker",
+        "Henry N Ginsberg"
+      ]
+    },
+    {
+      "pmid": "40682836",
+      "title": "Research advances in current drugs targeting hyperlipidemia (Review).",
+      "abstract": "Hyperlipidemia is a disorder of lipid metabolism. With rapid economic development, unhealthy diets and lack of exercise, the incidence of hyperlipidemia has been increasing year by year. In adults, hyperlipidemia is a major risk factor for cardiovascular diseases, especially atherosclerotic cardiovascular disease (ASCVD), and the current goal of treating hyperlipidemia is to prevent and manage ASCVD. In terms of etiology, hyperlipidemia is divided into primary and secondary types. Common primary hyperlipidemias include familial hypercholesterolemia, mixed familial hyperlipidemia, type III hyperlipoproteinemia and familial chylomicronemia syndrome. In addition to statins, ezetimibe and proprotein convertase subtilisin/kexin type 9 inhibitors, a number of new and emerging drugs for lowering cholesterol and triglycerides are being developed to regulate lipid levels and prevent cardiovascular diseases. The present review summarized the classification and composition of lipoproteins, the pathogenesis of common primary hyperlipidemias, secondary factors affecting dyslipidemia, modern common lipid\u2011lowering drugs and the latest clinical progress in emerging lipid\u2011lowering therapies.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hyperlipidemias",
+        "Hypolipidemic Agents",
+        "Animals",
+        "Lipid Metabolism",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Anticholesteremic Agents"
+      ],
+      "chemicals": [
+        "Hypolipidemic Agents",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Anticholesteremic Agents"
+      ],
+      "journal": "Molecular medicine reports",
+      "authors": [
+        "Hanwei Zhao",
+        "Yao Wang",
+        "Yaqing Li",
+        "Ran Cheng",
+        "Wenge Chen"
+      ]
+    },
+    {
+      "pmid": "40551216",
+      "title": "Efficacy and safety of statins, ezetimibe, and fibrates monotherapy or combination therapy for hyperlipidemia: a systematic review and network meta-analysis.",
+      "abstract": "As commonly used lipid-lowering drugs, the efficacy and safety of statins, ezetimibe, and fibrates, either alone or in combination, have rarely been systematically evaluated. Therefore, we conducted a network meta-analysis to assess their efficacy and safety in patients with hyperlipidemia. In this study, we searched PubMed, the Cochrane Library, and Web of Science within our system. We included randomized controlled trials (RCTs) that compared the monotherapy or combination therapy of statins, ezetimibe, and fibrates for hyperlipidemia. Data analysis was performed using Stata 17.0 software. Each result is presented as the mean difference (MD) or odds ratio (OR) along with the 95% confidence interval (CI) and the surface under the cumulative ranking curve (SUCRA). A total of 30 studies, involving 10,219 patients, were included to analyze 12 different interventions. Combination therapy demonstrated superior therapeutic effects compared to monotherapy. Moderate-intensity statin\u2009+\u2009ezetimibe showed good efficacy and acceptable safety in reducing LDL cholesterol, while moderate-intensity statin\u2009+\u2009fibrate was a better choice for treating mixed dyslipidemia.",
+      "pub_date": "2025-06-23",
+      "publication_types": [
+        "Journal Article",
+        "Network Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Drug Therapy, Combination",
+        "Ezetimibe",
+        "Fibric Acids",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Hyperlipidemias",
+        "Hypolipidemic Agents",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Ezetimibe",
+        "Fibric Acids",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Hypolipidemic Agents"
+      ],
+      "journal": "European journal of medical research",
+      "authors": [
+        "Shujie Zhang",
+        "Tingting Sun",
+        "Lina Song",
+        "Xiaodong Jin",
+        "Bo Li"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,245 @@
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+
+oed:acute_kidney_injury oe:hasSymptom oesym:edema .
+
+oed:addison_disease oe:hasSymptom oesym:fatigue,
+        oesym:weight_loss .
+
+oed:alzheimer_disease oe:hasSymptom oesym:fatigue .
+
+oed:angina_pectoris oe:hasSymptom oesym:chest_pain .
+
+oed:ankylosing_spondylitis oe:hasSymptom oesym:joint_pain .
+
+oed:aortic_stenosis oe:hasSymptom oesym:chest_pain,
+        oesym:dyspnea .
+
+oed:asthma oe:hasSymptom oesym:cough,
+        oesym:dyspnea .
+
+oed:atrial_fibrillation oe:hasSymptom oesym:dizziness,
+        oesym:palpitations .
+
+oed:bipolar_disorder oe:hasSymptom oesym:depressed_mood .
+
+oed:breast_cancer oe:hasSymptom oesym:fatigue,
+        oesym:weight_loss .
+
+oed:cardiomyopathy oe:hasSymptom oesym:dyspnea,
+        oesym:edema,
+        oesym:fatigue .
+
+oed:cellulitis oe:hasSymptom oesym:fever .
+
+oed:chronic_kidney_disease oe:hasSymptom oesym:edema,
+        oesym:fatigue .
+
+oed:chronic_myeloid_leukemia oe:hasSymptom oesym:fatigue,
+        oesym:weight_loss .
+
+oed:chronic_obstructive_pulmonary_disease oe:hasSymptom oesym:cough,
+        oesym:dyspnea .
+
+oed:cirrhosis oe:hasSymptom oesym:edema,
+        oesym:fatigue .
+
+oed:colorectal_cancer oe:hasSymptom oesym:abdominal_pain,
+        oesym:weight_loss .
+
+oed:community_acquired_pneumonia oe:hasSymptom oesym:cough,
+        oesym:dyspnea,
+        oesym:fever .
+
+oed:coronary_artery_disease oe:hasSymptom oesym:chest_pain,
+        oesym:dyspnea .
+
+oed:crohn_disease oe:hasSymptom oesym:abdominal_pain,
+        oesym:weight_loss .
+
+oed:cushing_syndrome oe:hasSymptom oesym:fatigue,
+        oesym:weight_loss .
+
+oed:deep_vein_thrombosis oe:hasSymptom oesym:edema .
+
+oed:diabetic_nephropathy oe:hasSymptom oesym:edema .
+
+oed:epilepsy oe:hasSymptom oesym:seizure .
+
+oed:gastroesophageal_reflux_disease oe:hasSymptom oesym:chest_pain,
+        oesym:cough .
+
+oed:generalized_anxiety_disorder oe:hasSymptom oesym:fatigue,
+        oesym:palpitations .
+
+oed:gout oe:hasSymptom oesym:joint_pain .
+
+oed:heart_failure oe:hasSymptom oesym:dyspnea,
+        oesym:edema,
+        oesym:fatigue .
+
+oed:helicobacter_pylori_infection oe:hasSymptom oesym:abdominal_pain,
+        oesym:nausea .
+
+oed:hepatitis_c oe:hasSymptom oesym:fatigue .
+
+oed:hiv_infection oe:hasSymptom oesym:fatigue,
+        oesym:fever,
+        oesym:weight_loss .
+
+oed:hypertension oe:hasSymptom oesym:dizziness,
+        oesym:headache .
+
+oed:hyperthyroidism oe:hasSymptom oesym:palpitations,
+        oesym:tremor,
+        oesym:weight_loss .
+
+oed:hypothyroidism oe:hasSymptom oesym:fatigue,
+        oesym:weight_loss .
+
+oed:idiopathic_pulmonary_fibrosis oe:hasSymptom oesym:dry_cough,
+        oesym:dyspnea .
+
+oed:influenza oe:hasSymptom oesym:cough,
+        oesym:fatigue,
+        oesym:fever .
+
+oed:irritable_bowel_syndrome oe:hasSymptom oesym:abdominal_pain .
+
+oed:major_depressive_disorder oe:hasSymptom oesym:depressed_mood,
+        oesym:fatigue .
+
+oed:migraine oe:hasSymptom oesym:headache,
+        oesym:nausea .
+
+oed:multiple_sclerosis oe:hasSymptom oesym:fatigue .
+
+oed:myasthenia_gravis oe:hasSymptom oesym:fatigue .
+
+oed:nephrotic_syndrome oe:hasSymptom oesym:edema .
+
+oed:neuropathic_pain oe:hasSymptom oesym:joint_pain .
+
+oed:non_hodgkin_lymphoma oe:hasSymptom oesym:fatigue,
+        oesym:fever,
+        oesym:weight_loss .
+
+oed:non_small_cell_lung_cancer oe:hasSymptom oesym:cough,
+        oesym:dyspnea,
+        oesym:weight_loss .
+
+oed:obstructive_sleep_apnea oe:hasSymptom oesym:fatigue .
+
+oed:osteoarthritis oe:hasSymptom oesym:joint_pain .
+
+oed:pancreatitis oe:hasSymptom oesym:abdominal_pain,
+        oesym:nausea .
+
+oed:parkinson_disease oe:hasSymptom oesym:tremor .
+
+oed:peptic_ulcer_disease oe:hasSymptom oesym:abdominal_pain,
+        oesym:nausea .
+
+oed:peripheral_artery_disease oe:hasSymptom oesym:chest_pain .
+
+oed:polycystic_ovary_syndrome oe:hasSymptom oesym:fatigue .
+
+oed:post_traumatic_stress_disorder oe:hasSymptom oesym:depressed_mood .
+
+oed:prostate_cancer oe:hasSymptom oesym:fatigue,
+        oesym:weight_loss .
+
+oed:psoriatic_arthritis oe:hasSymptom oesym:joint_pain .
+
+oed:pulmonary_embolism oe:hasSymptom oesym:chest_pain,
+        oesym:dyspnea .
+
+oed:rheumatoid_arthritis oe:hasSymptom oesym:fatigue,
+        oesym:joint_pain .
+
+oed:sepsis oe:hasSymptom oesym:dyspnea,
+        oesym:fever .
+
+oed:status_epilepticus oe:hasSymptom oesym:seizure .
+
+oed:stroke oe:hasSymptom oesym:dizziness .
+
+oed:systemic_lupus_erythematosus oe:hasSymptom oesym:fatigue,
+        oesym:joint_pain .
+
+oed:trigeminal_neuralgia oe:hasSymptom oesym:headache .
+
+oed:tuberculosis oe:hasSymptom oesym:cough,
+        oesym:fever,
+        oesym:weight_loss .
+
+oed:type_1_diabetes_mellitus oe:hasSymptom oesym:fatigue,
+        oesym:weight_loss .
+
+oed:type_2_diabetes_mellitus oe:hasSymptom oesym:fatigue,
+        oesym:weight_loss .
+
+oed:ulcerative_colitis oe:hasSymptom oesym:abdominal_pain .
+
+oed:urinary_tract_infection oe:hasSymptom oesym:abdominal_pain,
+        oesym:fever .
+
+oedrug:allopurinol oe:contraindicatedWith oedrug:colchicine .
+
+oedrug:apixaban oe:contraindicatedWith oedrug:warfarin .
+
+oedrug:lisinopril oe:contraindicatedWith oedrug:amlodipine,
+        oedrug:empagliflozin,
+        oedrug:furosemide .
+
+oedrug:lithium oe:contraindicatedWith oedrug:quetiapine .
+
+oedrug:mesalazine oe:contraindicatedWith oedrug:adalimumab .
+
+oedrug:metformin oe:contraindicatedWith oedrug:empagliflozin .
+
+oedrug:metoprolol oe:contraindicatedWith oedrug:amlodipine,
+        oedrug:spironolactone .
+
+oedrug:prednisone oe:contraindicatedWith oedrug:furosemide,
+        oedrug:methotrexate .
+
+oedrug:rituximab oe:contraindicatedWith oedrug:cisplatin .
+
+oedrug:sacubitril_valsartan oe:contraindicatedWith oedrug:furosemide .
+
+oedrug:sumatriptan oe:contraindicatedWith oedrug:propranolol .
+
+oedrug:tamoxifen oe:contraindicatedWith oedrug:pembrolizumab .
+
+oedrug:tiotropium oe:contraindicatedWith oedrug:salbutamol .
+
+oedrug:atorvastatin oe:contraindicatedWith oedrug:clopidogrel .
+
+oedrug:ceftriaxone oe:contraindicatedWith oedrug:ciprofloxacin .
+
+oedrug:ciprofloxacin oe:contraindicatedWith oedrug:amoxicillin .
+
+oedrug:clopidogrel oe:contraindicatedWith oedrug:atorvastatin .
+
+oedrug:omeprazole oe:contraindicatedWith oedrug:amoxicillin .
+
+oedrug:salbutamol oe:contraindicatedWith oedrug:budesonide .
+
+oedrug:adalimumab oe:contraindicatedWith oedrug:ibuprofen,
+        oedrug:methotrexate .
+
+oedrug:amoxicillin oe:contraindicatedWith oedrug:azithromycin,
+        oedrug:ceftriaxone,
+        oedrug:omeprazole .
+
+oedrug:cisplatin oe:contraindicatedWith oedrug:pembrolizumab .
+
+oedrug:methotrexate oe:contraindicatedWith oedrug:adalimumab .
+
+oedrug:pembrolizumab oe:contraindicatedWith oedrug:cisplatin .
+
+oedrug:furosemide oe:contraindicatedWith oedrug:spironolactone .
+

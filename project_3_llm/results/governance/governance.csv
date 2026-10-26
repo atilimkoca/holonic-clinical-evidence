@@ -1,0 +1,301 @@
+holon_id,specialty,strategy,context_tokens,answerability,noise_facts
+q_acute_kidney_injury_treatment,Nephrology,centralized,231,1.00,0
+q_acute_kidney_injury_treatment,Nephrology,federated,292,1.00,0
+q_acute_kidney_injury_treatment,Nephrology,autonomous,24,1.00,0
+q_addison_disease_efficacy,Endocrinology,centralized,238,1.00,0
+q_addison_disease_efficacy,Endocrinology,federated,232,1.00,0
+q_addison_disease_efficacy,Endocrinology,autonomous,23,0.00,0
+q_alzheimer_disease_treatment,Neurology,centralized,190,1.00,0
+q_alzheimer_disease_treatment,Neurology,federated,256,1.00,0
+q_alzheimer_disease_treatment,Neurology,autonomous,23,1.00,0
+q_angina_pectoris_treatment,Cardiology,centralized,191,1.00,0
+q_angina_pectoris_treatment,Cardiology,federated,286,1.00,0
+q_angina_pectoris_treatment,Cardiology,autonomous,23,1.00,0
+q_ankylosing_spondylitis_efficacy,Rheumatology,centralized,255,1.00,0
+q_ankylosing_spondylitis_efficacy,Rheumatology,federated,339,1.00,0
+q_ankylosing_spondylitis_efficacy,Rheumatology,autonomous,25,0.00,0
+q_ankylosing_spondylitis_treatment,Rheumatology,centralized,255,1.00,0
+q_ankylosing_spondylitis_treatment,Rheumatology,federated,296,1.00,0
+q_ankylosing_spondylitis_treatment,Rheumatology,autonomous,25,1.00,0
+q_aortic_stenosis_efficacy,Cardiology,centralized,219,1.00,0
+q_aortic_stenosis_efficacy,Cardiology,federated,274,1.00,0
+q_aortic_stenosis_efficacy,Cardiology,autonomous,23,0.00,0
+q_asthma_efficacy,Pulmonology,centralized,249,1.00,0
+q_asthma_efficacy,Pulmonology,federated,313,1.00,0
+q_asthma_efficacy,Pulmonology,autonomous,21,0.00,0
+q_asthma_treatment,Pulmonology,centralized,249,1.00,0
+q_asthma_treatment,Pulmonology,federated,297,1.00,0
+q_asthma_treatment,Pulmonology,autonomous,21,1.00,0
+q_atrial_fibrillation_efficacy,Cardiology,centralized,231,1.00,0
+q_atrial_fibrillation_efficacy,Cardiology,federated,306,1.00,0
+q_atrial_fibrillation_efficacy,Cardiology,autonomous,23,0.00,0
+q_atrial_fibrillation_treatment,Cardiology,centralized,231,1.00,0
+q_atrial_fibrillation_treatment,Cardiology,federated,302,1.00,0
+q_atrial_fibrillation_treatment,Cardiology,autonomous,23,1.00,0
+q_bipolar_disorder_efficacy,Psychiatry,centralized,293,1.00,0
+q_bipolar_disorder_efficacy,Psychiatry,federated,362,1.00,0
+q_bipolar_disorder_efficacy,Psychiatry,autonomous,22,0.00,0
+q_bipolar_disorder_treatment,Psychiatry,centralized,293,1.00,0
+q_bipolar_disorder_treatment,Psychiatry,federated,348,1.00,0
+q_bipolar_disorder_treatment,Psychiatry,autonomous,22,1.00,0
+q_breast_cancer_efficacy,Oncology,centralized,223,1.00,0
+q_breast_cancer_efficacy,Oncology,federated,292,1.00,0
+q_breast_cancer_efficacy,Oncology,autonomous,21,0.00,0
+q_breast_cancer_treatment,Oncology,centralized,223,1.00,0
+q_breast_cancer_treatment,Oncology,federated,312,1.00,0
+q_breast_cancer_treatment,Oncology,autonomous,21,1.00,0
+q_cardiomyopathy_treatment,Cardiology,centralized,233,1.00,0
+q_cardiomyopathy_treatment,Cardiology,federated,265,1.00,0
+q_cardiomyopathy_treatment,Cardiology,autonomous,22,1.00,0
+q_cellulitis_treatment,Infectious Disease,centralized,263,1.00,0
+q_cellulitis_treatment,Infectious Disease,federated,358,1.00,0
+q_cellulitis_treatment,Infectious Disease,autonomous,24,1.00,0
+q_chronic_kidney_disease_efficacy,Nephrology,centralized,256,1.00,0
+q_chronic_kidney_disease_efficacy,Nephrology,federated,324,1.00,0
+q_chronic_kidney_disease_efficacy,Nephrology,autonomous,24,0.00,0
+q_cirrhosis_efficacy,Gastroenterology,centralized,221,1.00,0
+q_cirrhosis_efficacy,Gastroenterology,federated,317,1.00,0
+q_cirrhosis_efficacy,Gastroenterology,autonomous,23,0.00,0
+q_cirrhosis_treatment,Gastroenterology,centralized,221,1.00,0
+q_cirrhosis_treatment,Gastroenterology,federated,308,1.00,0
+q_cirrhosis_treatment,Gastroenterology,autonomous,23,1.00,0
+q_colorectal_cancer_efficacy,Oncology,centralized,259,1.00,0
+q_colorectal_cancer_efficacy,Oncology,federated,289,1.00,0
+q_colorectal_cancer_efficacy,Oncology,autonomous,22,0.00,0
+q_colorectal_cancer_treatment,Oncology,centralized,259,1.00,0
+q_colorectal_cancer_treatment,Oncology,federated,348,1.00,0
+q_colorectal_cancer_treatment,Oncology,autonomous,22,1.00,0
+q_community_acquired_pneumonia_efficacy,Infectious Disease,centralized,223,1.00,0
+q_community_acquired_pneumonia_efficacy,Infectious Disease,federated,322,1.00,0
+q_community_acquired_pneumonia_efficacy,Infectious Disease,autonomous,28,0.00,0
+q_coronary_artery_disease_efficacy,Cardiology,centralized,227,1.00,0
+q_coronary_artery_disease_efficacy,Cardiology,federated,269,1.00,0
+q_coronary_artery_disease_efficacy,Cardiology,autonomous,25,0.00,0
+q_coronary_artery_disease_treatment,Cardiology,centralized,227,1.00,0
+q_coronary_artery_disease_treatment,Cardiology,federated,330,1.00,0
+q_coronary_artery_disease_treatment,Cardiology,autonomous,25,1.00,0
+q_crohn_disease_efficacy,Gastroenterology,centralized,273,1.00,0
+q_crohn_disease_efficacy,Gastroenterology,federated,340,1.00,0
+q_crohn_disease_efficacy,Gastroenterology,autonomous,24,0.00,0
+q_crohn_disease_treatment,Gastroenterology,centralized,273,1.00,0
+q_crohn_disease_treatment,Gastroenterology,federated,335,1.00,0
+q_crohn_disease_treatment,Gastroenterology,autonomous,24,1.00,0
+q_deep_vein_thrombosis_efficacy,Cardiology,centralized,211,1.00,0
+q_deep_vein_thrombosis_efficacy,Cardiology,federated,307,1.00,0
+q_deep_vein_thrombosis_efficacy,Cardiology,autonomous,23,0.00,0
+q_deep_vein_thrombosis_treatment,Cardiology,centralized,211,1.00,0
+q_deep_vein_thrombosis_treatment,Cardiology,federated,276,1.00,0
+q_deep_vein_thrombosis_treatment,Cardiology,autonomous,23,1.00,0
+q_diabetic_nephropathy_efficacy,Nephrology,centralized,358,1.00,0
+q_diabetic_nephropathy_efficacy,Nephrology,federated,315,1.00,0
+q_diabetic_nephropathy_efficacy,Nephrology,autonomous,24,0.00,0
+q_epilepsy_efficacy,Neurology,centralized,203,1.00,0
+q_epilepsy_efficacy,Neurology,federated,298,1.00,0
+q_epilepsy_efficacy,Neurology,autonomous,21,0.00,0
+q_epilepsy_treatment,Neurology,centralized,203,1.00,0
+q_epilepsy_treatment,Neurology,federated,269,1.00,0
+q_epilepsy_treatment,Neurology,autonomous,21,1.00,0
+q_gastroesophageal_reflux_disease_efficacy,Gastroenterology,centralized,337,1.00,0
+q_gastroesophageal_reflux_disease_efficacy,Gastroenterology,federated,377,1.00,0
+q_gastroesophageal_reflux_disease_efficacy,Gastroenterology,autonomous,28,0.00,0
+q_gastroesophageal_reflux_disease_treatment,Gastroenterology,centralized,337,1.00,0
+q_gastroesophageal_reflux_disease_treatment,Gastroenterology,federated,353,1.00,0
+q_gastroesophageal_reflux_disease_treatment,Gastroenterology,autonomous,28,1.00,0
+q_generalized_anxiety_disorder_efficacy,Psychiatry,centralized,264,1.00,0
+q_generalized_anxiety_disorder_efficacy,Psychiatry,federated,321,1.00,0
+q_generalized_anxiety_disorder_efficacy,Psychiatry,autonomous,26,0.00,0
+q_generalized_anxiety_disorder_treatment,Psychiatry,centralized,264,1.00,0
+q_generalized_anxiety_disorder_treatment,Psychiatry,federated,351,1.00,0
+q_generalized_anxiety_disorder_treatment,Psychiatry,autonomous,26,1.00,0
+q_gout_efficacy,Rheumatology,centralized,214,1.00,0
+q_gout_efficacy,Rheumatology,federated,297,1.00,0
+q_gout_efficacy,Rheumatology,autonomous,21,0.00,0
+q_gout_treatment,Rheumatology,centralized,214,1.00,0
+q_gout_treatment,Rheumatology,federated,306,1.00,0
+q_gout_treatment,Rheumatology,autonomous,21,1.00,0
+q_heart_failure_efficacy,Cardiology,centralized,267,1.00,0
+q_heart_failure_efficacy,Cardiology,federated,353,1.00,0
+q_heart_failure_efficacy,Cardiology,autonomous,25,0.00,0
+q_helicobacter_pylori_infection_treatment,Infectious Disease,centralized,210,1.00,0
+q_helicobacter_pylori_infection_treatment,Infectious Disease,federated,308,1.00,0
+q_helicobacter_pylori_infection_treatment,Infectious Disease,autonomous,28,1.00,0
+q_hepatitis_c_efficacy,Infectious Disease,centralized,234,1.00,0
+q_hepatitis_c_efficacy,Infectious Disease,federated,319,1.00,0
+q_hepatitis_c_efficacy,Infectious Disease,autonomous,23,0.00,0
+q_hiv_infection_efficacy,Infectious Disease,centralized,168,1.00,0
+q_hiv_infection_efficacy,Infectious Disease,federated,303,1.00,0
+q_hiv_infection_efficacy,Infectious Disease,autonomous,24,0.00,0
+q_hiv_infection_treatment,Infectious Disease,centralized,168,1.00,0
+q_hiv_infection_treatment,Infectious Disease,federated,288,1.00,0
+q_hiv_infection_treatment,Infectious Disease,autonomous,24,1.00,0
+q_hyperlipidemia_efficacy,Cardiology,centralized,216,1.00,0
+q_hyperlipidemia_efficacy,Cardiology,federated,283,1.00,0
+q_hyperlipidemia_efficacy,Cardiology,autonomous,23,0.00,0
+q_hyperlipidemia_treatment,Cardiology,centralized,216,1.00,0
+q_hyperlipidemia_treatment,Cardiology,federated,306,1.00,0
+q_hyperlipidemia_treatment,Cardiology,autonomous,23,1.00,0
+q_hypertension_treatment,Cardiology,centralized,193,1.00,0
+q_hypertension_treatment,Cardiology,federated,286,1.00,0
+q_hypertension_treatment,Cardiology,autonomous,22,1.00,0
+q_hyperthyroidism_treatment,Endocrinology,centralized,205,1.00,0
+q_hyperthyroidism_treatment,Endocrinology,federated,298,1.00,0
+q_hyperthyroidism_treatment,Endocrinology,autonomous,23,1.00,0
+q_hypothyroidism_efficacy,Endocrinology,centralized,175,1.00,0
+q_hypothyroidism_efficacy,Endocrinology,federated,274,1.00,0
+q_hypothyroidism_efficacy,Endocrinology,autonomous,24,0.00,0
+q_hypothyroidism_treatment,Endocrinology,centralized,175,1.00,0
+q_hypothyroidism_treatment,Endocrinology,federated,287,1.00,0
+q_hypothyroidism_treatment,Endocrinology,autonomous,24,1.00,0
+q_idiopathic_pulmonary_fibrosis_efficacy,Pulmonology,centralized,212,1.00,0
+q_idiopathic_pulmonary_fibrosis_efficacy,Pulmonology,federated,268,1.00,0
+q_idiopathic_pulmonary_fibrosis_efficacy,Pulmonology,autonomous,26,0.00,0
+q_major_depressive_disorder_efficacy,Psychiatry,centralized,216,1.00,0
+q_major_depressive_disorder_efficacy,Psychiatry,federated,326,1.00,0
+q_major_depressive_disorder_efficacy,Psychiatry,autonomous,25,0.00,0
+q_major_depressive_disorder_treatment,Psychiatry,centralized,216,1.00,0
+q_major_depressive_disorder_treatment,Psychiatry,federated,301,1.00,0
+q_major_depressive_disorder_treatment,Psychiatry,autonomous,25,1.00,0
+q_migraine_efficacy,Neurology,centralized,195,1.00,0
+q_migraine_efficacy,Neurology,federated,275,1.00,0
+q_migraine_efficacy,Neurology,autonomous,21,0.00,0
+q_multiple_sclerosis_efficacy,Neurology,centralized,237,1.00,0
+q_multiple_sclerosis_efficacy,Neurology,federated,304,1.00,0
+q_multiple_sclerosis_efficacy,Neurology,autonomous,23,0.00,0
+q_myasthenia_gravis_efficacy,Neurology,centralized,322,1.00,0
+q_myasthenia_gravis_efficacy,Neurology,federated,325,1.00,0
+q_myasthenia_gravis_efficacy,Neurology,autonomous,23,0.00,0
+q_myasthenia_gravis_treatment,Neurology,centralized,322,1.00,0
+q_myasthenia_gravis_treatment,Neurology,federated,357,1.00,0
+q_myasthenia_gravis_treatment,Neurology,autonomous,23,1.00,0
+q_nephrotic_syndrome_efficacy,Nephrology,centralized,201,1.00,0
+q_nephrotic_syndrome_efficacy,Nephrology,federated,274,1.00,0
+q_nephrotic_syndrome_efficacy,Nephrology,autonomous,23,0.00,0
+q_nephrotic_syndrome_treatment,Nephrology,centralized,201,1.00,0
+q_nephrotic_syndrome_treatment,Nephrology,federated,269,1.00,0
+q_nephrotic_syndrome_treatment,Nephrology,autonomous,23,1.00,0
+q_neuropathic_pain_efficacy,Neurology,centralized,223,1.00,0
+q_neuropathic_pain_efficacy,Neurology,federated,283,1.00,0
+q_neuropathic_pain_efficacy,Neurology,autonomous,23,0.00,0
+q_non_hodgkin_lymphoma_efficacy,Oncology,centralized,233,1.00,0
+q_non_hodgkin_lymphoma_efficacy,Oncology,federated,318,1.00,0
+q_non_hodgkin_lymphoma_efficacy,Oncology,autonomous,23,0.00,0
+q_non_hodgkin_lymphoma_treatment,Oncology,centralized,233,1.00,0
+q_non_hodgkin_lymphoma_treatment,Oncology,federated,292,1.00,0
+q_non_hodgkin_lymphoma_treatment,Oncology,autonomous,23,1.00,0
+q_non_small_cell_lung_cancer_efficacy,Oncology,centralized,213,1.00,0
+q_non_small_cell_lung_cancer_efficacy,Oncology,federated,317,1.00,0
+q_non_small_cell_lung_cancer_efficacy,Oncology,autonomous,26,0.00,0
+q_non_small_cell_lung_cancer_treatment,Oncology,centralized,213,1.00,0
+q_non_small_cell_lung_cancer_treatment,Oncology,federated,269,1.00,0
+q_non_small_cell_lung_cancer_treatment,Oncology,autonomous,26,1.00,0
+q_obsessive_compulsive_disorder_efficacy,Psychiatry,centralized,299,1.00,0
+q_obsessive_compulsive_disorder_efficacy,Psychiatry,federated,355,1.00,0
+q_obsessive_compulsive_disorder_efficacy,Psychiatry,autonomous,26,0.00,0
+q_osteoarthritis_efficacy,Rheumatology,centralized,202,1.00,0
+q_osteoarthritis_efficacy,Rheumatology,federated,289,1.00,0
+q_osteoarthritis_efficacy,Rheumatology,autonomous,23,0.00,0
+q_osteoporosis_efficacy,Endocrinology,centralized,174,1.00,0
+q_osteoporosis_efficacy,Endocrinology,federated,298,1.00,0
+q_osteoporosis_efficacy,Endocrinology,autonomous,23,0.00,0
+q_osteoporosis_treatment,Endocrinology,centralized,174,1.00,0
+q_osteoporosis_treatment,Endocrinology,federated,264,1.00,0
+q_osteoporosis_treatment,Endocrinology,autonomous,23,1.00,0
+q_pancreatitis_efficacy,Gastroenterology,centralized,259,1.00,0
+q_pancreatitis_efficacy,Gastroenterology,federated,294,1.00,0
+q_pancreatitis_efficacy,Gastroenterology,autonomous,23,0.00,0
+q_pancreatitis_treatment,Gastroenterology,centralized,259,1.00,0
+q_pancreatitis_treatment,Gastroenterology,federated,368,1.00,0
+q_pancreatitis_treatment,Gastroenterology,autonomous,23,1.00,0
+q_parkinson_disease_efficacy,Neurology,centralized,220,1.00,0
+q_parkinson_disease_efficacy,Neurology,federated,295,1.00,0
+q_parkinson_disease_efficacy,Neurology,autonomous,22,0.00,0
+q_peptic_ulcer_disease_efficacy,Gastroenterology,centralized,185,1.00,0
+q_peptic_ulcer_disease_efficacy,Gastroenterology,federated,269,1.00,0
+q_peptic_ulcer_disease_efficacy,Gastroenterology,autonomous,25,0.00,0
+q_peptic_ulcer_disease_treatment,Gastroenterology,centralized,185,1.00,0
+q_peptic_ulcer_disease_treatment,Gastroenterology,federated,315,1.00,0
+q_peptic_ulcer_disease_treatment,Gastroenterology,autonomous,25,1.00,0
+q_peripheral_artery_disease_efficacy,Cardiology,centralized,224,1.00,0
+q_peripheral_artery_disease_efficacy,Cardiology,federated,294,1.00,0
+q_peripheral_artery_disease_efficacy,Cardiology,autonomous,25,0.00,0
+q_peripheral_artery_disease_treatment,Cardiology,centralized,224,1.00,0
+q_peripheral_artery_disease_treatment,Cardiology,federated,303,1.00,0
+q_peripheral_artery_disease_treatment,Cardiology,autonomous,25,1.00,0
+q_polycystic_ovary_syndrome_efficacy,Endocrinology,centralized,274,1.00,0
+q_polycystic_ovary_syndrome_efficacy,Endocrinology,federated,359,1.00,0
+q_polycystic_ovary_syndrome_efficacy,Endocrinology,autonomous,26,0.00,0
+q_post_traumatic_stress_disorder_efficacy,Psychiatry,centralized,349,1.00,0
+q_post_traumatic_stress_disorder_efficacy,Psychiatry,federated,379,1.00,0
+q_post_traumatic_stress_disorder_efficacy,Psychiatry,autonomous,26,0.00,0
+q_post_traumatic_stress_disorder_treatment,Psychiatry,centralized,349,1.00,0
+q_post_traumatic_stress_disorder_treatment,Psychiatry,federated,379,1.00,0
+q_post_traumatic_stress_disorder_treatment,Psychiatry,autonomous,26,1.00,0
+q_prostate_cancer_efficacy,Oncology,centralized,239,1.00,0
+q_prostate_cancer_efficacy,Oncology,federated,318,1.00,0
+q_prostate_cancer_efficacy,Oncology,autonomous,23,0.00,0
+q_psoriatic_arthritis_treatment,Rheumatology,centralized,278,1.00,0
+q_psoriatic_arthritis_treatment,Rheumatology,federated,322,1.00,0
+q_psoriatic_arthritis_treatment,Rheumatology,autonomous,25,1.00,0
+q_pulmonary_embolism_efficacy,Pulmonology,centralized,188,1.00,0
+q_pulmonary_embolism_efficacy,Pulmonology,federated,277,1.00,0
+q_pulmonary_embolism_efficacy,Pulmonology,autonomous,23,0.00,0
+q_pulmonary_embolism_treatment,Pulmonology,centralized,188,1.00,0
+q_pulmonary_embolism_treatment,Pulmonology,federated,267,1.00,0
+q_pulmonary_embolism_treatment,Pulmonology,autonomous,23,1.00,0
+q_rheumatoid_arthritis_efficacy,Rheumatology,centralized,259,1.00,0
+q_rheumatoid_arthritis_efficacy,Rheumatology,federated,331,1.00,0
+q_rheumatoid_arthritis_efficacy,Rheumatology,autonomous,25,0.00,0
+q_rheumatoid_arthritis_treatment,Rheumatology,centralized,259,1.00,0
+q_rheumatoid_arthritis_treatment,Rheumatology,federated,309,1.00,0
+q_rheumatoid_arthritis_treatment,Rheumatology,autonomous,25,1.00,0
+q_schizophrenia_treatment,Psychiatry,centralized,216,1.00,0
+q_schizophrenia_treatment,Psychiatry,federated,320,1.00,0
+q_schizophrenia_treatment,Psychiatry,autonomous,22,1.00,0
+q_sepsis_efficacy,Infectious Disease,centralized,221,1.00,0
+q_sepsis_efficacy,Infectious Disease,federated,333,1.00,0
+q_sepsis_efficacy,Infectious Disease,autonomous,23,0.00,0
+q_sepsis_treatment,Infectious Disease,centralized,221,1.00,0
+q_sepsis_treatment,Infectious Disease,federated,311,1.00,0
+q_sepsis_treatment,Infectious Disease,autonomous,23,1.00,0
+q_status_epilepticus_efficacy,Neurology,centralized,218,1.00,0
+q_status_epilepticus_efficacy,Neurology,federated,273,1.00,0
+q_status_epilepticus_efficacy,Neurology,autonomous,24,0.00,0
+q_status_epilepticus_treatment,Neurology,centralized,218,1.00,0
+q_status_epilepticus_treatment,Neurology,federated,306,1.00,0
+q_status_epilepticus_treatment,Neurology,autonomous,24,1.00,0
+q_stroke_efficacy,Neurology,centralized,216,1.00,0
+q_stroke_efficacy,Neurology,federated,288,1.00,0
+q_stroke_efficacy,Neurology,autonomous,20,0.00,0
+q_stroke_treatment,Neurology,centralized,216,1.00,0
+q_stroke_treatment,Neurology,federated,288,1.00,0
+q_stroke_treatment,Neurology,autonomous,20,1.00,0
+q_systemic_lupus_erythematosus_efficacy,Rheumatology,centralized,288,1.00,0
+q_systemic_lupus_erythematosus_efficacy,Rheumatology,federated,314,1.00,0
+q_systemic_lupus_erythematosus_efficacy,Rheumatology,autonomous,26,0.00,0
+q_systemic_lupus_erythematosus_treatment,Rheumatology,centralized,288,1.00,0
+q_systemic_lupus_erythematosus_treatment,Rheumatology,federated,354,1.00,0
+q_systemic_lupus_erythematosus_treatment,Rheumatology,autonomous,26,1.00,0
+q_trigeminal_neuralgia_efficacy,Neurology,centralized,245,1.00,0
+q_trigeminal_neuralgia_efficacy,Neurology,federated,305,1.00,0
+q_trigeminal_neuralgia_efficacy,Neurology,autonomous,24,0.00,0
+q_tuberculosis_efficacy,Infectious Disease,centralized,176,1.00,0
+q_tuberculosis_efficacy,Infectious Disease,federated,298,1.00,0
+q_tuberculosis_efficacy,Infectious Disease,autonomous,24,0.00,0
+q_tuberculosis_treatment,Infectious Disease,centralized,176,1.00,0
+q_tuberculosis_treatment,Infectious Disease,federated,301,1.00,0
+q_tuberculosis_treatment,Infectious Disease,autonomous,24,1.00,0
+q_type_1_diabetes_mellitus_efficacy,Endocrinology,centralized,193,1.00,0
+q_type_1_diabetes_mellitus_efficacy,Endocrinology,federated,297,1.00,0
+q_type_1_diabetes_mellitus_efficacy,Endocrinology,autonomous,27,0.00,0
+q_type_1_diabetes_mellitus_treatment,Endocrinology,centralized,193,1.00,0
+q_type_1_diabetes_mellitus_treatment,Endocrinology,federated,278,1.00,0
+q_type_1_diabetes_mellitus_treatment,Endocrinology,autonomous,27,1.00,0
+q_ulcerative_colitis_efficacy,Gastroenterology,centralized,239,1.00,0
+q_ulcerative_colitis_efficacy,Gastroenterology,federated,306,1.00,0
+q_ulcerative_colitis_efficacy,Gastroenterology,autonomous,25,0.00,0
+q_ulcerative_colitis_treatment,Gastroenterology,centralized,239,1.00,0
+q_ulcerative_colitis_treatment,Gastroenterology,federated,332,1.00,0
+q_ulcerative_colitis_treatment,Gastroenterology,autonomous,25,1.00,0
+q_urinary_tract_infection_efficacy,Infectious Disease,centralized,201,1.00,0
+q_urinary_tract_infection_efficacy,Infectious Disease,federated,319,1.00,0
+q_urinary_tract_infection_efficacy,Infectious Disease,autonomous,27,0.00,0

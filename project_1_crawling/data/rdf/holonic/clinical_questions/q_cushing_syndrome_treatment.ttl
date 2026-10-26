@@ -1,0 +1,38 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_cushing_syndrome_treatment a holon:EntityEntry ;
+    holon:entity oed:cushing_syndrome ;
+    holon:entryMode "topic-match" .
+
+oeq:q_cushing_syndrome_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Cushing Syndrome?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.33 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_cushing_syndrome_treatment-bnd ;
+    holon:hasContextGraph oeq:q_cushing_syndrome_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_cushing_syndrome_treatment-int ;
+    holon:hasProjectionGraph oeq:q_cushing_syndrome_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Cushing Syndrome."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_cushing_syndrome_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.53 ;
+    oe:aboutDisease oed:cushing_syndrome ;
+    oe:answerText "The objective is to formulate clinical practice guidelines for treating Cushing's syndrome. Participants include an Endocrine Society-appointed Task Force of experts, a methodologist, and a medical writer."^^xsd:string ;
+    oe:belongsToSpecialty "Endocrinology" ;
+    oe:cites oesrc:26222757,
+        oesrc:29094913,
+        oesrc:30340659,
+        oesrc:34253540 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Cushing Syndrome?"^^xsd:string .
+

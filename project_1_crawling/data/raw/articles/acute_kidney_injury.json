@@ -1,0 +1,477 @@
+{
+  "disease": "Acute Kidney Injury",
+  "slug": "acute_kidney_injury",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41159812",
+      "title": "Sodium Bicarbonate for Severe Metabolic Acidemia and Acute Kidney Injury: The BICARICU-2 Randomized Clinical Trial.",
+      "abstract": "The effect of sodium bicarbonate infusion on outcome in patients with severe metabolic acidemia and moderate to severe acute kidney injury is unknown. To determine whether sodium bicarbonate infusion is associated with day 90 all-cause mortality in patients with severe metabolic acidemia and moderate to severe acute kidney injury. Randomized, open-label, clinical trial conducted with 640 patients in 43 French intensive care units from October 6, 2019, to December 19, 2023, with 90-day follow-up. The last date of follow-up was June 17, 2024. Adults with severe metabolic acidemia (defined as pH \u22647.20) and moderate to severe acute kidney injury were enrolled. Patients were randomized 1:1 to receive either intravenous sodium bicarbonate infusion or no sodium bicarbonate to target an arterial pH of 7.30 or higher. The primary outcome was day 90 all-cause mortality. Secondary outcomes included day 28 and day 180 all-cause mortality; use of organ support therapy, vasopressors, or invasive mechanical ventilation; intensive care unit and hospital length of stay; intensive care unit-acquired infections; fluid balance; day-7 Sequential [Sepsis-related] Organ Failure Assessment score (6 organ systems' function is evaluated and scored from 0 [no dysfunction] to 4 [failure]; total score ranges from 0 [normal] to 24 [maximum failure]); and major adverse kidney events on day 90. Among 640 randomly assigned patients, 627 were analyzed (313 in the control group and 314 in the bicarbonate group). The median age was 67 years (IQR, 59-74 years); 194 of 314 patients (62%) in the bicarbonate group and 185 of 313 controls (59%) were male. In the primary analysis, day 90 all-cause mortality was 195 of 314 patients (62.1%) in the bicarbonate group and 193 of 313 (61.7%) in the control group (absolute difference, 0.4; 95% CI, -7.2 to 8.0; P\u2009=\u2009.91). There was no evidence of a group effect on day 28 or day 180 all-cause mortality. Among 18 secondary outcomes, kidney replacement therapy was used in 109 of 314 (35%) bicarbonate group patients and 157 of 313 (50%) controls (absolute difference, -15.5; 95% CI, -23.1 to -7.8). No evidence of a group effect was found on other secondary outcomes, including adverse events. For patients with severe metabolic acidemia and moderate to severe acute kidney injury, intravenous sodium bicarbonate did not affect mortality. ClinicalTrials.gov Identifier: NCT04010630.",
+      "pub_date": "2025-12-09",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Acidosis",
+        "Acute Kidney Injury",
+        "Hydrogen-Ion Concentration",
+        "Infusions, Intravenous",
+        "Intensive Care Units",
+        "Length of Stay",
+        "Renal Replacement Therapy",
+        "Respiration, Artificial",
+        "Severity of Illness Index",
+        "Sodium Bicarbonate"
+      ],
+      "chemicals": [
+        "Sodium Bicarbonate"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Boris Jung",
+        "Mathieu Jabaudon",
+        "Audrey De Jong",
+        "Laurent Bitker",
+        "Jules Audard",
+        "Kada Klouche"
+      ]
+    },
+    {
+      "pmid": "40804518",
+      "title": "Multiple oestradiol functions inhibit ferroptosis and acute kidney injury.",
+      "abstract": "Acute tubular necrosis mediates acute kidney injury (AKI) and nephron loss",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Ferroptosis",
+        "Animals",
+        "Acute Kidney Injury",
+        "Female",
+        "Male",
+        "Mice",
+        "Estradiol",
+        "Estrogen Receptor alpha",
+        "Kidney Tubules",
+        "Humans",
+        "Mice, Inbred C57BL",
+        "Ovariectomy"
+      ],
+      "chemicals": [
+        "Estradiol",
+        "Estrogen Receptor alpha",
+        "Esr1 protein, mouse"
+      ],
+      "journal": "Nature",
+      "authors": [
+        "Wulf Tonnus",
+        "Francesca Maremonti",
+        "Shubhangi Gavali",
+        "Marlena Nastassja Schlecht",
+        "Florian Gembardt",
+        "Alexia Belavgeni"
+      ]
+    },
+    {
+      "pmid": "40434761",
+      "title": "Add-On Treatment With Zilebesiran for Inadequately Controlled Hypertension: The KARDIA-2 Randomized Clinical Trial.",
+      "abstract": "In prior monotherapy studies of patients with hypertension, single subcutaneous doses of zilebesiran, an investigational RNA interference therapeutic, reduced serum angiotensinogen levels and systolic blood pressure (SBP) at 3 and 6 months. To evaluate the efficacy and safety of zilebesiran vs placebo when added to a standard antihypertensive medication. This phase 2, randomized, prospective, double-blinded trial enrolled adults with uncontrolled hypertension from 150 sites across 8 countries between January 2022 and June 2023. The final follow-up date was December 11, 2023, and analyses were conducted on March 1, 2024. Eligible patients were initially randomized in cohorts to receive open-label run-in treatment for at least 4 weeks with indapamide 2.5 mg, amlodipine 5 mg, or olmesartan 40 mg (4:7:10 randomization), each administered once daily. Within cohorts, adherent patients with 24-hour mean ambulatory SBP of 130 mm\u2009Hg to 160 mm\u2009Hg were subsequently randomized (1:1) to additional blinded treatment to receive single subcutaneous doses of zilebesiran 600 mg or matching placebo. The primary end point in each cohort was the difference between zilebesiran and placebo in change from baseline in 24-hour mean ambulatory SBP at 3 months. Of 1491 patients entering the run-in phase, 663 (130 receiving indapamide, 240 receiving amlodipine, and 293 receiving olmesartan) were randomized to receive zilebesiran (n = 332) or placebo (n = 331). The least-squares mean difference between zilebesiran and placebo in change from baseline to 3 months in 24-hour mean ambulatory SBP was -12.1 mm\u2009Hg (95% CI, -16.5 to -7.6; P\u2009<\u2009.001) for indapamide, -9.7 mm\u2009Hg (95% CI, -12.9 to -6.6; P\u2009<\u2009.001) for amlodipine, and -4.5 mm\u2009Hg (95% CI, -8.2 to -0.8; P\u2009=\u2009.02) for olmesartan. Across cohorts, more patients who received zilebesiran than placebo experienced hyperkalemia (18 [5.5%] vs 6 [1.8%]), hypotension (14 [4.3%] vs 7 [2.1%]), and acute kidney failure (16 [4.9%] vs 5 [1.5%]) events, but most episodes were mild and resolved without medical intervention. In patients with uncontrolled hypertension despite treatment with indapamide, amlodipine, or olmesartan, the addition of single-dose zilebesiran resulted in significant SBP reductions compared with placebo at 3 months, with low rates of serious adverse events. ClinicalTrials.gov Identifier: NCT05103332.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase II",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Acute Kidney Injury",
+        "Amlodipine",
+        "Antihypertensive Agents",
+        "Blood Pressure",
+        "Blood Pressure Determination",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Drugs, Investigational",
+        "Hyperkalemia",
+        "Hypertension",
+        "Hypotension",
+        "Indapamide",
+        "Prospective Studies",
+        "Treatment Outcome",
+        "Imidazoles",
+        "Tetrazoles"
+      ],
+      "chemicals": [
+        "Amlodipine",
+        "Antihypertensive Agents",
+        "Drugs, Investigational",
+        "Indapamide",
+        "olmesartan",
+        "Imidazoles",
+        "Tetrazoles"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Akshay S Desai",
+        "Adam D Karns",
+        "Jolita Badariene",
+        "Ahmad Aswad",
+        "Joel M Neutel",
+        "Farhana Kazi"
+      ]
+    },
+    {
+      "pmid": "41076588",
+      "title": "Individualized Perioperative Blood Pressure Management in Patients Undergoing Major Abdominal Surgery: The IMPROVE-multi Randomized Clinical Trial.",
+      "abstract": "Intraoperative hypotension is associated with organ injury. However, it remains unknown if targeted blood pressure management during surgery can improve clinical outcomes. To evaluate whether individualized vs routine perioperative blood pressure management during major abdominal surgery improves clinical outcomes in patients considered at high risk of postoperative complications. This randomized single-blind clinical trial enrolled patients 45 years or older undergoing elective major abdominal surgery with general anesthesia expected to last 90 minutes or longer who had at least 1 additional high-risk criterion between February 26, 2023, and April 25, 2024, at 15 German university hospitals. The date of last follow-up was July 25, 2024. Patients were randomized in a 1:1 ratio to individualized perioperative blood pressure management (with mean arterial pressure [MAP] targets based on preoperative mean nighttime MAP assessed using automated blood pressure monitoring) or routine blood pressure management with a MAP target of 65 mm Hg or higher. The primary outcome was the incidence of a composite outcome of acute kidney injury, acute myocardial injury, nonfatal cardiac arrest, or death within the first 7 postoperative days. There were 22 secondary outcomes, including infectious complications within the first 7 postoperative days and a composite outcome of need for kidney replacement therapy, myocardial infarction, nonfatal cardiac arrest, or death within 90 days after surgery. Of the 1272 patients enrolled, 1142 were randomized (571 patients to each group), and 1134 were included in the primary analysis (median age, 66 years [IQR, 59-73 years]; 34.1% female). The primary outcome occurred in 190 of 567 patients (33.5%) assigned to individualized blood pressure management and 173 of 567 patients (30.5%) assigned to routine blood pressure management (relative risk, 1.10 [95% CI, 0.93-1.30]; P\u2009=\u2009.31). None of the 22 secondary outcomes were significantly different, including infectious complications within the first 7 postoperative days (90/567 [15.9%] vs 97/567 [17.1%]; P\u2009=\u2009.63) and a composite outcome of need for kidney replacement therapy, myocardial infarction, nonfatal cardiac arrest, or death within 90 days after surgery (32/566 [5.7%] vs 20/567 [3.5%]; P\u2009=\u2009.12). Among patients at high risk of postoperative complications undergoing major abdominal surgery, individualized perioperative blood pressure management with MAP targets based on preoperative mean nighttime MAP did not decrease the composite outcome of acute kidney injury, acute myocardial injury, nonfatal cardiac arrest, or death within the first 7 postoperative days compared with routine blood pressure management with a MAP target of 65 mm Hg or higher. ClinicalTrials.gov Identifier: NCT05416944.",
+      "pub_date": "2025-12-02",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Abdomen",
+        "Acute Kidney Injury",
+        "Antihypertensive Agents",
+        "Blood Pressure",
+        "Blood Pressure Determination",
+        "Elective Surgical Procedures",
+        "Heart Arrest",
+        "Hospital Mortality",
+        "Hypotension",
+        "Incidence",
+        "Intraoperative Complications",
+        "Monitoring, Intraoperative",
+        "Perioperative Care",
+        "Postoperative Complications",
+        "Single-Blind Method"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Bernd Saugel",
+        "Agnes S Meidert",
+        "Frank M Brunkhorst",
+        "Robert Bischoff",
+        "Joseph Esser",
+        "Minca Mattis"
+      ]
+    },
+    {
+      "pmid": "40841985",
+      "title": "Early use of albumin may increase the risk of sepsis-associated acute kidney injury in sepsis patients: a target trial emulation.",
+      "abstract": "Most sepsis patients develop sepsis-associated acute kidney injury (SA-AKI), which poses a significant threat to survival and lacks specific treatment. To date, there are no published randomized controlled trials that have established a link between albumin use and SA-AKI development in sepsis. Therefore, it is unclear whether albumin use may influence the risk of SA-AKI. The present study employed a target trial emulation using observational data to track adult sepsis patients initially admitted to the intensive care unit at Beth Israel Deaconess Medical Center, Boston, Massachusetts, for a period of 7 d from 2008 to 2022. Immortal time bias was controlled using the clone-censor-weight (CCW) method, along with a new-user design to address current user bias. The exposure variable was the early administration of albumin following the onset of sepsis. Based on albumin use, patients were classified into two groups: the albumin group (n\u2009=\u200927,088) and the no albumin group (n\u2009=\u200927,088). The primary outcome was the development of SA-AKI, and the secondary outcome was 7-day all-cause mortality. The primary outcome was analyzed using competing risk analyses. Furthermore, sensitivity and subgroup analyses were also performed. Among the 27,088 patients analyzed, albumin administration was associated with a significantly higher SA-AKI risk (relative difference\u2009=\u20093.47%, 95% CI 1.76-5.23) compared to non-administration. There was no clinically meaningful difference in 7-day survival (relative difference\u2009=\u20090.05%, 95% CI -2.30 to 2.45). Sensitivity analyses consistently supported these results. All these analyses were conducted on data that were collected after CCW. Early albumin administration may increase the risk of SA-AKI in sepsis patients without conferring a short-term survival benefit. These results underscore the need for a rigorous risk-benefit assessment when incorporating albumin into sepsis resuscitation protocols and highlight the need for further clinical validation. However, it is important to exercise caution when interpreting the conclusions of this study, given its exploratory and preliminary nature.",
+      "pub_date": "2025-08-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Sepsis",
+        "Male",
+        "Acute Kidney Injury",
+        "Middle Aged",
+        "Female",
+        "Aged",
+        "Albumins",
+        "Adult",
+        "Intensive Care Units",
+        "Risk Factors",
+        "Boston"
+      ],
+      "chemicals": [
+        "Albumins"
+      ],
+      "journal": "Military Medical Research",
+      "authors": [
+        "Xin-Ya Li",
+        "Wei-Sheng Chen",
+        "Zhong-Kai Qu",
+        "Jian-Guang Chen",
+        "Li Li",
+        "Shu-Na Li"
+      ]
+    },
+    {
+      "pmid": "40315322",
+      "title": "A rationally designed injury kidney targeting peptide library and its application in rescuing acute kidney injury.",
+      "abstract": "Acute kidney injury (AKI) has high incidence and mortality rates. Present treatments are mostly symptomatic and cause side effects due to systemic distribution; thus, targeted kidney drug delivery is desired. Transmembrane kidney injury molecule-1 (KIM1) is expressed at low levels in normal kidneys but markedly up-regulated following injury, making it an ideal marker/target for injured kidneys. Here, assisted by AlphaFold, we constructed a library of 1885 peptides that target the extracellular Ig V domain of KIM1 based on interacting fragments from 47 potential KIM1 binding proteins followed by systemic optimization according to their binding energies with KIM1. Experimental validation of top candidates (TKP 1-5) demonstrated that TKP 4 efficiently targeted injured renal cells/kidneys, with its specificity demonstrated in KIM1 knockout cells/mice. TKP 4-decorating liposomes were loaded with nystatin, a renal-protective compound with systemic side effects, and efficiently targeted injured mouse kidneys and alleviated AKI. This work establishes a virtual platform to screen/identify drug delivery candidates with broad research/therapeutic potentials.",
+      "pub_date": "2025-05-02",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Acute Kidney Injury",
+        "Animals",
+        "Peptide Library",
+        "Hepatitis A Virus Cellular Receptor 1",
+        "Mice",
+        "Humans",
+        "Mice, Knockout",
+        "Drug Delivery Systems",
+        "Liposomes",
+        "Disease Models, Animal",
+        "Kidney",
+        "Peptides",
+        "Protein Binding"
+      ],
+      "chemicals": [
+        "Peptide Library",
+        "Hepatitis A Virus Cellular Receptor 1",
+        "Liposomes",
+        "Peptides",
+        "Havcr1 protein, mouse"
+      ],
+      "journal": "Science advances",
+      "authors": [
+        "Yushuo Xiao",
+        "Zhijian Tong",
+        "Huidie Xu",
+        "Zhouyan Jia",
+        "Chen Wang",
+        "Yang Cao"
+      ]
+    },
+    {
+      "pmid": "41194349",
+      "title": "Mitochondria Rewiring by Polyphenol-Copper Nanodots to Truncate Mitochondrial-Endoplasmic Reticulum Crosstalk for Acute Kidney Injury Therapy.",
+      "abstract": "Aberrant mitochondria-endoplasmic reticulum (ER) interactions at mitochondria-associated membranes (MAMs) drive renal tubular cell injury in acute kidney injury (AKI), exacerbating oxidative stress, calcium dysregulation, and homeostasis disruption. However, targeted intervention remains challenging. To address this challenge, this study employs gallic acid-modified polyphenol-copper nanodots (GA-Cu) to target tubular mitochondria and ameliorate AKI by rewiring organelle communication. Following systemic administration, the ultrasmall GA-Cu nanodots readily traverse the renal filtration barrier and are internalized by tubular cells. Their surface polyphenol composition enables precise enrichment around mitochondria, where they not only scavenge reactive oxygen species but also disrupt the core MAM tethering complex-the IP3R-GRP75-VDAC1 axis. In vitro and in vivo studies demonstrate that GA-Cu remodels mitochondria-ER interfaces, significantly suppressing pathological MAM formation. This intervention attenuates ER-to-mitochondria calcium transfer and restores mitochondrial function, resulting in remarkable renal protection. Hence, this refined cellular regulation is expected to offer substantial prospects for activating new subcellular compartment-specific homeostatic effects.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Copper",
+        "Mitochondria",
+        "Animals",
+        "Acute Kidney Injury",
+        "Endoplasmic Reticulum",
+        "Polyphenols",
+        "Mice",
+        "Humans",
+        "Reactive Oxygen Species",
+        "Calcium",
+        "Male",
+        "Gallic Acid",
+        "Mice, Inbred C57BL",
+        "Oxidative Stress",
+        "Metal Nanoparticles"
+      ],
+      "chemicals": [
+        "Copper",
+        "Polyphenols",
+        "Reactive Oxygen Species",
+        "Calcium",
+        "Gallic Acid"
+      ],
+      "journal": "Advanced materials (Deerfield Beach, Fla.)",
+      "authors": [
+        "Jiaojiao Zhang",
+        "Jingyi Li",
+        "Xue Jiang",
+        "Qirui Wang",
+        "Kaidi Zhang",
+        "Hao Huang"
+      ]
+    },
+    {
+      "pmid": "40596915",
+      "title": "Anti-inflammatory and renoprotective effects of difelikefalin, a kappa opioid receptor agonist, in a rat model of renal ischemia-reperfusion-induced acute kidney injury.",
+      "abstract": "This study evaluated the effects of difelikefalin, a kappa opioid receptor (KOR) agonist, on the inflammatory response and renal dysfunction in a rat model of acute kidney injury induced by renal ischemia-reperfusion injury, comparing it with other KOR agonists. One week after right nephrectomy, rats received one of three drugs (difelikefalin, nalfurafine hydrochloride, or U-50488H). Thirty minutes later, ischemia was induced in the left kidney by clamping its artery and vein for 45\u00a0min. Rats were then transferred to metabolic cages for 24-h urine collection, and blood was taken at the 24-h time point. Renal function (blood urea nitrogen [BUN], serum creatinine [SCr], and creatinine clearance [CCr]) and 23 serum cytokines were assessed, along with histopathological evaluation of renal tubular damage. Compared with the sham group, the vehicle group showed increased BUN and SCr levels, reduced CCr, and renal tubular damage. Difelikefalin improved BUN, SCr, and CCr levels and mitigated renal tubular damage. Similar effects were observed with nalfurafine hydrochloride and U-50488H. Thirteen serum cytokines were elevated in the vehicle group. Difelikefalin suppressed all elevated cytokines, U-50488H showed moderate efficacy, and nalfurafine hydrochloride exhibited little inhibitory effect. These findings indicate that difelikefalin has anti-inflammatory and renoprotective effects in a rat acute kidney injury model, with varying anti-inflammatory efficacy among KOR agonists.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Reperfusion Injury",
+        "Receptors, Opioid, kappa",
+        "Acute Kidney Injury",
+        "Rats",
+        "Male",
+        "Disease Models, Animal",
+        "Rats, Sprague-Dawley",
+        "Anti-Inflammatory Agents",
+        "Kidney",
+        "3,4-Dichloro-N-methyl-N-(2-(1-pyrrolidinyl)-cyclohexyl)-benzeneacetamide, (trans)-Isomer",
+        "Morphinans",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Receptors, Opioid, kappa",
+        "Anti-Inflammatory Agents",
+        "3,4-Dichloro-N-methyl-N-(2-(1-pyrrolidinyl)-cyclohexyl)-benzeneacetamide, (trans)-Isomer",
+        "Morphinans"
+      ],
+      "journal": "BMC nephrology",
+      "authors": [
+        "Hiroto Takeuchi",
+        "Satoshi Tatemichi",
+        "Yuji Okuhara"
+      ]
+    },
+    {
+      "pmid": "40305034",
+      "title": "Postoperative Outcomes Among Sodium-Glucose Cotransporter 2 Inhibitor Users.",
+      "abstract": "Case reports and small retrospective studies have suggested that there is an increased risk of postoperative euglycemic ketoacidosis (eKA) and acute kidney injury (AKI) among patients using sodium-glucose cotransporter 2 inhibitors (SGLT2i) preoperatively. However, there has not been a representative assessment of the risks of these agents among patients undergoing surgery. To evaluate the risk of postoperative eKA, AKI, and mortality within 30 days after surgery among preoperative long-term SGLT2i users compared with nonusers. This is a multicenter, propensity-matched, retrospective case-control study from the Veterans Affairs Health Care System (VAHCS) National Registry performed from January 1, 2014, to December 31, 2022. Adult patients using SGLT2i preoperatively who underwent inpatient surgical procedures were compared with a 1:5 matched control group using propensity score matching, including the patient's demographic characteristics, comorbidities, and surgical characteristics. Data analysis was performed from June 2023 to August 2024. Long-term use of SGLT2i, defined as having more than 3 fills of outpatient prescription or less than a 180-day gap of the last fill according to the VAHCS pharmacy registries. The primary outcome was the rate of postoperative eKA among SGLT2i users vs control patients. Secondary outcomes included postoperative AKI and 30-day mortality after surgery. Among 462\u202f968 patients undergoing surgery, 7448 SGLT2i users (mean [SD] age, 67.7 [8.1] years; 7204 [96.7%] male) and 455\u202f520 nonusers (mean [SD] age, 65.8 [11.0] years; 424\u202f785 [93.3%] male) were identified. After propensity score matching, 7439 patients were identified as SGLT2i users and compared with 33\u202f489 control patients. SGLT2i use was associated with an increased risk of eKA (odds ratio [OR], 1.11; 95% CI, 1.05-1.17) but reduced risks of perioperative AKI (OR, 0.69; 95% CI, 0.62-0.78) and 30-day mortality (OR, 0.70; 95% CI, 0.55-0.88). The mortality rate 30 days after surgery was 1.1% among SGLT2i users vs 1.6% among control patients. The median hospital length of stay among the patients presenting with eKA increased by 3 days (median [IQR], 6 [3-10] days for those with eKA vs 3 [2-6] days for those without eKA). Patients treated with SGLT2i had a small but significantly higher risk of postoperative eKA but lower risks of postoperative AKI and 30-day mortality.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Acute Kidney Injury",
+        "Case-Control Studies",
+        "Diabetes Mellitus, Type 2",
+        "Postoperative Complications",
+        "Propensity Score",
+        "Registries",
+        "Retrospective Studies",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Surgical Procedures, Operative",
+        "United States"
+      ],
+      "chemicals": [
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "journal": "JAMA surgery",
+      "authors": [
+        "Roberta Teixeira Tallarico",
+        "Bocheng Jing",
+        "Kaiwei Lu",
+        "Shweta Amy Chawla",
+        "Yanting Luo",
+        "Anusha Badathala"
+      ]
+    },
+    {
+      "pmid": "40344718",
+      "title": "Targeting Stat3 with conditional knockout or PROTAC technology alleviates renal injury by Limiting pyroptosis.",
+      "abstract": "Acute kidney injury (AKI) is a critical clinical syndrome with high morbidity, mortality, and no effective treatment in clinical practice. The role of the Signal Transducer and Activator of Transcription 3 (Stat3) in AKI remains controversial, and its complex regulatory mechanisms must be further explored. We generated renal tubular epithelial cells Stat3 conditional knockout (cKO) mice and used them in cecal ligation and puncture (CLP) and ischaemia-reperfusion (I/R) induced AKI models. Additionally, proteolysis-targeting chimaera (PROTAC) compound E034 was designed and synthesised. We also utilised human kidney tissues, mouse renal tubular epithelial cells (mTECs) and HK-2 cells for further studies, including immunohistochemistry, Western blot analysis, Real-time PCR, chromatin immunoprecipitation (ChIP) and RNA sequencing, scanning electron microscopy (SEM) and Co-Immunoprecipitation (Co-IP) assay. An upregulation of total Stat3 protein was observed in AKI mouse models, which correlated with patient biopsy results. This increase may be attributed to histone H3K27 acetylation. Stat3 knockout in renal tubular epithelial cells significantly reduced AKI injury and inflammation in mice. Mechanistically, Stat3 induces the transcription of tripartite motif-containing protein 21 (Trim21), triggering a cascade that activates gasdermin D (Gsdmd), resulting in pyroptosis. Administration of E034, which selectively targets Stat3 for ubiquitination and degradation, significantly alleviated renal injury in a low-dose, single-dose regimen. In the context of renal injury, PROTAC emerges as a promising modality by explicitly targeting the Stat3/Trim21/Gsdmd axis, which our study has identified as a potential therapeutic target, potentially endowing clinically significant therapeutic strategies. This work was supported by the National Key R&D Program (2022YFC2502503), the National Natural Science Foundation of China (No. 82270738), the National Natural Science Foundation of China (No. 82400806) and the Graduate Research and Practice Innovation Project of Anhui Medical University (YJS20230059).",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "STAT3 Transcription Factor",
+        "Animals",
+        "Pyroptosis",
+        "Acute Kidney Injury",
+        "Mice",
+        "Humans",
+        "Disease Models, Animal",
+        "Mice, Knockout",
+        "Epithelial Cells",
+        "Cell Line",
+        "Male",
+        "Proteolysis"
+      ],
+      "chemicals": [
+        "STAT3 Transcription Factor",
+        "Stat3 protein, mouse"
+      ],
+      "journal": "EBioMedicine",
+      "authors": [
+        "Ming-Lu Ji",
+        "Jia-Nan Wang",
+        "Ming-Fei Wu",
+        "Chuan-Hui Xu",
+        "Meng-Meng Zhang",
+        "Wen-Bao Chang"
+      ]
+    },
+    {
+      "pmid": "40788370",
+      "title": "Adenosine receptors and acute kidney injury: perspectives for future therapy.",
+      "abstract": "Adenosine is a key modulator in the pathophysiology of acute kidney injury (AKI), particularly through its influence on inflammatory pathways and renal hemodynamics. This nucleoside exerts its effects via four G protein-coupled receptors-A1, A2A, A2B, and A3-each displaying distinct roles during renal injury. The A1 receptor primarily protects renal tissue under ischemic conditions by reducing metabolic demand, while the A2A receptor promotes anti-inflammatory and vasodilatory effects, improving renal perfusion and attenuating leukocyte infiltration. The A2B receptor, upregulated under hypoxic or injury conditions, is involved in anti-inflammatory actions and vascular integrity, especially in renal tubular and endothelial cells. Conversely, activation of the A3 receptor is generally linked to adverse outcomes, including increased apoptosis and greater tissue damage. Therapeutic strategies targeting adenosine receptors are being actively explored: selective A1 and A2A agonists show potential for promoting renal recovery, while A3 antagonists helped counteract the harmful effects of A3 activation. The review also discusses advances from recent studies (2022-2024), including insights on COVID-19-associated AKI and the nuanced roles of A1 and A3 receptors in different pathological contexts. Additionally, the therapeutic promise of inhibiting adenosine-degrading enzymes, such as ADA and adenosine kinase (ADK), is highlighted. Novel mechanistic insights and recent literature are integrated, providing a comprehensive overview that expands upon previous reviews. Although adenosine receptor modulation holds significant promise as a therapeutic strategy for AKI, further clinical research is necessary to validate efficacy and safety in human populations.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Acute Kidney Injury",
+        "Receptors, Purinergic P1",
+        "Animals",
+        "Adenosine",
+        "COVID-19"
+      ],
+      "chemicals": [
+        "Receptors, Purinergic P1",
+        "Adenosine"
+      ],
+      "journal": "Purinergic signalling",
+      "authors": [
+        "Isabela Berton Wissmann",
+        "Renata Cristina Daniel Coelho",
+        "Lilian Baseggio",
+        "Andreia Machado Cardoso"
+      ]
+    },
+    {
+      "pmid": "41134727",
+      "title": "High-Dose Methotrexate Nephrotoxicity.",
+      "abstract": "Methotrexate (MTX) is an antimetabolite anticancer agent that has been used at doses ranging from 20 mg/m2 of body surface area to 33,000 mg/m2. High-dose methotrexate (HDMTX), defined as doses higher than 500 mg/m2, is used to treat acute lymphoblastic leukemia, non-Hodgkin lymphoma, osteosarcoma, brain cancers, leptomeningeal spread of carcinomas, and other cancers. Depending on the dose and other factors, acute kidney injury occurs in 2%-39% of HDMTX courses and severe (Acute Kidney Injury Network grade 2 or higher) nephrotoxicity in approximately 2%, though incidence varies widely. Prompt recognition and treatment of delayed MTX elimination and renal dysfunction which includes increased hydration, high-dose leucovorin, and sometimes glucarpidase, is crucial to prevent life-threatening toxicities such as myelosuppression, mucositis, renal failure, and dermatitis. In this article, we emphasize the importance of MTX pharmacokinetics and pharmacodynamics, highlight the cellular mechanisms of MTX anticancer activity, review the pathophysiology of MTX-induced renal injury, and explore strategies to prevent and manage MTX nephrotoxicity. Prompt recognition and effective treatment of renal and non-renal toxicities of HDMTX can improve outcomes, cancer prognosis, and survival.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Methotrexate",
+        "Acute Kidney Injury",
+        "Antimetabolites, Antineoplastic",
+        "Leucovorin",
+        "Dose-Response Relationship, Drug",
+        "Neoplasms",
+        "gamma-Glutamyl Hydrolase",
+        "Recombinant Proteins"
+      ],
+      "chemicals": [
+        "Methotrexate",
+        "Antimetabolites, Antineoplastic",
+        "Leucovorin",
+        "glucarpidase",
+        "gamma-Glutamyl Hydrolase",
+        "Recombinant Proteins"
+      ],
+      "journal": "American journal of nephrology",
+      "authors": [
+        "Jaya Kala",
+        "Scott C Howard"
+      ]
+    }
+  ]
+}

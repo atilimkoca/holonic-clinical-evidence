@@ -1,0 +1,2102 @@
+[
+  {
+    "holon_id": "q_acute_kidney_injury_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_acute_kidney_injury_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Acute Kidney Injury?",
+    "gold_answer": "The effect of sodium bicarbonate infusion on outcome in patients with severe metabolic acidemia and moderate to severe acute kidney injury is unknown. To determine whether sodium bicarbonate infusion is associated with day 90 all-cause mortality in patients with severe metabolic acidemia and moderate to severe acute kidney injury.",
+    "specialty": "Nephrology",
+    "disease": "https://example.org/openevidence/diseases/acute_kidney_injury",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/furosemide",
+        "o": "https://example.org/openevidence/diseases/acute_kidney_injury",
+        "confidence": 0.92,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41159812",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41159812"
+    ]
+  },
+  {
+    "holon_id": "q_addison_disease_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_addison_disease_efficacy",
+    "question": "How effective is prednisone compared with other agents for Addison Disease?",
+    "gold_answer": "Just Anorexia?.",
+    "specialty": "Endocrinology",
+    "disease": "https://example.org/openevidence/diseases/addison_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/addison_disease",
+        "confidence": 0.38,
+        "level": "Level-4",
+        "source": "https://example.org/openevidence/sources/36102024",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "36102024"
+    ]
+  },
+  {
+    "holon_id": "q_alzheimer_disease_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_alzheimer_disease_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Alzheimer Disease?",
+    "gold_answer": "Alzheimer's disease (AD) is traditionally considered irreversible. Here, however, we provide proof of principle for therapeutic reversibility of advanced AD.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/alzheimer_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/donepezil",
+        "o": "https://example.org/openevidence/diseases/alzheimer_disease",
+        "confidence": 0.53,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41435831",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41435831"
+    ]
+  },
+  {
+    "holon_id": "q_angina_pectoris_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_angina_pectoris_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Angina Pectoris?",
+    "gold_answer": "Experimental and clinical evidence supports the role of inflammation in atherosclerosis and its complications. Colchicine is an orally administered, potent antiinflammatory medication that is indicated for the treatment of gout and pericarditis.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/angina_pectoris",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/metoprolol",
+        "o": "https://example.org/openevidence/diseases/angina_pectoris",
+        "confidence": 0.93,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/31733140",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "31733140"
+    ]
+  },
+  {
+    "holon_id": "q_ankylosing_spondylitis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_ankylosing_spondylitis_efficacy",
+    "question": "How effective is adalimumab compared with other agents for Ankylosing Spondylitis?",
+    "gold_answer": "To evaluate the efficacy and safety of upadacitinib, a Janus kinase inhibitor, in patients with active ankylosing spondylitis (AS) with an inadequate response (IR) to biological disease-modifying antirheumatic drugs (bDMARDs). Adults with active AS who met modified New York criteria and had an IR to one or two bDMARDs (tumour necrosis factor or interleukin-17 inhibitors) were randomised 1:1 to oral upadacitinib 15 mg once daily or placebo.",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/ankylosing_spondylitis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/adalimumab",
+        "o": "https://example.org/openevidence/diseases/ankylosing_spondylitis",
+        "confidence": 0.91,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/35788492",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "35788492"
+    ]
+  },
+  {
+    "holon_id": "q_ankylosing_spondylitis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_ankylosing_spondylitis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Ankylosing Spondylitis?",
+    "gold_answer": "Modern pharmacological research found that the chemical components of Pubmed, Cochran Library, CNKI, and other databases were searched to collect the randomized controlled trials (RCTs). Then, the risk of bias of RCTs were assessed and data of RCTs were extracted.",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/ankylosing_spondylitis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/adalimumab",
+        "o": "https://example.org/openevidence/diseases/ankylosing_spondylitis",
+        "confidence": 0.94,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/35935936",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "35935936"
+    ]
+  },
+  {
+    "holon_id": "q_aortic_stenosis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_aortic_stenosis_efficacy",
+    "question": "How effective is furosemide compared with other agents for Aortic Stenosis?",
+    "gold_answer": "Feline hypertrophic cardiomyopathy (HCM) remains a disease with little therapeutic advancement. Rapamycin modulates the mTOR pathway, preventing and reversing cardiac hypertrophy in rodent disease models.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/aortic_stenosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/furosemide",
+        "o": "https://example.org/openevidence/diseases/aortic_stenosis",
+        "confidence": 0.56,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/37495229",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "37495229"
+    ]
+  },
+  {
+    "holon_id": "q_asthma_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_asthma_efficacy",
+    "question": "How effective is salbutamol compared with other agents for Asthma?",
+    "gold_answer": "Severe asthma affects 5% to 10% of patients with asthma but constitutes close to one-half of the medical costs related to asthma due to higher morbidity and health care utilization. Biologic agents have become a standard of care in those unresponsive to standard treatments yet the choice of biologic agent is complex due to the varying mechanisms of action, efficacies, and lack of head-to-head comparisons.",
+    "specialty": "Pulmonology",
+    "disease": "https://example.org/openevidence/diseases/asthma",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/salbutamol",
+        "o": "https://example.org/openevidence/diseases/asthma",
+        "confidence": 0.93,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/41005695",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41005695"
+    ]
+  },
+  {
+    "holon_id": "q_asthma_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_asthma_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Asthma?",
+    "gold_answer": "Chronic rhinosinusitis with nasal polyps (CRSwNP) is predominantly driven by type 2 inflammation. The biologics dupilumab and omalizumab, which target drivers and mediators of type 2 inflammation (interleukin [IL]-4/IL-13 signaling and immunoglobulin E [IgE], respectively), are efficacious in treating CRSwNP but direct comparisons are few.",
+    "specialty": "Pulmonology",
+    "disease": "https://example.org/openevidence/diseases/asthma",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/salbutamol",
+        "o": "https://example.org/openevidence/diseases/asthma",
+        "confidence": 0.88,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41033334",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41033334"
+    ]
+  },
+  {
+    "holon_id": "q_atrial_fibrillation_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_atrial_fibrillation_efficacy",
+    "question": "How effective is apixaban compared with other agents for Atrial Fibrillation?",
+    "gold_answer": "The optimal timing of oral anticoagulation for prevention of early ischaemic stroke recurrence in people with acute ischaemic stroke and atrial fibrillation remains uncertain. We aimed to estimate the effects of starting a direct oral anticoagulant (DOAC) early (\u22644 days) versus later (\u22655 days) after onset of ischaemic stroke.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/atrial_fibrillation",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/apixaban",
+        "o": "https://example.org/openevidence/diseases/atrial_fibrillation",
+        "confidence": 0.92,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/40570866",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40570866"
+    ]
+  },
+  {
+    "holon_id": "q_atrial_fibrillation_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_atrial_fibrillation_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Atrial Fibrillation?",
+    "gold_answer": "Catheter-based closure of the left atrial appendage is an alternative to oral anticoagulation for stroke prevention in patients with atrial fibrillation. The effectiveness of this strategy, as compared with physician-directed best medical care, in patients at high risk for stroke and bleeding is unknown.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/atrial_fibrillation",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/apixaban",
+        "o": "https://example.org/openevidence/diseases/atrial_fibrillation",
+        "confidence": 0.91,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41849741",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41849741"
+    ]
+  },
+  {
+    "holon_id": "q_bipolar_disorder_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_bipolar_disorder_efficacy",
+    "question": "How effective is lithium compared with other agents for Bipolar Disorder?",
+    "gold_answer": "Bipolar disorder (BD), characterized by extreme mood shifts between mania and depression, can manifest in childhood, and pose treatment challenges. Treatment for full-criteria BD I or II in children has been partially described in the literature, but major uncertainties exist regarding non-classic presentations, which were originally designated as bipolar \"not otherwise specified\" (BP-NOS) in DSM-IV and in DSM-5 and ICD-11 as either other specified or unspecified BD (S-USBD).",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/bipolar_disorder",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/lithium",
+        "o": "https://example.org/openevidence/diseases/bipolar_disorder",
+        "confidence": 0.97,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/40844121",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40844121"
+    ]
+  },
+  {
+    "holon_id": "q_bipolar_disorder_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_bipolar_disorder_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Bipolar Disorder?",
+    "gold_answer": "Medication management in women with bipolar disorder (BD) in the perinatal period is challenging, given that many patients taper or stop medication during pregnancy, and the postpartum period is an extremely high-risk period for relapse. The objective of this narrative review was to investigate the perinatal efficacy as well as potential adverse effects on the child of common treatments for bipolar disorder.",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/bipolar_disorder",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/lithium",
+        "o": "https://example.org/openevidence/diseases/bipolar_disorder",
+        "confidence": 0.24,
+        "level": "Level-5",
+        "source": "https://example.org/openevidence/sources/40593436",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "40593436"
+    ]
+  },
+  {
+    "holon_id": "q_breast_cancer_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_breast_cancer_efficacy",
+    "question": "How effective is tamoxifen compared with other agents for Breast Cancer?",
+    "gold_answer": "Breast cancer remains a clinical hurdle despite technoclinical advancements, primarily due to drug resistance mechanisms, from overexpression of drug efflux pumps. Modulating drug efflux/influx transporters like ABCG2 and HCP-1 can improve anticancer therapeutic approaches.",
+    "specialty": "Oncology",
+    "disease": "https://example.org/openevidence/diseases/breast_cancer",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/tamoxifen",
+        "o": "https://example.org/openevidence/diseases/breast_cancer",
+        "confidence": 0.57,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/42013020",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "42013020"
+    ]
+  },
+  {
+    "holon_id": "q_breast_cancer_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_breast_cancer_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Breast Cancer?",
+    "gold_answer": "To report updated results of the phase 3 PHILA trial, which evaluated the efficacy and safety of pyrotinib or placebo in combination with trastuzumab and docetaxel in patients with untreated human epidermal growth factor receptor 2 (HER2) positive metastatic breast cancer. Multicentre, double blind, randomised, placebo controlled phase 3 trial.",
+    "specialty": "Oncology",
+    "disease": "https://example.org/openevidence/diseases/breast_cancer",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/tamoxifen",
+        "o": "https://example.org/openevidence/diseases/breast_cancer",
+        "confidence": 0.9,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41839514",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41839514"
+    ]
+  },
+  {
+    "holon_id": "q_cardiomyopathy_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_cardiomyopathy_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Cardiomyopathy?",
+    "gold_answer": "Mavacamten is approved to treat adults with symptomatic obstructive hypertrophic cardiomyopathy (HCM). However, its effects in nonobstructive HCM remain uncertain.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/cardiomyopathy",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/metoprolol",
+        "o": "https://example.org/openevidence/diseases/cardiomyopathy",
+        "confidence": 0.87,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/40888717",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40888717"
+    ]
+  },
+  {
+    "holon_id": "q_cellulitis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_cellulitis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Cellulitis?",
+    "gold_answer": "Levodopa is the most effective symptomatic therapy for Parkinson's disease, but patients with advanced Parkinson's disease develop motor fluctuations with chronic oral levodopa therapy. Foslevodopa-foscarbidopa is a soluble formulation of levodopa and carbidopa prodrugs that is delivered as a 24-h/day continuous subcutaneous infusion, and we aimed to assess the safety and efficacy of this formulation in patients with advanced Parkinson's disease.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/cellulitis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/amoxicillin",
+        "o": "https://example.org/openevidence/diseases/cellulitis",
+        "confidence": 0.91,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/36402160",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "36402160"
+    ]
+  },
+  {
+    "holon_id": "q_chronic_kidney_disease_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_chronic_kidney_disease_efficacy",
+    "question": "How effective is lisinopril compared with other agents for Chronic Kidney Disease?",
+    "gold_answer": "There is uncertainty about the effects of sodium-glucose cotransporter 2 (SGLT2) inhibitors in participants with chronic kidney disease, with guidelines offering different strengths of recommendation based on diabetes status and urine albumin to creatinine ratio (UACR). To assess the relative and absolute effects of SGLT2 inhibitor use across efficacy and serious safety outcomes in participants stratified by diabetes status and UACR (\u2265200 mg/g or <200 mg/g).",
+    "specialty": "Nephrology",
+    "disease": "https://example.org/openevidence/diseases/chronic_kidney_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/lisinopril",
+        "o": "https://example.org/openevidence/diseases/chronic_kidney_disease",
+        "confidence": 0.98,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/41202026",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41202026"
+    ]
+  },
+  {
+    "holon_id": "q_cirrhosis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_cirrhosis_efficacy",
+    "question": "How effective is furosemide compared with other agents for Cirrhosis?",
+    "gold_answer": "There is uncertainty regarding the hepatic efficacy of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in metabolic dysfunction-associated steatotic liver disease (MASLD) or steatohepatitis (MASH). We performed a meta-analysis of randomised controlled trials (RCTs) to examine the efficacy of GLP-1RAs in treating MASLD or MASH.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/cirrhosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/furosemide",
+        "o": "https://example.org/openevidence/diseases/cirrhosis",
+        "confidence": 0.95,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/40736113",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40736113"
+    ]
+  },
+  {
+    "holon_id": "q_cirrhosis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_cirrhosis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Cirrhosis?",
+    "gold_answer": "Previous studies suggest that anticoagulation may reduce the risk of portal hypertension (PHT)-related complications and improve survival in patients with cirrhosis. This study aimed to evaluate the efficacy and safety of the direct oral anticoagulant rivaroxaban in patients with cirrhosis.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/cirrhosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/furosemide",
+        "o": "https://example.org/openevidence/diseases/cirrhosis",
+        "confidence": 0.9,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/40691992",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40691992"
+    ]
+  },
+  {
+    "holon_id": "q_colorectal_cancer_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_colorectal_cancer_efficacy",
+    "question": "How effective is cisplatin compared with other agents for Colorectal Cancer?",
+    "gold_answer": "The contribution of chemotherapy-induced tissue injury to individual susceptibility to metastasis remains largely unexplored. We report that chemotherapy indirectly prevents colorectal cancer (CRC) liver metastases by inducing a lasting systemic \"chemomemory\".",
+    "specialty": "Oncology",
+    "disease": "https://example.org/openevidence/diseases/colorectal_cancer",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/cisplatin",
+        "o": "https://example.org/openevidence/diseases/colorectal_cancer",
+        "confidence": 0.57,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41397968",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41397968"
+    ]
+  },
+  {
+    "holon_id": "q_colorectal_cancer_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_colorectal_cancer_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Colorectal Cancer?",
+    "gold_answer": "Although peritumoural visceral adipose tissue (tVAT) is anatomically close to tumours such as colorectal cancer, the immune landscape of this tissue and its functional contribution to tumour immunity remain poorly defined. Here, we performed single-cell RNA analysis on the tVAT from patients with colorectal cancer to map its immune landscape and observed that tVAT exhibited a highly immune-infiltrated microenvironment enriched with lymphocytes, especially tumour-specific CD8\u207a T cells.",
+    "specialty": "Oncology",
+    "disease": "https://example.org/openevidence/diseases/colorectal_cancer",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/cisplatin",
+        "o": "https://example.org/openevidence/diseases/colorectal_cancer",
+        "confidence": 0.52,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41714703",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41714703"
+    ]
+  },
+  {
+    "holon_id": "q_community_acquired_pneumonia_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_community_acquired_pneumonia_efficacy",
+    "question": "How effective is amoxicillin compared with other agents for Community-Acquired Pneumonia?",
+    "gold_answer": "Newly released community-acquired pneumonia (CAP) guidelines include a conditional recommendation to treat all hospitalized patients with positive respiratory virus assays with antibacterials. We assessed the frequency, duration, and outcomes of antibacterial prescribing in this population.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/community_acquired_pneumonia",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/amoxicillin",
+        "o": "https://example.org/openevidence/diseases/community_acquired_pneumonia",
+        "confidence": 0.53,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41378862",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41378862"
+    ]
+  },
+  {
+    "holon_id": "q_coronary_artery_disease_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_coronary_artery_disease_efficacy",
+    "question": "How effective is atorvastatin compared with other agents for Coronary Artery Disease?",
+    "gold_answer": "To compare the long term efficacy and safety of rosuvastatin with atorvastatin treatment in adults with coronary artery disease. Randomised, open label, multicentre trial.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/coronary_artery_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/atorvastatin",
+        "o": "https://example.org/openevidence/diseases/coronary_artery_disease",
+        "confidence": 0.89,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/37852649",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "37852649"
+    ]
+  },
+  {
+    "holon_id": "q_coronary_artery_disease_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_coronary_artery_disease_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Coronary Artery Disease?",
+    "gold_answer": "Aspirin monotherapy is recommended indefinitely for patients with established coronary artery disease (CAD). The aim of this individual patient level meta-analysis was to provide a comprehensive evaluation of the comparative efficacy and safety of clopidogrel versus aspirin monotherapy in patients with established CAD, most of whom had undergone percutaneous coronary intervention or had acute coronary syndrome.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/coronary_artery_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/atorvastatin",
+        "o": "https://example.org/openevidence/diseases/coronary_artery_disease",
+        "confidence": 0.95,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/40902613",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40902613"
+    ]
+  },
+  {
+    "holon_id": "q_crohn_disease_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_crohn_disease_efficacy",
+    "question": "How effective is adalimumab compared with other agents for Crohn Disease?",
+    "gold_answer": "Subcutaneous (SC) induction and maintenance with guselkumab was evaluated in adult participants with moderately to severely active Crohn's disease. The Phase 3 double-blind, placebo-controlled, treat-through GRAVITI study randomized 347 participants 1:1:1 to guselkumab 400 mg SC every 4 weeks\u2192100 mg SC every 8 weeks (n = 115), guselkumab 400 mg SC every 4 weeks\u2192200 mg SC every 4 weeks (n = 115), or placebo (n = 117).",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/crohn_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/adalimumab",
+        "o": "https://example.org/openevidence/diseases/crohn_disease",
+        "confidence": 0.93,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/40113101",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40113101"
+    ]
+  },
+  {
+    "holon_id": "q_crohn_disease_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_crohn_disease_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Crohn Disease?",
+    "gold_answer": "Despite the availability of biological therapies, suboptimal disease control remains a problem for patients with Crohn's disease. We report the results of the GALAXI-2 and GALAXI-3 studies, which aimed to assess the efficacy and safety of intravenous induction followed by subcutaneous maintenance therapy with guselkumab over 48 weeks in adults with moderately to severely active Crohn's disease.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/crohn_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/adalimumab",
+        "o": "https://example.org/openevidence/diseases/crohn_disease",
+        "confidence": 0.89,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/40684778",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40684778"
+    ]
+  },
+  {
+    "holon_id": "q_deep_vein_thrombosis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_deep_vein_thrombosis_efficacy",
+    "question": "How effective is apixaban compared with other agents for Deep Vein Thrombosis?",
+    "gold_answer": "In patients with venous thromboembolism at high risk of recurrence for whom extended treatment with direct oral anticoagulants has been indicated, the optimal dose is unknown. We aimed to assess efficacy and safety of reduced-dose versus full-dose direct oral anticoagulants in patients in whom extended anticoagulation has been indicated.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/deep_vein_thrombosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/apixaban",
+        "o": "https://example.org/openevidence/diseases/deep_vein_thrombosis",
+        "confidence": 0.89,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/40023651",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40023651"
+    ]
+  },
+  {
+    "holon_id": "q_deep_vein_thrombosis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_deep_vein_thrombosis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Deep Vein Thrombosis?",
+    "gold_answer": "Apixaban and rivaroxaban are the oral anticoagulants most frequently used to treat acute venous thromboembolism. However, uncertainty remains about the difference in bleeding risk between the two medications.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/deep_vein_thrombosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/apixaban",
+        "o": "https://example.org/openevidence/diseases/deep_vein_thrombosis",
+        "confidence": 0.87,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41812192",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41812192"
+    ]
+  },
+  {
+    "holon_id": "q_diabetic_nephropathy_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_diabetic_nephropathy_efficacy",
+    "question": "How effective is lisinopril compared with other agents for Diabetic Nephropathy?",
+    "gold_answer": "Renal fibrosis-characterized by microcirculatory disturbances and endothelial-mesenchymal transition (EndMT)-is a major pathological feature of chronic kidney disease (CKD) and remains a significant therapeutic challenge. The mechanosensitive ion channel Piezo1 plays a pivotal role in endothelial mechanotransduction and has been implicated in fibrogenesis, yet specific pharmacological interventions targeting Piezo1 are lacking.",
+    "specialty": "Nephrology",
+    "disease": "https://example.org/openevidence/diseases/diabetic_nephropathy",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/lisinopril",
+        "o": "https://example.org/openevidence/diseases/diabetic_nephropathy",
+        "confidence": 0.52,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/40653265",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40653265"
+    ]
+  },
+  {
+    "holon_id": "q_epilepsy_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_epilepsy_efficacy",
+    "question": "How effective is levetiracetam compared with other agents for Epilepsy?",
+    "gold_answer": "To determine the efficacy and safety of clobazam, a benzodiazepine derivative endorsed for adjunctive therapy in drug-resistant epilepsy due to its broad-spectrum efficacy and tolerability profile, as an adjunctive treatment for pediatric patients with drug-resistant epilepsy. This was a multicenter, real-world, self-controlled study.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/epilepsy",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/levetiracetam",
+        "o": "https://example.org/openevidence/diseases/epilepsy",
+        "confidence": 0.58,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41393325",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41393325"
+    ]
+  },
+  {
+    "holon_id": "q_epilepsy_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_epilepsy_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Epilepsy?",
+    "gold_answer": "Epilepsy is a chronic and disabling pathology which begins, in more than 50% of cases, before the age of 10. Patients who are resistant to AEDs suffer from poor quality of life and socio-professional disintegration.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/epilepsy",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/levetiracetam",
+        "o": "https://example.org/openevidence/diseases/epilepsy",
+        "confidence": 0.57,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41712824",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41712824"
+    ]
+  },
+  {
+    "holon_id": "q_gastroesophageal_reflux_disease_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_gastroesophageal_reflux_disease_efficacy",
+    "question": "How effective is omeprazole compared with other agents for Gastroesophageal Reflux Disease?",
+    "gold_answer": "The purpose of this American Gastroenterological Association (AGA) Institute Clinical Practice Update is to review the available evidence and expert advice regarding the clinical management of patients with suspected extraesophageal gastroesophageal reflux disease. This article provides practical advice based on the available published evidence including that identified from recently published reviews from leading investigators in the field, prospective and population studies, clinical trials, and recent clinical guidelines and technical reviews.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/gastroesophageal_reflux_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/omeprazole",
+        "o": "https://example.org/openevidence/diseases/gastroesophageal_reflux_disease",
+        "confidence": 0.58,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/37061897",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "37061897"
+    ]
+  },
+  {
+    "holon_id": "q_gastroesophageal_reflux_disease_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_gastroesophageal_reflux_disease_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Gastroesophageal Reflux Disease?",
+    "gold_answer": "Gastroesophageal reflux disease (GERD) is caused by the reflux of gastric contents into the esophagus due to a decline in esophageal clearance and anti-reflux barrier mechanisms. Mucosal injury is caused by a combination of gastric juice directly damaging the esophageal mucosa and the immune and inflammatory mechanism in which inflammatory cytokines released from the esophageal mucosal epithelium cause neutrophil migration, triggering inflammation.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/gastroesophageal_reflux_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/omeprazole",
+        "o": "https://example.org/openevidence/diseases/gastroesophageal_reflux_disease",
+        "confidence": 0.54,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/36927966",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "36927966"
+    ]
+  },
+  {
+    "holon_id": "q_generalized_anxiety_disorder_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_generalized_anxiety_disorder_efficacy",
+    "question": "How effective is escitalopram compared with other agents for Generalized Anxiety Disorder?",
+    "gold_answer": "Beta-blocker prescriptions for patients with anxiety increased substantially between 2003 and 2018, yet there is no clinical guidance concerning their use. A previous review of propranolol - a beta-blocker - in the treatment of anxiety concluded there was insufficient evidence to support its use.",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/generalized_anxiety_disorder",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/escitalopram",
+        "o": "https://example.org/openevidence/diseases/generalized_anxiety_disorder",
+        "confidence": 0.98,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/39271062",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "39271062"
+    ]
+  },
+  {
+    "holon_id": "q_generalized_anxiety_disorder_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_generalized_anxiety_disorder_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Generalized Anxiety Disorder?",
+    "gold_answer": "Cannabidiol (CBD), as one of the phytocannabinoids, has a wide range of therapeutic properties for various neuropsychiatric disorders due to central nervous system effects. These therapeutic properties demonstrated by preclinical and clinical studies encompass more than just anticonvulsant, anti-arthritic, analgesic, anti-inflammatory, antioxidant, antitumor, antiemetic, antipsychotic and neuroprotective effects.",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/generalized_anxiety_disorder",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/escitalopram",
+        "o": "https://example.org/openevidence/diseases/generalized_anxiety_disorder",
+        "confidence": 0.97,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/38924898",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "38924898"
+    ]
+  },
+  {
+    "holon_id": "q_gout_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_gout_efficacy",
+    "question": "How effective is allopurinol compared with other agents for Gout?",
+    "gold_answer": "In 2018, the Chinese Society of Endocrinology developed the \"Chinese guideline for diagnosis and treatment of hyperuricemia and gout (2019)\". Over the past 5\u2009years, clinical and experimental research has expanded our knowledge of gout, resulting in novel diagnostic and therapeutic approaches.",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/gout",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/allopurinol",
+        "o": "https://example.org/openevidence/diseases/gout",
+        "confidence": 0.56,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/40692263",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40692263"
+    ]
+  },
+  {
+    "holon_id": "q_gout_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_gout_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Gout?",
+    "gold_answer": "Gout is characterized by deposition of monosodium urate (MSU) crystals in or around joints, tendons, bursae, and other tissues, resulting in painful recurrent flares and tissue damage. Gout is the most common form of inflammatory arthritis, with a prevalence of 5.1% in the United States, affecting 12.1 million adults.",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/gout",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/allopurinol",
+        "o": "https://example.org/openevidence/diseases/gout",
+        "confidence": 0.24,
+        "level": "Level-5",
+        "source": "https://example.org/openevidence/sources/40063960",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "40063960"
+    ]
+  },
+  {
+    "holon_id": "q_heart_failure_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_heart_failure_efficacy",
+    "question": "How effective is sacubitril valsartan compared with other agents for Heart Failure?",
+    "gold_answer": "Sodium-glucose cotransporter-2 inhibitors (SGLT2i) and the nonsteroidal mineralocorticoid receptor antagonist (nsMRA) finerenone have each been shown to individually improve heart failure events among patients with heart failure and mildly reduced or preserved ejection fraction (HFmrEF/HFpEF). Moreover, the angiotensin receptor neprilysin inhibitor (ARNI) sacubitril/valsartan has been shown to improve outcomes in patients with HFmrEF/HFpEF with a left ventricular ejection fraction (LVEF) below normal (<60%).",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/heart_failure",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/sacubitril_valsartan",
+        "o": "https://example.org/openevidence/diseases/heart_failure",
+        "confidence": 0.55,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41052644",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41052644"
+    ]
+  },
+  {
+    "holon_id": "q_helicobacter_pylori_infection_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_helicobacter_pylori_infection_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Helicobacter Pylori Infection?",
+    "gold_answer": "Gastric premalignant conditions (GPMC) are common and include atrophic gastritis, gastric intestinal metaplasia, dysplasia, and certain gastric epithelial polyps. GPMC have an increased risk of progression to gastric adenocarcinoma.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/helicobacter_pylori_infection",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/amoxicillin",
+        "o": "https://example.org/openevidence/diseases/helicobacter_pylori_infection",
+        "confidence": 0.55,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/40072510",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40072510"
+    ]
+  },
+  {
+    "holon_id": "q_hepatitis_c_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_hepatitis_c_efficacy",
+    "question": "How effective is tenofovir compared with other agents for Hepatitis C?",
+    "gold_answer": "The year 2023 marked the 10-year anniversary of the launch of direct-acting antivirals (DAAs) for the treatment of hepatitis C virus (HCV). Monitoring HCV treatment trends by country, region, and globally is important to assess progress toward the World Health Organization's 2030 elimination targets.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/hepatitis_c",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/tenofovir",
+        "o": "https://example.org/openevidence/diseases/hepatitis_c",
+        "confidence": 0.56,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/39914746",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "39914746"
+    ]
+  },
+  {
+    "holon_id": "q_hiv_infection_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_hiv_infection_efficacy",
+    "question": "How effective is tenofovir compared with other agents for HIV Infection?",
+    "gold_answer": "Antiretroviral therapy (ART) interruption typically leads to rapid HIV-1 viral rebound in people with HIV-1. To develop an HIV-1 cure, insight into immunological mechanisms capable of preventing HIV-1 viral rebound is urgently needed.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/hiv_infection",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/tenofovir",
+        "o": "https://example.org/openevidence/diseases/hiv_infection",
+        "confidence": 0.54,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41776101",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41776101"
+    ]
+  },
+  {
+    "holon_id": "q_hiv_infection_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_hiv_infection_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for HIV Infection?",
+    "gold_answer": "Antiretroviral therapy (ART) suppresses HIV but does not eliminate the latent viral reservoir, which persists in programmed cell death protein 1 (PD-1)-expressing CD4.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/hiv_infection",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/tenofovir",
+        "o": "https://example.org/openevidence/diseases/hiv_infection",
+        "confidence": 0.52,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41680482",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41680482"
+    ]
+  },
+  {
+    "holon_id": "q_hyperlipidemia_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_hyperlipidemia_efficacy",
+    "question": "How effective is atorvastatin compared with other agents for Hyperlipidemia?",
+    "gold_answer": "Patients with severe hypertriglyceridemia have an increased risk of acute pancreatitis. The efficacy and safety of olezarsen, an antisense oligonucleotide targeting apolipoprotein C-III messenger RNA, have not been established in this population.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/hyperlipidemia",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/atorvastatin",
+        "o": "https://example.org/openevidence/diseases/hyperlipidemia",
+        "confidence": 0.87,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41211918",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41211918"
+    ]
+  },
+  {
+    "holon_id": "q_hyperlipidemia_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_hyperlipidemia_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Hyperlipidemia?",
+    "gold_answer": "Persons with heterozygous familial hypercholesterolemia (HeFH) are at increased risk of atherosclerotic cardiovascular disease due to lifelong elevated levels of low-density lipoprotein cholesterol (LDL-C). Many patients with HeFH do not achieve guideline-recommended LDL-C goals with the currently available lipid-lowering therapies.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/hyperlipidemia",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/atorvastatin",
+        "o": "https://example.org/openevidence/diseases/hyperlipidemia",
+        "confidence": 0.92,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41206969",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41206969"
+    ]
+  },
+  {
+    "holon_id": "q_hypertension_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_hypertension_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Hypertension?",
+    "gold_answer": "Therapeutic inertia is a major cause of uncontrolled hypertension. The aim of our work study is to describe the knowledge, attitudes, and practices of primary care physicians in the management of hypertension and to describe the factors of therapeutic inertia.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/hypertension",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/lisinopril",
+        "o": "https://example.org/openevidence/diseases/hypertension",
+        "confidence": 0.56,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41712830",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41712830"
+    ]
+  },
+  {
+    "holon_id": "q_hyperthyroidism_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_hyperthyroidism_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Hyperthyroidism?",
+    "gold_answer": "In Graves' disease, administration of low-dose methimazole for more than 60 months induces higher remission rates compared with the conventional duration of 12-18 months. However, the risk of recurrence and its predictors beyond 48 months of drug withdrawal are not known.",
+    "specialty": "Endocrinology",
+    "disease": "https://example.org/openevidence/diseases/hyperthyroidism",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/metoprolol",
+        "o": "https://example.org/openevidence/diseases/hyperthyroidism",
+        "confidence": 0.91,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/38165576",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "38165576"
+    ]
+  },
+  {
+    "holon_id": "q_hypothyroidism_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_hypothyroidism_efficacy",
+    "question": "How effective is levothyroxine compared with other agents for Hypothyroidism?",
+    "gold_answer": "Levothyroxine (LT4) is effective for most patients with hypothyroidism. However, a minority of the patients remain symptomatic despite the normalization of serum thyrotropin levels.",
+    "specialty": "Endocrinology",
+    "disease": "https://example.org/openevidence/diseases/hypothyroidism",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/levothyroxine",
+        "o": "https://example.org/openevidence/diseases/hypothyroidism",
+        "confidence": 0.26,
+        "level": "Level-5",
+        "source": "https://example.org/openevidence/sources/37738506",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "37738506"
+    ]
+  },
+  {
+    "holon_id": "q_hypothyroidism_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_hypothyroidism_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Hypothyroidism?",
+    "gold_answer": "Hypothyroidism, the deficiency of thyroid hormone, is a common condition worldwide. It affects almost all body systems and has a wide variety of clinical presentations from being asymptomatic to, in rare cases, life threatening.",
+    "specialty": "Endocrinology",
+    "disease": "https://example.org/openevidence/diseases/hypothyroidism",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/levothyroxine",
+        "o": "https://example.org/openevidence/diseases/hypothyroidism",
+        "confidence": 0.24,
+        "level": "Level-5",
+        "source": "https://example.org/openevidence/sources/39368843",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "39368843"
+    ]
+  },
+  {
+    "holon_id": "q_idiopathic_pulmonary_fibrosis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_idiopathic_pulmonary_fibrosis_efficacy",
+    "question": "How effective is prednisone compared with other agents for Idiopathic Pulmonary Fibrosis?",
+    "gold_answer": "Idiopathic pulmonary fibrosis (IPF) is an aggressive interstitial lung disease with a high mortality rate. Putative drug targets in IPF have failed to translate into effective therapies at the clinical level.",
+    "specialty": "Pulmonology",
+    "disease": "https://example.org/openevidence/diseases/idiopathic_pulmonary_fibrosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/idiopathic_pulmonary_fibrosis",
+        "confidence": 0.92,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/38459338",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "38459338"
+    ]
+  },
+  {
+    "holon_id": "q_major_depressive_disorder_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_major_depressive_disorder_efficacy",
+    "question": "How effective is sertraline compared with other agents for Major Depressive Disorder?",
+    "gold_answer": "To evaluate the efficacy and safety of oral zuranolone for 14\u2009days, compared with placebo, in Japanese patients with major depressive disorder (MDD). This multicenter, Phase 3 study was conducted in two parts (70 sites; Japan) including a randomized, double-blind, placebo-controlled, parallel-group part presented herein.",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/major_depressive_disorder",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/sertraline",
+        "o": "https://example.org/openevidence/diseases/major_depressive_disorder",
+        "confidence": 0.92,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41251319",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41251319"
+    ]
+  },
+  {
+    "holon_id": "q_major_depressive_disorder_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_major_depressive_disorder_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Major Depressive Disorder?",
+    "gold_answer": "There is a need to provide up-to-date, clinically translatable data as it relates to the treatment of a major depressive episode (MDE) with mixed features. PubMed and OVID were searched from inception to July 22, 2024.",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/major_depressive_disorder",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/sertraline",
+        "o": "https://example.org/openevidence/diseases/major_depressive_disorder",
+        "confidence": 0.96,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/40808264",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40808264"
+    ]
+  },
+  {
+    "holon_id": "q_migraine_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_migraine_efficacy",
+    "question": "How effective is sumatriptan compared with other agents for Migraine?",
+    "gold_answer": "Migraine is a primary headache disorder characterized by recurrent disabling attacks. Pharmacologic treatment of acute migraine episodes should be individualized based on route of administration, cost, contraindications, and adverse effects.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/migraine",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/sumatriptan",
+        "o": "https://example.org/openevidence/diseases/migraine",
+        "confidence": 0.27,
+        "level": "Level-5",
+        "source": "https://example.org/openevidence/sources/40238974",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "40238974"
+    ]
+  },
+  {
+    "holon_id": "q_multiple_sclerosis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_multiple_sclerosis_efficacy",
+    "question": "How effective is rituximab compared with other agents for Multiple Sclerosis?",
+    "gold_answer": "Metformin rejuvenates adult rat oligodendrocyte progenitor cells (OPCs) allowing more efficient differentiation into oligodendrocytes and improved remyelination, and therefore is of interest as a therapeutic in demyelinating diseases such as multiple sclerosis (MS). Here, we test whether metformin has a similar effect in human stem cell derived-OPCs.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/multiple_sclerosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/rituximab",
+        "o": "https://example.org/openevidence/diseases/multiple_sclerosis",
+        "confidence": 0.57,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/40885740",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40885740"
+    ]
+  },
+  {
+    "holon_id": "q_myasthenia_gravis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_myasthenia_gravis_efficacy",
+    "question": "How effective is prednisone compared with other agents for Myasthenia Gravis?",
+    "gold_answer": "Generalized myasthenia gravis (gMG) continues to present significant challenges for clinical management due to an unpredictable disease course, frequent disease fluctuations, and varying response to therapy. The recent availability of new pharmacologic therapies presents a valuable opportunity to reevaluate how this disease is classified, assessed, and managed and identify new ways to improve the clinical care of patients with gMG.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/myasthenia_gravis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/myasthenia_gravis",
+        "confidence": 0.22,
+        "level": "Level-5",
+        "source": "https://example.org/openevidence/sources/38117543",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "38117543"
+    ]
+  },
+  {
+    "holon_id": "q_myasthenia_gravis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_myasthenia_gravis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Myasthenia Gravis?",
+    "gold_answer": "Given burdensome side-effects and long latency for efficacy with conventional agents, there is a continued need for generalised myasthenia gravis treatments that are safe and provide consistently sustained, long-term disease control. Nipocalimab, a neonatal Fc receptor blocker, was associated with dose-dependent reductions in total IgG and anti-acetylcholine receptor (AChR) antibodies and clinically meaningful improvements in the Myasthenia Gravis Activities of Daily Living (MG-ADL) scale in patients with generalised myasthenia gravis in a phase 2 study.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/myasthenia_gravis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/myasthenia_gravis",
+        "confidence": 0.88,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/39862879",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "39862879"
+    ]
+  },
+  {
+    "holon_id": "q_nephrotic_syndrome_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_nephrotic_syndrome_efficacy",
+    "question": "How effective is prednisone compared with other agents for Nephrotic Syndrome?",
+    "gold_answer": "The effects of rituximab on relapse of nephrotic syndrome in patients with adult-onset frequently relapsing nephrotic syndrome (FRNS) or steroid-dependent nephrotic syndrome (SDNS) remain uncertain. To evaluate the effects of rituximab for patients with FRNS or SDNS.",
+    "specialty": "Nephrology",
+    "disease": "https://example.org/openevidence/diseases/nephrotic_syndrome",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/nephrotic_syndrome",
+        "confidence": 0.92,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41191364",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41191364"
+    ]
+  },
+  {
+    "holon_id": "q_nephrotic_syndrome_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_nephrotic_syndrome_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Nephrotic Syndrome?",
+    "gold_answer": "B-cell depletion with rituximab induces sustained remission in children with steroid-dependent or frequently relapsing nephrotic syndrome. However, most patients relapse after B-cell recovery, and some patients do not achieve B-cell depletion.",
+    "specialty": "Nephrology",
+    "disease": "https://example.org/openevidence/diseases/nephrotic_syndrome",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/nephrotic_syndrome",
+        "confidence": 0.56,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/37678236",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "37678236"
+    ]
+  },
+  {
+    "holon_id": "q_neuropathic_pain_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_neuropathic_pain_efficacy",
+    "question": "How effective is gabapentin compared with other agents for Neuropathic Pain?",
+    "gold_answer": "Glucagon-like peptide 1 (GLP-1) receptor agonists are frequently used to treat type 2 diabetes and obesity. Despite the development of several drugs for neuropathic pain management, their poor efficacy, tolerance, addiction potential, and side effects limit their usage.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/neuropathic_pain",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/gabapentin",
+        "o": "https://example.org/openevidence/diseases/neuropathic_pain",
+        "confidence": 0.56,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/39594606",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "39594606"
+    ]
+  },
+  {
+    "holon_id": "q_non_hodgkin_lymphoma_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_non_hodgkin_lymphoma_efficacy",
+    "question": "How effective is rituximab compared with other agents for Non-Hodgkin Lymphoma?",
+    "gold_answer": "Relapsed/refractory diffuse large B-cell lymphoma (R/R DLBCL) remains challenging to treat, especially in patients ineligible for intensive therapy or chimeric antigen receptor T cells. Tafasitamab plus lenalidomide (T/L) is an effective option based on the phase 2 L-MIND trial findings, although real-world evidence studies have not consistently confirmed these results.",
+    "specialty": "Oncology",
+    "disease": "https://example.org/openevidence/diseases/non_hodgkin_lymphoma",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/rituximab",
+        "o": "https://example.org/openevidence/diseases/non_hodgkin_lymphoma",
+        "confidence": 0.73,
+        "level": "Level-2B",
+        "source": "https://example.org/openevidence/sources/40668613",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40668613"
+    ]
+  },
+  {
+    "holon_id": "q_non_hodgkin_lymphoma_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_non_hodgkin_lymphoma_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Non-Hodgkin Lymphoma?",
+    "gold_answer": "Follicular lymphoma is characterised by episodes of remission and relapse, with patients requiring multiple lines of therapy. Lenalidomide plus rituximab is a commonly used immunotherapy combination in patients with relapsed or refractory follicular lymphoma.",
+    "specialty": "Oncology",
+    "disease": "https://example.org/openevidence/diseases/non_hodgkin_lymphoma",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/rituximab",
+        "o": "https://example.org/openevidence/diseases/non_hodgkin_lymphoma",
+        "confidence": 0.9,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41360064",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41360064"
+    ]
+  },
+  {
+    "holon_id": "q_non_small_cell_lung_cancer_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_non_small_cell_lung_cancer_efficacy",
+    "question": "How effective is pembrolizumab compared with other agents for Non-Small Cell Lung Cancer?",
+    "gold_answer": "Third-generation epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs) are standard first-line therapy for advanced, EGFR-mutated nonsmall cell lung cancer (NSCLC). However, their benefit is limited in patients who have co-existing tumor suppressor gene (TSG) mutations, highlighting a need for intensified\u00a0strategies to improve outcomes.",
+    "specialty": "Oncology",
+    "disease": "https://example.org/openevidence/diseases/non_small_cell_lung_cancer",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/pembrolizumab",
+        "o": "https://example.org/openevidence/diseases/non_small_cell_lung_cancer",
+        "confidence": 0.91,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41818162",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41818162"
+    ]
+  },
+  {
+    "holon_id": "q_non_small_cell_lung_cancer_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_non_small_cell_lung_cancer_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Non-Small Cell Lung Cancer?",
+    "gold_answer": "Although immunotherapy has revolutionized cancer treatment, many patients still experience limited benefit, highlighting the urgent need for improved biomarkers.",
+    "specialty": "Oncology",
+    "disease": "https://example.org/openevidence/diseases/non_small_cell_lung_cancer",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/pembrolizumab",
+        "o": "https://example.org/openevidence/diseases/non_small_cell_lung_cancer",
+        "confidence": 0.69,
+        "level": "Level-2B",
+        "source": "https://example.org/openevidence/sources/41851467",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41851467"
+    ]
+  },
+  {
+    "holon_id": "q_obsessive_compulsive_disorder_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_obsessive_compulsive_disorder_efficacy",
+    "question": "How effective is fluoxetine compared with other agents for Obsessive-Compulsive Disorder?",
+    "gold_answer": "Trichotillomania (TTM), excoriation (or skin-picking) disorder and some severe forms of onychophagia are classified under obsessive-compulsive and related disorders. There are different interacting neurotransmitter systems involved in the pathophysiology of impulse-control disorders, implicating noradrenaline, serotonin, dopamine, opioid peptides and glutamate, hence investigators focused on drugs able to act on these transmitters.",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/obsessive_compulsive_disorder",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/fluoxetine",
+        "o": "https://example.org/openevidence/diseases/obsessive_compulsive_disorder",
+        "confidence": 0.98,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/30892151",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "30892151"
+    ]
+  },
+  {
+    "holon_id": "q_osteoarthritis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_osteoarthritis_efficacy",
+    "question": "How effective is ibuprofen compared with other agents for Osteoarthritis?",
+    "gold_answer": "Synovitis has recently been shown to be a critical early stage in development of osteoarthritis (OA), and inhibiting synovitis significantly alleviates OA symptoms. Denosumab, a monoclonal antibody targeting RANKL, previously developed for osteoporosis.",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/osteoarthritis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/ibuprofen",
+        "o": "https://example.org/openevidence/diseases/osteoarthritis",
+        "confidence": 0.54,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41407913",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41407913"
+    ]
+  },
+  {
+    "holon_id": "q_osteoporosis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_osteoporosis_efficacy",
+    "question": "How effective is prednisone compared with other agents for Osteoporosis?",
+    "gold_answer": "Zoledronate prevents fractures in older women when administered every 12 to 18 months, but its effects on bone density and bone turnover persist beyond 5 years. Whether infrequent zoledronate administration would prevent vertebral fractures in early postmenopausal women is unknown.",
+    "specialty": "Endocrinology",
+    "disease": "https://example.org/openevidence/diseases/osteoporosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/osteoporosis",
+        "confidence": 0.87,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/39813642",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "39813642"
+    ]
+  },
+  {
+    "holon_id": "q_osteoporosis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_osteoporosis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Osteoporosis?",
+    "gold_answer": "The prevalence of osteoporosis is increasing in the United States. To evaluate low bone mass and osteoporosis treatments to prevent fractures.",
+    "specialty": "Endocrinology",
+    "disease": "https://example.org/openevidence/diseases/osteoporosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/osteoporosis",
+        "confidence": 0.92,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/36592455",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "36592455"
+    ]
+  },
+  {
+    "holon_id": "q_pancreatitis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_pancreatitis_efficacy",
+    "question": "How effective is morphine compared with other agents for Pancreatitis?",
+    "gold_answer": "Persistent chylomicronemia is a genetic recessive disorder that is classically caused by familial chylomicronemia syndrome (FCS), but it also has multifactorial causes. The disorder is associated with the risk of recurrent acute pancreatitis.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/pancreatitis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/morphine",
+        "o": "https://example.org/openevidence/diseases/pancreatitis",
+        "confidence": 0.89,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/39225259",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "39225259"
+    ]
+  },
+  {
+    "holon_id": "q_pancreatitis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_pancreatitis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Pancreatitis?",
+    "gold_answer": "A systematic review and meta-analysis was conducted to synthesize the available data from clinical trials and assess the safety issues of tirzepatide (pancreatitis and gallbladder or biliary disease) in type 2 diabetes (T2D) and obesity. A systematic search was conducted in three electronic databases, namely Embase, PubMed, and the Cochrane Library, up until March 1, 2023, to identify randomized controlled trials (RCTs) comparing tirzepatide to either placebo or active hypoglycemic drugs in individuals with T2D and obesity.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/pancreatitis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/morphine",
+        "o": "https://example.org/openevidence/diseases/pancreatitis",
+        "confidence": 0.97,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/37908750",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "37908750"
+    ]
+  },
+  {
+    "holon_id": "q_parkinson_disease_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_parkinson_disease_efficacy",
+    "question": "How effective is levodopa compared with other agents for Parkinson Disease?",
+    "gold_answer": "Microglial activation-induced neuroinflammation and impaired neuronal mitophagy are recognized as pivotal pathogeneses in Parkinson's disease (PD). However, the role of microglial mitophagy in microglial activation during PD development remains unclear, and therapeutic interventions targeting this interaction are lacking.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/parkinson_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/levodopa",
+        "o": "https://example.org/openevidence/diseases/parkinson_disease",
+        "confidence": 0.57,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/40913726",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40913726"
+    ]
+  },
+  {
+    "holon_id": "q_peptic_ulcer_disease_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_peptic_ulcer_disease_efficacy",
+    "question": "How effective is omeprazole compared with other agents for Peptic Ulcer Disease?",
+    "gold_answer": "A peptic ulcer is a lesion (sore) on the stomach lining, or duodenum. Peptic ulcers are probably a twentieth-century condition.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/peptic_ulcer_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/omeprazole",
+        "o": "https://example.org/openevidence/diseases/peptic_ulcer_disease",
+        "confidence": 0.25,
+        "level": "Level-5",
+        "source": "https://example.org/openevidence/sources/38755116",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "38755116"
+    ]
+  },
+  {
+    "holon_id": "q_peptic_ulcer_disease_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_peptic_ulcer_disease_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Peptic Ulcer Disease?",
+    "gold_answer": "In the US, peptic ulcer disease affects 1% of the population and approximately 54\u202f000 patients are admitted to the hospital annually for bleeding peptic ulcers. Approximately 10% of patients presenting with upper abdominal pain in a primary care setting have a peptic ulcer as the cause of their symptoms.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/peptic_ulcer_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/omeprazole",
+        "o": "https://example.org/openevidence/diseases/peptic_ulcer_disease",
+        "confidence": 0.23,
+        "level": "Level-5",
+        "source": "https://example.org/openevidence/sources/39466269",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "39466269"
+    ]
+  },
+  {
+    "holon_id": "q_peripheral_artery_disease_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_peripheral_artery_disease_efficacy",
+    "question": "How effective is clopidogrel compared with other agents for Peripheral Artery Disease?",
+    "gold_answer": "Testosterone levels in men begin declining in the early years of adulthood, with a 1-2% reduction/year. Low testosterone levels in men are associated with obesity, metabolic syndrome, diabetes mellitus, dyslipidaemia, hypertension and increased cardiovascular mortality.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/peripheral_artery_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/clopidogrel",
+        "o": "https://example.org/openevidence/diseases/peripheral_artery_disease",
+        "confidence": 0.52,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/37559242",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "37559242"
+    ]
+  },
+  {
+    "holon_id": "q_peripheral_artery_disease_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_peripheral_artery_disease_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Peripheral Artery Disease?",
+    "gold_answer": "Peripheral artery disease is a highly morbid type of atherosclerotic vascular disease involving the legs and is estimated to affect over 230 million individuals globally. Few therapies improve functional capacity and health-related quality of life in people with lower limb peripheral artery disease.",
+    "specialty": "Cardiology",
+    "disease": "https://example.org/openevidence/diseases/peripheral_artery_disease",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/clopidogrel",
+        "o": "https://example.org/openevidence/diseases/peripheral_artery_disease",
+        "confidence": 0.93,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/40169145",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40169145"
+    ]
+  },
+  {
+    "holon_id": "q_polycystic_ovary_syndrome_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_polycystic_ovary_syndrome_efficacy",
+    "question": "How effective is metformin compared with other agents for Polycystic Ovary Syndrome?",
+    "gold_answer": "This study aimed to assess the effects of metformin (MET) monotherapy versus a combination of semaglutide and MET on weight, metabolism, reproductive function, and inflammatory markers in women with polycystic ovary syndrome (PCOS). A total of 100 overweight or obese women with PCOS diagnosed according to the Rotterdam criteria were randomly assigned to two groups: MET (1000\u00a0mg twice daily [BID] for 16 weeks) and combination therapy (COM) (1000 \u200amg MET BID plus 1-\u200amg semaglutide once weekly [QW] for 16 weeks).",
+    "specialty": "Endocrinology",
+    "disease": "https://example.org/openevidence/diseases/polycystic_ovary_syndrome",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/metformin",
+        "o": "https://example.org/openevidence/diseases/polycystic_ovary_syndrome",
+        "confidence": 0.89,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/40713699",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40713699"
+    ]
+  },
+  {
+    "holon_id": "q_post_traumatic_stress_disorder_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_post_traumatic_stress_disorder_efficacy",
+    "question": "How effective is sertraline compared with other agents for Post-Traumatic Stress Disorder?",
+    "gold_answer": "The current guidelines and canonical norms of diagnosis or treatment for Post-traumatic stress disorder (PTSD) with sleep disorder are still conflicting and have not yet reached a consensus. This study aimed to unravel the most effective countermeasures between two categories (psychotherapy and pharmacotherapy) put forward by the National Institute for Health and Clinical Excellence (NICE) and World Federation of Societies of Biological Psychiatry (WFSBP) respectively to treat PTSD individuals co-exist with sleep disorders.",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/post_traumatic_stress_disorder",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/sertraline",
+        "o": "https://example.org/openevidence/diseases/post_traumatic_stress_disorder",
+        "confidence": 0.98,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/39061119",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "39061119"
+    ]
+  },
+  {
+    "holon_id": "q_post_traumatic_stress_disorder_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_post_traumatic_stress_disorder_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Post-Traumatic Stress Disorder?",
+    "gold_answer": "This multi-site, randomized, double-blind, confirmatory phase 3 study evaluated the efficacy and safety of 3,4-methylenedioxymethamphetamine-assisted therapy (MDMA-AT) versus placebo with identical therapy in participants with moderate to severe post-traumatic stress disorder (PTSD). Changes in Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) total severity score (primary endpoint) and Sheehan Disability Scale (SDS) functional impairment score (key secondary endpoint) were assessed by blinded independent assessors.",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/post_traumatic_stress_disorder",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/sertraline",
+        "o": "https://example.org/openevidence/diseases/post_traumatic_stress_disorder",
+        "confidence": 0.88,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/37709999",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "37709999"
+    ]
+  },
+  {
+    "holon_id": "q_prostate_cancer_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_prostate_cancer_efficacy",
+    "question": "How effective is pembrolizumab compared with other agents for Prostate Cancer?",
+    "gold_answer": "There is an unmet need for a tool that could predict early favorable prostate-specific antigen (PSA) response in metastatic hormone sensitive prostate cancer (mHSPC) patients receiving androgen receptor pathway inhibitor (ARPI). Here, we train and validate a multivariable logistic regression model to predict early favorable PSA response (\u22640.2\u2009ng/mL by 6 months) in these patients.",
+    "specialty": "Oncology",
+    "disease": "https://example.org/openevidence/diseases/prostate_cancer",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/pembrolizumab",
+        "o": "https://example.org/openevidence/diseases/prostate_cancer",
+        "confidence": 0.9,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41402322",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41402322"
+    ]
+  },
+  {
+    "holon_id": "q_psoriatic_arthritis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_psoriatic_arthritis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Psoriatic Arthritis?",
+    "gold_answer": "New modes of action and more data on the efficacy and safety of existing drugs in psoriatic arthritis (PsA) required an update of the EULAR 2019 recommendations for the pharmacological treatment of PsA. Following EULAR standardised operating procedures, the process included a systematic literature review and a consensus meeting of 36 international experts in April 2023.",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/psoriatic_arthritis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/methotrexate",
+        "o": "https://example.org/openevidence/diseases/psoriatic_arthritis",
+        "confidence": 0.93,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/38499325",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "38499325"
+    ]
+  },
+  {
+    "holon_id": "q_pulmonary_embolism_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_pulmonary_embolism_efficacy",
+    "question": "How effective is apixaban compared with other agents for Pulmonary Embolism?",
+    "gold_answer": "Pulmonary embolism (PE) is the leading cause of in-hospital death and the third most frequent cause of cardiovascular death. The clinical presentation of PE is variable, and choosing the appropriate treatment for individual patients can be challenging.",
+    "specialty": "Pulmonology",
+    "disease": "https://example.org/openevidence/diseases/pulmonary_embolism",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/apixaban",
+        "o": "https://example.org/openevidence/diseases/pulmonary_embolism",
+        "confidence": 0.25,
+        "level": "Level-5",
+        "source": "https://example.org/openevidence/sources/37173409",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "37173409"
+    ]
+  },
+  {
+    "holon_id": "q_pulmonary_embolism_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_pulmonary_embolism_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Pulmonary Embolism?",
+    "gold_answer": "Apixaban and rivaroxaban are the oral anticoagulants most frequently used to treat acute venous thromboembolism. However, uncertainty remains about the difference in bleeding risk between the two medications.",
+    "specialty": "Pulmonology",
+    "disease": "https://example.org/openevidence/diseases/pulmonary_embolism",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/apixaban",
+        "o": "https://example.org/openevidence/diseases/pulmonary_embolism",
+        "confidence": 0.9,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41812192",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41812192"
+    ]
+  },
+  {
+    "holon_id": "q_rheumatoid_arthritis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_rheumatoid_arthritis_efficacy",
+    "question": "How effective is methotrexate compared with other agents for Rheumatoid Arthritis?",
+    "gold_answer": "Patients with rheumatoid (RA) or psoriatic (PsA) arthritis can experience debilitating pain. Post hoc analyses of phase 3, double-blind studies in patients with active disease despite treatment (SELECT-COMPARE, SELECT-PsA 1) assessed the effects of upadacitinib or adalimumab versus placebo on pain in patients with attenuation of inflammation (AoI) versus remaining inflammation at weeks 12 and 24/26 (PsA/RA).",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/rheumatoid_arthritis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/methotrexate",
+        "o": "https://example.org/openevidence/diseases/rheumatoid_arthritis",
+        "confidence": 0.87,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41506743",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41506743"
+    ]
+  },
+  {
+    "holon_id": "q_rheumatoid_arthritis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_rheumatoid_arthritis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Rheumatoid Arthritis?",
+    "gold_answer": "Reducing individual inflammatory factors does not always translate into clinical efficacy in rheumatoid arthritis (RA), an autoimmune disease characterized by joint inflammation. Proinflammatory M1 macrophages are a key driver of the hyperinflammatory joint microenvironment, which also promotes the progression of RA.",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/rheumatoid_arthritis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/methotrexate",
+        "o": "https://example.org/openevidence/diseases/rheumatoid_arthritis",
+        "confidence": 0.53,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41350407",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41350407"
+    ]
+  },
+  {
+    "holon_id": "q_schizophrenia_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_schizophrenia_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Schizophrenia?",
+    "gold_answer": "Antipsychotic drugs are the established treatment for acute schizophrenia but differ in receptor-binding profiles. In 2024, a new-in-class muscarinic receptor agonist (xanomeline-trospium) was licenced, acting upstream of antidopaminergic agents, and providing hope to decrease the adverse effects burden of antipsychotics.",
+    "specialty": "Psychiatry",
+    "disease": "https://example.org/openevidence/diseases/schizophrenia",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/risperidone",
+        "o": "https://example.org/openevidence/diseases/schizophrenia",
+        "confidence": 0.96,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/41763745",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41763745"
+    ]
+  },
+  {
+    "holon_id": "q_sepsis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_sepsis_efficacy",
+    "question": "How effective is ceftriaxone compared with other agents for Sepsis?",
+    "gold_answer": "Interventions to induce lasting human immunodeficiency virus (HIV) remission are needed to obviate the requirement for lifelong antiretroviral therapy. Durable post-intervention control (PIC) of viraemia has been achieved in a subset of people following administration of\u00a0broadly neutralizing anti-HIV-1 antibodies (bNAb) and analytical interruption of\u00a0treatment.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/sepsis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/ceftriaxone",
+        "o": "https://example.org/openevidence/diseases/sepsis",
+        "confidence": 0.52,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41326735",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41326735"
+    ]
+  },
+  {
+    "holon_id": "q_sepsis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_sepsis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Sepsis?",
+    "gold_answer": "Sepsis is heterogeneous, and the optimal strategy for tailoring immunotherapy is uncertain. To investigate whether precision immunotherapy guided by the presence of macrophage activation-like syndrome or sepsis-induced immunoparalysis improves organ dysfunction by day 9.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/sepsis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/ceftriaxone",
+        "o": "https://example.org/openevidence/diseases/sepsis",
+        "confidence": 0.92,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41359996",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41359996"
+    ]
+  },
+  {
+    "holon_id": "q_status_epilepticus_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_status_epilepticus_efficacy",
+    "question": "How effective is levetiracetam compared with other agents for Status Epilepticus?",
+    "gold_answer": "Status epilepticus is a neurologic emergency defined as a seizure that lasts longer than 5 minutes. This is the most common neurologic emergency in children, and it is associated with significant morbidity and mortality.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/status_epilepticus",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/levetiracetam",
+        "o": "https://example.org/openevidence/diseases/status_epilepticus",
+        "confidence": 0.54,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/37391637",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "37391637"
+    ]
+  },
+  {
+    "holon_id": "q_status_epilepticus_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_status_epilepticus_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Status Epilepticus?",
+    "gold_answer": "Seizure emergencies (ie, status epilepticus [SE] and cluster seizures [CS]), are common challenging disorders with complex pathophysiology, rapidly progressive drug-resistant and self-sustaining character, and high morbidity and mortality. Current treatment approaches are characterized by considerable variations, but official guidelines are lacking.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/status_epilepticus",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/levetiracetam",
+        "o": "https://example.org/openevidence/diseases/status_epilepticus",
+        "confidence": 0.58,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/37921621",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "37921621"
+    ]
+  },
+  {
+    "holon_id": "q_stroke_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_stroke_efficacy",
+    "question": "How effective is clopidogrel compared with other agents for Stroke?",
+    "gold_answer": "Minocycline has been reported as a multi-target anti-neuroinflammatory drug with potential benefits for ischaemic stroke in preclinical models and small-scale clinical studies. The EMPHASIS trial was designed to provide robust evidence regarding its efficacy and safety in patients with acute ischaemic stroke.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/stroke",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/clopidogrel",
+        "o": "https://example.org/openevidence/diseases/stroke",
+        "confidence": 0.92,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41628627",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41628627"
+    ]
+  },
+  {
+    "holon_id": "q_stroke_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_stroke_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Stroke?",
+    "gold_answer": "Catheter-based closure of the left atrial appendage is an alternative to oral anticoagulation for stroke prevention in patients with atrial fibrillation. The effectiveness of this strategy, as compared with physician-directed best medical care, in patients at high risk for stroke and bleeding is unknown.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/stroke",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/clopidogrel",
+        "o": "https://example.org/openevidence/diseases/stroke",
+        "confidence": 0.93,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41849741",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41849741"
+    ]
+  },
+  {
+    "holon_id": "q_systemic_lupus_erythematosus_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_systemic_lupus_erythematosus_efficacy",
+    "question": "How effective is prednisone compared with other agents for Systemic Lupus Erythematosus?",
+    "gold_answer": "This study aimed to use Bayesian network meta-analysis to compare the efficacy and safety of biologics for systemic lupus erythematosus (SLE). A comprehensive and systematic search of electronic databases (PubMed, Medline, Cochrane Library, EMBASE, Web of Science, CNKI, and WanFang Data) was conducted from 2014 to September 2024.",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/systemic_lupus_erythematosus",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/systemic_lupus_erythematosus",
+        "confidence": 0.93,
+        "level": "Level-1A",
+        "source": "https://example.org/openevidence/sources/40699272",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40699272"
+    ]
+  },
+  {
+    "holon_id": "q_systemic_lupus_erythematosus_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_systemic_lupus_erythematosus_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Systemic Lupus Erythematosus?",
+    "gold_answer": "Telitacicept, a new dual inhibitor of the cytokines B-lymphocyte stimulator (BLyS) and APRIL (a proliferation-inducing ligand), showed efficacy in adults with active systemic lupus erythematosus (SLE) in a phase 2b trial when added to standard therapy. We conducted a phase 3 trial in China in which participants with active SLE were randomly assigned (in a 1:1 ratio) to receive telitacicept (160 mg) or placebo subcutaneously once weekly for 52 weeks, in addition to standard therapy.",
+    "specialty": "Rheumatology",
+    "disease": "https://example.org/openevidence/diseases/systemic_lupus_erythematosus",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/prednisone",
+        "o": "https://example.org/openevidence/diseases/systemic_lupus_erythematosus",
+        "confidence": 0.9,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41092329",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41092329"
+    ]
+  },
+  {
+    "holon_id": "q_trigeminal_neuralgia_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_trigeminal_neuralgia_efficacy",
+    "question": "How effective is gabapentin compared with other agents for Trigeminal Neuralgia?",
+    "gold_answer": "Although trigeminal neuralgia is well known to neurologists, recent developments in classification and clinical diagnosis, new MRI methods, and a debate about surgical options necessitate an update on the topic. Currently, a worldwide controversy exists regarding the classification, diagnostic process, and surgical treatment of trigeminal neuralgia.",
+    "specialty": "Neurology",
+    "disease": "https://example.org/openevidence/diseases/trigeminal_neuralgia",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/gabapentin",
+        "o": "https://example.org/openevidence/diseases/trigeminal_neuralgia",
+        "confidence": 0.4,
+        "level": "Level-4",
+        "source": "https://example.org/openevidence/sources/28375911",
+        "effectiveness": "inconclusive"
+      }
+    ],
+    "source_pmids": [
+      "28375911"
+    ]
+  },
+  {
+    "holon_id": "q_tuberculosis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_tuberculosis_efficacy",
+    "question": "How effective is isoniazid compared with other agents for Tuberculosis?",
+    "gold_answer": "Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis, remains the deadliest human pathogen. Treatment is hampered by drug resistance and the persistence of slow-growing or non-replicating populations.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/tuberculosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/isoniazid",
+        "o": "https://example.org/openevidence/diseases/tuberculosis",
+        "confidence": 0.56,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/41339746",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41339746"
+    ]
+  },
+  {
+    "holon_id": "q_tuberculosis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_tuberculosis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Tuberculosis?",
+    "gold_answer": "Tuberculous meningitis is often lethal, and many survivors have disabilities despite antimicrobial treatment and adjunctive glucocorticoid therapy. Standard-dose rifampin has limited central nervous system penetration.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/tuberculosis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/isoniazid",
+        "o": "https://example.org/openevidence/diseases/tuberculosis",
+        "confidence": 0.88,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41406445",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41406445"
+    ]
+  },
+  {
+    "holon_id": "q_type_1_diabetes_mellitus_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_type_1_diabetes_mellitus_efficacy",
+    "question": "How effective is insulin glargine compared with other agents for Type 1 Diabetes Mellitus?",
+    "gold_answer": "Oral delivery of insulin holds great promise for improving patient compliance. However, the harsh gastrointestinal environment, the low permeability of the intestinal epithelium, and hepatic clearance of foreign particles remain key challenges in this area.",
+    "specialty": "Endocrinology",
+    "disease": "https://example.org/openevidence/diseases/type_1_diabetes_mellitus",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/insulin_glargine",
+        "o": "https://example.org/openevidence/diseases/type_1_diabetes_mellitus",
+        "confidence": 0.58,
+        "level": "Level-3",
+        "source": "https://example.org/openevidence/sources/40991712",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40991712"
+    ]
+  },
+  {
+    "holon_id": "q_type_1_diabetes_mellitus_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_type_1_diabetes_mellitus_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Type 1 Diabetes Mellitus?",
+    "gold_answer": "Once-weekly semaglutide is approved for the management of type 2 diabetes and obesity. The efficacy and safety of semaglutide in adults with type 1 diabetes are not established.",
+    "specialty": "Endocrinology",
+    "disease": "https://example.org/openevidence/diseases/type_1_diabetes_mellitus",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/insulin_glargine",
+        "o": "https://example.org/openevidence/diseases/type_1_diabetes_mellitus",
+        "confidence": 0.93,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/40550013",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40550013"
+    ]
+  },
+  {
+    "holon_id": "q_ulcerative_colitis_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_ulcerative_colitis_efficacy",
+    "question": "How effective is mesalazine compared with other agents for Ulcerative Colitis?",
+    "gold_answer": "SOR102 is an oral bispecific antibody comprised of single domain antibodies targeting TNF and interleukin (IL)-23p19. We aimed to assess the safety, pharmacokinetics, clinical, and biological activity of SOR102 in healthy participants and in patients with active ulcerative colitis.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/ulcerative_colitis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/mesalazine",
+        "o": "https://example.org/openevidence/diseases/ulcerative_colitis",
+        "confidence": 0.91,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41242336",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41242336"
+    ]
+  },
+  {
+    "holon_id": "q_ulcerative_colitis_treatment",
+    "holon_uri": "https://example.org/openevidence/questions/q_ulcerative_colitis_treatment",
+    "question": "What is the recommended first-line pharmacological treatment for Ulcerative Colitis?",
+    "gold_answer": "Etrasimod is an oral, once-daily sphingosine 1-phosphate (S1P) receptor modulator for the treatment of active ulcerative colitis. In the randomised, placebo-controlled, double-blind phase 3 ENLIGHT UC study, also known as the ES101002 study, we aimed to evaluate the efficacy and safety of etrasimod in patients with moderately to severely active ulcerative colitis in East Asia.",
+    "specialty": "Gastroenterology",
+    "disease": "https://example.org/openevidence/diseases/ulcerative_colitis",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/mesalazine",
+        "o": "https://example.org/openevidence/diseases/ulcerative_colitis",
+        "confidence": 0.88,
+        "level": "Level-1B",
+        "source": "https://example.org/openevidence/sources/41043449",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "41043449"
+    ]
+  },
+  {
+    "holon_id": "q_urinary_tract_infection_efficacy",
+    "holon_uri": "https://example.org/openevidence/questions/q_urinary_tract_infection_efficacy",
+    "question": "How effective is ciprofloxacin compared with other agents for Urinary Tract Infection?",
+    "gold_answer": "Existing antibiotics for uncomplicated urinary tract infections are becoming less reliably effective owing to increasing antimicrobial resistance. Our objective was to evaluate the safety and efficacy of sulopenem/probenecid for uncomplicated urinary tract infections.",
+    "specialty": "Infectious Disease",
+    "disease": "https://example.org/openevidence/diseases/urinary_tract_infection",
+    "facts": [
+      {
+        "s": "https://example.org/openevidence/drugs/ciprofloxacin",
+        "o": "https://example.org/openevidence/diseases/urinary_tract_infection",
+        "confidence": 0.79,
+        "level": "Level-2A",
+        "source": "https://example.org/openevidence/sources/40552968",
+        "effectiveness": "effective"
+      }
+    ],
+    "source_pmids": [
+      "40552968"
+    ]
+  }
+]

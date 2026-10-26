@@ -1,0 +1,34 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_obsessive_compulsive_disorder_efficacy> a holon:ClinicalQuestionHolon ;
+    oe:questionText "How effective is fluoxetine compared with other agents for Obsessive-Compulsive Disorder?"^^xsd:string ;
+    oe:answerText "Trichotillomania (TTM), excoriation (or skin-picking) disorder and some severe forms of onychophagia are classified under obsessive-compulsive and related disorders. There are different interacting neurotransmitter systems involved in the pathophysiology of impulse-control disorders, implicating noradrenaline, serotonin, dopamine, opioid peptides and glutamate, hence investigators focused on drugs able to act on these transmitters."^^xsd:string ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_obsessive_compulsive_disorder_efficacy-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_obsessive_compulsive_disorder_efficacy-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_obsessive_compulsive_disorder_efficacy-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_obsessive_compulsive_disorder_efficacy-con> .
+
+<https://example.org/openevidence/drugs/fluoxetine> oe:treats <https://example.org/openevidence/diseases/obsessive_compulsive_disorder> .
+<https://example.org/openevidence/generated/ev_q_obsessive_compulsive_disorder_efficacy_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_obsessive_compulsive_disorder_efficacy_0-tt> ;
+    holon:confidence "0.98"^^xsd:decimal ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/30892151> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_obsessive_compulsive_disorder_efficacy> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_obsessive_compulsive_disorder_efficacy_0-tt> rdf:subject <https://example.org/openevidence/drugs/fluoxetine> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/obsessive_compulsive_disorder> .
+
+<https://example.org/openevidence/drugs/morphine> oe:treats <https://example.org/openevidence/diseases/pancreatitis> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/addison_disease> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/sertraline> oe:treats <https://example.org/openevidence/diseases/post_traumatic_stress_disorder> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/sertraline> oe:treats <https://example.org/openevidence/diseases/major_depressive_disorder> .   # ungrounded (naive)

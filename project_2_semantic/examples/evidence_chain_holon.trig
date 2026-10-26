@@ -1,0 +1,86 @@
+# =============================================================================
+# FULL FOUR-LAYER HOLON EXAMPLE 2/3 — EvidenceChainHolon
+# A chain of evidence (supporting + contradicting) about statins for primary
+# prevention, with an aggregate projection. Four named-graph layers.
+# (Example 3/3 = clinical_question_holon.trig.)
+# =============================================================================
+
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix prov:   <http://www.w3.org/ns/prov#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+@prefix oech:   <https://example.org/openevidence/chains/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oed:    <https://example.org/openevidence/diseases/> .
+@prefix oesrc:  <https://example.org/openevidence/sources/> .
+@prefix oeevt:  <https://example.org/openevidence/events/> .
+
+oech:statin_primary a holon:EvidenceChainHolon ;
+    rdfs:label "Evidence Chain: statins for primary CVD prevention"@en ;
+    holon:hasInteriorGraph   oech:statin_primary-int ;
+    holon:hasBoundaryGraph   oech:statin_primary-bnd ;
+    holon:hasProjectionGraph oech:statin_primary-prj ;
+    holon:hasContextGraph    oech:statin_primary-ctx ;
+    holon:evidenceQualityThreshold "0.50"^^xsd:decimal .
+
+# --- INTERIOR: the linked evidence assertions (support + contradiction) -------
+
+oech:statin_primary-int {
+    oedrug:atorvastatin oe:treats oed:cvd_risk .
+
+    oeevt:ec_ev1 a holon:EvidenceAssertion ;
+        rdf:reifies oeevt:ec_ev1-tt ;
+        holon:confidence "0.85"^^xsd:decimal ;
+        holon:evidenceLevel "Level-1A" ;
+        oe:cites oesrc:jupiter ;
+        oe:effectiveness "effective" ;
+        holon:inHolon oech:statin_primary .
+    oeevt:ec_ev1-tt rdf:subject oedrug:atorvastatin ;
+        rdf:predicate oe:treats ; rdf:object oed:cvd_risk .
+
+    oeevt:ec_ev2 a holon:EvidenceAssertion ;
+        rdf:reifies oeevt:ec_ev2-tt ;
+        holon:confidence "0.70"^^xsd:decimal ;
+        holon:evidenceLevel "Level-2A" ;
+        oe:cites oesrc:cochrane_2013 ;
+        oe:effectiveness "effective" ;
+        holon:inHolon oech:statin_primary .
+    oeevt:ec_ev2-tt rdf:subject oedrug:atorvastatin ;
+        rdf:predicate oe:treats ; rdf:object oed:cvd_risk .
+
+    # ev2 was assessed in response to ev1 (causal link, reified)
+    oeevt:ec_ev2 holon:inResponseTo oeevt:ec_ev1 .
+
+    oedrug:atorvastatin a oe:Drug ; rdfs:label "Atorvastatin"@en ; oe:atcCode "C10AA05" .
+    oed:cvd_risk a oe:Disease ; rdfs:label "Cardiovascular risk"@en ; oe:icdCode "Z82" .
+    oesrc:jupiter a oe:ClinicalTrial ; rdfs:label "JUPITER trial"@en ;
+        oe:pubmedId "18997196" ; oe:publicationDate "2008-11-20"^^xsd:date .
+    oesrc:cochrane_2013 a oe:SystematicReview ; rdfs:label "Cochrane statins review"@en ;
+        oe:pubmedId "23440795" ; oe:publicationDate "2013-01-31"^^xsd:date .
+}
+
+# --- BOUNDARY: admission threshold for the chain -----------------------------
+
+oech:statin_primary-bnd {
+    oeevt:ec_entry a holon:EntityEntry ;
+        holon:entity oedrug:atorvastatin ;
+        holon:entryMode "new-evidence" .
+}
+
+# --- PROJECTION: aggregate confidence (coherent with interior mean ~0.78) -----
+
+oech:statin_primary-prj {
+    oech:statin_primary holon:aggregateConfidence "0.78"^^xsd:decimal ;
+        holon:narrativeFunction
+            "Consistent moderate-to-high evidence that statins reduce primary CVD risk"@en .
+}
+
+# --- CONTEXT: provenance ------------------------------------------------------
+
+oech:statin_primary-ctx {
+    oech:statin_primary prov:wasAttributedTo oe:openevidence_ai ;
+        prov:generatedAtTime "2025-04-01T09:00:00Z"^^xsd:dateTime .
+    oe:openevidence_ai a prov:Agent ; rdfs:label "OpenEvidence AI System"@en .
+}

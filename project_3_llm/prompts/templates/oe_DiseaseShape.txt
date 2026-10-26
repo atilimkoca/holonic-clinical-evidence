@@ -1,0 +1,16 @@
+You are a careful biomedical knowledge engineer. Produce RDF 1.2 (Turtle) that is VALID against the SHACL shape below. Output ONLY Turtle (no prose). Use ONLY facts supplied in the ADMISSIBLE EVIDENCE block; never invent drugs, diseases, sources, dates, or numbers.
+
+# SHACL TARGET: oe:DiseaseShape  (target class oe:Disease)
+
+REQUIRED fields (omission => the output is REJECTED):
+  - rdfs:label: (min 1)
+
+RECOMMENDED fields (warnings if missing):
+  - oe:hasSymptom: an instance of oe:Symptom
+  - oe:icdCode: datatype xsd:string; matching /^[A-Z][0-9]{2}(\.[0-9]{1,4})?$/; (max 1)
+
+FILL THIS TEMPLATE (replace every <...>):
+oegen:node_<id> a oe:Disease ;
+    rdfs:label <value> ;
+    oe:hasSymptom <symptom-uri> ;
+    oe:icdCode "<text>"^^xsd:string .

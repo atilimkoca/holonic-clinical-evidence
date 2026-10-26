@@ -1,0 +1,37 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_obstructive_sleep_apnea_safety a holon:EntityEntry ;
+    holon:entity oed:obstructive_sleep_apnea ;
+    holon:entryMode "topic-match" .
+
+oeq:q_obstructive_sleep_apnea_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Obstructive Sleep Apne"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.66 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_obstructive_sleep_apnea_safety-bnd ;
+    holon:hasContextGraph oeq:q_obstructive_sleep_apnea_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_obstructive_sleep_apnea_safety-int ;
+    holon:hasProjectionGraph oeq:q_obstructive_sleep_apnea_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Obstructive Sleep Apnea."^^xsd:string ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.96 ;
+    oe:aboutDisease oed:obstructive_sleep_apnea ;
+    oe:answerText "Therapy options for OSA and central sleep apnea (CSA) are limited, thus many patients remain untreated. Clinically, acetazolamide is sometimes used for CSA; however, given overlapping pathophysiologic properties of OSA and CSA, we hypothesized that acetazolamide is equally effective for both types."^^xsd:string ;
+    oe:belongsToSpecialty "Pulmonology" ;
+    oe:cites oesrc:30395486,
+        oesrc:32066145,
+        oesrc:32768459,
+        oesrc:39378016 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Obstructive Sleep Apnea with available therapies?"^^xsd:string .
+

@@ -1,0 +1,460 @@
+{
+  "disease": "Cirrhosis",
+  "slug": "cirrhosis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41201884",
+      "title": "Semaglutide therapy for metabolic dysfunction-associated steatohepatitis: November 2025 updates to AASLD Practice Guidance.",
+      "abstract": "This practice recommendation serves as an update to the 2023 AASLD Practice Guidance on the clinical assessment and management of nonalcoholic fatty liver disease (NAFLD), now known as metabolic dysfunction-associated steatotic liver disease (MASLD), and provides implementable guidance on patient selection for treatment, consideration of comorbidities, and monitoring of treatment safety and efficacy of semaglutide. FDA-indication and Practice Recommendation: The Wegovy formulation, whose main ingredient is semaglutide, received accelerated FDA approval in August 2025 for treating MASH with moderate-to-advanced fibrosis (consistent with stages F2-F3 fibrosis), based on interim results of the phase 3 ESSENCE trial where 72 weeks of 2.4\u00a0mg/week subcutaneous injection resulted in achievement of both primary histologic endpoints: (1) resolution of MASH without worsening of fibrosis (62.9% vs. 34.3% placebo, p <0.001) and (2) \u22651 stage reduction in liver fibrosis without worsening of MASH (36.8% vs. 22.4% placebo, p <0.001); final approval awaits long-term outcomes. Patient Selection: Candidates should have MASH with stage 2-3 fibrosis, identified using non-invasive tests (NITs) such as VCTE (8-15\u00a0kPa), MRE (3.1-4.4\u00a0kPa), or ELF (9.2-10.5), rather than liver biopsy, which is impractical and unnecessary for most patients. In those with VCTE (15-20\u00a0kPa), MRE (4.4-5\u00a0kPa), or ELF (10.5-11.3), an individualized decision to treat should be based on exclusion of cirrhosis with another confirmatory NIT, or cross-sectional imaging excluding nodular-appearing liver contour and signs of portal hypertension, or a platelet count of <150,000/mm 3 . While semaglutide is not approved to treat patients with MASH cirrhosis (VCTE >20\u00a0kPa, MRE>5.0\u00a0kPa, ELF>11.3, and/or evidence of portal hypertension), those with compensated cirrhosis who are receiving semaglutide for another FDA-approved indication should be monitored carefully. Monitoring and Safety: Semaglutide showed a favorable hepatic safety profile in the ESSENCE trial, with no discontinuations due to liver enzyme elevations. Routine hepatic panels are recommended only as clinically indicated. The most common adverse events were gastrointestinal (nausea, diarrhea, constipation, vomiting), generally mild and transient; patient education and dose titration help improve tolerance. Clinicians should monitor for rare but serious risks, including acute kidney injury (from dehydration), symptomatic gallbladder disease, pancreatitis, thyroid C-cell tumors, retinopathy progression, and lean mass loss. Treatment Response and Concomitant Therapy: Lifestyle modification remains the cornerstone of MASLD/MASH management alongside semaglutide. Combination use of resmetirom with semaglutide 2.4mg/week has not been studied. While no NITs reliably predict histologic response at the individual patient level, reductions from baseline to 72 weeks of treatment suggest significant improvement in MASH resolution (ALT \u226517\u00a0U/L or \u226520%) and fibrosis improvement (VCTE LSM \u226530%; MRE LSM \u226520%; ELF \u22650.5). Non-response may be suspected if ALT or NITs worsen. The benefit is uncertain if a suboptimal response occurs, and may require an individualized approach and further follow-up.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Glucagon-Like Peptides",
+        "Non-alcoholic Fatty Liver Disease",
+        "Liver Cirrhosis"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptides"
+      ],
+      "journal": "Hepatology (Baltimore, Md.)",
+      "authors": [
+        "Meena B Bansal",
+        "Heather Patton",
+        "Timothy R Morgan",
+        "Rotonya M Carr",
+        "Jonathan A Dranoff",
+        "Alina M Allen"
+      ]
+    },
+    {
+      "pmid": "40691365",
+      "title": "Modulation of metabolic, inflammatory and fibrotic pathways by semaglutide in metabolic dysfunction-associated steatohepatitis.",
+      "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a chronic liver disease strongly associated with cardiometabolic risk factors. Semaglutide, a glucagon-like peptide-1 receptor agonist, improves liver histology in MASH, but the underlying signals and pathways driving semaglutide-induced MASH resolution are not well understood. Here we show that, in two preclinical MASH models, semaglutide improved histological markers of fibrosis and inflammation and reduced hepatic expression of fibrosis-related and inflammation-related gene pathways. Aptamer-based proteomic analyses of serum samples from patients with MASH in a clinical trial identified 72 proteins significantly associated with MASH resolution and semaglutide treatment, with most related to metabolism and several implicated in fibrosis and inflammation. An independent real-world cohort verified the pathophysiological relevance of this signature, showing that the same 72 proteins are differentially expressed in patients with MASH relative to healthy individuals. Taken together, these data suggest that semaglutide may revert the circulating proteome associated with MASH to the proteomic pattern observed in healthy individuals.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Glucagon-Like Peptides",
+        "Animals",
+        "Inflammation",
+        "Liver",
+        "Liver Cirrhosis",
+        "Male",
+        "Proteomics",
+        "Mice",
+        "Female",
+        "Fatty Liver",
+        "Middle Aged",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptides",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "journal": "Nature medicine",
+      "authors": [
+        "Maximilian Jara",
+        "Jenny Norlin",
+        "Mette Skalsh\u00f8i Kj\u00e6r",
+        "Kasper Almholt",
+        "Kristian M Bendtsen",
+        "Elisabetta Bugianesi"
+      ]
+    },
+    {
+      "pmid": "41794026",
+      "title": "Selective targeting of endothelial and perivascular angiocrine ROCK2 treats liver fibrosis.",
+      "abstract": "Liver fibrosis is a prominent pathological process contributing to death from hepatic diseases, including metabolic dysfunction-associated steatohepatitis (MASH). There is limited treatment for liver fibrosis. Here, we find that upregulation of Rho-associated coiled-coil containing kinase 2 (ROCK2) in liver endothelial cells (ECs) and perivascular hepatic stellate cells (HSCs) causes vascular niche dysfunction and triggers pro-fibrotic angiocrine signaling. Based on the vascular druggable target ROCK2, we developed its selective inhibitor showing anti-fibrotic potency in preclinical models and human patients. The ROCK2-selective inhibitor TDI01 restored vascular phenotype and alleviated fibrosis in rodent and minipig MASH models. A phase 1 clinical trial (ChiCTR2200058868) of TDI01 demonstrated its favorable pharmacokinetics and safety in humans. An extended clinical trial (ChiCTR2400082056) showed a trend toward reducing liver fibrosis in five of six patients after TDI01 treatment. Thus, we discover vascular ROCK2 as a pro-fibrotic target, and development of an inhibitor selectively targeting angiocrine ROCK2 may provide a treatment of liver fibrosis in human patients.",
+      "pub_date": "2026-04-30",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase I"
+      ],
+      "mesh_descriptors": [
+        "rho-Associated Kinases",
+        "Humans",
+        "Liver Cirrhosis",
+        "Animals",
+        "Hepatic Stellate Cells",
+        "Swine",
+        "Endothelial Cells",
+        "Male",
+        "Liver",
+        "Swine, Miniature",
+        "Mice",
+        "Female",
+        "Disease Models, Animal",
+        "Protein Kinase Inhibitors",
+        "Signal Transduction",
+        "Rats",
+        "Mice, Inbred C57BL"
+      ],
+      "chemicals": [
+        "rho-Associated Kinases",
+        "ROCK2 protein, human",
+        "Protein Kinase Inhibitors"
+      ],
+      "journal": "Cell",
+      "authors": [
+        "Yan Hu",
+        "Biao Yang",
+        "Chengju Xiao",
+        "Xinchun Yang",
+        "Hua Zhang",
+        "Pengbo Yang"
+      ]
+    },
+    {
+      "pmid": "40691992",
+      "title": "Rivaroxaban to prevent complications of portal hypertension in cirrhosis: The CIRROXABAN study.",
+      "abstract": "Previous studies suggest that anticoagulation may reduce the risk of portal hypertension (PHT)-related complications and improve survival in patients with cirrhosis. This study aimed to evaluate the efficacy and safety of the direct oral anticoagulant rivaroxaban in patients with cirrhosis. This was a randomized, double-blind, placebo-controlled, multicenter trial involving patients with cirrhosis, PHT, and moderate liver dysfunction (Child-Pugh score 7-10). Participants received either rivaroxaban 10 mg daily or placebo for 24 months. The primary composite endpoint was the development of a PHT-related complication or death/liver transplantation, whichever occurred first. Analyses were conducted using both modified intention-to-treat and per-protocol approaches. A total of 90 patients were enrolled (49 placebo, 41 rivaroxaban). After a median follow-up of 10.1 months, 34 patients reached the primary endpoint: 23 (46.9%) in the placebo group vs. 11 (26.8%) in the rivaroxaban group. The cumulative probability of survival free from the primary endpoint at 1 and 2 years was 54.4% and 43.0% in the placebo group, compared to 78.7% and 67.1% in the rivaroxaban group (log-rank p = 0.058). In a post hoc analysis of patients with Child-Pugh B7 scores (n = 55), rivaroxaban showed a potentially beneficial effect (hazard ratio 0.258; 95% CI 0.074-0.900). In the per-protocol analysis (41 placebo, 37 rivaroxaban), the primary event occurred in 19 patients (46.3%) in the placebo group vs. 9 (24.3%) in the rivaroxaban group (hazard ratio 0.463; 95% CI 0.209-1.024). Non-PHT-related bleeding events were more frequent in the rivaroxaban group (36.6% vs. 14.3%; relative risk 2.56; 95% CI 1.16-5.67). However, there were no significant differences in major bleeding events. In patients with cirrhosis and moderate liver dysfunction, rivaroxaban may improve PHT complication-free survival without significantly increasing the risk of major bleeding. This study provides novel evidence supporting the potential use of rivaroxaban to prevent liver decompensation in patients with cirrhosis and portal hypertension. The observed reduction in decompensation events is consistent with previous findings on the benefits of anticoagulation in cirrhosis, suggesting a possible therapeutic role for rivaroxaban in this population. Although the reduction in the primary endpoint did not reach statistical significance in the overall cohort, a potential benefit was observed in a post hoc analysis of patients with Child-Pugh B cirrhosis. However, these findings should be interpreted with caution given the exploratory nature of the subgroup analyses. Non-portal hypertension-related bleeding events were more frequent in patients receiving rivaroxaban, though severe bleeding events were not increased. These results highlight the need for further studies to determine optimal dosing strategies that balance efficacy with bleeding risk. GOV: NCT02643212. 2014-005523-27.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Rivaroxaban",
+        "Male",
+        "Female",
+        "Hypertension, Portal",
+        "Liver Cirrhosis",
+        "Middle Aged",
+        "Double-Blind Method",
+        "Factor Xa Inhibitors",
+        "Aged",
+        "Adult",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Rivaroxaban",
+        "Factor Xa Inhibitors"
+      ],
+      "journal": "Journal of hepatology",
+      "authors": [
+        "\u00c1ngela Puente",
+        "Fanny Tur\u00f3n",
+        "Javier Mart\u00ednez",
+        "Jose Ignacio Fortea",
+        "Manuel Hern\u00e1ndez Guerra",
+        "Edilmar Alvarado"
+      ]
+    },
+    {
+      "pmid": "41015698",
+      "title": "Mechanisms and therapeutic insights into MASH-associated fibrosis.",
+      "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease posing a major global health concern, closely related to the rising prevalence of obesity. Liver fibrosis is the primary determinant of adverse outcomes in MASH. The increasing worldwide prevalence, economic impact, and adverse outcomes of MASH-associated fibrosis have spurred extensive research to elucidate its pathogenesis and to address its treatment. However, the intricate mechanism driving the transition from metabolic dysfunction to clinically significant fibrosis is not fully understood. Moreover, effective therapies, particularly direct antifibrotic agents, are still lacking, despite the recent approval of resmetirom and semaglutide for MASH-associated fibrosis. Here, we review current insights into the mechanism of MASH-associated fibrosis and provide a comprehensive overview of emerging therapeutic strategies.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Liver Cirrhosis",
+        "Animals",
+        "Fatty Liver"
+      ],
+      "chemicals": [],
+      "journal": "Trends in endocrinology and metabolism: TEM",
+      "authors": [
+        "Yiwei Zhu",
+        "Bishuang Cai"
+      ]
+    },
+    {
+      "pmid": "40736113",
+      "title": "Glucagon-Like Peptide-1 Receptor Agonists Improve MASH and Liver Fibrosis: A Meta-Analysis of Randomised Controlled Trials.",
+      "abstract": "There is uncertainty regarding the hepatic efficacy of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in metabolic dysfunction-associated steatotic liver disease (MASLD) or steatohepatitis (MASH). We performed a meta-analysis of randomised controlled trials (RCTs) to examine the efficacy of GLP-1RAs in treating MASLD or MASH. We systematically searched three electronic databases from inception until April 2025 to identify RCTs examining the efficacy of GLP-1RAs for the treatment of MASLD or MASH. The outcome measures included MASH resolution without worsening of fibrosis or improvement in at least one stage of fibrosis without worsening of MASH, along with reductions in liver fat content measured using magnetic resonance-based techniques. Meta-analysis was conducted using random-effects models. We identified 13 phase 2 or phase 3 RCTs (1811 participants). These trials diagnosed MASLD or MASH through liver biopsy (n\u2009=\u20094) or magnetic resonance-based techniques (n\u2009=\u20099). Regardless of diabetes status, among individuals with MASH and moderate-to-advanced fibrosis, GLP-1RAs (especially semaglutide 2.4\u2009mg/week) for up to 72\u2009weeks were superior to placebo in achieving MASH resolution (n\u2009=\u20093 RCTs; pooled random-effects odds ratio 3.48, 95% CI 2.69-4.51; I GLP-1RAs are a promising treatment option for MASLD or MASH. Further research is needed to evaluate the long-term effects of GLP-1RAs on liver-related clinical events.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Liver Cirrhosis",
+        "Randomized Controlled Trials as Topic",
+        "Fatty Liver",
+        "Liver",
+        "Treatment Outcome",
+        "Non-alcoholic Fatty Liver Disease"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptide-1 Receptor Agonists"
+      ],
+      "journal": "Liver international : official journal of the International Association for the Study of the Liver",
+      "authors": [
+        "Alessandro Mantovani",
+        "Riccardo Morandin",
+        "Veronica Fiorio",
+        "Maria Giovanna Lando",
+        "Norbert Stefan",
+        "Herbert Tilg"
+      ]
+    },
+    {
+      "pmid": "40926017",
+      "title": "Gut-derived indole propionic acid alleviates liver fibrosis by targeting profibrogenic macrophages via the gut\u2012liver axis.",
+      "abstract": "Gut-derived metabolites are essential for liver fibrogenesis. The aim of this study was to determine the alteration of indole-3-propionic acid (IPA), a crucial tryptophan metabolite, in liver fibrosis and delineate the roles of enterogenic IPA in fibrogenesis. In the present study, metabolomics assays focused on tryptophan metabolism were applied to explore the decreased levels of IPA in the feces and serum of cirrhotic patients, as well as in the feces and portal vein serum of fibrotic mice. Oral IPA administration exerted strong antifibrotic effects with favorable biosafety in three fibrotic models via multicellular modulation. Multiplex immunohistochemical staining and DAOSLIMIT imaging demonstrated that gut-derived IPA was directly captured by hepatic macrophages. Macrophage-specific AhR knockout blocked the antifibrotic effect of IPA, while the therapeutic efficacy was maintained in mice with HSC- or hepatocyte-specific AhR depletion. Furthermore, IPA governed macrophage recruitment, S100A8/A9",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Macrophages",
+        "Indoles",
+        "Liver Cirrhosis",
+        "Mice",
+        "Humans",
+        "Liver",
+        "Mice, Inbred C57BL",
+        "Propionates",
+        "Male",
+        "Receptors, Aryl Hydrocarbon",
+        "Signal Transduction",
+        "Disease Models, Animal"
+      ],
+      "chemicals": [
+        "Indoles",
+        "indolepropionic acid",
+        "Propionates",
+        "Receptors, Aryl Hydrocarbon"
+      ],
+      "journal": "Cellular & molecular immunology",
+      "authors": [
+        "Yuanyuan Luo",
+        "Yarong Hao",
+        "Chunyan Sun",
+        "Zhi Lu",
+        "Hao Wang",
+        "Yuhan Lin"
+      ]
+    },
+    {
+      "pmid": "40818852",
+      "title": "Safety and efficacy of once-weekly efruxifermin versus placebo in metabolic dysfunction-associated steatohepatitis (HARMONY): 96-week results from a multicentre, randomised, double-blind, placebo-controlled, phase 2b trial.",
+      "abstract": "Efruxifermin is a bivalent fibroblast growth factor 21 analogue in development for the treatment of metabolic dysfunction-associated steatohepatitis (MASH). This trial aimed to prospectively assess the safety and efficacy of efruxifermin administration for 96 weeks in individuals with MASH and moderate (stage 2; F2) or severe (stage 3; F3) fibrosis. HARMONY is a multicentre, randomised, double-blind, placebo-controlled, phase 2b trial conducted at 41 academic and community centres in the USA. Adults (aged 18-75 years) with biopsy-confirmed MASH (defined as non-alcoholic fatty liver disease activity score of 4 or higher and a score of 1 or higher for steatosis, ballooning, and lobular inflammation), with histological stage F2 or F3 fibrosis, were randomly assigned (1:1:1), via an interactive response system, to receive subcutaneous efruxifermin (28 mg or 50 mg) once per week or placebo. Participants, investigators, pathologists, site staff, and the sponsor were masked to group assignments. The primary endpoint was an improvement in liver fibrosis (decrease \u22651 stage) without worsening of MASH at week 24, which has been previously reported. End-of-treatment endpoints at week 96 included a final evaluation of the primary endpoint, as well as MASH resolution without fibrosis worsening. The trial is registered with ClinicalTrials.gov, NCT04767529, and is complete. Between March 22, 2021, and Feb 7, 2022, 128 participants were randomly assigned and 126 received at least one dose of efruxifermin or placebo and were included in the modified intention-to-treat analysis. 79 (62%) of 128 participants were female and 49 (38%) were male. The proportion of participants in the modified intention-to-treat population with \u22651-stage fibrosis improvement without MASH worsening at week 96 was eight (19%) of 43 in the placebo group, 12 (30%) of 40 in the 28 mg group (difference vs placebo: 12 percentage points [95% CI -6 to 31]; p=0\u00b719), and 21 (49%) of 43 in the 50 mg group (difference: 31 percentage points [12 to 49]; p=0\u00b70030). Of 88 participants with week-96 biopsies, \u22651-stage fibrosis improvement without MASH worsening was observed in eight (24%) of 34 participants in the placebo group, 12 (46%) of 26 in the 28 mg group (difference vs placebo: 22 percentage points [95% CI -1 to 45]; p=0\u00b7070), and 21 (75%) of 28 in the 50 mg group (difference: 52 percentage points, [31 to 73]; p<0\u00b70001). 38 (95%) of 40 participants in the 28 mg group, 43 (100%) of 43 in the 50 mg group, and 42 (98%) of 43 in the placebo group reported an adverse event. Mild to moderate gastrointestinal adverse events were more common with efruxifermin than placebo. There were no reports of drug-induced liver injury or deaths across the groups. Efruxifermin resulted in greater improvements in fibrosis than placebo after 96 weeks, warranting further investigation in phase 3 trials. Akero Therapeutics.",
+      "pub_date": "2025-08-16",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase II"
+      ],
+      "mesh_descriptors": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Fibroblast Growth Factors",
+        "Liver Cirrhosis",
+        "Non-alcoholic Fatty Liver Disease",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "FGF21 protein, human",
+        "Fibroblast Growth Factors",
+        "efruxifermin"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Mazen Noureddin",
+        "Juan P Frias",
+        "Guy W Neff",
+        "K Jean Lucas",
+        "Cynthia Behling",
+        "Pierre Bedossa"
+      ]
+    },
+    {
+      "pmid": "40756370",
+      "title": "Liver-targeted degradation of BRD4 reverses hepatic fibrosis and enhances metabolism in murine models.",
+      "abstract": "",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Liver Cirrhosis",
+        "Mice",
+        "Transcription Factors",
+        "Humans",
+        "Liver",
+        "Disease Models, Animal",
+        "Proteolysis",
+        "Cell Cycle Proteins",
+        "Hepatic Stellate Cells",
+        "Male",
+        "Cell Line",
+        "Nuclear Proteins",
+        "Mice, Inbred C57BL",
+        "Hepatocytes",
+        "Carbon Tetrachloride",
+        "Bromodomain Containing Proteins"
+      ],
+      "chemicals": [
+        "Transcription Factors",
+        "Cell Cycle Proteins",
+        "Brd4 protein, mouse",
+        "Nuclear Proteins",
+        "BRD4 protein, human",
+        "Carbon Tetrachloride",
+        "Bromodomain Containing Proteins"
+      ],
+      "journal": "Theranostics",
+      "authors": [
+        "Shengjie Yuan",
+        "Ayesha Nisar",
+        "Chuanjie Chen",
+        "Xin Dong",
+        "Yongzhang Pan",
+        "Meiting Zi"
+      ]
+    },
+    {
+      "pmid": "41173016",
+      "title": "Linerixibat in patients with primary biliary cholangitis and cholestatic pruritus (GLISTEN): a randomised, multicentre, double-blind, placebo-controlled, phase 3 trial.",
+      "abstract": "Cholestatic pruritus is common and undertreated in primary biliary cholangitis (PBC) and negatively affects patients' lives. We aimed to evaluate the safety and efficacy of linerixibat, an ileal bile acid transporter inhibitor, as a specific antipruritic therapy in patients with PBC. We conducted a randomised, multicentre, double-blind, placebo-controlled, phase 3 trial. Patients with PBC and moderate-to-severe pruritus (Worst Itch Numerical Rating Scale [WI-NRS] \u22654) were recruited at 115 centres in 19 countries. Patients were randomly assigned to receive either oral linerixibat 40 mg twice a day or a matching placebo through an interactive online response system, with pruritus severity (moderate or severe) and concomitant pruritus treatment (bile acid binding resins, other treatments, or none) as stratification factors. The primary endpoint was change in pruritus over 24 weeks assessed using the WI-NRS, ranging from 0 (no itching) to 10 (worst imaginable itching). Efficacy analyses included all randomly allocated patients; safety analyses included all randomly allocated patients who received one dose of study treatment or more. This study is registered with ClinicalTrials.gov, number NCT04950127. From Dec 1, 2021, to May 13, 2024, a total of 238 patients were randomly assigned to receive either linerixibat (n=119) or placebo (n=119). One (<1%) of 119 patients randomly allocated to receive placebo withdrew before receiving treatment. Patients receiving linerixibat experienced significant improvement in pruritus over 24 weeks compared with placebo (least-squares mean change from baseline -2\u00b786 [95% CI -3\u00b723 to -2\u00b750] for linerixibat vs -2\u00b715 [-2\u00b751 to -1\u00b778] for placebo; adjusted mean difference -0\u00b772 [95% CI -1\u00b715 to -0\u00b728]; p=0\u00b70013). Gastrointestinal adverse events were more frequent in patients treated with linerixibat than with placebo (72 [61%] of 119 vs 21 [18%] of 118 had diarrhoea; 22 [18%] vs four [3%] had abdominal pain). Treatment discontinuations due to gastrointestinal adverse events occurred in eight (7%) of 119 patients in the linerixibat group (of which five were due to diarrhoea) and one (<1%) of 118 in the placebo group. Serious adverse events were reported in 14 (12%) of 119 patients receiving linerixibat and four (3%) of 118 receiving placebo. No deaths were reported during the study. Linerixibat significantly improved pruritus versus placebo, supporting its potential to address a major symptom of PBC. An expected increase in diarrhoea in linerixibat-treated patients was observed. GSK.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pruritus",
+        "Double-Blind Method",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Liver Cirrhosis, Biliary",
+        "Aged",
+        "Cholestasis",
+        "Treatment Outcome",
+        "Adult",
+        "Severity of Illness Index",
+        "Antipruritics"
+      ],
+      "chemicals": [
+        "Antipruritics"
+      ],
+      "journal": "The lancet. Gastroenterology & hepatology",
+      "authors": [
+        "Gideon M Hirschfield",
+        "Christopher L Bowlus",
+        "David E J Jones",
+        "Andreas E Kremer",
+        "Marlyn J Mayo",
+        "Atsushi Tanaka"
+      ]
+    },
+    {
+      "pmid": "41075517",
+      "title": "Baicalein Induces Hepatic Stellate Cell Senescence and Attenuates Liver Fibrosis via CEBPZ/p53/HK2-Mediated Glycolysis Inhibition.",
+      "abstract": "Liver fibrosis progresses to life-threatening cirrhosis, yet effective therapies remain limited. Baicalein (BA), a bioactive flavonoid, shows anti-tumor potential but its anti-liver-fibrotic efficacy is completely unexplored. This study aimed to investigate the anti-liver-fibrotic efficacy of BA and elucidate its underlying molecular mechanisms. We employed carbon tetrachloride (CCl BA significantly attenuated liver injury (AST and AST decreasing, P < 0.001), inflammation (interleukin-6, interleukin-8 and tumor necrosis factor-alpha decreasing, P < 0.001) and collagen deposition (P < 0.001) in fibrotic mice. In activated HSCs, BA suppressed cellular activation while inducing senescence through G1-phase cell cycle arrest (P < 0.001) and glycolysis inhibition (lactate decreasing: P < 0.001). Mechanistically, BA directly bound to CEBPZ, suppressing its LLPS and subsequently enhancing TP53 transcription. This activation of the p53/HK2 axis drove HSCs senescence and attenuated fibrosis. Critically, pharmacological inhibition of p53 with pifithrin-\u03b1 hydrobromide abolished BA's anti-fibrotic effects. BA's anti-fibrotic efficacy was entirely lost in CEBPZ-knockdown models (P > 0.05), confirming the essentiality and novelty of this target. Our study revealed, for the first time, that BA ameliorated liver fibrosis by directly targeting CEBPZ, disrupting its LLPS, and activating the p53/HK2 axis to induce HSC senescence. This work uncovered a novel plant-derived therapeutic strategy targeting a previously unrecognized CEBPZ-LLPS/p53/HK2 mechanism in hepatic fibrosis.",
+      "pub_date": "2025-11-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Flavanones",
+        "Hepatic Stellate Cells",
+        "Animals",
+        "Cellular Senescence",
+        "Glycolysis",
+        "Tumor Suppressor Protein p53",
+        "Humans",
+        "Liver Cirrhosis",
+        "Male",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Cell Line",
+        "Carbon Tetrachloride"
+      ],
+      "chemicals": [
+        "Flavanones",
+        "baicalein",
+        "Tumor Suppressor Protein p53",
+        "Carbon Tetrachloride"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Shuling Chen",
+        "Ruiqi Li",
+        "Caiyun Zhang",
+        "Jun Guo",
+        "Anyin Yang",
+        "Dawei Yang"
+      ]
+    },
+    {
+      "pmid": "41369634",
+      "title": "Clusterin Drives Fiber Endocytosis by Mesothelial Cells to Resolve Liver Fibrosis.",
+      "abstract": "Liver fibrosis, a common outcome of chronic liver diseases, is generally considered irreversible. Upregulation of clusterin (CLU), a secreted glycoprotein, occurs in several degenerative diseases and is suggested to have protective effects; however, its potential in treating or reversing liver fibrosis requires investigation. Induction of CLU and its receptor low-density lipoprotein receptor-related protein 2 (LRP2) in fibrotic liver were determined using single-cell RNA sequencing and immunofluorescence. Its role and mechanism were examined in CLU knockout mice and mesothelial-specific LRP2 knockout mice. A peptide mimicking CLU was designed and verified. CLU expression was induced in pericentral senescent hepatocytes and then secreted during liver fibrosis in both patients and mice. CLU deletion exacerbated liver fibrosis, whereas treatment with recombinant CLU reduced fibrosis, suggesting that CLU induction feedback inhibits fibrosis progression. Mechanistically, LRP2, the receptor for CLU, is expressed specifically by liver mesothelial cells but not hepatic stellate cells. Recognition of CLU by LRP2 triggers mesothelial cell proliferation and migration from the liver surface into the pericentral region, followed by endocytosis of surrounding fibers, thus reducing liver fibrosis. Thereafter, we designed a 20-amino acid peptide mimicking CLU, named CLUtide, and determined its effect in resolving liver fibrosis, suggesting the considerable therapeutic potential. Pericentral senescent hepatocytes secrete CLU to induce the proliferation and migration of mesothelial cells to endocytose fibers by its receptor LRP2, thus reducing liver fibrosis. The engineered CLUtide mimicking CLU may be promising for resolving hepatic deposited fibers during liver fibrosis.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Clusterin",
+        "Animals",
+        "Endocytosis",
+        "Humans",
+        "Mice, Knockout",
+        "Low Density Lipoprotein Receptor-Related Protein-2",
+        "Liver Cirrhosis",
+        "Mice",
+        "Liver",
+        "Cell Proliferation",
+        "Hepatocytes",
+        "Epithelial Cells",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Disease Models, Animal",
+        "Cell Movement"
+      ],
+      "chemicals": [
+        "Clusterin",
+        "Low Density Lipoprotein Receptor-Related Protein-2",
+        "Clu protein, mouse",
+        "Lrp2 protein, mouse",
+        "CLU protein, human",
+        "LRP2 protein, human"
+      ],
+      "journal": "Gastroenterology",
+      "authors": [
+        "Minjun Wang",
+        "Fei Chen",
+        "Junling Gao",
+        "Qinggui Liu",
+        "Zhixuan Li",
+        "Qingjie Kong"
+      ]
+    }
+  ]
+}

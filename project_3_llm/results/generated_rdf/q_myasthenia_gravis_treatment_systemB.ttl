@@ -1,0 +1,33 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_myasthenia_gravis_treatment> a holon:ClinicalQuestionHolon ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Myasthenia Gravis?"^^xsd:string ;
+    oe:answerText "Given burdensome side-effects and long latency for efficacy with conventional agents, there is a continued need for generalised myasthenia gravis treatments that are safe and provide consistently sustained, long-term disease control. Nipocalimab, a neonatal Fc receptor blocker, was associated with dose-dependent reductions in total IgG and anti-acetylcholine receptor (AChR) antibodies and clinically meaningful improvements in the Myasthenia Gravis Activities of Daily Living (MG-ADL) scale in patients with generalised myasthenia gravis in a phase 2 study."^^xsd:string ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_myasthenia_gravis_treatment-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_myasthenia_gravis_treatment-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_myasthenia_gravis_treatment-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_myasthenia_gravis_treatment-con> .
+
+<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/myasthenia_gravis> .
+<https://example.org/openevidence/generated/ev_q_myasthenia_gravis_treatment_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_myasthenia_gravis_treatment_0-tt> ;
+    holon:confidence "0.88"^^xsd:decimal ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/39862879> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_myasthenia_gravis_treatment> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_myasthenia_gravis_treatment_0-tt> rdf:subject <https://example.org/openevidence/drugs/prednisone> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/myasthenia_gravis> .
+
+<https://example.org/openevidence/drugs/apixaban> oe:treats <https://example.org/openevidence/diseases/pulmonary_embolism> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/metoprolol> oe:treats <https://example.org/openevidence/diseases/angina_pectoris> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/pembrolizumab> oe:treats <https://example.org/openevidence/diseases/non_small_cell_lung_cancer> .   # ungrounded (naive)

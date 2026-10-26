@@ -1,0 +1,447 @@
+{
+  "disease": "Parkinson Disease",
+  "slug": "parkinson_disease",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40792655",
+      "title": "Anti-Neuroinflammatory and Anti-Inflammatory Effects of the NLRP3 Inhibitor NT-0796 in Subjects with Parkinson's Disease.",
+      "abstract": "Inhibition of Nod-like receptor protein 3 (NLRP3) inflammasome within the central nervous system (CNS) is a promising therapeutic target for the treatment of Parkinson's disease (PD). This phase 1b open-label study was conducted in elderly healthy volunteers (HV) and PD patients. The study was designed to assess safety and tolerability and to evaluate the central and systemic pharmacokinetic profile and anti-inflammatory effects of a total daily dose of 300\u2009mg NT-0796 (oral 150\u2009mg suspension capsule formulation every 12\u2009h). Four elderly HV and 10 subjects with PD received 150\u2009mg open-label NT-0796 every 12\u2009h for either 7 or 28\u2009days, respectively. Blood and cerebrospinal fluid (CSF) were collected via serial sampling or lumbar punctures for pharmacokinetic and biomarker analyses. Standard safety parameters were monitored throughout. NT-0796 was safe and well tolerated with minimal adverse events. A reduced peak-to-trough ratio along with moderately higher exposure than the solution formulation (used in the first-in-human study) was observed, along with significant CSF exposure in elderly HV and subjects with PD. NT-0796 drove reductions in systemic inflammatory markers including high-sensitivity C-reactive protein, fibrinogen, interleukin (IL)-6, and IL-18. Furthermore, reductions in neuroinflammation, including IL-1\u03b2, were indicative of NT-0796's target engagement within the central nervous system (CNS) of subjects with PD. CNS inhibition of NLRP3 with NT-0796 reduced neuroinflammation over a sustained 28-day dosing period and demonstrates the potential for long-term dosing of NT-0796 in future studies of patients with neurodegeneration. \u00a9 2025 NodThera Limited. Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase I"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Parkinson Disease",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Aged",
+        "Male",
+        "Female",
+        "Anti-Inflammatory Agents",
+        "Middle Aged",
+        "Neuroinflammatory Diseases"
+      ],
+      "chemicals": [
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Anti-Inflammatory Agents",
+        "NLRP3 protein, human"
+      ],
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "authors": [
+        "Nicholas Clarke",
+        "Peter Thornton",
+        "Val\u00e9rie Reader",
+        "Nicola Lindsay",
+        "Zsofia Digby",
+        "Bianca Mullen"
+      ]
+    },
+    {
+      "pmid": "40864725",
+      "title": "Putative PINK1/Parkin activators lower the threshold for mitophagy by sensitizing cells to mitochondrial stress.",
+      "abstract": "The PINK1/Parkin pathway targets damaged mitochondria for degradation via mitophagy. Genetic evidence implicates impaired mitophagy in Parkinson's disease, making its pharmacological enhancement a promising therapeutic strategy. Here, we characterize two mitophagy activators: a novel Parkin activator, FB231, and the reported PINK1 activator MTK458. Both compounds lower the threshold for mitochondrial toxins to induce PINK1/Parkin-mediated mitophagy. However, global proteomics revealed that FB231 and MTK458 independently induce mild mitochondrial stress, resulting in impaired mitochondrial function and activation of the integrated stress response, effects that result from PINK1/Parkin-independent off-target activities. We find that these compounds impair mitochondria by distinct mechanisms and synergistically decrease mitochondrial function and cell viability in combination with classical mitochondrial toxins. Our findings support a model whereby weak or \"silent\" mitochondrial toxins potentiate other mitochondrial stressors, enhancing PINK1/Parkin-mediated mitophagy. These insights highlight important considerations for therapeutic strategies targeting mitophagy activation in Parkinson's disease.",
+      "pub_date": "2025-08-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Mitophagy",
+        "Ubiquitin-Protein Ligases",
+        "Protein Kinases",
+        "Mitochondria",
+        "Humans",
+        "Stress, Physiological",
+        "Parkinson Disease",
+        "Cell Survival",
+        "HeLa Cells",
+        "PTEN-Induced Putative Kinase"
+      ],
+      "chemicals": [
+        "Ubiquitin-Protein Ligases",
+        "Protein Kinases",
+        "PTEN-Induced Putative Kinase",
+        "parkin protein"
+      ],
+      "journal": "Science advances",
+      "authors": [
+        "William M Rosencrans",
+        "Ryan W Lee",
+        "Logan McGraw",
+        "Ian Horsburgh",
+        "Ting-Yu Wang",
+        "Baiyi Quan"
+      ]
+    },
+    {
+      "pmid": "40754045",
+      "title": "Artesunate alleviates Parkinson's disease by targeting astrocyte MT2A to attenuate dopamine neuronal cuproptosis.",
+      "abstract": "Parkinson's disease (PD) is the second most common prevalent neurodegenerative disease. Recent studies revealed that dysregulation of copper homeostasis was associated with the progression of PD. However, safe and efficient therapeutic drugs were deficient. Our study first demonstrated that Artesunate (AS) targeted on astrocyte to attenuate 6-OHDA-induced dopamine (DA) neurotoxicity. Furtherly, using HuProt\u2122 20\u202fK human proteome microarray and SPR analysis, it was demonstrated and validated that metallothionein 2\u202fA (MT2A) was a direct AS-binding protein, which high-expressed in astrocyte and up-regulated by AS. In addition, AS decreased intracellular Cu",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Astrocytes",
+        "Animals",
+        "Artesunate",
+        "Dopaminergic Neurons",
+        "Humans",
+        "Male",
+        "Metallothionein",
+        "Copper",
+        "Neuroprotective Agents",
+        "Parkinson Disease",
+        "Oxidopamine",
+        "Mice, Inbred C57BL",
+        "Dopamine",
+        "Mice"
+      ],
+      "chemicals": [
+        "Artesunate",
+        "Metallothionein",
+        "Copper",
+        "Neuroprotective Agents",
+        "Oxidopamine",
+        "Dopamine"
+      ],
+      "journal": "Pharmacological research",
+      "authors": [
+        "Yufeng Cheng",
+        "Guoqing Wang",
+        "Xinxing Yang",
+        "Yuanyuan Wang",
+        "Daidi Li",
+        "Yujia Zhao"
+      ]
+    },
+    {
+      "pmid": "41126787",
+      "title": "Effects of a Four-Strain Probiotic on Gut Microbiota, Inflammation, and Symptoms in Parkinson's Disease: A Randomized Clinical Trial.",
+      "abstract": "Gut dysbiosis and gut-brain-axis involvement in people with Parkinson's disease (PwP) support the use of gut-microbiota-modulating interventions. Probiotics may help manage constipation in PwP; however, mechanisms underpinning additional beneficial properties are unknown. The aim was evaluating the effects of a probiotic (Lacticaseibacillus rhamnosus, Lactobacillus acidophilus, Lactiplantibacillus plantarum and Enterococcus faecium) on gut microbiota, inflammation, motor and non-motor symptoms (NMS) in PwP and constipation. In this multicenter, randomized, double-blind, placebo-controlled trial (NCT05146921), PwP and constipation were randomized (1:1) to receive either the probiotic (4.08\u2009\u00d7\u200910 Between July 17, 2019 and February 6, 2022, 74 participants were randomized. Data from 35 (probiotic) and 33 (placebo) participants were analyzed. Enrichments of bacteria with beneficial health-related properties (Odoribacteraceae, Enterococcaceae, and Blautia faecicola) were observed in the active group compared to placebo (P\u2009\u2264\u20090.05). Proinflammatory cytokine TNF-\u03b1 plasma levels decreased with probiotic treatment and increased with placebo (P\u2009<\u20090.05). No changes in SCFAs levels were observed. Reductions in time-to-on and NMS scale scores (P\u2009<\u20090.05) were observed only in the active group. This probiotic was effective in beneficially enriching the gut microbiota with potential to reduce systemic inflammation, shortening time-to-on following levodopa administration, and alleviating NMS burden in PwP experiencing constipation. \u00a9 2025 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society. \u00a9 2025 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Probiotics",
+        "Parkinson Disease",
+        "Gastrointestinal Microbiome",
+        "Male",
+        "Female",
+        "Double-Blind Method",
+        "Aged",
+        "Middle Aged",
+        "Inflammation",
+        "Constipation",
+        "Dysbiosis"
+      ],
+      "chemicals": [],
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "authors": [
+        "Valentina Leta",
+        "Pavlos Zinzalias",
+        "Lucia Batzu",
+        "Gargi Mandal",
+        "Juliet Staunton",
+        "Frida Jernstedt"
+      ]
+    },
+    {
+      "pmid": "40999543",
+      "title": "Three-dimensional midbrain organoids: a next-generation tool for Parkinson's disease modelling and drug discovery.",
+      "abstract": "Parkinson's disease (PD), a progressive neurodegenerative disorder marked by dopaminergic (DA) neuron loss and Lewy body formation, lacks therapies to halt neurodegeneration. Current models, including 2D cultures and animal studies, fail to fully recapitulate human midbrain complexity, underscoring the need for advanced human-relevant disease modelling systems. Midbrain organoids (MOs), three-dimensional (3D) stem cell-derived neuronal structures mimicking midbrain architecture, have emerged as transformative tools for modelling PD. These organoids replicate key pathological hallmarks and enable disease mechanistic studies and drug screening for PD. Recent advances of research in MOs include genetic modelling of PD-linked mutations (e.g., LRRK2, GBA1, DNAJC6), optogenetics-assisted \u03b1-synuclein (\u03b1-syn) protein aggregation systems, and high-throughput drug testing platforms. MOs also show promise for cell replacement therapy, with successful integration and functional recovery in animal PD models. However, challenges such as batch variability, limited vascularization, incomplete neuronal maturation, and high costs hinder reproducibility and scalability. Future directions focus on integrating vascular networks, microglia co-cultures, automated workflows, and assembloid technologies to enhance pathophysiological relevance and translational potential in PD. By addressing these limitations, research in MOs could revolutionize PD research, offering critical insights into disease mechanisms and accelerating therapeutic discovery for PD patients.",
+      "pub_date": "2025-09-25",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Organoids",
+        "Parkinson Disease",
+        "Mesencephalon",
+        "Drug Discovery",
+        "Animals",
+        "Dopaminergic Neurons"
+      ],
+      "chemicals": [],
+      "journal": "Stem cell research & therapy",
+      "authors": [
+        "Rosalie Elvira",
+        "Eng King Tan",
+        "Zhi Dong Zhou"
+      ]
+    },
+    {
+      "pmid": "40913726",
+      "title": "Rhapontigenin attenuates neurodegeneration in a parkinson's disease model by downregulating mtDNA-cGAS-STING-NF-\u03baB-mediated neuroinflammation via PINK1/DRP1-dependent microglial mitophagy.",
+      "abstract": "Microglial activation-induced neuroinflammation and impaired neuronal mitophagy are recognized as pivotal pathogeneses in Parkinson's disease (PD). However, the role of microglial mitophagy in microglial activation during PD development remains unclear, and therapeutic interventions targeting this interaction are lacking. Rhapontigenin (Rhap), a stilbenoid enriched in Vitis vinifera, exhibits dual anti-neuroinflammatory and mitophagy-enhancing properties, but its therapeutic potential and mechanisms in PD are unexplored. This study aimed to investigate the therapeutic efficacy of Rhap on neurodegeneration in a PD model and explore its underlying mechanism. Here, we showed that Rhap administration significantly ameliorated motor deficits, dopaminergic neuron loss, and neuroinflammation in MPTP-induced PD mice. Mechanistically, Rhap suppressed neuroinflammation by inhibiting the cGAS-STING-NF-\u03baB signaling axis in both PD model mice and MPP\u207a-induced BV2 microglia. Crucially, its anti-inflammatory effects depend on the PINK1-mediated enhancement of microglial mitophagy to control cytosolic mtDNA leakage. Specifically, Rhap bound to PINK1 strengthened the PINK1-DRP1 interaction, promoted mitochondrial fission in damaged organelles, and enhanced mitophagy clearance. This mitophagy activation prevents cytosolic leakage of mitochondrial DNA (mtDNA), thereby attenuating mtDNA-cGAS-STING-NF-\u03baB-derived neuroinflammation and subsequent neurodegeneration in PD. PINK1 deficiency in BV2 microglia abolished Rhap's ability to suppress mtDNA-cGAS-STING-NF-\u03baB activation and enhance mitophagy. Overall, our study reveals a previously unrecognized mechanism by which Rhap ameliorates PD-associated neurodegeneration through dual modulation of PINK1/DRP1-dependent microglial mitophagy and the mtDNA-cGAS-STING-NF-\u03baB neuroinflammatory axis, suggesting a potential therapeutic strategy for PD and related neurodegenerative disorders.",
+      "pub_date": "2025-09-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Mitophagy",
+        "Microglia",
+        "NF-kappa B",
+        "Mice",
+        "Protein Kinases",
+        "Membrane Proteins",
+        "Parkinson Disease",
+        "Disease Models, Animal",
+        "DNA, Mitochondrial",
+        "Mice, Inbred C57BL",
+        "Dynamins",
+        "Male",
+        "Dopaminergic Neurons",
+        "Signal Transduction",
+        "Neuroinflammatory Diseases",
+        "Down-Regulation",
+        "Nucleotidyltransferases",
+        "PTEN-Induced Putative Kinase",
+        "STING Protein",
+        "Cyclic Guanosine Monophosphate-Adenosine Monophosphate Synthase"
+      ],
+      "chemicals": [
+        "NF-kappa B",
+        "Protein Kinases",
+        "Membrane Proteins",
+        "DNA, Mitochondrial",
+        "Dynamins",
+        "Nucleotidyltransferases",
+        "PTEN-Induced Putative Kinase",
+        "Sting1 protein, mouse",
+        "STING Protein",
+        "Dnm1l protein, mouse",
+        "cGAS protein, mouse",
+        "Cyclic Guanosine Monophosphate-Adenosine Monophosphate Synthase"
+      ],
+      "journal": "Cellular and molecular life sciences : CMLS",
+      "authors": [
+        "Zhongqiang Su",
+        "Hui Shu",
+        "Xingting Huang",
+        "Liuyan Ding",
+        "Fengchu Liang",
+        "Zongtang Xu"
+      ]
+    },
+    {
+      "pmid": "41819290",
+      "title": "Artificial intelligence and multiomics integration for Parkinson's disease drug development.",
+      "abstract": "Recent advances underscore the potential of integrating multiomics, such as genomics, transcriptomics, proteomics, and metabolomics, and artificial intelligence to overcome limitations regarding early diagnosis and treatment of Parkinson's disease. Developing a comprehensive view of the complex molecular landscape of Parkinson's disease through artificial intelligence algorithms would enable the processing of extensive multiomics datasets. Applying these integrative technologies to Parkinson's disease research would improve early diagnosis, support personalized therapeutic strategies, and drug discovery. This review explores the transformative potential of integrating multiomics and artificial intelligence in Parkinson's disease, outlining a framework to advance diagnosis, treatment, and drug development in neurodegenerative diseases.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Parkinson Disease",
+        "Humans",
+        "Artificial Intelligence",
+        "Drug Development",
+        "Genomics",
+        "Metabolomics",
+        "Proteomics",
+        "Drug Discovery",
+        "Multiomics"
+      ],
+      "chemicals": [],
+      "journal": "Molecules and cells",
+      "authors": [
+        "Seulah Lee",
+        "Jaehoon Kim",
+        "Hae-Un Jung",
+        "Dayea Kim",
+        "Eunji Cho",
+        "Ye-Jin Kim"
+      ]
+    },
+    {
+      "pmid": "40816423",
+      "title": "Exosome-mediated microglia-astrocyte interactions drive neuroinflammation in Parkinson's disease with Peli1 as a potential therapeutic target.",
+      "abstract": "Neuroinflammation is a key feature of Parkinson's disease (PD), characterized by activated microglia and the conversion of astrocytes into the neurotoxic phenotype, exacerbating the neuroinflammation. In PD, microglia critically drive neurotoxic reactive astrocytes (A1, A1-like, or neuroinflammatory reactive astrocytes)-though the underlying mechanisms remain elusive. Given the established role of exosomes as critical intercellular messengers, we investigated whether microglia-derived exosomes contribute to neurotoxic astrocyte transformation. Our findings demonstrate that microglial depletion via PLX3397 significantly attenuated \u03b1-synuclein pre-formed fibrils (\u03b1-syn PFF)-induced neurotoxic reactive astrocytes. Crucially, purified microglial exosomes alone proved sufficient to drive astrocyte polarization toward the neurotoxic phenotype in mice. Complementary approaches-exosome depletion from microglial supernatants and GW4869-mediated exosome secretion blockade-convergently alleviated neurotoxic astrocytic phenotype conversion, verifying exosome-dependent mechanisms. Mechanistically, PFF-activated microglial exosomes carried proinflammatory factors and toxic \u03b1-syn oligomers. These cargo components exacerbated neuroinflammation through induction of the neurotoxic astrocyte phenotype and direct mediation of neuronal damage. Critically, upon intrastriatal injection, these exosomes were internalized by astrocytes in the striatum and substantia nigra, triggering concurrent astrocyte proliferation and neurotoxic phenotypic conversion. Additionally, we identify Peli1, an E3 ubiquitin ligase selectively enriched in microglia, as a key regulator of microglia activation and exosome release. Peli1 inhibition alleviates microglia activation and neurotoxic astrocyte conversion. Moreover, our findings reveal a feedback loop between neurotoxic astrocytes and microglia, wherein neurotoxic astrocytes upregulate Peli1 expression in microglia, further promoting neuroinflammation. This study highlights microglial exosomes in regulating neurotoxic astrocyte activation and identifies Peli1 as a novel target for PD intervention.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Exosomes",
+        "Astrocytes",
+        "Microglia",
+        "Parkinson Disease",
+        "Mice",
+        "Ubiquitin-Protein Ligases",
+        "Mice, Inbred C57BL",
+        "Neuroinflammatory Diseases",
+        "Male",
+        "alpha-Synuclein",
+        "Humans"
+      ],
+      "chemicals": [
+        "Ubiquitin-Protein Ligases",
+        "alpha-Synuclein"
+      ],
+      "journal": "Pharmacological research",
+      "authors": [
+        "Min Guo",
+        "Ao Guan",
+        "Minjie Zhang",
+        "Haiqing Li",
+        "Weishi Liu",
+        "Bangsheng Wu"
+      ]
+    },
+    {
+      "pmid": "41390406",
+      "title": "Engineered extracellular vesicles-mediated curcumin delivery in brain microenvironment modulating lysosomes, mitochondria, and microglia reprogram for parkinson's disease therapy.",
+      "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterized by the loss of dopaminergic neurons, aggregation of \u03b1-synuclein (\u03b1-Syn), lysosomal dysfunction, and mitochondrial impairment. Curcumin has demonstrated neuroprotective effects against PD pathology; however, its poor bioavailability, rapid systemic clearance, and limited blood-brain barrier permeability remain significant challenges to be overcome. An extracellular vesicle (EV)-based dopamine transporter (DAT)-targeted drug delivery system, derived from genetically engineered HEK293T cells, expressing DAT-targeting single-chain variable fragments (scFv) on the EV surface, is developed. Curcumin is encapsulated into the DAT-targeting EVs (\u03b1DAT EVs) for precise delivery into dopaminergic neurons. In the PD cell model, significant EV uptake is observed, with a reduced accumulation of \u03b1-Syn, alongside restored expression of DJ-1, TH, and PARKIN following treatment with curcumin-loaded DAT-targeting EVs (Cur@\u03b1DAT EVs). In a 6-hydroxydopamine (6-OHDA)-induced PD rat model, Cur@\u03b1DAT EVs significantly enhanced motor and cognitive function, protected dopaminergic neurons, and attenuated neuroinflammation, with microglial activation considered a downstream paracrine/bystander effect following neuronal rescue. Accumulation of curcumin in the substantia nigra and ventral tegmental area confirms precise \u03b1DAT-EV-mediated delivery, addressing the pharmacokinetic challenges of free curcumin. Overall, DAT-targeting EVs represent a promising precision delivery platform for combating PD.",
+      "pub_date": "2025-12-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Curcumin",
+        "Animals",
+        "Humans",
+        "Extracellular Vesicles",
+        "Parkinson Disease",
+        "Rats",
+        "Mitochondria",
+        "Microglia",
+        "Lysosomes",
+        "HEK293 Cells",
+        "Brain",
+        "Dopaminergic Neurons",
+        "Dopamine Plasma Membrane Transport Proteins",
+        "Rats, Sprague-Dawley",
+        "Male",
+        "Drug Delivery Systems",
+        "alpha-Synuclein",
+        "Neuroprotective Agents"
+      ],
+      "chemicals": [
+        "Curcumin",
+        "Dopamine Plasma Membrane Transport Proteins",
+        "alpha-Synuclein",
+        "Neuroprotective Agents"
+      ],
+      "journal": "Journal of nanobiotechnology",
+      "authors": [
+        "Ming-You Shie",
+        "Mei-Chih Chen",
+        "Yeh Chen",
+        "Shi-Wei Huang",
+        "Yen-Hong Lin",
+        "Min-Hua Yu"
+      ]
+    },
+    {
+      "pmid": "40952352",
+      "title": "Biomimetic Nanoregulators Mediated Tyrosine Hydroxylase mRNA and Stimulator of Interferon Genes Antagonist Codelivery for Synergistic Therapy on Parkinson's Disease.",
+      "abstract": "Degeneration of dopaminergic neurons in substantia nigra and neuroinflammation caused by microglia is one of the basic pathological features of Parkinson's disease (PD). Currently, therapeutic strategies that enhance dopaminergic neuronal function while simultaneously mitigating neuroinflammation hold great promise but face significant challenges in clinical application. To address these challenges, we developed a neuron-derived exosome biomimetic multifunctional nanoregulator codelivered tyrosine hydroxylase (TH) mRNA and stimulator of interferon genes (STING) antagonist. This nanoregulator system simultaneously delivers TH mRNA to enhance dopaminergic neuronal function and activity while incorporating the STING antagonist H-151 to promote microglial polarization from the pro-inflammatory M1 phenotype to the anti-inflammatory M2 phenotype, effectively suppressing neuroinflammation. Both in vitro and in vivo studies demonstrate that via mRNA therapy can precisely target and regulate dopamine (DA) synthesis, and that combined anti-inflammatory treatment effectively enhances this effect, significantly alleviating motor dysfunction in PD mice. Our findings present an effective approach for the development of PD medications and the advanced delivery of mRNA nanomedicines. This innovative nanoregulator represents a promising therapeutic strategy for managing neuroinflammation and improving dopaminergic neuronal function in PD by merging mRNA-based gene therapy with neuroinflammation modulation, addressing DA deficiency at its root and overcoming the current treatment obstacles in PD.",
+      "pub_date": "2025-09-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Parkinson Disease",
+        "Animals",
+        "Tyrosine 3-Monooxygenase",
+        "Mice",
+        "RNA, Messenger",
+        "Biomimetic Materials",
+        "Humans",
+        "Mice, Inbred C57BL",
+        "Dopaminergic Neurons",
+        "Nanoparticles",
+        "Dopamine"
+      ],
+      "chemicals": [
+        "Tyrosine 3-Monooxygenase",
+        "RNA, Messenger",
+        "Dopamine"
+      ],
+      "journal": "ACS nano",
+      "authors": [
+        "Lizhi Yang",
+        "Shuo Li",
+        "Chao Hou",
+        "Yukang Zhang",
+        "Linggang Cheng",
+        "Zihua Wang"
+      ]
+    },
+    {
+      "pmid": "40846833",
+      "title": "Hemoglobin as a pseudoperoxidase and drug target for oxidative stress-related diseases.",
+      "abstract": "Hemoglobin (Hb) is well known for transporting oxygen in the blood, but its role in the brain remains poorly understood. Here, we identified Hb in the cytosol, mitochondria, and nuclei of hippocampal and substantia nigra astrocytes and dopaminergic neurons. As a pseudoperoxidase, Hb decomposes hydrogen peroxide (H",
+      "pub_date": "2025-08-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Oxidative Stress",
+        "Humans",
+        "Hydrogen Peroxide",
+        "Animals",
+        "Hemoglobins",
+        "Alzheimer Disease",
+        "Astrocytes",
+        "Mice",
+        "Parkinson Disease",
+        "Dopaminergic Neurons"
+      ],
+      "chemicals": [
+        "Hydrogen Peroxide",
+        "Hemoglobins"
+      ],
+      "journal": "Signal transduction and targeted therapy",
+      "authors": [
+        "Woojin Won",
+        "Elijah Hwejin Lee",
+        "Lizaveta Gotina",
+        "Heejung Chun",
+        "Jae-Hun Lee",
+        "Mridula Bhalla"
+      ]
+    },
+    {
+      "pmid": "41016604",
+      "title": "Sirtuins in Parkinson's disease: Molecular mechanisms and pathophysiological roles.",
+      "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder that is associated with mitochondrial dysfunction, oxidative stress, neuroinflammation, and abnormal protein aggregation. The silent information regulator 2 (Sir2) family of proteins, known as sirtuins (SIRT1 - SIRT7), is nicotinamide adenine dinucleotide (NAD",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Parkinson Disease",
+        "Sirtuins",
+        "Animals",
+        "Signal Transduction",
+        "Oxidative Stress"
+      ],
+      "chemicals": [
+        "Sirtuins"
+      ],
+      "journal": "Ageing research reviews",
+      "authors": [
+        "Xiang Li",
+        "Xuequn Luo",
+        "Xueqin Cao",
+        "Elizabeth Rosalind Thomas",
+        "Wenjun Wang",
+        "Xiaogang Zhou"
+      ]
+    }
+  ]
+}

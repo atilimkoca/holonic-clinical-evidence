@@ -1,0 +1,365 @@
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oedrug:adalimumab a oe:Drug ;
+    rdfs:label "Adalimumab"@en ;
+    oe:approvalDate "2012-10-04"^^xsd:date ;
+    oe:atcCode "L04AB04"^^xsd:string ;
+    oe:drugClass "TNF inhibitor"^^xsd:string .
+
+oedrug:allopurinol a oe:Drug ;
+    rdfs:label "Allopurinol"@en ;
+    oe:approvalDate "2001-04-09"^^xsd:date ;
+    oe:atcCode "M04AA01"^^xsd:string ;
+    oe:drugClass "Xanthine oxidase inhibitor"^^xsd:string .
+
+oedrug:amlodipine a oe:Drug ;
+    rdfs:label "Amlodipine"@en ;
+    oe:approvalDate "1994-01-02"^^xsd:date ;
+    oe:atcCode "C08CA01"^^xsd:string ;
+    oe:drugClass "Calcium channel blocker"^^xsd:string .
+
+oedrug:amoxicillin a oe:Drug ;
+    rdfs:label "Amoxicillin"@en ;
+    oe:approvalDate "2010-12-10"^^xsd:date ;
+    oe:atcCode "J01CA04"^^xsd:string ;
+    oe:drugClass "Penicillin antibiotic"^^xsd:string .
+
+oedrug:apixaban a oe:Drug ;
+    rdfs:label "Apixaban"@en ;
+    oe:approvalDate "1989-01-17"^^xsd:date ;
+    oe:atcCode "B01AF02"^^xsd:string ;
+    oe:drugClass "DOAC"^^xsd:string .
+
+oedrug:atorvastatin a oe:Drug ;
+    rdfs:label "Atorvastatin"@en ;
+    oe:approvalDate "2000-07-07"^^xsd:date ;
+    oe:atcCode "C10AA05"^^xsd:string ;
+    oe:drugClass "Statin"^^xsd:string .
+
+oedrug:azithromycin a oe:Drug ;
+    rdfs:label "Azithromycin"@en ;
+    oe:approvalDate "2001-11-26"^^xsd:date ;
+    oe:atcCode "J01FA10"^^xsd:string ;
+    oe:drugClass "Macrolide antibiotic"^^xsd:string .
+
+oedrug:budesonide a oe:Drug ;
+    rdfs:label "Budesonide"@en ;
+    oe:approvalDate "2007-09-25"^^xsd:date ;
+    oe:atcCode "R03BA02"^^xsd:string ;
+    oe:drugClass "Inhaled corticosteroid"^^xsd:string .
+
+oedrug:ceftriaxone a oe:Drug ;
+    rdfs:label "Ceftriaxone"@en ;
+    oe:approvalDate "1987-01-20"^^xsd:date ;
+    oe:atcCode "J01DD04"^^xsd:string ;
+    oe:drugClass "Cephalosporin antibiotic"^^xsd:string .
+
+oedrug:ciprofloxacin a oe:Drug ;
+    rdfs:label "Ciprofloxacin"@en ;
+    oe:approvalDate "2014-09-24"^^xsd:date ;
+    oe:atcCode "J01MA02"^^xsd:string ;
+    oe:drugClass "Fluoroquinolone"^^xsd:string .
+
+oedrug:cisplatin a oe:Drug ;
+    rdfs:label "Cisplatin"@en ;
+    oe:approvalDate "1992-11-22"^^xsd:date ;
+    oe:atcCode "L01XA01"^^xsd:string ;
+    oe:drugClass "Platinum chemotherapy"^^xsd:string .
+
+oedrug:clopidogrel a oe:Drug ;
+    rdfs:label "Clopidogrel"@en ;
+    oe:approvalDate "1998-11-04"^^xsd:date ;
+    oe:atcCode "B01AC04"^^xsd:string ;
+    oe:drugClass "Antiplatelet"^^xsd:string .
+
+oedrug:colchicine a oe:Drug ;
+    rdfs:label "Colchicine"@en ;
+    oe:approvalDate "1990-12-08"^^xsd:date ;
+    oe:atcCode "M04AC01"^^xsd:string ;
+    oe:drugClass "Anti-gout"^^xsd:string .
+
+oedrug:digoxin a oe:Drug ;
+    rdfs:label "Digoxin"@en ;
+    oe:approvalDate "2005-08-09"^^xsd:date ;
+    oe:atcCode "C01AA05"^^xsd:string ;
+    oe:drugClass "Cardiac glycoside"^^xsd:string .
+
+oedrug:donepezil a oe:Drug ;
+    rdfs:label "Donepezil"@en ;
+    oe:approvalDate "1990-03-23"^^xsd:date ;
+    oe:atcCode "N06DA02"^^xsd:string ;
+    oe:drugClass "Cholinesterase inhibitor"^^xsd:string .
+
+oedrug:empagliflozin a oe:Drug ;
+    rdfs:label "Empagliflozin"@en ;
+    oe:approvalDate "2011-10-12"^^xsd:date ;
+    oe:atcCode "A10BK03"^^xsd:string ;
+    oe:drugClass "SGLT2 inhibitor"^^xsd:string .
+
+oedrug:enalapril a oe:Drug ;
+    rdfs:label "Enalapril"@en ;
+    oe:approvalDate "1999-08-22"^^xsd:date ;
+    oe:atcCode "C09AA02"^^xsd:string ;
+    oe:drugClass "ACE inhibitor"^^xsd:string .
+
+oedrug:escitalopram a oe:Drug ;
+    rdfs:label "Escitalopram"@en ;
+    oe:approvalDate "1996-11-23"^^xsd:date ;
+    oe:atcCode "N06AB10"^^xsd:string ;
+    oe:drugClass "SSRI"^^xsd:string .
+
+oedrug:fluoxetine a oe:Drug ;
+    rdfs:label "Fluoxetine"@en ;
+    oe:approvalDate "2008-01-05"^^xsd:date ;
+    oe:atcCode "N06AB03"^^xsd:string ;
+    oe:drugClass "SSRI"^^xsd:string .
+
+oedrug:furosemide a oe:Drug ;
+    rdfs:label "Furosemide"@en ;
+    oe:approvalDate "1991-09-12"^^xsd:date ;
+    oe:atcCode "C03CA01"^^xsd:string ;
+    oe:drugClass "Loop diuretic"^^xsd:string .
+
+oedrug:gabapentin a oe:Drug ;
+    rdfs:label "Gabapentin"@en ;
+    oe:approvalDate "1989-10-21"^^xsd:date ;
+    oe:atcCode "N02BF01"^^xsd:string ;
+    oe:drugClass "Gabapentinoid"^^xsd:string .
+
+oedrug:hydrochlorothiazide a oe:Drug ;
+    rdfs:label "Hydrochlorothiazide"@en ;
+    oe:approvalDate "2015-11-12"^^xsd:date ;
+    oe:atcCode "C03AA03"^^xsd:string ;
+    oe:drugClass "Thiazide diuretic"^^xsd:string .
+
+oedrug:ibuprofen a oe:Drug ;
+    rdfs:label "Ibuprofen"@en ;
+    oe:approvalDate "2003-12-03"^^xsd:date ;
+    oe:atcCode "M01AE01"^^xsd:string ;
+    oe:drugClass "NSAID"^^xsd:string .
+
+oedrug:imatinib a oe:Drug ;
+    rdfs:label "Imatinib"@en ;
+    oe:approvalDate "2007-06-02"^^xsd:date ;
+    oe:atcCode "L01EA01"^^xsd:string ;
+    oe:drugClass "Tyrosine kinase inhibitor"^^xsd:string .
+
+oedrug:insulin_glargine a oe:Drug ;
+    rdfs:label "Insulin Glargine"@en ;
+    oe:approvalDate "2009-07-12"^^xsd:date ;
+    oe:atcCode "A10AE04"^^xsd:string ;
+    oe:drugClass "Long-acting insulin"^^xsd:string .
+
+oedrug:isoniazid a oe:Drug ;
+    rdfs:label "Isoniazid"@en ;
+    oe:approvalDate "2012-09-01"^^xsd:date ;
+    oe:atcCode "J04AC01"^^xsd:string ;
+    oe:drugClass "Antitubercular"^^xsd:string .
+
+oedrug:lamotrigine a oe:Drug ;
+    rdfs:label "Lamotrigine"@en ;
+    oe:approvalDate "2012-04-04"^^xsd:date ;
+    oe:atcCode "N03AX09"^^xsd:string ;
+    oe:drugClass "Anticonvulsant"^^xsd:string .
+
+oedrug:levetiracetam a oe:Drug ;
+    rdfs:label "Levetiracetam"@en ;
+    oe:approvalDate "1998-08-26"^^xsd:date ;
+    oe:atcCode "N03AX14"^^xsd:string ;
+    oe:drugClass "Anticonvulsant"^^xsd:string .
+
+oedrug:levodopa a oe:Drug ;
+    rdfs:label "Levodopa"@en ;
+    oe:approvalDate "2007-11-24"^^xsd:date ;
+    oe:atcCode "N04BA01"^^xsd:string ;
+    oe:drugClass "Dopamine precursor"^^xsd:string .
+
+oedrug:levothyroxine a oe:Drug ;
+    rdfs:label "Levothyroxine"@en ;
+    oe:approvalDate "2012-08-03"^^xsd:date ;
+    oe:atcCode "H03AA01"^^xsd:string ;
+    oe:drugClass "Thyroid hormone"^^xsd:string .
+
+oedrug:lisinopril a oe:Drug ;
+    rdfs:label "Lisinopril"@en ;
+    oe:approvalDate "1993-07-19"^^xsd:date ;
+    oe:atcCode "C09AA03"^^xsd:string ;
+    oe:drugClass "ACE inhibitor"^^xsd:string .
+
+oedrug:lithium a oe:Drug ;
+    rdfs:label "Lithium"@en ;
+    oe:approvalDate "1997-08-05"^^xsd:date ;
+    oe:atcCode "N05AN01"^^xsd:string ;
+    oe:drugClass "Mood stabiliser"^^xsd:string .
+
+oedrug:losartan a oe:Drug ;
+    rdfs:label "Losartan"@en ;
+    oe:approvalDate "2014-02-17"^^xsd:date ;
+    oe:atcCode "C09CA01"^^xsd:string ;
+    oe:drugClass "ARB"^^xsd:string .
+
+oedrug:mesalazine a oe:Drug ;
+    rdfs:label "Mesalazine"@en ;
+    oe:approvalDate "1985-10-17"^^xsd:date ;
+    oe:atcCode "A07EC02"^^xsd:string ;
+    oe:drugClass "Aminosalicylate"^^xsd:string .
+
+oedrug:metformin a oe:Drug ;
+    rdfs:label "Metformin"@en ;
+    oe:approvalDate "1993-03-09"^^xsd:date ;
+    oe:atcCode "A10BA02"^^xsd:string ;
+    oe:drugClass "Biguanide"^^xsd:string .
+
+oedrug:methotrexate a oe:Drug ;
+    rdfs:label "Methotrexate"@en ;
+    oe:approvalDate "1988-06-16"^^xsd:date ;
+    oe:atcCode "L04AX03"^^xsd:string ;
+    oe:drugClass "DMARD"^^xsd:string .
+
+oedrug:metoprolol a oe:Drug ;
+    rdfs:label "Metoprolol"@en ;
+    oe:approvalDate "1990-05-16"^^xsd:date ;
+    oe:atcCode "C07AB02"^^xsd:string ;
+    oe:drugClass "Beta blocker"^^xsd:string .
+
+oedrug:montelukast a oe:Drug ;
+    rdfs:label "Montelukast"@en ;
+    oe:approvalDate "2006-05-02"^^xsd:date ;
+    oe:atcCode "R03DC03"^^xsd:string ;
+    oe:drugClass "Leukotriene antagonist"^^xsd:string .
+
+oedrug:morphine a oe:Drug ;
+    rdfs:label "Morphine"@en ;
+    oe:approvalDate "1995-11-20"^^xsd:date ;
+    oe:atcCode "N02AA01"^^xsd:string ;
+    oe:drugClass "Opioid analgesic"^^xsd:string .
+
+oedrug:omeprazole a oe:Drug ;
+    rdfs:label "Omeprazole"@en ;
+    oe:approvalDate "2000-01-05"^^xsd:date ;
+    oe:atcCode "A02BC01"^^xsd:string ;
+    oe:drugClass "Proton pump inhibitor"^^xsd:string .
+
+oedrug:oseltamivir a oe:Drug ;
+    rdfs:label "Oseltamivir"@en ;
+    oe:approvalDate "2007-05-03"^^xsd:date ;
+    oe:atcCode "J05AH02"^^xsd:string ;
+    oe:drugClass "Neuraminidase inhibitor"^^xsd:string .
+
+oedrug:pembrolizumab a oe:Drug ;
+    rdfs:label "Pembrolizumab"@en ;
+    oe:approvalDate "2001-06-23"^^xsd:date ;
+    oe:atcCode "L01FF02"^^xsd:string ;
+    oe:drugClass "PD-1 checkpoint inhibitor"^^xsd:string .
+
+oedrug:prednisone a oe:Drug ;
+    rdfs:label "Prednisone"@en ;
+    oe:approvalDate "1989-06-04"^^xsd:date ;
+    oe:atcCode "H02AB07"^^xsd:string ;
+    oe:drugClass "Corticosteroid"^^xsd:string .
+
+oedrug:propranolol a oe:Drug ;
+    rdfs:label "Propranolol"@en ;
+    oe:approvalDate "2006-10-10"^^xsd:date ;
+    oe:atcCode "C07AA05"^^xsd:string ;
+    oe:drugClass "Beta blocker"^^xsd:string .
+
+oedrug:quetiapine a oe:Drug ;
+    rdfs:label "Quetiapine"@en ;
+    oe:approvalDate "2010-03-19"^^xsd:date ;
+    oe:atcCode "N05AH04"^^xsd:string ;
+    oe:drugClass "Atypical antipsychotic"^^xsd:string .
+
+oedrug:rifampicin a oe:Drug ;
+    rdfs:label "Rifampicin"@en ;
+    oe:approvalDate "2010-05-16"^^xsd:date ;
+    oe:atcCode "J04AB02"^^xsd:string ;
+    oe:drugClass "Antitubercular"^^xsd:string .
+
+oedrug:risperidone a oe:Drug ;
+    rdfs:label "Risperidone"@en ;
+    oe:approvalDate "1987-06-14"^^xsd:date ;
+    oe:atcCode "N05AX08"^^xsd:string ;
+    oe:drugClass "Atypical antipsychotic"^^xsd:string .
+
+oedrug:rituximab a oe:Drug ;
+    rdfs:label "Rituximab"@en ;
+    oe:approvalDate "2011-03-24"^^xsd:date ;
+    oe:atcCode "L01FA01"^^xsd:string ;
+    oe:drugClass "Anti-CD20 antibody"^^xsd:string .
+
+oedrug:rosuvastatin a oe:Drug ;
+    rdfs:label "Rosuvastatin"@en ;
+    oe:approvalDate "1989-08-13"^^xsd:date ;
+    oe:atcCode "C10AA07"^^xsd:string ;
+    oe:drugClass "Statin"^^xsd:string .
+
+oedrug:sacubitril_valsartan a oe:Drug ;
+    rdfs:label "Sacubitril Valsartan"@en ;
+    oe:approvalDate "1988-09-17"^^xsd:date ;
+    oe:atcCode "C09DX04"^^xsd:string ;
+    oe:drugClass "ARNI"^^xsd:string .
+
+oedrug:salbutamol a oe:Drug ;
+    rdfs:label "Salbutamol"@en ;
+    oe:approvalDate "2009-12-14"^^xsd:date ;
+    oe:atcCode "R03AC02"^^xsd:string ;
+    oe:drugClass "Short-acting beta agonist"^^xsd:string .
+
+oedrug:sertraline a oe:Drug ;
+    rdfs:label "Sertraline"@en ;
+    oe:approvalDate "2011-11-26"^^xsd:date ;
+    oe:atcCode "N06AB06"^^xsd:string ;
+    oe:drugClass "SSRI"^^xsd:string .
+
+oedrug:spironolactone a oe:Drug ;
+    rdfs:label "Spironolactone"@en ;
+    oe:approvalDate "2002-01-21"^^xsd:date ;
+    oe:atcCode "C03DA01"^^xsd:string ;
+    oe:drugClass "Aldosterone antagonist"^^xsd:string .
+
+oedrug:sumatriptan a oe:Drug ;
+    rdfs:label "Sumatriptan"@en ;
+    oe:approvalDate "1992-05-07"^^xsd:date ;
+    oe:atcCode "N02CC01"^^xsd:string ;
+    oe:drugClass "Triptan"^^xsd:string .
+
+oedrug:tamoxifen a oe:Drug ;
+    rdfs:label "Tamoxifen"@en ;
+    oe:approvalDate "1992-01-01"^^xsd:date ;
+    oe:atcCode "L02BA01"^^xsd:string ;
+    oe:drugClass "SERM"^^xsd:string .
+
+oedrug:tenofovir a oe:Drug ;
+    rdfs:label "Tenofovir"@en ;
+    oe:approvalDate "1987-02-18"^^xsd:date ;
+    oe:atcCode "J05AF07"^^xsd:string ;
+    oe:drugClass "NRTI antiretroviral"^^xsd:string .
+
+oedrug:tiotropium a oe:Drug ;
+    rdfs:label "Tiotropium"@en ;
+    oe:approvalDate "1990-02-16"^^xsd:date ;
+    oe:atcCode "R03BB04"^^xsd:string ;
+    oe:drugClass "Long-acting muscarinic antagonist"^^xsd:string .
+
+oedrug:valproate a oe:Drug ;
+    rdfs:label "Valproate"@en ;
+    oe:approvalDate "2014-11-18"^^xsd:date ;
+    oe:atcCode "N03AG01"^^xsd:string ;
+    oe:drugClass "Anticonvulsant"^^xsd:string .
+
+oedrug:valsartan a oe:Drug ;
+    rdfs:label "Valsartan"@en ;
+    oe:approvalDate "1994-06-26"^^xsd:date ;
+    oe:atcCode "C09CA03"^^xsd:string ;
+    oe:drugClass "ARB"^^xsd:string .
+
+oedrug:warfarin a oe:Drug ;
+    rdfs:label "Warfarin"@en ;
+    oe:approvalDate "1991-03-02"^^xsd:date ;
+    oe:atcCode "B01AA03"^^xsd:string ;
+    oe:drugClass "Anticoagulant"^^xsd:string .
+

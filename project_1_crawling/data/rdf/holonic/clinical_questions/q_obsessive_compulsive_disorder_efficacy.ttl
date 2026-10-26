@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_obsessive_compulsive_disorder_efficacy a holon:EntityEntry ;
+    holon:entity oed:obsessive_compulsive_disorder ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_obsessive_compulsive_disorder_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_obsessive_compulsive_disorder_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.98 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_obsessive_compulsive_disorder_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:30892151 ;
+    oe:effectiveness "effective" .
+
+oedrug:fluoxetine oe:treats oed:obsessive_compulsive_disorder .
+
+oeevt:ev_q_obsessive_compulsive_disorder_efficacy-tt rdf:object oed:obsessive_compulsive_disorder ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:fluoxetine .
+
+oeq:q_obsessive_compulsive_disorder_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is fluoxetine compared with other agents for Obsessive-Compulsive Disorder?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.42 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_obsessive_compulsive_disorder_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_obsessive_compulsive_disorder_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_obsessive_compulsive_disorder_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_obsessive_compulsive_disorder_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Obsessive-Compulsive Disorder with fluoxetine."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_obsessive_compulsive_disorder_safety ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.98 ;
+    oe:aboutDisease oed:obsessive_compulsive_disorder ;
+    oe:answerText "Trichotillomania (TTM), excoriation (or skin-picking) disorder and some severe forms of onychophagia are classified under obsessive-compulsive and related disorders. There are different interacting neurotransmitter systems involved in the pathophysiology of impulse-control disorders, implicating noradrenaline, serotonin, dopamine, opioid peptides and glutamate, hence investigators focused on drugs able to act on these transmitters."^^xsd:string ;
+    oe:belongsToSpecialty "Psychiatry" ;
+    oe:cites oesrc:30892151,
+        oesrc:34553483,
+        oesrc:35316513,
+        oesrc:35325671 ;
+    oe:questionText "How effective is fluoxetine compared with other agents for Obsessive-Compulsive Disorder?"^^xsd:string .
+

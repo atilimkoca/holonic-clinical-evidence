@@ -1,0 +1,503 @@
+{
+  "disease": "Non-Small Cell Lung Cancer",
+  "slug": "non_small_cell_lung_cancer",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41879829",
+      "title": "Setidegrasib in Advanced Non-Small-Cell Lung Cancer and Pancreatic Cancer.",
+      "abstract": "The We conducted this phase 1 study to evaluate the safety, pharmacokinetics, pharmacodynamics, and antitumor activity of setidegrasib in patients with previously treated advanced solid tumors harboring Overall, 203 patients were enrolled. Among the 76 patients who received setidegrasib at a dose of 600 mg, which was ultimately selected as the phase 2 dose, adverse events occurred during treatment in all the patients, with events of grade 3 or higher in 42%. Treatment-related adverse events occurred in 93% of the patients; the most common were transient infusion-related reactions (in 80%) and nausea (in 30%). Adverse events led to discontinuation in 2 patients. Among the 45 patients with NSCLC who received the 600-mg dose, 36% (95% confidence interval [CI], 22 to 51) had a partial response, the median progression-free survival was 8.3 months (95% CI, 4.1 to could not be estimated), and the estimated 12-month overall survival was 59% (95% CI, 40 to 74). Among the 21 patients with metastatic pancreatic ductal adenocarcinoma who received the 600-mg dose as second- or third-line treatment (of whom 67% received setidegrasib as third-line treatment), 24% (95% CI, 8 to 47) had a response, the median progression-free survival was 3.0 months (95% CI, 1.4 to 6.9), and the median overall survival was 10.3 months (95% CI, 4.2 to 13.0). Setidegrasib was associated with antitumor activity and a low incidence of treatment discontinuation due to adverse events in patients with previously treated advanced",
+      "pub_date": "2026-04-09",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase I",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antineoplastic Agents",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Lung Neoplasms",
+        "Maximum Tolerated Dose",
+        "Mutation",
+        "Pancreatic Neoplasms",
+        "Proto-Oncogene Proteins p21(ras)",
+        "Cetuximab",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Carcinoma, Pancreatic Ductal",
+        "Progression-Free Survival",
+        "Infusions, Intravenous",
+        "Proteolysis",
+        "Proteolysis Targeting Chimera",
+        "Neoplasm Staging"
+      ],
+      "chemicals": [
+        "Antineoplastic Agents",
+        "KRAS protein, human",
+        "Proto-Oncogene Proteins p21(ras)",
+        "Cetuximab",
+        "Proteolysis Targeting Chimera"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Wungki Park",
+        "Anup Kasi",
+        "Alexander I Spira",
+        "Luis Paz-Ares Rodr\u00edguez",
+        "Benjamin O Herzberg",
+        "Meredith S Pelster"
+      ]
+    },
+    {
+      "pmid": "41851467",
+      "title": "Thymic health and immunotherapy outcomes in patients with cancer.",
+      "abstract": "Although immunotherapy has revolutionized cancer treatment, many patients still experience limited benefit, highlighting the urgent need for improved biomarkers",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Clinical Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Immunotherapy",
+        "Thymus Gland",
+        "Neoplasms",
+        "Female",
+        "Male",
+        "Treatment Outcome",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Tomography, X-Ray Computed",
+        "Receptors, Antigen, T-Cell",
+        "Lung Neoplasms",
+        "Immune Checkpoint Inhibitors",
+        "Cohort Studies",
+        "Disease Progression",
+        "B7-H1 Antigen",
+        "Middle Aged",
+        "Aged",
+        "Mutation",
+        "T-Lymphocytes",
+        "Prospective Studies"
+      ],
+      "chemicals": [
+        "Receptors, Antigen, T-Cell",
+        "Immune Checkpoint Inhibitors",
+        "B7-H1 Antigen",
+        "CD274 protein, human"
+      ],
+      "journal": "Nature",
+      "authors": [
+        "Simon Bernatz",
+        "Vasco Prudente",
+        "Suraj Pai",
+        "Asbj\u00f8rn K Attermann",
+        "Alessandro Di Federico",
+        "Andrew Rowan"
+      ]
+    },
+    {
+      "pmid": "41882473",
+      "title": "Sevabertinib: First Approval.",
+      "abstract": "Sevabertinib (HYRNUO",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Lung Neoplasms",
+        "Drug Approval",
+        "Erb-b2 Receptor Tyrosine Kinases",
+        "Protein Kinase Inhibitors",
+        "Antineoplastic Agents",
+        "ErbB Receptors",
+        "Mutation",
+        "Carbazoles",
+        "United States",
+        "United States Food and Drug Administration",
+        "Anilides",
+        "Quinolines"
+      ],
+      "chemicals": [
+        "Erb-b2 Receptor Tyrosine Kinases",
+        "Protein Kinase Inhibitors",
+        "ERBB2 protein, human",
+        "Antineoplastic Agents",
+        "ErbB Receptors",
+        "Carbazoles",
+        "GSK 1363089",
+        "Anilides",
+        "Quinolines"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Susan J Keam"
+      ]
+    },
+    {
+      "pmid": "41404895",
+      "title": "Salvage Surgery Following Systemic Therapy in Initially Unresectable Non-Small Cell Lung Cancer.",
+      "abstract": "This study evaluated the safety, long-term survival, and prognostic factors associated with salvage pulmonary surgery following systemic therapy for initially unresectable non-small cell lung cancer (NSCLC). Between 2014 and 2024, this single-center retrospective review identified 32 patients (median age: 61.0\u2009years) with NSCLC initially considered unresectable who subsequently underwent curative-intent pulmonary resection after chemotherapy, targeted therapy, and/or immunotherapy. The primary endpoint was overall survival (OS); secondary endpoints included recurrence-free survival (RFS), major morbidity (Clavien-Dindo grade \u2265 IIIa), and R0 resection rate. The Kaplan-Meier method and log-rank test were employed. Reasons for unresectability at initial diagnosis were distant metastasis (n\u2009=\u200920; 62.5%), N3 nodal disease (n\u2009=\u20096; 18.8%), bulky N2 nodal disease (n\u2009=\u20093; 9.4%), and tumor or nodal extension requiring pneumonectomy (n\u2009=\u20093; 9.4%). Overall, 65.6% patients underwent lobectomy, with R0 resection achieved in 81.3% and pathological complete or major response observed in 15.6%. Overall complication and major morbidity rates were 12.5% and 3.1%, respectively; no 90-day mortality was observed. After a median follow-up of 40.1\u2009months, median OS was not reached, whereas median RFS was 49.9\u2009months; 5-year OS and RFS were 75.0% (95% CI 51.6-88.3) and 46.3% (95% CI 26.3-64.2), respectively. Notably, adenocarcinoma histology was significantly more prevalent in the good-prognosis group (88.9% vs. 35.7%, p\u2009=\u20090.003). Salvage pulmonary surgery following systemic therapy is safe, yielding a 5-year OS rate of 75% in carefully selected patients with advanced NSCLC. Prevalent adenocarcinoma histology in the good-prognosis cohort is associated with superior outcomes.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Salvage Therapy",
+        "Lung Neoplasms",
+        "Aged",
+        "Retrospective Studies",
+        "Adult",
+        "Prognosis",
+        "Pneumonectomy"
+      ],
+      "chemicals": [],
+      "journal": "Thoracic cancer",
+      "authors": [
+        "Katsutoshi Seto",
+        "Yoshitsugu Horio",
+        "Katsuhiro Masago",
+        "Eiichi Sasaki",
+        "Hiroaki Kuroda",
+        "Yuta Matsubayashi"
+      ]
+    },
+    {
+      "pmid": "41818162",
+      "title": "Aumolertinib with carboplatin-pemetrexed versus aumolertinib for nonsmall cell lung cancer with EGFR and concomitant tumor suppressor genes (ACROSS2): An open-label, multicenter, randomized phase 3 study.",
+      "abstract": "Third-generation epidermal growth factor receptor-tyrosine kinase inhibitors (EGFR-TKIs) are standard first-line therapy for advanced, EGFR-mutated nonsmall cell lung cancer (NSCLC). However, their benefit is limited in patients who have co-existing tumor suppressor gene (TSG) mutations, highlighting a need for intensified\u00a0strategies to improve outcomes. ACROSS2 (ClinicalTrials.gov identifier NCT04500717) is the first prospective, multicenter, randomized phase 3 study to compare the third-generation EGFR-TKI aumolertinib in combination with carboplatin-pemetrexed versus aumolertinib monotherapy in patients who had NSCLC with EGFR mutations and concomitant TSG mutations. In total, 126 patients were enrolled and randomly assigned to either combination therapy (n\u00a0=\u00a062) or monotherapy (n\u00a0=\u00a064). The primary end point was median progression-free survival (PFS). At a median follow-up of 25.3 months, combination therapy significantly prolonged median PFS compared with monotherapy (19.78 vs 16.53 months; hazard ratio, 0.58; 95% confidence interval, 0.34-0.97). Landmark PFS rates at 12, 18, and 24 months were 78.7% versus 65.3%, 67.2% versus 40.8%, and 41.0% versus 29.9%, respectively. Subgroup analyses demonstrated a clear PFS benefit in patients who had co-existing tumor protein p53 (TP53) mutations. Grade 3 or greater adverse events occurred in 25.9% of patients who received combination therapy versus 17.2% of those who received monotherapy; no drug-related deaths were observed. Overall survival data were immature (data maturity, 4%). The ACROSS2 trial provides the first prospective evidence supporting a genotype-directed, chemotherapy-targeted intensification approach favoring aumolertinib plus carboplatin-pemetrexed for this molecularly defined population.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Carboplatin",
+        "Pemetrexed",
+        "Female",
+        "Male",
+        "Lung Neoplasms",
+        "Middle Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Aged",
+        "ErbB Receptors",
+        "Mutation",
+        "Adult",
+        "Acrylamides",
+        "Prospective Studies",
+        "Aged, 80 and over",
+        "Progression-Free Survival",
+        "Protein Kinase Inhibitors"
+      ],
+      "chemicals": [
+        "Carboplatin",
+        "Pemetrexed",
+        "ErbB Receptors",
+        "EGFR protein, human",
+        "Acrylamides",
+        "Protein Kinase Inhibitors"
+      ],
+      "journal": "CA: a cancer journal for clinicians",
+      "authors": [
+        "Jian-Chun Duan",
+        "Jia Zhong",
+        "Bo-Yang Sun",
+        "Wen-Hua Zhao",
+        "Lin Wu",
+        "Kai-Lun Fei"
+      ]
+    },
+    {
+      "pmid": "41791381",
+      "title": "HS-20093, a B7-H3-targeted antibody-drug conjugate in lung cancer: Results from the ARTEMIS-001 phase 1a/b trial.",
+      "abstract": "This phase 1a/b study (NCT05276609) evaluated the safety, pharmacokinetics, and efficacy of B7-H3-targeted antibody-drug conjugate HS-20093 (GSK5764227) in 306 patients with previously treated advanced solid tumors. In phase 1a, 12.0 mg/kg was established as the maximum tolerated dose. Among 236 lung cancer patients who received 8.0 or 10.0 mg/kg HS-20093, the most frequent grade \u22653 treatment-related adverse events (AEs) included decreased neutrophil (25.5% vs. 50.5%) and white blood cell counts (19.7% vs. 42.4%), and anemia (16.8% vs. 34.3%), respectively. Treatment-related interstitial lung disease and AEs leading to death occurred in 3.4% and 3.8% of patients, respectively. Among response-evaluable patients, the confirmed objective response rate was 52.3% (95% CI: 39.5, 64.9) for extensive-stage SCLC (ES-SCLC, N = 65) and 22.4% (95% CI: 16.0, 29.8) for non-small cell lung cancer (NSCLC, N = 152) patients, with comparable rates between 8.0 mg/kg and 10.0 mg/kg dose cohorts across both groups. These results support further development of HS-20093, with 8.0 mg/kg selected for phase 3 trials.",
+      "pub_date": "2026-04-13",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase I",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lung Neoplasms",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Immunoconjugates",
+        "Adult",
+        "B7 Antigens",
+        "Maximum Tolerated Dose",
+        "Aged, 80 and over",
+        "Antibodies, Monoclonal, Humanized",
+        "Carcinoma, Non-Small-Cell Lung"
+      ],
+      "chemicals": [
+        "Immunoconjugates",
+        "CD276 protein, human",
+        "B7 Antigens",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "Cancer cell",
+      "authors": [
+        "Jianchun Duan",
+        "Yuping Sun",
+        "Qiming Wang",
+        "Ligang Xing",
+        "Lin Wu",
+        "Liang Han"
+      ]
+    },
+    {
+      "pmid": "41410701",
+      "title": "Elevated antidrug antibodies against atezolizumab and associated clinical outcomes in advanced non-small-cell lung cancer.",
+      "abstract": "Although atezolizumab has demonstrated efficacy in advanced non-small-cell lung cancer (NSCLC), antidrug antibody (ADA) may reduce its effectiveness by lowering drug exposure. We explored the association between ADA levels and clinical outcomes. We retrospectively analyzed 86 patients with advanced NSCLC who received atezolizumab monotherapy (1200\u00a0mg every 3\u00a0weeks) between August 2018 and September 2022 at Samsung Medical Center, Seoul, Korea. Blood samples were collected prior to the first and second doses (baseline and week 3). ADA levels were measured by ELISA and correlated with plasma atezolizumab concentrations and clinical outcomes using Kaplan-Meier estimates and Cox proportional hazards models. All 86 patients received atezolizumab as a second-line or later treatment (second-line, n\u2009=\u200965; third-line, n\u2009=\u200912;\u2009\u2265\u2009fourth-line, n\u2009=\u20099). Patients (median age [IQR], 67 [61-73] years; 73 [84.9%] male) showed significantly elevated ADA levels three weeks after treatment (median [IQR] 0 [0-0] vs. 530.3 [146.9-3050.5] ng/mL; p\u2009<\u20090.001). Strong ADA levels (\u2265\u20091000\u00a0ng/mL) were observed in 32 (37.2%) patients and were associated with shorter PFS (HR\u2009=\u20091.86, 95% CI: 1.15-3.02, p\u2009=\u20090.010) and OS (HR\u2009=\u20091.92, 95% CI: 1.14-3.23, p\u2009=\u20090.013). Furthermore, patients with high ADA levels exhibited lower atezolizumab concentrations and reduced response rates compared to those with low ADA levels. Importantly, high ADA levels independently predicted poor prognosis in a multivariable analysis adjusted for clinical variables. High ADA levels were linked to lower atezolizumab exposure and worse outcomes. ADA monitoring may help predict prognosis and guide immunotherapy strategies.",
+      "pub_date": "2025-12-18",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Female",
+        "Lung Neoplasms",
+        "Aged",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Retrospective Studies",
+        "Prognosis",
+        "Antineoplastic Agents"
+      ],
+      "chemicals": [
+        "atezolizumab",
+        "Antibodies, Monoclonal, Humanized",
+        "Antineoplastic Agents"
+      ],
+      "journal": "Cancer immunology, immunotherapy : CII",
+      "authors": [
+        "Miran Jang",
+        "Chan Kim",
+        "So Jung Kong",
+        "Hannah Yang",
+        "Won Suk Lee",
+        "Ho Yun Lee"
+      ]
+    },
+    {
+      "pmid": "41820290",
+      "title": "Microbiome and",
+      "abstract": "Epidermal growth factor receptor ( This review summarizes the main microbiome characteristics of Despite its emerging role, microbiome research in",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Lung Neoplasms",
+        "ErbB Receptors",
+        "Microbiota",
+        "Mutation",
+        "Protein Kinase Inhibitors",
+        "Animals",
+        "Immunotherapy"
+      ],
+      "chemicals": [
+        "ErbB Receptors",
+        "EGFR protein, human",
+        "Protein Kinase Inhibitors"
+      ],
+      "journal": "Expert review of clinical immunology",
+      "authors": [
+        "Serena Eccher",
+        "Marco Sposito",
+        "Ilaria Mariangela Scaglione",
+        "Luca Pasqualin",
+        "Michele Rota",
+        "Adele Bonato"
+      ]
+    },
+    {
+      "pmid": "41469472",
+      "title": "GATOR1 complex controls cisplatin sensitivity.",
+      "abstract": "Cisplatin administration is the primary chemotherapy approach for many epithelial cancers. However, resistance to this drug poses a significant challenge to effective treatment. Despite the identification of numerous factors associated with resistance, reliable biomarkers predicting drug response remain elusive. Previously, low expression of the NPRL2 tumor suppressor was linked to cisplatin resistance. NPRL2, along with NPRL3 and DEPDC5, forms the GATOR1 complex, an upstream regulator of the mTOR\u04211, the function of which is perturbed in many cancers, particularly those resistant to cisplatin. Here, we compare non-cancerous bronchial epithelium BEAS-2B cells with GATOR1 deletions, serving as a model of intrinsic cisplatin resistance, with non-small cell lung cancer lines A549, H460, and H1975 with acquired resistance to the drug. We found that deletion of any GATOR1 member, not solely NPRL2, promotes cisplatin resistance, whereas their overexpression renders cells sensitive to the drug. In cells with GATOR1 deletions, expression of the ATP7A transporter required for cisplatin efflux is increased, while expression of cisplatin influx transporters CTR2 and LRRC8A is downregulated, especially after treatment with the drug. This hinders drug accumulation in cells, resulting in the formation of fewer cisplatin-DNA adducts. Simultaneously, these cells exhibit enhanced DNA damage response and mTORC1 activity. Overexpression of GATOR1 components and/or concomitant treatment with an mTORC1 inhibitor restores sensitivity to cisplatin. Transcriptomic analysis of GATOR1-deleted BEAS-2B cells, treated or not with the drug, identifies new signatures important for understanding GATOR1 function and its role in cisplatin resistance. Thus, GATOR1 not only participates in the cellular response to amino acid availability but also plays a role in resistance to DNA-damaging anticancer drugs. This novel function of GATOR1 should be taken into account when developing new strategies to combat chemoresistance.",
+      "pub_date": "2025-12-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Cisplatin",
+        "Humans",
+        "Drug Resistance, Neoplasm",
+        "Cell Line, Tumor",
+        "Lung Neoplasms",
+        "Antineoplastic Agents",
+        "Carcinoma, Non-Small-Cell Lung",
+        "A549 Cells",
+        "Tumor Suppressor Proteins"
+      ],
+      "chemicals": [
+        "Cisplatin",
+        "Antineoplastic Agents",
+        "Tumor Suppressor Proteins"
+      ],
+      "journal": "Cell death & disease",
+      "authors": [
+        "Zhenrui Pan",
+        "Hanxiao Zhang",
+        "Xia Xiao",
+        "Catherine Brenner",
+        "Svetlana Dokudovskaya"
+      ]
+    },
+    {
+      "pmid": "41417462",
+      "title": "Molecular and Clinical Characteristics of Patients with Non-Small Cell Lung Cancer Harboring KRAS G12V Mutations.",
+      "abstract": "KRAS G12V is among the most frequent KRAS mutations in non-small cell lung cancer (NSCLC), yet its clinical and molecular features remain poorly understood. In this retrospective study, we analyzed 636 patients with KRAS G12V-mutated NSCLC diagnosed between 2018 and 2023. Clinical, pathologic, and molecular characteristics, including co-mutations, smoking history, programmed cell death ligand 1 (PD-L1) expression, CD8+ T-cell infiltration, and treatment outcomes, were assessed. The majority of patients (94.2%) were current or former smokers, with a median tobacco exposure of 40 pack-years. Co-mutations were frequent, most commonly in TP53 (40.2%), STK11 (30.2%), and KEAP1 (29.3%). Heavy smokers exhibited significantly higher PD-L1 expression and more frequent TP53, KEAP1, and NTRK1-3 mutations than light smokers. CD8+ T-cell infiltration showed a nonsignificant trend toward higher values in G12V compared with non-G12V KRAS subtypes. Among 151 patients with advanced disease, those treated with immune checkpoint blockade (ICB) alone or in combination with chemotherapy had significantly higher response rates and improved real-world progression-free survival and real-world overall survival (rwOS) compared with chemotherapy alone. In patients with PD-L1 tumor proportion score \u226550%, ICB-based treatment achieved a median rwOS of 30 months. KRAS G12V-mutated NSCLC is characterized by a strong association with tobacco use, high co-mutation rates in clinically relevant genes, and a favorable response to PD-L1-based immunotherapy. The observed mutation landscape supports the potential for dual checkpoint blockade in a significant subset.",
+      "pub_date": "2026-05-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Male",
+        "Female",
+        "Lung Neoplasms",
+        "Middle Aged",
+        "Proto-Oncogene Proteins p21(ras)",
+        "Aged",
+        "Retrospective Studies",
+        "Mutation",
+        "B7-H1 Antigen",
+        "Biomarkers, Tumor",
+        "Adult",
+        "Aged, 80 and over",
+        "Prognosis",
+        "Immune Checkpoint Inhibitors",
+        "CD8-Positive T-Lymphocytes",
+        "Smoking"
+      ],
+      "chemicals": [
+        "Proto-Oncogene Proteins p21(ras)",
+        "KRAS protein, human",
+        "B7-H1 Antigen",
+        "Biomarkers, Tumor",
+        "CD274 protein, human",
+        "Immune Checkpoint Inhibitors"
+      ],
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "authors": [
+        "Felix John",
+        "Lea Ruge",
+        "Malte Verheyen",
+        "Heather Scharpenseel",
+        "Sebastian Yves Friedrich Michels",
+        "Richard Riedel"
+      ]
+    },
+    {
+      "pmid": "41387924",
+      "title": "Prognostic Implications of SMARCA4, ARID1A, and Other BAF Mutations in Non-Small Cell Lung Cancer.",
+      "abstract": "Non-small cell lung cancer (NSCLC) outcomes have improved remarkably with the widespread use of immune checkpoint inhibitors and small molecule inhibitors targeting driver mutations. Nevertheless, many patients continue to experience suboptimal outcomes. The prevalence of mutations in the BAF (BRG1/BRM-associated factor) chromatin remodeling complexes may represent an opportunity to help close this gap: These critical regulators of chromatin accessibility are mutated in approximately a quarter of NSCLC cases, and numerous retrospective reports have evaluated the impact of these mutations on clinical outcomes. Here, we appraise the varying and occasionally divergent evidence for BAF complex mutations as predictive and prognostic biomarkers in NSCLC. We conclude that these mutations hold promise as refinements to existing prognostic and treatment algorithms, with SMARCA4 mutations imparting poor prognosis, ARID1A mutations predicting better prognosis with immune checkpoint inhibitor therapy, and ARID1A-epithelial growth factor receptor (EGFR) comutations being associated with insensitivity to EGFR tyrosine kinase inhibitor therapy. Additional research should focus on large, prospective studies that will allow better quantification of the impact of BAF complex mutations. A growing body of evidence indicates that BAF complex mutations have important prognostic implications. These may be leveraged for risk stratification and therapeutic selection in patients with non-small cell lung cancer.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Lung Neoplasms",
+        "Nuclear Proteins",
+        "DNA-Binding Proteins",
+        "Transcription Factors",
+        "Prognosis",
+        "Mutation",
+        "DNA Helicases",
+        "Biomarkers, Tumor",
+        "Immune Checkpoint Inhibitors"
+      ],
+      "chemicals": [
+        "ARID1A protein, human",
+        "SMARCA4 protein, human",
+        "Nuclear Proteins",
+        "DNA-Binding Proteins",
+        "Transcription Factors",
+        "DNA Helicases",
+        "Biomarkers, Tumor",
+        "Immune Checkpoint Inhibitors"
+      ],
+      "journal": "Cancer medicine",
+      "authors": [
+        "Alexis Khalil",
+        "Michael P Collins",
+        "Alfonso Quint\u00e1s-Cardama"
+      ]
+    },
+    {
+      "pmid": "41874698",
+      "title": "Immunological effects of amivantamab in EGFR or MET-expressing non-small cell lung cancer.",
+      "abstract": "Epidermal growth factor receptor (EGFR) mutations represent one of the most frequent oncogenic driver in non-small cell lung cancer (NSCLC). Amivantamab, a bispecific antibody targeting EGFR and MET proto-oncogene, receptor tyrosine kinase (MET), has demonstrated clinical benefit in EGFR-mutant NSCLC through dual blockade, but its immunological role in human clinical specimens, especially tumor-infiltrating lymphocytes (TILs), has not been directly evaluated. We analyzed surgically resected tumor samples from 40 patients with NSCLC to investigate immune responses and their associations with EGFR and MET expression. TILs were characterized by flow cytometry (FCM) and immunohistochemistry (IHC). To assess the immunomodulatory potential of amivantamab, fresh tumor digests containing live tumor cells and TILs were cultured ex vivo with CD3 and CD28 stimulation in the absence or presence of amivantamab, followed by FCM. EGFR and MET expression were also evaluated by IHC. EGFR mutations and high EGFR protein expression were associated with a trend toward reduced CD8\u207a T-cell and dendritic cell (DC) infiltration. In ex vivo TIL assays, exposure to amivantamab significantly activated CD8\u207a T cells, such as programmed cell death-1 expression and cytokine production, and promoted DC maturation. These effects were most pronounced in tumors with high EGFR or MET protein expression rather than EGFR mutations. This study provides the first direct evidence from ex vivo fresh TIL assays using human NSCLC clinical specimens that amivantamab can activate immune responses. EGFR and MET expression may serve as potential biomarkers for amivantamab-induced immune responses.",
+      "pub_date": "2026-03-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Carcinoma, Non-Small-Cell Lung",
+        "Proto-Oncogene Proteins c-met",
+        "Lung Neoplasms",
+        "ErbB Receptors",
+        "Female",
+        "Proto-Oncogene Mas",
+        "Male",
+        "Middle Aged",
+        "Lymphocytes, Tumor-Infiltrating",
+        "Aged",
+        "Mutation",
+        "Antibodies, Bispecific"
+      ],
+      "chemicals": [
+        "Proto-Oncogene Proteins c-met",
+        "ErbB Receptors",
+        "MET protein, human",
+        "MAS1 protein, human",
+        "Proto-Oncogene Mas",
+        "EGFR protein, human",
+        "amivantamab",
+        "Antibodies, Bispecific"
+      ],
+      "journal": "Cancer immunology, immunotherapy : CII",
+      "authors": [
+        "Ryo Yoshichika",
+        "Fumiaki Mukohara",
+        "Kotaro Yamada",
+        "Joji Nagasaki",
+        "Hiroko Watanabe",
+        "Youki Ueda"
+      ]
+    }
+  ]
+}

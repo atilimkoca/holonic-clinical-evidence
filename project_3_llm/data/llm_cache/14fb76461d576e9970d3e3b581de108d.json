@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated#> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_addison_disease_efficacy> a oeq:Question ;\n  oe:hasEvidence <https://example.org/openevidence/generated/g123456789> .\n\n<https://example.org/openevidence/generated/g123456789> a oegen:GeneratedEvidence ;\n  oe:hasDrug <https://example.org/openevidence/drugs/prednisone> ;\n  oe:hasDisease <https://example.org/openevidence/diseases/addison_disease> ;\n  oe:hasConfidence \"0.38\"^^xsd:decimal ;\n  oe:hasLevel \"Level-4\" ;\n  oe:hasSource <https://example.org/openevidence/sources/36102024> ;\n  oe:hasEffectiveness \"inconclusive\" .",
+  "provider": "ollama",
+  "model": "qwen3:8b",
+  "prompt_tokens": 438,
+  "completion_tokens": 327,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 765
+}

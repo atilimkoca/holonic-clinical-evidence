@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_acute_kidney_injury_treatment a holon:EntityEntry ;
+    holon:entity oed:acute_kidney_injury ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_acute_kidney_injury_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_acute_kidney_injury_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.92 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_acute_kidney_injury_treatment ;
+    holon:recordedOn "2025-12-09"^^xsd:date ;
+    oe:cites oesrc:41159812 ;
+    oe:effectiveness "effective" .
+
+oedrug:furosemide oe:treats oed:acute_kidney_injury .
+
+oeevt:ev_q_acute_kidney_injury_treatment-tt rdf:object oed:acute_kidney_injury ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:furosemide .
+
+oeq:q_acute_kidney_injury_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Acute Kidney Injury?"@en ;
+    prov:generatedAtTime "2025-12-09T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.81 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_acute_kidney_injury_treatment-bnd ;
+    holon:hasContextGraph oeq:q_acute_kidney_injury_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_acute_kidney_injury_treatment-int ;
+    holon:hasProjectionGraph oeq:q_acute_kidney_injury_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Acute Kidney Injury with furosemide."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_acute_kidney_injury_efficacy ;
+    holon:recordedOn "2025-12-09"^^xsd:date ;
+    holon:summaryConfidence 0.92 ;
+    oe:aboutDisease oed:acute_kidney_injury ;
+    oe:answerText "The effect of sodium bicarbonate infusion on outcome in patients with severe metabolic acidemia and moderate to severe acute kidney injury is unknown. To determine whether sodium bicarbonate infusion is associated with day 90 all-cause mortality in patients with severe metabolic acidemia and moderate to severe acute kidney injury."^^xsd:string ;
+    oe:belongsToSpecialty "Nephrology" ;
+    oe:cites oesrc:40434761,
+        oesrc:40804518,
+        oesrc:41076588,
+        oesrc:41159812 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Acute Kidney Injury?"^^xsd:string .
+

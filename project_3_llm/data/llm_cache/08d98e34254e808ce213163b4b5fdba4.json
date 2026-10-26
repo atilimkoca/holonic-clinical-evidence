@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_angina_pectoris_treatment> a holon:ClinicalQuestionHolon .\n\n<https://example.org/openevidence/questions/q_angina_pectoris_treatment-int> a oe:Interior ;\n  rdf:type holon:ClinicalQuestionHolon ;\n  holon:hasAnswer <https://example.org/openevidence/questions/q_angina_pectoris_treatment-pro> .\n\n<https://example.org/openevidence/questions/q_angina_pectoris_treatment-bou> a oe:Boundary ;\n  rdf:type holon:ClinicalQuestionHolon ;\n  holon:hasAnswer <https://example.org/openevidence/questions/q_angina_pectoris_treatment-pro> .\n\n<https://example.org/openevidence/questions/q_angina_pectoris_treatment-pro> a oe:Projection ;\n  rdf:type holon:ClinicalQuestionHolon ;\n  holon:hasAnswer <https://example.org/openevidence/questions/q_angina_pectoris_treatment-con> .\n\n<https://example.org/openevidence/questions/q_angina_pectoris_treatment-con> a oe:Context ;\n  rdf:type holon:ClinicalQuestionHolon ;\n  holon:hasAnswer <https://example.org/openevidence/questions/q_angina_pectoris_treatment> .\n\n<https://example.org/openevidence/questions/q_angina_pectoris_treatment> a holon:ClinicalQuestionHolon .\n\n<https://example.org/openevidence/questions/q_angina_pectoris_treatment> oe:hasQuestion \"What is the recommended first-line pharmacological treatment for Angina Pectoris?\" .\n\n<https://example.org/openevidence/drugs/metoprolol> oe:treats <https://example.org/openevidence/diseases/angina_pectoris> .",
+  "provider": "ollama",
+  "model": "llama3.1:8b",
+  "prompt_tokens": 944,
+  "completion_tokens": 513,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1457
+}

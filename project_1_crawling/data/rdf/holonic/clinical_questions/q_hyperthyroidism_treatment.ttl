@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_hyperthyroidism_treatment a holon:EntityEntry ;
+    holon:entity oed:hyperthyroidism ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_hyperthyroidism_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_hyperthyroidism_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.91 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_hyperthyroidism_treatment ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:38165576 ;
+    oe:effectiveness "effective" .
+
+oedrug:metoprolol oe:treats oed:hyperthyroidism .
+
+oeevt:ev_q_hyperthyroidism_treatment-tt rdf:object oed:hyperthyroidism ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:metoprolol .
+
+oeq:q_hyperthyroidism_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Hyperthyroidism?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.41 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_hyperthyroidism_treatment-bnd ;
+    holon:hasContextGraph oeq:q_hyperthyroidism_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_hyperthyroidism_treatment-int ;
+    holon:hasProjectionGraph oeq:q_hyperthyroidism_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Hyperthyroidism with metoprolol."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_hyperthyroidism_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.91 ;
+    oe:aboutDisease oed:hyperthyroidism ;
+    oe:answerText "In Graves' disease, administration of low-dose methimazole for more than 60 months induces higher remission rates compared with the conventional duration of 12-18 months. However, the risk of recurrence and its predictors beyond 48 months of drug withdrawal are not known."^^xsd:string ;
+    oe:belongsToSpecialty "Endocrinology" ;
+    oe:cites oesrc:38165576,
+        oesrc:38278171,
+        oesrc:39039206,
+        oesrc:39067967 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Hyperthyroidism?"^^xsd:string .
+

@@ -1,0 +1,467 @@
+{
+  "disease": "Tuberculosis",
+  "slug": "tuberculosis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41406445",
+      "title": "Trial of High-Dose Oral Rifampin in Adults with Tuberculous Meningitis.",
+      "abstract": "Tuberculous meningitis is often lethal, and many survivors have disabilities despite antimicrobial treatment and adjunctive glucocorticoid therapy. Standard-dose rifampin has limited central nervous system penetration. Whether high-dose rifampin could improve survival outcomes is unknown. We performed a double-blind, randomized, placebo-controlled clinical trial involving adults with tuberculous meningitis in Indonesia, South Africa, and Uganda. We assigned persons with and those without human immunodeficiency virus (HIV) coinfection to receive standard daily isoniazid, rifampin (at a dose of 10 mg per kilogram of body weight), ethambutol, and pyrazinamide plus either additional rifampin (for a cumulative dose of 35 mg per kilogram; high-dose group) or matched placebo (standard-dose group) for 8 weeks; participants\u00a0in both groups received standard therapy for the remainder of the 9-to-12-month treatment course. The primary outcome was 6-month mortality. A total of 499 participants were included in the intention-to-treat population (249 randomly assigned to the high-dose group and 250 to the standard-dose group), of whom 304 (60.9%) were persons living with HIV and 428 (85.8%) had definite or probable tuberculous meningitis. During 6 months of follow-up, 109 participants (Kaplan-Meier estimate, 44.6%) in the high-dose group and 100 participants (Kaplan-Meier estimate, 40.7%) in the standard-dose group died (hazard ratio, 1.17; 95% confidence interval, 0.89 to 1.54; P\u2009=\u20090.25). Among the participants who died within 6 months, the median time to death was 13 days (interquartile range, 4 to 39) in the high-dose group and 24 days (interquartile range, 6 to 56) in the standard-dose group. Drug-induced liver injury occurred in 8.0% of the participants in the high-dose group and in 4.4% of those in the standard-dose group, but no deaths from drug-induced liver injury occurred. Among persons with tuberculous meningitis, no evidence of beneficial effect from high-dose rifampin was observed, and the potential for a harmful effect cannot be ruled out. (Funded by the U.K. Medical Research Council and others; ISRCTN Registry number, ISRCTN15668391.).",
+      "pub_date": "2025-12-18",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Administration, Oral",
+        "Antitubercular Agents",
+        "Coinfection",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Ethambutol",
+        "HIV Infections",
+        "Intention to Treat Analysis",
+        "Isoniazid",
+        "Kaplan-Meier Estimate",
+        "Pyrazinamide",
+        "Rifampin",
+        "Tuberculosis, Meningeal",
+        "Chemical and Drug Induced Liver Injury",
+        "Dose-Response Relationship, Drug",
+        "Follow-Up Studies",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antitubercular Agents",
+        "Ethambutol",
+        "Isoniazid",
+        "Pyrazinamide",
+        "Rifampin"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "David B Meya",
+        "Fiona V Cresswell",
+        "Biyue Dai",
+        "Nicole Engen",
+        "Kogieleum Naidoo",
+        "Ahmad Rizal Ganiem"
+      ]
+    },
+    {
+      "pmid": "41355983",
+      "title": "Bone and joint tuberculosis: clinical manifestation, diagnostic techniques and drug resistance analysis.",
+      "abstract": "Clinical data on bone and joint tuberculosis (BJTB) in developing countries remain limited. This study aims to investigate the clinical, epidemiological, and drug-resistance characteristics of BJTB patients in Central China and to optimize diagnostic strategies. This retrospective study analyzed data from patients diagnosed with BJTB at Henan Provincial Chest Hospital between 2016 and 2022. Among the 902 patients, 518 (57.4%) were male and 384 (42.6%) were female. The age groups of 21-30 years and 51-60 years, as well as the rural population, showed the highest prevalence of cases. Local pain was the most prevalent symptom, followed by fever, night sweats, and neurological dysfunction. On average, the time from symptom onset to diagnosis was 6.1 months, and the mean hospital stay was 64.2 days. Spinal tuberculosis was the most frequently affected site, accounting for 77.6% (700/902) of cases. Five diagnostic techniques were evaluated, with GeneXpert MTB/RIF demonstrating superior performance by achieving a sensitivity of 91.6% (95%CI: 86.3%-95.0%) and specificity of 90.1% (95%CI: 85.5%-93.6%). Unlike drug resistance patterns observed in other regions, streptomycin (29.6%) and rifabutin (18.2%) were the most frequently encountered first-line and second-line anti-tuberculosis drugs, respectively. The prevalence of multidrug-resistant tuberculosis (MDR-TB) was 8.3% (95% CI: 5.1%-13.2%), and extensively drug-resistant tuberculosis (XDR-TB) was identified in 1.6% (95% CI: 0.2%-5.6%) of cases. The application of GeneXpert MTB/RIF demonstrated significant diagnostic accuracy for BJTB. The control of MDR-TB remains a critical challenge in the management of BJTB in Central China.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Male",
+        "Adult",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Mycobacterium tuberculosis",
+        "Tuberculosis, Osteoarticular",
+        "Young Adult",
+        "China",
+        "Tuberculosis, Multidrug-Resistant",
+        "Antitubercular Agents",
+        "Prevalence",
+        "Aged",
+        "Adolescent",
+        "Sensitivity and Specificity",
+        "Microbial Sensitivity Tests",
+        "Child"
+      ],
+      "chemicals": [
+        "Antitubercular Agents"
+      ],
+      "journal": "Frontiers in cellular and infection microbiology",
+      "authors": [
+        "Yingying Yuan",
+        "Pengxiang Li",
+        "Xiangjie Qiu",
+        "Honghua Zhang",
+        "Hao Chen",
+        "Nan Zang"
+      ]
+    },
+    {
+      "pmid": "41733318",
+      "title": "[Perianal tuberculosis].",
+      "abstract": "Perianal tuberculosis is a rare manifestation of tuberculosis. This report describes a healthy 41-year-old man diagnosed with a perianal abscess that required examination and surgical drainage under general anesthesia. The wound healed poorly over the following months, prompting repeat cultures and tissue sampling. Histological diagnosis revealed necrotizing granulomatous inflammation and acid-fast bacilli, indicating mycobacterial infection. Further investigation revealed pulmonary tuberculosis. The patient received a six-month course of anti-tuberculosis medications and recovered fully. The perianal wound healed well following treatment. Tuberculosis is an important differential diagnosis in individuals with a wound or a lesion near the anus or elsewhere that heals slowly or recurs.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports",
+        "English Abstract"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Adult",
+        "Antitubercular Agents",
+        "Treatment Outcome",
+        "Tuberculosis, Pulmonary",
+        "Abscess",
+        "Anus Diseases",
+        "Drainage",
+        "Tuberculosis",
+        "Mycobacterium tuberculosis",
+        "Biopsy"
+      ],
+      "chemicals": [
+        "Antitubercular Agents"
+      ],
+      "journal": "Laeknabladid",
+      "authors": [
+        "Asdis Kristjansdottir",
+        "Agnar Bjarnason",
+        "Gigja Erlingsdottir",
+        "Pall Helgi Moller"
+      ]
+    },
+    {
+      "pmid": "41912288",
+      "title": "Update on Tuberculosis Treatment and Drug Regimens.",
+      "abstract": "Tuberculosis is an airborne infectious disease treated with combination therapeutic regimens. Adherence to long-term antituberculosis therapy is crucial to maintain adequate blood drug level. The emergence and spread of drug-resistant",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antitubercular Agents",
+        "Tuberculosis, Multidrug-Resistant",
+        "Drug Therapy, Combination",
+        "Mycobacterium tuberculosis",
+        "Tuberculosis",
+        "Diarylquinolines",
+        "Nitroimidazoles"
+      ],
+      "chemicals": [
+        "Antitubercular Agents",
+        "Diarylquinolines",
+        "bedaquiline",
+        "Nitroimidazoles"
+      ],
+      "journal": "Cold Spring Harbor perspectives in medicine",
+      "authors": [
+        "Rosella Centis",
+        "Lia D'Ambrosio",
+        "Giovanni Battista Migliori"
+      ]
+    },
+    {
+      "pmid": "41339746",
+      "title": "Transcription co-inhibition alters drug resistance evolution and enhances Mycobacterium tuberculosis clearance from granulomas.",
+      "abstract": "Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis, remains the deadliest human pathogen. Treatment is hampered by drug resistance and the persistence of slow-growing or non-replicating populations. Rifampicin, a cornerstone of first-line therapy, inhibits transcription during promoter escape, but resistance mutations undermine efficacy and drive resistance spread. We revisited the transcription cycle as an antibacterial target by characterizing AAP-SO",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Mycobacterium tuberculosis",
+        "Rifampin",
+        "Animals",
+        "Granuloma",
+        "Antitubercular Agents",
+        "Transcription, Genetic",
+        "Drug Resistance, Bacterial",
+        "Rabbits",
+        "Tuberculosis",
+        "Humans",
+        "Mutation",
+        "DNA-Directed RNA Polymerases",
+        "Disease Models, Animal",
+        "Microbial Sensitivity Tests"
+      ],
+      "chemicals": [
+        "Rifampin",
+        "Antitubercular Agents",
+        "DNA-Directed RNA Polymerases"
+      ],
+      "journal": "Nature microbiology",
+      "authors": [
+        "Barbara Bosch",
+        "Vanisha Munsamy-Govender",
+        "Jansy Sarathy",
+        "Mirjana Lilic",
+        "Paul Dominic B Olinares",
+        "Kathryn A Eckartt"
+      ]
+    },
+    {
+      "pmid": "41410344",
+      "title": "Recent advances and unmet needs in the treatment of drug-resistant tuberculosis.",
+      "abstract": "Drug-resistant tuberculosis (DR-TB) still represents a critical global health threat despite recent therapeutic advances. The shift from long, injectable-based regimens to shorter, all-oral regimens has improved outcomes, yet substantial challenges remain in ensuring efficacy, safety, and equitable access. We reviewed recent literature (2020-2025) searching PubMed, Medline, Google Scholar, clinicaltrials.gov, WHO guidelines, conference abstract books focusing on recent policy-changing, or knowledge-advancing Phase II/III clinical trials assessing novel DR-TB drugs/regimens.We reported the persisting issues of drug toxicity and acquisition of drug resistance, reviewing evidence from trials, surveillance data, and real-life studies. We provided an overview of new compounds and regimens in the pipeline and underlined the critical role of drug-susceptibility testing. The availability of multiple short, all-oral regimens offers unprecedented therapeutic opportunities for drug-resistant tuberculosis. At the same time, the rise in bedaquiline resistance hampers the efficacy of these regimens and represents a global health threat. A promising rich pipeline of new compounds under development holds an important transformational potential in TB treatment; however, integrated drug-diagnostic development is needed to avoid past mistakes. Global advocacy for equitable access to TB treatment is fundamental to pairing scientific progress with concrete impact.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Tuberculosis, Multidrug-Resistant",
+        "Antitubercular Agents",
+        "Drug Development",
+        "Global Health",
+        "Health Services Accessibility",
+        "Administration, Oral",
+        "Animals"
+      ],
+      "chemicals": [
+        "Antitubercular Agents"
+      ],
+      "journal": "Expert review of clinical pharmacology",
+      "authors": [
+        "Chiara Sepulcri",
+        "Francesca Saluzzo",
+        "Daniele Roberto Giacobbe",
+        "Antonio Di Biagio",
+        "Daniela Maria Cirillo",
+        "Matteo Bassetti"
+      ]
+    },
+    {
+      "pmid": "41477004",
+      "title": "Activation of nuclear receptors correlates with tuberculosis severity and is a target for host-directed therapy.",
+      "abstract": "The immune response to We interrogated available transcriptomic datasets of whole blood from TB patients or We show that both the SNR and the LXR pathways are detected in the whole blood of TB patients and that their expression correlates with disease severity. Accordingly, the activation of the LXR pathway progressively increases in the lungs of We propose that progressive LXR activation is required to fine-tune host cholesterol availability during",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Liver X Receptors",
+        "Mycobacterium tuberculosis",
+        "Humans",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Disease Models, Animal",
+        "Tuberculosis",
+        "Macrophages",
+        "Severity of Illness Index",
+        "Receptors, Cytoplasmic and Nuclear",
+        "Lung",
+        "Female",
+        "Host-Pathogen Interactions",
+        "Male",
+        "Gene Expression Profiling",
+        "Signal Transduction"
+      ],
+      "chemicals": [
+        "Liver X Receptors",
+        "Receptors, Cytoplasmic and Nuclear"
+      ],
+      "journal": "Frontiers in cellular and infection microbiology",
+      "authors": [
+        "Ana Raquel Maceiras",
+        "Marta L Silva",
+        "Joana Couto",
+        "Rute Gon\u00e7alves",
+        "Marco Silva",
+        "Salvador Macedo"
+      ]
+    },
+    {
+      "pmid": "41446278",
+      "title": "CD14",
+      "abstract": "Immune checkpoint blockade (ICB) has revolutionized cancer therapy, yet its unintended impact on chronic infections remains poorly understood. Here, we identify PD-L1 expression on CD14",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "B7-H1 Antigen",
+        "Monocytes",
+        "Immune Checkpoint Inhibitors",
+        "Receptors, IgG",
+        "Lipopolysaccharide Receptors",
+        "Tuberculosis",
+        "Antibodies, Monoclonal",
+        "Disease Progression",
+        "Gene Expression Profiling",
+        "Mycobacterium tuberculosis",
+        "GPI-Linked Proteins"
+      ],
+      "chemicals": [
+        "B7-H1 Antigen",
+        "Immune Checkpoint Inhibitors",
+        "Receptors, IgG",
+        "CD274 protein, human",
+        "Lipopolysaccharide Receptors",
+        "Antibodies, Monoclonal",
+        "FCGR3B protein, human",
+        "durvalumab",
+        "GPI-Linked Proteins"
+      ],
+      "journal": "Frontiers in cellular and infection microbiology",
+      "authors": [
+        "Wentao Wang",
+        "Chenyang Liu",
+        "Wenxaio Wu",
+        "Zhengjun Yi",
+        "Jie Shen"
+      ]
+    },
+    {
+      "pmid": "41712806",
+      "title": "Adverse drug reactions and patients' outcomes in Moroccan tuberculosis cases.",
+      "abstract": "Tuberculosis (TB) remains a global health problem. Its treatment usually involves a combination of antibiotics over a prolonged period, exposing patients to a range of adverse drug reactions (ADRs). To investigate the epidemiology and outcomes of tuberculosis patients in Rabat (Morocco), with particular emphasis on assessing the ADRs of treatment and factors contributing to their occurrence. This retrospective study was conducted at Moulay Youssef Hospital in Rabat, from January 2021 to May 2022. Only patients hospitalized in the intensive phase of tuberculosis treatment, with known HIV status, and aged 15 or over were included. Sociodemographic characteristics, clinical presentations, manifestations of ADRs, and patient outcomes were analyzed. Uni- and multivariate logistic regression were conducted to identify factors associated with ADR occurrence. In this study, 144 patients were included. The mean age of patients was 45.82\u00b119.26 years. A male predominance was observed with a sex ratio of 1.4. Almost one-third of the patients (31.5%) experienced at least one ADR during treatment, with gastrointestinal symptoms (50%) being prominent. Logistic regression identified higher ADR incidence in females (p-value=0.046, OR=2.123; 95%CI: 1.013-4.448) and patients with addictive habits (p-value=0.019, OR=3.358; 95%CI:1.478-8.419). Treatment success was observed in 64.58% of the cases, with ADRs showing no significant difference between patients with successful treatment and those with failed treatment. The occurrence of ADR poses a significant challenge to tuberculosis patients, highlighting the need for personalized approaches to mitigate these complications and ensure treatment success.",
+      "pub_date": "2025-05-05",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Morocco",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Adult",
+        "Antitubercular Agents",
+        "Tuberculosis",
+        "Young Adult",
+        "Drug-Related Side Effects and Adverse Reactions",
+        "Aged",
+        "Adolescent",
+        "Treatment Outcome",
+        "Incidence",
+        "Risk Factors"
+      ],
+      "chemicals": [
+        "Antitubercular Agents"
+      ],
+      "journal": "La Tunisie medicale",
+      "authors": [
+        "Ouassima Erefai",
+        "Sanae Barnou",
+        "Meryem Rais",
+        "Houria Hardouz"
+      ]
+    },
+    {
+      "pmid": "41448789",
+      "title": "Effect of smoking on drug-resistant tuberculosis treatment outcomes and potential mechanistic pathways: a multicountry cohort study.",
+      "abstract": "People who smoke are at increased risk of unfavourable tuberculosis treatment outcomes compared with those who do not, but the pathways that explain this disparity are unclear. To estimate the difference in a successful end-of-treatment outcome by smoking status among people with multidrug- or rifampicin-resistant tuberculosis (MDR/RR-TB) and to examine if this difference changes if people who smoked had the same retention in treatment as those who did not smoke. Using data from the prospective endTB Observational Study, we estimated the difference in treatment success by cigarette smoking status, adjusting for baseline confounders including demographics, social history and comorbidities. To examine how this difference changed if everyone was retained in treatment, we censored participants who were lost to follow-up and applied inverse probability of censoring weights to simulate this scenario. Among 1786 participants in 12 countries, 539 (30.2%) reported smoking at least one cigarette daily. People who smoked were more frequently found in post-Soviet countries and had a complex social history (eg, incarceration and substance use) and infectious comorbidities (eg, hepatitis C). At the end of treatment, 73.5% of people who smoked and 80.3% of people who did not smoke had treatment success (risk difference in percentage points: -6.8, 95% CI -11.1 to -2.6). After adjusting for baseline confounders, the risk difference was similar (-5.2\u2009percentage points), but the 95%\u2009CI was less precise (-14.1 to 3.2). When simulating a scenario in which everyone was retained in treatment, the risk difference was attenuated (-1.9\u2009percentage points; 95%\u2009CI -11.1 to 4.7). People who smoked had a lower frequency of MDR/RR-TB treatment success than those who did not smoke. Eliminating loss to follow-up reduced this difference by smoking status, suggesting that pathways related to retention in treatment were a major driver of this disparity.",
+      "pub_date": "2025-12-25",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antitubercular Agents",
+        "Cigarette Smoking",
+        "Comorbidity",
+        "Prospective Studies",
+        "Rifampin",
+        "Treatment Outcome",
+        "Tuberculosis, Multidrug-Resistant"
+      ],
+      "chemicals": [
+        "Antitubercular Agents",
+        "Rifampin"
+      ],
+      "journal": "BMJ open respiratory research",
+      "authors": [
+        "Matthew L Romo",
+        "Allison LaHood",
+        "Helen R Stagg",
+        "Carole D Mitnick",
+        "Letizia Trevisi",
+        "Cathy Hewison"
+      ]
+    },
+    {
+      "pmid": "41207943",
+      "title": "Key Proteins and Enzymatic Mechanisms Underlying Drug Resistance in Mycobacterium tuberculosis.",
+      "abstract": "Drug resistance in Mycobacterium tuberculosis (Mtb) is a complex phenomenon resulting from multiple coordinated molecular and genetic mechanisms that allow the bacterium to evade antimicrobial agents. Intrinsic resistance primarily stems from the unique architecture of the mycobacterial cell envelope, characterized by a dense, lipid-rich barrier that substantially limits antibiotic penetration and reduces intracellular drug concentrations. Additionally, enzymatic degradation mechanisms further diminish drug efficacy by inactivating antibiotics extracellularly. Acquired resistance is predominantly driven by spontaneous chromosomal mutations that modify drug targets or disrupt prodrug activation pathways, thereby reducing antibiotic binding affinity and therapeutic activity while preserving essential bacterial functions. Upregulation of drug targets and drug-modifying enzymes through genetic alterations leads to elevated thresholds for effective inhibition. Active efflux systems also play a critical role by transporting antibiotics out of the cell, lowering intracellular drug levels below therapeutic thresholds, and contributing to multidrug resistance. Collectively, these interrelated mechanisms establish a formidable defense network that complicates tuberculosis treatment and underscores the pressing need for novel therapeutic approaches to circumvent resistance and improve clinical outcomes.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Mycobacterium tuberculosis",
+        "Humans",
+        "Antitubercular Agents",
+        "Bacterial Proteins",
+        "Drug Resistance, Bacterial",
+        "Drug Resistance, Multiple, Bacterial",
+        "Tuberculosis, Multidrug-Resistant"
+      ],
+      "chemicals": [
+        "Antitubercular Agents",
+        "Bacterial Proteins"
+      ],
+      "journal": "Advances in experimental medicine and biology",
+      "authors": [
+        "Parissa Farnia",
+        "Ali Akbar Velayati",
+        "Jalaledin Ghanavi",
+        "Poopak Farnia"
+      ]
+    },
+    {
+      "pmid": "41219178",
+      "title": "Incidence and risk factors of abnormal liver function and anti-tuberculosis drug-induced liver injury: a multicenter retrospective study involving 482 chinese pediatric tuberculosis patients.",
+      "abstract": "This study aimed to investigate the incidence of abnormal liver function, which can lead to serious consequences, as well as anti-tuberculosis drug-induced liver injury (ATDILI) and their associated risk factors. A national multicenter retrospective study was conducted to collected pediatric TB treatment data from 11 specialized and general hospitals. The multivariate logistic regression analysis was performed to assess the influencing factors of abnormal liver function and ATDILI. The Kaplan-Meier survival analysis assessed temporal risk trends for these outcomes. Among the 482 patients included in the study, 18 patients (3.73%) experienced ATDILI, and 51 (10.58%) experienced abnormal liver function. The time of occurrence of abnormal liver function and ATDILI was 20.0 (IQR: 6.0, 34.0) days and 28.0 (IQR: 8.0, 87.0) days, respectively. The multivariate analysis results showed that, patients who used second line drugs in the intensive phase were more likely to experience ATDILI (OR = 4.16, 95% CI: 1.34\u2009\u223c\u200912.84, The incidence of abnormal liver function and ATDILI differed. By considering laboratory indicators and clinical practice, early identification and detection of abnormal liver function in children during anti-TB treatment, along with timely intervention, can effectively prevent and control the harm caused by abnormal liver function and prevent it progression to ATDILI.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Chemical and Drug Induced Liver Injury",
+        "Male",
+        "Retrospective Studies",
+        "Female",
+        "Antitubercular Agents",
+        "Child",
+        "Risk Factors",
+        "Incidence",
+        "Child, Preschool",
+        "China",
+        "Tuberculosis",
+        "Infant",
+        "Adolescent",
+        "Liver Function Tests",
+        "Kaplan-Meier Estimate",
+        "East Asian People"
+      ],
+      "chemicals": [
+        "Antitubercular Agents"
+      ],
+      "journal": "Annals of medicine",
+      "authors": [
+        "Yiqing Zhou",
+        "Min Wang",
+        "Hongmei Xu",
+        "Lisu Huang",
+        "Ping Liu",
+        "Juan Ma"
+      ]
+    }
+  ]
+}

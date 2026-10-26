@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_tuberculosis_safety a holon:EntityEntry ;
+    holon:entity oed:tuberculosis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_tuberculosis_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_tuberculosis_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.68 ;
+    holon:evidenceLevel "Level-2B" ;
+    holon:inHolon oeq:q_tuberculosis_safety ;
+    holon:recordedOn "2026-01-01"^^xsd:date ;
+    oe:cites oesrc:41448789 .
+
+oedrug:isoniazid oe:causesSideEffect oesym:cough .
+
+oeevt:ev_q_tuberculosis_safety-tt rdf:object oesym:cough ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:isoniazid .
+
+oeq:q_tuberculosis_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Tuberculosis with ison"@en ;
+    prov:generatedAtTime "2026-01-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.51 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_tuberculosis_safety-bnd ;
+    holon:hasContextGraph oeq:q_tuberculosis_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_tuberculosis_safety-int ;
+    holon:hasProjectionGraph oeq:q_tuberculosis_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Tuberculosis with isoniazid."^^xsd:string ;
+    holon:recordedOn "2026-01-01"^^xsd:date ;
+    holon:summaryConfidence 0.68 ;
+    oe:aboutDisease oed:tuberculosis ;
+    oe:answerText "People who smoke are at increased risk of unfavourable tuberculosis treatment outcomes compared with those who do not, but the pathways that explain this disparity are unclear. To estimate the difference in a successful end-of-treatment outcome by smoking status among people with multidrug- or rifampicin-resistant tuberculosis (MDR/RR-TB) and to examine if this difference changes if people who smoked had the same retention in treatment as those who did not smoke."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    oe:cites oesrc:41207943,
+        oesrc:41219178,
+        oesrc:41448789,
+        oesrc:41712806 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Tuberculosis with isoniazid?"^^xsd:string .
+

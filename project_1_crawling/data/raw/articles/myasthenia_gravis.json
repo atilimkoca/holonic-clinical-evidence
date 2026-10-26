@@ -1,0 +1,418 @@
+{
+  "disease": "Myasthenia Gravis",
+  "slug": "myasthenia_gravis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "37353278",
+      "title": "Safety and clinical activity of autologous RNA chimeric antigen receptor T-cell therapy in myasthenia gravis (MG-001): a prospective, multicentre, open-label, non-randomised phase 1b/2a study.",
+      "abstract": "Chimeric antigen receptor (CAR) T cells are highly effective in treating haematological malignancies, but associated toxicities and the need for lymphodepletion limit their use in people with autoimmune disease. To explore the use of CAR T cells for the treatment of people with autoimmune disease, and to improve their safety, we engineered them with RNA (rCAR-T)-rather than the conventional DNA approach-to target B-cell maturation antigen (BCMA) expressed on plasma cells. To test the suitability of our approach, we used rCAR-T to treat individuals with myasthenia gravis, a prototypical autoantibody disease mediated partly by pathogenic plasma cells. MG-001 was a prospective, multicentre, open-label, phase 1b/2a study of Descartes-08, an autologous anti-BCMA rCAR-T therapy, in adults (ie, aged \u226518 years) with generalised myasthenia gravis and a Myasthenia Gravis Activities of Daily Living (MG-ADL) score of 6 or higher. The study was done at eight sites (ie, academic medical centres or community neurology clinics) in the USA. Lymphodepletion chemotherapy was not used. In part 1 (phase 1b), participants with Myasthenia Gravis Foundation of America (MGFA) disease class III-IV generalised myasthenia gravis received three ascending doses of Descartes-08 to determine a maximum tolerated dose. In part 2 (phase 2a), participants with generalised myasthenia gravis with MGFA disease class II-IV received six doses at the maximum tolerated dose in an outpatient setting. The primary objective was to establish safety and tolerability of Descartes-08; secondary objectives were to assess myasthenia gravis disease severity and biomarkers in participants who received Descartes-08. This trial is registered with clinicaltrials.gov, NCT04146051. We recruited 16 individuals for screening between Jan 7, 2020 and Aug 3, 2022. 14 participants were enrolled (n=3 in part 1, n=11 in part 2). Ten participants were women and four were men. Two individuals did not qualify due to low baseline MG-ADL score (n=1) or lack of generalised disease (n=1). Median follow-up in part 2 was 5 months (range 3-9 months). There was no dose-limiting toxicity, cytokine release syndrome, or neurotoxicity. Common adverse events were headache (six of 14 participants), nausea (five of 14), vomiting (three of 14), and fever (four of 14), which resolved within 24 h of infusion. Fevers were not associated with increased markers of cytokine release syndrome (IL-6, IL-2, and TNF). Mean improvements from baseline to week 12 were -6 (95% CI -9 to -3) for MG-ADL score, -7 (-11 to -3) for Quantitative Myasthenia Gravis score, -14 (-19 to -9) for Myasthenia Gravis Composite score, and -9 (-15 to -3) for Myasthenia Gravis Quality of Life 15-revised score. In this first study of an rCAR-T therapy in individuals with an autoimmune disease, Descartes-08 appeared to be safe and was well tolerated. Descartes-08 infusions were followed by clinically meaningful decreases on myasthenia gravis severity scales at up to 9 months of follow-up. rCAR-T therapy warrants further investigation as a potential new treatment approach for individuals with myasthenia gravis and other autoimmune diseases. Cartesian Therapeutics and National Institute of Neurological Disorders and Stroke of the National Institutes of Health.",
+      "pub_date": "2023-07-01",
+      "publication_types": [
+        "Clinical Trial, Phase I",
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Adolescent",
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Activities of Daily Living",
+        "Autoantibodies",
+        "Cell- and Tissue-Based Therapy",
+        "Cytokine Release Syndrome",
+        "Myasthenia Gravis",
+        "Prospective Studies",
+        "Quality of Life",
+        "Receptors, Chimeric Antigen",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Autoantibodies",
+        "Receptors, Chimeric Antigen"
+      ],
+      "journal": "The Lancet. Neurology",
+      "authors": [
+        "Volkan Granit",
+        "Michael Benatar",
+        "Metin Kurtoglu",
+        "Milo\u0161 D Miljkovi\u0107",
+        "Nizar Chahin",
+        "Gregory Sahagian"
+      ]
+    },
+    {
+      "pmid": "39862879",
+      "title": "Safety and efficacy of nipocalimab in adults with generalised myasthenia gravis (Vivacity-MG3): a phase 3, randomised, double-blind, placebo-controlled study.",
+      "abstract": "Given burdensome side-effects and long latency for efficacy with conventional agents, there is a continued need for generalised myasthenia gravis treatments that are safe and provide consistently sustained, long-term disease control. Nipocalimab, a neonatal Fc receptor blocker, was associated with dose-dependent reductions in total IgG and anti-acetylcholine receptor (AChR) antibodies and clinically meaningful improvements in the Myasthenia Gravis Activities of Daily Living (MG-ADL) scale in patients with generalised myasthenia gravis in a phase 2 study. We aimed to assess the safety and efficacy of nipocalimab in a phase 3 study. Vivacity-MG3 was a phase 3, randomised, double-blind, placebo-controlled, phase 3 study conducted at 81 outpatient centres with expertise in myasthenia gravis in 17 countries in Asia-Pacific, Europe, and North America. Adults (aged \u226518 years) with generalised myasthenia gravis inadequately controlled with standard-of-care therapy (MG-ADL score \u22656) were randomly assigned (1:1) to either nipocalimab (30 mg/kg loading dose then 15 mg/kg every 2 weeks for maintenance dosing) or placebo infusions every 2 weeks, added to standard-of-care therapy in both groups, for 24 weeks. Randomisation was stratified by antibody status, day 1 MG-ADL total score, and region. The sponsor, investigators, clinical raters, and participants were masked to treatment assignment. The primary endpoint was the difference between nipocalimab and placebo based on least-squares mean change from baseline in MG-ADL total score averaged over weeks 22, 23, and 24 in the intention-to-treat population of patients who were antibody-positive (for AChR, anti-muscle-specific tyrosine kinase [MuSK], or anti-low-density lipoprotein receptor-related protein 4 [LRP4]). Adverse events were assessed in patients who received at least one dose of study drug. This study is registered at ClinicalTrials.gov, NCT04951622; the double-blind phase is completed and an open-label extension phase is ongoing. Between July 15, 2021, and Nov 17, 2023, 199 patients were enrolled, and 196 patients received study drug (98 in the nipocalimab group and 98 in the placebo group); of these, 153 (77 in the nipocalimab group and 76 in the placebo group) were antibody-positive. The least-squares mean change in MG-ADL score from baseline to weeks 22, 23, and 24 was -4\u00b770 (SE 0\u00b7329) in the nipocalimab group versus -3\u00b725 (0\u00b7335) in the placebo group (difference -1\u00b745 [95% CI -2\u00b738 to -0\u00b752]; p=0\u00b70024). The incidence of adverse events was similar between groups (82 [84%] of 98 in both the nipocalimab and placebo groups), including infections (42 [43%] of 98 in the nipocalimab group and placebo group) and headache (14 [14%] of 98 in the nipocalimab group and 17 [17%] of 98 in the placebo group). Serious adverse events were reported for nine (9%) of 98 patients in the nipocalimab group and 14 (14%) of 98 patients in the placebo group, three of which had a fatal outcome (nipocalimab: myasthenic crisis; placebo: cardiac arrest and myocardial infarction). Results from the completed double-blind phase of Vivacity-MG3 support the role of nipocalimab, added to standard-of-care therapies, as a safe treatment for sustained disease control over 6 months for a broad population of patients with generalised myasthenia gravis who are antibody-positive. The ongoing open-label extension phase should provide longer term sustained safety and efficacy data with nipocalimab. Janssen Research & Development, LLC, a Johnson & Johnson company.",
+      "pub_date": "2025-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Myasthenia Gravis",
+        "Double-Blind Method",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Adult",
+        "Antibodies, Monoclonal, Humanized",
+        "Aged",
+        "Treatment Outcome",
+        "Receptors, Cholinergic",
+        "Activities of Daily Living"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Receptors, Cholinergic"
+      ],
+      "journal": "The Lancet. Neurology",
+      "authors": [
+        "Carlo Antozzi",
+        "Tuan Vu",
+        "Sindhu Ramchandren",
+        "Richard J Nowak",
+        "Constantine Farmakidis",
+        "Vera Bril"
+      ]
+    },
+    {
+      "pmid": "40202593",
+      "title": "A Phase 3 Trial of Inebilizumab in Generalized Myasthenia Gravis.",
+      "abstract": "Autoimmune generalized myasthenia gravis is a disease that manifests with fluctuating muscle weakness. Inebilizumab is a monoclonal antibody that depletes CD19+ B cells, which are central to disease pathogenesis. In this phase 3, double-blind, randomized, placebo-controlled trial, we enrolled participants with myasthenia gravis who had anti-acetylcholine receptor antibodies or anti-muscle-specific kinase antibodies. Participants were randomly assigned, in a 1:1 ratio, to receive intravenous inebilizumab (300 mg administered on days 1 and 15 for all, and additionally on day 183 for participants who were acetylcholine receptor antibody-positive) or matching placebo for 52 weeks (in participants who were acetylcholine receptor antibody-positive) or 26 weeks (in those who were muscle-specific kinase antibody-positive). Glucocorticoid therapy was tapered, starting at week 4, to a target of 5 mg per day by week 24. The primary end point was the change from baseline in the score on the Myasthenia Gravis Activities of Daily Living scale (MG-ADL; scores range from 0 to 24, with higher scores indicating greater disease activity) at week 26 in the combined acetylcholine receptor antibody-positive and muscle-specific kinase antibody-positive trial populations. A key secondary end point was the change from baseline in the score on the Quantitative Myasthenia Gravis scale (QMG; scores range from 0 to 39, with higher scores indicating greater disease activity) at week 26 in the combined population. Safety was assessed. A total of 238 participants underwent randomization (119 per group). Participants who received inebilizumab had a greater reduction in the MG-ADL score than those who received placebo (least-squares mean change, -4.2 vs. -2.2; adjusted difference, -1.9; 95% confidence interval [CI], -2.9 to -1.0; P<0.001) at week 26. Participants who received inebilizumab had a greater reduction in the QMG score than those who received placebo (least-squares mean change, -4.8 vs. -2.3; adjusted difference, -2.5; 95% CI, -3.8 to -1.2; P<0.001). The most common adverse events with inebilizumab were headache, cough, nasopharyngitis, infusion-related reactions, and urinary tract infections. Inebilizumab was not associated with a higher incidence of serious adverse events. In participants with acetylcholine receptor antibody-positive or muscle-specific kinase antibody-positive generalized myasthenia gravis, inebilizumab improved function and reduced disease severity. (Funded by Amgen; MINT ClinicalTrial.gov number, NCT04524273.).",
+      "pub_date": "2025-06-19",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Activities of Daily Living",
+        "Antibodies, Monoclonal, Humanized",
+        "Autoantibodies",
+        "Double-Blind Method",
+        "Glucocorticoids",
+        "Myasthenia Gravis",
+        "Receptor Protein-Tyrosine Kinases",
+        "Receptors, Cholinergic",
+        "Treatment Outcome",
+        "Severity of Illness Index"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Autoantibodies",
+        "Glucocorticoids",
+        "MUSK protein, human",
+        "Receptor Protein-Tyrosine Kinases",
+        "Receptors, Cholinergic",
+        "inebilizumab"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Richard J Nowak",
+        "Michael Benatar",
+        "Emma Ciafaloni",
+        "James F Howard",
+        "M Isabel Leite",
+        "Kimiaki Utsugisawa"
+      ]
+    },
+    {
+      "pmid": "38321574",
+      "title": "Generalized myasthenia gravis with acetylcholine receptor antibodies: A guidance for treatment.",
+      "abstract": "Generalized myasthenia gravis (MG) with antibodies against the acetylcholine receptor is a chronic disease causing muscle weakness. Access to novel treatments warrants authoritative treatment recommendations. The Nordic countries have similar, comprehensive health systems, mandatory health registers, and extensive MG research. MG experts and patient representatives from the five Nordic countries formed a working group to prepare treatment guidance for MG based on a systematic literature search and consensus meetings. Pyridostigmine represents the first-line symptomatic treatment, while ambenonium and beta adrenergic agonists are second-line options. Early thymectomy should be undertaken if a thymoma, and in non-thymoma patients up to the age of 50-65\u2009years if not obtaining remission on symptomatic treatment. Most patients need immunosuppressive drug treatment. Combining corticosteroids at the lowest possible dose with azathioprine is recommended, rituximab being an alternative first-line option. Mycophenolate, methotrexate, and tacrolimus represent second-line immunosuppression. Plasma exchange and intravenous immunoglobulin are used for myasthenic crises and acute exacerbations. Novel complement inhibitors and FcRn blockers are effective and fast-acting treatments with promising safety profiles. Their use depends on local availability, refunding policies, and cost-benefit analyses. Adapted physical training is recommended. Planning of pregnancies with optimal treatment, information, and awareness of neonatal MG is necessary. Social support and adaptation of work and daily life activities are recommended. Successful treatment of MG rests on timely combination of different interventions. Due to spontaneous disease fluctuations, comorbidities, and changes in life conditions, regular long-term specialized follow-up is needed. Most patients do reasonably well but there is room for further improvement. Novel treatments are promising, though subject to restricted access due to costs.",
+      "pub_date": "2024-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Myasthenia Gravis",
+        "Receptors, Cholinergic",
+        "Autoantibodies",
+        "Immunosuppressive Agents",
+        "Practice Guidelines as Topic"
+      ],
+      "chemicals": [
+        "Receptors, Cholinergic",
+        "Autoantibodies",
+        "Immunosuppressive Agents"
+      ],
+      "journal": "European journal of neurology",
+      "authors": [
+        "Nils Erik Gilhus",
+        "Henning Andersen",
+        "Linda Kahr Andersen",
+        "Marion Boldingh",
+        "Sini Laakso",
+        "Margret Oddny Leopoldsdottir"
+      ]
+    },
+    {
+      "pmid": "38117543",
+      "title": "Refocusing generalized myasthenia gravis: Patient burden, disease profiles, and the role of evolving therapy.",
+      "abstract": "Generalized myasthenia gravis (gMG) continues to present significant challenges for clinical management due to an unpredictable disease course, frequent disease fluctuations, and varying response to therapy. The recent availability of new pharmacologic therapies presents a valuable opportunity to reevaluate how this disease is classified, assessed, and managed and identify new ways to improve the clinical care of patients with gMG. Narrative review was made of publications identified via searches of PubMed and selected congresses (January 2000-September 2022). New consensus definitions are required to ensure consistency, to better characterize patients, and to identify patients who will benefit from specific drugs and earlier use of these agents. There is a need for more frequent, standardized patient assessment to identify the cause of motor function deficits, provide a clearer picture of the disease burden and its impact on daily living and quality of life (QoL), and better support treatment decision-making. Novel approaches that target different components of the immune system will play a role in more precise treatment of patients with gMG, alongside the development of new algorithms to guide individualized patient management. gMG has a physical, mental, and social impact, resulting in a considerable burden of disease and substantially decreased QoL, despite standard treatments. The availability of novel, targeted treatments that influence key pathological mediators of gMG, together with new biomarkers, offers the potential to optimize patient management and ultimately enables a greater number of patients to achieve minimal manifestation status and a reduced burden of disease.",
+      "pub_date": "2024-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Myasthenia Gravis",
+        "Humans",
+        "Cost of Illness",
+        "Quality of Life"
+      ],
+      "chemicals": [],
+      "journal": "European journal of neurology",
+      "authors": [
+        "Francesco Sacc\u00e0",
+        "Emmanuelle Salort-Campana",
+        "Saiju Jacob",
+        "Elena Cort\u00e9s-Vicente",
+        "Christiane Schneider-Gold"
+      ]
+    },
+    {
+      "pmid": "39869260",
+      "title": "New and Emerging Biological Therapies for Myasthenia Gravis: A Focussed Review for Clinical Decision-Making.",
+      "abstract": "Myasthenia gravis (MG) is a rare autoimmune disease characterised by exertion-induced muscle weakness that can lead to potentially life-threatening myasthenic crises. Detectable antibodies are directed against specific postsynaptic structures of the neuromuscular junction. MG is a chronic condition that can be improved through therapies, but to date, not cured. Standard treatment has been unchanged for decades and includes symptomatic treatment with acetylcholine-esterase inhibitors and disease-modifying treatment with steroids, steroid-sparing immunosuppressants and thymectomy. Overall, a relevant proportion of patients does not achieve a satisfactory clinical improvement under standard treatment. Additionally, long-term therapy with steroids can cause significant side effects and latency to clinical improvement with standard steroid-sparing immunosuppressants and after thymectomy can take months to years. In recent years, treatment of MG has changed fundamentally due to improved evidence from phase 3 trials and the regulatory approval of complement inhibitors and FcRn inhibitors as add-on treatment options. This provides new optimism for substantially more patients reaching minimal manifestation status and has led to a shift in treatment strategy with more targeted therapies being employed early in the course of the disease, especially in patients with high disease activity. In this focussed review, we provide an overview of the diagnosis, classification and standard treatment of MG, followed by data from randomised controlled trials on the modern drugs already available for therapy and those still in the final stages of clinical development. In the second part, we provide an overview of real-world data for already approved therapies and outline how the availability of new biologicals is changing both clinical decision-making and patient journey.",
+      "pub_date": "2025-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Myasthenia Gravis",
+        "Clinical Decision-Making",
+        "Immunosuppressive Agents",
+        "Thymectomy",
+        "Biological Therapy",
+        "Receptors, Fc",
+        "Complement Inactivating Agents"
+      ],
+      "chemicals": [
+        "Immunosuppressive Agents",
+        "Receptors, Fc",
+        "Complement Inactivating Agents"
+      ],
+      "journal": "BioDrugs : clinical immunotherapeutics, biopharmaceuticals and gene therapy",
+      "authors": [
+        "Lea Gerischer",
+        "Paolo Doksani",
+        "Sarah Hoffmann",
+        "Andreas Meisel"
+      ]
+    },
+    {
+      "pmid": "38191918",
+      "title": "Myasthenia gravis: the changing treatment landscape in the era of molecular therapies.",
+      "abstract": "Myasthenia gravis (MG) is an autoimmune disorder that affects the neuromuscular junction, leading to muscle weakness and fatigue. MG is caused by antibodies against the acetylcholine receptor (AChR), the muscle-specific kinase (MuSK) or other AChR-related proteins that are expressed in the postsynaptic muscle membrane. The standard therapeutic approach for MG has relied on acetylcholinesterase inhibitors, corticosteroids and immunosuppressants, which have shown good efficacy in improving MG-related symptoms in most people with the disease; however, these therapies can carry a considerable burden of long-term adverse effects. Moreover, up to 15% of individuals with MG exhibit limited or no response to these standard therapies. The emergence of molecular therapies, including monoclonal antibodies, B cell-depleting agents and chimeric antigen receptor T cell-based therapies, has the potential to revolutionize the MG treatment landscape. This Review provides a comprehensive overview of the progress achieved in molecular therapies for MG associated with\u00a0AChR antibodies and MuSK\u00a0antibodies, elucidating both the challenges and the opportunities these therapies present to the field. The latest developments in MG treatment are described, exploring the potential for personalized medicine approaches.",
+      "pub_date": "2024-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Acetylcholinesterase",
+        "Receptor Protein-Tyrosine Kinases",
+        "Myasthenia Gravis",
+        "Receptors, Cholinergic",
+        "Autoantibodies"
+      ],
+      "chemicals": [
+        "Acetylcholinesterase",
+        "Receptor Protein-Tyrosine Kinases",
+        "Receptors, Cholinergic",
+        "Autoantibodies"
+      ],
+      "journal": "Nature reviews. Neurology",
+      "authors": [
+        "Raffaele Iorio"
+      ]
+    },
+    {
+      "pmid": "39198371",
+      "title": "Targeted Treatments for Myasthenia Gravis in Children and Adolescents.",
+      "abstract": "Myasthenia gravis (MG) is an antibody-mediated disorder of the neuromuscular junction affecting children and adults. MG is a treatable condition with most patients requiring immunosuppression for disease control and/or remission. Juvenile myasthenia gravis (JMG) is rare in comparison with adult-onset MG but given the same underlying pathophysiology, treatment strategies are similar to those in adults. Until recently, there were only a few randomised controlled trials (RCTs) for MG treatments in adults and none in children, and management strategies were primarily based on expert consensus. In addition, treatment options for refractory MG cases have been severely limited, resulting in poor long-term quality of life in such patients due to the significant disease burden. Recently, there have been several RCTs focussing on novel therapeutic strategies with potentially promising outcomes, suggesting a change in MG management over the coming years and access to more effective and faster-acting drugs for MG patients. This paper will review current and new MG treatments including efgartigimod, eculizumab, rozanolixizumab, ravulizumab, and zilucoplan, with a focus on juvenile myasthenia gravis.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Myasthenia Gravis",
+        "Child",
+        "Adolescent",
+        "Quality of Life"
+      ],
+      "chemicals": [],
+      "journal": "Paediatric drugs",
+      "authors": [
+        "Sithara Ramdas",
+        "Teresa Painho",
+        "Maria I Vanegas",
+        "Dennis T Famili",
+        "Ming J Lim",
+        "Heinz Jungbluth"
+      ]
+    },
+    {
+      "pmid": "39379218",
+      "title": "New treatment strategies in Myasthenia gravis.",
+      "abstract": "Myasthenia gravis (MG) is a chronic autoimmune neuromuscular disorder characterized by muscle weakness and fatigue. The disease is primarily caused by antibodies targeting acetylcholine receptors (AChR) and muscle-specific kinase (MuSK) proteins at the neuromuscular junction. Traditional treatments for MG, such as acetylcholinesterase inhibitors, corticosteroids, and immunosuppressants, have shown efficacy but are often associated with significant long-term side effects and variable patient response rates. Notably, approximately 15% of patients exhibit inadequate responses to these standard therapies. Recent advancements in molecular therapies, including monoclonal antibodies, B cell-depleting agents, complement inhibitors, Fc receptor antagonists, and chimeric antigen receptor (CAR) T cell-based therapies, have introduced promising alternatives for MG treatment. These novel therapeutic approaches offer potential improvements in targeting specific immune pathways involved in MG pathogenesis. This review highlights the progress and challenges in developing and implementing these molecular therapies. It discusses their mechanisms, efficacy, and the potential for personalized medicine in managing MG. The integration of new molecular therapies into clinical practice could significantly transform the treatment landscape of MG, offering more effective and tailored therapeutic options for patients who do not respond adequately to traditional treatments. These innovations underscore the importance of ongoing research and clinical trials to optimize therapeutic strategies and improve the quality of life for individuals with MG.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Myasthenia Gravis",
+        "Humans",
+        "Immunosuppressive Agents",
+        "Cholinesterase Inhibitors"
+      ],
+      "chemicals": [
+        "Immunosuppressive Agents",
+        "Cholinesterase Inhibitors"
+      ],
+      "journal": "Revue neurologique",
+      "authors": [
+        "S Attarian"
+      ]
+    },
+    {
+      "pmid": "39227284",
+      "title": "Subcutaneous efgartigimod PH20 in generalized myasthenia gravis: A phase 3 randomized noninferiority study (ADAPT-SC) and interim analyses of a long-term open-label extension study (ADAPT-SC+).",
+      "abstract": "ADAPT-SC (NCT04735432) was designed to evaluate noninferiority of subcutaneous (SC) efgartigimod PH20 to intravenous (IV) efgartigimod in participants with generalized myasthenia gravis (gMG). ADAPT-SC+ (NCT04818671) is an open-label extension study designed to assess long-term safety, tolerability, and efficacy of efgartigimod PH20 SC. Adult participants in ADAPT-SC were randomly assigned to receive a treatment cycle of 4 once-weekly administrations of efgartigimod PH20 SC 1000\u00a0\u200bmg or efgartigimod IV 10\u00a0\u200bmg/kg, followed by 7 weeks of follow-up. Primary endpoint was percentage change from baseline in total immunoglobulin G (IgG) level at week 4 (1 week after the fourth administration). Secondary efficacy endpoints assessed number and percentage of Myasthenia Gravis Activities of Daily Living (MG-ADL) and Quantitative Myasthenia Gravis (QMG) responders and mean change from baseline in total score for each measure. The primary endpoint was met, demonstrating noninferiority in total IgG reduction between efgartigimod PH20 SC 1000\u00a0\u200bmg and efgartigimod IV 10\u00a0\u200bmg/kg. Clinically meaningful improvements were seen as early as 1 week following the first administration in both treatment arms, with maximal improvements at week 4. Continued treatment cycles of efgartigimod PH20 SC in ADAPT-SC+ have demonstrated long-term safety and consistent improvements in MG-ADL total score. Findings from ADAPT-SC and ADAPT-SC+ demonstrate similar safety and efficacy as observed in the placebo-controlled ADAPT study. Collectively, these findings support noninferiority between efgartigimod PH20 SC 1000\u00a0\u200bmg and efgartigimod IV 10\u00a0\u200bmg/kg, as well as long-term safety, tolerability, and efficacy of efgartigimod PH20 SC for treatment of a broad population of patients with gMG.",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "Injections, Subcutaneous",
+        "Myasthenia Gravis",
+        "Treatment Outcome"
+      ],
+      "chemicals": [],
+      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+      "authors": [
+        "James F Howard",
+        "Tuan Vu",
+        "George Li",
+        "Denis Korobko",
+        "Marek Smilowski",
+        "Li Liu"
+      ]
+    },
+    {
+      "pmid": "40241307",
+      "title": "Long-Term Efficacy and Safety of Ravulizumab in Adults With Anti-Acetylcholine Receptor Antibody-Positive Generalized Myasthenia Gravis: Final Results From the Phase 3 CHAMPION MG Open-Label Extension.",
+      "abstract": "Ravulizumab, an anti-complement C5 monoclonal antibody, was efficacious with acceptable safety in the randomized controlled period (RCP) and interim open-label extension (OLE) periods of the CHAMPION MG phase 3 trial in adults with anti-acetylcholine receptor antibody-positive (AChR-Ab+) generalized myasthenia gravis (gMG). Here, we report final results from the OLE. Patients who completed the 26-week RCP could enter the OLE and receive ravulizumab for up to 4\u2009years. Efficacy and safety were assessed throughout the OLE. Among all ravulizumab-treated patients (n\u2009=\u2009169; median [range] ravulizumab treatment, 759.0 [14.0, 1265.0] days), 161 entered the OLE (ravulizumab-ravulizumab: n\u2009=\u200978; placebo-ravulizumab: n\u2009=\u200983). Sustained improvements were observed in Myasthenia Gravis Activities of Daily Living (MG-ADL) total scores (ravulizumab-ravulizumab, least squares mean [95% CI] change from RCP baseline at week 164: -4.0 [-5.3, -2.8]; p\u2009<\u20090.0001; placebo-ravulizumab, change from OLE baseline after 138\u2009weeks of treatment: -2.1 [-3.3, -0.9]; p\u2009=\u20090.0005). One hundred and forty-one out of 160 (88.1%) patients achieved a\u2009\u2265\u20092-point improvement in MG-ADL total score, and 59/141 (41.8%) achieved a score of 0 or 1; once achieved, 32/59 (54.2%) sustained this status for >\u200950% of their remaining time in the study. Similar improvements were observed in Quantitative Myasthenia Gravis and Myasthenia Gravis Quality of Life-15 revised scores, and Neurological Quality of Life Fatigue subscale scores. Clinical deterioration event rates were reduced in the OLE versus placebo in the RCP. Corticosteroid usage was reduced in the OLE. Ravulizumab was well tolerated; no meningococcal infections were reported. Ravulizumab demonstrated clinically meaningful and durable efficacy and safety in adults with AChR-Ab+ gMG.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Autoantibodies",
+        "Double-Blind Method",
+        "Myasthenia Gravis",
+        "Receptors, Cholinergic",
+        "Treatment Outcome",
+        "Clinical Trials, Phase III as Topic"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Autoantibodies",
+        "ravulizumab",
+        "Receptors, Cholinergic"
+      ],
+      "journal": "European journal of neurology",
+      "authors": [
+        "Tuan H Vu",
+        "Renato Mantegazza",
+        "Djillali Annane",
+        "Masahisa Katsuno",
+        "Andreas Meisel",
+        "Michael W Nicolle"
+      ]
+    },
+    {
+      "pmid": "38316426",
+      "title": "Triple-seronegative myasthenia gravis: clinical and epidemiological characteristics.",
+      "abstract": "This study aims to describe the frequency and clinical and epidemiological characteristics of patients with triple-SN MG. This was a retrospective cross-sectional study carried out through the analysis of medical records. Descriptive and analytical statistical analysis was performed comparing subgroups of myasthenic patients, classified according to serological profile. The sample population consisted of 93 MG patients: 85 were positive for antibodies, 80 (86%) with AChR-Abs, 5 (5.4%) with MuSK-Abs, and no MG patients with LRP4-Abs. Eight patients (8.6%) had triple-SN MG; they had a median age at disease onset of 30 years (21-45). Their most common initial symptoms were ptosis, diplopia, and generalized weakness. Most patients presented with mild symptoms at their last visit, reflecting a median MG composite scale score of 4 (0-6), and 75% of patients had an adequate response to treatment. Our study showed a low frequency of triple-SN MG in Brazilian MG patients. Triple-SN MG was predominant in females, who presented with ptosis, diplopia, and generalized weakness, and most patients had an adequate response to immunosuppressive treatment. There was no significant difference between triple-SN MG and the other subgroups.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Humans",
+        "Young Adult",
+        "Adult",
+        "Middle Aged",
+        "Retrospective Studies",
+        "Diplopia",
+        "Cross-Sectional Studies",
+        "Autoantibodies",
+        "Receptor Protein-Tyrosine Kinases",
+        "LDL-Receptor Related Proteins",
+        "Myasthenia Gravis"
+      ],
+      "chemicals": [
+        "Autoantibodies",
+        "Receptor Protein-Tyrosine Kinases",
+        "LDL-Receptor Related Proteins"
+      ],
+      "journal": "Arquivos de neuro-psiquiatria",
+      "authors": [
+        "Paula Raquel do Vale Pascoal Rodrigues",
+        "Cl\u00e1udia Suemi Kamoi Kay",
+        "Renata Dal-Pra Ducci",
+        "Marco Antonio Takashi Utiumi",
+        "Otto Jesus Hernandez Fustes",
+        "Lineu Cesar Werneck"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "disease": "Rheumatoid Arthritis",
+  "slug": "rheumatoid_arthritis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41350407",
+      "title": "Bioengineered photosynthetic nanothylakoids reshape the inflammatory microenvironment for rheumatoid arthritis therapy.",
+      "abstract": "Reducing individual inflammatory factors does not always translate into clinical efficacy in rheumatoid arthritis (RA), an autoimmune disease characterized by joint inflammation. Proinflammatory M1 macrophages are a key driver of the hyperinflammatory joint microenvironment, which also promotes the progression of RA. Here we show that folate-receptor-targeted photosynthetic nanothylakoid (FA-PEG-NTK)-based phototherapy reprogrammes macrophages from M1 to anti-inflammatory M2, and successfully remodels the inflammatory RA microenvironment. The nanothylakoids were sourced from plant-derived thylakoids and developed by surface modification with distearoyl phosphoethanolamine-polyethylene glycol (PEG) via hydrophobic interactions to preserve their photocatalytic enzymes. We show that upon light irradiation in a mouse macrophage model of inflammation, the FA-PEG-NTK system generates oxygen and nicotinamide adenine dinucleotide phosphate, alleviating hypoxia and reducing reactive oxygen species. This rebalances the oxidative stress in M1 macrophages, thereby remodelling the inflammatory microenvironment in RA. We also show that in a collagen-induced arthritis rat model, FA-PEG-NTK-mediated phototherapy notably alleviated synovial hyperplasia and enhanced bone and cartilage regeneration, outperforming the clinical treatment methotrexate, with no apparent side effects.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Arthritis, Rheumatoid",
+        "Mice",
+        "Macrophages",
+        "Rats",
+        "Polyethylene Glycols",
+        "Photosynthesis",
+        "Male",
+        "Inflammation",
+        "Phototherapy",
+        "Bioengineering",
+        "Humans",
+        "Cellular Microenvironment",
+        "Nanoparticles",
+        "Folic Acid",
+        "Thylakoids",
+        "RAW 264.7 Cells",
+        "Oxidative Stress"
+      ],
+      "chemicals": [
+        "Polyethylene Glycols",
+        "Folic Acid"
+      ],
+      "journal": "Nature nanotechnology",
+      "authors": [
+        "Ziyue Li",
+        "Yipei Yang",
+        "Yesi Shi",
+        "Dehong Hu",
+        "Duyang Gao",
+        "Yan Zhang"
+      ]
+    },
+    {
+      "pmid": "41475979",
+      "title": "Pueraria lobata-derived exosome-like nanovesicles alleviate rheumatoid arthritis via targeting",
+      "abstract": "Gut microbiota has been widely recognised as playing a critical role in maintaining immune imbalance and the development of rheumatoid arthritis (RA). As key roles mediating interkingdom crosstalk among plants, microbiomes and mammals, plant-derived exosome-like nanoparticles (ELNs) could use lipids and microRNA components to precisely modulate gene expression of gut microbiota, showing potential as a dietary intervention for RA treatment. We aimed to investigate gut microbiota-immune interactions inducing immune dysregulation in RA and explore potential applications of edible plant-derived ELNs for RA treatment through gut microbiota manipulation. Combinations of microbial analysis of clinical cohort, metabolomics, in vivo and in vitro examination were performed to establish potential gut-immune mechanisms for interventions. Several representative edible plants ELNs were chosen to compare the modulation effects based on the above mechanism. Small RNA sequencing and lipidomic analysis were performed to identify key components and reveal the related mechanisms mediating therapeutic effects.  Our findings suggest the crucial role of",
+      "pub_date": "2026-05-12",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Arthritis, Rheumatoid",
+        "Gastrointestinal Microbiome",
+        "Humans",
+        "Ruminococcus",
+        "Exosomes",
+        "Pueraria",
+        "Animals",
+        "Nanoparticles",
+        "Mice",
+        "Female",
+        "Male",
+        "Plant Extracts"
+      ],
+      "chemicals": [
+        "Plant Extracts"
+      ],
+      "journal": "Gut",
+      "authors": [
+        "Bingqi Han",
+        "Yutong Jiang",
+        "Haihua Liu",
+        "Fangling Zhang",
+        "Yi Xu",
+        "Zhuang Li"
+      ]
+    },
+    {
+      "pmid": "41319557",
+      "title": "New frontiers in rheumatoid arthritis therapy: From classic DMARDs to biologics and beyond.",
+      "abstract": "Rheumatoid arthritis (RA) is a chronic, systemic autoimmune disorder identified by persistent synovial inflammation, joint destruction, and systemic complications. Affecting approximately 0.5-1\u202f% of the global population, RA poses a considerable burden in terms of disability and healthcare costs. Over the past century, insights into RA pathogenesis-driven by immune dysregulation, genetic predisposition, and environmental triggers-have revolutionized therapeutic strategies. This review provides a detailed overview of the evolving landscape of RA drug development, tracing the progression from conventional synthetic disease-modifying antirheumatic drugs (csDMARDs) such as methotrexate and sulfasalazine, to targeted synthetic DMARDs (tsDMARDs) like JAK inhibitors, and biologic DMARDs (bDMARDs) including TNF and IL-6 antagonists. We explore the molecular underpinnings of RA, discuss the mechanisms of action and clinical applications of current therapies, and highlight emerging drug candidates under clinical investigation. Despite significant advances, challenges such as incomplete remission rates, variable patient responses, and long-term safety concerns underscore the need for precision medicine and novel therapeutic approaches. This review emphasizes the critical role of immunopathology in guiding RA drug development and the ongoing efforts to achieve personalized, sustained disease control.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Arthritis, Rheumatoid",
+        "Antirheumatic Agents",
+        "Biological Products",
+        "Drug Development"
+      ],
+      "chemicals": [
+        "Antirheumatic Agents",
+        "Biological Products"
+      ],
+      "journal": "Pathology, research and practice",
+      "authors": [
+        "Vanshika",
+        "Puja Gulati",
+        "Ritika Thakur",
+        "Deeksha Bala",
+        "Richa Bajaj",
+        "Priya"
+      ]
+    },
+    {
+      "pmid": "41420964",
+      "title": "Biomimetic and microenvironment-adaptive nanoplatform potentiates photodynamic therapy of rheumatoid arthritis via H",
+      "abstract": "Photodynamic therapy (PDT) enables the selective eradication of inflamed synovium to reverse joint destruction in rheumatoid arthritis (RA). Nonetheless, the synovial hypoxia and poor photosensitizer biodistribution in the arthritic joints profoundly restrain the clinical application of PDT. Herein, we constructed a multipronged nanosystem (MM@SC-HN) through hierarchical integration of macrophage membrane (MM) coating and hydrogen sulfide (H",
+      "pub_date": "2026-06-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Photochemotherapy",
+        "Arthritis, Rheumatoid",
+        "Hydrogen Sulfide",
+        "Photosensitizing Agents",
+        "Oxygen",
+        "Rats",
+        "Mice",
+        "Male",
+        "Hyaluronic Acid",
+        "Macrophages",
+        "Arthritis, Experimental",
+        "Humans",
+        "Biomimetics",
+        "RAW 264.7 Cells",
+        "Nanogels"
+      ],
+      "chemicals": [
+        "Hydrogen Sulfide",
+        "Photosensitizing Agents",
+        "Oxygen",
+        "Hyaluronic Acid",
+        "Nanogels"
+      ],
+      "journal": "Biomaterials",
+      "authors": [
+        "Xican Zhang",
+        "Shiyu Meng",
+        "Yi Xiao",
+        "Yonghang Liu",
+        "Zhuang Tang",
+        "Ao Li"
+      ]
+    },
+    {
+      "pmid": "41132461",
+      "title": "Recent Advances in Rheumatology.",
+      "abstract": "There are too many topics for this article to represent a comprehensive and thorough review of rheumatology. Instead, this paper will focus on advances which would be of interest to a general medical audience. Highlighted are the more commonly encountered rheumatic diseases as well as uncommon disorders that are of significant interest as they expand our understanding of biologic mechanisms of disease. We will take a tour from rheumatoid arthritis to a fascinating new entity called VEXAS. The purpose of this review is to broaden knowledge of mechanistic and therapeutic advances in rheumatology and foster a greater appreciation of current management principles related to autoimmune rheumatic disease.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Rheumatology",
+        "Rheumatic Diseases",
+        "Arthritis, Rheumatoid",
+        "Autoimmune Diseases"
+      ],
+      "chemicals": [],
+      "journal": "Missouri medicine",
+      "authors": [
+        "Kent Kwas Huston"
+      ]
+    },
+    {
+      "pmid": "41506743",
+      "title": "Effects of upadacitinib or adalimumab on pain in rheumatoid arthritis and psoriatic arthritis: results from randomised phase 3 studies.",
+      "abstract": "Patients with rheumatoid (RA) or psoriatic (PsA) arthritis can experience debilitating pain. Post hoc analyses of phase 3, double-blind studies in patients with active disease despite treatment (SELECT-COMPARE, SELECT-PsA 1) assessed the effects of upadacitinib or adalimumab versus placebo on pain in patients with attenuation of inflammation (AoI) versus remaining inflammation at weeks 12 and 24/26 (PsA/RA). Further, a mediation analysis assessed the direct/indirect effect of treatment on pain using the Patient's Global Assessment of pain (PtGA) and 28 tender joint count (TJC28) at weeks 2/12/26 in RA, and weeks 16/24 in PsA. In patients with RA+AoI, PtGA scores improved more with upadacitinib (least squares mean change, -42.9) versus adalimumab (-34.7 (p<0.05)) or placebo (-33.1 (p<0.05)) at week 12 from baseline; improvements were similar across groups by week 26. For PsA+AoI, improvement was greater with upadacitinib (week 12, -2.7; week 24, -3.8) versus placebo (-1.8 (p<0.05); -2.8 (p<0.001), respectively) and similar to adalimumab (-2.8, -3.6). For RA, the direct effect on pain was nearly two times greater with upadacitinib versus placebo compared with adalimumab at weeks 12/26. For PsA, total effects on pain (TJC28 improvement) at weeks 16/24 were greater with upadacitinib (2.16 and 2.30) and adalimumab (1.35 and 1.71) versus placebo. Upadacitinib effectively reduced pain in active RA and PsA, including in patients with AoI. The greater pain relief observed in RA with upadacitinib versus adalimumab might indicate both direct (relieving non-inflammatory pain) and indirect (suppressing inflammation) effects.",
+      "pub_date": "2026-01-08",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Arthritis, Psoriatic",
+        "Adalimumab",
+        "Arthritis, Rheumatoid",
+        "Heterocyclic Compounds, 3-Ring",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Antirheumatic Agents",
+        "Treatment Outcome",
+        "Adult",
+        "Double-Blind Method",
+        "Pain",
+        "Pain Measurement",
+        "Aged"
+      ],
+      "chemicals": [
+        "Adalimumab",
+        "upadacitinib",
+        "Heterocyclic Compounds, 3-Ring",
+        "Antirheumatic Agents"
+      ],
+      "journal": "RMD open",
+      "authors": [
+        "Peter C Taylor",
+        "Arthur Kavanaugh",
+        "Louis Bessette",
+        "Bruno Fautrel",
+        "Tsutomu Takeuchi",
+        "Andrew Garrison"
+      ]
+    },
+    {
+      "pmid": "41407433",
+      "title": "Comparison of long-term efficacy, tolerability and drug survival rates of baricitinib as monotherapy or combination therapy in RA patients: data from a real-world prospective cohort study.",
+      "abstract": "Janus kinase inhibitors (JAKi), like baricitinib, are used as monotherapy (MONO) and in combination with methotrexate (MTX) in rheumatoid arthritis (RA) patients. This study aimed to evaluate the long-term efficacy, drug survival and safety of baricitinib MONO versus combination therapy (COMBO) in a prospective cohort of patients with RA. We analysed data from 219 RA patients initiating baricitinib in a single-centre, prospective observational cohort between 2017 and 2023. Clinical data, patient-reported outcomes and safety events were collected every 3\u2009months. Drug survival was analysed using the Kaplan-Meier method, and longitudinal outcomes were assessed using linear mixed-effects models. The cohort included 219 patients (165 MONO, 54 COMBO) with high baseline disease activity (mean DAS28-ESR 4.0). Both groups showed rapid and sustained clinical improvement, with disease activity stabilising in the low range by 6\u2009months of treatment. One third of the patients (n=72, 33%) achieved Boolean remission, with no significant difference between groups (p=0.35). Median drug survival was 36 months and was similar for both regimens (log-rank p=0.82). Discontinuation due to adverse events occurred in 10.9% of patients. Four thrombotic events were noted, all in patients with pre-existing cardiovascular risk factors, with no new safety signals emerging. In this real-world cohort, baricitinib demonstrated sustained long-term effectiveness, drug survival and an acceptable safety profile. The similar outcomes observed for MONO and COMBO indicate that baricitinib may be used effectively as MONO in patients with RA for whom MTX is not suitable or tolerated.",
+      "pub_date": "2025-12-17",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Arthritis, Rheumatoid",
+        "Middle Aged",
+        "Azetidines",
+        "Sulfonamides",
+        "Drug Therapy, Combination",
+        "Pyrazoles",
+        "Prospective Studies",
+        "Purines",
+        "Aged",
+        "Treatment Outcome",
+        "Antirheumatic Agents",
+        "Methotrexate",
+        "Adult"
+      ],
+      "chemicals": [
+        "baricitinib",
+        "Azetidines",
+        "Sulfonamides",
+        "Pyrazoles",
+        "Purines",
+        "Antirheumatic Agents",
+        "Methotrexate"
+      ],
+      "journal": "RMD open",
+      "authors": [
+        "Alp Temiz",
+        "Koray Tascilar",
+        "Arnd Kleyer",
+        "Axel J Hueber",
+        "Fabian Hartmann",
+        "Georg Schett"
+      ]
+    },
+    {
+      "pmid": "41284548",
+      "title": "Efficacy and safety of nipocalimab in patients with moderate-to-severe Sj\u00f6gren's disease (DAHLIAS): a randomised, phase 2, placebo-controlled, double-blind trial.",
+      "abstract": "Sj\u00f6gren's disease is characterised by mucosal dryness, fatigue, chronic pain, systemic organ involvement, and elevated autoreactive IgG antibodies. There are no approved disease-modifying treatments. Therefore, we aimed to evaluate nipocalimab, a neonatal Fc receptor blocker that reduces circulating IgG, including autoantibodies, in patients with Sj\u00f6gren's disease. This phase 2, double-blind, multicentre trial enrolled individuals with moderate-to-severe, active Sj\u00f6gren's disease (ie, Clinical European League Against Rheumatism Sj\u00f6gren's Syndrome Disease Activity Index [ClinESSDAI] of at least 6) who were seropositive for anti-Ro IgG autoantibodies. Participants were recruited from 69 centres across France, Germany, Italy, Japan, the Netherlands, Poland, Portugal, Spain, Taiwan, and the USA. These centres included rheumatology centres, hospitals, and clinical research centres with experience conducting pharmaceutical company-sponsored phase 2 and phase 3 studies, which reported an ability to enrol eligible patients. Central randomisation assigned participants to one of three treatment groups using an Interactive Web Response System. Randomised (1:1:1) participants received intravenous nipocalimab 5 mg/kg, intravenous nipocalimab 15 mg/kg, or placebo every 2 weeks for 22 weeks. Schedules for administering the study intervention were the same across treatment groups, and labels on the study interventions were prepared by an unmasked pharmacist and were identical to maintain masking for the participants, investigators, site staff, and sponsor. The primary endpoint was change from baseline in ClinESSDAI score at week 24. The primary endpoint and other efficacy and safety analyses included participants who were randomly assigned and who received at least one dose of study intervention. For the primary endpoint, data from the time of discontinuation and onward were considered missing. The primary analysis approach used a mixed model for repeated measures to estimate the average outcome, taking into account the non-missing data and variability. DAHLIAS was registered with EudraCT (2021-000665-32) and ClinicalTrials.gov (NCT04968912) and has been completed. 163 participants were recruited between Sept 21, 2021, and April 3, 2023, (53 participants to nipocalimab 5 mg/kg, 54 to nipocalimab 15 mg/kg, and 56 to the placebo). The mean age of participants was 48\u00b71 years (SD 12\u00b712); 151 (93%) participants were female and 12 (7%) were male. The nipocalimab 15 mg/kg group had a significant reduction in ClinESSDAI score at week 24 versus the placebo group (least squares mean difference -2\u00b765, 90% CI -4\u00b703 to -1\u00b728; p=0\u00b70018), and the nipocalimab 5 mg/kg group had a non-significant reduction versus placebo (-0\u00b734, -1\u00b771 to 1\u00b703; p=0\u00b768). The safety profile of nipocalimab was comparable, for both doses, with that of placebo, with generally similar rates of adverse events and serious adverse events across groups. Fc receptor blockade by nipocalimab 15 mg/kg significantly improved clinical disease activity versus placebo and was safe and well tolerated in participants with moderate-to-severe, active Sj\u00f6gren's disease. Reductions in IgG autoantibodies during nipocalimab treatment support their contribution to Sj\u00f6gren's disease pathogenesis. Johnson & Johnson.",
+      "pub_date": "2025-11-22",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Double-Blind Method",
+        "Immunoglobulin G",
+        "Severity of Illness Index",
+        "Sjogren's Syndrome",
+        "Treatment Outcome",
+        "Young Adult"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Immunoglobulin G"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Ghaith Noaiseh",
+        "Kathy L Sivils",
+        "Kim Campbell",
+        "Jada Idokogi",
+        "Kim Hung Lo",
+        "Sophia G Liva"
+      ]
+    },
+    {
+      "pmid": "41781163",
+      "title": "Nipocalimab and certolizumab combination therapy in participants with active rheumatoid arthritis despite prior treatment with advanced therapies: results from the phase 2a DAISY-RA study.",
+      "abstract": "To investigate the efficacy, safety, pharmacokinetics, immunogenicity and pharmacodynamics of combination therapy with nipocalimab and certolizumab in participants with active rheumatoid arthritis (RA) despite treatment with advanced therapies. In this phase 2a study, participants were randomised 3:2 to receive combination therapy with nipocalimab (intravenous 30\u2009mg/kg) and certolizumab (subcutaneous 400\u2009mg at weeks 0, 2, 4, then 200\u2009mg) or certolizumab monotherapy every 2 weeks from weeks 0 to 24. The primary endpoint was change from baseline in Disease Activity Score 28 using C-reactive protein (DAS28-CRP) at week 12. Other outcomes were assessed through week 30. 103 participants were enrolled (combination therapy/monotherapy, n=62/41). At week 12, the primary endpoint was similar between groups (least squares mean 90% CI -1.92 (-2.48 to -1.36) vs -1.86 (-2.44 to -1.28); p=0.822). Secondary endpoints were also similar between groups, although numerically higher proportions of participants treated with combination therapy versus monotherapy achieved \u226550% response in American College of Rheumatology criteria (ACR50), DAS28-CRP <2.6 and DAS28-CRP \u22643.2 at week 12. Serious adverse events were reported in 11.3% of participants in the combination therapy group and 2.4% in the monotherapy group. In combination with certolizumab, nipocalimab exhibited nonlinear pharmacokinetics with accelerated clearance and substantially, reversibly reduced serum immunoglobulin G, including anticitrullinated protein antibody levels. Combination therapy of nipocalimab with certolizumab showed a similar outcome in the primary endpoint and secondary endpoints compared with certolizumab monotherapy in participants with active RA.",
+      "pub_date": "2026-03-04",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Arthritis, Rheumatoid",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Certolizumab Pegol",
+        "Drug Therapy, Combination",
+        "Treatment Outcome",
+        "Antibodies, Monoclonal, Humanized",
+        "Antirheumatic Agents",
+        "Aged",
+        "Adult",
+        "C-Reactive Protein",
+        "Severity of Illness Index"
+      ],
+      "chemicals": [
+        "Certolizumab Pegol",
+        "Antibodies, Monoclonal, Humanized",
+        "Antirheumatic Agents",
+        "C-Reactive Protein"
+      ],
+      "journal": "RMD open",
+      "authors": [
+        "Peter C Taylor",
+        "Georg Schett",
+        "Tom W J Huizinga",
+        "Fowzia Ibrahim",
+        "Bei Zhou",
+        "Sicong Huang"
+      ]
+    },
+    {
+      "pmid": "41376634",
+      "title": "Citrullinated peptides as drug candidates for rheumatoid arthritis.",
+      "abstract": "Rheumatoid arthritis (RA) involves a breakdown of immune tolerance to citrullinated proteins, leading to chronic inflammation and joint damage. Despite advances in treatment, achieving long-term remission remains a major challenge. Restoring immune tolerance to citrullinated proteins represents a promising strategy to halt disease progression and establish lasting remission. This review examines the potential of using citrullinated proteins or peptides to reestablish immune tolerance in RA. It explores the potential role of anti-citrullinated protein antibodies (ACPAs) in disease pathology and how utilizing or targeting specific citrullinated antigens could modulate immune responses. The review also highlights the therapeutic relevance of altering T and B cell function to regulate immune state. We explore mechanisms through which tolerance can be induced, including the use of citrullinated peptides to promote regulatory T (Treg) cell expansion and alter pathogenic B cell subsets. Emerging strategies aimed at re-educating the immune system are discussed, focusing on their potential to provide effective and durable treatment outcomes. These tolerance-based approaches are evaluated for their capacity to shift the immune response away from autoimmunity and towards sustained remission.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Arthritis, Rheumatoid",
+        "Animals",
+        "Anti-Citrullinated Protein Antibodies",
+        "Immune Tolerance",
+        "Peptides",
+        "B-Lymphocytes",
+        "Citrullination",
+        "Autoantigens",
+        "T-Lymphocytes, Regulatory"
+      ],
+      "chemicals": [
+        "Anti-Citrullinated Protein Antibodies",
+        "Peptides",
+        "Autoantigens"
+      ],
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Adrian H Bustos",
+        "Mads Br\u00fcner",
+        "Tue Wenzel Kragstrup",
+        "Kira Astakhova"
+      ]
+    },
+    {
+      "pmid": "41274491",
+      "title": "Advances and challenges in Toll-like receptor-targeted therapy for rheumatoid arthritis.",
+      "abstract": "Rheumatoid arthritis (RA) is a chronic inflammatory disease that is challenging to manage with current therapies. Toll-like receptors (TLRs) play a significant role in the pathogenesis of RA, making TLR-targeted therapies promising. This review summarizes recent advances in the characteristics of TLRs and highlights therapeutic strategies targeting TLRs. Representative agents such as OPN-305, OPN-301, imiquimod, and antidepressants have demonstrated therapeutic potential by modulating TLR signaling in RA pathological manifestations. TollB-001, a novel small molecular drug, represents a potential breakthrough in RA therapy. Despite promising preclinical and clinical outcomes with agents including IMO-3100, DV-1179, and R848, challenges remain regarding efficacy variability and immune-related safety. This review aims to provide insights into TLR-based interventions and inform the development of future strategies for more effective management.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Arthritis, Rheumatoid",
+        "Toll-Like Receptors",
+        "Animals",
+        "Antirheumatic Agents",
+        "Molecular Targeted Therapy",
+        "Signal Transduction"
+      ],
+      "chemicals": [
+        "Toll-Like Receptors",
+        "Antirheumatic Agents"
+      ],
+      "journal": "Drug discovery today",
+      "authors": [
+        "Xin-Yuan Xu",
+        "Shu-Ning Guo",
+        "Jing Li"
+      ]
+    },
+    {
+      "pmid": "41429683",
+      "title": "Duhuo Jisheng Decoction mitigates postmenopausal rheumatoid arthritis by suppressing eEF2K-mediated cellular senescence.",
+      "abstract": "Rheumatoid arthritis (RA) disproportionately impacts middle-aged and elderly women, with postmenopausal RA (PM-RA) showing more severe inflammation and bone destruction than nonmenopausal RA. Despite its clinical significance, the molecular mechanisms underlying this disease subtype remain inadequately characterised, which has hindered the development of targeted therapies. In this study, to explore potential molecular targets, we analysed clinical samples and found that eukaryotic elongation factor-2 kinase (eEF2K) expression in peripheral blood mononuclear cells (PBMCs) was significantly higher in RA patients aged \u2265\u202f60 years (a population highly overlapping with PM-RA) than in those aged \u2264\u202f40 years and 40-60 years (P\u202f=\u202f0.0001). Subsequently, in vitro experiments were conducted to clarify the functional role of eEF2K: treatment with the pharmacological eEF2K inhibitor NH125 suppressed the release of proinflammatory cytokines and osteoclastogenesis, which was associated with reduced cell cycle arrest and inhibition of the senescence-associated secretory phenotype (SASP). We evaluated the therapeutic effect of Duhuo Jisheng Decoction (DHJSD) in a preclinical model using an ovariectomy (OVX)-augmented adjuvant-induced arthritis (AIA) model (Sprague-Dawley (SD) females, 4 weeks old) and found that DHJSD effectively alleviated joint inflammation and bone erosion in these rats. We further validated DHJSD's mechanism of action, and DHJSD downregulated eEF2K expression in the bones and PBMCs of model rats, accompanied by attenuation of biomarkers related to cell cycle dysfunction and SASP. Notably, compared with AIA control rats, AIA+OVX rats exhibited aggravated arthritis symptoms and upregulated eEF2K expression (P\u202f=\u202f0.031), and DHJSD exerted a model-specific therapeutic effect by modulating eEF2K in these PM-RA-like rats. Statistical analyses were performed with one-way or two-way ANOVA followed by Dunnett's post test. In conclusion, our study demonstrates that DHJSD acts as a novel eEF2K inhibitor and presents a promising therapeutic candidate for PM-RA, while also highlighting eEF2K as a key molecular target mediating the pathological features of PM-RA.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Animals",
+        "Elongation Factor 2 Kinase",
+        "Humans",
+        "Arthritis, Rheumatoid",
+        "Rats, Sprague-Dawley",
+        "Middle Aged",
+        "Cellular Senescence",
+        "Arthritis, Experimental",
+        "Drugs, Chinese Herbal",
+        "Postmenopause",
+        "Leukocytes, Mononuclear",
+        "Adult",
+        "Rats",
+        "Antirheumatic Agents",
+        "Aged",
+        "Cytokines",
+        "Anti-Inflammatory Agents"
+      ],
+      "chemicals": [
+        "Elongation Factor 2 Kinase",
+        "Drugs, Chinese Herbal",
+        "EEF2K protein, human",
+        "Antirheumatic Agents",
+        "Cytokines",
+        "Anti-Inflammatory Agents"
+      ],
+      "journal": "Pharmacological research",
+      "authors": [
+        "Danli Chen",
+        "Yulian Chen",
+        "Xiaonan Yang",
+        "Runze Li",
+        "Fan He",
+        "Yao Xiao"
+      ]
+    }
+  ]
+}

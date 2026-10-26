@@ -1,0 +1,101 @@
+holon_id,gold_label,file,severity,layer,defect_location,defect_desc
+C_1042,C,C_1042.ttl,none,-,-,Fully consistent holon.
+C_1041,C,C_1041.ttl,none,-,-,Fully consistent holon.
+T5_2041,T5,T5_2041.ttl,Violation,cross-holon,ev2041_partner / oe:effectiveness,Partner holon asserts 'ineffective' for the same drug-disease (T5).
+C_1009,C,C_1009.ttl,none,-,-,Fully consistent holon.
+T2_2015,T2,T2_2015.ttl,Violation,interior,ev2015_0 / oe:cites -> ghost2015,Citation points to an undeclared (untyped) source node.
+T1_2000,T1,T1_2000.ttl,Violation,interior,ev2000_0 / holon:confidence,Removed mandatory holon:confidence from ev0 (missing required field).
+C_1001,C,C_1001.ttl,none,-,-,Fully consistent holon.
+T3_2020,T3,T3_2020.ttl,Violation,interior,ev2020_0 / holon:recordedOn,Evidence recordedOn (2015) precedes cited source publication (2018).
+C_1015,C,C_1015.ttl,none,-,-,Fully consistent holon.
+T4_2028,T4,T4_2028.ttl,Violation,boundary,ev2028_0 / holon:confidence vs holon:evidenceQualityThreshold,'effective' claim at confidence 0.30 below holon threshold 0.50 (T4).
+T3_2023,T3,T3_2023.ttl,Violation,interior,ev2023_0 / holon:recordedOn,Evidence recordedOn (2015) precedes cited source publication (2018).
+C_1010,C,C_1010.ttl,none,-,-,Fully consistent holon.
+T1_2005,T1,T1_2005.ttl,Violation,interior,ev2005_0 / holon:confidence,Removed mandatory holon:confidence from ev0 (missing required field).
+T1_2006,T1,T1_2006.ttl,Violation,interior,ev2006_0 / holon:confidence,Removed mandatory holon:confidence from ev0 (missing required field).
+T3_2022,T3,T3_2022.ttl,Violation,interior,ev2022_0 / holon:recordedOn,Evidence recordedOn (2015) precedes cited source publication (2018).
+C_1045,C,C_1045.ttl,none,-,-,Fully consistent holon.
+C_1048,C,C_1048.ttl,none,-,-,Fully consistent holon.
+T6_2042,T6,T6_2042.ttl,Violation,projection,chain2042 / holon:aggregateConfidence vs interior mean,Projection aggregateConfidence 0.20 vs interior mean ~0.8 (T6).
+T4_2026,T4,T4_2026.ttl,Violation,boundary,ev2026_0 / holon:confidence vs holon:evidenceQualityThreshold,'effective' claim at confidence 0.30 below holon threshold 0.50 (T4).
+C_1037,C,C_1037.ttl,none,-,-,Fully consistent holon.
+C_1030,C,C_1030.ttl,none,-,-,Fully consistent holon.
+C_1021,C,C_1021.ttl,none,-,-,Fully consistent holon.
+C_1032,C,C_1032.ttl,none,-,-,Fully consistent holon.
+T6_2046,T6,T6_2046.ttl,Violation,projection,chain2046 / holon:aggregateConfidence vs interior mean,Projection aggregateConfidence 0.20 vs interior mean ~0.8 (T6).
+T4_2030,T4,T4_2030.ttl,Violation,boundary,ev2030_0 / holon:confidence vs holon:evidenceQualityThreshold,'effective' claim at confidence 0.30 below holon threshold 0.50 (T4).
+C_1049,C,C_1049.ttl,none,-,-,Fully consistent holon.
+T4_2033,T4,T4_2033.ttl,Violation,boundary,ev2033_0 / holon:confidence vs holon:evidenceQualityThreshold,'effective' claim at confidence 0.30 below holon threshold 0.50 (T4).
+C_1026,C,C_1026.ttl,none,-,-,Fully consistent holon.
+T5_2037,T5,T5_2037.ttl,Violation,cross-holon,ev2037_partner / oe:effectiveness,Partner holon asserts 'ineffective' for the same drug-disease (T5).
+C_1033,C,C_1033.ttl,none,-,-,Fully consistent holon.
+C_1008,C,C_1008.ttl,none,-,-,Fully consistent holon.
+C_1047,C,C_1047.ttl,none,-,-,Fully consistent holon.
+T2_2009,T2,T2_2009.ttl,Violation,interior,ev2009_0 / oe:cites -> ghost2009,Citation points to an undeclared (untyped) source node.
+T2_2013,T2,T2_2013.ttl,Violation,interior,ev2013_0 / oe:cites -> ghost2013,Citation points to an undeclared (untyped) source node.
+T3_2024,T3,T3_2024.ttl,Violation,interior,ev2024_0 / holon:recordedOn,Evidence recordedOn (2015) precedes cited source publication (2018).
+C_1044,C,C_1044.ttl,none,-,-,Fully consistent holon.
+T6_2048,T6,T6_2048.ttl,Violation,projection,chain2048 / holon:aggregateConfidence vs interior mean,Projection aggregateConfidence 0.20 vs interior mean ~0.8 (T6).
+T1_2002,T1,T1_2002.ttl,Violation,interior,ev2002_0 / holon:confidence,Removed mandatory holon:confidence from ev0 (missing required field).
+T5_2035,T5,T5_2035.ttl,Violation,cross-holon,ev2035_partner / oe:effectiveness,Partner holon asserts 'ineffective' for the same drug-disease (T5).
+C_1012,C,C_1012.ttl,none,-,-,Fully consistent holon.
+C_1036,C,C_1036.ttl,none,-,-,Fully consistent holon.
+C_1023,C,C_1023.ttl,none,-,-,Fully consistent holon.
+C_1039,C,C_1039.ttl,none,-,-,Fully consistent holon.
+C_1040,C,C_1040.ttl,none,-,-,Fully consistent holon.
+C_1018,C,C_1018.ttl,none,-,-,Fully consistent holon.
+T2_2016,T2,T2_2016.ttl,Violation,interior,ev2016_0 / oe:cites -> ghost2016,Citation points to an undeclared (untyped) source node.
+T2_2011,T2,T2_2011.ttl,Violation,interior,ev2011_0 / oe:cites -> ghost2011,Citation points to an undeclared (untyped) source node.
+T2_2010,T2,T2_2010.ttl,Violation,interior,ev2010_0 / oe:cites -> ghost2010,Citation points to an undeclared (untyped) source node.
+C_1007,C,C_1007.ttl,none,-,-,Fully consistent holon.
+C_1034,C,C_1034.ttl,none,-,-,Fully consistent holon.
+T6_2049,T6,T6_2049.ttl,Violation,projection,chain2049 / holon:aggregateConfidence vs interior mean,Projection aggregateConfidence 0.20 vs interior mean ~0.8 (T6).
+C_1046,C,C_1046.ttl,none,-,-,Fully consistent holon.
+C_1002,C,C_1002.ttl,none,-,-,Fully consistent holon.
+T1_2001,T1,T1_2001.ttl,Violation,interior,ev2001_0 / holon:confidence,Removed mandatory holon:confidence from ev0 (missing required field).
+C_1016,C,C_1016.ttl,none,-,-,Fully consistent holon.
+C_1038,C,C_1038.ttl,none,-,-,Fully consistent holon.
+T1_2008,T1,T1_2008.ttl,Violation,interior,ev2008_0 / holon:confidence,Removed mandatory holon:confidence from ev0 (missing required field).
+T3_2018,T3,T3_2018.ttl,Violation,interior,ev2018_0 / holon:recordedOn,Evidence recordedOn (2015) precedes cited source publication (2018).
+C_1022,C,C_1022.ttl,none,-,-,Fully consistent holon.
+T2_2012,T2,T2_2012.ttl,Violation,interior,ev2012_0 / oe:cites -> ghost2012,Citation points to an undeclared (untyped) source node.
+C_1024,C,C_1024.ttl,none,-,-,Fully consistent holon.
+C_1005,C,C_1005.ttl,none,-,-,Fully consistent holon.
+C_1006,C,C_1006.ttl,none,-,-,Fully consistent holon.
+T2_2017,T2,T2_2017.ttl,Violation,interior,ev2017_0 / oe:cites -> ghost2017,Citation points to an undeclared (untyped) source node.
+T4_2032,T4,T4_2032.ttl,Violation,boundary,ev2032_0 / holon:confidence vs holon:evidenceQualityThreshold,'effective' claim at confidence 0.30 below holon threshold 0.50 (T4).
+C_1019,C,C_1019.ttl,none,-,-,Fully consistent holon.
+T4_2029,T4,T4_2029.ttl,Violation,boundary,ev2029_0 / holon:confidence vs holon:evidenceQualityThreshold,'effective' claim at confidence 0.30 below holon threshold 0.50 (T4).
+C_1043,C,C_1043.ttl,none,-,-,Fully consistent holon.
+T5_2040,T5,T5_2040.ttl,Violation,cross-holon,ev2040_partner / oe:effectiveness,Partner holon asserts 'ineffective' for the same drug-disease (T5).
+C_1020,C,C_1020.ttl,none,-,-,Fully consistent holon.
+C_1000,C,C_1000.ttl,none,-,-,Fully consistent holon.
+T6_2045,T6,T6_2045.ttl,Violation,projection,chain2045 / holon:aggregateConfidence vs interior mean,Projection aggregateConfidence 0.20 vs interior mean ~0.8 (T6).
+T1_2007,T1,T1_2007.ttl,Violation,interior,ev2007_0 / holon:confidence,Removed mandatory holon:confidence from ev0 (missing required field).
+T6_2043,T6,T6_2043.ttl,Violation,projection,chain2043 / holon:aggregateConfidence vs interior mean,Projection aggregateConfidence 0.20 vs interior mean ~0.8 (T6).
+T1_2003,T1,T1_2003.ttl,Violation,interior,ev2003_0 / holon:confidence,Removed mandatory holon:confidence from ev0 (missing required field).
+T5_2039,T5,T5_2039.ttl,Violation,cross-holon,ev2039_partner / oe:effectiveness,Partner holon asserts 'ineffective' for the same drug-disease (T5).
+C_1025,C,C_1025.ttl,none,-,-,Fully consistent holon.
+T3_2021,T3,T3_2021.ttl,Violation,interior,ev2021_0 / holon:recordedOn,Evidence recordedOn (2015) precedes cited source publication (2018).
+T5_2034,T5,T5_2034.ttl,Violation,cross-holon,ev2034_partner / oe:effectiveness,Partner holon asserts 'ineffective' for the same drug-disease (T5).
+T4_2027,T4,T4_2027.ttl,Violation,boundary,ev2027_0 / holon:confidence vs holon:evidenceQualityThreshold,'effective' claim at confidence 0.30 below holon threshold 0.50 (T4).
+T2_2014,T2,T2_2014.ttl,Violation,interior,ev2014_0 / oe:cites -> ghost2014,Citation points to an undeclared (untyped) source node.
+C_1029,C,C_1029.ttl,none,-,-,Fully consistent holon.
+C_1027,C,C_1027.ttl,none,-,-,Fully consistent holon.
+T5_2038,T5,T5_2038.ttl,Violation,cross-holon,ev2038_partner / oe:effectiveness,Partner holon asserts 'ineffective' for the same drug-disease (T5).
+T6_2047,T6,T6_2047.ttl,Violation,projection,chain2047 / holon:aggregateConfidence vs interior mean,Projection aggregateConfidence 0.20 vs interior mean ~0.8 (T6).
+C_1004,C,C_1004.ttl,none,-,-,Fully consistent holon.
+T1_2004,T1,T1_2004.ttl,Violation,interior,ev2004_0 / holon:confidence,Removed mandatory holon:confidence from ev0 (missing required field).
+T3_2025,T3,T3_2025.ttl,Violation,interior,ev2025_0 / holon:recordedOn,Evidence recordedOn (2015) precedes cited source publication (2018).
+C_1011,C,C_1011.ttl,none,-,-,Fully consistent holon.
+T3_2019,T3,T3_2019.ttl,Violation,interior,ev2019_0 / holon:recordedOn,Evidence recordedOn (2015) precedes cited source publication (2018).
+T5_2036,T5,T5_2036.ttl,Violation,cross-holon,ev2036_partner / oe:effectiveness,Partner holon asserts 'ineffective' for the same drug-disease (T5).
+C_1013,C,C_1013.ttl,none,-,-,Fully consistent holon.
+C_1017,C,C_1017.ttl,none,-,-,Fully consistent holon.
+C_1028,C,C_1028.ttl,none,-,-,Fully consistent holon.
+C_1031,C,C_1031.ttl,none,-,-,Fully consistent holon.
+C_1035,C,C_1035.ttl,none,-,-,Fully consistent holon.
+T6_2044,T6,T6_2044.ttl,Violation,projection,chain2044 / holon:aggregateConfidence vs interior mean,Projection aggregateConfidence 0.20 vs interior mean ~0.8 (T6).
+C_1003,C,C_1003.ttl,none,-,-,Fully consistent holon.
+C_1014,C,C_1014.ttl,none,-,-,Fully consistent holon.
+T4_2031,T4,T4_2031.ttl,Violation,boundary,ev2031_0 / holon:confidence vs holon:evidenceQualityThreshold,'effective' claim at confidence 0.30 below holon threshold 0.50 (T4).

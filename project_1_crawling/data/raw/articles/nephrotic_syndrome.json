@@ -1,0 +1,410 @@
+{
+  "disease": "Nephrotic Syndrome",
+  "slug": "nephrotic_syndrome",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "37659779",
+      "title": "Childhood nephrotic syndrome.",
+      "abstract": "Idiopathic nephrotic syndrome is the most common glomerular disease in children. Corticosteroids are the cornerstone of its treatment, and steroid response is the main prognostic factor. Most children respond to a cycle of oral steroids, and are defined as having steroid-sensitive nephrotic syndrome. Among the children who do not respond, defined as having steroid-resistant nephrotic syndrome, most respond to second-line immunosuppression, mainly with calcineurin inhibitors, and children in whom a response is not observed are described as multidrug resistant. The pathophysiology of nephrotic syndrome remains elusive. In cases of immune-mediated origin, dysregulation of immune cells and production of circulating factors that damage the glomerular filtration barrier have been described. Conversely, up to a third of cases of steroid-resistant nephrotic syndrome have a monogenic origin. Multidrug resistant nephrotic syndrome often leads to kidney failure and can cause relapse after kidney transplant. Although steroid-sensitive nephrotic syndrome does not affect renal function, most children with steroid-sensitive nephrotic syndrome have a relapsing course that requires repeated steroid cycles with significant side-effects. To minimise morbidity, some patients require steroid-sparing immunosuppressive agents, including levamisole, mycophenolate mofetil, calcineurin inhibitors, anti-CD20 monoclonal antibodies, and cyclophosphamide. Close monitoring and preventive measures are warranted at onset and during relapse to prevent acute complications (eg, hypovolaemia, acute kidney injury, infections, and thrombosis), whereas long-term management requires minimising treatment-related side-effects. A subset of patients have active disease into adulthood.",
+      "pub_date": "2023-09-02",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Child",
+        "Humans",
+        "Nephrotic Syndrome",
+        "Calcineurin Inhibitors",
+        "Cyclophosphamide",
+        "Immunosuppressive Agents",
+        "Acute Kidney Injury",
+        "Drug-Related Side Effects and Adverse Reactions"
+      ],
+      "chemicals": [
+        "Calcineurin Inhibitors",
+        "Cyclophosphamide",
+        "Immunosuppressive Agents"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Marina Vivarelli",
+        "Keisha Gibson",
+        "Aditi Sinha",
+        "Olivia Boyer"
+      ]
+    },
+    {
+      "pmid": "37678236",
+      "title": "Obinutuzumab in Frequently Relapsing and Steroid-Dependent Nephrotic Syndrome in Children.",
+      "abstract": "B-cell depletion with rituximab induces sustained remission in children with steroid-dependent or frequently relapsing nephrotic syndrome. However, most patients relapse after B-cell recovery, and some patients do not achieve B-cell depletion. Obinutuzumab is a second-generation anti-CD20 antibody designed to overcome such situations in B-cell malignancies and was recently reported to be safe and effective in other autoimmune diseases affecting the kidneys. We retrospectively report 41 children with steroid-dependent or frequently relapsing nephrotic syndrome treated with a single low-dose infusion of obinutuzumab at Robert-Debre Hospital between April 2018 and December 2020. Participants were treated because of rituximab resistance or relapse after rituximab and received a single infusion of 300 mg/1.73 m 2 obinutuzumab with cessation of oral immunosuppressors within 2 months. B-cell depletion was achieved in all participants and lasted a median of 8.3 months (interquartile range, 6.4-11.1), a duration exceeding that for last rituximab treatment. At 12 and 24 months, 92% (38/41) and 68% (28/41) of patients, respectively, were in sustained remission. Mild infusion reactions occurred in five participants (12%) and neutropenia in nine (21%). No significant decrease in IgG level was reported during treatment, and whereas IgM levels decreased in 34 patients (83%), they were normal at last follow-up in 32 (78%). These results identified low-dose obinituzumab as a promising treatment option in children with steroid-dependent or frequently relapsing nephrotic syndrome, including those resistant to rituximab. The tolerance profile of obinutuzumab was similar to that of rituximab, but hemogram and immunoglobulin levels should be monitored.",
+      "pub_date": "2023-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Child",
+        "Humans",
+        "Rituximab",
+        "Nephrotic Syndrome",
+        "Retrospective Studies",
+        "Steroids",
+        "Recurrence",
+        "Immunosuppressive Agents",
+        "Treatment Outcome",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "chemicals": [
+        "Rituximab",
+        "Steroids",
+        "Immunosuppressive Agents",
+        "obinutuzumab",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+      "authors": [
+        "Claire Dossier",
+        "St\u00e9phanie Bonneric",
+        "V\u00e9ronique Baudouin",
+        "Th\u00e9r\u00e9sa Kwon",
+        "Benjamin Prim",
+        "Alexandra Cambier"
+      ]
+    },
+    {
+      "pmid": "36456193",
+      "title": "Use of Rituximab in Childhood Idiopathic Nephrotic Syndrome.",
+      "abstract": "Rituximab is an established therapy in children with idiopathic nephrotic syndrome to sustain short- to medium-term disease remission and avoid steroid toxicities. Recent trials focus on its use as a first-line agent among those with milder disease severity. Rituximab is used in multidrug refractory nephrotic syndrome and post-transplant disease recurrence, although the evidence is much less substantial. Available data suggest that the treatment response to rituximab depends on various patient factors, dosing regimen, and the concomitant use of maintenance immunosuppression. After repeated treatments, patients are found to have an improving response overall with a longer relapse-free period. The drug effect, however, is not permanent, and 80% of patients eventually relapse and many will require an additional course of rituximab. This underpins the importance of understanding the long-term safety profile on repeated treatments. Although rituximab appears to be generally safe, there are concerns about long-term hypogammaglobulinemia, especially in young children. Reliable immunophenotyping and biomarkers are yet to be discovered to predict treatment success, risk of both rare and severe side effects, e.g. , persistent hypogammaglobulinemia, and guiding of redosing strategy. In this review, we highlight recent advances in the use of rituximab for childhood nephrotic syndrome and how the therapeutic landscape is evolving.",
+      "pub_date": "2023-04-01",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Child",
+        "Humans",
+        "Child, Preschool",
+        "Rituximab",
+        "Nephrotic Syndrome",
+        "Agammaglobulinemia",
+        "Glucocorticoids",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Rituximab",
+        "Glucocorticoids"
+      ],
+      "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+      "authors": [
+        "Eugene Yu-Hin Chan",
+        "Desmond Yat-Hin Yap",
+        "Manuela Colucci",
+        "Alison Lap-Tak Ma",
+        "Rulan S Parekh",
+        "Kjell Tullus"
+      ]
+    },
+    {
+      "pmid": "39724419",
+      "title": "Childhood idiopathic nephrotic syndrome: recent advancements shaping future guidelines.",
+      "abstract": "Childhood idiopathic nephrotic syndrome is an important pediatric kidney disease associated with significant morbidities and even mortality. Several guidelines have been developed to standardize the terminology and patient care among the pediatric nephrology community. Since the publication of these guidelines, there have been major breakthroughs in the disease management and the understanding of underlying pathogenesis through multi-omics investigations, including the identification of anti-nephrin autoantibodies, genetic susceptibility loci, and the pathogenic role of B cell subsets. In this educational review, we summarize the recent major advancements in idiopathic nephrotic syndrome and attempt to provide potential therapeutic approaches in both steroid-sensitive and steroid-resistant nephrotic syndrome that may shape future guideline development.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Nephrotic Syndrome",
+        "Child",
+        "Practice Guidelines as Topic",
+        "Nephrology",
+        "Drug Resistance",
+        "Genetic Predisposition to Disease",
+        "Pediatrics",
+        "Membrane Proteins"
+      ],
+      "chemicals": [
+        "nephrin",
+        "Membrane Proteins"
+      ],
+      "journal": "Pediatric nephrology (Berlin, Germany)",
+      "authors": [
+        "Eugene Yu-Hin Chan",
+        "Olivia Boyer"
+      ]
+    },
+    {
+      "pmid": "36880923",
+      "title": "Current Understanding of Nephrotic Syndrome in Children.",
+      "abstract": "Nephrotic syndrome in children is mostly idiopathic in origin. About 90% of patients respond to corticosteroids; 80-90% have at least one relapse and 3-10% become corticosteroid resistant after the initial response. A kidney biopsy is seldom indicated for diagnosis except in patients with atypical presentation or corticosteroid resistance. For those in remission, the risk of relapse is reduced by the administration of daily low dose corticosteroids for 5-7 days at the onset of an upper respiratory infection. Some patients may continue having relapses through adult life.\u00a0Many country-specific practice guidelines have been published, which are very similar with clinically insignificant differences.",
+      "pub_date": "2022-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Child",
+        "Humans",
+        "Nephrotic Syndrome"
+      ],
+      "chemicals": [],
+      "journal": "Pediatric clinics of North America",
+      "authors": [
+        "Tej K Mattoo",
+        "Sami Sanjad"
+      ]
+    },
+    {
+      "pmid": "36657752",
+      "title": "EditorialAssignment.",
+      "abstract": "Primary membranous nephropathy (PMN) is a major cause of nephrotic syndrome in adults. Rituximab has been recommended in the treatment of PMN by the updated Kidney Disease Improved Outcome guideline. However, the optimal dosing regimen of rituximab for the initial treatment of patients with PMN is unclear. A comprehensive screening will be performed by searching PubMed, Embase and the CENTRAL (Cochrane Central Register of Controlled Trials) without language restriction. Studies evaluating the efficacy of rituximab monotherapy using the following types of dosing regimens will be included: high-dose regimen; standard regimen and low-dose regimen. Studies with less than 10 participants will be excluded. The primary outcome is the remission rate at 12 months. The secondary outcomes are remission rate at 6 and 24 months, complete remission rate at 6, 12 and 24 months, relapse at 6, 12 and 24 months, and side effects. Risk of Bias In Non-randomised Studies of Interventions tool will be used to assess the risk of bias for non-randomised studies and the Cochrane risk of bias assessment tool will be used for randomised controlled trials. The pooled remission rate, complete remission rate, relapse rate and side effects will be estimated using the metaprop command. All analyses will be calculated using Stata software (V.15.0; StataCorp). Ethics approval is not required. The results of our study will be submitted to a peer-review journal. CRD42022319401.",
+      "pub_date": "2023-01-18",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Glomerulonephritis, Membranous",
+        "Immunosuppressive Agents",
+        "Kidney Diseases",
+        "Neoplasm Recurrence, Local",
+        "Nephrotic Syndrome",
+        "Rituximab",
+        "Randomized Controlled Trials as Topic",
+        "Non-Randomized Controlled Trials as Topic"
+      ],
+      "chemicals": [
+        "Immunosuppressive Agents",
+        "Rituximab"
+      ],
+      "journal": "BMJ open",
+      "authors": [
+        "Yongxing Xu",
+        "Qing Yang",
+        "Chen Fu",
+        "Enhong Han",
+        "Yuehua Gao"
+      ]
+    },
+    {
+      "pmid": "39571906",
+      "title": "The autoimmune architecture of childhood idiopathic nephrotic syndrome.",
+      "abstract": "Idiopathic nephrotic syndrome, the most common glomerular disorder in children, has long been considered an immune-mediated disease based on the efficacy of glucocorticoids at inducing remission. Nevertheless, the immune processes leading to podocytopathy have largely remained elusive. The success of B-cell depletion with rituximab, descriptions of B-cell dysregulation during active disease, and the most recent discovery of autoantibodies targeting the major podocyte antigen nephrin point to an autoimmune humoral etiology for idiopathic nephrotic syndrome. Investigations of the immune factors involved in idiopathic nephrotic syndrome pathogenesis have uncovered common features with other autoimmune disorders that will aid in prognostication and in guiding the expansion of our glucocorticoid-sparing therapeutic arsenal. In this review, we discuss the emerging autoimmune architecture of idiopathic nephrotic syndrome, with a specific focus on pediatric steroid-sensitive disease, including the podocyte-reactive B-cell response that causes anti-podocyte antibodies, the predisposing genetic factors that shape the podocyte-reactive immune landscape, and the immune triggers driving active disease.",
+      "pub_date": "2025-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Nephrotic Syndrome",
+        "Podocytes",
+        "Child",
+        "B-Lymphocytes",
+        "Autoantibodies",
+        "Autoimmunity",
+        "Glucocorticoids",
+        "Genetic Predisposition to Disease",
+        "Membrane Proteins"
+      ],
+      "chemicals": [
+        "Autoantibodies",
+        "Glucocorticoids",
+        "nephrin",
+        "Membrane Proteins"
+      ],
+      "journal": "Kidney international",
+      "authors": [
+        "Tho-Alfakar Al-Aubodah",
+        "Ciriaco A Piccirillo",
+        "Howard Trachtman",
+        "Tomoko Takano"
+      ]
+    },
+    {
+      "pmid": "41191364",
+      "title": "Rituximab for Relapsing Nephrotic Syndrome in Adults: A Randomized Clinical Trial.",
+      "abstract": "The effects of rituximab on relapse of nephrotic syndrome in patients with adult-onset frequently relapsing nephrotic syndrome (FRNS) or steroid-dependent nephrotic syndrome (SDNS) remain uncertain. To evaluate the effects of rituximab for patients with FRNS or SDNS. Multicenter, double-blind, randomized, placebo-controlled trial conducted at 13 centers in Japan. Adults with FRNS or SDNS who had urine protein of less than 0.3 g/gCr were enrolled between September 1, 2020, and June 28, 2022. Final follow-up occurred on March 15, 2024. Patients were randomized to receive either intravenous rituximab, 375 mg/m2 (n\u2009=\u200936), or placebo (n\u2009=\u200936) at weeks 1, 2, and 25. Patients were followed up for 49 weeks. The primary outcome was the proportion of patients who were free of relapse of nephrotic syndrome at 49-week follow-up. Relapse was defined as urine protein of at least 1 g/gCr on 2 consecutive measurements. Among 72 randomized participants (mean age, 47.9 years; 56.1% female), 66 (92%) received the study drug at least once and were included in analyses. The relapse-free rate at week 49 was 87.4% (95% CI, 69.8%-95.1%) in the rituximab group and 38.0% (95% CI, 22.1%-53.8%) in the placebo group (P\u2009<\u2009.001 by 1-sided log-rank test). One of 18 secondary outcomes was statistically significant (favoring rituximab). The median relapse-free time in the rituximab group was greater than 49.0 weeks and in the placebo group was 30.8 weeks. A stratified Cox model showed a hazard ratio for relapse of 0.16 (95% CI, 0.05-0.46; P\u2009<\u2009.001) in the rituximab group compared with the placebo group. The most common adverse effect was infusion reaction (13 [40.6%] in the rituximab group and 1 [2.9%] in the placebo group). These results support use of rituximab to prevent relapse in adults with FRNS or SDNS. Japan Registry of Clinical Trials: jRCT2051200045; University Hospital Medical Information Network Clinical Trials Registry: UMIN000041475.",
+      "pub_date": "2025-12-09",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Double-Blind Method",
+        "Immunologic Factors",
+        "Nephrotic Syndrome",
+        "Proteinuria",
+        "Recurrence",
+        "Rituximab",
+        "Glucocorticoids",
+        "Infusions, Intravenous",
+        "Follow-Up Studies"
+      ],
+      "chemicals": [
+        "Immunologic Factors",
+        "Rituximab",
+        "Glucocorticoids"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Yoshitaka Isaka",
+        "Yusuke Sakaguchi",
+        "Maki Shinzawa",
+        "Shoichi Maruyama",
+        "Mika Sakaguchi",
+        "Hiroki Hayashi"
+      ]
+    },
+    {
+      "pmid": "39395629",
+      "title": "An international, multi-center study evaluated rituximab therapy in childhood steroid-resistant nephrotic syndrome.",
+      "abstract": "The efficacy and safety of rituximab in childhood steroid-resistant nephrotic syndrome (SRNS) remains unclear. Therefore, we conducted a retrospective cohort study at 28 pediatric nephrology centers from 19 countries in Asia, Europe, North America and Oceania to evaluate this. Children with SRNS treated with rituximab were analyzed according to the duration of calcineurin inhibitors (CNIs) treatment before rituximab [6 months or more (CNI-resistant) and under 6 months]. Primary outcome was complete/partial remission (CR/PR) as defined by IPNA/KDIGO guidelines. Secondary outcomes included kidney failure and adverse events. Two-hundred-forty-six children (mean age, 6.9 years; 136 boys; 57% focal segmental glomerulosclerosis, FSGS) were followed a median of 32.4 months after rituximab. All patients were in non-remission before rituximab. (146 and 100 children received CNIs for 6 month or more or under 6 months before rituximab, respectively). In patients with CNI-resistant SRNS, the remission rates (CR/PR) at 3-, 6-, 12- and 24-months were 26% (95% confidence interval 19.3-34.1), 35.6% (28.0-44.0), 35.1% (27.2-43.8) and 39.1% (29.2-49.9), respectively. Twenty-five patients were in PR at 12-months, of which 22 had over 50% reduction in proteinuria from baseline. The remission rates among children treated with CNIs under 6 months before rituximab were 42% (32.3-52.3), 52% (41.8-62.0), 54% (44.3-64.5) and 60% (47.6-71.3) at 3-, 6-, 12-, and 24-months. Upon Kaplan-Meier analysis, non-remission and PR at 12-months after rituximab, compared to CR, were associated with significantly worse kidney survival. Adverse events occurred in 30.5% and most were mild. Thus, rituximab enhances remission in a subset of children with SRNS, is generally safe and CR following rituximab is associated with favorable kidney outcome.",
+      "pub_date": "2024-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Rituximab",
+        "Male",
+        "Nephrotic Syndrome",
+        "Female",
+        "Child",
+        "Retrospective Studies",
+        "Child, Preschool",
+        "Remission Induction",
+        "Drug Resistance",
+        "Treatment Outcome",
+        "Calcineurin Inhibitors",
+        "Adolescent",
+        "Infant",
+        "Time Factors",
+        "Glomerulosclerosis, Focal Segmental"
+      ],
+      "chemicals": [
+        "Rituximab",
+        "Calcineurin Inhibitors"
+      ],
+      "journal": "Kidney international",
+      "authors": [
+        "Eugene Yu-Hin Chan",
+        "Aditi Sinha",
+        "Ellen L M Yu",
+        "Naureen Akhtar",
+        "Andrea Angeletti",
+        "Arvind Bagga"
+      ]
+    },
+    {
+      "pmid": "39922375",
+      "title": "Anti-nephrin autoantibodies in steroid-resistant nephrotic syndrome may inform treatment strategy.",
+      "abstract": "Autoantibodies against the podocyte protein nephrin were recently identified in a pediatric cohort primarily comprising steroid-sensitive (SSNS) and steroid-dependent (SDNS) nephrotic syndrome (NS). However, their prevalence across all NS subtypes, particularly in steroid-resistant nephrotic syndrome (SRNS), and their relation to therapy response need to be determined to advance pathophysiological understanding and refine treatment strategies. A multicenter cohort study measuring anti-nephrin autoantibodies in samples from children with SSNS, SDNS, nongenetic and genetic SRNS was conducted. Sixty-nine of 101 (68%) patients with SSNS, 19 of 67 (28%) patients with SDNS, 14 of 103 patients (14%) with non-genetic SRNS, and 1 of 62 patients (2%) with genetic SRNS were positive for anti-nephrin autoantibodies. The prevalence of anti-nephrin autoantibodies increased with presence of active disease in cases of SSNS and SDNS. Within the group of non-genetic SRNS patients with active disease, anti-nephrin positivity was found in 13 of 74 (18%) patients responding to intensified immunosuppression compared to none of 17 patients with multidrug-resistant SRNS. The prevalence of anti-nephrin antibodies is substantially higher in children with steroid responsive NS than in those with SRNS, suggesting that anti-nephrin antibodies primarily drive SSNS/SDNS. In contrast, NS due to podocyte gene mutations is primarily genotype-caused. Anti-nephrin autoantibodies may serve as a positive prognostic marker in pediatric NS, indicating a favorable response to immunosuppressive therapy.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Nephrotic Syndrome",
+        "Child",
+        "Autoantibodies",
+        "Male",
+        "Female",
+        "Child, Preschool",
+        "Adolescent",
+        "Membrane Proteins",
+        "Drug Resistance",
+        "Immunosuppressive Agents",
+        "Infant",
+        "Treatment Outcome",
+        "Steroids"
+      ],
+      "chemicals": [
+        "Autoantibodies",
+        "nephrin",
+        "Membrane Proteins",
+        "Immunosuppressive Agents",
+        "Steroids"
+      ],
+      "journal": "Kidney international",
+      "authors": [
+        "Felicitas E Hengel",
+        "Silke Dehde",
+        "Alev Yilmaz",
+        "Aysun K Bayazit",
+        "Fatih Ozaltin",
+        "Dusan Paripovic"
+      ]
+    },
+    {
+      "pmid": "36984513",
+      "title": "Nephrotic Syndrome and Statin Therapy: An Outcome Analysis.",
+      "abstract": "",
+      "pub_date": "2023-03-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Female",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Nephrotic Syndrome",
+        "Retrospective Studies",
+        "Simvastatin",
+        "Cardiovascular Diseases"
+      ],
+      "chemicals": [
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Simvastatin"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "authors": [
+        "Ruxandra Busuioc",
+        "Gabriel \u0218tefan",
+        "Simona Stancu",
+        "Adrian Zugravu",
+        "Gabriel Mircescu"
+      ]
+    },
+    {
+      "pmid": "37883188",
+      "title": "Treating Frequently Relapsing and Steroid-Dependent Nephrotic Syndrome: To Obi or Not to Obi, That is the Question.",
+      "abstract": "",
+      "pub_date": "2023-12-01",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Nephrotic Syndrome",
+        "Immunosuppressive Agents",
+        "Glucocorticoids",
+        "Recurrence"
+      ],
+      "chemicals": [
+        "Immunosuppressive Agents",
+        "Glucocorticoids"
+      ],
+      "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+      "authors": [
+        "Cal H Robinson",
+        "Rulan S Parekh"
+      ]
+    }
+  ]
+}

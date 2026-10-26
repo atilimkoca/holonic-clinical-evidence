@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_schizophrenia_safety a holon:EntityEntry ;
+    holon:entity oed:schizophrenia ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_schizophrenia_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_schizophrenia_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.93 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_schizophrenia_safety ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    oe:cites oesrc:41506001 .
+
+oedrug:risperidone oe:causesSideEffect oesym:fatigue .
+
+oeevt:ev_q_schizophrenia_safety-tt rdf:object oesym:fatigue ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:risperidone .
+
+oeq:q_schizophrenia_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Schizophrenia with ris"@en ;
+    prov:generatedAtTime "2026-04-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.53 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_schizophrenia_safety-bnd ;
+    holon:hasContextGraph oeq:q_schizophrenia_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_schizophrenia_safety-int ;
+    holon:hasProjectionGraph oeq:q_schizophrenia_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Schizophrenia with risperidone."^^xsd:string ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    holon:summaryConfidence 0.93 ;
+    oe:aboutDisease oed:schizophrenia ;
+    oe:answerText "The M EMERGENT-5 (NCT04820309) was a 52-week, open-label trial evaluating the long-term safety, tolerability, and efficacy of twice daily KarXT (maximum dose 125/30 mg) in psychiatrically stable adults with schizophrenia. Safety measures included treatment-emergent adverse events (TEAEs), vital signs, and laboratory parameters."^^xsd:string ;
+    oe:belongsToSpecialty "Psychiatry" ;
+    oe:cites oesrc:40562225,
+        oesrc:40939570,
+        oesrc:41088977,
+        oesrc:41506001 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Schizophrenia with risperidone?"^^xsd:string .
+

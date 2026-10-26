@@ -1,0 +1,118 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# SET C — FLAT RDF + CONTEXT-AWARE SPARQL  ·  FILE 2/3: SPARQL CONSTRAINTS
+#
+# Identical copy of Set B file 2/2 — the single-node T1/T2/T3 constraints.
+#
+# The flat set contains ONLY the single-node / temporal SPARQL constraints
+# that need no holon context (T3 family). It has NO cross-layer, cross-holon,
+# or projection constraints. Those checks require the holon/layer bindings that
+# Set B deliberately removes. This is the controlled gap RQ2 measures.
+# =============================================================================
+
+oe:_flatPrefixes
+    sh:declare [ sh:prefix "holon" ; sh:namespace "https://example.org/holon#"^^xsd:anyURI ] ;
+    sh:declare [ sh:prefix "oe"    ; sh:namespace "https://example.org/openevidence#"^^xsd:anyURI ] ;
+    sh:declare [ sh:prefix "xsd"   ; sh:namespace "http://www.w3.org/2001/XMLSchema#"^^xsd:anyURI ] .
+
+# --- T3a: recorded before cited source published (same as Set A) -------------
+
+oe:TemporalConstraintShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T3 temporal: evidence recorded before the cited source was published." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_flatPrefixes ;
+        sh:select """
+            SELECT $this (holon:recordedOn AS ?path) (?rec AS ?value)
+            WHERE {
+                $this holon:recordedOn ?rec .
+                $this oe:cites ?src .
+                ?src oe:publicationDate ?pub .
+                FILTER (?rec < ?pub)
+            }
+        """ ;
+    ] .
+
+# --- T3b: drug approved before the disease it treats was first described -----
+
+oe:FlatT3_DrugPredatesDiseaseShape a sh:NodeShape ;
+    sh:targetClass oe:Drug ;
+    sh:sparql [
+        sh:message "T3 temporal: drug approved before the disease it treats was first described." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_flatPrefixes ;
+        sh:select """
+            SELECT $this (oe:treats AS ?path) (?approval AS ?value)
+            WHERE {
+                $this oe:approvalDate ?approval .
+                $this oe:treats ?disease .
+                ?disease oe:firstDescribedDate ?described .
+                FILTER (?approval < ?described)
+            }
+        """ ;
+    ] .
+
+# --- T3c: recording date in the future (single-node temporal) ----------------
+
+oe:FlatT3_FutureDateShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T3 temporal: evidence recording date is in the future." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_flatPrefixes ;
+        sh:select """
+            SELECT $this (holon:recordedOn AS ?path) (?rec AS ?value)
+            WHERE {
+                $this holon:recordedOn ?rec .
+                FILTER (?rec > NOW())
+            }
+        """ ;
+    ] .
+
+# --- T1 (structural, single-node): confidence outside [0,1] -------------------
+# Single-node check needing no holon context — keeps Set B at 5 sh:sparql while
+# remaining blind to the non-local T4/T5/T6 classes.
+
+oe:FlatT1_ConfidenceRangeShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T1 structural: confidence outside the [0,1] interval." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_flatPrefixes ;
+        sh:select """
+            SELECT $this (holon:confidence AS ?path) (?c AS ?value)
+            WHERE {
+                $this holon:confidence ?c .
+                FILTER (?c < 0.0 || ?c > 1.0)
+            }
+        """ ;
+    ] .
+
+# --- T2 (referential, single-node): assertion cites nothing typed ------------
+
+oe:FlatT2_UncitedShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T2 referential: evidence assertion cites no typed EvidenceSource." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_flatPrefixes ;
+        sh:select """
+            SELECT $this ?value
+            WHERE {
+                $this a holon:EvidenceAssertion .
+                FILTER NOT EXISTS {
+                    $this oe:cites ?src . ?src a ?t .
+                    FILTER (?t IN (oe:EvidenceSource, oe:SystematicReview,
+                                   oe:ClinicalTrial, oe:MetaAnalysis, oe:CaseReport))
+                }
+                BIND($this AS ?value)
+            }
+        """ ;
+    ] .

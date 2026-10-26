@@ -1,0 +1,484 @@
+{
+  "disease": "Idiopathic Pulmonary Fibrosis",
+  "slug": "idiopathic_pulmonary_fibrosis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40387033",
+      "title": "Nerandomilast in Patients with Idiopathic Pulmonary Fibrosis.",
+      "abstract": "Nerandomilast (BI 1015550) is an orally administered preferential inhibitor of phosphodiesterase 4B with antifibrotic and immunomodulatory effects. In a phase 2 trial involving patients with idiopathic pulmonary fibrosis, treatment with nerandomilast stabilized lung function over a period of 12 weeks. In this phase 3, double-blind trial, we randomly assigned patients with idiopathic pulmonary fibrosis in a 1:1:1 ratio to receive nerandomilast at a dose of 18 mg twice daily, nerandomilast at a dose of 9 mg twice daily, or placebo, with stratification according to background antifibrotic therapy (nintedanib or pirfenidone vs. none). The primary end point was the absolute change from baseline in forced vital capacity (FVC), measured in milliliters, at week 52. A total of 1177 patients underwent randomization, of whom 77.7% were taking nintedanib or pirfenidone at enrollment. Adjusted mean changes in FVC at week 52 were -114.7 ml (95% confidence interval [CI], -141.8 to -87.5) in the nerandomilast 18-mg group, -138.6 ml (95% CI, -165.6 to -111.6) in the nerandomilast 9-mg group, and -183.5 ml (95% CI, -210.9 to -156.1) in the placebo group. The adjusted difference between the nerandomilast 18-mg group and the placebo group was 68.8 ml (95% CI, 30.3 to 107.4; P<0.001), and the adjusted difference between the nerandomilast 9-mg group and the placebo group was 44.9 ml (95% CI, 6.4 to 83.3; P\u2009=\u20090.02). The most frequent adverse event in the nerandomilast groups was diarrhea, reported in 41.3% of the 18-mg group and 31.1% of the 9-mg group, as compared with 16.0% in the placebo group. Serious adverse events were balanced across trial groups. In patients with idiopathic pulmonary fibrosis, treatment with nerandomilast resulted in a smaller decline in the FVC than placebo over a period of 52 weeks. (Funded by Boehringer Ingelheim; FIBRONEER-IPF ClinicalTrials.gov number, NCT05321069.).",
+      "pub_date": "2025-06-12",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Double-Blind Method",
+        "Idiopathic Pulmonary Fibrosis",
+        "Lung",
+        "Phosphodiesterase 4 Inhibitors",
+        "Vital Capacity",
+        "Antifibrotic Agents",
+        "Treatment Outcome",
+        "Disease Progression",
+        "Dose-Response Relationship, Drug",
+        "Tablets",
+        "Administration, Oral",
+        "Cyclobutanes",
+        "Indoles",
+        "Pyridones",
+        "Organic Chemicals",
+        "Piperidines"
+      ],
+      "chemicals": [
+        "nintedanib",
+        "Phosphodiesterase 4 Inhibitors",
+        "pirfenidone",
+        "BI 1015550",
+        "Antifibrotic Agents",
+        "Tablets",
+        "Cyclobutanes",
+        "Indoles",
+        "Pyridones",
+        "Organic Chemicals",
+        "Piperidines"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Luca Richeldi",
+        "Arata Azuma",
+        "Vincent Cottin",
+        "Michael Kreuter",
+        "Toby M Maher",
+        "Fernando J Martinez"
+      ]
+    },
+    {
+      "pmid": "40675771",
+      "title": "Integrated spatial and single-cell transcriptomics reveal PAK kinase as a therapeutic target in fibroblastic foci and dense fibrosis of idiopathic pulmonary fibrosis.",
+      "abstract": "Idiopathic pulmonary fibrosis (IPF) is a fatal interstitial lung disease characterised by progressive fibrosis of lung parenchyma. The histopathology of IPF exhibits temporal and spatial heterogeneity, including immature fibroblastic foci (FF) and densely collagenised fibrosis. FF serve as dynamic niches of pro-fibrotic fibroblasts and play a pivotal role in fibrosis progression and transition into dense fibrosis (DF). Here, we integrated single-cell RNA sequencing (scRNA-seq) with spatial transcriptomics to elucidate cellular heterogeneity and the novel cell type involved not only in FF formation, but also in DF development. We identified a novel myofibroblast population,",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Idiopathic Pulmonary Fibrosis",
+        "Animals",
+        "p21-Activated Kinases",
+        "Mice",
+        "Humans",
+        "Single-Cell Analysis",
+        "Myofibroblasts",
+        "Fibroblasts",
+        "Transcriptome",
+        "Disease Models, Animal",
+        "Wnt-5a Protein",
+        "Lung",
+        "Gene Expression Profiling",
+        "Male",
+        "Bleomycin",
+        "Cell Differentiation",
+        "Mice, Inbred C57BL"
+      ],
+      "chemicals": [
+        "p21-Activated Kinases",
+        "Wnt-5a Protein",
+        "Bleomycin"
+      ],
+      "journal": "The European respiratory journal",
+      "authors": [
+        "Naoaki Watanabe",
+        "Masahiro Yoshida",
+        "Yuta Hirano",
+        "Shota Fujimoto",
+        "Sachi Matsubayashi",
+        "Takashi Ishiguro"
+      ]
+    },
+    {
+      "pmid": "39122711",
+      "title": "Optimized inhaled LNP formulation for enhanced treatment of idiopathic pulmonary fibrosis via mRNA-mediated antibody therapy.",
+      "abstract": "Lipid nanoparticle-assisted mRNA inhalation therapy necessitates addressing challenges such as resistance to shear force damage, mucus penetration, cellular internalization, rapid lysosomal escape, and target protein expression. Here, we introduce the innovative \"LOOP\" platform with a four-step workflow to develop inhaled lipid nanoparticles specifically for pulmonary mRNA delivery. iLNP-HP08",
+      "pub_date": "2024-08-10",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Idiopathic Pulmonary Fibrosis",
+        "Animals",
+        "Administration, Inhalation",
+        "RNA, Messenger",
+        "Nanoparticles",
+        "Male",
+        "Mice",
+        "Single-Chain Antibodies",
+        "Humans",
+        "Lung",
+        "Mice, Inbred C57BL",
+        "Lipids",
+        "Disease Models, Animal",
+        "Liposomes"
+      ],
+      "chemicals": [
+        "RNA, Messenger",
+        "Lipid Nanoparticles",
+        "Single-Chain Antibodies",
+        "Lipids",
+        "Liposomes"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Xin Bai",
+        "Qijing Chen",
+        "Fengqiao Li",
+        "Yilong Teng",
+        "Maoping Tang",
+        "Jia Huang"
+      ]
+    },
+    {
+      "pmid": "40469306",
+      "title": "Ferroptosis in idiopathic pulmonary fibrosis: mechanisms, impact, and therapeutic opportunities.",
+      "abstract": "Idiopathic pulmonary fibrosis (IPF) is a fatal interstitial lung disease characterized by progressive scarring, alveolar destruction, and limited therapeutic options. Although the exact etiology of IPF remains unclear, emerging evidence suggests that ferroptosis, an iron-dependent form of regulated cell death driven by lipid peroxidation and oxidative stress, plays a significant role in its pathogenesis. Ferroptotic stress not only compromises alveolar epithelial cell integrity, but also triggers inflammatory responses and profibrotic signaling cascades that activate and sustain fibroblast dysfunction. This review delineates the core regulatory pathways of ferroptosis, iron metabolism, lipid peroxidation, antioxidant defenses, mitochondrial remodeling, and RNA editing, with an emphasis on their relevance in IPF. We explore how epithelial injury and macrophage-derived signals initiate ferroptosis, and how fibroblast subsets, shaped by scRNA-seq-defined heterogeneity and plasticity, respond to these cues by reinforcing ECM deposition and oxidative stress. Therapeutic avenues targeting ferroptosis, including antioxidant supplementation, iron chelation, and modulation of lipid metabolism, are discussed alongside cell-specific interventions and nanodelivery strategies. By integrating recent advances in molecular profiling and ferroptosis biology, this review provides a framework for leveraging ferroptosis as a tractable target in IPF and identifies novel directions for precision antifibrotic therapy.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Ferroptosis",
+        "Humans",
+        "Idiopathic Pulmonary Fibrosis",
+        "Animals",
+        "Oxidative Stress",
+        "Lipid Peroxidation",
+        "Iron",
+        "Signal Transduction",
+        "Fibroblasts",
+        "Antioxidants"
+      ],
+      "chemicals": [
+        "Iron",
+        "Antioxidants"
+      ],
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Mingjun Yao",
+        "Zheng Liu",
+        "Wei Zhao",
+        "Siyuan Song",
+        "Xiaobo Huang",
+        "Yi Wang"
+      ]
+    },
+    {
+      "pmid": "39529565",
+      "title": "Modulating Fibrotic Mechanical Microenvironment for Idiopathic Pulmonary Fibrosis Therapy.",
+      "abstract": "Idiopathic pulmonary fibrosis (IPF) is exacerbated by injurious mechanical forces that destabilize the pulmonary mechanical microenvironment homeostasis, leading to alveolar dysfunction and exacerbating disease severity. However, given the inherent mechanosensitivity of fibrotic lungs, where type II alveolar epithelial cells (AEC IIs) are subjected to persistent stretching and overactivated myofibroblasts experience malignant interactions during mechanotransduction, it becomes imperative to develop effective strategies to modulate the pulmonary mechanical microenvironment. Herein, cyclo (RGDfC) peptide-decorated zeolitic imidazolate framework-8 nanoparticles (named ZDFPR NPs) are constructed to target and repair the aberrant mechanical force levels in pathological lungs. Specifically, reduces mechanical tension in AEC IIs by pH-responsive ZDFPR NPs that release zinc ions and 7, 8-dihydroxyflavone to promote alveolar repair and differentiation. Meanwhile, malignant interactions between myofibroblast contractility and extracellular matrix stiffness during mechanotransduction are disrupted by the fasudil inhibition ROCK signaling pathway. The results show that ZDFPR NPs successfully restored pulmonary mechanical homeostasis and terminated the fibrosis process in bleomycin-induced fibrotic mice. This study not only presents a promising strategy for modulating pulmonary mechanical microenvironment but also pioneers a novel avenue for IPF treatment.",
+      "pub_date": "2024-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Idiopathic Pulmonary Fibrosis",
+        "Mice",
+        "Nanoparticles",
+        "Bleomycin",
+        "Mechanotransduction, Cellular",
+        "rho-Associated Kinases",
+        "Myofibroblasts",
+        "Humans",
+        "Cellular Microenvironment",
+        "Extracellular Matrix",
+        "Imidazoles",
+        "Alveolar Epithelial Cells",
+        "Lung"
+      ],
+      "chemicals": [
+        "Bleomycin",
+        "rho-Associated Kinases",
+        "Imidazoles"
+      ],
+      "journal": "Advanced materials (Deerfield Beach, Fla.)",
+      "authors": [
+        "Xue-Na Li",
+        "Ya-Ping Lin",
+        "Meng-Meng Han",
+        "Yue-Fei Fang",
+        "Lei Xing",
+        "Jee-Heon Jeong"
+      ]
+    },
+    {
+      "pmid": "38459338",
+      "title": "A small-molecule TNIK inhibitor targets fibrosis in preclinical and clinical models.",
+      "abstract": "Idiopathic pulmonary fibrosis (IPF) is an aggressive interstitial lung disease with a high mortality rate. Putative drug targets in IPF have failed to translate into effective therapies at the clinical level. We identify TRAF2- and NCK-interacting kinase (TNIK) as an anti-fibrotic target using a predictive artificial intelligence (AI) approach. Using AI-driven methodology, we generated INS018_055, a small-molecule TNIK inhibitor, which exhibits desirable drug-like properties and anti-fibrotic activity across different organs in vivo through oral, inhaled or topical administration. INS018_055 possesses anti-inflammatory effects in addition to its anti-fibrotic profile, validated in multiple in vivo studies. Its safety and tolerability as well as pharmacokinetics were validated in a randomized, double-blinded, placebo-controlled phase I clinical trial (NCT05154240) involving 78 healthy participants. A separate phase I trial in China, CTR20221542, also demonstrated comparable safety and pharmacokinetic profiles. This work was completed in roughly 18 months from target discovery to preclinical candidate nomination and demonstrates the capabilities of our generative AI-driven drug-discovery pipeline.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase I"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Animals",
+        "Idiopathic Pulmonary Fibrosis",
+        "Protein Serine-Threonine Kinases",
+        "Male",
+        "Protein Kinase Inhibitors",
+        "Female",
+        "Artificial Intelligence",
+        "Double-Blind Method",
+        "Drug Evaluation, Preclinical"
+      ],
+      "chemicals": [
+        "Protein Serine-Threonine Kinases",
+        "Protein Kinase Inhibitors"
+      ],
+      "journal": "Nature biotechnology",
+      "authors": [
+        "Feng Ren",
+        "Alex Aliper",
+        "Jian Chen",
+        "Heng Zhao",
+        "Sujata Rao",
+        "Christoph Kuppe"
+      ]
+    },
+    {
+      "pmid": "38762797",
+      "title": "Pamrevlumab for Idiopathic Pulmonary Fibrosis: The ZEPHYRUS-1 Randomized Clinical Trial.",
+      "abstract": "Current treatments for idiopathic pulmonary fibrosis slow the rate of lung function decline, but may be associated with adverse events that affect medication adherence. In phase 2 trials, pamrevlumab (a fully human monoclonal antibody that binds to and inhibits connective tissue growth factor activity) attenuated the progression of idiopathic pulmonary fibrosis without substantial adverse events. To assess the efficacy and safety of pamrevlumab for patients with idiopathic pulmonary fibrosis. Phase 3 randomized clinical trial including 356 patients aged 40 to 85 years with idiopathic pulmonary fibrosis who were not receiving antifibrotic treatment with nintedanib or pirfenidone at enrollment. Patients were recruited from 117 sites in 9 countries between July 18, 2019, and July 29, 2022; the last follow-up encounter occurred on August 28, 2023. Pamrevlumab (30 mg/kg administered intravenously every 3 weeks; n\u2009=\u2009181) or placebo (n\u2009=\u2009175) for 48 weeks. The primary outcome was absolute change in forced vital capacity (FVC) from baseline to week 48. There were 5 secondary outcomes (including time to disease progression, which was defined as a decline of \u226510% in predicted FVC or death). The exploratory outcomes included patient-reported symptoms. Adverse events were reported. Among 356 patients (mean age, 70.5 years; 258 [72.5%] were men; 221 [62.1%] were White), 277 (77.8%) completed the trial. There was no significant between-group difference for absolute change in FVC from baseline to week 48 (least-squares mean, -260 mL [95% CI, -350 to -170 mL] in the pamrevlumab group vs -330 mL [95% CI, -430 to -230 mL] in the placebo group; mean between-group difference, 70 mL [95% CI, -60 to 190 mL], P\u2009=\u2009.29). There were no significant between-group differences in any of the secondary outcomes or in the patient-reported outcomes. In the pamrevlumab group, there were 160 patients (88.4%) with treatment-related adverse events and 51 patients (28.2%) with serious adverse events vs 151 (86.3%) and 60 (34.3%), respectively, in the placebo group. During the study, 23 patients died in each group (12.7% in the pamrevlumab group vs 13.1% in the placebo group). Among patients with idiopathic pulmonary fibrosis treated with pamrevlumab or placebo, there was no statistically significant between-group difference for the primary outcome of absolute change in FVC from baseline to week 48. ClinicalTrials.gov Identifier: NCT03955146.",
+      "pub_date": "2024-08-06",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Connective Tissue Growth Factor",
+        "Disease Progression",
+        "Double-Blind Method",
+        "Idiopathic Pulmonary Fibrosis",
+        "Vital Capacity",
+        "Infusions, Intravenous",
+        "Patient Reported Outcome Measures"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Connective Tissue Growth Factor",
+        "pamrevlumab"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Ganesh Raghu",
+        "Luca Richeldi",
+        "Evans R Fern\u00e1ndez P\u00e9rez",
+        "Maria Cristina De Salvo",
+        "Rafael S Silva",
+        "Jin Woo Song"
+      ]
+    },
+    {
+      "pmid": "38843105",
+      "title": "Bexotegrast in Patients with Idiopathic Pulmonary Fibrosis: The INTEGRIS-IPF Clinical Trial.",
+      "abstract": "",
+      "pub_date": "2024-08-15",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase II"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Idiopathic Pulmonary Fibrosis",
+        "Male",
+        "Female",
+        "Aged",
+        "Middle Aged",
+        "Indoles",
+        "Pyridones",
+        "Treatment Outcome",
+        "Double-Blind Method",
+        "Dose-Response Relationship, Drug"
+      ],
+      "chemicals": [
+        "nintedanib",
+        "Indoles",
+        "Pyridones",
+        "pirfenidone"
+      ],
+      "journal": "American journal of respiratory and critical care medicine",
+      "authors": [
+        "Lisa Lancaster",
+        "Vincent Cottin",
+        "Murali Ramaswamy",
+        "Wim A Wuyts",
+        "R Gisli Jenkins",
+        "Mary Beth Scholand"
+      ]
+    },
+    {
+      "pmid": "40461817",
+      "title": "A generative AI-discovered TNIK inhibitor for idiopathic pulmonary fibrosis: a randomized phase 2a trial.",
+      "abstract": "Despite substantial progress in artificial intelligence (AI) for generative chemistry, few novel AI-discovered or AI-designed drugs have reached human clinical trials. Here we present the results of the first phase 2a multicenter, double-blind, randomized, placebo-controlled trial testing the safety and efficacy of rentosertib (formerly ISM001-055), a first-in-class AI-generated small-molecule inhibitor of TNIK, a first-in-class target in idiopathic pulmonary fibrosis (IPF) discovered using generative AI. IPF is an age-related progressive lung condition with no current therapies available that reverse the degenerative course of disease. Patients were randomized to 12\u2009weeks of treatment with 30\u2009mg rentosertib once daily (QD, n\u2009=\u200918), 30\u2009mg rentosertib twice daily (BID, n\u2009=\u200918), 60\u2009mg rentosertib QD (n\u2009=\u200918) or placebo (n\u2009=\u200917). The primary endpoint was the percentage of patients who have at least one treatment-emergent adverse event, which was similar across all treatment arms (72.2% in patients receiving 30\u2009mg rentosertib QD (n\u2009=\u200913/18), 83.3% for 30\u2009mg rentosertib BID (n\u2009=\u200915/18), 83.3% for 60\u2009mg rentosertib QD (n\u2009=\u200915/18) and 70.6% for placebo (n\u2009=\u200912/17)). Treatment-related serious adverse event rates were low and comparable across treatment groups, with the most common events leading to treatment discontinuation related to liver toxicity or diarrhea. Secondary endpoints included pharmacokinetic dynamics (C",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase II",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Idiopathic Pulmonary Fibrosis",
+        "Male",
+        "Female",
+        "Aged",
+        "Middle Aged",
+        "Double-Blind Method",
+        "Artificial Intelligence",
+        "Treatment Outcome"
+      ],
+      "chemicals": [],
+      "journal": "Nature medicine",
+      "authors": [
+        "Zuojun Xu",
+        "Feng Ren",
+        "Ping Wang",
+        "Jie Cao",
+        "Chunting Tan",
+        "Dedong Ma"
+      ]
+    },
+    {
+      "pmid": "37742376",
+      "title": "H3K18 lactylation promotes the progression of arsenite-related idiopathic pulmonary fibrosis via YTHDF1/m6A/NREP.",
+      "abstract": "As epigenetic modifications, lactylation and N6-methyladenosine (m6A) have attracted wide attention. Arsenite is an environmental pollutant that has been proven to induce idiopathic pulmonary fibrosis (IPF). However, the molecular mechanisms of lactylation and m6A methylation are unclear in arsenite-related IPF (As-IPF). In view of the limited understanding of molecular mechanism of m6A and lactylation in As-IPF, MeRIP-seq, RNA-seq and ChIP-seq were analyzed to verify the target gene regulated by m6A and H3K18 lactylation (H3K18la). We found that, for As-IPF, the global levels of m6A, levels of YTHDF1 and m6A-modified neuronal protein 3.1 (NREP) were elevated in alveolar epithelial cells (AECs). The secretion levels of TGF-\u03b21 were increased via YTHDF1/m6A/NREP, which promoted the fibroblast-to-myofibroblast transition (FMT). Further, extracellular lactate from myofibroblasts elevated levels of the global lactylation (Kla) and H3K18la via the lactate monocarboxylate transporter 1 (MCT1), and, in AECs, H3K18la facilitated the transcription of Ythdf1. This report highlights the role of crosstalk between AECs and myofibroblasts via lactylation and m6A and the significance of H3K18la regulation of YTHDF1 in the progression of As-IPF, which may be useful for finding effective therapeutic targets.",
+      "pub_date": "2024-01-05",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Arsenites",
+        "Idiopathic Pulmonary Fibrosis",
+        "Myofibroblasts",
+        "Lactates",
+        "RNA-Binding Proteins"
+      ],
+      "chemicals": [
+        "arsenite",
+        "Arsenites",
+        "Lactates",
+        "YTHDF1 protein, human",
+        "RNA-Binding Proteins"
+      ],
+      "journal": "Journal of hazardous materials",
+      "authors": [
+        "Peiwen Wang",
+        "Daxiao Xie",
+        "Tian Xiao",
+        "Cheng Cheng",
+        "Dapeng Wang",
+        "Jing Sun"
+      ]
+    },
+    {
+      "pmid": "40239038",
+      "title": "Insights into the Cellular and Molecular Mechanisms behind the Antifibrotic Effects of Nerandomilast.",
+      "abstract": "The quest for innovative pharmacologic interventions in idiopathic pulmonary fibrosis (IPF) is a challenging journey. The complexity of the disease demands a comprehensive approach that targets multiple cell types and pathways. This study examined the antifibrotic properties of nerandomilast, a preferential phosphodiesterase 4B inhibitor, focusing on its effects on myofibroblasts (MFs) and endothelial cells. Using cytokine-stimulated human IPF lung fibroblasts and RNA sequencing, we assessed the effects of nerandomilast on MF contractility, MF markers, and differentiation mechanisms. In addition, using human microvascular endothelial cells, we assessed endothelial barrier integrity and monocyte adhesion in a three-dimensional microfluidic chip. Our results show that nerandomilast significantly inhibited MF contractility and marker expression in cytokine-stimulated human IPF lung fibroblast cells. Treatment with nerandomilast significantly activated cAMP-associated pathways and G-protein-coupled receptor signaling events while inhibiting mitogen-activated protein kinase signaling pathways and transforming growth factor \u03b2 signaling. Nerandomilast also significantly reduced microvascular permeability in cytokine-stimulated human lung microvascular endothelial cells. Finally, in an adeno-associated virus-human diphtheria toxin receptor/diphtheria toxin mouse model of acute lung injury, nerandomilast significantly inhibited total protein in lavage, total macrophages, neutrophils, cell count, and VCAM-1 expression. In summary, our results demonstrate that nerandomilast induces the dedifferentiation of human IPF lung MFs and diminishes their contractility",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Animals",
+        "Idiopathic Pulmonary Fibrosis",
+        "Mice",
+        "Endothelial Cells",
+        "Lung",
+        "Myofibroblasts",
+        "Fibroblasts",
+        "Signal Transduction",
+        "Antifibrotic Agents",
+        "Disease Models, Animal",
+        "Capillary Permeability"
+      ],
+      "chemicals": [
+        "Antifibrotic Agents"
+      ],
+      "journal": "American journal of respiratory cell and molecular biology",
+      "authors": [
+        "Dennis Reininger",
+        "Felix Wolf",
+        "Christoph H Mayr",
+        "Susanne L Wespel",
+        "Nadine Laufhaeger",
+        "Kerstin Geillinger-K\u00e4stle"
+      ]
+    },
+    {
+      "pmid": "39183442",
+      "title": "PDE4B inhibition by nerandomilast: Effects on lung fibrosis and transcriptome in fibrotic rats and on biomarkers in human lung epithelial cells.",
+      "abstract": "The PDE4 family is considered a prime target for therapeutic intervention in several fibro-inflammatory diseases. We have investigated the molecular mechanisms of nerandomilast (BI 1015550), a preferential PDE4B inhibitor. In addition to clinically relevant parameters of idiopathic pulmonary fibrosis (IPF; lung function measurement/high-resolution computed tomography scan/AI-Ashcroft score), whole-lung homogenates from a therapeutic male Wistar rat model of pulmonary fibrosis were analysed by next-generation sequencing (NGS). Data were matched with public domain data derived from human IPF samples to investigate how well the rat model reflected human IPF. We scored the top counter-regulated genes following treatment with nerandomilast in human single cells and validated disease markers discovered in the rat model using a human disease-relevant in vitro assay of IPF. Nerandomilast improved the decline of lung function parameters in bleomycin-treated animals. In the NGS study, most transcripts deregulated by bleomycin treatment were normalised by nerandomilast treatment. Most notably, a significant number of deregulated transcripts that were identified in human IPF disease were also found in the animal model and reversed by nerandomilast. Mapping to single-cell data revealed the strongest effects on mesenchymal, epithelial and endothelial cell populations. In a primary human epithelial cell culture system, several disease-related (bio)markers were inhibited by nerandomilast in a concentration-dependent manner. This study further supports the available knowledge about the anti-inflammatory/antifibrotic mechanisms of nerandomilast and provides novel insights into the mode of action and signalling pathways influenced by nerandomilast treatment of lung fibrosis.",
+      "pub_date": "2024-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Phosphodiesterase 4 Inhibitors",
+        "Male",
+        "Rats, Wistar",
+        "Cyclic Nucleotide Phosphodiesterases, Type 4",
+        "Epithelial Cells",
+        "Rats",
+        "Lung",
+        "Biomarkers",
+        "Transcriptome",
+        "Bleomycin",
+        "Idiopathic Pulmonary Fibrosis"
+      ],
+      "chemicals": [
+        "Phosphodiesterase 4 Inhibitors",
+        "Cyclic Nucleotide Phosphodiesterases, Type 4",
+        "Biomarkers",
+        "Bleomycin"
+      ],
+      "journal": "British journal of pharmacology",
+      "authors": [
+        "Dennis Reininger",
+        "Katrin Fundel-Clemens",
+        "Christoph H Mayr",
+        "Lutz Wollin",
+        "Baerbel Laemmle",
+        "Karsten Quast"
+      ]
+    }
+  ]
+}

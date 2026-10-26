@@ -1,0 +1,428 @@
+{
+  "disease": "Multiple Sclerosis",
+  "slug": "multiple_sclerosis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40536983",
+      "title": "Neuroinflammation across neurological diseases.",
+      "abstract": "The brain's response to injury includes the activation of intrinsic microglia and the influx of leukocytes, collectively constituting neuroinflammation, the \"flame\" of the brain. Although details differ and matter, neuroinflammation exacerbating neurodegeneration has similarities across multiple sclerosis and other neurological disorders, such as stroke and neurodegenerative diseases. Thus, lessons from successful disease-modifying therapies in multiple sclerosis may provide insights into strategies for modulating neuroinflammation and reducing neural injury in other neurological conditions. In this Review, we discuss these lessons and potential strategies for counteracting neuroinflammation, including taming the microglia-orchestrated brain immune responses that contribute to progressing neuropathology.",
+      "pub_date": "2025-06-19",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Microglia",
+        "Neuroinflammatory Diseases",
+        "Multiple Sclerosis",
+        "Animals",
+        "Brain",
+        "Neurodegenerative Diseases",
+        "Stroke"
+      ],
+      "chemicals": [],
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Fu-Dong Shi",
+        "V Wee Yong"
+      ]
+    },
+    {
+      "pmid": "41231983",
+      "title": "Targeting formyl peptide receptor 1 reduces brain inflammation and neurodegeneration.",
+      "abstract": "Multiple sclerosis (MS) progresses through brain region-specific inflammation and degeneration, with poorly defined mechanisms. In individuals with MS, we identified increased expression of formyl peptide receptor 1 (FPR1) in central nervous system (CNS)-resident microglia and CNS-infiltrating macrophages. Blood amounts of",
+      "pub_date": "2025-11-13",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Receptors, Formyl Peptide",
+        "Animals",
+        "Mice",
+        "Microglia",
+        "Humans",
+        "Multiple Sclerosis",
+        "Encephalomyelitis, Autoimmune, Experimental",
+        "Apoptosis",
+        "Signal Transduction",
+        "Axons",
+        "Macrophages",
+        "Mitochondria",
+        "CD4-Positive T-Lymphocytes",
+        "Female",
+        "Male",
+        "Disease Progression",
+        "Mice, Inbred C57BL",
+        "Brain",
+        "Disease Models, Animal"
+      ],
+      "chemicals": [
+        "Receptors, Formyl Peptide",
+        "FPR1 protein, human",
+        "Fpr1 protein, mouse"
+      ],
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Yulin Li",
+        "Zhiguo Li",
+        "Pei Zheng",
+        "Shuzhen Guan",
+        "Yan Li",
+        "Nan Yao"
+      ]
+    },
+    {
+      "pmid": "40952964",
+      "title": "Cannabis.",
+      "abstract": "Cannabis use is expanding rapidly, and a guideline is needed to address workplace issues. The ACOEM Guidelines methodology was used to develop an evidence-based guideline. There is some evidence suggesting potential efficacy of cannabis for treatment of spasticity associated with multiple sclerosis. There is no quality evidence of efficacy for treatment of common and typical work-related disorders such as back pain, chronic radiculopathy, neuropathic pain, and other acute or chronic pain disorders. Quality evidence supports lack of efficacy for postoperative pain. There are many adverse effects, including cancers, cardiovascular diseases, psychotic disorders, and safety risks. There is a rising concern that cannabis may cause schizophrenia. Cannabis is not recommended for treatment of typical potentially work-related conditions. Cannabis use for any purpose is not recommended for those in safety-sensitive positions.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Medical Marijuana",
+        "Muscle Spasticity",
+        "Cannabis",
+        "Occupational Diseases",
+        "Practice Guidelines as Topic",
+        "Multiple Sclerosis",
+        "Chronic Pain"
+      ],
+      "chemicals": [
+        "Medical Marijuana"
+      ],
+      "journal": "Journal of occupational and environmental medicine",
+      "authors": [
+        "Steven D Feinberg",
+        "Gerald M Aronoff",
+        "James Ausfahl",
+        "Daniel Bruns",
+        "Beth D Darnall",
+        "Robert L Goldberg"
+      ]
+    },
+    {
+      "pmid": "40577117",
+      "title": "Multiomics integration prioritizes potential drug targets for multiple sclerosis.",
+      "abstract": "Multiple sclerosis (MS) is an immune-mediated disease with no current cure. Drug discovery and repurposing are essential to enhance treatment efficacy and safety. We utilized summary statistics for protein quantitative trait loci (pQTL) of 2,004 plasma and 1,443 brain proteins, a genome-wide association study of MS susceptibility with 14,802 cases and 26,703 controls, both bulk and cell-type specific transcriptome data, and external pQTL data in blood and brain. Our integrative analysis included a proteome-wide association study to identify MS-associated proteins, followed by summary-data-based Mendelian randomization to determine potential causal associations. We used the HEIDI test and Bayesian colocalization analysis to distinguish pleiotropy from linkage. Proteins passing all analyses were prioritized as potential drug targets. We further conducted pathway annotations and protein-protein interaction network analysis (PPI) and verified our findings at mRNA and protein levels. We tested hundreds of MS-associated proteins and confirmed 18 potential causal proteins (nine in plasma and nine in brain). Among these, we found 78 annotated pathways and 16 existing non-MS drugs targeting six proteins. We also identified intricateAQ PPIs among seven potential drug targets and 19 existing MS drug targets, as well as PPIs of four targets across plasma and brain. We identified two targets using bulk mRNA expression data and four targets expressed in MS-related cell types. We finally verified 10 targets using external pQTL data. We prioritized 18 potential drug targets in plasma and brain, elucidating the underlying pathology and providing evidence for potential drug discovery and repurposing in MS.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Multiple Sclerosis",
+        "Genome-Wide Association Study",
+        "Quantitative Trait Loci",
+        "Protein Interaction Maps",
+        "Proteomics",
+        "Brain",
+        "Drug Discovery",
+        "Mendelian Randomization Analysis",
+        "Transcriptome",
+        "Proteome",
+        "Drug Repositioning",
+        "Multiomics"
+      ],
+      "chemicals": [
+        "Proteome"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "authors": [
+        "Yuan Jiang",
+        "Qianwen Liu",
+        "Pernilla Stridh",
+        "Ingrid Kockum",
+        "Tomas Olsson",
+        "Lars Alfredsson"
+      ]
+    },
+    {
+      "pmid": "40885740",
+      "title": "Metformin alters mitochondria-related metabolism and enhances human oligodendrocyte function.",
+      "abstract": "Metformin rejuvenates adult rat oligodendrocyte progenitor cells (OPCs) allowing more efficient differentiation into oligodendrocytes and improved remyelination, and therefore is of interest as a therapeutic in demyelinating diseases such as multiple sclerosis (MS). Here, we test whether metformin has a similar effect in human stem cell derived-OPCs. We assess how well human monoculture, organoid and chimera model culture systems simulate in vivo adult human oligodendrocytes, finding most close resemblance in the chimera model. Metformin increases myelin proteins and/or sheaths in all models even when human cells remain fetal-like. In the chimera model, metformin leads to increased mitochondrial area both in the human transplanted cells and in the mouse axons with associated increase of mitochondrial function/metabolism transcripts. Human oligodendrocytes from MS brain donors treated pre-mortem with metformin also express similar transcripts. Metformin's brain effect is thus not cell-specific, alters metabolism in part through mitochondrial changes and leads to more myelin production. This bodes well for clinical trials testing metformin for neuroprotection.",
+      "pub_date": "2025-08-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Metformin",
+        "Humans",
+        "Mitochondria",
+        "Oligodendroglia",
+        "Animals",
+        "Mice",
+        "Multiple Sclerosis",
+        "Myelin Sheath",
+        "Axons",
+        "Cell Differentiation",
+        "Cells, Cultured",
+        "Brain",
+        "Oligodendrocyte Precursor Cells",
+        "Rats"
+      ],
+      "chemicals": [
+        "Metformin"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Nina-Lydia Kazakou",
+        "Nadine Bestard-Cuche",
+        "Laura J Wagstaff",
+        "Kellie Horan",
+        "Luise Seeker",
+        "Sunniva B\u00f8strand"
+      ]
+    },
+    {
+      "pmid": "41284222",
+      "title": "Tolebrutinib: First Approval.",
+      "abstract": "Tolebrutinib (CENRIFKI",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Drug Approval",
+        "Agammaglobulinaemia Tyrosine Kinase",
+        "Protein Kinase Inhibitors",
+        "Multiple Sclerosis",
+        "United States",
+        "Multiple Sclerosis, Chronic Progressive",
+        "Pyridines",
+        "Triazoles"
+      ],
+      "chemicals": [
+        "Agammaglobulinaemia Tyrosine Kinase",
+        "Protein Kinase Inhibitors",
+        "GLPG0634",
+        "BTK protein, human",
+        "Pyridines",
+        "Triazoles"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Hannah A Blair"
+      ]
+    },
+    {
+      "pmid": "40464816",
+      "title": "Vitamin D and Neurodegenerative Diseases Such as Multiple Sclerosis (MS), Parkinson's Disease (PD), Alzheimer's Disease (AD), and Amyotrophic Lateral Sclerosis (ALS): A Review of Current Literature.",
+      "abstract": "This review explores the role of Vitamin D3 and its derivatives as inhibitors of pathological metabolic modifications in neurodegenerative diseases. The manuscript investigates how Vitamin D3 impacts neuronal calcium regulation, antioxidative pathways, immunomodulation, and neuroprotection during detoxification, beyond its known functions in intestinal, bone, and kidney calcium and phosphorus absorption, as well as bone mineralization. Recent studies have highlighted the synthesis of the active metabolite 1,25(OH)2D3 (vitamin D) in glial cells via the hydroxylation process of CY-P24A1, an enzyme in the cytochrome P450 system in the brain. The effects of vitamin D occur through the vitamin D receptor (VDR), a nuclear steroid receptor, which has been identified in various brain regions, including the cerebellum, thalamus, hypothalamus, basal ganglia, hippocampus, olfactory system, temporal, and orbital regions. Neurodegeneration is primarily associated with oxidative stress, protein aggregation, neuroinflammation, mitochondrial dysfunction, apoptosis, and autophagy changes, all of which Vitamin D and VDR are believed to influence. Vitamin D and VDR are recognized as both environmental and genetic factors in the etiopathogenesis of neurodegenerative diseases such as Multiple Sclerosis (MS), Parkinson's Disease (PD), Alzheimer's Disease (AD), and Amyotrophic Lateral Sclerosis (ALS). A deficiency in Vitamin D is postulated to have detrimental effects on the brain and other diseases throughout various stages of life. This review consolidates findings from clinical and experimental studies, as well as past publications, focusing on the implications of Vitamin D deficiency in these neurodegenerative conditions. Current articles published in PubMed were extensively considered for this review.",
+      "pub_date": "2025-06-04",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Neurodegenerative Diseases",
+        "Vitamin D",
+        "Multiple Sclerosis",
+        "Alzheimer Disease",
+        "Parkinson Disease",
+        "Receptors, Calcitriol",
+        "Amyotrophic Lateral Sclerosis",
+        "Oxidative Stress",
+        "Animals",
+        "Cholecalciferol"
+      ],
+      "chemicals": [
+        "Vitamin D",
+        "Receptors, Calcitriol",
+        "Cholecalciferol"
+      ],
+      "journal": "Current nutrition reports",
+      "authors": [
+        "Zehra Savran",
+        "Saltuk Bugra Baltaci",
+        "Tugce Aladag",
+        "Rasim Mogulkoc",
+        "Abdulkerim Kasim Baltaci"
+      ]
+    },
+    {
+      "pmid": "40472290",
+      "title": "The Italian Multiple Sclerosis Register Experience With Cladribine: Impact on Relapses, PIRA, and Treatment Sequencing Strategies Evaluation.",
+      "abstract": "Cladribine is an immune reconstitution therapy approved for relapsing multiple sclerosis (RMS). This multicentric retrospective study of the Italian Multiple Sclerosis Register (RISM) aimed to assess the effect of cladribine on the annualized relapse rate (ARR) and progression independent of relapse activity (PIRA) phenomena, also evaluating the strategies of disease-modifying treatment (DMT) continuation after cladribine termination. Patients with RMS treated with at least one cycle of cladribine recorded in RISM after 2018 were retrospectively included in the analysis. Patients previously treated with other DMTs were stratified into moderately and highly effective DMTs. Adjusted ARR and PIRA events were calculated in the overall cohort and stratified by age at cladribine start (<50 vs \u2265 50 years) and by previous DMT. ARRs were compared between groups using negative binomial models. PIRA was analyzed using the Ghosh-Lin Cox-type regression for the marginal mean. DMTs prescribed after cladribine cycles were analyzed. A total of 2,329 patients treated with cladribine were identified in RISM, with a median (IQR) age of 36.5 (29.2-45.2) years at treatment start. 1,488 patients (63.9%) received 2 courses of cladribine. ARR decreased ( For patients with RMS, both na\u00efve and switchers, as well as younger and older patients, cladribine is an effective treatment in reducing relapses and PIRA. Different therapeutic strategies after cladribine are currently reported. This study provides Class IV evidence that for patients with relapsing multiple sclerosis, cladribine treatment is associated with a reduction in ARR and PIRA events.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cladribine",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Adult",
+        "Retrospective Studies",
+        "Registries",
+        "Italy",
+        "Multiple Sclerosis, Relapsing-Remitting",
+        "Immunosuppressive Agents",
+        "Disease Progression",
+        "Recurrence"
+      ],
+      "chemicals": [
+        "Cladribine",
+        "Immunosuppressive Agents"
+      ],
+      "journal": "Neurology(R) neuroimmunology & neuroinflammation",
+      "authors": [
+        "Tommaso Guerra",
+        "Massimiliano Copetti",
+        "Chiara Zanetta",
+        "Francesco Patti",
+        "Clara Grazia Chisari",
+        "Elena Barbuti"
+      ]
+    },
+    {
+      "pmid": "40758347",
+      "title": "Therapeutic Management During Pregnancy and Relapse Risk in Women With Multiple Sclerosis.",
+      "abstract": "In women with multiple sclerosis (MS), disease-modifying therapy (DMT) management during pregnancy might impact relapse risk. To estimate the effect of DMT management during pregnancy on MS relapse rate and compare different therapeutic strategies. This was a multicenter retrospective cohort study using data from January 1990 to December 2023. Data were extracted in December 2023 from the French MS registry. Among 52\u202f955 women in the registry, we included pregnancies identified through childbirths in patients with relapsing-onset MS who were monitored for at least 18 months before delivery and 9 months after. Pregnancies occurring less than 18 months apart or with missing month of birth were excluded. Mediation analysis was used to estimate the total, direct, and indirect (mediated by DMT management) effects of pregnancy. Different therapeutic strategies were compared: DMT interruption, switching to or maintaining interferon \u03b2 or glatiramer acetate, switching to or maintaining natalizumab until the third trimester, and switching to or maintaining intravenous anti-CD20 and interrupting it 3 months before conception. The primary outcome was the annualized relapse rate (ARR) during the preconception, gestation, and postpartum periods. Within a causal inference framework, counterfactual ARRs were estimated using longitudinal g-computation, combining a random forest algorithm for predicting DMTs, and a mixed-effects Poisson model for relapses. We included 6341 pregnancies occurring in 4998 women (mean [SD] age at conception, 31.5 [4.5] years). DMT management during pregnancy significantly increased ARR during gestation (causal rate ratio [cRR], 1.13; 95% CI, 1.06-1.22) and postpartum (cRR, 1.08; 95% CI, 1.01-1.16) periods. This led to a deleterious total effect of pregnancy on ARR, particularly in women receiving natalizumab before pregnancy with prolonged interruption (ie, interruption before the second trimester or resumption more than 3 months after delivery; cRR, 2.18; 95% CI, 1.76-2.69), and in women receiving fingolimod (cRR, 2.15; 95% CI, 1.60-2.93). Compared to DMT interruption, anti-CD20 strategy was the most effective (cRR, 0.38; 95% CI, 0.25-0.52), followed by the natalizumab strategy with short interruption (cRR, 0.80; 95% CI, 0.71-0.90), whereas interferon \u03b2 (cRR, 0.93; 95% CI, 0.86-0.99) and glatiramer acetate strategies (cRR, 0.91; 95% CI, 0.84-0.99) were less effective. In this study, DMT management during pregnancy significantly increased relapse risk, particularly in patients receiving natalizumab with prolonged interruption or fingolimod. The strategy based on the use of anti-CD20 before pregnancy was the most effective to mitigate this risk.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Pregnancy",
+        "Adult",
+        "Retrospective Studies",
+        "Pregnancy Complications",
+        "Recurrence",
+        "Immunologic Factors",
+        "Natalizumab",
+        "Glatiramer Acetate",
+        "Registries",
+        "Multiple Sclerosis, Relapsing-Remitting",
+        "Interferon-beta",
+        "Cohort Studies"
+      ],
+      "chemicals": [
+        "Immunologic Factors",
+        "Natalizumab",
+        "Glatiramer Acetate",
+        "Interferon-beta"
+      ],
+      "journal": "JAMA neurology",
+      "authors": [
+        "Antoine Gavoille",
+        "Fabien Rollot",
+        "Romain Casey",
+        "Guillaume Mathey",
+        "Emmanuelle Le Page",
+        "Jonathan Ciron"
+      ]
+    },
+    {
+      "pmid": "40783682",
+      "title": "Comparative effectiveness of disease-modifying therapies for highly active relapsing-remitting multiple sclerosis despite previous treatment - a systematic review and network meta-analysis.",
+      "abstract": "Comparative assessments of all available disease-modifying therapies (DMTs) in patients with highly active relapsing-remitting multiple sclerosis (RRMS) are lacking, even though some of these DMTs are restricted to this MS subpopulation. We therefore aimed to compare DMTs in patients with highly active RRMS using re-analyses of individual patient data (IPD) provided by study sponsors. We searched for randomised controlled trials (RCTs) that included adult patients with RRMS and directly compared alemtuzumab, cladribine, dimethyl fumarate, fingolimod, natalizumab, ocrelizumab, ofatumumab, ozanimod, ponesimod and teriflunomide, or compared these DMTs with other drugs or placebo. Re-analyses of IPD for subpopulations of patients with high disease activity despite previous DMT were included in network meta-analyses (NMAs). As there is no widely accepted definition of high disease activity in RRMS, criteria were chosen to cover as wide a range of definitions as possible, while being sufficiently similar across studies. We identified 14 relevant RCTs, including only 3 head-to-head comparisons of DMTs, and no relevant studies on natalizumab. All studies were pivotal studies for approval. The available re-analyses of IPD did not allow comprehensive NMAs. The main reasons for this were the overall paucity of RCTs, especially head-to-head comparisons, and a high risk of bias. In addition, data on patient-relevant outcomes and long-term follow-up (>\u20092 years) were lacking. Based on the largest possible evidence base, including previously unpublished data, our systematic review shows substantial evidence gaps for DMTs in highly active RRMS. This indicates a need for further research beyond regulatory requirements. Clinical trial number: not applicable.",
+      "pub_date": "2025-08-09",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Network Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Immunologic Factors",
+        "Immunosuppressive Agents",
+        "Multiple Sclerosis, Relapsing-Remitting",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Immunologic Factors",
+        "Immunosuppressive Agents"
+      ],
+      "journal": "BMC neurology",
+      "authors": [
+        "Michael K\u00f6hler",
+        "Friedemann Paul",
+        "Kirsten Janke",
+        "Sibylle Sturtz",
+        "Daniela Preukschat",
+        "Sabine Ostlender"
+      ]
+    },
+    {
+      "pmid": "40783885",
+      "title": "The use of high-efficacy disease-modifying therapies in multiple sclerosis: recommendations from an expert Delphi consensus.",
+      "abstract": "To establish recommendations based on an expert consensus on the early and appropriate use of high-efficacy disease-modifying therapies (HE-DMTs) in the management of multiple sclerosis (MS) patients, based on current clinical evidence and real-world practice in Italy. A Delphi panel comprising 65 neurologists from 54 Italian MS centers engaged in a two-round consensus process. Experts rated 43 statements across five domains: therapeutic goals, definitions of HE-DMT, MS patient profiling, and use of HE-DMT at diagnosis and later in MS course, using a 5-point Likert scale. A statement reached strong consensus if \u226580% of panelists agreed; whereas between 70% and 80% it was considered as moderate. In Round 2, 53 experts completed the survey on 43 statements. Strong consensus was achieved for 33 (76.7%), and moderate consensus for 6 (14.0%) statements. Experts strongly supported early HE-DMT initiation to prevent irreversible disability, endorsed a multidimensional definitions of treatment efficacy, and recommended personalized approaches based on clinical, radiological, and biomarker indicators. Consensus supported initiating HE-DMTs in patients with poor prognostic features and identified magnetic resonance imaging (MRI) activity, neurodegeneration markers, and suboptimal clinical response as specific factors requiring escalation to HE-DMTs. This Italian Delphi underscores the importance of early, personalized HE-DMT use to optimize long-term outcomes in MS. The strong expert alignment reflects a paradigm shift toward proactive treatment and highlights actionable clinical, radiological, and biological indicators that should guide therapeutic decisions. These findings may support national policy changes and promote more equitable and evidence-based access to HE-DMTs across healthcare systems.",
+      "pub_date": "2025-08-10",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Delphi Technique",
+        "Multiple Sclerosis",
+        "Male",
+        "Female",
+        "Adult",
+        "Italy",
+        "Immunologic Factors",
+        "Neurologists",
+        "Middle Aged"
+      ],
+      "chemicals": [
+        "Immunologic Factors"
+      ],
+      "journal": "Journal of neurology",
+      "authors": [
+        "Massimo Filippi",
+        "Maria Pia Amato",
+        "Diego Centonze",
+        "Paolo Gallo",
+        "Claudio Gasperini",
+        "Matilde Inglese"
+      ]
+    },
+    {
+      "pmid": "41356192",
+      "title": "Translational molecular imaging and drug development in multiple sclerosis.",
+      "abstract": "Multiple sclerosis (MS) is a chronic inflammatory neurodegenerative disorder that typically affects young adults and is primarily characterized by demyelinating lesions in the central nervous system (CNS). According to the Revised McDonald Criteria, the clinical diagnosis of MS can be established based on a combination of clinical observations, the presence of focal lesions in at least two distinct CNS areas on magnetic resonance imaging (MRI) and the detection of specific oligoclonal bands in the cerebrospinal fluid. Conventional MRI remains a cornerstone of MS diagnosis and disease monitoring, providing high-resolution assessments of lesion burden and brain atrophy. In addition, advanced MRI methods are increasingly applied in research settings to probe myelin integrity, iron deposition, and biochemical changes, with the potential to complement established diagnostic workflows in the future. Despite remarkable advances in the management of MS over the past two decades, complex differential diagnoses and the lack of effective imaging tools for therapy monitoring remain major obstacles, thus channeling the development of innovative molecular imaging probes that can be harnessed in clinical practice. Indeed, positron emission tomography (PET) has a significant potential to advance the contemporary diagnosis and management of MS. Given the solid body of evidence implicating myelin dysfunction in the pathophysiology of MS, myelin-targeted imaging probes have been developed, and are currently under clinical evaluation for MS diagnosis and therapy monitoring. In parallel, ligands for the 18 kDa translocator protein (TSPO) and the cannabinoid receptor type 2 (CB2R) have been employed to capture neuroinflammatory processes by visualizing microglial activation, while other tracers allow the assessment of synaptic integrity across various disease stages of MS. Further, PET probes have been employed to delineate the role of activated microglia and facilitate the assessment of synaptic dysfunction across all disease stages of MS. This review discusses the challenges and opportunities of translational molecular imaging by highlighting key molecular concepts that are currently leveraged for diagnostic imaging, patient stratification, therapy monitoring and drug development in MS. Moreover, we shed light on potential future developments that hold promise to advance our understanding of MS pathophysiology, with the ultimate goal to provide the best possible patient care for every individual MS patient.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Multiple Sclerosis",
+        "Molecular Imaging",
+        "Drug Development",
+        "Animals",
+        "Magnetic Resonance Imaging",
+        "Positron-Emission Tomography",
+        "Translational Research, Biomedical",
+        "Brain",
+        "Myelin Sheath"
+      ],
+      "chemicals": [],
+      "journal": "Theranostics",
+      "authors": [
+        "Daniel Tay",
+        "Hazem Ahmed",
+        "Alyaa Dawoud",
+        "Mohamed Salam",
+        "Luca Gobbi",
+        "Uwe Grether"
+      ]
+    }
+  ]
+}

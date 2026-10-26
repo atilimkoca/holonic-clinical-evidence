@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_breast_cancer_efficacy a holon:EntityEntry ;
+    holon:entity oed:breast_cancer ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_breast_cancer_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_breast_cancer_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.57 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_breast_cancer_efficacy ;
+    holon:recordedOn "2026-05-19"^^xsd:date ;
+    oe:cites oesrc:42013020 ;
+    oe:effectiveness "effective" .
+
+oedrug:tamoxifen oe:treats oed:breast_cancer .
+
+oeevt:ev_q_breast_cancer_efficacy-tt rdf:object oed:breast_cancer ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:tamoxifen .
+
+oeq:q_breast_cancer_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is tamoxifen compared with other agents for Breast Cancer?"@en ;
+    prov:generatedAtTime "2026-05-19T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.48 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_breast_cancer_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_breast_cancer_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_breast_cancer_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_breast_cancer_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Breast Cancer with tamoxifen."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_breast_cancer_safety ;
+    holon:recordedOn "2026-05-19"^^xsd:date ;
+    holon:summaryConfidence 0.57 ;
+    oe:aboutDisease oed:breast_cancer ;
+    oe:answerText "Breast cancer remains a clinical hurdle despite technoclinical advancements, primarily due to drug resistance mechanisms, from overexpression of drug efflux pumps. Modulating drug efflux/influx transporters like ABCG2 and HCP-1 can improve anticancer therapeutic approaches."^^xsd:string ;
+    oe:belongsToSpecialty "Oncology" ;
+    oe:cites oesrc:41914297,
+        oesrc:41973922,
+        oesrc:42013020,
+        oesrc:42156642 ;
+    oe:questionText "How effective is tamoxifen compared with other agents for Breast Cancer?"^^xsd:string .
+

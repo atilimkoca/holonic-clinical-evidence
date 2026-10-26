@@ -1,0 +1,38 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_cushing_syndrome_efficacy a holon:EntityEntry ;
+    holon:entity oed:cushing_syndrome ;
+    holon:entryMode "topic-match" .
+
+oeq:q_cushing_syndrome_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is available therapies compared with other agents for Cushing Syndrome?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.41 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_cushing_syndrome_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_cushing_syndrome_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_cushing_syndrome_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_cushing_syndrome_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Cushing Syndrome."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_cushing_syndrome_safety ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.88 ;
+    oe:aboutDisease oed:cushing_syndrome ;
+    oe:answerText "The aim of this study was to determine whether ascorbic acid (AA) supplementation can lower plasma levels of Cortisol and dehydroepiandrosterone-sulphate (DHEA-S) in patients diagnosed with functional hypercortisolemia due to unspecified chronic stress. Study includes data from 69 female with elevations in the cortisol and DHEA-S levels."^^xsd:string ;
+    oe:belongsToSpecialty "Endocrinology" ;
+    oe:cites oesrc:25480800,
+        oesrc:35507245,
+        oesrc:36876715,
+        oesrc:38010274 ;
+    oe:questionText "How effective is available therapies compared with other agents for Cushing Syndrome?"^^xsd:string .
+

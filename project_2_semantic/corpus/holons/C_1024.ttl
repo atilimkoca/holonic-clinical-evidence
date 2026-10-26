@@ -1,0 +1,73 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oe:symptom1024 a oe:Symptom ;
+    rdfs:label "Symptom-1024"@en .
+
+oeevt:entry1024 a holon:EntityEntry ;
+    holon:entity oed:disease1024 ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev1024_0 a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev1024_0-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.90 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:chain1024 ;
+    holon:recordedOn "2020-06-01"^^xsd:date ;
+    oe:cites oesrc:src1024 ;
+    oe:effectiveness "effective" .
+
+oeevt:ev1024_1 a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev1024_1-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.82 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:chain1024 ;
+    holon:recordedOn "2020-06-01"^^xsd:date ;
+    oe:cites oesrc:src1024 ;
+    oe:effectiveness "effective" .
+
+oeevt:ev1024_0-tt rdf:object oed:disease1024 ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:drug1024 .
+
+oeevt:ev1024_1-tt rdf:object oed:disease1024 ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:drug1024 .
+
+oedrug:drug1024 a oe:Drug ;
+    rdfs:label "Drug-1024"@en ;
+    oe:approvalDate "2010-01-01"^^xsd:date ;
+    oe:atcCode "C09AA03"^^xsd:string ;
+    oe:treats oed:disease1024 .
+
+oeq:chain1024 a holon:EvidenceChainHolon ;
+    rdfs:label "Holon 1024"@en ;
+    holon:aggregateConfidence 0.86 ;
+    holon:evidenceQualityThreshold 0.50 ;
+    holon:hasBoundaryGraph oeq:chain1024-bnd ;
+    holon:hasContextGraph oeq:chain1024-ctx ;
+    holon:hasInteriorGraph oeq:chain1024-int ;
+    holon:hasProjectionGraph oeq:chain1024-prj ;
+    holon:narrativeFunction "Establishes Drug-1024 as first-line for Disease-1024"@en ;
+    holon:summaryConfidence 0.85 .
+
+oesrc:src1024 a oe:SystematicReview ;
+    rdfs:label "Source-1024"@en ;
+    oe:publicationDate "2018-01-01"^^xsd:date ;
+    oe:pubmedId "30001024"^^xsd:string .
+
+oed:disease1024 a oe:Disease ;
+    rdfs:label "Disease-1024"@en ;
+    oe:firstDescribedDate "1990-01-01"^^xsd:date ;
+    oe:icdCode "I10"^^xsd:string .
+

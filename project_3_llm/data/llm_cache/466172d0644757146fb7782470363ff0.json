@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_ankylosing_spondylitis_efficacy> a holon:ClinicalQuestionHolon .\n\n<https://example.org/openevidence/questions/q_ankylosing_spondylitis_efficacy-int> a oe:Interior .\n<https://example.org/openevidence/questions/q_ankylosing_spondylitis_efficacy-bou> a oe:Boundary .\n<https://example.org/openevidence/questions/q_ankylosing_spondylitis_efficacy-pro> a oe:Projection .\n<https://example.org/openevidence/questions/q_ankylosing_spondylitis_efficacy-con> a oe:Context .\n\n<https://example.org/openevidence/questions/q_ankylosing_spondylitis_efficacy> oe:hasAnswer [\n  a oe:Answer ;\n  oe:hasRetrievedRelation [\n    a oe:RetrievedRelation ;\n    oe:hasRelation [\n      a oe:Relation ;\n      oe:hasSubject <https://example.org/openevidence/drugs/adalimumab> ;\n      oe:hasPredicate oe:treats ;\n      oe:hasObject <https://example.org/openevidence/diseases/ankylosing_spondylitis> ;\n      oe:hasConfidence 0.91 ;\n      oe:hasLevel \"Level-1B\" ;\n      oe:hasSource <https://example.org/openevidence/sources/35788492> ;\n      oe:hasEffectiveness \"effective\"\n    ]\n  ]\n] .\n\n<https://example.org/openevidence/drugs/adalimumab> oe:treats <https://example.org/openevidence/diseases/ankylosing_spondylitis> .",
+  "provider": "ollama",
+  "model": "llama3.1:8b",
+  "prompt_tokens": 909,
+  "completion_tokens": 484,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1393
+}

@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_crohn_disease_efficacy a holon:EntityEntry ;
+    holon:entity oed:crohn_disease ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_crohn_disease_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_crohn_disease_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.93 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_crohn_disease_efficacy ;
+    holon:recordedOn "2025-08-01"^^xsd:date ;
+    oe:cites oesrc:40113101 ;
+    oe:effectiveness "effective" .
+
+oedrug:adalimumab oe:treats oed:crohn_disease .
+
+oeevt:ev_q_crohn_disease_efficacy-tt rdf:object oed:crohn_disease ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:adalimumab .
+
+oeq:q_crohn_disease_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is adalimumab compared with other agents for Crohn Disease?"@en ;
+    prov:generatedAtTime "2025-08-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.56 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_crohn_disease_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_crohn_disease_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_crohn_disease_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_crohn_disease_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Crohn Disease with adalimumab."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_crohn_disease_safety ;
+    holon:recordedOn "2025-08-01"^^xsd:date ;
+    holon:summaryConfidence 0.93 ;
+    oe:aboutDisease oed:crohn_disease ;
+    oe:answerText "Subcutaneous (SC) induction and maintenance with guselkumab was evaluated in adult participants with moderately to severely active Crohn's disease. The Phase 3 double-blind, placebo-controlled, treat-through GRAVITI study randomized 347 participants 1:1:1 to guselkumab 400 mg SC every 4 weeks→100 mg SC every 8 weeks (n = 115), guselkumab 400 mg SC every 4 weeks→200 mg SC every 4 weeks (n = 115), or placebo (n = 117)."^^xsd:string ;
+    oe:belongsToSpecialty "Gastroenterology" ;
+    oe:cites oesrc:39891014,
+        oesrc:39978335,
+        oesrc:40113101,
+        oesrc:40456235 ;
+    oe:questionText "How effective is adalimumab compared with other agents for Crohn Disease?"^^xsd:string .
+

@@ -1,0 +1,430 @@
+{
+  "disease": "Urinary Tract Infection",
+  "slug": "urinary_tract_infection",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40228579",
+      "title": "Short vs. long antibiotic treatment for pyelonephritis and complicated urinary tract infections: a living systematic review and meta-analysis of randomized controlled trials.",
+      "abstract": "Reducing antibiotic exposure is desirable. This study aims to compile evidence on the durations of treatment for pyelonephritis or febrile complicated urinary tract infection (cUTI) in a living systematic review. DATA SOURCES: PubMed, Cochrane Central Register of Controlled Trials, and Web of Science from inception to 30 November 2024, trial registries, and conference proceedings. Living review searches will be updated monthly and the evidence yearly. Updates will be available at https://github.com/LivingSystematicReview/Pyelonephritis-KeepItShort. We included randomized controlled trials involving adults with pyelonephritis or cUTI with systemic signs (mainly fever). The primary outcome was clinical success by day 7 after the end of treatment. Different treatment durations within the same antibiotic class or treatment strategy (e.g. physicians' selected, in vitro-matching antibiotics). ASSESSMENT OF RISK OF BIAS: was conducted using the Cochrane risk-of-bias 2.0 tool and certainty of evidence was assessed. Risk ratios (RRs) were compiled using the fixed effect model. Subgroups of interest were assessed. Sixteen randomized controlled trials were included, comprising 4643 patients. Treatment durations of 5-7 days vs. 10-14 days were compared in 12 trials. There was some risk-of-bias concern in most trials, mainly because of dropouts and lack of blinding. There was no significant difference between short- and long-treatment durations for clinical success (RR, 1.01; 95% CI, 0.98-1.04; moderate-certainty evidence); 0.97 (0.91-1.04) in men (low-certainty evidence); 1.01 (0.97-1.05) among patients treated with quinolones and 1.01 (0.94-1.08) among patients treated with any (physician-selected or penicillin-based) antibiotic. Similarly, there were no significant differences between short and long-treatment groups in microbiological cure, relapse or reinfection, and adverse events. The mortality analysis comprised 57.2% (2274/3976) patients with bacteraemia; no significant difference was observed between groups (RR, 0.87; 95% CI, 0.68-1.13). Treatment durations of 5-7 days for pyelonephritis or febrile cUTI were as effective as longer treatment durations.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pyelonephritis",
+        "Urinary Tract Infections",
+        "Anti-Bacterial Agents",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Male",
+        "Female",
+        "Adult"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+      "authors": [
+        "Itay Zahavi",
+        "Digbijay Kunwar",
+        "Judit Olchowski",
+        "Hagar Dallasheh",
+        "Mical Paul"
+      ]
+    },
+    {
+      "pmid": "39986748",
+      "title": "Human schistosomiasis.",
+      "abstract": "Schistosomiasis is a neglected tropical disease caused by infection with blood flukes of the genus Schistosoma. Widely distributed in the Middle East, southeast Asia, Latin America, and (mostly) sub-Saharan Africa, schistosomiasis is acquired upon skin penetration of infective larvae released by freshwater snails. Acute infection might present with self-limiting hypersensitivity reactions (known as Katayama fever). Chronic infection typically leads to two main clinical patterns: intestinal or urogenital schistosomiasis, depending on the infecting species. Impairment of other body sites (eg, the CNS or respiratory tract) can occur. The intestinal form is characterised by abdominal pain and diarrhoea, with or without blood; complications are hepatic fibrosis, portal hypertension, splenomegaly, and variceal bleeding. The urogenital form is characterised by dysuria and haematuria; complications are renal failure and squamous-cell carcinoma of the bladder. Conventional diagnosis is based on egg detection in faeces or urine, although sensitivity might be low. Praziquantel is the first-line treatment, and it is also provided in preventive chemotherapy campaigns by mass drug administration to afflicted communities.",
+      "pub_date": "2025-02-22",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Schistosomiasis",
+        "Animals",
+        "Praziquantel",
+        "Anthelmintics",
+        "Schistosomiasis haematobia",
+        "Schistosoma"
+      ],
+      "chemicals": [
+        "Praziquantel",
+        "Anthelmintics"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Dora Buonfrate",
+        "Teresa Cristina A Ferrari",
+        "Ayola Akim Adegnika",
+        "J Russell Stothard",
+        "Federico G Gobbi"
+      ]
+    },
+    {
+      "pmid": "40788632",
+      "title": "Prostatitis: A Review.",
+      "abstract": "Prostatitis is defined as infection, inflammation, or pain of the prostate gland and affects approximately 9.3% of men in their lifetime. Acute bacterial prostatitis consists of a urinary tract infection (UTI) that includes infection of the prostate, typically associated with fever or chills and caused by gram-negative bacteria, such as Escherichia coli, Klebsiella, or Pseudomonas, in 80% to 97% of cases. First-line therapy for acute prostatitis is broad-spectrum intravenous or oral antibiotics, such as intravenous piperacillin-tazobactam, ceftriaxone, or oral ciprofloxacin, which has a 92% to 97% success rate when prescribed for 2 to 4 weeks for people with febrile UTI and acute prostatitis. Chronic bacterial prostatitis is defined as a persistent bacterial infection of the prostate, typically presenting as recurrent UTIs from the same strain. Up to 74% of chronic bacterial prostatitis diagnoses are due to gram-negative organisms, such as E coli. First-line therapy for chronic bacterial prostatitis is a minimum 4-week course of levofloxacin or ciprofloxacin. Chronic prostatitis/chronic pelvic pain syndrome (CP/CPPS) presents as pelvic pain or discomfort for at least 3 months and is associated with urinary symptoms, such as urinary frequency. CP/CPPS is diagnosed when evaluation, including history and physical examination, urine culture, and postvoid residual measurement, does not identify other causes for the symptoms, such as infection, cancer, urinary obstruction, or urinary retention. The National Institutes of Health Chronic Prostatitis Symptom Index (NIH-CPSI) measures symptom severity (scale of 0-43), with a 6-point change considered clinically meaningful. First-line oral therapy for CP/CPPS with urinary symptoms is \u03b1-blockers (eg, tamsulosin, alfuzosin; \u0394NIH-CPSI score difference vs placebo\u2009=\u2009-10.8 to -4.8). Other oral therapies are associated with modest changes in NIH-CPSI score compared with placebo, including anti-inflammatory drugs (eg, ibuprofen; \u0394NIH-CPSI score difference\u2009=\u2009-2.5 to -1.7), pregabalin (\u0394NIH-CPSI score difference\u2009=\u2009-2.4), and pollen extract (\u0394NIH-CPSI score difference\u2009=\u2009-2.49). Prostatitis includes acute bacterial prostatitis, chronic bacterial prostatitis, and CP/CPPS, each of which is diagnosed and treated differently. First-line treatments are broad-spectrum antibiotics for acute bacterial prostatitis (such as piperacillin-tazobactam, ceftriaxone, or ciprofloxacin), at least 4 weeks of fluoroquinolones for chronic bacterial prostatitis, and \u03b1-blockers for CP/CPPS with urinary symptoms.",
+      "pub_date": "2025-09-16",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Acute Disease",
+        "Anti-Bacterial Agents",
+        "Bacterial Infections",
+        "Chronic Disease",
+        "Prostatitis",
+        "Urinary Tract Infections",
+        "Adrenergic alpha-Antagonists",
+        "Anti-Inflammatory Agents",
+        "Drug Therapy, Combination",
+        "Pregabalin",
+        "Biological Products",
+        "Polyphenols"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "Adrenergic alpha-Antagonists",
+        "Anti-Inflammatory Agents",
+        "Pregabalin",
+        "bee pollen extract",
+        "Biological Products",
+        "Polyphenols"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Benjamin J Borgert",
+        "Eric M Wallen",
+        "Minh N Pham"
+      ]
+    },
+    {
+      "pmid": "40497539",
+      "title": "Urinary tract infections in immunocompromised patients.",
+      "abstract": "Urinary tract infections (UTIs) are a major source of morbidity in immunocompromised patients, including transplant recipients, individuals with hematologic malignancies, people living with HIV, and those receiving immunosuppressive therapies. This review provides a synthesis of recent evidence, highlighting challenges in diagnosis, management, and antimicrobial resistance in these high-risk populations. Recent literature highlights the high burden of UTIs among immunocompromised patients. These infections are often caused by multidrug-resistant pathogens. Across these groups, common risk factors include immunosuppression, diabetes, urologic instrumentation, and catheterization. Diagnostic uncertainty - particularly distinguishing true infection from asymptomatic bacteriuria - frequently leads to overtreatment. Emerging stewardship tools, such as reflex urinalysis protocols and electronic phenotyping of antimicrobials (e.g. the use of the 'Acute Urinary Antibiotics' labelling), show promise for reducing inappropriate antibiotic use in outpatient settings. UTIs in immunocompromised patients are increasingly complex due to atypical presentations and resistant pathogens. Clinical care must prioritize accurate diagnosis, judicious use of antibiotics, and implementation of stewardship interventions. Further research is needed to validate risk-based diagnostic tools and expand outpatient stewardship infrastructure in transplant and oncology settings.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Immunocompromised Host",
+        "Urinary Tract Infections",
+        "Anti-Bacterial Agents",
+        "Risk Factors",
+        "Antimicrobial Stewardship"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Current opinion in infectious diseases",
+      "authors": [
+        "Cesar J Figueroa-Ortiz",
+        "Peter A Mead"
+      ]
+    },
+    {
+      "pmid": "40106750",
+      "title": "Guidelines for Complicated Urinary Tract Infections in Children: A Review by the European Society for Pediatric Infectious Diseases.",
+      "abstract": "Complicated urinary tract infections (cUTI) present a challenge to the clinician because of the variety in clinical syndromes included and consequent difficulties in synthesizing evidence. A harmonized definition of cUTI does not exist. In national guidelines, management recommendations for cUTI are often neglected. We aimed to define the four most important controversies and formulate management recommendations for cUTI in children and adolescents. The European Society of Pediatric Infectious Diseases Guideline Committee convened a working group of experts from microbiology, pediatric nephrology and infectious diseases with expertise in managing children with UTI. A comprehensive literature review was done using PubMed, Embase and the Cochrane library to find studies in children under 18 years published until December 2024. Four controversies were defined from experience and available evidence. Children with cUTI were categorized into 5 subgroups: anatomical/functional urological abnormalities, multiple UTI recurrences, severe clinical presentation, nonurological underlying conditions and neonates. Respective management guidelines were formulated through the evidence and by consensus of working group members. Recommendations were made using GRADE criteria. The term cUTI is generally used to define children with UTI with an increased likelihood of failing conventional management. The included 5 subgroups are the most likely to need additional investigations at diagnosis and during the course of infection, initial intravenous antibiotics, longer treatment duration, antibiotic prophylaxis, follow-up imaging and surgical referral. These are detailed for each subgroup. These comprehensive guidelines offer evidence-graded recommendations specifically for pediatric cUTI, addressing gaps that exist in current guidelines.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Urinary Tract Infections",
+        "Child",
+        "Anti-Bacterial Agents",
+        "Europe",
+        "Adolescent",
+        "Practice Guidelines as Topic",
+        "Infant, Newborn",
+        "Infant",
+        "Child, Preschool",
+        "Societies, Medical"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "The Pediatric infectious disease journal",
+      "authors": [
+        "Penelope A Bryant",
+        "Maria Bitsori",
+        "Kalliopi Vardaki",
+        "Nina Vaezipour",
+        "Maria Khan",
+        "Michael Buettcher"
+      ]
+    },
+    {
+      "pmid": "40905426",
+      "title": "Updates to Recurrent Uncomplicated Urinary Tract Infections in Women: AUA/CUA/SUFU Guideline (2025).",
+      "abstract": "Our perceptions of recurrent UTI (rUTI) have evolved due to additional insights into rUTI pathophysiology, an appreciation for the adverse effects of repetitive antimicrobials (\"collateral damage\"), rising rates of bacterial antimicrobial resistance, and better reporting of the natural history of localized cystitis and rUTI. This document seeks to guide the evaluation and management of patients with rUTIs to prevent inappropriate antibiotic use, decrease the risk of antibiotic resistance, reduce adverse effects of antibiotics, provide guidance on strategies for rUTI prevention, and improve outcomes and quality of life for women with rUTIs. In 2024, this Guideline was reviewed via the AUA Update Literature Review process, which identified 87 studies for full-text review published between June 1, 2021 and November 1, 2024. Of those 87 studies, 14 met inclusion criteria for review. The subsequent amendment is based on data released since the last review of this Guideline in 2021. The Panel developed evidence- and consensus-based statements based on an updated review to provide guidance on evaluation and management of rUTI in women. These updates are detailed herein. This update provides several new insights, including expansion of non-antibiotic options for UTI prophylaxis, greater understanding of the value of a negative urinalysis in ruling out UTI, and a paradigm shift away from microbial detection to reliance on clinician judgement when weighing the individual risks and benefits of antibiosis. This Guideline will require further review as the diagnostic and treatment options in this space continue to evolve.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Humans",
+        "Anti-Bacterial Agents",
+        "Recurrence",
+        "Societies, Medical",
+        "Urinary Tract Infections",
+        "Urology",
+        "Vaccinium macrocarpon",
+        "Plant Preparations"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "Plant Preparations"
+      ],
+      "journal": "The Journal of urology",
+      "authors": [
+        "A Lenore Ackerman",
+        "Megan Bradley",
+        "Kristen E D'Anci",
+        "Duane Hickling",
+        "Sennett K Kim",
+        "Erin Kirkby"
+      ]
+    },
+    {
+      "pmid": "40907025",
+      "title": "Updates in Clinical Management of Recurrent Urinary Tract Infections.",
+      "abstract": "Urinary tract infections (UTIs) are common and burdensome in women. Here, we discuss challenges with our current models of care and how evolving insights into the female urogenital microbiome have advanced the understanding of how we diagnose, treat, and prevent recurrent UTIs in nonpregnant adult women. Traditional care models attribute recurrent UTIs mainly to gastrointestinal sources, resulting in significant emphasis on eradicating pathogens with potential overreliance on antibiotics. Evidence now shows that the bladder harbors a complex microbiome, with interactions between the urinary and vaginal environments and immune mechanisms at the bladder mucosal surface influencing infection susceptibility. Thus, in updated models of care, more emphasis is placed on enhancing the protective microbiome. This may be especially important in postmenopausal women, who experience microbiome shifts that increase vulnerability to recurrent infections, underscoring the role of estrogen therapy and microbiome-supportive interventions. Updated treatment approaches emphasize antimicrobial stewardship, advocating for confirmation of the diagnosis and delayed antibiotic initiation when safe, and judicious use of antibiotics for symptom relief. Prevention strategies highlight the importance of vaginal estrogen, methenamine salts, and other supplements rather than exclusive reliance on prophylactic antibiotics. Ongoing research into emerging therapies such as UTI vaccines and bacteriophage drugs may further decrease our reliance on antibiotics in the future. This clinical update underscores the need for individualized care plans that balance effective infection management while minimizing antibiotic-related harms, emphasizing a holistic, microbiome-centered approach to recurrent UTI prevention and treatment.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Urinary Tract Infections",
+        "Female",
+        "Anti-Bacterial Agents",
+        "Recurrence",
+        "Microbiota",
+        "Vagina",
+        "Antimicrobial Stewardship"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Obstetrics and gynecology",
+      "authors": [
+        "Nazema Y Siddiqui",
+        "Megan S Bradley"
+      ]
+    },
+    {
+      "pmid": "40552968",
+      "title": "Sulopenem versus Amoxicillin/Clavulanate for the Treatment of Uncomplicated Urinary Tract Infection.",
+      "abstract": "Existing antibiotics for uncomplicated urinary tract infections are becoming less reliably effective owing to increasing antimicrobial resistance. Our objective was to evaluate the safety and efficacy of sulopenem/probenecid for uncomplicated urinary tract infections. We conducted a double-blind, randomized, controlled, noninferiority trial of 5 days of sulopenem versus amoxicillin/clavulanate for women with uncomplicated urinary tract infection. The primary end point was overall success, defined as combined clinical cure and microbiologic eradication by day 12, evaluated in the microbiologic-modified intent-to-treat population, which comprised all randomly assigned patients who received any trial medication and had a positive urine culture with 10 A total of 2222 patients were enrolled, and the median age was 51 years (interquartile range, 35-62 years). Ninety-one (9.2%) patients in the primary population (microbiologic-modified intent-to-treat population), the combined population of patients with a positive baseline urine culture and without regard to amoxicillin/clavulanate susceptibility, had a baseline pathogen resistant to three or more classes of antibiotics. Overall success in the microbiologic-modified intent-to-treat population occurred in 318 of 522 (60.9%) participants treated with sulopenem versus 260 of 468 (55.6%) participants treated with amoxicillin/clavulanate (difference, 5.4 percentage points; 95% confidence interval [CI], -0.8 to 11.5), meeting criteria for noninferiority. In the primary population with a baseline uropathogen susceptible to amoxicillin/clavulanate, success occurred in 296 of 480 (61.7%) participants treated with sulopenem versus 243 of 442 (55.0%) participants treated with amoxicillin/clavulanate (difference, 6.7 percentage points; 95% CI, 0.3 to 13.0). In the primary population with a baseline uropathogen not susceptible to amoxicillin/clavulanate, success occurred in 22 of 42 (52.4%) patients treated with sulopenem versus 17 of 25 (68.0%) patients treated with amoxicillin/clavulanate (difference, -15.6 percentage points; 95% CI, -37.5 to 9.1]. Treatment-emergent adverse events occurred more frequently with sulopenem compared with amoxicillin/clavulanate, including diarrhea (8.1% vs. 4.1%), nausea (4.3% vs. 2.9%), and headache (2.2% vs. 1.5%). Sulopenem was noninferior to amoxicillin/clavulanate for the treatment of adult women with uncomplicated urinary tract infection, but was associated with more frequent mild adverse events. (Funded by Iterum Therapeutics; REASSURE ClinicalTrials.gov number, NCT05584657.).",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Comparative Study",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Anti-Bacterial Agents",
+        "Double-Blind Method",
+        "Treatment Outcome",
+        "Urinary Tract Infections"
+      ],
+      "chemicals": [
+        "Amoxicillin-Potassium Clavulanate Combination",
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "NEJM evidence",
+      "authors": [
+        "Sailaja Puttagunta",
+        "Steven I Aronin",
+        "Jayanti Gupta",
+        "Anita F Das",
+        "Kalpana Gupta",
+        "Michael W Dunne"
+      ]
+    },
+    {
+      "pmid": "40530972",
+      "title": "Population pharmacokinetic/pharmacodynamic modeling to optimize aztreonam-avibactam dose regimens for adult patients.",
+      "abstract": "Aztreonam-avibactam, a fixed-ratio (3:1) \u03b2-lactam/\u03b2-lactamase inhibitor combination, was approved in Europe in 2024 for adults with complicated intra-abdominal infection (cIAI), complicated urinary tract infection, hospital-acquired/ventilator-associated pneumonia, and other infections due to aerobic gram-negative organisms with limited treatment options. Pharmacokinetic data from two phase 3 trials were added to previous data to develop a simultaneous aztreonam and avibactam population pharmacokinetic model. The final model was used to simulate exposures by infection type and renal function and estimate the joint probability of pharmacodynamic target attainment (PTA) for phase 3 patients (aztreonam 60%",
+      "pub_date": "2025-08-06",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Anti-Bacterial Agents",
+        "Azabicyclo Compounds",
+        "Aztreonam",
+        "beta-Lactamase Inhibitors",
+        "Ceftazidime",
+        "Drug Combinations",
+        "Intraabdominal Infections",
+        "Microbial Sensitivity Tests",
+        "Pneumonia, Ventilator-Associated",
+        "Urinary Tract Infections"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "avibactam",
+        "avibactam, ceftazidime drug combination",
+        "Azabicyclo Compounds",
+        "Aztreonam",
+        "beta-Lactamase Inhibitors",
+        "Ceftazidime",
+        "Drug Combinations"
+      ],
+      "journal": "Antimicrobial agents and chemotherapy",
+      "authors": [
+        "Rujia Xie",
+        "Halley Rogers",
+        "Joseph W Chow",
+        "Elena Soto",
+        "Susan R Raber"
+      ]
+    },
+    {
+      "pmid": "40461416",
+      "title": "Gepotidacin: A Novel Antibiotic for the Treatment of Uncomplicated Urinary Tract Infections.",
+      "abstract": "To review the efficacy and safety of gepotidacin for the treatment of uncomplicated urinary tract infections (uUTIs). A literature search was performed using PubMed and Google Scholar (both January 2010 to March 2025) with the search terms gepotidacin and GSK2140944. Other resources included conference abstracts, the manufacturer's web site, and prescribing information. All relevant English-language studies assessing gepotidacin efficacy and safety for the treatment of uUTIs were included. Gepotidacin is a first-in-class triazaacenaphthylene antibiotic with a novel mechanism of action that is active against strains of Gepotidacin is an antibiotic with a novel mechanism of action that is efficacious in the treatment of women with uUTIs caused by common uropathogens, including resistant strains.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Anti-Bacterial Agents",
+        "Humans",
+        "Acenaphthenes",
+        "Heterocyclic Compounds, 3-Ring",
+        "Nitrofurantoin",
+        "Topoisomerase Inhibitors",
+        "Clinical Trials as Topic",
+        "Female",
+        "Urinary Tract Infections"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "gepotidacin",
+        "Acenaphthenes",
+        "Heterocyclic Compounds, 3-Ring",
+        "Nitrofurantoin",
+        "Topoisomerase Inhibitors"
+      ],
+      "journal": "The Annals of pharmacotherapy",
+      "authors": [
+        "Spencer H Durham",
+        "Elias B Chahine"
+      ]
+    },
+    {
+      "pmid": "40762778",
+      "title": "Gepotidacin: First Approval.",
+      "abstract": "Gepotidacin (BLUJEPA), a small molecule triazaacenaphthylene bacterial type II topoisomerase inhibitor (BTI) antibacterial, has been developed by GSK for the treatment of uncomplicated urinary tract infections (uUTIs) and uncomplicated urogenital gonorrhoea (uUGC). In March 2025, gepotidacin was approved for the treatment of uUTIs caused by susceptible isolates of Escherichia coli, Klebsiella pneumoniae, Citrobacter freundii complex, Staphylococcus saprophyticus and Enterococcus faecalis in female adult and paediatric patients aged \u2265 12 years and weighing \u2265 40 kg in the USA. This article summarizes the milestones in the development of gepotidacin leading to this first approval for the treatment of bacterial uUTIs.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Urinary Tract Infections",
+        "Drug Approval",
+        "Heterocyclic Compounds, 3-Ring",
+        "Anti-Bacterial Agents",
+        "Topoisomerase II Inhibitors",
+        "Female",
+        "Gonorrhea",
+        "Acenaphthenes"
+      ],
+      "chemicals": [
+        "gepotidacin",
+        "Heterocyclic Compounds, 3-Ring",
+        "Anti-Bacterial Agents",
+        "Topoisomerase II Inhibitors",
+        "Acenaphthenes"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Susan J Keam"
+      ]
+    },
+    {
+      "pmid": "40632535",
+      "title": "First-Trimester Antibiotic Use for Urinary Tract Infection and Risk of Congenital Malformations.",
+      "abstract": "Clinical guidelines recommend screening and treating bacteriuria in early pregnancy given that urinary tract infections (UTIs) can cause serious maternal and neonatal consequences. Evidence regarding antibiotic exposure during early pregnancy and risk of congenital malformations is limited and inconsistent. To compare the risk of congenital malformations following first-trimester exposure to different antibiotic agents used to treat UTI. This population-based cohort study included commercially insured pregnant individuals aged 15 to 49 years who were treated for UTI and linked liveborn infants in the Merative MarketScan Commercial Database (2006-2022). First-trimester antibiotic prescription fill of nitrofurantoin, trimethoprim-sulfamethoxazole (TMP-SMX), fluoroquinolones (ciprofloxacin, levofloxacin, ofloxacin), and \u03b2-lactams to treat UTI. Congenital malformations (any and by organ system) were identified using validated algorithms based on diagnosis codes up to 365 days after birth. Log-binomial regression models were used to estimate propensity score-weighted risk ratios (RRs) and risk differences. The cohort of 71\u202f604 eligible pregnancies (median maternal [IQR] age, 30 [27-34] years) included 42\u202f402 (59.2%) nitrofurantoin-exposed, 3494 (4.9%) TMP-SMX-exposed, 3663 (5.1%) fluoroquinolone-exposed, and 22\u202f045 (30.8%) \u03b2-lactam-exposed individuals. Median (IQR) gestational age differed by antibiotic (nitrofurantoin, 62 [45-77] days; TMP-SMX, 26 [13-59] days; fluoroquinolones, 18 [9-27] days; \u03b2-lactams, 63 [48-77] days). The absolute risk of any malformation was 19.8 (95% CI, 18.0-21.8) per 1000 infants for \u03b2-lactams, 21.2 (95% CI, 19.9-22.7) per 1000 infants for nitrofurantoin, 23.5 (95% CI, 18.8-28.9) per 1000 infants for fluoroquinolones, and 26.9 (95% CI, 21.8-32.8) per 1000 infants for TMP-SMX. After accounting for confounding, risk of any congenital malformation was higher for TMP-SMX (RR, 1.35; 95% CI, 1.04-1.75) but similar for nitrofurantoin (RR, 1.12; 95% CI, 1.00-1.26) and fluoroquinolones (RR, 1.18; 95% CI, 0.87-1.60) compared with \u03b2-lactams. TMP-SMX was associated with increased risk of severe cardiac malformations (RR, 2.09; 95% CI, 1.09-3.99), other cardiac malformations (RR, 1.52; 95% CI, 1.02-2.25), and cleft lip and palate (RR, 3.23; 95% CI, 1.44-7.22) compared with \u03b2-lactams; however, for these specific malformations, the corresponding risk difference estimates included the null. Risk of other malformation types did not differ by agent, although some estimates were imprecise. Results were generally consistent across sensitivity analyses. In this cohort study of first-trimester antibiotic exposure, the risk of any malformation, severe cardiac malformation, other cardiac malformation, and cleft lip and palate was higher for infants exposed to TMP-SMX vs \u03b2-lactam antibiotics. No elevated risk was observed for nitrofurantoin.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Pregnancy",
+        "Pregnancy Trimester, First",
+        "Urinary Tract Infections",
+        "Adult",
+        "Anti-Bacterial Agents",
+        "Young Adult",
+        "Adolescent",
+        "Abnormalities, Drug-Induced",
+        "Cohort Studies",
+        "Middle Aged",
+        "Nitrofurantoin",
+        "Pregnancy Complications, Infectious",
+        "Infant, Newborn"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "Nitrofurantoin"
+      ],
+      "journal": "JAMA network open",
+      "authors": [
+        "Sarah S Osmundson",
+        "Katelin B Nickel",
+        "Susan M Shortreed",
+        "Sascha Dublin",
+        "Dustin Stwalley",
+        "Michael J Durkin"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "disease": "Type 1 Diabetes Mellitus",
+  "slug": "type_1_diabetes_mellitus",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40550013",
+      "title": "Semaglutide in Adults with Type 1 Diabetes and Obesity.",
+      "abstract": "Once-weekly semaglutide is approved for the management of type 2 diabetes and obesity. The efficacy and safety of semaglutide in adults with type 1 diabetes are not established. In this 26-week, double-blind trial, we randomly assigned 72 adults with type 1 diabetes using an automated insulin delivery (AID) system and with a body mass index of 30 or higher in a 1:1 ratio to receive once-weekly semaglutide up to 1 mg or placebo. The primary composite end point consisted of achieving all of the following elements: continuous glucose monitoring (CGM)-based time between 70 and 180 mg/dl of greater than 70% and time below 70 mg/dl of less than 4%; and weight reduction of at least 5%. A significantly greater percentage of patients in the semaglutide group than in the placebo group achieved the primary composite outcome (36% vs. 0%; between-group difference, 36 percentage points; 95% confidence interval [CI], 20.6 to 52.2; P<0.001). The difference in the least-squares mean change from baseline to week 26 for the semaglutide versus placebo group for glycated hemoglobin was -0.3 percentage points (95% CI, -0.6 to -0.05), for percentage of time with CGM glucose levels between 70 and 180 mg/dl it was 8.8 percentage points (95% CI, 3.9 to 13.7), and for body weight it was -8.8 kg (95% CI, -10.6 to -7.0). There were two severe hypoglycemia events in each group, and no diabetic ketoacidosis was reported. In adults with type 1 diabetes and obesity, semaglutide treatment, compared with AID use alone, significantly improved achievement of a composite of time in range of greater than 70%, with time below range of less than 4%, and a 5% body weight reduction. (Funded by Breakthrough T1D [Type 1 Diabetes]; ADJUST-T1D trial ; Clinicaltrials.gov number, NCT05537233).",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 1",
+        "Glucagon-Like Peptides",
+        "Female",
+        "Adult",
+        "Male",
+        "Double-Blind Method",
+        "Hypoglycemic Agents",
+        "Middle Aged",
+        "Obesity",
+        "Blood Glucose",
+        "Glycated Hemoglobin",
+        "Treatment Outcome",
+        "Weight Loss",
+        "Body Mass Index",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptides",
+        "Hypoglycemic Agents",
+        "Blood Glucose",
+        "Glycated Hemoglobin",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "journal": "NEJM evidence",
+      "authors": [
+        "Viral N Shah",
+        "Halis K Akturk",
+        "Davida Kruger",
+        "Andrew Ahmann",
+        "Anuj Bhargava",
+        "Giorgos Bakoyannis"
+      ]
+    },
+    {
+      "pmid": "40983070",
+      "title": "The future of type 1 diabetes therapy.",
+      "abstract": "The treatment of type 1 diabetes is entering a transformative era. Teplizumab, the first immunotherapy treatment to delay the onset of clinical type 1 diabetes, has been approved by the US Food and Drug Administration. Other immune-based therapies show promise in preserving \u03b2-cell function. Public health screening using islet autoantibodies is expanding, enabling earlier diagnosis, reducing diabetic ketoacidosis, and allowing timely introduction of disease-modifying treatments before the need for insulin therapy. \u03b2-cell replacement is shifting from traditional transplantation of organ donor islets and the pancreas to stem cell-derived \u03b2 cells. Bioengineering methods, such as encapsulation, and gene editing to create hypoimmune cells could reduce the need for immunosuppression that has hampered \u03b2-cell replacement, and patient-derived stem cells open doors to personalised therapies. Although these innovations have been made available to a small number of patients, scaling them to widespread use remains a challenge. Meanwhile, glucose regulation is improving through the use of automated insulin delivery systems that combine glucose monitoring with insulin pumps. New-generation insulins (those that are ultrarapid, ultralong, and glucose-responsive) improve outcomes by minimising blood sugar fluctuations. Together, these breakthroughs offer renewed hope for improving long-term management and quality of life for people living with type 1 diabetes.",
+      "pub_date": "2025-10-04",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 1",
+        "Insulin",
+        "Insulin-Secreting Cells",
+        "Hypoglycemic Agents",
+        "Insulin Infusion Systems",
+        "Islets of Langerhans Transplantation",
+        "Antibodies, Monoclonal, Humanized",
+        "Immunotherapy"
+      ],
+      "chemicals": [
+        "Insulin",
+        "Hypoglycemic Agents",
+        "Antibodies, Monoclonal, Humanized",
+        "teplizumab"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Anette-Gabriele Ziegler",
+        "Eda Cengiz",
+        "Thomas W H Kay"
+      ]
+    },
+    {
+      "pmid": "41421368",
+      "title": "Application of continuous glucose monitoring and automated insulin delivery technologies for pregnant women with type 1, type 2, or gestational diabetes: an international consensus statement.",
+      "abstract": "Insulin resistance increases after the first trimester of pregnancy, leading to glycaemic challenges for women with pregestational type 1 diabetes or type 2 diabetes. Additionally, insulin resistance can promote hyperglycaemia in pregnant women without type 1 diabetes or type 2 diabetes, who develop gestational diabetes. Although most (>95%) women with diabetes deliver healthy babies, maternal dysglycaemia can have consequences for the mother and child, including prenatal, perinatal, immediate, and long-term postnatal complications. Diabetes technologies, such as continuous glucose monitoring (CGM) and automated insulin delivery (AID) systems can aid in optimising glycaemia outside of pregnancy. These novel technologies have not been extensively tested in large randomised controlled trials before and during pregnancy. However, compelling data report the benefits of CGM in type 1 diabetes, and increasing data report on AID systems in pregnancies complicated by type 1 diabetes. Appropriate CGM glucose thresholds for the diagnosis of gestational diabetes and the recommended time in range treatment targets for the routine management of gestational diabetes and type 2 diabetes still need to be determined. The recommendations in this Consensus Statement emphasise the value of CGM during preconception and pregnancy for women with pregestational type 1 diabetes in reducing pregnancy complications. Recommendations also include the use of AID systems in women with pregestational type 1 diabetes to improve glycaemic management during preconception, during pregnancy and delivery, and in the postpartum period. This Consensus Statement has been endorsed by 24 societies and groups.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Consensus Statement"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pregnancy",
+        "Female",
+        "Diabetes Mellitus, Type 1",
+        "Diabetes, Gestational",
+        "Diabetes Mellitus, Type 2",
+        "Blood Glucose Self-Monitoring",
+        "Insulin",
+        "Pregnancy in Diabetics",
+        "Insulin Infusion Systems",
+        "Blood Glucose",
+        "Hypoglycemic Agents",
+        "Continuous Glucose Monitoring"
+      ],
+      "chemicals": [
+        "Insulin",
+        "Blood Glucose",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "The lancet. Diabetes & endocrinology",
+      "authors": [
+        "Katrien Benhalima",
+        "Celeste Durnwald",
+        "Arianne Sweeting",
+        "Dawn Adams",
+        "Ananta Addala",
+        "Tadej Battelino"
+      ]
+    },
+    {
+      "pmid": "41482564",
+      "title": "The expanding landscape of GLP-1 medicines.",
+      "abstract": "Glucagon-like peptide-1 medicines are being prescribed to growing numbers of patients worldwide, for type 2 diabetes, obesity and associated comorbidities, including cardiovascular disease, peripheral artery disease and obstructive sleep apnea, and are revolutionizing public health strategies for these conditions. These medicines improve health through reduction of blood glucose and body weight, by attenuation of inflammation and via direct activation of receptors in target tissues. New, more effective molecules with optimized pharmacokinetics produce greater weight loss and some may be more effective for various metabolic disorders, through incorporation of one or more additional peptide epitopes. Parallel efforts are exploring new indications, including neurodegenerative and substance use disorders, metabolic liver disease, arthritis, type 1 diabetes and inflammatory bowel disease. Here we highlight data informing the safety, efficacy, and potential utility of new and emerging glucagon-like peptide-1 medicines. We outline new mechanistic concepts, future therapeutic opportunities, potential for differentiation from currently available medicines and areas of uncertainty requiring additional investigation.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Glucagon-Like Peptide 1",
+        "Diabetes Mellitus, Type 2",
+        "Obesity",
+        "Hypoglycemic Agents",
+        "Glucagon-Like Peptide-1 Receptor",
+        "Animals",
+        "Diabetes Mellitus, Type 1"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptide 1",
+        "Hypoglycemic Agents",
+        "Glucagon-Like Peptide-1 Receptor"
+      ],
+      "journal": "Nature medicine",
+      "authors": [
+        "Daniel J Drucker"
+      ]
+    },
+    {
+      "pmid": "40765373",
+      "title": "A Comprehensive Review of Novel Advances in Type 1 Diabetes Mellitus.",
+      "abstract": "Type 1 diabetes mellitus (T1DM) is a chronic autoimmune disorder where the immune system targets and destroys insulin-producing \u03b2-cells in the pancreas. It generally emerges during childhood or adolescence, but individuals of any age can be affected. In contrast to Type 2 diabetes mellitus (T2DM) which is often associated with lifestyle factors, T1DM cannot be prevented and necessitates lifelong management. Currently, there is no definitive cure for T1DM, and patients rely on continuous insulin injections for their entire lives. Ongoing developments in insulin treatment, such as insulin pumps, continuous glucose monitoring, and hybrid closed-loop systems, offer promising alternatives. Despite advancements in intensive glycemic control that have reduced the occurrence of microvascular and macrovascular complications, a significant number of T1DM patients still these issues. Extensive research efforts are crucial to achieve early detection, prevent the loss of \u03b2-cells, and devise improved treatment strategies to enhance the quality of life and prognosis for those affected. This review explores the most noteworthy and recent advancements in the field of T1DM.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 1",
+        "Insulin",
+        "Hypoglycemic Agents",
+        "Insulin Infusion Systems",
+        "Blood Glucose Self-Monitoring",
+        "Blood Glucose"
+      ],
+      "chemicals": [
+        "Insulin",
+        "Hypoglycemic Agents",
+        "Blood Glucose"
+      ],
+      "journal": "Journal of diabetes",
+      "authors": [
+        "Yazdan Ebrahimpour",
+        "Sahbasadat Khatami",
+        "Mahsa Saffar",
+        "Alireza Fereidouni",
+        "Zahra Biniaz",
+        "Nafiseh Erfanian"
+      ]
+    },
+    {
+      "pmid": "40991712",
+      "title": "Site-specific adaptive nanovesicles for oral insulin delivery.",
+      "abstract": "Oral delivery of insulin holds great promise for improving patient compliance. However, the harsh gastrointestinal environment, the low permeability of the intestinal epithelium, and hepatic clearance of foreign particles remain key challenges in this area. Here, we report the site-specific adaptive milk-derived nanovesicles (MiNVs) capable of overcoming intestinal and hepatic barriers for oral insulin delivery. These MiNVs could bind natural IgG on their surface, enabling FcRn-mediated transcytosis by evading the lysosomal degradation pathway. Upon reaching the liver, MiNVs responded to the elevated levels of biothiols in the hepatic microenvironment, triggering site-specific insulin release. In type 1 diabetic rats, the oral bioavailability reached 20.4%, which is about 20-fold higher than that of free insulin. Notably, MiNVs showed effective glycemic control over long-term treatment in type 1 diabetic rat and minipig models. By integrating transepithelial transport and liver-specific responsiveness, the site-specific adaptability of MiNVs supports their promise in oral insulin administration.",
+      "pub_date": "2025-09-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Insulin",
+        "Administration, Oral",
+        "Rats",
+        "Diabetes Mellitus, Experimental",
+        "Swine",
+        "Humans",
+        "Liver",
+        "Nanoparticles",
+        "Diabetes Mellitus, Type 1",
+        "Drug Delivery Systems",
+        "Male",
+        "Swine, Miniature",
+        "Milk",
+        "Receptors, Fc",
+        "Histocompatibility Antigens Class I",
+        "Biological Availability"
+      ],
+      "chemicals": [
+        "Insulin",
+        "Receptors, Fc",
+        "Histocompatibility Antigens Class I",
+        "Fc receptor, neonatal"
+      ],
+      "journal": "Science advances",
+      "authors": [
+        "Bozhang Xia",
+        "Fengfei Xu",
+        "Junge Chen",
+        "Shaobo Shan",
+        "Jiuheng Shen",
+        "Yuxuan Zhang"
+      ]
+    },
+    {
+      "pmid": "40473952",
+      "title": "A microRNA-based dynamic risk score for type 1 diabetes.",
+      "abstract": "Identifying individuals at high risk of type 1 diabetes (T1D) is crucial as disease-delaying medications are available. Here we report a microRNA (miRNA)-based dynamic (responsive to the environment) risk score developed using multicenter, multiethnic and multicountry ('multicontext') cohorts for T1D risk stratification. Discovery (wet and dry lab) analysis identified 50 miRNAs associated with functional \u03b2 cell loss, which is a hallmark of T1D. These miRNAs measured across n\u2009=\u20092,204 individuals from four contexts (4C: Australia, Denmark, Hong Kong SAR People's Republic of China, India) led to a four-context, miRNA-based dynamic risk score (DRS) that effectively stratified individuals with and without T1D. Generative artificial intelligence was used to create an enhanced four-context, miRNA-based DRS, which offered good predictive power (area under the curve\u2009=\u20090.84) for T1D stratification in a separate multicontext validation dataset (n\u2009=\u2009662), and accurately predicted future exogenous insulin requirement at 1 hour of islet transplantation. In a clinical trial assessing the imatinib drug therapy, baseline miRNA signature, rather than clinical characteristics, distinguished drug responders from nonresponders at 1 year. This study harnessed machine learning/generative artificial intelligence approaches, identifying and validating a miRNA-based DRS for T1D discrimination and treatment efficacy prediction.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 1",
+        "MicroRNAs",
+        "Female",
+        "Male",
+        "Insulin-Secreting Cells",
+        "Hong Kong",
+        "Adult",
+        "Australia",
+        "India",
+        "Risk Factors",
+        "Insulin",
+        "Machine Learning",
+        "Risk Assessment",
+        "Adolescent",
+        "Denmark",
+        "Child",
+        "Islets of Langerhans Transplantation",
+        "Artificial Intelligence"
+      ],
+      "chemicals": [
+        "MicroRNAs",
+        "Insulin"
+      ],
+      "journal": "Nature medicine",
+      "authors": [
+        "Mugdha V Joglekar",
+        "Wilson K M Wong",
+        "Pooja S Kunte",
+        "Hrishikesh P Hardikar",
+        "Reshmi A Kulkarni",
+        "Ikhlak Ahmed"
+      ]
+    },
+    {
+      "pmid": "40930617",
+      "title": "Safety and Effectiveness of Statins for Primary Prevention in Adults With Type 1 Diabetes: An Emulation.",
+      "abstract": "There is no consensus for using statins for primary prevention of cardiovascular disease (CVD) and all-cause mortality in adults with type 1 diabetes mellitus (T1DM), because no randomized controlled trial has exclusively investigated statins in this population. In this study, the authors sought to evaluate the long-term risks and benefits of statins for primary prevention in adults with T1DM. We performed a sequential target trial emulation comparing statin initiation vs noninitiation using UK primary care data from the IQVIA Medical Research Data database. Persons aged 25 to 84 years with a diagnosis record of T1DM with prescription of insulin from January 2005 to December 2016 were included if they had baseline low-density lipoprotein-cholesterol (LDL-C) \u22652.6 mmol/L (100 mg/dL) or non-high-density lipoprotein cholesterol \u22653.4 mmol/L (130 mg/dL). Persons with preexisting coronary artery disease, myocardial infarction, stroke, heart failure, myopathy, liver disease, rheumatic heart disease, schizophrenia or cancer were excluded. Main outcome measures were all-cause mortality, major CVD and adverse events (myopathy and liver dysfunction). We estimated 10-year absolute risk differences (RDs) for the observational analogues of the intention-to-treat (ITT) and per-protocol (PP) effects. We included 4,176 statin initiator (mean age of 45 years, 33.1% <40 years, 40.6% female) and 16,704 noninitiator person-trials with median follow-up of 6 years. Compared with noninitiation, statins were associated with reductions in all-cause mortality (RD Among adults with T1DM, statin initiation for primary prevention was associated with reductions in all-cause mortality and major CVD with a very low risk of adverse effects. The differences in absolute risk reductions can help guide personalized statin treatment decisions in T1DM.",
+      "pub_date": "2025-09-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Middle Aged",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Male",
+        "Diabetes Mellitus, Type 1",
+        "Adult",
+        "Primary Prevention",
+        "Aged",
+        "Cardiovascular Diseases",
+        "Aged, 80 and over",
+        "United Kingdom",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Joseph Edgar Blais",
+        "Vincent Ka Chun Yan",
+        "Esther Wai Yin Chan",
+        "Ian Chi Kei Wong",
+        "Eric Yuk Fai Wan"
+      ]
+    },
+    {
+      "pmid": "41134589",
+      "title": "Closed-Loop Insulin Delivery in Type 1 Diabetes in Pregnancy: The CIRCUIT Randomized Clinical Trial.",
+      "abstract": "Hyperglycemia-related pregnancy complications occur in 50% of pregnant women with type 1 diabetes. Closed-loop insulin systems improve glycemia outside of pregnancy but have had limited testing in pregnancy. To assess the efficacy of a closed-loop system in pregnancy. Open-label trial enrolling pregnant women with type 1 diabetes at 14 clinical centers in Canada and Australia before 14 weeks' gestation with follow-up until 6 weeks postpartum. Enrollment occurred between June 2021 and July 2024 and follow-up was completed in March 2025. Participants were randomized 1:1 to closed-loop therapy (n\u2009=\u200946) or standard care (insulin pump or multiple daily insulin injections) (n\u2009=\u200945) with continuous glucose monitoring. The primary outcome was the percentage of time spent in the pregnancy-specific glucose range (63-140 mg/dL), measured by continuous glucose monitoring from 16 to 34 weeks' gestation. Among 94 enrolled participants, 3 experienced pregnancy loss prior to randomization, 91 were randomized (mean age, 31.7 [SD, 5.2] years; early pregnancy hemoglobin A1c, 7.4% [SD, 1.0%]), and 88 were included in the primary analysis. The mean percentage of time spent in the pregnancy-specific glucose range from 16 to 34 weeks' gestation was 65.4% in the closed-loop group and 50.3% in the standard care group (mean adjusted difference, 12.5 [95% CI, 9.5-15.6] percentage points; P\u2009<\u2009.001). There was 1 episode of severe hypoglycemia in the closed-loop group, and there were 2 episodes of diabetic ketoacidosis in the closed-loop group and 1 in the standard care group. Pregnant women with type 1 diabetes using a closed-loop system spent significantly more time in the pregnancy-specific glucose range than those receiving standard care. These findings support the use of this closed-loop system in pregnant women with type 1 diabetes. ClinicalTrials.gov Identifier: NCT04902378.",
+      "pub_date": "2025-12-23",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Pregnancy",
+        "Blood Glucose",
+        "Blood Glucose Self-Monitoring",
+        "Continuous Glucose Monitoring",
+        "Diabetes Mellitus, Type 1",
+        "Diabetic Ketoacidosis",
+        "Glycated Hemoglobin",
+        "Glycemic Control",
+        "Hypoglycemia",
+        "Hypoglycemic Agents",
+        "Insulin",
+        "Insulin Infusion Systems",
+        "Pregnancy in Diabetics",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Blood Glucose",
+        "Glycated Hemoglobin",
+        "Hypoglycemic Agents",
+        "Insulin"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Lois E Donovan",
+        "Patricia Lemieux",
+        "Amy D Dunlop",
+        "Jennifer M Yamamoto",
+        "Helen R Murphy",
+        "David Simmons"
+      ]
+    },
+    {
+      "pmid": "41264593",
+      "title": "Tirzepatide in Adults With Type 1 Diabetes: A Phase 2 Randomized Placebo-Controlled Clinical Trial.",
+      "abstract": "Overweight and obesity are prevalent in type 1 diabetes and contribute to cardiovascular risk. Tirzepatide, a gastric inhibitory polypeptide and glucagon-like peptide 1 receptor coagonist, has not been studied in type 1 diabetes. We conducted a 12-week, phase 2, double-blind, placebo-controlled trial in adults with type 1 diabetes and BMI >30 kg/m2. Participants were randomized to once-weekly subcutaneous tirzepatide (2.5 mg for 4 weeks, 5.0 mg for 8 weeks) or placebo. The primary end point was change in body weight at 12 weeks. Twenty-two of 24 adults with type 1 diabetes completed the study. After 12 weeks, the mean change in weight was -10.3 kg (95% CI -12.8 to -7.7 kg) in the tirzepatide group and -0.7 kg (95% CI -1.4 to 2.8 kg) in the placebo group, with an estimated treatment difference of -8.7 kg (95% CI -12.0 to -5.5 kg; P < 0.0001), representing 8.8% weight loss. In the tirzepatide group, 100% and 45% of participants experienced weight loss of \u22655% and \u226510% respectively, compared with 9% and 0% in the placebo group. Tirzepatide improved HbA1c (mean difference -0.4% [95% CI -0.7 to 0.0%] vs. placebo; P = 0.05) and reduced total daily insulin dose (-24.2 units/day tirzepatide and -0.3 units/day placebo; difference from baseline vs. placebo -35.1% [95% CI -46.5 to -21.3%; P = 0.0002]). There were no significant adverse events in either group. Among adults with type 1 diabetes and obesity, tirzepatide was superior to placebo for weight loss over 12 weeks.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase II"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 1",
+        "Adult",
+        "Male",
+        "Female",
+        "Double-Blind Method",
+        "Middle Aged",
+        "Tirzepatide",
+        "Hypoglycemic Agents",
+        "Weight Loss",
+        "Young Adult"
+      ],
+      "chemicals": [
+        "Tirzepatide",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "Diabetes care",
+      "authors": [
+        "Jennifer R Snaith",
+        "Ruth Frampton",
+        "Dorit Samocha-Bonet",
+        "Jerry R Greenfield"
+      ]
+    },
+    {
+      "pmid": "41196293",
+      "title": "Safety and pharmacokinetics of teplizumab in children less than 8 years of age with stage 2 type 1 diabetes.",
+      "abstract": "Teplizumab is approved in the USA and seven other countries to delay stage 3 type 1 diabetes onset in individuals \u22658 years of age with stage 2 type 1 diabetes. As part of a US Food and Drug Administration post-marketing requirement, this study evaluated the safety, tolerability and pharmacokinetics of teplizumab in children aged <8 years with stage 2 type 1 diabetes. The PETITE-T1D trial is a 2 year single-arm, open-label, multicentre study of 23 children <8 years of age with stage 2 type 1 diabetes. Participants received a 14 day teplizumab course. A prespecified interim analysis was performed after 15 participants completed 1 year of follow-up and included all 23 participants. Primary endpoints included treatment-emergent adverse events (TEAEs), TEAEs causing treatment discontinuation, and serious adverse events (SAEs). Other endpoints assessed immunogenicity, pharmacokinetics, pharmacodynamics and time from study treatment to stage 3 type 1 diabetes. Mean participant age was 4.8 years (range 1.7-6.8). Median follow-up duration was 51.9 weeks (range 3.9-77.1). All participants experienced one or more TEAE, with most being mild to moderate. No grade 4 or 5 TEAEs were reported. Three participants (13%) had TEAEs leading to teplizumab discontinuation: anaemia, elevated liver enzymes and maculo-papular rash. Two participants (9%) each had two SAEs. Serum teplizumab concentrations peaked at day 14. Two participants progressed to stage 3 type 1 diabetes. The estimated probability of lack of progression to stage 3 was 89.6% (95% CI 64.3%, 97.3%) at the time of interim analysis. Teplizumab was safe and well tolerated in children <8 years of age with stage 2 type 1 diabetes. Adverse events were consistent with those seen in previous studies, with no new safety risks identified. Two participants progressed to stage 3 type 1 diabetes during the observation period; surveillance is ongoing. ClinicalTrials.gov NCT05757713.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 1",
+        "Male",
+        "Female",
+        "Child",
+        "Antibodies, Monoclonal, Humanized",
+        "Child, Preschool"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "teplizumab"
+      ],
+      "journal": "Diabetologia",
+      "authors": [
+        "Stephen E Gitelman",
+        "Kimber Simmons",
+        "Jennifer L Sherr",
+        "Steven B Leichter",
+        "Teresa Quattrin",
+        "William E Russell"
+      ]
+    },
+    {
+      "pmid": "41032622",
+      "title": "",
+      "abstract": "Endothelial dysfunction is one of the earliest processes in diabetes and a major contributor to diabetic vascular complications, which often exhibit limited response to glucose-lowering therapies. We identified up-regulated",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Diabetes Mellitus, Experimental",
+        "Disease Models, Animal",
+        "Aldehyde Oxidoreductases",
+        "Diabetic Angiopathies",
+        "Mice",
+        "Male",
+        "Diabetes Mellitus, Type 2",
+        "Mice, Inbred C57BL",
+        "Diabetes Mellitus, Type 1",
+        "Endothelium, Vascular"
+      ],
+      "chemicals": [
+        "Aldehyde Oxidoreductases",
+        "formaldehyde dehydrogenase, glutathione-independent"
+      ],
+      "journal": "Science translational medicine",
+      "authors": [
+        "Shuang Zhao",
+        "Tianyu Song",
+        "Xin Tang",
+        "Chenglin Fan",
+        "Yuhao Yang",
+        "Zhiren Zhang"
+      ]
+    }
+  ]
+}

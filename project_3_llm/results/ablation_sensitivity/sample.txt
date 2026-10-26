@@ -1,0 +1,10 @@
+Nephrology	q_acute_kidney_injury_treatment
+Endocrinology	q_addison_disease_efficacy
+Neurology	q_alzheimer_disease_treatment
+Cardiology	q_angina_pectoris_treatment
+Rheumatology	q_ankylosing_spondylitis_efficacy
+Pulmonology	q_asthma_efficacy
+Psychiatry	q_bipolar_disorder_efficacy
+Oncology	q_breast_cancer_efficacy
+Infectious Disease	q_cellulitis_treatment
+Gastroenterology	q_cirrhosis_efficacy

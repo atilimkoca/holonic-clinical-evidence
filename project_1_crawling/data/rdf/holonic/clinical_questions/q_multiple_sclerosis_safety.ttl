@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_multiple_sclerosis_safety a holon:EntityEntry ;
+    holon:entity oed:multiple_sclerosis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_multiple_sclerosis_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_multiple_sclerosis_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.92 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_multiple_sclerosis_safety ;
+    holon:recordedOn "2026-01-01"^^xsd:date ;
+    oe:cites oesrc:40783682 .
+
+oedrug:rituximab oe:causesSideEffect oesym:fatigue .
+
+oeevt:ev_q_multiple_sclerosis_safety-tt rdf:object oesym:fatigue ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:rituximab .
+
+oeq:q_multiple_sclerosis_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Multiple Sclerosis wit"@en ;
+    prov:generatedAtTime "2026-01-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.57 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_multiple_sclerosis_safety-bnd ;
+    holon:hasContextGraph oeq:q_multiple_sclerosis_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_multiple_sclerosis_safety-int ;
+    holon:hasProjectionGraph oeq:q_multiple_sclerosis_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Multiple Sclerosis with rituximab."^^xsd:string ;
+    holon:recordedOn "2026-01-01"^^xsd:date ;
+    holon:summaryConfidence 0.92 ;
+    oe:aboutDisease oed:multiple_sclerosis ;
+    oe:answerText "Comparative assessments of all available disease-modifying therapies (DMTs) in patients with highly active relapsing-remitting multiple sclerosis (RRMS) are lacking, even though some of these DMTs are restricted to this MS subpopulation. We therefore aimed to compare DMTs in patients with highly active RRMS using re-analyses of individual patient data (IPD) provided by study sponsors."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    oe:cites oesrc:40758347,
+        oesrc:40783682,
+        oesrc:40783885,
+        oesrc:41356192 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Multiple Sclerosis with rituximab?"^^xsd:string .
+

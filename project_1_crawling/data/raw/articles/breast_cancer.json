@@ -1,0 +1,439 @@
+{
+  "disease": "Breast Cancer",
+  "slug": "breast_cancer",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41849398",
+      "title": "Regulation of the immune CD155-CD226-TIGIT axis by cyclin D-CDK4/6.",
+      "abstract": "Cyclin D-CDK4/6 is a component of mammalian cell-cycle machinery that drives cell proliferation. Small-molecule inhibitors of CDK4/6 have been approved for treatment of breast cancer patients. In addition to halting cell-cycle progression, inhibition of CDK4/6 can affect other tumor cell-intrinsic and -extrinsic functions. Here, we examined the impact of CDK4/6 inhibition on the CD155-CD226-TIGIT pathway that operates at the interface of tumor cells and the immune environment. We demonstrate that inhibition of CDK4/6 upregulates the expression of surface CD155 protein in cancer cells and downregulates an immuno-inhibitory receptor TIGIT in tumor-infiltrating lymphocytes. We observed these effects in human breast cancer cell lines, in mouse mammary carcinoma allograft models, in freshly resected human breast tumors and in paired pre-/on-treatment biopsies of breast cancers from patients undergoing monotherapy with a CDK4/6 inhibitor. We propose that inhibition of CDK4/6, through its tumor cell-intrinsic and -extrinsic effects, may shift the balance from the immunoinhibitory CD155-TIGIT to the immunostimulatory CD155-CD226 interaction, and through this mechanism may augment the antitumor immunity. Our results suggest that coadministration of CDK4/6 inhibitors and anti-TIGIT antibodies may further promote CD155-CD226-signaling and may have a strong synergistic antitumor effect.",
+      "pub_date": "2026-03-24",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Cyclin-Dependent Kinase 4",
+        "Cyclin-Dependent Kinase 6",
+        "Humans",
+        "Animals",
+        "Mice",
+        "Female",
+        "Antigens, Differentiation, T-Lymphocyte",
+        "Breast Neoplasms",
+        "Receptors, Immunologic",
+        "Cell Line, Tumor",
+        "Cyclin D",
+        "T Lineage-Specific Activation Antigen 1",
+        "Signal Transduction",
+        "Lymphocytes, Tumor-Infiltrating",
+        "Receptors, Virus"
+      ],
+      "chemicals": [
+        "Cyclin-Dependent Kinase 4",
+        "Cyclin-Dependent Kinase 6",
+        "poliovirus receptor",
+        "Antigens, Differentiation, T-Lymphocyte",
+        "Receptors, Immunologic",
+        "Cyclin D",
+        "T Lineage-Specific Activation Antigen 1",
+        "TIGIT protein, human",
+        "CDK4 protein, human",
+        "CDK6 protein, human",
+        "Receptors, Virus"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "authors": [
+        "Anne Fassl",
+        "Miriam Palacios Espinoza",
+        "Deborah Butter",
+        "Aleksandra Kolodziejczyk",
+        "Marco Seehawer",
+        "Charlotte Hill"
+      ]
+    },
+    {
+      "pmid": "41873944",
+      "title": "Repurposing HER2 IHC: Pan-HER2 and Low-HER2.",
+      "abstract": "The recent clinical trials and regulatory approval of new antibody drug conjugates targeting HER2 protein (trastuzumab deruxtecan, T-DXd) has moved the bar in terms of therapy for breast cancer and other solid tumors. With new drugs and expanding indications comes a need for refined companion diagnostics. Pathologists are asked to adapt IHC and other assays (mutation testing, circulating tumor DNA) accordingly. This brings attention to lower HER2 expression levels in breast cancer (\"low\" and even \"ultralow\"), and a tumor agnostic approval for cancers with high HER2 expression (3+ according to gastric scoring). This new landscape raises many questions concerning HER2 immunohistochemistry assay comparability, applicability (sensitivity, limit of detection), readout reproducibility, and clinical reporting, among many others. With a myriad of clinical trials still underway, this will remain a rapidly evolving field.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Erb-b2 Receptor Tyrosine Kinases",
+        "Immunohistochemistry",
+        "Breast Neoplasms",
+        "Female",
+        "Trastuzumab",
+        "Immunoconjugates",
+        "Camptothecin"
+      ],
+      "chemicals": [
+        "Erb-b2 Receptor Tyrosine Kinases",
+        "ERBB2 protein, human",
+        "Trastuzumab",
+        "trastuzumab deruxtecan",
+        "Immunoconjugates",
+        "Camptothecin"
+      ],
+      "journal": "Applied immunohistochemistry & molecular morphology : AIMM",
+      "authors": [
+        "Megan L Troxell"
+      ]
+    },
+    {
+      "pmid": "41839514",
+      "title": "Pyrotinib or placebo in combination with trastuzumab and docetaxel for HER2 positive metastatic breast cancer: long term survival results from randomised phase 3 PHILA trial.",
+      "abstract": "To report updated results of the phase 3 PHILA trial, which evaluated the efficacy and safety of pyrotinib or placebo in combination with trastuzumab and docetaxel in patients with untreated human epidermal growth factor receptor 2 (HER2) positive metastatic breast cancer. Multicentre, double blind, randomised, placebo controlled phase 3 trial. 40 centres in China, 6 May 2019 to 17 January 2022. 590 female patients with untreated HER2 positive metastatic breast cancer. Eligible patients were randomly assigned in a 1:1 ratio to receive either the irreversible pan-HER inhibitor pyrotinib (400 mg orally once daily) or placebo, both in combination with intravenous trastuzumab (8 mg/kg for the first cycle, then 6 mg/kg in subsequent cycles) and docetaxel (75 mg/m The primary endpoint was investigator assessed progression-free survival. 590 patients were randomised and received treatment (297 in the pyrotinib group and 293 in the placebo group). As of 30 April 2024, during a median follow-up of 35.7 months in the pyrotinib group and 34.3 months in the placebo group, 59 (20%) and 87 (30%) patients died, respectively. Overall survival was longer in the pyrotinib group (hazard ratio 0.64 (95% confidence interval (CI) 0.46 to 0.89); nominal one-sided P=0.004). At end of follow-up, neither group had reached the median overall survival. Improvement in progression-free survival in the pyrotinib group was maintained (22.1 months (95% CI 19.3 to 27.8) The updated analysis of the phase 3 PHILA trial confirmed the superiority of pyrotinib in combination with trastuzumab and docetaxel over placebo in combination with trastuzumab and docetaxel in sustaining longer progression-free survival and improving overall survival for initial treatment of HER2 positive metastatic breast cancer. The safety profile remained consistent with interim findings, with no new safety signals identified during extended follow-up. This analysis reinforces the efficacy of this dual anti-HER2 (pyrotinib plus trastuzumab) regimen as an effective treatment strategy for this patient population. ClinicalTrials.gov NCT03863223.",
+      "pub_date": "2026-03-16",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms",
+        "Trastuzumab",
+        "Docetaxel",
+        "Middle Aged",
+        "Erb-b2 Receptor Tyrosine Kinases",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Double-Blind Method",
+        "Acrylamides",
+        "Adult",
+        "Aminoquinolines",
+        "Aged",
+        "Progression-Free Survival",
+        "China",
+        "Neoplasm Metastasis"
+      ],
+      "chemicals": [
+        "Trastuzumab",
+        "Docetaxel",
+        "Erb-b2 Receptor Tyrosine Kinases",
+        "pyrotinib",
+        "Acrylamides",
+        "ERBB2 protein, human",
+        "Aminoquinolines"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Fei Ma",
+        "Min Yan",
+        "Wei Li",
+        "Quchang Ouyang",
+        "Zhongsheng Tong",
+        "Yuee Teng"
+      ]
+    },
+    {
+      "pmid": "41950928",
+      "title": "Antibody-drug conjugates in breast cancer: Progress and future directions.",
+      "abstract": "Antibody-drug conjugates (ADCs) have transformed the treatment landscape of breast cancer, enabling targeted delivery of potent cytotoxic payloads to antigen-expressing tumor cells. These agents have demonstrated efficacy across breast cancer subtypes, including chemotherapy-refractory disease and brain metastases, with manageable side-effect profiles. However, despite significant advances, identifying predictive biomarkers for response and understanding resistance mechanisms remain critical challenges that must be addressed to guide rational sequencing strategies and optimize combination approaches. The ADC platform offers remarkable versatility through diverse antigen targeting, variable linker chemistries enabling controlled payload release, multiple cytotoxic payload classes, and adjustable drug-to-antibody ratios. Next-generation platforms including bispecific targeting constructs, immune-stimulating antibody conjugates, and novel payloads such as PROTACs and RNA polymerase II inhibitors are being developed to further expand therapeutic applications. Realizing the full potential of these agents will require integrated biomarker development, a deeper understanding of resistance mechanisms, and optimized sequencing and combination strategies.",
+      "pub_date": "2026-05-19",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Breast Neoplasms",
+        "Immunoconjugates",
+        "Female",
+        "Animals"
+      ],
+      "chemicals": [
+        "Immunoconjugates"
+      ],
+      "journal": "Cell reports. Medicine",
+      "authors": [
+        "Alexandra Bili Newman",
+        "Senthil Damodaran",
+        "Funda Meric-Bernstam"
+      ]
+    },
+    {
+      "pmid": "42013020",
+      "title": "Theranostic CuS/ALA Nanoprobes Modulate Drug Efflux Pumps and Synergize the Photoacoustics-Guided Photothermal Breast Cancer Therapy.",
+      "abstract": "Breast cancer remains a clinical hurdle despite technoclinical advancements, primarily due to drug resistance mechanisms, from overexpression of drug efflux pumps. Modulating drug efflux/influx transporters like ABCG2 and HCP-1 can improve anticancer therapeutic approaches. Our study reports CuS-ALA metal-organic nanoprobes combining 5-aminolevulinic acid (5-ALA), a tumor targeting biomolecule, and near-infrared (NIR) light-absorbing copper sulfide (CuS) nanoparticles. These ALA-CuS nanoprobes (NPs) had excellent near-infrared (NIR) absorption properties along with high photothermal profile, stability, photoacoustic and fluorescence imaging properties.",
+      "pub_date": "2026-05-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms",
+        "Animals",
+        "Copper",
+        "Photoacoustic Techniques",
+        "Theranostic Nanomedicine",
+        "Mice",
+        "Aminolevulinic Acid",
+        "Nanoparticles",
+        "Photothermal Therapy",
+        "Cell Line, Tumor",
+        "Sulfides",
+        "ATP Binding Cassette Transporter, Subfamily G, Member 2",
+        "Mice, Inbred BALB C",
+        "Antineoplastic Agents"
+      ],
+      "chemicals": [
+        "Copper",
+        "Aminolevulinic Acid",
+        "Sulfides",
+        "cupric sulfide",
+        "ATP Binding Cassette Transporter, Subfamily G, Member 2",
+        "Antineoplastic Agents"
+      ],
+      "journal": "ACS applied materials & interfaces",
+      "authors": [
+        "Nidhi Parihar",
+        "Prathamesh Mahadev Patil",
+        "Santimoy Sen",
+        "Amanda Marak",
+        "Deepak Bharadwaj Pemmaraju"
+      ]
+    },
+    {
+      "pmid": "41973922",
+      "title": "Profile of Helen M. Piwnica-Worms.",
+      "abstract": "Helen M. Piwnica-Worms has devoted her career to uncovering how cancer cells evade control and resist treatment. From pioneering work on cell cycle checkpoints to revealing drug resistance mechanisms in breast cancer, her research spans the continuum from basic discovery to clinical translation. A leader in using patient-derived models, she has shown how tumors can adopt reversible, drug-tolerant states and develop resistance. Her recent PNAS Inaugural Article identifies two escape routes in",
+      "pub_date": "2026-04-21",
+      "publication_types": [
+        "Historical Article",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "History, 20th Century",
+        "History, 21st Century",
+        "Breast Neoplasms",
+        "Drug Resistance, Neoplasm",
+        "Female"
+      ],
+      "chemicals": [],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "authors": [
+        "Sarah C P Williams"
+      ]
+    },
+    {
+      "pmid": "41914297",
+      "title": "Mitochondrial Metabolism in Breast Cancer.",
+      "abstract": "Breast cancer is the most prevalent malignant tumor among women worldwide. Its progression is driven, in part, by mitochondrial metabolic dysregulation, which can also contribute to therapeutic resistance. Although targeting mitochondrial metabolism offers new opportunities for treatment, significant therapeutic challenges remain. These include metabolic heterogeneity among subtypes and individual patients, drug resistance arising from metabolic plasticity, and suboptimal clinical translation of metabolic therapies. This review systematically synthesizes the mitochondrial metabolic mechanisms underlying different breast cancer subtypes, emphasizing the spatial network regulatory functions of mitochondrial metabolism. It further critically evaluates combined therapeutic strategies targeting metabolic vulnerabilities. By integrating current research limitations with emerging breakthroughs, we outline novel therapeutic frameworks to advance the development of precision medicine approaches focused on mitochondrial metabolism.",
+      "pub_date": "2026-03-16",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Breast Neoplasms",
+        "Mitochondria",
+        "Female",
+        "Energy Metabolism",
+        "Drug Resistance, Neoplasm",
+        "Animals"
+      ],
+      "chemicals": [],
+      "journal": "Frontiers in bioscience (Landmark edition)",
+      "authors": [
+        "Qian Hu",
+        "Zhihao Luo",
+        "Weixi Yuan",
+        "Qingshuang Zou",
+        "Li Wang",
+        "Yan He"
+      ]
+    },
+    {
+      "pmid": "42156642",
+      "title": "Unlocking new therapeutic horizons through integrative bioinformatics and transcriptomics for drug repositioning in breast cancer therapy.",
+      "abstract": "Breast cancer (BRCA) remains one of the most frequently diagnosed malignancies and a leading cause of cancer-related mortality among women worldwide. Its molecular heterogeneity and limited therapeutic options for aggressive subtypes highlight the need for novel treatment strategies. Drug repositioning offers a promising approach by identifying new therapeutic uses for existing drugs with established safety profiles. We applied an integrative transcriptomic and bioinformatics framework to identify candidate drug targets and repurposed drugs for BRCA. Differentially expressed genes (DEGs) were identified from four Gene Expression Omnibus (GEO) microarray datasets using the limma package with thresholds of |log2 fold change| > 1 and false discovery rate (FDR)\u2009<\u20090.05. Overlapping DEGs were expanded through protein-protein interaction analysis using the STRING database. Functional annotation across ten biological evidence categories was performed using WebGestalt to prioritize BRCA risk genes through a multi-criteria scoring approach. Drug-gene interactions were then analyzed using the Drug-Gene Interaction Database (DGIdb), and tissue-specific gene expression was evaluated using the GTEx database. Twenty-eight consistently dysregulated genes were identified and expanded into a 77-gene interaction network. Functional prioritization yielded 18 BRCA risk genes, including five druggable targets associated with 11 candidate drugs. ITGB7 emerged as a promising biomarker and therapeutic target, with vedolizumab identified as the top candidate drug. This study highlights the potential of integrative transcriptomic analysis to identify biomarkers and drug repositioning candidates in BRCA, providing a foundation for further experimental validation.",
+      "pub_date": "2026-05-19",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Drug Repositioning",
+        "Breast Neoplasms",
+        "Female",
+        "Computational Biology",
+        "Gene Expression Profiling",
+        "Transcriptome",
+        "Gene Expression Regulation, Neoplastic",
+        "Protein Interaction Maps",
+        "Gene Regulatory Networks",
+        "Biomarkers, Tumor",
+        "Antineoplastic Agents"
+      ],
+      "chemicals": [
+        "Biomarkers, Tumor",
+        "Antineoplastic Agents"
+      ],
+      "journal": "Journal of the Egyptian National Cancer Institute",
+      "authors": [
+        "Wirawan Adikusuma",
+        "Lalu Muhammad Irham",
+        "Rahmat Dani Satria",
+        "Ika Nurlaila",
+        "Dyah Laksmi Dewi",
+        "Firdayani Firdayani"
+      ]
+    },
+    {
+      "pmid": "41799200",
+      "title": "CEBPB-high dormant tumor cells drive immune evasion via S100A8 orchestrated tumor-associated macrophages reprogramming.",
+      "abstract": "Triple negative breast cancer (TNBC) poorly responds to immune checkpoint blockade (ICB) therapy. Dormant tumor cells are recognized as immunotherapy-resistant reservoirs that may lead to tumor relapse, although the underlying mechanisms remain to be fully elucidated. Public scRNA-seq data was employed to identify dormant tumor cells in TNBC patients receiving ICB therapy. A TetOn-H2BeGFP system was used to label and track dormant tumor cells both We demonstrated that dormant tumor cells were resistant to ICB and resided within an immunosuppressive niche, characterized by increased M2 macrophages and reduced CD8 Our study demonstrate a mechanistic link between tumor dormancy and immune evasion, highlighting the CEBPB-S100A8 axis as a promising therapeutic target to potentiate ICB efficacy in TNBC.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "CCAAT-Enhancer-Binding Protein-beta",
+        "Calgranulin A",
+        "Humans",
+        "Animals",
+        "Mice",
+        "Tumor-Associated Macrophages",
+        "Female",
+        "Triple Negative Breast Neoplasms",
+        "Cell Line, Tumor",
+        "Tumor Microenvironment",
+        "CD8-Positive T-Lymphocytes",
+        "Tumor Escape",
+        "Immune Evasion",
+        "Immune Checkpoint Inhibitors",
+        "Gene Expression Regulation, Neoplastic",
+        "Macrophages"
+      ],
+      "chemicals": [
+        "CCAAT-Enhancer-Binding Protein-beta",
+        "Calgranulin A",
+        "CEBPB protein, human",
+        "S100A8 protein, human",
+        "Immune Checkpoint Inhibitors"
+      ],
+      "journal": "Theranostics",
+      "authors": [
+        "Jin Bai",
+        "Huilan Su",
+        "Shunxi Wang",
+        "Yang Dong",
+        "Yong Gao"
+      ]
+    },
+    {
+      "pmid": "42113513",
+      "title": "Survival and Recurrence With GLP-1 Receptor Agonists in Breast Cancer.",
+      "abstract": "Patients with breast cancer (BC) with comorbid obesity or type 2 diabetes (T2D) experience poorer survival. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are approved to treat these comorbidities; however, their associations with BC survival and recurrence remain unclear. To evaluate the association between GLP-1 RA use and 10-year all-cause mortality and recurrence-free survival (RFS) over the 10-year follow-up period, as well as 5- and 10-year all-cause mortality and RFS probabilities among patients with BC. This retrospective cohort study used TriNetX US Collaborative Network data from women (\u226518 years) with BC from 68 health care organizations who received a diagnosis between April 1, 2006, and April 1, 2023. Propensity score matching balanced characteristics. Data were analyzed between September 16 and October 3, 2025. GLP-1 RA use (\u22652 prescriptions) during the 6 months before and any time after the index diagnosis; nonuse (0 entries). The primary outcome was all-cause mortality, and the secondary outcome was RFS. Cox proportional hazards regression model-estimated hazard ratios (HRs) were restricted to 10 years. Kaplan-Meier estimators were used to calculate 5- and 10-year all-cause mortality and RFS probabilities. Prespecified subgroup (postmenopausal) and landmark (6- and 12-month) analyses were conducted. The study comprised 841\u202f831 eligible patients with BC (mean [SD] age, 69.1 [12.2] years). After exclusions and 1:1 propensity score matching, 3 cohorts were identified: 1610 patients for GLP-1 RA use vs nonuse (patients with obesity [body mass index \u226530]), 2323 patients for GLP-1 RA use vs insulin or metformin (patients with T2D), and 4052 patients for GLP-1 RA use vs sodium-glucose cotransporter 2 inhibitors (patients with T2D). Among patients with obesity, GLP-1 RAs were associated with lower hazard of all-cause mortality (HR, 0.35; 95% CI, 0.21-0.58; P\u2009<\u2009.001) and RFS (HR, 0.44; 95% CI, 0.30-0.64; P\u2009<\u2009.001) over a 10-year follow-up period. Among patients with T2D, GLP-1 RAs vs insulin or metformin were associated with lower hazard of all-cause mortality (HR, 0.09; 95% CI, 0.06-0.15; P\u2009<\u2009.001) and RFS (HR, 0.33; 95% CI, 0.21-0.50; P\u2009<\u2009.001). No significant differences were observed between GLP-1 RA and sodium-glucose cotransporter 2 inhibitor groups. Subgroup and landmark analyses yielded similar findings. In this cohort study of patients with BC, findings suggested a potential association between GLP-1 RA use and improved outcomes among patients with BC who have obesity and related metabolic conditions. These findings support further evaluation of GLP-1 RA therapy in randomized clinical trials.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Breast Neoplasms",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Middle Aged",
+        "Retrospective Studies",
+        "Aged",
+        "Diabetes Mellitus, Type 2",
+        "Neoplasm Recurrence, Local",
+        "Obesity",
+        "Hypoglycemic Agents"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "JAMA network open",
+      "authors": [
+        "Kristina L Tatum",
+        "Bassam Dahman",
+        "Aniyah Stevenson",
+        "Sarah E Williford",
+        "J Brian Cassel",
+        "Hua Zhao"
+      ]
+    },
+    {
+      "pmid": "41820395",
+      "title": "ctDNA and tumor-based biomarkers of giredestrant response in acelERA breast cancer.",
+      "abstract": "Endocrine therapy (ET) resistance in estrogen receptor positive (ER+) advanced breast cancer is often linked to ESR1 mutations, yet responses to oral selective ER degraders vary within mutant subgroups. Through a biomarker analysis of acelERA Breast Cancer (NCT04576455), we show that tumor ER transcriptional activity as well as circulating tumor DNA (ctDNA) genomics and dynamics effectively stratify response to ET, including giredestrant. We find that following first-line therapy, the ctDNA genomic landscape is diverse and influenced by CDK4/6 inhibitor exposure. Despite this complexity, ER activity in ESR1-mutant tumors remains comparable to early breast cancer but is reduced in most non-mutant cases. This maintained ER activity is associated with giredestrant benefit. Furthermore, early ctDNA clearance identifies responding patients, and the combination of low ER activity and high ctDNA burden predicts rapid clinical progression. These findings provide a framework for personalizing future breast cancer therapies by integrating liquid biopsies with tissue-based signatures.",
+      "pub_date": "2026-03-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Breast Neoplasms",
+        "Female",
+        "Circulating Tumor DNA",
+        "Biomarkers, Tumor",
+        "Estrogen Receptor alpha",
+        "Mutation",
+        "Antineoplastic Agents, Hormonal",
+        "Drug Resistance, Neoplasm"
+      ],
+      "chemicals": [
+        "Circulating Tumor DNA",
+        "Biomarkers, Tumor",
+        "Estrogen Receptor alpha",
+        "ESR1 protein, human",
+        "Antineoplastic Agents, Hormonal"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Ann E Collier",
+        "Stephanie Hilz",
+        "Alejandro M Chibly",
+        "Chunzhe Duan",
+        "Lincoln W Pasquina",
+        "Xiaopeng Sun"
+      ]
+    },
+    {
+      "pmid": "41850242",
+      "title": "Comprehensive single-cell metabolic profiling identifies targets to sensitize triple-negative breast cancer to chemo-immunotherapy.",
+      "abstract": "The treatment of triple-negative breast cancer (TNBC) poses significant challenges, necessitating innovative approaches to identify therapeutic targets. This study presents a cohort of patients with early-stage TNBC receiving neoadjuvant chemotherapy or chemo-immunotherapy, leveraging single-cell RNA sequencing and metabolic analysis to elucidate the impact of metabolic reprogramming on treatment response. Our findings reveal metabolic heterogeneity at levels of metabolic genes, pathways, and fluxes. Cell-type-specific metabolic traits show stronger associations with therapeutic response compared with bulk metabolic features and the proportion of major cell types. We identify a dynamic collaboration between tumor cells and myeloid cells driven by differential glucose utilization and lactate production, which facilitates tumor progression. Monocarboxylate transporter 1 (MCT1) inhibitors disrupt their interaction, enhancing the efficacy of anti-PD-1 and antibody-drug conjugate (ADC) treatments in TNBC mouse models. Overall, our study delineates the single-cell metabolic landscape of TNBC and positions MCT1 as a promising target.",
+      "pub_date": "2026-03-17",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Triple Negative Breast Neoplasms",
+        "Humans",
+        "Female",
+        "Single-Cell Analysis",
+        "Animals",
+        "Monocarboxylic Acid Transporters",
+        "Mice",
+        "Immunotherapy",
+        "Symporters"
+      ],
+      "chemicals": [
+        "Monocarboxylic Acid Transporters",
+        "Symporters"
+      ],
+      "journal": "Cell reports. Medicine",
+      "authors": [
+        "Ying Xu",
+        "Xin-Yi Liu",
+        "Hang Zhang",
+        "Li Chen",
+        "Han Wang",
+        "Zhi-Ming Shao"
+      ]
+    }
+  ]
+}

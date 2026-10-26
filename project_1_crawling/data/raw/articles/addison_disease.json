@@ -1,0 +1,418 @@
+{
+  "disease": "Addison Disease",
+  "slug": "addison_disease",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "30562824",
+      "title": "An Update on Addison's Disease.",
+      "abstract": "Addison's disease - the traditional term for primary adrenal insufficiency (PAI) - is defined as the clinical manifestation of chronic glucocorticoid- and/or mineralocorticoid deficiency due to failure of the adrenal cortex which may result in an adrenal crisis with potentially life-threatening consequences. Even though efficient and safe pharmaceutical preparations for the substitution of endogenous gluco- and mineralocorticoids are established in therapy, the mortality in patients with PAI is still increased and the health-related quality of life (HRQoL) is often reduced.PAI is a rare disease but recent data report an increasing prevalence. In addition to the common \"classical\" causes of PAI like autoimmune, infectious, neoplastic and genetic disorders, other iatrogenic conditions - mostly pharmacological side effects (e.\u2009g., adrenal haemorrhage associated with anticoagulants, drugs affecting glucocorticoid synthesis, action or metabolism and some of the novel anti-cancer checkpoint inhibitors) are contributing factors to this phenomenon.Due to the rarity of the disease and often non-specific symptoms at least in the early stages, PAI is frequently not considered resulting in a delayed diagnosis. Successful therapy is mainly based on adequate patient education as a cornerstone in the prevention and management of adrenal crisis. A focus of current research is in the development of pharmacokinetically optimized glucocorticoid preparations as well as regenerative therapies.",
+      "pub_date": "2019-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Humans"
+      ],
+      "chemicals": [],
+      "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+      "authors": [
+        "Andreas Barthel",
+        "Georg Benker",
+        "Kai Berens",
+        "Sven Diederich",
+        "Burkhard Manfras",
+        "Matthias Gruber"
+      ]
+    },
+    {
+      "pmid": "31321757",
+      "title": "Epidemiology, pathogenesis, and diagnosis of Addison's disease in adults.",
+      "abstract": "Addison's disease (AD) is a rare disorder and among adult population in developed countries is most commonly caused by autoimmunity. In contrast, in children genetic causes are responsible for AD in the majority of patients. This review describes epidemiology, pathogenesis, genetics, natural history, clinical manifestations, immunological markers and diagnostic strategies in patients with AD. Standard care treatments including the management of patients during pregnancy and adrenal crises consistent with the recent consensus statement of the European Consortium and the Endocrine Society Clinical Practice Guideline are described. In addition, emerging therapies designed to improve the quality of life and new strategies to modify the natural history of autoimmune AD are discussed. Progress in optimizing replacement therapy for patients with AD has allowed the patients to lead a normal life. However, continuous education of patients and health care professionals of ever-present danger of adrenal crisis is essential to save lives of patients with AD.",
+      "pub_date": "2019-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Adrenal Cortex Hormones",
+        "Adult",
+        "Age Factors",
+        "Female",
+        "Hormone Replacement Therapy",
+        "Humans",
+        "Incidence",
+        "Male",
+        "Prevalence",
+        "Quality of Life",
+        "Sex Factors"
+      ],
+      "chemicals": [
+        "Adrenal Cortex Hormones"
+      ],
+      "journal": "Journal of endocrinological investigation",
+      "authors": [
+        "C Betterle",
+        "F Presotto",
+        "J Furmaniak"
+      ]
+    },
+    {
+      "pmid": "39325772",
+      "title": "Hypoadrenocorticism in cats: a 40-year update.",
+      "abstract": "Addison's disease is a very rare condition in cats, with only approximately 40 cases documented in the past 40 years since it was first described in 1983. While canine hypoadrenocorticism is a well-recognised disorder with clear diagnostic and treatment guidelines, feline hypoadrenocorticism remains a challenge because of its rarity and waxing and waning clinical signs. Furthermore, empirical treatment with corticosteroids, resulting in clinical improvement, contributes to delays in achieving the diagnosis and initiating treatment. Feline hypoadrenocorticism is diagnosed with an adrenocorticotropic hormone (ACTH) stimulation test; a low resting cortisol concentration with an inadequate or absent response to synthetic ACTH is diagnostic. Various ACTH stimulation-testing protocols are reported in published cases, with the majority using three time-limited blood samples. This can be limiting clinically, depending on cats' clinical presentation and behaviour at the veterinary practice and tolerance for procedures. Long-term treatment, similar to canine hypoadrenocorticism, consists of oral corticosteroids, with several formulations licensed in the UK, and mineralocorticoids (desoxycorticosterone pivalate), of which the only available formulation (Zycortal; Dechra) is licensed for dogs and its safety has not been assessed in cats. Feline hypoadrenocorticism occurs worldwide. Although no breed, sex or age association has been reported, cats aged <6 years are overrepresented.",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Cats",
+        "Cat Diseases",
+        "Adrenal Insufficiency",
+        "Adrenocorticotropic Hormone",
+        "Addison Disease",
+        "Adrenal Cortex Hormones"
+      ],
+      "chemicals": [
+        "Adrenocorticotropic Hormone",
+        "Adrenal Cortex Hormones"
+      ],
+      "journal": "Journal of feline medicine and surgery",
+      "authors": [
+        "Magdalena J Glebocka",
+        "Alisdair Boag"
+      ]
+    },
+    {
+      "pmid": "30184160",
+      "title": "Endocrine Toxicity of Cancer Immunotherapy Targeting Immune Checkpoints.",
+      "abstract": "Immune checkpoints are small molecules expressed by immune cells that play critical roles in maintaining immune homeostasis. Targeting the immune checkpoints cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) and programmed death 1 (PD-1) with inhibitory antibodies has demonstrated effective and durable antitumor activity in subgroups of patients with cancer. The US Food and Drug Administration has approved several immune checkpoint inhibitors (ICPis) for the treatment of a broad spectrum of malignancies. Endocrinopathies have emerged as one of the most common immune-related adverse events (irAEs) of ICPi therapy. Hypophysitis, thyroid dysfunction, insulin-deficient diabetes mellitus, and primary adrenal insufficiency have been reported as irAEs due to ICPi therapy. Hypophysitis is particularly associated with anti-CTLA-4 therapy, whereas thyroid dysfunction is particularly associated with anti-PD-1 therapy. Diabetes mellitus and primary adrenal insufficiency are rare endocrine toxicities associated with ICPi therapy but can be life-threatening if not promptly recognized and treated. Notably, combination anti-CTLA-4 and anti-PD-1 therapy is associated with the highest incidence of ICPi-related endocrinopathies. The precise mechanisms underlying these endocrine irAEs remain to be elucidated. Most ICPi-related endocrinopathies occur within 12 weeks after the initiation of ICPi therapy, but several have been reported to develop several months to years after ICPi initiation. Some ICPi-related endocrinopathies may resolve spontaneously, but others, such as central adrenal insufficiency and primary hypothyroidism, appear to be persistent in most cases. The mainstay of management of ICPi-related endocrinopathies is hormone replacement and symptom control. Further studies are needed to determine (i) whether high-dose corticosteroids in the treatment of ICPi-related endocrinopathies preserves endocrine function (especially in hypophysitis), and (ii) whether the development of ICPi-related endocrinopathies correlates with tumor response to ICPi therapy.",
+      "pub_date": "2019-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Antineoplastic Agents, Immunological",
+        "CTLA-4 Antigen",
+        "Diabetes Mellitus, Type 1",
+        "Humans",
+        "Hypophysitis",
+        "Immunotherapy",
+        "Neoplasms",
+        "Programmed Cell Death 1 Receptor",
+        "Thyroid Diseases"
+      ],
+      "chemicals": [
+        "Antineoplastic Agents, Immunological",
+        "CTLA-4 Antigen",
+        "CTLA4 protein, human",
+        "PDCD1 protein, human",
+        "Programmed Cell Death 1 Receptor"
+      ],
+      "journal": "Endocrine reviews",
+      "authors": [
+        "Lee-Shing Chang",
+        "Romualdo Barroso-Sousa",
+        "Sara M Tolaney",
+        "F Stephen Hodi",
+        "Ursula B Kaiser",
+        "Le Min"
+      ]
+    },
+    {
+      "pmid": "16828409",
+      "title": "Addison's disease.",
+      "abstract": "Addison's disease, or primary adrenal insufficiency, results in glucocorticoid and mineralocorticoid deficiency. Orthostatic hypotension, fever, and hypoglycemia characterize acute adrenal crisis, whereas chronic primary adrenal insufficiency presents with a more insidious history of malaise, anorexia, diarrhea, weight loss, joint, and back pain. The cutaneous manifestations include darkening of the skin especially in sun-exposed areas and hyperpigmentation of the palmar creases, frictional surfaces, vermilion border, recent scars, genital skin, and oral mucosa. Measurement of basal plasma cortisol is an insensitive screening test. Synthetic adrenocorticotropin 1-24 at a dose of 250 microg works well as a dynamic test. Elevated plasma levels of adrenocorticotropin and renin confirm the diagnosis. Treatment involves replacement of the deficient hormones.",
+      "pub_date": "2006-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Intramural",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Adrenocorticotropic Hormone",
+        "Aldosterone",
+        "Anti-Inflammatory Agents",
+        "Fludrocortisone",
+        "Glucocorticoids",
+        "Humans",
+        "Hydrocortisone",
+        "Hyperpigmentation",
+        "Prednisone"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents",
+        "Glucocorticoids",
+        "Aldosterone",
+        "Adrenocorticotropic Hormone",
+        "Fludrocortisone",
+        "Prednisone",
+        "Hydrocortisone"
+      ],
+      "journal": "Clinics in dermatology",
+      "authors": [
+        "Lynnette K Nieman",
+        "Maria L Chanco Turner"
+      ]
+    },
+    {
+      "pmid": "24330030",
+      "title": "Consensus statement on the diagnosis, treatment and follow-up of patients with primary adrenal insufficiency.",
+      "abstract": "Primary adrenal insufficiency (PAI), or Addison's disease, is a rare, potentially deadly, but treatable disease. Most cases of PAI are caused by autoimmune destruction of the adrenal cortex. Consequently, patients with PAI are at higher risk of developing other autoimmune diseases. The diagnosis of PAI is often delayed by many months, and most patients present with symptoms of acute adrenal insufficiency. Because PAI is rare, even medical specialists in this therapeutic area rarely manage more than a few patients. Currently, the procedures for diagnosis, treatment and follow-up of this rare disease vary greatly within Europe. The common autoimmune form of PAI is characterized by the presence of 21-hydroxylase autoantibodies; other causes should be sought if no autoantibodies are detected. Acute adrenal crisis is a life-threatening condition that requires immediate treatment. Standard replacement therapy consists of multiple daily doses of hydrocortisone or cortisone acetate combined with fludrocortisone. Annual follow-up by an endocrinologist is recommended with the focus on optimization of replacement therapy and detection of new autoimmune diseases. Patient education to enable self-adjustment of dosages of replacement therapy and crisis prevention is particularly important in this disease. The authors of this document have collaborated within an EU project (Euadrenal) to study the pathogenesis, describe the natural course and improve the treatment for Addison's disease. Based on a synthesis of this research, the available literature, and the views and experiences of the consortium's investigators and key experts, we now attempt to provide a European Expert Consensus Statement for diagnosis, treatment and follow-up.",
+      "pub_date": "2014-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review",
+        "Consensus Statement"
+      ],
+      "mesh_descriptors": [
+        "Acute Disease",
+        "Addison Disease",
+        "Adrenal Cortex",
+        "Adrenal Insufficiency",
+        "Algorithms",
+        "Autoantibodies",
+        "Autoimmunity",
+        "Chronic Disease",
+        "Cortisone",
+        "Diagnosis, Differential",
+        "Drug Administration Schedule",
+        "Drug Interactions",
+        "Emergency Treatment",
+        "Europe",
+        "Female",
+        "Humans",
+        "Hydrocortisone",
+        "Male",
+        "Prednisolone",
+        "Pregnancy",
+        "Pregnancy Complications",
+        "Steroid 21-Hydroxylase"
+      ],
+      "chemicals": [
+        "Autoantibodies",
+        "Prednisolone",
+        "Steroid 21-Hydroxylase",
+        "Cortisone",
+        "Hydrocortisone"
+      ],
+      "journal": "Journal of internal medicine",
+      "authors": [
+        "E S Husebye",
+        "B Allolio",
+        "W Arlt",
+        "K Badenhoop",
+        "S Bensing",
+        "C Betterle"
+      ]
+    },
+    {
+      "pmid": "22907517",
+      "title": "[Addison's disease].",
+      "abstract": "The clinical signs and symptoms of primary adrenal insufficiency are unspecific often causing a delayed diagnosis or even misdiagnosis. In the diagnostic work-up the short synacthen test is regarded as the gold standard. Hydrocortisone and fludrocortisone are the preferred therapy for Addison's disease. The management and surveillance of therapy requires experience and several aspects need to be followed to prevent side effects which might occur due to overtreatment or undertreatment. Very important aspects in therapy are the repeated teaching of the patient and relatives, the issuing of an emergency steroid card and the prescription of a glucocorticoid emergency set. Acute adrenal failure (adrenal crisis), which might be the first manifestation of adrenal insufficiency, is a life-threatening situation requiring immediate glucocorticoid administration and fluid substitution. The most common causes for an adrenal crisis are gastrointestinal infections and fever and discontinuation of glucocorticoid therapy. This article gives an up-to-date overview of diagnostic and therapeutic aspects of Addison's disease.",
+      "pub_date": "2012-09-01",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Adrenocorticotropic Hormone",
+        "Anti-Inflammatory Agents",
+        "Critical Care",
+        "Dehydroepiandrosterone",
+        "Diagnosis, Differential",
+        "Emergencies",
+        "Fludrocortisone",
+        "Fluid Therapy",
+        "Humans",
+        "Hydrocortisone",
+        "Patient Education as Topic",
+        "Risk Factors"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents",
+        "Dehydroepiandrosterone",
+        "Adrenocorticotropic Hormone",
+        "Fludrocortisone",
+        "Hydrocortisone"
+      ],
+      "journal": "Medizinische Klinik, Intensivmedizin und Notfallmedizin",
+      "authors": [
+        "M Quinkler"
+      ]
+    },
+    {
+      "pmid": "36102024",
+      "title": "[Just Anorexia?].",
+      "abstract": "Just Anorexia?",
+      "pub_date": "2022-09-01",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Adult",
+        "Anorexia",
+        "Female",
+        "Humans",
+        "Hydrocortisone",
+        "Hyponatremia",
+        "Polyendocrinopathies, Autoimmune"
+      ],
+      "chemicals": [
+        "Hydrocortisone"
+      ],
+      "journal": "Praxis",
+      "authors": [
+        "Christian Schafroth",
+        "Andreas Oestmann"
+      ]
+    },
+    {
+      "pmid": "12536360",
+      "title": "Corticosteroids and pregnancy.",
+      "abstract": "Pregnancy results in major changes in the hypothalamo-pituitary-adrenal (HPA) axis, which in turn influence fetal growth and the timing of labor. From the beginning of the second trimester maternal cortisol secretion increases, and in late pregnancy the placenta, in large part mediated through corticotroph-releasing hormone, plays a crucial role in the regulation of the fetal HPA axis to ensure the synchronization of the various processes involved in parturition. Exposure of the fetus to excess glucocorticoid results in intrauterine growth failure and possibly \"programs\" the development of cardiovascular disease in adult life. Biochemical assessment of the HPA axis is complicated by the estrogen-induced elevation of circulating cortisol-binding globulin, resulting in misleadingly high circulating cortisol levels The hypercortisolemia of Cushing's syndrome causes infertility, but if pregnancy does occur it can result in increased morbidity and mortality in mother and fetus. However, the prospects of a successful pregnancy are greatly improved with control of hypercortisolemia by surgery and medical therapy with metyrapone. Hypoadrenalism can be difficult to diagnose during pregnancy but, once the diagnosis is made, with careful monitoring, dose adjustment as indicated, and parenteral cover for labor, a successful pregnancy should result.",
+      "pub_date": "2002-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Adrenal Cortex Hormones",
+        "Animals",
+        "Cushing Syndrome",
+        "Female",
+        "Hydrocortisone",
+        "Hypothalamo-Hypophyseal System",
+        "Ketoconazole",
+        "Pregnancy",
+        "Pregnancy Complications",
+        "Prenatal Exposure Delayed Effects",
+        "Pyridines"
+      ],
+      "chemicals": [
+        "Adrenal Cortex Hormones",
+        "Pyridines",
+        "metapyrone",
+        "Ketoconazole",
+        "Hydrocortisone"
+      ],
+      "journal": "Seminars in reproductive medicine",
+      "authors": [
+        "Peter J Trainer"
+      ]
+    },
+    {
+      "pmid": "17077949",
+      "title": "Isolated corticotrophin deficiency.",
+      "abstract": "Isolated ACTH deficiency (IAD) is a rare disorder, characterized by secondary adrenal insufficiency (AI) with low or absent cortisol production, normal secretion of pituitary hormones other than ACTH and the absence of structural pituitary defects. In adults, IAD may appear after a traumatic injury or a lymphocytic hypophysitis, the latter possibly due to autoimmune etiology. Conversely, a genetic origin may come into play in neonatal or childhood IAD. Patients with IAD usually fare relatively well during unstressed periods until intervening events spark off an acute adrenal crisis presenting with non specific symptoms, such as asthenia, anorexia, unintentional weight loss and tendency towards hypoglycemia. Blood chemistry may reveal mild hypoglycemia, hyponatremia and normal-high potassium levels, mild anemia, lymphocytosis and eosinophilia. Morning serum cortisol below 3 microg/dl are virtually diagnostic for adrenal insufficiency. whereas cortisol values comprised between 5-18 microg/dl require additional investigations: insulin tolerance test (ITT) is considered the gold standard but-when contraindicated-high or low dose-ACTH stimulation test with serum cortisol determination provides a viable alternative. Plasma ACTH concentration and prolonged ACTH infusion test are useful in differential diagnosis between primary and secondary adrenal insufficiency. For some patients with mild, near-to-asymptomatic disease, glucocorticoid replacement therapy may not be required except during stressful events; for symptomatic patients, replacement doses i.e., mean daily dose 20 mg (0.30 mg/kg) hydrocortisone or 25 mg (0.35 mg/kg) cortisone acetate, are usually sufficient. Administration of mineralocorticoids is generally not necessary as their production is maintained.",
+      "pub_date": "2006-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Adrenal Insufficiency",
+        "Adrenocorticotropic Hormone",
+        "Biomarkers",
+        "Diagnosis, Differential",
+        "Glucocorticoids",
+        "Hormone Replacement Therapy",
+        "Humans",
+        "Hydrocortisone",
+        "Insulin",
+        "Mineralocorticoids",
+        "Risk Factors",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Biomarkers",
+        "Glucocorticoids",
+        "Insulin",
+        "Mineralocorticoids",
+        "Adrenocorticotropic Hormone",
+        "Hydrocortisone"
+      ],
+      "journal": "Pituitary",
+      "authors": [
+        "Massimiliano Andrioli",
+        "Francesca Pecori Giraldi",
+        "Francesco Cavagnini"
+      ]
+    },
+    {
+      "pmid": "32192601",
+      "title": "Leopard skin.",
+      "abstract": "",
+      "pub_date": "2020-05-01",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Female",
+        "Glucocorticoids",
+        "Humans",
+        "Hyperpigmentation",
+        "Middle Aged"
+      ],
+      "chemicals": [
+        "Glucocorticoids"
+      ],
+      "journal": "The lancet. Diabetes & endocrinology",
+      "authors": [
+        "Holger Henneicke",
+        "Wulf Tonnus",
+        "Lorenz C Hofbauer"
+      ]
+    },
+    {
+      "pmid": "31791082",
+      "title": "[The Schmidt's Syndrome].",
+      "abstract": "We report the case within a 22-year-old patient, initially seen because of fatigue, weight loss and discoloration of the skin. A Hashimoto-Thyroditis had been diagnosed a few months prior to the clinical presentation. Blood samples showed a hyponatremia and hyperkalemia. Addison's disease was diagnosed by management of cortisol, ACTH and adrenal antibodies. In combination with the previously diagnosed Autoimmune thyreoiditis the criteria for a Schmidt's Syndrome were fulfilled. We initiated the substitution of Hydrocortisone (20\u200amg/d) and Fludrocortisone (0.1\u200amg/d) in combination with an increased levothyroxin-dosage (100\u200a\u00b5g/d). The patient's condition improved over the course of a few days. The presented case underlines the importance of focused examinations and diagnostics when dealing with a patient with unspecific symptoms and a pre-existing autoimmune disease. This also applies to patients with a positive family history for autoimmune disorders.",
+      "pub_date": "2019-12-01",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Addison Disease",
+        "Adult",
+        "Cortisone",
+        "Female",
+        "Hashimoto Disease",
+        "Humans",
+        "Hyperkalemia",
+        "Hyponatremia",
+        "Polyendocrinopathies, Autoimmune",
+        "Thyroxine",
+        "Young Adult"
+      ],
+      "chemicals": [
+        "Thyroxine",
+        "Cortisone"
+      ],
+      "journal": "Deutsche medizinische Wochenschrift (1946)",
+      "authors": [
+        "Bonnie Stahn",
+        "Lorenz Scheit"
+      ]
+    }
+  ]
+}

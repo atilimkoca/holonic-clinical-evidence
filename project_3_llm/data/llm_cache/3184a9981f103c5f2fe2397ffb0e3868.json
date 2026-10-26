@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\noegen:node_12345 a holon:ClinicalQuestionHolon ;\n    holon:hasBoundaryGraph <https://example.org/openevidence/graphs/boundary_12345> ;\n    holon:hasContextGraph <https://example.org/openevidence/graphs/context_12345> ;\n    holon:hasInteriorGraph <https://example.org/openevidence/graphs/interior_12345> ;\n    holon:hasProjectionGraph <https://example.org/openevidence/graphs/projection_12345> ;\n    oe:answerText \"Furosemide is effective in the treatment of acute kidney injury.\"^^xsd:string ;\n    oe:questionText \"What is an effective treatment for acute kidney injury?\"^^xsd:string ;\n    oe:belongsToSpecialty \"Nephrology\" ;\n    <https://example.org/openevidence/drugs/furosemide> oe:treats <https://example.org/openevidence/diseases/acute_kidney_injury> .",
+  "provider": "ollama",
+  "model": "qwen3:8b",
+  "prompt_tokens": 822,
+  "completion_tokens": 365,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1187
+}

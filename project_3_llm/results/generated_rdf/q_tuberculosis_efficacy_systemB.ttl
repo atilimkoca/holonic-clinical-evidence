@@ -1,0 +1,33 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_tuberculosis_efficacy> a holon:ClinicalQuestionHolon ;
+    oe:questionText "How effective is isoniazid compared with other agents for Tuberculosis?"^^xsd:string ;
+    oe:answerText "Mycobacterium tuberculosis (Mtb), the causative agent of tuberculosis, remains the deadliest human pathogen. Treatment is hampered by drug resistance and the persistence of slow-growing or non-replicating populations."^^xsd:string ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_tuberculosis_efficacy-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_tuberculosis_efficacy-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_tuberculosis_efficacy-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_tuberculosis_efficacy-con> .
+
+<https://example.org/openevidence/drugs/isoniazid> oe:treats <https://example.org/openevidence/diseases/tuberculosis> .
+<https://example.org/openevidence/generated/ev_q_tuberculosis_efficacy_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_tuberculosis_efficacy_0-tt> ;
+    holon:confidence "0.56"^^xsd:decimal ;
+    holon:evidenceLevel "Level-3" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/41339746> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_tuberculosis_efficacy> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_tuberculosis_efficacy_0-tt> rdf:subject <https://example.org/openevidence/drugs/isoniazid> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/tuberculosis> .
+
+<https://example.org/openevidence/drugs/atorvastatin> oe:treats <https://example.org/openevidence/diseases/coronary_artery_disease> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/levothyroxine> oe:treats <https://example.org/openevidence/diseases/hypothyroidism> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/addison_disease> .   # ungrounded (naive)

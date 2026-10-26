@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_schizophrenia_efficacy a holon:EntityEntry ;
+    holon:entity oed:schizophrenia ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_schizophrenia_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_schizophrenia_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.92 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_schizophrenia_efficacy ;
+    holon:recordedOn "2026-02-01"^^xsd:date ;
+    oe:cites oesrc:40854216 ;
+    oe:effectiveness "effective" .
+
+oedrug:risperidone oe:treats oed:schizophrenia .
+
+oeevt:ev_q_schizophrenia_efficacy-tt rdf:object oed:schizophrenia ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:risperidone .
+
+oeq:q_schizophrenia_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is risperidone compared with other agents for Schizophrenia?"@en ;
+    prov:generatedAtTime "2026-02-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.94 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_schizophrenia_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_schizophrenia_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_schizophrenia_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_schizophrenia_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Schizophrenia with risperidone."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_schizophrenia_safety ;
+    holon:recordedOn "2026-02-01"^^xsd:date ;
+    holon:summaryConfidence 0.92 ;
+    oe:aboutDisease oed:schizophrenia ;
+    oe:answerText "Rapid changes in the legalized cannabis market have led to the predominance of high-concentration delta-9-tetrahydrocannabinol (THC) cannabis products. To systematically review associations of high-concentration THC cannabis products with mental health outcomes."^^xsd:string ;
+    oe:belongsToSpecialty "Psychiatry" ;
+    oe:cites oesrc:40675714,
+        oesrc:40830715,
+        oesrc:40854216,
+        oesrc:41335431 ;
+    oe:questionText "How effective is risperidone compared with other agents for Schizophrenia?"^^xsd:string .
+

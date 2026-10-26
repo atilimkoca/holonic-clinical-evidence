@@ -1,0 +1,13 @@
+{
+  "core_facts_A": 11329,
+  "core_facts_B": 11329,
+  "core_equal": true,
+  "assertions_A": 204,
+  "assertions_B": 204,
+  "assertions_equal": true,
+  "bijection_holds": true,
+  "core_only_in_A": 0,
+  "core_only_in_B": 0,
+  "assertions_only_in_A": 0,
+  "assertions_only_in_B": 0
+}

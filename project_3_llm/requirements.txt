@@ -1,0 +1,21 @@
+# Project 3 — LLM Integration & Context Optimization (Student C)
+# Python 3.9+ (assignment targets 3.10+; code is written to run on 3.9 too,
+# matching Project 2). Everything below the line is OPTIONAL: the default
+# pipeline runs fully offline on the deterministic mock provider.
+rdflib>=7.0          # RDF graphs/datasets, SPARQL, Turtle I/O
+pyshacl>=0.27        # SHACL validation via Project 2's validate_graph
+scipy>=1.10          # Shapiro-Wilk, paired t-test, Wilcoxon, bootstrap helpers
+statsmodels>=0.14    # Cohen's kappa (inter-annotator agreement), McNemar if needed
+numpy>=1.23          # vector math for the lexical retriever + stats
+matplotlib>=3.6      # result figures
+pytest>=7.0          # test suite
+
+# --- OPTIONAL real-LLM backends (activate via P3_LLM_PROVIDER) --------------
+# openai>=1.0              # P3_LLM_PROVIDER=openai   (needs OPENAI_API_KEY)
+# anthropic>=0.39          # P3_LLM_PROVIDER=anthropic(needs ANTHROPIC_API_KEY)
+# ollama>=0.3              # P3_LLM_PROVIDER=ollama   (local daemon)
+# sentence-transformers>=2.2  # optional neural retriever (default is lexical TF-IDF)
+
+# --- OPTIONAL live Neo4J (Difficulty D; degrades to emitted Cypher) ---------
+# neo4j>=5.0               # NEO4J_URI / NEO4J_USER / NEO4J_PASS
+# notebook>=7.0            # to execute results/analysis.ipynb

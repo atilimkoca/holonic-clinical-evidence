@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_heart_failure_efficacy a holon:EntityEntry ;
+    holon:entity oed:heart_failure ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_heart_failure_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_heart_failure_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.55 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_heart_failure_efficacy ;
+    holon:recordedOn "2026-01-01"^^xsd:date ;
+    oe:cites oesrc:41052644 ;
+    oe:effectiveness "effective" .
+
+oedrug:sacubitril_valsartan oe:treats oed:heart_failure .
+
+oeevt:ev_q_heart_failure_efficacy-tt rdf:object oed:heart_failure ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:sacubitril_valsartan .
+
+oeq:q_heart_failure_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is sacubitril valsartan compared with other agents for Heart Failure?"@en ;
+    prov:generatedAtTime "2026-01-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.33 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_heart_failure_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_heart_failure_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_heart_failure_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_heart_failure_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Heart Failure with sacubitril valsartan."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_heart_failure_safety ;
+    holon:recordedOn "2026-01-01"^^xsd:date ;
+    holon:summaryConfidence 0.55 ;
+    oe:aboutDisease oed:heart_failure ;
+    oe:answerText "Sodium-glucose cotransporter-2 inhibitors (SGLT2i) and the nonsteroidal mineralocorticoid receptor antagonist (nsMRA) finerenone have each been shown to individually improve heart failure events among patients with heart failure and mildly reduced or preserved ejection fraction (HFmrEF/HFpEF). Moreover, the angiotensin receptor neprilysin inhibitor (ARNI) sacubitril/valsartan has been shown to improve outcomes in patients with HFmrEF/HFpEF with a left ventricular ejection fraction (LVEF) below normal (<60%)."^^xsd:string ;
+    oe:belongsToSpecialty "Cardiology" ;
+    oe:cites oesrc:41052644,
+        oesrc:41136062,
+        oesrc:41136067,
+        oesrc:41384556 ;
+    oe:questionText "How effective is sacubitril valsartan compared with other agents for Heart Failure?"^^xsd:string .
+

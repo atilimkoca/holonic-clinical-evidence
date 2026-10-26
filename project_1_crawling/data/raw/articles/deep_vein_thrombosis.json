@@ -1,0 +1,467 @@
+{
+  "disease": "Deep Vein Thrombosis",
+  "slug": "deep_vein_thrombosis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40162636",
+      "title": "Extended Reduced-Dose Apixaban for Cancer-Associated Venous Thromboembolism.",
+      "abstract": "In patients with active cancer and venous thromboembolism, whether extended treatment with a reduced dose of an oral anticoagulant is effective in preventing recurrent thromboembolic events and decreasing bleeding is unclear. We conducted a randomized, double-blind, noninferiority trial with blinded central outcome adjudication. Consecutive patients with active cancer and proximal deep-vein thrombosis or pulmonary embolism who had completed at least 6 months of anticoagulant therapy were randomly assigned in a 1:1 ratio to receive oral apixaban at a reduced (2.5 mg) or full (5.0 mg) dose twice daily for 12 months. The primary outcome was centrally adjudicated fatal or nonfatal recurrent venous thromboembolism, assessed in a noninferiority analysis (margin of 2.00 for the upper boundary of the 95% confidence interval of the subhazard ratio). The key secondary outcome was clinically relevant bleeding, assessed in a superiority analysis. A total of 1766 patients underwent randomization at a median time since the index event of 8.0 months (interquartile range, 6.5 to 12.6); 866 patients were assigned to the reduced-dose group, and 900 to the full-dose group. The median treatment duration was 11.8 months (interquartile range, 8.3 to 12.1). Recurrent venous thromboembolism occurred in 18 patients (cumulative incidence, 2.1%) in the reduced-dose group and in 24 (cumulative incidence, 2.8%) in the full-dose group (adjusted subhazard ratio, 0.76; 95% confidence interval [CI], 0.41 to 1.41; P\u2009=\u20090.001 for noninferiority). Clinically relevant bleeding occurred in 102 patients (cumulative incidence, 12.1%) in the reduced-dose group and in 136 (cumulative incidence, 15.6%) in the full-dose group (adjusted subhazard ratio, 0.75; 95% CI, 0.58 to 0.97; P\u2009=\u20090.03). Mortality was 17.7% in the reduced-dose group and 19.6% in the full-dose group (adjusted hazard ratio, 0.96; 95% CI, 0.86 to 1.06). Extended anticoagulation with reduced-dose apixaban was noninferior to full-dose apixaban for the prevention of recurrent venous thromboembolism in patients with active cancer. The reduced dose led to a lower incidence of clinically relevant bleeding complications than the full dose. (Funded by the Bristol-Myers Squibb-Pfizer Alliance; API-CAT ClinicalTrials.gov number, NCT03692065.).",
+      "pub_date": "2025-04-10",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Administration, Oral",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Factor Xa Inhibitors",
+        "Hemorrhage",
+        "Neoplasms",
+        "Pulmonary Embolism",
+        "Pyrazoles",
+        "Pyridones",
+        "Recurrence",
+        "Venous Thrombosis",
+        "Dose-Response Relationship, Drug",
+        "Incidence"
+      ],
+      "chemicals": [
+        "apixaban",
+        "Factor Xa Inhibitors",
+        "Pyrazoles",
+        "Pyridones"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Isabelle Mah\u00e9",
+        "Marc Carrier",
+        "Didier Mayeur",
+        "Jean Chidiac",
+        "Eric Vicaut",
+        "Nicolas Falvo"
+      ]
+    },
+    {
+      "pmid": "41812192",
+      "title": "Bleeding Risk with Apixaban vs. Rivaroxaban in Acute Venous Thromboembolism.",
+      "abstract": "Apixaban and rivaroxaban are the oral anticoagulants most frequently used to treat acute venous thromboembolism. However, uncertainty remains about the difference in bleeding risk between the two medications. In an international trial with a prospective, randomized, open-label, blinded end-point design, we assigned, in a 1:1 ratio, eligible patients with acute symptomatic pulmonary embolism or proximal deep-vein thrombosis to receive apixaban or rivaroxaban for 3 months. Apixaban was given at a dose of 10 mg twice daily for 7 days followed by 5 mg twice daily, and rivaroxaban was given at a dose of 15 mg twice daily for 21 days followed by 20 mg daily. The primary outcome was clinically relevant bleeding, a composite of major bleeding or clinically relevant nonmajor bleeding, as defined according to the International Society on Thrombosis and Haemostasis, during the 3-month trial period. Secondary outcomes included death from any cause. A total of 2760 patients underwent randomization: 1370 to the apixaban group and 1390 to the rivaroxaban group. A primary-outcome event occurred in 44 of 1345 patients (3.3%) in the apixaban group and 96 of 1355 patients (7.1%) in the rivaroxaban group (relative risk, 0.46; 95% confidence interval [CI], 0.33 to 0.65; P<0.001). Death from any cause occurred in 1 patient (0.1%) in the apixaban group and in 4 patients (0.3%) in the rivaroxaban group (relative risk, 0.25; 95% CI, 0.03 to 2.26). Serious adverse events unrelated to bleeding or venous thrombosis occurred in 36 patients (2.7%) in the apixaban group and in 30 patients (2.2%) in the rivaroxaban group. Among patients with acute venous thromboembolism, the risk of clinically relevant bleeding was significantly lower with apixaban than with rivaroxaban during the 3-month treatment period. (Funded by the Canadian Institutes of Health Research and others; COBRRA ClinicalTrials.gov number, NCT03266783.).",
+      "pub_date": "2026-03-12",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Acute Disease",
+        "Anticoagulants",
+        "Factor Xa Inhibitors",
+        "Hemorrhage",
+        "Prospective Studies",
+        "Pulmonary Embolism",
+        "Pyrazoles",
+        "Pyridones",
+        "Risk",
+        "Rivaroxaban",
+        "Venous Thromboembolism",
+        "Venous Thrombosis",
+        "Drug Administration Schedule",
+        "Incidence"
+      ],
+      "chemicals": [
+        "Anticoagulants",
+        "apixaban",
+        "Factor Xa Inhibitors",
+        "Pyrazoles",
+        "Pyridones",
+        "Rivaroxaban"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Lana A Castellucci",
+        "Vivien M Chen",
+        "Michael J Kovacs",
+        "Alejandro Lazo-Langner",
+        "Peter Greenstreet",
+        "Susan Kahn"
+      ]
+    },
+    {
+      "pmid": "39938684",
+      "title": "Basics of diagnosis and treatment of venous thromboembolism.",
+      "abstract": "Venous thromboembolism (VTE), comprising deep vein thrombosis and pulmonary embolism (PE), is common and associated with significant morbidity and mortality. The symptoms and signs of VTE are nonspecific. Well-established integrated diagnostic strategies combining clinical probability scores and D-dimer are used to identify patients with a low probability of VTE, where the diagnosis can be safely excluded without imaging. In patients with confirmed VTE, anticoagulation is the mainstay of treatment. However, patients with high-risk features at presentation may benefit from advanced reperfusion therapies such as thrombolysis and/or interventional approaches to reduce early mortality and/or long-term morbidity. The advent of direct oral anticoagulants has greatly simplified the treatment of VTE for most patients, with a persisting role for low molecular weight heparin and vitamin K antagonists in select patient groups. Following an initial 3 to 6 months of anticoagulation, those with major transient provoking factors can safely discontinue anticoagulation. Balancing the risk of recurrent VTE and bleeding risk is central to decisions regarding long-term anticoagulation, and patients should be included in shared decision-making. Assessment and recognition of common long-term complications such as postthrombotic syndrome and post-PE syndrome are also essential, given they are associated with significant adverse impact on long-term quality of life, with a significant risk of mortality associated with the less frequent complication of chronic thromboembolic pulmonary hypertension. This review provides a basic overview and framework for the diagnostic approach to deep vein thrombosis and PE, risk stratification of confirmed diagnoses, and management.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Venous Thromboembolism",
+        "Anticoagulants",
+        "Risk Factors",
+        "Pulmonary Embolism",
+        "Venous Thrombosis",
+        "Treatment Outcome",
+        "Hemorrhage",
+        "Predictive Value of Tests",
+        "Risk Assessment",
+        "Blood Coagulation",
+        "Fibrin Fibrinogen Degradation Products",
+        "Recurrence"
+      ],
+      "chemicals": [
+        "Anticoagulants",
+        "Fibrin Fibrinogen Degradation Products"
+      ],
+      "journal": "Journal of thrombosis and haemostasis : JTH",
+      "authors": [
+        "Catrin Cox",
+        "Lara N Roberts"
+      ]
+    },
+    {
+      "pmid": "39492709",
+      "title": "Treatment of cerebral venous thrombosis: a review.",
+      "abstract": "Cerebral venous thrombosis (CVT) is an uncommon cause of stroke. COVID-19 infection and vaccination have been associated with CVT. Fibrinolysis and mechanical thrombectomy may play an emerging role in management. We conducted a literature review summarizing current evidence on use of antiplatelets, anticoagulants, thrombolysis, and mechanical thrombectomy for the management of CVT and COVID-19 related CVT. This was achieved through a review of MEDLINE, PubMed, and Cochrane Reviews databases, performed using the search terms CVT AND \"antiplatelets' aspirin\", \"ticagrelor\", \"clopidogrel\", \"eptifibatide\", \"Low-molecular-weight-heparin (LMWH)\", \"Unfractionated heparin (UH)\", \"warfarin\", \"DOACs\", \"rivaroxaban\", \"apixaban\", \"dabigatran\", \"fibrinolysis\", \"intra-sinus thrombolysis\", \"mechanical thrombectomy\", and \"craniectomy\". We found that LMWH and UH are safe and effective for the management of acute CVT and should be considered first line. Warfarin may be used in the sub-acute phase for secondary prevention but has weak evidence. DOACs are potentially a safe warfarin alternative, but only warfarin is currently recommended in international guidelines. Antiplatelets show little evidence for the prevention or management of CVT, but studies are currently limited. COVID-19 related CVT is treated similarly to non-COVID-19 CVT; however, vaccine-related CVT is a newly recognised disease with a different pathophysiology and is treated with a combination of non-heparin anticoagulants, immunotherapy, and steroids. Decompressive craniectomy may be used to reduce intracranial pressure in life-threatening cases. There is a small body of evidence for endovascular therapy in complex cases but should be reserved for complex cases in specialist centres. This paper is of relevance to clinical practice since the safe and effective management of CVT is important to reduce the risk of disability.",
+      "pub_date": "2024-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Intracranial Thrombosis",
+        "Venous Thrombosis",
+        "Anticoagulants",
+        "COVID-19",
+        "Platelet Aggregation Inhibitors",
+        "Thrombectomy",
+        "Thrombolytic Therapy",
+        "SARS-CoV-2"
+      ],
+      "chemicals": [
+        "Anticoagulants",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "journal": "Current medical research and opinion",
+      "authors": [
+        "Hamish Patel",
+        "India Lunn",
+        "Sajid Hameed",
+        "Maria Khan",
+        "Fazeel M Siddiqui",
+        "Afshin Borhani"
+      ]
+    },
+    {
+      "pmid": "40023651",
+      "title": "Extended treatment of venous thromboembolism with reduced-dose versus full-dose direct oral anticoagulants in patients at high risk of recurrence: a non-inferiority, multicentre, randomised, open-label, blinded endpoint trial.",
+      "abstract": "In patients with venous thromboembolism at high risk of recurrence for whom extended treatment with direct oral anticoagulants has been indicated, the optimal dose is unknown. We aimed to assess efficacy and safety of reduced-dose versus full-dose direct oral anticoagulants in patients in whom extended anticoagulation has been indicated. RENOVE was a non-inferiority, investigator-initiated, multicentre, randomised, open-label, blinded endpoint trial done in 47 hospitals in France. Ambulatory patients aged 18 years or older with acute symptomatic venous thromboembolism (pulmonary embolism or proximal deep vein thrombosis) who had received 6-24 uninterrupted months of full-dose anticoagulation and for whom extended anticoagulation has been indicated were eligible. Eligible participants were categorised as having either a first unprovoked venous thromboembolism, recurrent venous thromboembolism, presence of persistent risk factors, or other clinical situations considered to be a high risk of recurrence. Participants were randomly assigned (1:1) to receive oral treatment with either a reduced dose of apixaban (2\u00b75 mg twice daily) or rivaroxaban (10 mg once daily) or a full dose of apixaban (5 mg twice daily) or rivaroxaban (20 mg once daily) using a centralised randomisation procedure with an interactive web response system. The sequence generation method was a computerised random number generator and was balanced by blocks of different sizes. Randomisation was stratified by centre, type of direct oral anticoagulant, and antiplatelet drug. Physicians and participants were unmasked to treatment allocation; recurrent venous thromboembolism, clinically relevant bleeding, and all-cause death were adjudicated by an independent committee blinded to treatment allocation. The primary outcome was symptomatic recurrent venous thromboembolism, including recurrent fatal or non-fatal pulmonary embolism or isolated proximal deep vein thrombosis (non-inferiority hypothesis 90% power to exclude a hazard ratio [HR] of 1\u00b77). The primary outcome and first two secondary outcomes were included in a hierarchical testing procedure. This trial is registered with ClinicalTrials.gov, NCT03285438. From Nov 2, 2017, to July 6, 2022, 2768 patients were enrolled and randomly assigned to the reduced-dose group (n=1383) or the full-dose group (n=1385). 970 (35\u00b70%) participants were female, 1797 (65\u00b70%) were male, and one (<0\u00b71%) had sex not reported. Median follow-up was 37\u00b71 months (IQR 24\u00b70-48\u00b73). Recurrent venous thromboembolism occurred in 19 of 1383 patients in the reduced-dose group (5-year cumulative incidence 2\u00b72% [95% CI 1\u00b71-3\u00b73]) versus 15 of 1385 patients in the full-dose group (5-year cumulative incidence 1\u00b78% [0\u00b78-2\u00b77]; adjusted HR 1\u00b732 [95% CI 0\u00b767-2\u00b760]; absolute difference 0\u00b740% [95% CI -1\u00b705 to 1\u00b785]; p=0\u00b723 for non-inferiority). Major or clinically relevant bleeding occurred in 96 patients in the reduced-dose group (5-year cumulative incidence 9\u00b79% [95% CI 7\u00b77-12\u00b71]) and 154 patients in the full-dose group (5-year cumulative incidence 15\u00b72% [12\u00b78-17\u00b76]; adjusted HR 0\u00b761 [95% CI 0\u00b748-0\u00b779]). 1136 (82\u00b71%) of 1383 patients in the reduced-dose group and 1150 (83\u00b70%) of 1385 in the full-dose group had an adverse event; 374 (27\u00b70%) patients in the reduced-dose group and 420 (30\u00b73%) in the full-dose group has a serious adverse event. 35 (5-year cumulative incidence 4\u00b73% [95% CI 2\u00b76-6\u00b70]) patients in the reduced-dose group and 54 (5-year cumulative incidence 6\u00b71% [4\u00b73-8\u00b70]) patients in the full-dose group died during the study period. In patients with venous thromboembolism requiring extended anticoagulation, reduction of the direct oral anticoagulant dose did not meet the non-inferiority criteria. However, the low recurrence rates in both groups and substantial reduction of clinically relevant bleeding with the reduced dose could support this regimen as an option. Further research will be needed to identify subgroups for whom the anticoagulation dose should not be reduced. French Ministry of Health.",
+      "pub_date": "2025-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Equivalence Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Venous Thromboembolism",
+        "Pyridones",
+        "Administration, Oral",
+        "Aged",
+        "Rivaroxaban",
+        "Pyrazoles",
+        "Anticoagulants",
+        "Recurrence",
+        "Factor Xa Inhibitors",
+        "Pulmonary Embolism",
+        "Treatment Outcome",
+        "Adult",
+        "France",
+        "Hemorrhage",
+        "Secondary Prevention",
+        "Venous Thrombosis",
+        "Drug Administration Schedule"
+      ],
+      "chemicals": [
+        "Pyridones",
+        "apixaban",
+        "Rivaroxaban",
+        "Pyrazoles",
+        "Anticoagulants",
+        "Factor Xa Inhibitors"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Francis Couturaud",
+        "Jeannot Schmidt",
+        "Olivier Sanchez",
+        "Alice Ballerie",
+        "Marie-Antoinette Sevestre",
+        "Nicolas Meneveau"
+      ]
+    },
+    {
+      "pmid": "39469812",
+      "title": "Update on management of cerebral venous thrombosis.",
+      "abstract": "This review intends to systematize the diagnostic and treatment approach to cerebral venous thrombosis (CVT), highlighting key studies that have been recently published. In light of the recent pandemic, new risk factors for CVT have emerged. Contrast-enhanced MRI and susceptibility-weighted imaging have been shown to offer increased sensitivity for detecting cortical vein thrombosis.Dabigatran seems to be as effective and well tolerated as warfarin for long-term anticoagulation. Partial venous recanalization often occurs in patients treated with anticoagulation only, as early as 8\u200adays after treatment onset. For patients with CVT and impending brain herniation, two-thirds of those who undergo decompressive craniectomy survive, with one-third being functionally independent 6 months after diagnosis. CVT is an unusual type of cerebrovascular disease that mostly affects women of fertile age. Risk factors should be identified and addressed. Diagnosis relies on confirmation of venous sinus and/or vein thrombosis, usually by CT venography or MRI. Anticoagulation is the cornerstone of treatment. Despite the lack of high-quality evidence, endovascular treatment is often considered in severe cases. Special populations require tailored approaches. About 80% achieve mRS 0-1, but residual symptoms often affect quality of life and the ability to return to work.",
+      "pub_date": "2025-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Venous Thrombosis",
+        "Intracranial Thrombosis",
+        "Anticoagulants",
+        "Risk Factors"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "Current opinion in neurology",
+      "authors": [
+        "Sara Rosa",
+        "Isabel Fragata",
+        "Diana Aguiar de Sousa"
+      ]
+    },
+    {
+      "pmid": "38823454",
+      "title": "Anticoagulation for stroke prevention in atrial fibrillation and treatment of venous thromboembolism and portal vein thrombosis in cirrhosis: guidance from the SSC of the ISTH.",
+      "abstract": "While advanced liver disease was previously considered to be an acquired bleeding disorder, there is increasing recognition of an associated prothrombotic state with patients being at higher risk of atrial fibrillation (AF) and stroke and venous thromboembolism (VTE) including portal vein thrombosis (PVT). We review the available literature on epidemiology, pathophysiology, and risk factors and provide guidance on anticoagulant management of these conditions in adults with cirrhosis. In patients with Child-Pugh A or B cirrhosis and AF, we recommend anticoagulation with standard-dose direct oral anticoagulants (DOACs) in accordance with cardiology guideline recommendations for patients without liver disease. In those with Child-Pugh C cirrhosis, there is inadequate evidence with respect to the benefit and risk of anticoagulation for stroke prevention in AF. In patients with cirrhosis and acute deep vein thrombosis or pulmonary embolism, we recommend anticoagulation and suggest use of either a DOAC or low-molecular-weight heparin (LMWH)/vitamin K antagonist (VKA) in Child-Pugh A or B cirrhosis and LMWH alone (or as a bridge to VKA in patients with a normal baseline international normalized ratio) in Child-Pugh C cirrhosis. We recommend anticoagulation for patients with cirrhosis and symptomatic PVT. We suggest anticoagulation for those with asymptomatic, progressing PVT and recommend continuing extended anticoagulation for liver transplant candidates with PVT.",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Atrial Fibrillation",
+        "Liver Cirrhosis",
+        "Portal Vein",
+        "Anticoagulants",
+        "Risk Factors",
+        "Venous Thromboembolism",
+        "Venous Thrombosis",
+        "Stroke",
+        "Treatment Outcome",
+        "Hemorrhage",
+        "Blood Coagulation",
+        "Risk Assessment",
+        "Heparin, Low-Molecular-Weight"
+      ],
+      "chemicals": [
+        "Anticoagulants",
+        "Heparin, Low-Molecular-Weight"
+      ],
+      "journal": "Journal of thrombosis and haemostasis : JTH",
+      "authors": [
+        "Stephanie Carlin",
+        "Adam Cuker",
+        "Alexander Gatt",
+        "Nicolas Gendron",
+        "Virginia Hern\u00e1ndez-Gea",
+        "Karina Meijer"
+      ]
+    },
+    {
+      "pmid": "40132161",
+      "title": "Metabolic pathways in deep vein thrombosis: a new frontier for therapeutic intervention.",
+      "abstract": "Venous thromboembolism, which includes deep vein thrombosis (DVT) and pulmonary embolism, is a common cardiovascular disorder associated with significant morbidity and mortality. Current treatment options primarily involve anticoagulants, which reduce the risk of fatal events and DVT recurrence but increase the risk of bleeding, particularly in people requiring prolonged thromboprophylaxis. Growing evidence characterizes DVT as a complex inflammation-driven process rather than a merely coagulation-dependent thrombosis, with endothelial cells, neutrophils, and platelets playing major roles in its initiation. Recent studies demonstrate that these cell types undergo profound metabolic reprogramming in response to stasis, hypoxia, and inflammatory stimuli, including shifts in glycolysis, the pentose phosphate pathway, and redox balance. This review summarizes current insights into these metabolic adaptations, examines evidence from preclinical DVT models showing that targeting metabolic pathways can reduce venous thrombus formation without impairing hemostasis, and highlights potential metabolic targets for intervention. By modulating metabolic pathways that underlie the prothrombotic and proinflammatory phenotypes, it may be possible to prevent DVT initiation or limit its progression while reducing the reliance on anticoagulants and the risk of associated bleeding complications. This metabolism-centered perspective opens new avenues for the development of safer, more effective treatments for DVT.",
+      "pub_date": "2025-07-03",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Venous Thrombosis",
+        "Animals",
+        "Metabolic Networks and Pathways",
+        "Anticoagulants"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "Blood",
+      "authors": [
+        "Ivan Budnik",
+        "Mariia Kumskova",
+        "Anil K Chauhan"
+      ]
+    },
+    {
+      "pmid": "41260855",
+      "title": "Cerebral Venous Thrombosis.",
+      "abstract": "Cerebral venous thrombosis (CVT) is a rare yet serious cerebrovascular condition distinct from arterial stroke. Despite its low prevalence (0.5%-3% of strokes), incidence has risen due to improved awareness and diagnostics. CVT presents variably, commonly with headache, seizures, and focal deficits, making early recognition crucial. Diagnosis relies on CT/MR venography, while anticoagulation remains the mainstay of treatment. Prognosis is generally favorable, though long-term complications such as recurrent thrombosis and cognitive impairment are possible. Emerging research continues to refine diagnostic and management strategies, including anticoagulation choices and treatment of special populations such as pregnant patients.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Intracranial Thrombosis",
+        "Venous Thrombosis",
+        "Anticoagulants",
+        "Pregnancy",
+        "Female",
+        "Cerebral Veins"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "Emergency medicine clinics of North America",
+      "authors": [
+        "Anna Darby",
+        "Megan Bocchicchio",
+        "Ramin Tabatabai"
+      ]
+    },
+    {
+      "pmid": "41143464",
+      "title": "Targeting P2Y14R alleviates platelet-induced NET formation and venous thrombosis through PKA/AKAP13/RhoA axis.",
+      "abstract": "Venous thromboembolism (VTE) is a disease related to high mortality and complications. Neutrophil extracellular trap (NET) formation promotes thrombo-inflammatory responses, exacerbating VTE. P2Y14 receptor (P2Y14R), which is highly expressed on neutrophils mediates NET formation, but its role and mechanism in VTE are unclear. This study aims to explore the role and mechanism of P2Y14R in VTE and to investigate the feasibility of P2Y14R-targeting therapy for VTE. Venous blood of VTE patients was collected to detect the expression of P2Y14R. Deep vein thrombosis and disseminated intravascular coagulation models were developed to detect thrombus and NET formation in wild-type and neutrophil P2Y14R deficiency mice. Transcriptomics, phosphorylated proteomics, and immunofluorescence were performed to investigate the mechanisms. A high-throughput Glide docking pipeline was performed to find potent P2Y14R antagonists from repurposing drug library. Neutrophil P2Y14R of VTE patients was significantly increased. Neutrophil-specific P2Y14R deficiency alleviated venous thrombosis and NET formation in mice. Mechanistically, neutrophil P2Y14R deletion promotes PKA-induced AKAP13 phosphorylation, thereby inhibiting RhoA activation and cytoskeleton rearrangement, resulting in reduced neutrophil-platelet aggregates and NET release. Interestingly, proglumide was identified as a potent P2Y14R antagonist with excellent P2Y14R antagonistic activity and binding affinity, of which the pharmacodynamic effect and mechanism on thrombosis and NET formation were verified. Neutrophil P2Y14R deficiency regulates PKA/AKAP13/RhoA pathway to inhibit neutrophil-platelet aggregate, thereby reducing NET release and venous thrombosis. This indicates that P2Y14R may be a potential therapeutic target for the intervention of VTE using P2Y14R antagonists, including proglumide.",
+      "pub_date": "2026-04-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Venous Thrombosis",
+        "Mice",
+        "Humans",
+        "Neutrophils",
+        "Extracellular Traps",
+        "Blood Platelets",
+        "Cyclic AMP-Dependent Protein Kinases",
+        "rhoA GTP-Binding Protein",
+        "Receptors, Purinergic P2",
+        "Male",
+        "Purinergic P2Y Receptor Antagonists",
+        "Female",
+        "Signal Transduction",
+        "Disease Models, Animal"
+      ],
+      "chemicals": [
+        "Cyclic AMP-Dependent Protein Kinases",
+        "rhoA GTP-Binding Protein",
+        "Receptors, Purinergic P2",
+        "Purinergic P2Y Receptor Antagonists"
+      ],
+      "journal": "European heart journal",
+      "authors": [
+        "Yafei Fang",
+        "Jie Wang",
+        "Chunxiao Liu",
+        "Li Yin",
+        "Yehong Li",
+        "Cen Ji"
+      ]
+    },
+    {
+      "pmid": "39986309",
+      "title": "Direct oral anticoagulants versus vitamin K antagonists for cerebral venous thrombosis (DOAC-CVT): an international, prospective, observational cohort study.",
+      "abstract": "There is an unmet need for high-quality data from prospective studies on the safety and effectiveness of direct oral anticoagulants (DOACs) for the treatment of cerebral venous thrombosis (CVT). We aimed to compare the safety and effectiveness of DOACs versus vitamin K antagonists (VKAs) for the treatment of CVT in a setting that reflects daily clinical practice. DOAC-CVT was an international, prospective, observational cohort study done in 65 hospitals in 23 countries across five continents. Eligible patients were adults (aged \u226518 years) with radiologically confirmed CVT starting oral anticoagulant treatment with either DOACs or VKAs, as per local practice, within 30 days after diagnosis. Exclusion criteria were previous use of anticoagulants at the time of CVT diagnosis or an absolute contraindication to DOACs (eg, pregnancy and lactation, or severe renal or liver disease). Data were collected during routine clinical visits or telephone consultations at CVT diagnosis (baseline) and at 3\u2008months, 6\u2008months, and 12\u2008months after CVT diagnosis. The primary endpoint was a composite of symptomatic venous thromboembolism and major bleeding events (International Society on Thrombosis and Haemostasis criteria) at 6 months. Main outcomes were adjusted for the confounders age, renal function, active cancer, CNS infections, concomitant antiplatelet use, country of inclusion's income status, Glasgow Coma Scale score, intracranial haemorrhage, antiphospholipid antibodies, previous major bleeding, and previous venous thromboembolism using inverse probability-of-treatment weighting. This study is registered at ClinicalTrials.gov (NCT04660747) and is ongoing. Between Jan 27, 2021, and Jan 15, 2024, 619 patients were included; 401 (65%) patients started DOAC treatment, and 218 (35%) patients started VKA treatment. 390 (63%) of 619 patients were female and 229 (37%) of 619 patients were male. Patients' median age was 41 years (IQR 28-51). 6-month follow-up data were available for 617 (>99%) of 619 patients. 12 (3%) of 401 patients in the DOAC group and seven (3%) of 218 patients in the VKA group had a primary outcome event (weighted odds ratio [OR] 0\u00b799 [95% CI 0\u00b737-3\u00b738]). Three (1%) of 401 patients in the DOAC group died versus three (1%) of 218 patients in the VKA group (weighted OR 0\u00b755 [95% CI 0\u00b711-2\u00b780]). The rate of recurrent thrombosis and major bleeding did not differ between patients with CVT treated with DOACs versus VKAs. This study adds to the increasing evidence that DOACs are a reasonable treatment option for CVT alongside VKAs. Netherlands Thrombosis Foundation.",
+      "pub_date": "2025-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Multicenter Study",
+        "Comparative Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Male",
+        "Vitamin K",
+        "Middle Aged",
+        "Prospective Studies",
+        "Anticoagulants",
+        "Intracranial Thrombosis",
+        "Administration, Oral",
+        "Venous Thrombosis",
+        "Adult",
+        "Aged",
+        "Cohort Studies",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Vitamin K",
+        "Anticoagulants"
+      ],
+      "journal": "The Lancet. Neurology",
+      "authors": [
+        "Anita van de Munckhof",
+        "Mayte S\u00e1nchez van Kammen",
+        "Turgut Tatlisumak",
+        "Katarzyna Krzywicka",
+        "Sanjith Aaron",
+        "Florina Antochi"
+      ]
+    },
+    {
+      "pmid": "39362194",
+      "title": "Efficacy and Safety of Intravitreal Faricimab in Neovascular Age-Related Macular Degeneration, Diabetic Macular Edema, and Retinal Vein Occlusion: A Meta-Analysis.",
+      "abstract": "Intravitreal anti-vascular endothelial growth factor (VEGF) therapy has become the mainstay of treatment in many retinal diseases. The comparative efficacy and safety of newer bispecific anti-VEGF/angiopoietin 2 (Ang2) agents in the treatment paradigm versus widely used monospecific anti-VEGF agents remains unclear. A systematic literature search of MEDLINE, Embase, and Cochrane Library was conducted to identify comparative observational studies and randomized controlled trials published from 2015 to Jul 2024. With assessment by three independent reviewers, original English peer-reviewed full-text articles evaluating faricimab versus monospecific anti-VEGF agent(s) in FDA-indicated retinal disease with data on at least one set of efficacy and/or safety outcomes for each treatment arm and a minimum 3-month follow-up period were included. Data were appraised using the Cochrane RoB2 and ROBINS-I tools, PRISMA, and Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) guidelines. All outcomes were collected at the last follow-up. Random effects meta-analyses with 95% confidence intervals were conducted to calculate weighted mean differences and risk ratios. Change in best-corrected visual acuity (BCVA, ETDRS letters), change in central subfield thickness (CSFT, \u03bcm), and presence of retinal fluid were primary endpoints; ocular adverse events were secondary endpoints. Across 13 studies, in the context of neovascular age-related macular degeneration (nAMD), diabetic macular edema (DME), and retinal vein occlusion (RVO), 2,226 eyes received anti-VEGF monotherapy and 3,022 received faricimab. Final and change in BCVA were similar between treatment groups. Faricimab was associated with a significantly higher reduction in CSFT in DME and RVO eyes but not in nAMD eyes. The incidence of ocular adverse events was similar between groups. There was no difference in BCVA between faricimab and anti-VEGF monotherapy in nAMD, DME, and RVO. While faricimab offered superior improvement in CSFT at the final follow-up for DME and RVO eyes, this effect was not seen in nAMD eyes. Future studies are needed to establish the long-term safety and efficacy of faricimab for retinal vascular disease.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Intravitreal Injections",
+        "Angiogenesis Inhibitors",
+        "Macular Edema",
+        "Visual Acuity",
+        "Retinal Vein Occlusion",
+        "Diabetic Retinopathy",
+        "Wet Macular Degeneration",
+        "Vascular Endothelial Growth Factor A",
+        "Treatment Outcome",
+        "Recombinant Fusion Proteins"
+      ],
+      "chemicals": [
+        "Angiogenesis Inhibitors",
+        "Vascular Endothelial Growth Factor A",
+        "Recombinant Fusion Proteins"
+      ],
+      "journal": "Ophthalmologica. Journal international d'ophtalmologie. International journal of ophthalmology. Zeitschrift fur Augenheilkunde",
+      "authors": [
+        "Prem A H Nichani",
+        "Marko M Popovic",
+        "Andrew Mihalache",
+        "Ananya Pathak",
+        "Rajeev H Muni",
+        "David T W Wong"
+      ]
+    }
+  ]
+}

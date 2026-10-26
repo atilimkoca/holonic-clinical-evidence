@@ -1,0 +1,116 @@
+{
+  "governance": {
+    "workload": {
+      "local_treatment": {
+        "centralized": {
+          "ms": 2.02,
+          "rows": 1,
+          "answerable": true
+        },
+        "federated": {
+          "ms": 21.41,
+          "rows": 1,
+          "answerable": true
+        },
+        "autonomous": {
+          "ms": 462.37,
+          "rows": 0,
+          "answerable": true
+        }
+      },
+      "projection_read": {
+        "centralized": {
+          "ms": 4.5,
+          "rows": 216,
+          "answerable": true
+        },
+        "federated": {
+          "ms": 25.0,
+          "rows": 216,
+          "answerable": true
+        },
+        "autonomous": {
+          "ms": 476.74,
+          "rows": 216,
+          "answerable": true
+        }
+      },
+      "cross_domain": {
+        "centralized": {
+          "ms": 11.36,
+          "rows": 5,
+          "answerable": true
+        },
+        "federated": {
+          "ms": 93.32,
+          "rows": 41,
+          "answerable": true
+        },
+        "autonomous": {
+          "ms": 2308.87,
+          "rows": 0,
+          "answerable": true
+        }
+      },
+      "interior_read": {
+        "centralized": {
+          "ms": 4.66,
+          "rows": 216,
+          "answerable": true
+        },
+        "federated": {
+          "ms": 24.72,
+          "rows": 216,
+          "answerable": true
+        },
+        "autonomous": {
+          "ms": 0.0,
+          "rows": 0,
+          "answerable": false
+        }
+      }
+    },
+    "completeness": {
+      "centralized": 1.0,
+      "federated": 1.0,
+      "autonomous": 0.75
+    }
+  },
+  "schema_evolution": {
+    "n_holons": 216,
+    "n_domains": 10,
+    "centralized_revalidations": 216,
+    "federated_revalidations_serial": 216,
+    "federated_wall_parallel_across_domains": 21.6,
+    "autonomous_local_revalidations": 216,
+    "autonomous_alignment_pairs_On2": 23220
+  },
+  "scalability": {
+    "curve": [
+      {
+        "holons": 50,
+        "triples": 9137,
+        "ms": 6.55,
+        "rows": 17
+      },
+      {
+        "holons": 100,
+        "triples": 10008,
+        "ms": 7.22,
+        "rows": 26
+      },
+      {
+        "holons": 150,
+        "triples": 10886,
+        "ms": 7.79,
+        "rows": 37
+      },
+      {
+        "holons": 216,
+        "triples": 12053,
+        "ms": 7.83,
+        "rows": 41
+      }
+    ]
+  }
+}

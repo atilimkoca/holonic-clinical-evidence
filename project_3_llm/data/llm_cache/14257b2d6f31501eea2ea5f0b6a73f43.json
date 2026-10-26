@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\noegen:node_12345 a holon:ClinicalQuestionHolon ;\n    holon:hasBoundaryGraph <https://example.org/openevidence/graphs/boundary_addison> ;\n    holon:hasContextGraph <https://example.org/openevidence/graphs/context_addison> ;\n    holon:hasInteriorGraph <https://example.org/openevidence/graphs/interior_addison> ;\n    holon:hasProjectionGraph <https://example.org/openevidence/graphs/projection_addison> ;\n    oe:answerText \"The evidence suggests that prednisone may have inconclusive efficacy in treating Addison disease.\"^^xsd:string ;\n    oe:questionText \"Is prednisone effective in treating Addison disease?\"^^xsd:string ;\n    oe:belongsToSpecialty \"Endocrinology\" ;\n    <https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/addison_disease> .",
+  "provider": "ollama",
+  "model": "qwen3:8b",
+  "prompt_tokens": 817,
+  "completion_tokens": 348,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1165
+}

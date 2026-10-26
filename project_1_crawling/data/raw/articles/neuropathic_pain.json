@@ -1,0 +1,444 @@
+{
+  "disease": "Neuropathic Pain",
+  "slug": "neuropathic_pain",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41247746",
+      "title": "Peripheral Neuropathy: A Review.",
+      "abstract": "Peripheral neuropathy, defined as damage to peripheral nerves, affects approximately 1% of adults worldwide. More than 200 causes of peripheral neuropathy exist, with symptoms ranging in severity from mild toe numbness to debilitating symptoms that can require a wheelchair. Diabetes is the most common cause of neuropathy, affecting approximately 206 million people worldwide. Peripheral neuropathy is typically length-dependent, which means that symptoms appear in the longest nerve axons (toes) and progress proximally over time. Peripheral neuropathy is typically symmetric and affects sensory axons more than motor axons. Diabetic neuropathy, which is often associated with both sensory symptoms, such as pain, tingling, or numbness; mild weakness; and autonomic symptoms, such as orthostatic hypotension, accounts for more than 50% of peripheral neuropathy in Western populations. Other causes of neuropathy include hereditary causes, such as Charcot-Marie-Tooth disease, toxic neuropathy from medications (chemotherapies [eg, cisplatin, paclitaxel, vincristine], amiodarone, or HIV nucleotide reverse transcriptase inhibitors [eg, stavudine, zalcitabine]); alcohol; vitamin deficiencies such as vitamin B12; and monoclonal gammopathies. Up to 27% of adults with neuropathy have no identifiable etiology for their neuropathy after diagnostic testing. Recommended initial testing includes blood glucose (for diabetes), serum B12 with metabolites (methylmalonic acid with or without homocysteine), and serum protein electrophoresis with immunofixation (for monoclonal gammopathies). First-line medications for neuropathic pain are the \u03b12-\u03b4 calcium channel subunit ligands, such as gabapentin and pregabalin; serotonin norepinephrine reuptake inhibitors, such as duloxetine and venlafaxine; and tricyclic antidepressants, such as amitryptyline and nortriptyline. Pain often persists despite medical management. At least a 50% reduction in pain was observed in 38% of those with painful diabetic peripheral neuropathy receiving 1200 mg of gabapentin daily. Combination drug therapies for neuropathic pain may provide added benefit. The prognosis of peripheral neuropathy depends on its underlying cause, but complete reversal of nerve damage is uncommon even in cases for which there are available treatments. Peripheral neuropathy affects approximately 1% of adults worldwide and may cause sensory, motor, and autonomic symptoms. Diabetes is the most common cause of peripheral neuropathy in Western countries. First-line therapies for neuropathic pain include gabapentin, pregabalin, duloxetine, and amitriptyline.",
+      "pub_date": "2026-01-20",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Analgesics",
+        "Diabetic Neuropathies",
+        "Peripheral Nervous System Diseases",
+        "Severity of Illness Index",
+        "Neuralgia",
+        "Serotonin and Noradrenaline Reuptake Inhibitors",
+        "Antidepressive Agents, Tricyclic",
+        "Calcium Channel Blockers",
+        "Drug Therapy, Combination",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Analgesics",
+        "Serotonin and Noradrenaline Reuptake Inhibitors",
+        "Antidepressive Agents, Tricyclic",
+        "Calcium Channel Blockers"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Michelle L Mauermann",
+        "Nathan P Staff"
+      ]
+    },
+    {
+      "pmid": "40252663",
+      "title": "Pharmacotherapy and non-invasive neuromodulation for neuropathic pain: a systematic review and meta-analysis.",
+      "abstract": "There remains a substantial unmet need for effective and safe treatments for neuropathic pain. The Neuropathic Pain Special Interest Group aimed to update treatment recommendations, published in 2015, on the basis of new evidence from randomised controlled trials, emerging neuromodulation techniques, and advances in evidence synthesis. For this systematic review and meta-analysis, we searched Embase, PubMed, the International Clinical Trials Registry, and ClinicalTrials.gov from data inception for neuromodulation trials and from Jan 1, 2013, for pharmacological interventions until Feb 12, 2024. We included double-blind, randomised, placebo-controlled trials that evaluated pharmacological and neuromodulation treatments administered for at least 3 weeks, or if there was at least 3 weeks of follow-up, and which included at least ten participants per group. Trials included participants of any age with neuropathic pain, defined by the International Association for the Study of Pain. We excluded trials with enriched enrolment randomised withdrawal designs and those with participants with mixed aetiologies (ie, neuropathic and non-neuropathic pain) and conditions such as complex regional pain syndrome, low back pain without radicular pain, fibromyalgia, and idiopathic orofacial pain. We extracted summary data in duplicate from published reports, with discrepancies reconciled by a third independent reviewer on the platform Covidence. The primary efficacy outcome was the proportion of responders (50% or 30% reduction in baseline pain intensity or moderate pain relief). The primary safety outcome was the number of participants who withdrew from the treatment owing to adverse events. We calculated a risk difference for each comparison and did a random-effects meta-analysis. Risk differences were used to calculate the number needed to treat (NNT) and the number needed to harm (NNH) for each treatment. Risk of bias was assessed by use of the Cochrane risk of bias tool 2 and certainty of evidence assessed by use of GRADE. Recommendations were based on evidence of efficacy, adverse events, accessibility, and cost, and feedback from engaged lived experience partners. This study is registered on PROSPERO, CRD42023389375. We identified 313 trials (284 pharmacological and 29 neuromodulation studies) for inclusion in the meta-analysis. Across all studies, 48 789 adult participants were randomly assigned to trial groups (20\u2008611 female and 25\u2008078 male participants, where sex was reported). Estimates for the primary efficacy and safety outcomes were tricyclic antidepressants (TCAs) NNT=4\u00b76 (95% CI 3\u00b72-7\u00b77), NNH=17\u00b71 (11\u00b74-33\u00b76; moderate certainty of evidence), \u03b12\u03b4-ligands NNT=8\u00b79 (7\u00b74-11\u00b710), NNH=26\u00b72 (20\u00b74-36\u00b75; moderate certainty of evidence), serotonin and norepinephrine reuptake inhibitors (SNRIs) NNT=7\u00b74 (5\u00b76-10\u00b79), NNH=13\u00b79 (10\u00b79-19\u00b70; moderate certainty of evidence), botulinum toxin (BTX-A) NNT=2\u00b77 (1\u00b78-9\u00b761), NNH=216\u00b73 (23\u00b75-\u221e; moderate certainty of evidence), capsaicin 8% patches NNT=13\u00b72 (7\u00b76-50\u00b78), NNH=1129\u00b73 (135\u00b77-\u221e; moderate certainty of evidence), opioids NNT=5\u00b79 (4\u00b71-10\u00b77), NNH=15\u00b74 (10\u00b78-24\u00b70; low certainty of evidence), repetitive transcranial magnetic stimulation (rTMS) NNT=4\u00b72 (2\u00b73-28\u00b73), NNH=651\u00b76 (34\u00b77-\u221e; low certainty of evidence), capsaicin cream NNT=6\u00b71 (3\u00b71-\u221e), NNH=18\u00b76 (10\u00b76-77\u00b71; very low certainty of evidence), lidocaine 5% plasters NNT=14\u00b75 (7\u00b78-108\u00b72), NNH=178\u00b70 (23\u00b79-\u221e; very low certainty of evidence). The findings provided the basis for a strong recommendation for use of TCAs, \u03b12\u03b4-ligands, and SNRIs as first-line treatments; a weak recommendation for capsaicin 8% patches, capsaicin cream, and lidocaine 5% plasters as second-line recommendation; and a weak recommendation for BTX-A, rTMS, and opioids as third-line treatments for neuropathic pain. Our results support a revision of the Neuropathic Pain Special Interest Group recommendations for the treatment of neuropathic pain. Treatment outcomes are modest and for some treatments uncertainty remains. Further large placebo-controlled or sham-controlled trials done over clinically relevant timeframes are needed. NeuPSIG and ERA-NET Neuron.",
+      "pub_date": "2025-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Neuralgia",
+        "Randomized Controlled Trials as Topic",
+        "Electric Stimulation Therapy",
+        "Analgesics"
+      ],
+      "chemicals": [
+        "Analgesics"
+      ],
+      "journal": "The Lancet. Neurology",
+      "authors": [
+        "Nadia Soliman",
+        "Xavier Moisset",
+        "Michael C Ferraro",
+        "Daniel Ciampi de Andrade",
+        "Ralf Baron",
+        "Joletta Belton"
+      ]
+    },
+    {
+      "pmid": "40393456",
+      "title": "Arrestin-biased allosteric modulator of neurotensin receptor 1 alleviates acute and chronic pain.",
+      "abstract": "G-protein-biased agonists have been shown to enhance opioid analgesia by circumventing \u03b2-arrestin-2 (\u03b2arr2) signaling. We previously reported that SBI-553, a neurotensin receptor 1 (NTSR1)-positive allosteric modulator biased toward \u03b2arr2 signaling, attenuates psychostimulant effects in mice. Here, we demonstrate that its analog, SBI-810, exhibits potent antinociceptive properties in rodent models of postoperative pain, inflammatory pain, and neuropathic pain via systemic and local administration. SBI-810's analgesic effects require NTSR1 and \u03b2arr2 but not NTSR2 or \u03b2arr1. Mechanistically, SBI-810 suppresses excitatory synaptic transmission, inhibits NMDA receptor and extracellular-regulated signal kinase (ERK) signaling in spinal cord nociceptive neurons, reduces Nav1.7 surface expression and action potential firing in primary sensory neurons, and dampens C-fiber responses. Behaviorally, it reduces opioid-induced conditioned place preference, alleviates constipation, and mitigates chronic opioid withdrawal symptoms. These findings highlight NTSR1-biased allosteric modulators as a promising, non-addictive therapeutic strategy for acute and chronic pain management, acting through both peripheral and central mechanisms.",
+      "pub_date": "2025-08-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Receptors, Neurotensin",
+        "Chronic Pain",
+        "Mice",
+        "Male",
+        "Allosteric Regulation",
+        "beta-Arrestin 2",
+        "Acute Pain",
+        "Mice, Inbred C57BL",
+        "Neuralgia",
+        "Analgesics",
+        "Humans",
+        "Rats"
+      ],
+      "chemicals": [
+        "Receptors, Neurotensin",
+        "neurotensin type 1 receptor",
+        "beta-Arrestin 2",
+        "Analgesics"
+      ],
+      "journal": "Cell",
+      "authors": [
+        "Ran Guo",
+        "Ouyang Chen",
+        "Yang Zhou",
+        "Sangsu Bang",
+        "Sharat Chandra",
+        "Yize Li"
+      ]
+    },
+    {
+      "pmid": "40323340",
+      "title": "Suzetrigine: First Approval.",
+      "abstract": "Suzetrigine (JOURNAVX\u2122), an oral, non-opioid analgesic that is highly selective for the voltage-gated sodium channel NaV1.8 relative to other NaV channels, is being developed by Vertex Pharmaceuticals Inc. for the management of acute and neuropathic pain. NaV1.8 is expressed in peripheral pain-sensing neurons but is not expressed in the brain. Suzetrigine prevents transmission of pain signals by blocking NaV1.8 channels located along peripheral pain-sensing neurons, inhibiting the normal action potential. On 30 January 2025, suzetrigine was approved for the treatment of moderate to severe acute pain in adults in the USA. Suzetrigine is the first NaV inhibitor to be approved in this new therapeutic class of non-opioid analgesics. This article summarizes the milestones in the development of suzetrigine leading to this first approval for the treatment of moderate to severe acute pain.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Drug Approval",
+        "Neuralgia",
+        "Acute Pain",
+        "Voltage-Gated Sodium Channel Blockers",
+        "Analgesics, Non-Narcotic",
+        "United States",
+        "Animals"
+      ],
+      "chemicals": [
+        "Voltage-Gated Sodium Channel Blockers",
+        "Analgesics, Non-Narcotic"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Susan J Keam"
+      ]
+    },
+    {
+      "pmid": "39730257",
+      "title": "Peripheral, central, and chemotherapy-induced neuropathic changes in pancreatic cancer.",
+      "abstract": "In pancreatic cancer, significant alterations occur in the local nervous system, including axonogenesis, neural remodeling, perineural invasion, and perineural neuritis. Pancreatic cancer can impact the central nervous system (CNS) through cancer cell-intrinsic factors or systemic factors, particularly in the context of cancer cachexia. These peripheral and central neuropathic changes exert substantial influence on cancer initiation and progression. Moreover, chemotherapy-induced neuropathy is common in pancreatic cancer, causing peripheral nerve damage and cognitive dysfunction. Targeting the crosstalk between pancreatic cancer and the nervous system, either peripherally or centrally, holds promise in cancer treatment, pain relief, and improved quality of life. Here, we summarize recent findings on the molecular mechanisms behind these neuropathic changes in pancreatic cancer and discuss potential intervention strategies.",
+      "pub_date": "2025-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pancreatic Neoplasms",
+        "Animals",
+        "Antineoplastic Agents",
+        "Peripheral Nervous System Diseases",
+        "Neuralgia"
+      ],
+      "chemicals": [
+        "Antineoplastic Agents"
+      ],
+      "journal": "Trends in neurosciences",
+      "authors": [
+        "Luju Jiang",
+        "Shuqi Cai",
+        "Zheqi Weng",
+        "Shan Zhang",
+        "Shu-Heng Jiang"
+      ]
+    },
+    {
+      "pmid": "40540434",
+      "title": "CXCL13/CXCR5: a new target for pain treatment.",
+      "abstract": "Pain is a significant global health burden, and current treatments often fail to provide adequate relief due to an incomplete understanding of its mechanisms. This review integrates emerging evidence highlighting the CXCL13/CXCR5 chemokine pathway as a crucial mediator across various pain states, including nociceptive, inflammatory, and neuropathic pain. CXCL13 and CXCR5 are substantially upregulated in pain-related regions such as the spinal cord, dorsal root ganglia (DRG), and cerebrospinal fluid following nerve injury, inflammation, and in conditions like bone cancer or diabetes. The key mechanisms through which they contribute to pain include enhancing neuronal excitability by increasing Nav1.8 sodium channel currents in DRG neurons via p38 MAPK signaling, promoting neuroinflammation by activating NF-\u03baB, ERK, and JNK pathways, which drive the production of pro-inflammatory cytokines (e.g., TNF-\u03b1, IL-6, IL-1\u03b2) and immune cell infiltration, and activating glial cells, where CXCL13/CXCR5 signaling promotes astrocyte reactivity and indirectly activates microglia, thereby amplifying central sensitization. Genetic knockdown or pharmacological inhibition of CXCL13/CXCR5 has been shown to significantly reduce pain hypersensitivity in preclinical models. The pathway's high tissue specificity in pain pathways and its multifaceted regulation of pain mechanisms make it a promising novel therapeutic target. Future research should address CXCL13/CXCR5 interactions with other pain-related pathways (e.g., CXCL12/CXCR4), explore non-GPCR signaling (e.g., \u03b2-arrestins), and validate its potential as a clinical biomarker to guide targeted analgesic development.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Chemokine CXCL13",
+        "Receptors, CXCR5",
+        "Animals",
+        "Signal Transduction",
+        "Pain",
+        "Neuralgia",
+        "Pain Management",
+        "Ganglia, Spinal"
+      ],
+      "chemicals": [
+        "Chemokine CXCL13",
+        "Receptors, CXCR5",
+        "CXCR5 protein, human",
+        "CXCL13 protein, human"
+      ],
+      "journal": "International journal of surgery (London, England)",
+      "authors": [
+        "Shujun Sun",
+        "Yan Sun",
+        "Jiwei Shen",
+        "Zhangyan Mao",
+        "Tianhao Zhang",
+        "Yafen Gao"
+      ]
+    },
+    {
+      "pmid": "39594606",
+      "title": "Semaglutide Ameliorates Diabetic Neuropathic Pain by Inhibiting Neuroinflammation in the Spinal Cord.",
+      "abstract": "Glucagon-like peptide 1 (GLP-1) receptor agonists are frequently used to treat type 2 diabetes and obesity. Despite the development of several drugs for neuropathic pain management, their poor efficacy, tolerance, addiction potential, and side effects limit their usage. Teneligliptin, a DPP-4 inhibitor, has been shown to reduce spinal astrocyte activation and neuropathic pain caused by partial sciatic nerve transection. Additionally, we showed its capacity to improve the analgesic effects of morphine and reduce analgesic tolerance. Recent studies indicate that GLP-1 synthesized in the brain activates GLP-1 receptor signaling pathways, essential for neuroprotection and anti-inflammatory effects. Multiple in vitro and in vivo studies using preclinical models of neurodegenerative disorders have shown the anti-inflammatory properties associated with glucagon-like peptide-1 receptor (GLP-1R) activation. This study aimed to investigate the mechanism of antinociception and the effects of the GLP-1 agonist semaglutide (SEMA) on diabetic neuropathic pain in diabetic rats. Male SEMA treatment significantly reduced both allodynia and hyperalgesia in the diabetic group. SEMA therapy had a limited impact on body weight restoration and blood glucose reduction. In diabetic rats, SEMA lowered the amounts of pro-inflammatory cytokines in the spinal cord and dorsal horn. It also lowered the activation of microglia and astrocytes in the dorsal horn. SEMA significantly reduced HbA1c and AGE levels in diabetic rats compared to the sham control group. These results indicate SEMA's neuroprotective benefits against diabetic neuropathic pain, most likely by reducing inflammation and oxidative stress by inhibiting astrocyte and microglial activity. Our findings suggest that we can repurpose GLP-1 agonists as potent anti-hyperalgesic and anti-inflammatory drugs to treat neuropathic pain without serious side effects.",
+      "pub_date": "2024-11-08",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Male",
+        "Rats",
+        "Rats, Wistar",
+        "Diabetic Neuropathies",
+        "Spinal Cord",
+        "Diabetes Mellitus, Experimental",
+        "Glucagon-Like Peptides",
+        "Neuralgia",
+        "Neuroinflammatory Diseases",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptides",
+        "Semaglutide"
+      ],
+      "journal": "Cells",
+      "authors": [
+        "Sing-Ong Lee",
+        "Yaswanth Kuthati",
+        "Wei-Hsiu Huang",
+        "Chih-Shung Wong"
+      ]
+    },
+    {
+      "pmid": "40572751",
+      "title": "Evolving Treatment Strategies for Neuropathic Pain: A Narrative Review.",
+      "abstract": "Neuropathic pain resulting from injury to the somatosensory nervous system affects approximately 6.9-10% of the general population and significantly impacts quality of life. Common presentations include burning, stabbing, tingling, or electrical sensations, occurring spontaneously or through hyperalgesia or allodynia. Treatment approaches follow a tiered system. First-line therapies include gabapentinoids (e.g., gabapentin, pregabalin), which target voltage-gated calcium channels; tricyclic antidepressants (e.g., amitriptyline, nortriptyline); and serotonin-norepinephrine reuptake inhibitors such as duloxetine. Second-line options encompass topical agents (e.g., 5% lidocaine, 8% capsaicin), opioid-like medications (e.g., tramadol, tapentadol), and adjunctive therapies including psychological therapies and lifestyle interventions. For refractory cases, third-line treatments include NMDA receptor antagonists (e.g., ketamine, dextromethorphan), cannabinoids, and botulinum toxin type A, though these have more limited clinical evidence. Procedural interventions such as spinal cord stimulation and transcutaneous electrical nerve stimulation provide alternatives when pharmacological approaches fail. Despite advances in treatment options, many patients remain undertreated, highlighting the need for individualized, multimodal approaches and continued research into the complex pathophysiology of neuropathic pain conditions.",
+      "pub_date": "2025-06-10",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Neuralgia",
+        "Pain Management",
+        "Pregabalin",
+        "Analgesics",
+        "Antidepressive Agents, Tricyclic",
+        "Gabapentin"
+      ],
+      "chemicals": [
+        "Pregabalin",
+        "Analgesics",
+        "Antidepressive Agents, Tricyclic",
+        "Gabapentin"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "authors": [
+        "Alan D Kaye",
+        "Grace Armistead",
+        "Lane S Amedio",
+        "Mills E Manthei",
+        "Shahab Ahmadzadeh",
+        "Brian Bernhardt"
+      ]
+    },
+    {
+      "pmid": "41501467",
+      "title": "Mimicking opioid analgesia in cortical pain circuits.",
+      "abstract": "The anterior cingulate cortex is a key brain region involved in the affective and motivational dimensions of pain, but how opioid analgesics modulate this cortical circuit remains unclear",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Mice",
+        "Morphine",
+        "Analgesics, Opioid",
+        "Gyrus Cinguli",
+        "Male",
+        "Receptors, Opioid, mu",
+        "Analgesia",
+        "Chronic Pain",
+        "Neuralgia",
+        "Neurons",
+        "Female",
+        "Humans",
+        "Deep Learning",
+        "Motivation",
+        "Mice, Inbred C57BL",
+        "Pain Management"
+      ],
+      "chemicals": [
+        "Morphine",
+        "Analgesics, Opioid",
+        "Receptors, Opioid, mu"
+      ],
+      "journal": "Nature",
+      "authors": [
+        "Corinna S Oswell",
+        "Sophie A Rogers",
+        "Justin G James",
+        "Nora M McCall",
+        "Alex I Hsu",
+        "Gregory J Salimando"
+      ]
+    },
+    {
+      "pmid": "40795617",
+      "title": "Injectable ROS homeostasis protective hydrogel inhibiting microglial ferroptosis through the Nrf2/Slc7a11/Gpx4 to alleviate neuropathic pain and promote spinal cord injury repair.",
+      "abstract": "Spinal cord injury (SCI) induced neuropathic pain (NP) remains a major clinical challenge due to persistent neuroinflammation and oxidative stress. We developed an injectable methacrylated and thiolated gelatin hydrogel loaded with quercetin (MSQ) to synergistically scavenge reactive oxygen species (ROS) and inhibit microglial ferroptosis for NP alleviation and neural repair. The MSQ hydrogel exhibited rapid photocrosslinking, sustained quercetin release, and robust ROS scavenging via thiol groups and quercetin, maintaining intracellular redox homeostasis. MSQ attenuated LPS-induced ferroptosis in BV2 microglia by upregulating Nrf2 expression, promoting its nuclear translocation, and activating the Slc7a11/Gpx4 pathway, thereby reducing lipid peroxidation and inflammatory cytokine release. Network pharmacology and molecular dynamics simulations confirmed quercetin's high-affinity binding to Nrf2. In a murine SCI model, MSQ implantation significantly reduced lesion area, suppressed microglial ferroptosis, and decreased pro-inflammatory mediators (TNF\u03b1, IL-1\u03b2, IL-6), while enhancing neuronal survival (Nissl/NeuN",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "NF-E2-Related Factor 2",
+        "Ferroptosis",
+        "Mice",
+        "Microglia",
+        "Spinal Cord Injuries",
+        "Neuralgia",
+        "Hydrogels",
+        "Reactive Oxygen Species",
+        "Homeostasis",
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Amino Acid Transport System y+",
+        "Disease Models, Animal",
+        "Quercetin",
+        "Male"
+      ],
+      "chemicals": [
+        "NF-E2-Related Factor 2",
+        "Hydrogels",
+        "Reactive Oxygen Species",
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Amino Acid Transport System y+",
+        "Nfe2l2 protein, mouse",
+        "Slc7a11 protein, mouse",
+        "Quercetin",
+        "glutathione peroxidase 4, mouse"
+      ],
+      "journal": "Redox biology",
+      "authors": [
+        "Lu Li",
+        "Yu Cao",
+        "Xiangsheng Zhang",
+        "Jiayi Guo",
+        "Ziqiang Lin",
+        "Pengyu Zhou"
+      ]
+    },
+    {
+      "pmid": "40653266",
+      "title": "Hyodeoxycholic acid relieves neuropathic pain by activating farnesoid X receptor signaling.",
+      "abstract": "Neuropathic pain, is a chronic condition stemming from nervous system injuries. The farnesoid\u00a0X\u00a0receptor (FXR), primarily expressed in the liver and intestines, plays a crucial role in regulating bile acids and lipids metabolism. Emerging evidence suggests that bile acids might influence neural function through FXR modulation. To investigate the specific role of intestinal FXR in the modulation of neuropathic pain. A neuropathic pain model was established in mice through ligation of the lumbar 4 spinal nerve (SNL). FXR expression was detected in the distal ileum and spinal cord. The baseline pain threshold and pain-related behaviors were evaluated in FXR gene knockout (Fxr Neuropathic pain was associated with reduced FXR levels in the gut and spinal cord, accompanied by decreased bile acid levels, especially HDCA. FXR deficiency lowered the pain threshold, whereas treatment with INT-747 or HDCA relieved pain in SNL mice. Activation of FXR restored intestinal barrier integrity, balanced microbiota, reduced inflammation, and decreased microglial activation. HDCA alleviated pain by modulating FXR activity, increasing peroxisome proliferator-activated receptor gamma (PPAR-\u03b3) expression and reducing abnormal matrix metalloproteinase-2 (MMP-2) and matrix metalloproteinase-2 (MMP-9) activation. This research highlights a critical link between FXR levels and neuropathic pain. Manipulating FXR activity with INT-747 or HDCA not only reduced pain severity but also strengthened intestinal barriers and dampened inflammatory responses, suggesting the potential of FXR-targeted therapies in effectively managing neuropathic pain.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Receptors, Cytoplasmic and Nuclear",
+        "Neuralgia",
+        "Mice",
+        "Mice, Knockout",
+        "Chenodeoxycholic Acid",
+        "Signal Transduction",
+        "Male",
+        "Disease Models, Animal",
+        "Bile Acids and Salts",
+        "Mice, Inbred C57BL",
+        "Spinal Cord"
+      ],
+      "chemicals": [
+        "Receptors, Cytoplasmic and Nuclear",
+        "Chenodeoxycholic Acid",
+        "Bile Acids and Salts",
+        "obeticholic acid"
+      ],
+      "journal": "Journal of advanced research",
+      "authors": [
+        "Jiaqi Lin",
+        "Xuejiao Zeng",
+        "Zehua Su",
+        "Xin Li",
+        "Yongze Yu",
+        "Shuwen Qian"
+      ]
+    },
+    {
+      "pmid": "40048191",
+      "title": "Low-Dose Valacyclovir for Postherpetic Neuralgia in the Zoster Eye Disease Study: A Randomized Clinical Trial.",
+      "abstract": "Evidence regarding suppressive valacyclovir treatment on postherpetic neuralgia is necessary to guide care. To test the hypothesis that suppressive treatment with 1000 mg/d of oral valacyclovir for 12 months reduces the prevalence, severity, and duration of postherpetic neuralgia compared with placebo at 12 and 18 months in participants with herpes zoster ophthalmicus (HZO). Multicenter, placebo-controlled randomized clinical trial including 527 immunocompetent, nonpregnant adults with history of HZO rash, documented keratitis, or iritis within 1 year and an estimated glomerular filtration rate of 45 mL/min/1.73 m2 or greater. The study was conducted at 95 participating sites (in Canada, New Zealand, and the US) from November 2017 to June 2024 and participant visits occurred every 3 months. Treatment with 1000 mg/d of valacyclovir or placebo for 12 months. Prevalence of postherpetic neuralgia, severity as determined by pain score (a score of \u22653 on a scale of 1-10), pain duration (\u22653 months after HZO onset), and total daily dose of pain medication. Of the 527 participants (490 completed 12 months of treatment and 460 completed 18 months), 73 (14%) had postherpetic neuralgia and were analyzed by age at HZO onset (<60 years or \u226560 years) and disease duration (recent [<6 months] or chronic [\u22656 months]). Of the 73 participants with postherpetic neuralgia (34 in the valacyclovir group and 39 in the placebo group), the mean age was 62.4 years (SD, 13.6 years), 59% were female, 5% were Black or African American, and 10% were Hispanic. The prevalence of postherpetic neuralgia at 12 months was not reduced by valacyclovir (12/32 [38%]) compared with placebo (14/35 [40%]) (between-group difference, 2.5% [95% CI, -20.8% to 25.8%]; P>.99). The participants who were younger than 60 years at HZO onset and had a chronic disease duration had lower pain scores in the valacyclovir group (mean score, 0.3 [SD, 0.9]) vs the placebo group (mean score, 0.8 [SD, 1.9]) at 12 months (P\u2009=\u2009.045) and at 18 months (mean score, 0.2 [SD, 0.9] vs 1.0 [SD, 2.3], respectively; P\u2009=\u2009.02). There was a decrease in pain duration in the valacyclovir group at 18 months (mean, 13.6 [SD, 11.4] months) vs the placebo group (mean, 18.7 [SD, 29.5] months) (linear mixed-effects model between-group difference, -3.39 months [95% CI, -6.73 to -0.04 months]; P\u2009=\u2009.046). The total daily dose of neuropathic pain medication was lower in the valacyclovir group (mean, 271.4 [SD, 593.8] mg/d) vs the placebo group (mean, 363.4 [SD, 592.2] mg/d) at 12 months (linear mixed-effects model P\u2009=\u2009.006) and at 18 months (mean, 209.0 [SD, 412.8] mg/d vs 286.2 [SD, 577.9] mg/d, respectively; linear mixed-effects model P\u2009=\u2009.01). One year of suppressive treatment with valacyclovir was associated with a lower dosage of neuropathic pain medication. Participants in the valacyclovir group, who were younger at HZO onset and had a chronic disease duration, had lower pain scores. These secondary outcomes support consideration of 1 year of suppressive treatment with valacyclovir to reduce dosage of pain medications and pain due to HZO. ClinicalTrials.gov Identifier: NCT03134196.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Administration, Oral",
+        "Antiviral Agents",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Follow-Up Studies",
+        "Herpes Zoster Ophthalmicus",
+        "Neuralgia, Postherpetic",
+        "Pain Measurement",
+        "Prevalence",
+        "Treatment Outcome",
+        "Valacyclovir"
+      ],
+      "chemicals": [
+        "Antiviral Agents",
+        "Valacyclovir"
+      ],
+      "journal": "JAMA ophthalmology",
+      "authors": [
+        "David B Warner",
+        "Bennie H Jeng",
+        "Jiyu Kim",
+        "Mengling Liu",
+        "Andrea B Troxel",
+        "Judith S Hochman"
+      ]
+    }
+  ]
+}

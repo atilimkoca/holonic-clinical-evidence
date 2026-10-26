@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_asthma_treatment a holon:EntityEntry ;
+    holon:entity oed:asthma ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_asthma_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_asthma_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.88 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_asthma_treatment ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    oe:cites oesrc:41033334 ;
+    oe:effectiveness "effective" .
+
+oedrug:salbutamol oe:treats oed:asthma .
+
+oeevt:ev_q_asthma_treatment-tt rdf:object oed:asthma ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:salbutamol .
+
+oeq:q_asthma_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Asthma?"@en ;
+    prov:generatedAtTime "2026-04-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.49 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_asthma_treatment-bnd ;
+    holon:hasContextGraph oeq:q_asthma_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_asthma_treatment-int ;
+    holon:hasProjectionGraph oeq:q_asthma_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Asthma with salbutamol."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_asthma_efficacy ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    holon:summaryConfidence 0.88 ;
+    oe:aboutDisease oed:asthma ;
+    oe:answerText "Chronic rhinosinusitis with nasal polyps (CRSwNP) is predominantly driven by type 2 inflammation. The biologics dupilumab and omalizumab, which target drivers and mediators of type 2 inflammation (interleukin [IL]-4/IL-13 signaling and immunoglobulin E [IgE], respectively), are efficacious in treating CRSwNP but direct comparisons are few."^^xsd:string ;
+    oe:belongsToSpecialty "Pulmonology" ;
+    oe:cites oesrc:41033334,
+        oesrc:41038208,
+        oesrc:41038212,
+        oesrc:41324154 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Asthma?"^^xsd:string .
+

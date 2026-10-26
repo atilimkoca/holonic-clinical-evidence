@@ -1,0 +1,32 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_hepatitis_c_efficacy> a holon:ClinicalQuestionHolon ;
+    oe:questionText "How effective is tenofovir compared with other agents for Hepatitis C?"^^xsd:string ;
+    oe:answerText "The year 2023 marked the 10-year anniversary of the launch of direct-acting antivirals (DAAs) for the treatment of hepatitis C virus (HCV). Monitoring HCV treatment trends by country, region, and globally is important to assess progress toward the World Health Organization's 2030 elimination targets."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_hepatitis_c_efficacy-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_hepatitis_c_efficacy-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_hepatitis_c_efficacy-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_hepatitis_c_efficacy-con> ;
+    holon:evidenceQualityThreshold "0.50"^^xsd:decimal .
+
+<https://example.org/openevidence/drugs/tenofovir> oe:treats <https://example.org/openevidence/diseases/hepatitis_c> .
+<https://example.org/openevidence/generated/ev_q_hepatitis_c_efficacy_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_hepatitis_c_efficacy_0-tt> ;
+    holon:confidence "0.56"^^xsd:decimal ;
+    holon:evidenceLevel "Level-3" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/39914746> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_hepatitis_c_efficacy> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_hepatitis_c_efficacy_0-tt> rdf:subject <https://example.org/openevidence/drugs/tenofovir> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/hepatitis_c> .
+

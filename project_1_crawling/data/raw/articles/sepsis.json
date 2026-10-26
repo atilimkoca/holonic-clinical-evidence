@@ -1,0 +1,434 @@
+{
+  "disease": "Sepsis",
+  "slug": "sepsis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41359996",
+      "title": "Precision Immunotherapy to Improve Sepsis Outcomes: The ImmunoSep Randomized Clinical Trial.",
+      "abstract": "Sepsis is heterogeneous, and the optimal strategy for tailoring immunotherapy is uncertain. To investigate whether precision immunotherapy guided by the presence of macrophage activation-like syndrome or sepsis-induced immunoparalysis improves organ dysfunction by day 9. A randomized, double-blind, double-dummy, placebo-controlled clinical trial conducted in 6 countries. Patients with sepsis, defined by Sepsis-3, were included if they had community-acquired or hospital-acquired pneumonia or ventilator-associated pneumonia or bacteremia and sepsis and had displayed either macrophage activation-like syndrome (blood ferritin >4420 ng/mL) or sepsis-induced immunoparalysis (blood ferritin \u22644420 ng/mL and <5000 human leukocyte antigen DR receptors on CD45/CD14 monocytes). The first patient was enrolled August 5, 2021, and the last follow-up, April 29, 2024. Eligible patients were randomized to receive standard care and precision immunotherapy or standard care and placebo. Those in the precision immunotherapy group with macrophage activation-like syndrome received anakinra intravenously (IV) and placebo subcutaneously, and those with sepsis-induced immunoparalysis received subcutaneous recombinant human interferon gamma and IV placebo. Those in the placebo group received both IV and subcutaneous placebo. Treatment was administered for up to 15 days. The primary end point was a decrease of at least 1.4 points in the mean Sequential Organ Failure Assessment (SOFA) score from baseline by day 9. The SOFA score evaluates 6 organ systems, ranging from 0, no dysfunction, to 4, failure, and the total score ranges from 0, normal, to 24, most severe form of multiorgan failure. Key secondary outcomes included 28-day mortality. Of 672 patients assessed for eligibility, 281 were randomized and 276 were included in the primary analysis population (mean [SD] age, 70 [13] years; 93 females [33.7%]; median baseline SOFA score, 9 [IQR, 7-11]). The SOFA decrease end point was attained by 46 of 131 patients (35.1%) in the precision immunotherapy group and by 26 of 145 patients (17.9%) in the placebo group (difference, 17.2% [95% CI, 6.8% to 27.2%]; P\u2009=\u2009.002). Mortality at 28 days was not statistically significantly different between groups. A total of 1069 serious treatment-emergent adverse events (88.8%) were reported; increased incidence of anemia was noted in the anakinra group; and hemorrhage in the recombinant human interferon gamma group. Among patients with sepsis, precision immunotherapy targeting macrophage activation-like syndrome and sepsis-induced immunoparalysis improved organ dysfunction by day 9 compared with placebo. ClinicalTrials.gov Identifier: NCT04990232.",
+      "pub_date": "2026-03-03",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Bacteremia",
+        "Community-Acquired Pneumonia",
+        "Double-Blind Method",
+        "Healthcare-Associated Pneumonia",
+        "Immunotherapy",
+        "Injections, Intravenous",
+        "Injections, Subcutaneous",
+        "Interferon-gamma",
+        "Interleukin 1 Receptor Antagonist Protein",
+        "Macrophage Activation Syndrome",
+        "Multiple Organ Failure",
+        "Organ Dysfunction Scores",
+        "Precision Medicine",
+        "Sepsis",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Interferon-gamma",
+        "Interleukin 1 Receptor Antagonist Protein"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Evangelos J Giamarellos-Bourboulis",
+        "Antigone Kotsaki",
+        "Ioanna Kotsamidi",
+        "Aikaterini Efthymiou",
+        "Vasiliki Koutsoukou",
+        "Johannes Ehler"
+      ]
+    },
+    {
+      "pmid": "41339173",
+      "title": "Navigating the Challenges in Staphylococcus aureus Bloodstream Infection: A Practical Guide to Management.",
+      "abstract": "Staphylococcus aureus bacteremia (SAB) continues to challenge clinicians with its' diverse clinical presentations, risk of complications, and high mortality rate. While foundational principles of management, such as adequate source control and appropriate antibiotic treatment, remain unchanged, the landscape is evolving for both diagnostic and treatment strategies. This review explores emerging evidence; outlines current best practice in diagnosis, risk stratification, and treatment; and highlights ongoing controversies and limitations of traditional management paradigms. Given the marked clinical heterogeneity of SAB, advancing toward a personalized medicine approach that tailors management to patient and pathogen characteristics is an important goal for the field.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Bacteremia",
+        "Staphylococcal Infections",
+        "Staphylococcus aureus",
+        "Anti-Bacterial Agents",
+        "Disease Management"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Infectious disease clinics of North America",
+      "authors": [
+        "Hadar Mudrik-Zohar",
+        "Sean W X Ong",
+        "Todd C Lee",
+        "Steven Y C Tong"
+      ]
+    },
+    {
+      "pmid": "41428290",
+      "title": "Antibiotic De-Escalation in Adults Hospitalized for Community-Onset Sepsis.",
+      "abstract": "Prolonged exposure to broad-spectrum antibiotics (BSA) may be associated with patient harm. To assess outcomes of BSA de-escalation compared with continuation on encounter day 4 in patients hospitalized for community-onset sepsis. This target trial emulation study was conducted at 67 hospitals participating in the Michigan Hospital Medicine Safety Consortium. Patients 18 years and older hospitalized for community-onset sepsis from June 2020 through September 2024 who initiated empiric BSA therapy without evidence of multidrug-resistant organism infection were included. Data were analyzed from September 2024 to November 2025. Inverse probability of treatment-weighted cohort exposed to de-escalation of BSA vs continuation at day 4. The primary outcome was 90-day all-cause mortality. Secondary outcomes included in-hospital mortality, 30-day mortality, length of hospitalization, and days of antibiotic therapy. Among 36\u202f924 patients with community-onset sepsis, 18\u202f559 (50.3%) were female, 18\u202f365 (49.7%) were male, and the median (IQR) age was 71 (61-80) years. A total of 6926 (18.8%) and 11\u202f149 (30.2%) were eligible for target trial emulations evaluating de-escalation of anti-methicillin-resistant Staphylococcus aureus (MRSA) and anti-Pseudomonas aeruginosa (PSA; or other resistant gram-negative bacteria) antibiotics, respectively. Of these, 2993 (43.2%) and 2493 (22.4%) were de-escalated from anti-MRSA and anti-PSA coverage. After weighting, patients who were de-escalated vs continued on BSA were well balanced on baseline characteristics. In weighted analyses, anti-MRSA and anti-PSA de-escalation were associated with similar 90-day mortality as continued BSA therapy (anti-MRSA: odds ratio, 1.00; 95% CI, 0.88-1.14; anti-PSA: odds ratio, 0.98; 95% CI, 0.86-1.13). Additionally, anti-MRSA and anti-PSA de-escalation were associated with fewer days of antibiotics to day 14 (anti-MRSA de-escalation: risk ratio [RR], 0.91; 95% CI, 0.89-0.93; anti-PSA de-escalation: RR, 0.91; 95% CI, 0.88-0.93) and shorter length of hospitalization (anti-MRSA de-escalation: RR, 0.88; 95% CI, 0.85-0.92; anti-PSA de-escalation: RR, 0.91; 0.88-0.93). All other secondary outcomes were similar. Across 67 hospitals, the proportion of eligible patients de-escalated from BSA varied more than 2-fold (anti-MRSA de-escalation, 27.3% to 61.7%; anti-PSA de-escalation, 6.9% to 37.7%). In this study, de-escalation of empiric BSA therapy at day 4 was associated with similar safety outcomes, fewer antibiotic days, and shorter length of hospitalization among patients with community-onset sepsis compared with those who continued BSA therapy but varied widely in practice.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Male",
+        "Anti-Bacterial Agents",
+        "Aged",
+        "Community-Acquired Infections",
+        "Sepsis",
+        "Hospital Mortality",
+        "Middle Aged",
+        "Hospitalization",
+        "Michigan"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "JAMA internal medicine",
+      "authors": [
+        "Ashwin B Gupta",
+        "Megan Heath",
+        "Emily Walzl",
+        "David Ratz",
+        "Elizabeth Munroe",
+        "Valerie M Vaughn"
+      ]
+    },
+    {
+      "pmid": "41712212",
+      "title": "Albumin Replacement Therapy in Septic Shock: A Randomized Clinical Trial.",
+      "abstract": "Albumin supplementation may reduce mortality in patients with septic shock; however, data from randomized clinical trials are limited. To assess the impact of albumin administration on outcomes in patients with septic shock. This multicenter, open-label randomized clinical trial was conducted between October 21, 2019, and May 2, 2022. Patients from 23 intensive care units in Germany enrolled within 24 hours of the onset of septic shock were followed up for outcome data up to 90 days. The statistical trial report was completed and filed with the federal authorities in December 2023; additional analyses were completed in October 2024. The study was terminated prematurely due to low enrollment rates. Protocol group patients received 20% albumin to maintain serum albumin levels of at least 3.0 g/dL for up to 28 days during their intensive care unit admission. The control group received standard fluid administration with crystalloids. The primary end point was 90-day mortality; secondary end points included 28-day, 60-day, intensive care unit and in-hospital mortality, organ dysfunction or failure, total amount of fluid administration and total fluid balance while in the intensive care unit, duration of intensive care and hospital stays, and frequency of adverse events. Of 440 randomized patients (median [IQR] age, 69 [59-78] years; 290 [65.9%] male), 222 received albumin and 218 received standard fluids. Baseline characteristics were comparable. Ninety-day mortality was 43.3% (91 of 210) in the albumin group vs 45.9% (96 of 209) in controls (relative risk, 0.94; 95% CI, 0.76-1.17; P\u2009=\u2009.71). No significant differences were observed for secondary end points. In this randomized clinical trial of patients with septic shock, albumin administration was safe but did not improve 90-day survival. As this trial was prematurely terminated, results remain inconclusive and additional studies are recommended. ClinicalTrials.gov Identifier: NCT03869385.",
+      "pub_date": "2026-02-02",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Shock, Septic",
+        "Male",
+        "Female",
+        "Aged",
+        "Middle Aged",
+        "Intensive Care Units",
+        "Hospital Mortality",
+        "Germany",
+        "Albumins",
+        "Fluid Therapy",
+        "Treatment Outcome",
+        "Serum Albumin"
+      ],
+      "chemicals": [
+        "Albumins",
+        "Serum Albumin"
+      ],
+      "journal": "JAMA network open",
+      "authors": [
+        "Yasser Sakr",
+        "Axel Nierhaus",
+        "Ulrike Schumacher",
+        "Stefan Utzolino",
+        "Ulrich Jaschinski",
+        "Sirak Petros"
+      ]
+    },
+    {
+      "pmid": "41326735",
+      "title": "CD8",
+      "abstract": "Interventions to induce lasting human immunodeficiency virus (HIV) remission are needed to obviate the requirement for lifelong antiretroviral therapy. Durable post-intervention control (PIC) of viraemia has been achieved in a subset of people following administration of\u00a0broadly neutralizing anti-HIV-1 antibodies (bNAb) and analytical interruption of\u00a0treatment",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "CD8-Positive T-Lymphocytes",
+        "HIV Infections",
+        "Viremia",
+        "HIV-1",
+        "Immunologic Memory",
+        "CD4-Positive T-Lymphocytes",
+        "Male",
+        "Single-Cell Analysis",
+        "Clone Cells",
+        "Cell Proliferation",
+        "Female",
+        "Broadly Neutralizing Antibodies",
+        "Longitudinal Studies",
+        "HIV Antibodies",
+        "Epitopes, T-Lymphocyte",
+        "Stem Cells"
+      ],
+      "chemicals": [
+        "Broadly Neutralizing Antibodies",
+        "HIV Antibodies",
+        "Epitopes, T-Lymphocyte"
+      ],
+      "journal": "Nature",
+      "authors": [
+        "Zahra Kiani",
+        "Jonathan M Urbach",
+        "Hannah Wisner",
+        "Mpho J Olatotse",
+        "Daniel Y Chang",
+        "Joshua A Acklin"
+      ]
+    },
+    {
+      "pmid": "41411766",
+      "title": "The risks and benefits of disseminated intravascular coagulation-targeted anticoagulant therapy in abdominal sepsis.",
+      "abstract": "Abdominal sepsis frequently leads to disseminated intravascular coagulation (DIC), exacerbating organ dysfunction and bleeding complications. Although anticoagulant therapy is a potential treatment for DIC, its use in this context raises concerns about bleeding risks. The purpose of this study is to investigate the risks and benefits of DIC-targeted anticoagulant therapy in patients with abdominal sepsis. Data were analyzed from a dataset from a multicenter nationwide retrospective cohort study (J-Septic DIC registry) in Japan between 2011 and 2013. The study included 987 patients with abdominal sepsis-induced DIC, diagnosed within three days of ICU admission. Patients were divided into DIC-targeted anticoagulant therapy (recombinant thrombomodulin or antithrombin) and non-use groups. Propensity score matching was used to adjust for confounding factors. The primary outcome was all-cause 90-day mortality, with bleeding complications requiring blood transfusion as the primary safety outcome. The results indicated that anticoagulant therapy was associated with improved survival (hazard ratio: 0.662, 95\u00a0% confidential interval: 0.472-0.929), but a higher risk of bleeding complications (OR: 2.451, 95\u00a0% confidential interval:1.372-4.379). Dual combination of anticoagulant therapy did not provide additional survival benefits and increased bleeding risks. The efficacy of DIC-targeted anticoagulant therapy correlated with disease severity, while bleeding risk was inversely correlated with severity. DIC-targeted anticoagulant therapy in patients with abdominal sepsis was related with improved prognosis but increased bleeding risks. The risk-benefit profile varies with disease severity, suggesting a need for cautious and personalized treatment strategies.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Disseminated Intravascular Coagulation",
+        "Male",
+        "Female",
+        "Anticoagulants",
+        "Sepsis",
+        "Aged",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Aged, 80 and over",
+        "Hemorrhage"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "Thrombosis research",
+      "authors": [
+        "Tadashi Matsuoka",
+        "Kazuma Yamakawa",
+        "Noritaka Ushio",
+        "Ryo Hisamune",
+        "Koichiro Homma",
+        "Junichi Sasaki"
+      ]
+    },
+    {
+      "pmid": "41489806",
+      "title": "Sodium-glucose cotransporter-2 inhibitors and sepsis: a story with two tails or with one tail?",
+      "abstract": "Sepsis is a heterogeneous clinical syndrome characterized by dysregulated host response to infection. The pathophysiology of sepsis is very complex and it is now considered that sepsis has a variety of subtypes. During sepsis, apart from immune dysfunction, simultaneous activation of the complement and coagulation systems occur. These alterations damage the endothelium, cause microcirculatory dysfunction and decreased perfusion to tissues resulting in hypoxic damage causing vicious cycle in sepsis.Sodium-glucose cotransporter inhibitors (SGLTi) are a class of medications initially developed as glucose-lowering agents that have since been proven to have profound effects for kidney and heart protection in broad populations with or without diabetes. Especially SGLT2i, but also the combination of SGLT1/2i, have cardiovascular and renal benefits, independent of their glucose lowering effects. Interestingly, recent experimental studies have shown that SGLT2i have favorable effects during sepsis by modulation of immune system, improving tissue perfusion and hemodynamics. Clinical studies have shown that SGLT2i decreased sepsis severity and hospitalizations during sepsis. Apart from above mentioned effects, SGLT2i potentially modify gut microbiota, energetics and mitochondrial function which are involved in the pathogenesis of sepsis. In this review, we have summarized the experimental and clinical studies regarding the use of SGLT2i in sepsis and described potential mechanisms underlying these beneficial effects.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Sepsis",
+        "Animals",
+        "Gastrointestinal Microbiome"
+      ],
+      "chemicals": [
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "journal": "Inflammopharmacology",
+      "authors": [
+        "Baris Afsar",
+        "Rengin Elsurer Afsar",
+        "Katherine Tuttle",
+        "Krista L Lentine"
+      ]
+    },
+    {
+      "pmid": "41303672",
+      "title": "Integrated Transcriptomic Analysis of S100A8/A9 as a Key Biomarker and Therapeutic Target in Sepsis Pathogenesis and AI Drug Repurposing.",
+      "abstract": "Sepsis is a life-threatening condition driven by a dysregulated immune response, leading to systemic inflammation and multi-organ failure. Among the key molecular regulators, S100A8/A9 has emerged as a critical damage-associated molecular pattern (DAMP) protein, amplifying pro-inflammatory signaling via the Toll-like receptor 4 (TLR4) and receptor for advanced glycation end products (RAGE) pathways. Elevated S100A8/A9 levels correlate with disease severity, making it a promising biomarker and therapeutic target. To unravel the role of S100A8/A9 in sepsis, we integrate scRNA-seq and RNA-seq approaches. scRNA-seq enables cell-type-specific resolution of immune responses, uncovering cellular heterogeneity, state transitions, and inflammatory pathways at the single-cell level. In contrast, RNA-seq provides a comprehensive view of global transcriptomic alterations, allowing robust statistical analysis of differentially expressed genes. The integration of both approaches enables precise deconvolution of immune cell contributions, validation of cell-specific markers, and identification of potential therapeutic targets. Our findings highlight the S100A8/A9-driven inflammatory cascade, its impact on immune cell interactions, and its potential as a diagnostic and prognostic biomarker in sepsis. Eight protein targets resulted from the integrative transcriptomics studies (corresponding to S100A8, S100A9, S100A6, NAMPT, FTH1, B2M, KLF6 and SRGN) have been used to predict interaction affinities with 2958 ChEMBL approved drugs, by using a pre-trained AI models (PLAPT) in order to point directions on drug repurposing in sepsis. The strongest predicted interactions have been confirmed with molecular docking and molecular dynamics analysis. This study underscores the power of combining high-throughput transcriptomics to advance our understanding of sepsis pathophysiology and develop precision medicine strategies.",
+      "pub_date": "2025-11-19",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Calgranulin A",
+        "Calgranulin B",
+        "Humans",
+        "Sepsis",
+        "Drug Repositioning",
+        "Biomarkers",
+        "Gene Expression Profiling",
+        "Transcriptome"
+      ],
+      "chemicals": [
+        "Calgranulin A",
+        "Calgranulin B",
+        "Biomarkers",
+        "S100A9 protein, human",
+        "S100A8 protein, human"
+      ],
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Kirtan Dave",
+        "Alejandro Pazos-Garc\u00eda",
+        "Natia Tamarashvili",
+        "Jose V\u00e1zquez-Naya",
+        "Cristian R Munteanu"
+      ]
+    },
+    {
+      "pmid": "42190090",
+      "title": "Recognizing and managing neonatal sepsis.",
+      "abstract": "Neonatal sepsis remains a leading cause of morbidity and mortality among newborns worldwide, despite recent advances in recognition and management. Both early-onset and late-onset sepsis present significant challenges for neonates, particularly those born prematurely or with low birth weight. The severity and progression of the condition can be influenced by factors such as the timing of exposure, the host's immune response, and the virulence of the infecting pathogen. As intrapartum screening methods, novel diagnostic studies, and targeted antibiotic management strategies continue to evolve, it is essential for the practicing provider to understand the implications of this condition and to recognize and manage it appropriately.",
+      "pub_date": "2026-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Neonatal Sepsis",
+        "Infant, Newborn",
+        "Anti-Bacterial Agents",
+        "Pregnancy",
+        "Female",
+        "Antibiotic Prophylaxis"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "JAAPA : official journal of the American Academy of Physician Assistants",
+      "authors": [
+        "Tucker Buffington",
+        "Lauren Hoover"
+      ]
+    },
+    {
+      "pmid": "41480318",
+      "title": "Sphinganine inhibits macrophage polarization and protects against sepsis-induced intestinal injury.",
+      "abstract": "Sepsis-induced intestinal injury disrupts barrier function and exacerbates systemic inflammation, contributing to high mortality. To investigate the mechanism by which sphinganine protects against sepsis-induced intestinal injury, focusing on macrophage polarization and toll like receptor 2 (TLR2)/nuclear factor kappa-B (NF-\u03baB) signaling. A cecal ligation and puncture sepsis model was established in mice ( Sphinganine significantly reduced serum levels of DAO ( Sphinganine protects against sepsis-induced intestinal injury by inhibiting TLR2/NF-\u03baB signaling, modulating macrophage polarization toward the M2 phenotype, and preserving intestinal barrier integrity.",
+      "pub_date": "2025-12-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Macrophages",
+        "Mice",
+        "Signal Transduction",
+        "Sepsis",
+        "Disease Models, Animal",
+        "Male",
+        "Toll-Like Receptor 2",
+        "Intestinal Mucosa",
+        "Mice, Inbred C57BL",
+        "NF-kappa B",
+        "Macrophage Activation",
+        "Molecular Docking Simulation",
+        "Sphingosine",
+        "Humans",
+        "Cytokines",
+        "Proteomics",
+        "Cell Polarity"
+      ],
+      "chemicals": [
+        "Toll-Like Receptor 2",
+        "Tlr2 protein, mouse",
+        "NF-kappa B",
+        "Sphingosine",
+        "Cytokines"
+      ],
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Yi-Fan Chen",
+        "Ze-Tian Wang",
+        "Jian Zhao",
+        "Jian-Guo Tang",
+        "Bai-Yin Zhang"
+      ]
+    },
+    {
+      "pmid": "41568715",
+      "title": "Efficacy and safety of anticoagulant therapy in sepsis: A systematic review and meta-analysis.",
+      "abstract": "ImportanceThe role of anticoagulant therapy as an adjuvant treatment for sepsis remains controversial. Although observational studies have often suggested benefits, large-scale randomized controlled trials have yielded conflicting results, and the risk-to-benefit profile across different anticoagulant agents remains unclear.ObjectiveTo evaluate the efficacy and safety of anticoagulant therapy and its effect on all-cause mortality and major bleeding events in adult patients with sepsis as well as explore differences between study designs and anticoagulant types.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anticoagulants",
+        "Sepsis",
+        "Hemorrhage",
+        "Randomized Controlled Trials as Topic",
+        "Observational Studies as Topic",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "The Journal of international medical research",
+      "authors": [
+        "Jun Lu",
+        "Zhirong Zhang",
+        "Lina Wang"
+      ]
+    },
+    {
+      "pmid": "41316366",
+      "title": "Cost-effectiveness of procalcitonin-guided antibiotic duration for hospitalized patients with sepsis.",
+      "abstract": "Procalcitonin (PCT)-guided antibiotic duration for critically ill adults with sepsis may be clinically effective and safe. However, cost-effectiveness analyses using clinical trial data for this precision medicine approach in critical care are lacking. This economic evaluation investigates the cost-effectiveness of a daily PCT-guided protocol to guide the duration of antibiotic treatment in adult patients with sepsis. Two analyses were conducted, the first estimating the cost per quality-adjusted life year (QALY) of the ADAPT-Sepsis study, which recruited 2760 patients randomized to a daily PCT-guided protocol, a daily C-reactive protein-guided protocol and standard care. The second analysis used meta-analyzed results from ADAPT-Sepsis and other PCT-guided treatment studies and employed a lifetime horizon. Key outcomes were the incremental costs and QALYs gained from using the daily PCT-guided protocol approach compared with standard care. Other outcome measures included changes in days of antibiotics, days of hospital stay, days of intensive care unit stay, the percentage of deaths and the number of PCT tests performed. Cost-effectiveness results were driven by the assumed impact of PCT testing on mortality although the confidence/credible intervals for ADAPT-Sepsis and the meta-analyzed data both included no effect. Within ADAPT-Sepsis, the use of PCT tests cost \u20ac427 more per patient and was associated with a small QALY loss (0.001), which suggests the daily PCT-guided protocol is dominated. Using meta-analyzed data, the daily PCT-guided protocol was assumed to cost \u20ac330 more per patient but was associated with 0.139 more QALYs, resulting in a cost per QALY gained of \u20ac2384. If only antibiotic use and PCT tests were assumed to differ then PCT testing is estimated to cost no more than \u20ac110 per patient with QALYs equal in both arms regardless of whether ADAPT-Sepsis or meta-analyzed data were used. This economic analysis has shown that a PCT-guided protocol to guide the duration of antibiotic treatment could be cost-effective. Where only differences in antibiotic use and PCT testing are assumed, the increased costs per patient are modest which may be seen as worthwhile to safely improve antibiotic stewardship for critically ill adult patients with sepsis.",
+      "pub_date": "2025-11-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Procalcitonin",
+        "Sepsis",
+        "Cost-Benefit Analysis",
+        "Anti-Bacterial Agents",
+        "Quality-Adjusted Life Years",
+        "Biomarkers",
+        "Male",
+        "Middle Aged",
+        "Hospitalization",
+        "Female",
+        "Aged",
+        "Intensive Care Units"
+      ],
+      "chemicals": [
+        "Procalcitonin",
+        "Anti-Bacterial Agents",
+        "Biomarkers"
+      ],
+      "journal": "Critical care (London, England)",
+      "authors": [
+        "Matt Stevenson",
+        "Jessica E Forsyth",
+        "Anower Hossain",
+        "Ranjit Lall",
+        "Paul Dark"
+      ]
+    }
+  ]
+}

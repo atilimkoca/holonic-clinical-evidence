@@ -1,0 +1,33 @@
+@prefix gen: <https://example.org/medical/shapes#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+gen:AntibioticShape a sh:NodeShape ;
+    sh:targetClass <https://example.org/medical#Antibiotic> .
+
+gen:DiseaseShape a sh:NodeShape ;
+    sh:property [ sh:class <https://example.org/medical#Symptom> ;
+            sh:path <https://example.org/medical#hasSymptom> ],
+        [ sh:path <https://example.org/medical#hasSymptom> ;
+            sh:qualifiedMinCount 1 ;
+            sh:qualifiedValueShape [ sh:class <https://example.org/medical#Symptom> ] ] ;
+    sh:targetClass <https://example.org/medical#Disease> .
+
+gen:DrugShape a sh:NodeShape ;
+    sh:not [ sh:class <https://example.org/medical#Disease> ] ;
+    sh:property [ sh:maxCount 1 ;
+            sh:minCount 1 ;
+            sh:path <https://example.org/medical#hasAtcCode> ],
+        [ sh:class <https://example.org/medical#Drug> ;
+            sh:path <https://example.org/medical#interactsWith> ],
+        [ sh:maxCount 1 ;
+            sh:path <https://example.org/medical#hasAtcCode> ],
+        [ sh:class <https://example.org/medical#Disease> ;
+            sh:path <https://example.org/medical#treats> ],
+        [ sh:datatype xsd:string ;
+            sh:path <https://example.org/medical#hasAtcCode> ] ;
+    sh:targetClass <https://example.org/medical#Drug> .
+
+gen:SymptomShape a sh:NodeShape ;
+    sh:targetClass <https://example.org/medical#Symptom> .
+

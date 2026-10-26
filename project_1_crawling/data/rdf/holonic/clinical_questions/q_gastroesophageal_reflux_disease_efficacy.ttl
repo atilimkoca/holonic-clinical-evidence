@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_gastroesophageal_reflux_disease_efficacy a holon:EntityEntry ;
+    holon:entity oed:gastroesophageal_reflux_disease ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_gastroesophageal_reflux_disease_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_gastroesophageal_reflux_disease_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.58 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_gastroesophageal_reflux_disease_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:37061897 ;
+    oe:effectiveness "effective" .
+
+oedrug:omeprazole oe:treats oed:gastroesophageal_reflux_disease .
+
+oeevt:ev_q_gastroesophageal_reflux_disease_efficacy-tt rdf:object oed:gastroesophageal_reflux_disease ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:omeprazole .
+
+oeq:q_gastroesophageal_reflux_disease_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is omeprazole compared with other agents for Gastroesophageal Reflux Disease"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.33 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_gastroesophageal_reflux_disease_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_gastroesophageal_reflux_disease_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_gastroesophageal_reflux_disease_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_gastroesophageal_reflux_disease_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Gastroesophageal Reflux Disease with omeprazole."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_gastroesophageal_reflux_disease_safety ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.58 ;
+    oe:aboutDisease oed:gastroesophageal_reflux_disease ;
+    oe:answerText "The purpose of this American Gastroenterological Association (AGA) Institute Clinical Practice Update is to review the available evidence and expert advice regarding the clinical management of patients with suspected extraesophageal gastroesophageal reflux disease. This article provides practical advice based on the available published evidence including that identified from recently published reviews from leading investigators in the field, prospective and population studies, clinical trials, and recent clinical guidelines and technical reviews."^^xsd:string ;
+    oe:belongsToSpecialty "Gastroenterology" ;
+    oe:cites oesrc:36107559,
+        oesrc:37061897,
+        oesrc:39145848,
+        oesrc:39269391 ;
+    oe:questionText "How effective is omeprazole compared with other agents for Gastroesophageal Reflux Disease?"^^xsd:string .
+

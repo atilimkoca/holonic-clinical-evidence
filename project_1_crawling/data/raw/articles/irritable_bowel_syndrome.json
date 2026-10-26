@@ -1,0 +1,371 @@
+{
+  "disease": "Irritable Bowel Syndrome",
+  "slug": "irritable_bowel_syndrome",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "38595149",
+      "title": "Central Neuromodulators in Irritable Bowel Syndrome: Why, How, and When.",
+      "abstract": "Irritable bowel syndrome (IBS) is responsive to treatments using central neuromodulators. Central neuromodulators work by enhancing the synaptic transmission of 5-hydroxytryptamine, noradrenalin, and dopamine, achieving a slower regulation or desensitization of their postsynaptic receptors. Central neuromodulators act on receptors along the brain-gut axis, so they are useful in treating psychiatric comorbidities, modifying gut motility, improving central downregulation of visceral signals, and enhancing neurogenesis in patients with IBS. Choosing a central neuromodulator for treating IBS should be according to the pharmacological properties and predominant symptoms. The first-line treatment for pain management in IBS is using tricyclic antidepressants. An alternative for pain management is the serotonin and noradrenaline reuptake inhibitors. Selective serotonin reuptake inhibitors are useful when symptoms of anxiety and hypervigilance are dominant but are not helpful for treating abdominal pain. The predominant bowel habit is helpful when choosing a neuromodulator to treat IBS; selective serotonin reuptake inhibitors help constipation, not pain, but may cause diarrhea; tricyclic antidepressants help diarrhea but may cause constipation. A clinical response may occur in 6-8 weeks, but long-term treatment (usually 6-12 months) is required after the initial response to prevent relapse. Augmentation therapy may be beneficial when the therapeutic effect of the first agent is incomplete or associated with side effects. It is recommended to reduce the dose of the first agent and add a second complementary treatment. This may include an atypical antipsychotic or brain-gut behavioral treatment. When tapering central neuromodulators, the dose should be reduced slowly over 4 weeks but may take longer when discontinuation effects occur.",
+      "pub_date": "2024-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Irritable Bowel Syndrome",
+        "Neurotransmitter Agents",
+        "Antidepressive Agents, Tricyclic",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Brain-Gut Axis",
+        "Serotonin and Noradrenaline Reuptake Inhibitors"
+      ],
+      "chemicals": [
+        "Neurotransmitter Agents",
+        "Antidepressive Agents, Tricyclic",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Serotonin and Noradrenaline Reuptake Inhibitors"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "authors": [
+        "Ignacio Hanna-Jairala",
+        "Douglas A Drossman"
+      ]
+    },
+    {
+      "pmid": "35433498",
+      "title": "Efficacy of Probiotics for Irritable Bowel Syndrome: A Systematic Review and Network Meta-Analysis.",
+      "abstract": "Irritable bowel syndrome (IBS) is a common gastrointestinal condition. Studies regarding the treatment of IBS with probiotics have not yielded consistent results, and the best probiotics has not yet been confirmed. Therefore, we performed a network meta-analysis (NMA) to assess the relative rank order of different probiotics for IBS. We searched for RCTs on the efficacy of probiotics for IBS until August 25, 2021. The primary outcome was the symptom relief rate, as well as global symptoms, abdominal pain, bloating, and straining scores. The NMA was conducted using Stata 15.0. We also used meta-regression to explore whether the treatment length and dose influenced the efficacy. Forty-three RCTs, with 5,531 IBS patients, were included in this analysis. Firstly, we compared the efficacy of different probiotic species. The findings of this NMA suggested that",
+      "pub_date": "2022-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Research Support, Non-U.S. Gov't",
+        "Network Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Abdominal Pain",
+        "Humans",
+        "Irritable Bowel Syndrome",
+        "Probiotics",
+        "Quality of Life",
+        "Treatment Outcome"
+      ],
+      "chemicals": [],
+      "journal": "Frontiers in cellular and infection microbiology",
+      "authors": [
+        "Tao Zhang",
+        "Cunzheng Zhang",
+        "Jindong Zhang",
+        "Feng Sun",
+        "Liping Duan"
+      ]
+    },
+    {
+      "pmid": "40789179",
+      "title": "Irritable Bowel Syndrome.",
+      "abstract": "Irritable bowel syndrome (IBS) is a common gastrointestinal disorder, with a prevalence of 4% to 10%. It is a chronic condition characterized by abdominal pain in conjunction with altered bowel habits, abdominal distention, or bloating. IBS can present with 3 different defecation patterns: IBS with constipation, IBS with diarrhea, or mixed IBS. Recent advances in IBS include a positive diagnosis based on symptom-based criteria and a treatment plan based on IBS subtype and bothersome symptoms. In addition to diet and lifestyle modifications, this article discusses the role of new pharmacologic and nonpharmacologic treatment options for the management of IBS.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Irritable Bowel Syndrome",
+        "Gastrointestinal Agents",
+        "Constipation",
+        "Diarrhea",
+        "Abdominal Pain"
+      ],
+      "chemicals": [
+        "Gastrointestinal Agents"
+      ],
+      "journal": "Annals of internal medicine",
+      "authors": [
+        "Katarina B Greer",
+        "Shahnaz Sultan"
+      ]
+    },
+    {
+      "pmid": "37184752",
+      "title": "Antibiotics and Probiotics for Irritable Bowel Syndrome.",
+      "abstract": "Irritable bowel syndrome (IBS) is a disorder of a gut-brain interaction characterised by abdominal pain and a change in stool form or frequency. Current symptom-based definitions and the classification of IBS promote heterogeneity amongst patients, meaning that there may be several different pathophysiological abnormalities leading to similar symptoms. Although our understanding of IBS is incomplete, there are several indicators that the microbiome may be involved in a subset of patients. Techniques including a faecal sample analysis, colonic biopsies, duodenal aspirates or surrogate markers, such as breath testing, have been used to examine the gut microbiota in individuals with IBS. Because of a lack of a clear definition of what constitutes a healthy gut microbiota, and the fact that alterations in gut microbiota have only been shown to be associated with IBS, a causal relationship is yet to be established. We discuss several hypotheses as to how dysbiosis may be responsible for IBS symptoms, as well as potential treatment strategies. We review the current evidence for the use of antibiotics and probiotics to alter the microbiome in an attempt to improve IBS symptoms. Rifaximin, a non-absorbable antibiotic, is the most studied antibiotic and has now been licensed for use in IBS with diarrhoea in the USA, but the drug remains unavailable in many countries for this indication. Current evidence also suggests that certain probiotics, including Lactobacillus plantarum DSM 9843 and Bifidobacterium bifidum MIMBb75, may be efficacious in some patients with IBS. Finally, we describe the future challenges facing us in our attempt to modulate the microbiome to treat IBS.",
+      "pub_date": "2023-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anti-Bacterial Agents",
+        "Irritable Bowel Syndrome",
+        "Rifaximin",
+        "Probiotics",
+        "Diarrhea"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "Rifaximin"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Vivek C Goodoory",
+        "Alexander C Ford"
+      ]
+    },
+    {
+      "pmid": "36677677",
+      "title": "Leaky Gut and the Ingredients That Help Treat It: A Review.",
+      "abstract": "The human body is in daily contact with potentially toxic and infectious substances in the gastrointestinal tract (GIT). The GIT has the most significant load of antigens. The GIT can protect the intestinal integrity by allowing the passage of beneficial agents and blocking the path of harmful substances. Under normal conditions, a healthy intestinal barrier prevents toxic elements from entering the blood stream. However, factors such as stress, an unhealthy diet, excessive alcohol, antibiotics, and drug consumption can compromise the composition of the intestinal microbiota and the homeostasis of the intestinal barrier function of the intestine, leading to increased intestinal permeability. Intestinal hyperpermeability can allow the entry of harmful agents through the junctions of the intestinal epithelium, which pass into the bloodstream and affect various organs and systems. Thus, leaky gut syndrome and intestinal barrier dysfunction are associated with intestinal diseases, such as inflammatory bowel disease and irritable bowel syndrome, as well as extra-intestinal diseases, including heart diseases, obesity, type 1 diabetes mellitus, and celiac disease. Given the relationship between intestinal permeability and numerous conditions, it is convenient to seek an excellent strategy to avoid or reduce the increase in intestinal permeability. The impact of dietary nutrients on barrier function can be crucial for designing new strategies for patients with the pathogenesis of leaky gut-related diseases associated with epithelial barrier dysfunctions. In this review article, the role of functional ingredients is suggested as mediators of leaky gut-related disorders.",
+      "pub_date": "2023-01-07",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gastrointestinal Diseases",
+        "Irritable Bowel Syndrome",
+        "Gastrointestinal Microbiome",
+        "Intestinal Mucosa",
+        "Permeability"
+      ],
+      "chemicals": [],
+      "journal": "Molecules (Basel, Switzerland)",
+      "authors": [
+        "Ricardo Santos Aleman",
+        "Marvin Moncada",
+        "Kayanush J Aryana"
+      ]
+    },
+    {
+      "pmid": "36014888",
+      "title": "Efficacy of an Irritable Bowel Syndrome Diet in the Treatment of Small Intestinal Bacterial Overgrowth: A Narrative Review.",
+      "abstract": "Small intestinal bacterial overgrowth (SIBO) is highly prevalent in irritable bowel syndrome (IBS). The eradication of bacterial overgrowth with antibiotics is the first-line treatment. However, focusing only on the antimicrobial effects without taking care to improve lifestyle factors, especially dietary patterns, may predispose patients to intestinal microbiota dysfunction. The objective of this study is to determine whether the current recommendations regarding nutrition in IBS are suitable for patients with SIBO. A narrative literature review was carried out using databases, including PubMed, ScienceDirect and Google Scholar. Recent studies indicate that dietary manipulation may have a role in alleviating SIBO gastrointestinal symptoms. A low FODMAP diet proposed for IBS may promote a negative shift in the gut microbiota and deepen the existing state of dysbiosis in SIBO patients. Supplementation with soluble fiber can lessen the symptoms in IBS and SIBO. Targeted probiotic therapy may also increase the effectiveness of antibiotic treatment and regulate bowel movements. Therefore, optimal dietary patterns play a key role in the treatment of SIBO. Based on currently available literature, the potential efficacy of the IBS diet in SIBO is largely hypothetical. Future research is needed to characterize a specific diet for the treatment of SIBO.",
+      "pub_date": "2022-08-17",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Anti-Bacterial Agents",
+        "Breath Tests",
+        "Diet",
+        "Dysbiosis",
+        "Humans",
+        "Intestine, Small",
+        "Irritable Bowel Syndrome",
+        "Probiotics"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Nutrients",
+      "authors": [
+        "Justyna Paulina Wielgosz-Grochowska",
+        "Nicole Domanski",
+        "Ma\u0142gorzata Ewa Drywie\u0144"
+      ]
+    },
+    {
+      "pmid": "40258375",
+      "title": "Efficacy of gut-brain neuromodulators in irritable bowel syndrome: an updated systematic review and meta-analysis.",
+      "abstract": "Gut-brain neuromodulators might be efficacious for irritable bowel syndrome (IBS), but there has been no synthesis of evidence from randomised controlled trials (RCTs) of some drug classes, and whether they have pain-modifying properties in IBS is unclear. We updated a previous systematic review and meta-analysis of RCTs examining these questions. We searched MEDLINE (from Jan 1, 1946, to Jan 1, 2025), Embase and Embase Classic (from Jan 1, 1947, to Jan 1, 2025), and the Cochrane Central Register of Controlled Trials (from database inception to Jan 1, 2025). Trials recruiting adults with IBS and that compared gut-brain neuromodulators versus placebo over at least 4 weeks of treatment were eligible. Dichotomous symptom data were pooled using a random effects model to obtain a relative risk (RR) of remaining symptomatic after therapy, with a 95% CI. The search strategy identified 3625 citations. 28 RCTs were eligible containing 2475 patients. Ten RCTs were identified since our previous meta-analysis, containing 1348 patients. The RR of global IBS symptoms not improving with gut-brain neuromodulators versus placebo in 22 RCTs (2222 patients) was 0\u00b777 (95% CI 0\u00b769-0\u00b787). The best evidence in terms of persistence of global IBS symptoms was for tricyclic antidepressants (TCAs) in 11 trials (1144 patients; RR 0\u00b770, 0\u00b762-0\u00b780). The RR of abdominal pain not improving with gut-brain neuromodulators versus placebo in 19 RCTs (1792 patients) was 0\u00b772 (95% CI 0\u00b762-0\u00b783). The best evidence was for TCAs in seven trials (708 patients; RR 0\u00b769, 0\u00b754-0\u00b787), but there was also a benefit of selective serotonin reuptake inhibitors in seven RCTs (324 patients; RR 0\u00b774, 0\u00b756-0\u00b799), and serotonin and norepinephrine reuptake inhibitors in two trials (94 patients; RR 0\u00b722, 0\u00b708-0\u00b759). Adverse events were not significantly more common with gut-brain neuromodulators, although rates of withdrawal due to adverse events were significantly higher. The certainty in the evidence for tricyclic antidepressants for global IBS symptoms was moderate, but it was low to very low for all other endpoints and drug classes studied. Some gut-brain neuromodulators are efficacious in reducing global symptoms and abdominal pain in IBS. The findings support guidelines that recommend use of tricyclic antidepressants for ongoing global symptoms or abdominal pain but also highlight a potential for SSRIs to be modestly effective for abdominal pain. More data for SNRIs, azapirones, and tetracyclic antidepressants in IBS are required. None.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Irritable Bowel Syndrome",
+        "Neurotransmitter Agents",
+        "Randomized Controlled Trials as Topic",
+        "Brain",
+        "Treatment Outcome",
+        "Abdominal Pain"
+      ],
+      "chemicals": [
+        "Neurotransmitter Agents"
+      ],
+      "journal": "The lancet. Gastroenterology & hepatology",
+      "authors": [
+        "Mais Khasawneh",
+        "Marjan Mokhtare",
+        "Paul Moayyedi",
+        "Christopher J Black",
+        "Alexander C Ford"
+      ]
+    },
+    {
+      "pmid": "36994979",
+      "title": "The Use of Peppermint Oil in Gastroenterology.",
+      "abstract": "For decades, mint has been used worldwide for its relieving effects against gastrointestinal disturbances. Peppermint is a perennial herb common in Europe and North America. The active ingredient of peppermint oil is menthol and has various gastroenterological and non-gastroenterological uses, especially in the context of functional gastrointestinal disorders (FGIDs). We conducted a literature search on the main medical databases for original articles, reviews, meta-analyses, randomized clinical trials, and case series using the following keywords and acronyms and their associations: peppermint oil, gastro-intestinal motility, irritable bowel syndrome, functional dyspepsia, gastrointestinal sensitivity and gastrointestinal endoscopy. Peppermint oil and its constituents exert smooth muscle relaxant and anti-spasmodic effects on the lower esophageal sphincter, stomach, duodenum, and large bowel. Moreover, peppermint oil can modulate visceral and central nervous system sensitivity. Taken together, these effects suggest using peppermint oil both for improved endoscopic performance and for treating functional dyspepsia and irritable bowel syndrome. Importantly, peppermint oil has an attractive safety profile compared to classical pharmacological treatments, especially in FGIDs. Peppermint oil is a safe herbal medicine therapy for application in gastroenterology, with promising scientific perspectives and rapidly expanding use in clinical practice.",
+      "pub_date": "2023-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Dyspepsia",
+        "Gastritis",
+        "Gastroenterology",
+        "Irritable Bowel Syndrome",
+        "Plant Oils",
+        "Mentha piperita"
+      ],
+      "chemicals": [
+        "peppermint oil",
+        "Plant Oils"
+      ],
+      "journal": "Current pharmaceutical design",
+      "authors": [
+        "Emidio Scarpellini",
+        "Bert Broeders",
+        "Jolien Schol",
+        "Pierangelo Santori",
+        "Mariachiara Addarii",
+        "Luigi Boccuto"
+      ]
+    },
+    {
+      "pmid": "35738725",
+      "title": "AGA Clinical Practice Guideline on the Pharmacological Management of Irritable Bowel Syndrome With Diarrhea.",
+      "abstract": "Irritable bowel syndrome (IBS) is a common functional gastrointestinal disorder associated with significant disease burden. This American Gastroenterological Association Guideline is intended to support practitioners in decisions about the use of medications for the pharmacological management of IBS with predominant diarrhea (IBS-D) and is an update of a prior technical review and guideline. The Grading of Recommendations Assessment, Development and Evaluation framework was used to assess evidence and make recommendations. The technical review panel prioritized clinical questions and outcomes according to their importance for clinicians and patients and conducted an evidence review of the following agents: eluxadoline, rifaximin, alosetron, loperamide, tricyclic antidepressants, selective serotonin reuptake inhibitors, and antispasmodics. The guideline panel reviewed the evidence and used the Evidence-to-Decision Framework to develop recommendations. The panel agreed on 8 recommendations for the management of patients with IBS-D. The panel made conditional recommendations for eluxadoline, rifaximin, alosetron, (moderate certainty), loperamide (very low certainty), tricyclic antidepressants, and anstispasmodics (low certainty). The panel made a conditional recommendation against the use of selective serotonin reuptake inhibitors (low certainty).",
+      "pub_date": "2022-07-01",
+      "publication_types": [
+        "Practice Guideline",
+        "Research Support, N.I.H., Extramural",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Antidepressive Agents, Tricyclic",
+        "Diarrhea",
+        "Gastrointestinal Agents",
+        "Humans",
+        "Irritable Bowel Syndrome",
+        "Loperamide",
+        "Rifaximin",
+        "Selective Serotonin Reuptake Inhibitors"
+      ],
+      "chemicals": [
+        "Antidepressive Agents, Tricyclic",
+        "Gastrointestinal Agents",
+        "Loperamide",
+        "Rifaximin",
+        "Selective Serotonin Reuptake Inhibitors"
+      ],
+      "journal": "Gastroenterology",
+      "authors": [
+        "Anthony Lembo",
+        "Shahnaz Sultan",
+        "Lin Chang",
+        "Joel J Heidelbaugh",
+        "Walter Smalley",
+        "G Nicholas Verne"
+      ]
+    },
+    {
+      "pmid": "37576702",
+      "title": "Efficacy and dose response of",
+      "abstract": "Probiotics have shown promise in alleviating symptoms of diarrhea-predominant irritable bowel syndrome (IBS-D); however, the certainty of evidence is low. Well-powered randomized controlled dose-ranging trials are warranted on promising single-strain candidates. To investigate the clinical efficacy of This is a randomized, double-blind, placebo-controlled, multi-center, and dose-ranging study. Three hundred and seven adults, 18-70 years of age, with IBS-D, according to Rome IV criteria, were allocated (1:1:1) to receive placebo or IBS-SSS was significantly reduced, after 8 wk, in participants receiving",
+      "pub_date": "2023-07-28",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Irritable Bowel Syndrome",
+        "Quality of Life",
+        "Diarrhea",
+        "Treatment Outcome",
+        "Abdominal Pain",
+        "Double-Blind Method"
+      ],
+      "chemicals": [],
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Christopher J Martoni",
+        "Shalini Srivastava",
+        "Anders Damholt",
+        "Gregory J Leyer"
+      ]
+    },
+    {
+      "pmid": "38395525",
+      "title": "AGA Clinical Practice Guideline on Fecal Microbiota-Based Therapies for Select Gastrointestinal Diseases.",
+      "abstract": "Fecal microbiota-based therapies include\u00a0conventional fecal microbiota transplant and US Food and Drug Administration-approved therapies, fecal microbiota live-jslm and fecal microbiota spores live-brpk. The American Gastroenterological Association (AGA) developed this guideline to provide recommendations on the use of fecal microbiota-based therapies in adults with recurrent Clostridioides difficile infection; severe to fulminant C difficile infection; inflammatory bowel diseases, including pouchitis; and irritable bowel syndrome. The\u00a0guideline was developed using the GRADE (Grading of Recommendations, Assessment, Development, and Evaluation) framework to prioritize clinical questions, identify patient-centered outcomes, and conduct an evidence synthesis. The guideline panel used the Evidence-to-Decision framework to develop recommendations for the use of fecal microbiota-based therapies in the specified gastrointestinal conditions and provided implementation considerations for clinical practice. The guideline panel made 7 recommendations. In immunocompetent adults with recurrent C difficile infection, the AGA suggests select use of fecal microbiota-based therapies on completion of standard of care antibiotics to prevent recurrence. In mildly or moderately immunocompromised adults with recurrent C difficile infection, the AGA suggests select use of conventional fecal microbiota transplant. In severely immunocompromised adults, the AGA suggests against the use of any fecal microbiota-based therapies to prevent recurrent C difficile. In adults hospitalized with severe or fulminant C difficile not responding to standard of care antibiotics, the AGA suggests select use of conventional fecal microbiota transplant. The AGA suggests against the use of conventional fecal microbiota transplant as treatment for inflammatory bowel diseases or irritable bowel syndrome, except in the context of clinical trials. Fecal microbiota-based therapies are effective therapy to prevent recurrent C difficile in select patients. Conventional fecal microbiota transplant is an adjuvant treatment for select adults hospitalized with severe or fulminant C difficile infection not responding to standard of care antibiotics. Fecal microbiota transplant cannot yet be recommended in other gastrointestinal conditions.",
+      "pub_date": "2024-03-01",
+      "publication_types": [
+        "Practice Guideline",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Irritable Bowel Syndrome",
+        "Clostridioides difficile",
+        "Treatment Outcome",
+        "Gastrointestinal Diseases",
+        "Fecal Microbiota Transplantation",
+        "Inflammatory Bowel Diseases",
+        "Clostridium Infections",
+        "Anti-Bacterial Agents",
+        "Microbiota",
+        "Recurrence"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Gastroenterology",
+      "authors": [
+        "Anne F Peery",
+        "Colleen R Kelly",
+        "Dina Kao",
+        "Byron P Vaughn",
+        "Benjamin Lebwohl",
+        "Siddharth Singh"
+      ]
+    },
+    {
+      "pmid": "36580333",
+      "title": "Acupuncture for the Treatment of Diarrhea-Predominant Irritable Bowel Syndrome: A Pilot Randomized Clinical Trial.",
+      "abstract": "Acupuncture is a promising therapy for irritable bowel syndrome (IBS), but the use of subjective scales as an assessment is accompanied by high placebo response rates. To preliminarily test the feasibility of using US Food and Drug Administration (FDA)-recommended end points to evaluate the efficacy of acupuncture in the treatment of IBS. This pilot, multicenter randomized clinical trial was conducted in 4 tertiary hospitals in China from July 1, 2020, to March 31, 2021, and 14-week data collection was completed in March 2021. Individuals with a diagnosis of IBS with diarrhea (IBS-D) were randomized to 1 of 3 groups, including 2 acupuncture groups (specific acupoints [SA] and nonspecific acupoints [NSA]) and a sham acupuncture group (non-acupoints [NA]) with a 1:1:1 ratio. Patients in all groups received twelve 30-minute sessions over 4 consecutive weeks at 3 sessions per week (ideally every other day). The primary outcome was the response rate at week 4, which was defined as the proportion of patients whose worst abdominal pain score (score range, 0-10, with 0 indicating no pain and 10 indicating unbearable severe pain) decreased by at least 30% and the number of type 6 or 7 stool days decreased by 50% or greater. Ninety patients (54 male [60.0%]; mean [SD] age, 34.5 [11.3] years) were enrolled, with 30 patients in each group. There were substantial improvements in the primary outcomes for all groups (composite response rates of 46.7% [95% CI, 28.8%-65.4%] in the SA group, 46.7% [95% CI, 28.8%-65.4%] in the NSA group, and 26.7% [95% CI, 13.0%-46.2%] in the NA group), although the difference between them was not statistically significant (P\u2009=\u2009.18). The response rates of adequate relief at week 4 were 64.3% (95% CI, 44.1%-80.7%) in the SA group, 62.1% (95% CI, 42.4%-78.7%) in the NSA group, and 55.2% (95% CI, 36.0%-73.0%) in the NA group (P\u2009=\u2009.76). Adverse events were reported in 2 patients (6.7%) in the SA group and 3 patients (10%) in NSA or NA group. In this pilot randomized clinical trial, acupuncture in both the SA and NSA groups showed clinically meaningful improvement in IBS-D symptoms, although there were no significant differences among the 3 groups. These findings suggest that acupuncture is feasible and safe; a larger, sufficiently powered trial is needed to accurately assess efficacy. Chinese Clinical Trial Registry: ChiCTR2000030670.",
+      "pub_date": "2022-12-01",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "United States",
+        "Humans",
+        "Male",
+        "Adult",
+        "Irritable Bowel Syndrome",
+        "Pilot Projects",
+        "Acupuncture Therapy",
+        "Diarrhea",
+        "Abdominal Pain"
+      ],
+      "chemicals": [],
+      "journal": "JAMA network open",
+      "authors": [
+        "Ling-Yu Qi",
+        "Jing-Wen Yang",
+        "Shi-Yan Yan",
+        "Jian-Feng Tu",
+        "Yan-Fen She",
+        "Ying Li"
+      ]
+    }
+  ]
+}

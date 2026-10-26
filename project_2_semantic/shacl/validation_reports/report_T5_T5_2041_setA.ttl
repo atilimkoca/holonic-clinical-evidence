@@ -1,0 +1,49 @@
+Validation Report
+Conforms: False
+Results (2):
+Constraint Violation in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: oe:CrossHolonConsistencyShape
+	Focus Node: oeevt:ev2041_0
+	Value Node: Literal("effective")
+	Result Path: oe:effectiveness
+	Source Constraint: [ sh:message Literal("T5 cross-holon: contradictory effectiveness for the same drug-disease across holons.") ; sh:prefixes oe:_prefixes ; sh:select Literal("
+            SELECT $this (oe:effectiveness AS ?path) (?eff1 AS ?value)
+            WHERE {
+                $this rdf:reifies ?tt1 .
+                ?tt1 rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?disease .
+                $this oe:effectiveness ?eff1 .
+                $this holon:inHolon ?h1 .
+
+                ?other rdf:reifies ?tt2 .
+                ?tt2 rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?disease .
+                ?other oe:effectiveness ?eff2 .
+                ?other holon:inHolon ?h2 .
+
+                FILTER (?h1 != ?h2 && ?eff1 = "effective" && ?eff2 = "ineffective")
+            }
+        ") ; sh:severity sh:Violation ]
+	Message: T5 cross-holon: contradictory effectiveness for the same drug-disease across holons.
+Constraint Violation in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: oe:CrossHolonConsistencyShape
+	Focus Node: oeevt:ev2041_1
+	Value Node: Literal("effective")
+	Result Path: oe:effectiveness
+	Source Constraint: [ sh:message Literal("T5 cross-holon: contradictory effectiveness for the same drug-disease across holons.") ; sh:prefixes oe:_prefixes ; sh:select Literal("
+            SELECT $this (oe:effectiveness AS ?path) (?eff1 AS ?value)
+            WHERE {
+                $this rdf:reifies ?tt1 .
+                ?tt1 rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?disease .
+                $this oe:effectiveness ?eff1 .
+                $this holon:inHolon ?h1 .
+
+                ?other rdf:reifies ?tt2 .
+                ?tt2 rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?disease .
+                ?other oe:effectiveness ?eff2 .
+                ?other holon:inHolon ?h2 .
+
+                FILTER (?h1 != ?h2 && ?eff1 = "effective" && ?eff2 = "ineffective")
+            }
+        ") ; sh:severity sh:Violation ]
+	Message: T5 cross-holon: contradictory effectiveness for the same drug-disease across holons.

@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_acute_kidney_injury_treatment> a holon:ClinicalQuestionHolon .\n\n<https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-int> a oe:Interior ;\n  rdf:type holon:ClinicalQuestionHolon ;\n  holon:hasAnswer <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-pro> .\n\n<https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-bou> a oe:Boundary ;\n  rdf:type holon:ClinicalQuestionHolon ;\n  holon:hasAnswer <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-pro> .\n\n<https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-pro> a oe:Projection ;\n  rdf:type holon:ClinicalQuestionHolon ;\n  holon:hasAnswer <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-con> .\n\n<https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-con> a oe:Context ;\n  rdf:type holon:ClinicalQuestionHolon ;\n  holon:hasAnswer <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment> .\n\n<https://example.org/openevidence/questions/q_acute_kidney_injury_treatment> a holon:ClinicalQuestionHolon ;\n  holon:hasAnswer <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-pro> .\n\n<https://example.org/openevidence/questions/q_acute_kidney_injury_treatment> oe:hasTarget <https://example.org/openevidence/diseases/acute_kidney_injury> .\n\n<https://example.org/openevidence/drugs/furosemide> oe:treats <https://example.org/openevidence/diseases/acute_kidney_injury> .\n\nNote: The answer to the question is that Furosemide is the recommended first-line pharmacological treatment for Acute Kidney Injury.",
+  "provider": "ollama",
+  "model": "llama3.1:8b",
+  "prompt_tokens": 955,
+  "completion_tokens": 594,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1549
+}

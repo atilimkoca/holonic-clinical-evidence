@@ -1,0 +1,447 @@
+{
+  "disease": "Heart Failure",
+  "slug": "heart_failure",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41319669",
+      "title": "Heart failure with reduced ejection fraction.",
+      "abstract": "Heart failure is a complex clinical syndrome affecting around 70 million individuals globally. It has a prevalence of 2% in Europe and North America and approximately 1% in Asia and South America. Accurate diagnosis relies on the presence of typical signs and symptoms, elevated natriuretic peptide concentrations, and evidence of cardiac structural or functional abnormalities using cardiac imaging techniques. Approximately half of all heart failure cases are attributed to reduced left ventricular systolic function-classified as heart failure with reduced ejection fraction (HFrEF). Current guideline-directed medical therapy has markedly improved survival and quality of life for patients with HFrEF. Contemporary management emphasises early initiation and rapid uptitration of four foundational drug classes-renin-angiotensin system inhibitors or angiotensin receptor-neprilysin inhibitors, \u03b2 blockers, mineralocorticoid receptor antagonists, and sodium-glucose cotransporter 2 inhibitors-alongside diuretics for the symptom relief of volume overload. Despite advances in management, heart failure remains a leading cause of cardiovascular morbidity and mortality, partly due to absence of implementation of, and poor adherence to, medications. Future directions to improve outcomes include the integration of personalised medicine approaches, multiomic profiling, and innovative clinical trial designs to address residual risk and identify novel therapeutic targets. This Seminar provides an overview of the current diagnostic and pharmacological management of patients with HFrEF, highlighting the progress and outlining the challenges that remain.",
+      "pub_date": "2026-01-31",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Adrenergic beta-Antagonists",
+        "Angiotensin Receptor Antagonists",
+        "Diuretics",
+        "Heart Failure",
+        "Mineralocorticoid Receptor Antagonists",
+        "Stroke Volume",
+        "Ventricular Dysfunction, Left",
+        "Quality of Life",
+        "Survival Rate"
+      ],
+      "chemicals": [
+        "Adrenergic beta-Antagonists",
+        "Angiotensin Receptor Antagonists",
+        "Diuretics",
+        "Mineralocorticoid Receptor Antagonists"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Antonio Cannata",
+        "Maria Generosa Crespo-Leiro",
+        "Daniel I Bromage",
+        "Frank Ruschitzka",
+        "Theresa A McDonagh"
+      ]
+    },
+    {
+      "pmid": "41367306",
+      "title": "Combination diuretic therapy in acute heart failure: A systematic review and meta-analysis.",
+      "abstract": "Current guideline recommendation to use escalating doses of loop diuretics in acute heart failure (AHF) is limited by worsening renal function and by diuretic resistance. There is an unmet need for novel therapeutic strategies to treat these patients. The aim of this study was to evaluate efficacy and safety of different combination diuretic strategies in patients with AHF. A systematic search identified 11 eligible randomized controlled trials involving 7517 patients. A combination diuretic strategy was not associated with reduction of all-cause death (relative risk [RR] 0.97, 95% confidence interval [CI] 0.89-1.07, p\u2009=\u20090.55) or heart failure (HF) events (RR 0.83, 95% CI 0.64-1.08, p\u2009=\u20090.16), but was associated with more weight loss (mean difference [MD]: -0.96, 95% CI -1.37 to -0.54, p\u2009<\u20090.0001) and diuretic efficiency (weight changes per mean daily loop diuretic dose) (MD: -0.56, 95% CI -1.11 to -0.02, p\u2009=\u20090.04), higher daily urinary output (MD 266.26, 95% CI 47.20-485.32, p\u2009=\u20090.02). Sodium-glucose co-transporter 2 inhibitor (SGLT2i) administration during hospitalization reduced HF events (RR 0.66, 95% CI 0.58-0.76, p\u2009<\u20090.0001) and the risk of worsening renal function (defined as an increase >0.3\u2009mg/dl of serum creatinine and/or a reduction >50% of the estimated glomerular filtration rate compared with baseline levels) (RR 0.69, 95% CI 0.50-0.96, p\u2009=\u20090.03). In patients with AHF, a combination diuretic strategy improved early decongestion without affecting prognosis. The use of SGLT2i during index hospitalization was associated with an improvement in all-cause mortality and HF events.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Heart Failure",
+        "Acute Disease",
+        "Sodium Potassium Chloride Symporter Inhibitors",
+        "Drug Therapy, Combination",
+        "Diuretics",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "chemicals": [
+        "Sodium Potassium Chloride Symporter Inhibitors",
+        "Diuretics"
+      ],
+      "journal": "European journal of heart failure",
+      "authors": [
+        "Francesco Fioretti",
+        "Angelica Praderio",
+        "Savina Nodari",
+        "Marco Metra",
+        "Javed Butler"
+      ]
+    },
+    {
+      "pmid": "41211954",
+      "title": "Beta-Blockers after Myocardial Infarction with Normal Ejection Fraction.",
+      "abstract": "The benefit of beta-blockers after myocardial infarction in patients with a preserved left ventricular ejection fraction (LVEF) is unclear. We conducted a meta-analysis at the individual-patient level using data from five open-label trials that randomly assigned patients with recent myocardial infarction, no other indications for beta-blocker therapy, and an LVEF of at least 50% to receive beta-blocker therapy or no beta-blocker therapy. The primary end point was a composite of death from any cause, myocardial infarction, or heart failure. Event rates were analyzed with a one-stage fixed-effects Cox proportional-hazards model. A total of 17,801 patients were included from the REBOOT (7459 patients), REDUCE-AMI (4967 patients), BETAMI (2441 patients), DANBLOCK (2277 patients), and CAPITAL-RCT (657 patients) trials. Of these 17,801 patients, 8831 (49.6%) were assigned to receive a beta-blocker and 8970 (50.4%) were assigned to receive no beta-blocker. During a median follow-up of 3.6 years (interquartile range, 2.3 to 4.6), a primary-end-point event occurred in 717 patients (8.1%) in the beta-blocker group and 748 patients (8.3%) in the no-beta-blocker group (hazard ratio, 0.97; 95% confidence interval [CI], 0.87 to 1.07; P\u2009=\u20090.54). Death from any cause occurred in 335 patients in the beta-blocker group and 326 patients in the no-beta-blocker group (hazard ratio, 1.04; 95% CI, 0.89 to 1.21); myocardial infarction occurred in 360 and 407 patients, respectively (hazard ratio, 0.89; 95% CI, 0.77 to 1.03); and heart failure occurred in 75 and 87 patients (hazard ratio, 0.87; 95% CI, 0.64 to 1.19). In this meta-analysis including individual-patient data from five randomized trials, beta-blocker therapy did not reduce the incidence of death from any cause, myocardial infarction, or heart failure in patients with an LVEF of at least 50% after myocardial infarction without other indications for beta-blockers. (Funded by Centro Nacional de Investigaciones Cardiovasculares Carlos III and others; PROSPERO database number, CRD420251119176.).",
+      "pub_date": "2026-02-05",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Adrenergic beta-Antagonists",
+        "Heart Failure",
+        "Myocardial Infarction",
+        "Proportional Hazards Models",
+        "Randomized Controlled Trials as Topic",
+        "Stroke Volume",
+        "Ventricular Function, Left",
+        "Follow-Up Studies",
+        "Recurrence",
+        "Incidence",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Adrenergic beta-Antagonists"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Anna Meta Dyrvig Kristensen",
+        "Xavier Rossello",
+        "Dan Atar",
+        "Troels Yndigegn",
+        "Takeshi Kimura",
+        "Roberto Latini"
+      ]
+    },
+    {
+      "pmid": "41203232",
+      "title": "SGLT2 Inhibitors and Kidney Outcomes by Glomerular Filtration Rate and Albuminuria: A Meta-Analysis.",
+      "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors reduce chronic kidney disease (CKD) progression in individuals with type 2 diabetes, CKD, or heart failure. However, their effects in those with stage 4 CKD or little to no albuminuria remain uncertain. To assess whether estimated glomerular filtration rate (eGFR) or degree of albuminuria, measured by urinary albumin to creatinine ratio (UACR), modifies the effects of SGLT2 inhibitors on kidney outcomes. SGLT2 inhibitor trials participating in the SGLT2 Inhibitor Meta-Analysis Cardio-Renal Trialists' Consortium (SMART-C). Randomized, double-blind, placebo-controlled trials within SMART-C evaluating an SGLT2 inhibitor with label indications for reducing CKD progression including at least 500 participants in each group with at least 6 months of follow-up. Treatment effects in individual trials were pooled using inverse variance-weighted meta-analysis. CKD progression, defined as kidney failure, at least 50% reduction in eGFR, or death due to kidney failure. Other outcomes included annual rate of eGFR decline and kidney failure. Among 70\u202f361 participants (mean [SD] age, 64.8 [8.7] years; 24\u202f595 [35.0%] females) in 10 randomized trials, 2314 (3.3%) experienced CKD progression and 988 (1.4%) reached kidney failure. SGLT2 inhibitors reduced the risk of CKD progression (25.4 vs 40.3 events per 1000 patient-years; hazard ratio [HR], 0.62 [95% CI, 0.57-0.68]), irrespective of baseline eGFR (HR of 0.61 [95% CI, 0.52-0.71] for eGFR \u226560 mL/min/1.73 m2; 0.57 [95% CI, 0.47-0.70] for eGFR of 45 to <60 mL/min/1.73 m2; 0.64 [95% CI, 0.54-0.75] for eGFR of 30 to <45 mL/min/1.73 m2; and 0.71 [95% CI, 0.60-0.83] for eGFR <30 mL/min/1.73 m2; P for trend\u2009=\u2009.16) and baseline albuminuria (HR of 0.58 [95% CI, 0.44-0.76] for albuminuria \u226430 mg/g; 0.74 [95% CI, 0.57-0.96] for >30-300 mg/g; and 0.57 [95% CI, 0.52-0.64] for more than 300 mg/g; P for trend\u2009=\u2009.49). Although the magnitude of protection varied, SGLT2 inhibitors reduced the annual rate of eGFR decline across all eGFR and UACR subgroups, including when participants with and without diabetes were analyzed separately. SGLT2 inhibitors also reduced the risk of kidney failure alone (HR, 0.66 [95% CI, 0.58-0.75]). In this meta-analysis, SGLT2 inhibitors were found to lower the risk of CKD progression regardless of baseline eGFR or albuminuria, including in patients with stage 4 CKD or minimal albuminuria, supporting their routine use to improve kidney outcomes across the full spectrum of kidney function among patients with type 2 diabetes, CKD, or heart failure.",
+      "pub_date": "2026-01-20",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Albumins",
+        "Albuminuria",
+        "Creatinine",
+        "Diabetes Mellitus, Type 2",
+        "Disease Progression",
+        "Glomerular Filtration Rate",
+        "Heart Failure",
+        "Kidney Failure, Chronic",
+        "Randomized Controlled Trials as Topic",
+        "Renal Insufficiency, Chronic",
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "chemicals": [
+        "Albumins",
+        "Creatinine",
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Brendon L Neuen",
+        "Robert A Fletcher",
+        "Stefan D Anker",
+        "Deepak L Bhatt",
+        "Javed Butler",
+        "David Z I Cherney"
+      ]
+    },
+    {
+      "pmid": "41384556",
+      "title": "Use of pimobendan in cats: a practical evidence-based review.",
+      "abstract": "Cardiomyopathies are a common condition and the leading cause of congestive heart failure (CHF) in cats; however, to date there have been limited therapeutic options available. Commonly used therapeutics include diuretics for CHF and antithrombotics 2 to reduce the risk of arterial thromboembolism (ATE), which do not directly affect myocardial function. This review summarizes the evidence for the use of pimobendan, a phosphodiesterase III inhibitor and calcium channel sensitizer, in feline cardiomyopathies. Potential benefits of pimobendan in cats include improved left ventricular systolic and diastolic function, reduced platelet aggregation, reduction in left atrial size, and improved left atrial and auricular systolic function.Drug details:Pimobendan is indicated for the treatment of CHF in conditions associated with systolic dysfunction (including dilated cardiomyopathy, restrictive cardiomyopathy, arrhythmogenic right ventricular cardiomyopathy and some cases with non-specific phenotypes) and has been used in the treatment of CHF secondary to hypertrophic cardiomyopathy. A dosage of pimobendan of 0.25 mg/kg PO q12h is generally well tolerated, and an approved oral solution is now available in the UK, EU, USA, Japan and Australia, which may facilitate administration in some cats; it should be noted, however, that pimobendan is not licensed for use in cats and marketing authorizations may vary between countries. Adverse events are uncommon with pimobendan but include gastrointestinal upset (anorexia, vomiting), transient changes in heart rate and possible worsening arrhythmias at higher doses. The use of pimobendan is contraindicated in cats with fixed obstructions of the left or right ventricular outflow tract (ie, congenital heart disease - pulmonic or aortic valvular stenosis). This article reviews the use of pimobendan in cats for primary care veterinarians and includes practical case examples that reflect the typical use and recommendations for usage of pimobendan by the authors.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Cats",
+        "Pyridazines",
+        "Cat Diseases",
+        "Heart Failure",
+        "Cardiomyopathies",
+        "Cardiotonic Agents"
+      ],
+      "chemicals": [
+        "pimobendan",
+        "Pyridazines",
+        "Cardiotonic Agents"
+      ],
+      "journal": "Journal of feline medicine and surgery",
+      "authors": [
+        "Sonya G Gordon",
+        "Ashley B Saunders",
+        "Sonya Wesselowski",
+        "Elizabeth L Malcolm",
+        "Alice Watson"
+      ]
+    },
+    {
+      "pmid": "41136067",
+      "title": "Worsening Heart Failure.",
+      "abstract": "Worsening heart failure is a common cause of morbidity and mortality among patients worldwide. It is important to recognize changes in a patient's clinical care to understand the risk to their cardiovascular health and overall well-being. Events that define worsening heart failure include hospital admission for heart failure, emergency department visit for heart failure, outpatient intravenous diuretic therapy, escalation of outpatient oral diuretic therapy, and worsening symptoms despite appropriate medical therapy. Optimization of heart failure guideline-directed medical therapy during a worsening heart failure episode has been shown to improve patient survival, reduce hospitalization, and improve patient-reported outcomes.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Heart Failure",
+        "Diuretics",
+        "Disease Progression",
+        "Hospitalization"
+      ],
+      "chemicals": [
+        "Diuretics"
+      ],
+      "journal": "The Medical clinics of North America",
+      "authors": [
+        "Alison L Bailey",
+        "Nilay Sutaria"
+      ]
+    },
+    {
+      "pmid": "41136062",
+      "title": "Heart Failure Pharmacotherapy.",
+      "abstract": "Pharmacotherapy for heart failure (HF) with reduced ejection fraction (HFrEF) is the foundation of management. The basis of pharmacotherapy for HFrEF includes 4 pillars: beta-blockers, renin angiotensin aldosterone system modulators, mineralocorticoid receptor antagonists, and sodium glucose cotransporter 2 inhibitors. These drug classes collectively reduce mortality, hospitalizations, and can improve functional and clinical status. Additional pharmacotherapy with loop diuretics and sometimes addition of thiazide diuretics at the core can reduce HF symptoms. Contemporary data from recent randomized clinical trials have established a new foundation of successful management of patients with preserved ejection fraction HF.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Heart Failure",
+        "Mineralocorticoid Receptor Antagonists",
+        "Adrenergic beta-Antagonists",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Stroke Volume",
+        "Renin-Angiotensin System",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Sodium Potassium Chloride Symporter Inhibitors"
+      ],
+      "chemicals": [
+        "Mineralocorticoid Receptor Antagonists",
+        "Adrenergic beta-Antagonists",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Sodium Potassium Chloride Symporter Inhibitors"
+      ],
+      "journal": "The Medical clinics of North America",
+      "authors": [
+        "Dusty L Lisi",
+        "Kira Gaddis",
+        "Mahmoud H Abdou"
+      ]
+    },
+    {
+      "pmid": "41052644",
+      "title": "Lifetime benefits of comprehensive medical therapy in heart failure with mildly reduced or preserved ejection fraction.",
+      "abstract": "Sodium-glucose cotransporter-2 inhibitors (SGLT2i) and the nonsteroidal mineralocorticoid receptor antagonist (nsMRA) finerenone have each been shown to individually improve heart failure events among patients with heart failure and mildly reduced or preserved ejection fraction (HFmrEF/HFpEF). Moreover, the angiotensin receptor neprilysin inhibitor (ARNI) sacubitril/valsartan has been shown to improve outcomes in patients with HFmrEF/HFpEF with a left ventricular ejection fraction (LVEF) below normal (<60%). However, the expected benefits of the combined use of these agents with long-term administration are not well defined. Here, in this cross-trial analysis of DELIVER, FINEARTS-HF and PARAGON-HF, combined use of SGLT2i and nsMRA therapies was estimated to reduce the risk of cardiovascular death or first worsening heart failure event by 31% in the overall population (hazard ratio 0.69; 95% confidence interval 0.59-0.81), while combined use of SGLT2i, nsMRA and ARNI therapies was estimated to reduce risk by 39% in patients with HFmrEF/HFpEF and an LVEF <60% (hazard ratio 0.61; 95% confidence interval 0.48-0.77). With long-term use, combined SGLT2i and nsMRA therapies in a 65-year-old patient with HFmrEF/HFpEF, or combined SGLT2i, nsMRA and ARNI therapies in a 65-year-old patient with an LVEF <60%, were projected to afford 3.6 (2.0-5.2) or 4.9 (2.5-7.3) additional years free from cardiovascular death or a heart failure event, respectively. Combined therapy was estimated to result in meaningful gains in event-free survival across a broad age range, from 55 to 85\u2009years. Among patients with HFmrEF and HFpEF, the potential aggregated long-term treatment effects of early combination medical therapy with SGLT2i and nsMRA (and ARNI in selected individuals) are projected to be substantial.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Heart Failure",
+        "Stroke Volume",
+        "Aged",
+        "Male",
+        "Female",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Biphenyl Compounds",
+        "Mineralocorticoid Receptor Antagonists",
+        "Aminobutyrates",
+        "Valsartan",
+        "Drug Combinations",
+        "Tetrazoles",
+        "Angiotensin Receptor Antagonists",
+        "Aged, 80 and over",
+        "Middle Aged",
+        "Drug Therapy, Combination",
+        "Treatment Outcome",
+        "Naphthyridines"
+      ],
+      "chemicals": [
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Biphenyl Compounds",
+        "Mineralocorticoid Receptor Antagonists",
+        "Aminobutyrates",
+        "Valsartan",
+        "finerenone",
+        "Drug Combinations",
+        "sacubitril and valsartan sodium hydrate drug combination",
+        "Tetrazoles",
+        "Angiotensin Receptor Antagonists",
+        "Naphthyridines"
+      ],
+      "journal": "Nature medicine",
+      "authors": [
+        "Muthiah Vaduganathan",
+        "Brian L Claggett",
+        "Safia Chatur",
+        "Akshay S Desai",
+        "Pardeep S Jhund",
+        "Orly Vardeny"
+      ]
+    },
+    {
+      "pmid": "41910427",
+      "title": "Discontinuation of Beta-Blocker Therapy after Myocardial Infarction.",
+      "abstract": "The role of long-term beta-blocker therapy after a myocardial infarction in patients without left ventricular systolic dysfunction or heart failure is unclear in the era of contemporary coronary-artery reperfusion and secondary prevention interventions. We conducted an open-label, randomized, noninferiority trial at 25 centers in South Korea. Patients whose condition remained stable after a myocardial infarction, who had a left ventricular ejection fraction of at least 40% and no heart failure, and who had received beta-blocker therapy for at least 1 year after the myocardial infarction were randomly assigned in a 1:1 ratio to discontinue or to continue beta-blocker therapy. The primary end point was a composite of death from any cause, recurrent myocardial infarction, or hospitalization for heart failure. The prespecified noninferiority margin was an upper limit of the 95% confidence interval for the hazard ratio of 1.4. A total of 2540 patients underwent randomization; 1246 were assigned to beta-blocker discontinuation and 1294 to beta-blocker continuation. The mean age of the patients was 63.2 years, and 12.8% were women. At a median follow-up of 3.1 years (interquartile range, 2.5 to 3.5), a primary end-point event had occurred in 58 patients (4-year Kaplan-Meier estimate, 7.2%) in the discontinuation group and in 74 patients (4-year Kaplan-Meier estimate, 9.0%) in the continuation group (hazard ratio, 0.80; 95% confidence interval, 0.57 to 1.13; P\u2009=\u20090.001 for noninferiority). The incidence of serious adverse events was similar in the two groups. Among patients who received beta-blocker therapy beyond the first year after a myocardial infarction, discontinuation of beta-blocker therapy was noninferior to continuation with respect to a composite of death from any cause, recurrent myocardial infarction, or hospitalization for heart failure. (Funded by Patient-Centered Clinical Research Coordinating Center in the Ministry of Health and Welfare, South Korea; SMART-DECISION ClinicalTrials.gov number, NCT04769362.).",
+      "pub_date": "2026-04-02",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Adrenergic beta-Antagonists",
+        "Follow-Up Studies",
+        "Heart Failure",
+        "Hospitalization",
+        "Kaplan-Meier Estimate",
+        "Myocardial Infarction",
+        "Recurrence",
+        "Republic of Korea",
+        "Secondary Prevention",
+        "Stroke Volume",
+        "Withholding Treatment"
+      ],
+      "chemicals": [
+        "Adrenergic beta-Antagonists"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Ki Hong Choi",
+        "Danbee Kang",
+        "Weon Kim",
+        "Joon-Hyung Doh",
+        "Juhan Kim",
+        "Yong Hwan Park"
+      ]
+    },
+    {
+      "pmid": "41159486",
+      "title": "The chloride paradigm shift in heart failure: From neglected ion to keystone of precision diuretic therapy.",
+      "abstract": "Chloride, together with sodium, is one of the major extracellular ions and plays a critical yet often overlooked role in the pathophysiology of heart failure (HF). Beyond its passive role in maintaining electroneutrality and osmotic balance, chloride actively contributes to renal tubular transport via Na",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Heart Failure",
+        "Diuretics",
+        "Chlorides",
+        "Renin-Angiotensin System",
+        "Precision Medicine"
+      ],
+      "chemicals": [
+        "Diuretics",
+        "Chlorides"
+      ],
+      "journal": "European journal of heart failure",
+      "authors": [
+        "Jaime Maz\u00f3n-Ruiz",
+        "Eduardo Josu\u00e9 Banegas-Deras",
+        "Jose Mar\u00eda Fern\u00e1ndez-Rodr\u00edguez",
+        "Mar Domingo",
+        "Rafael de la Espriella",
+        "Pau Ll\u00e0cer"
+      ]
+    },
+    {
+      "pmid": "41382384",
+      "title": "Pharmacologic pitfalls in heart failure: A guide to drugs that may cause or exacerbate heart failure. A European Journal of Heart Failure expert consensus document.",
+      "abstract": "Heart failure (HF) exerts a global health burden, often complicated by polypharmacy due to the frequent coexistence of cardiovascular and non-cardiovascular comorbidities. While guideline-directed medical therapy and devices have significantly improved outcomes, a range of commonly prescribed medications may inadvertently worsen HF or precipitate decompensation. This expert consensus statement provides a comprehensive overview of drugs known to cause or exacerbate HF, offering practical guidance for clinicians to identify and avoid harmful pharmacologic exposures in this vulnerable population. The review examines the pathophysiological mechanisms, clinical evidence, and guideline-based recommendations for several drug classes, including antidiabetic agents (e.g. thiazolidinediones, dipeptidyl peptidase-4 inhibitors), antiarrhythmics (particularly Class I and III), calcium channel blockers, non-steroidal anti-inflammatory drugs, antifungals (e.g. itraconazole, amphotericin B), macrolide antibiotics, antihypertensives (e.g. \u03b1",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Consensus Statement",
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Consensus",
+        "Heart Failure",
+        "Hypoglycemic Agents",
+        "Polypharmacy"
+      ],
+      "chemicals": [
+        "Hypoglycemic Agents"
+      ],
+      "journal": "European journal of heart failure",
+      "authors": [
+        "Amr Abdin",
+        "Johann Bauersachs",
+        "Magdy Abdelhamid",
+        "Suleman Aktaa",
+        "Hussam Al Ghorani",
+        "Antonio Bayes-Genis"
+      ]
+    },
+    {
+      "pmid": "40956259",
+      "title": "Frailty and Effects of Semaglutide in Obesity-Related HFpEF: Findings From the STEP-HFpEF Program.",
+      "abstract": "Frailty is common in heart failure with preserved ejection fraction (HFpEF). In the STEP-HFpEF (Research Study to Investigate How Well Semaglutide Works in People Living With Heart Failure and Obesity) program, semaglutide improved heart failure (HF) symptoms and physical limitations and reduced body weight (BW) in participants with obesity-related HFpEF. Whether the efficacy and safety of semaglutide vary by frailty and the effects of semaglutide on frailty are unknown. This study sought to evaluate the efficacy of semaglutide in participants with obesity-related HFpEF according to frailty status at baseline. The authors performed a prespecified, pooled, participant-level analysis of the STEP-HFpEF program that included participants with obesity-related HFpEF. Participants were randomized to once-weekly semaglutide, 2.4 mg, or placebo for 52 weeks. Dual primary endpoints were changes in Kansas City Cardiomyopathy Questionnaire-Clinical Summary Score (KCCQ-CSS) and BW. Frailty was estimated using a cumulative deficit-derived frailty index comprising 34 variables across multiple domains at baseline and follow-up. Efficacy and safety of semaglutide were evaluated in participants across 3 baseline frailty strata. Effects of semaglutide on frailty burden were also assessed. Of the 1,145 participants, 110 (9.6%) were nonfrail, 343 (30.0%) were more frail, and 692 (60.4%) were most frail. Semaglutide-mediated weight loss was similar across frailty strata (P Semaglutide resulted in a similar reduction in BW across frailty subgroups but greater improvements in HF-related symptoms. Moreover, semaglutide reduced frailty burden after 52 weeks of treatment. (Research Study to Investigate How Well Semaglutide Works in People Living With Heart Failure and Obesity [STEP-HFpEF]; NCT04788511) (Research Study to Look at How Well Semaglutide Works in People Living With Heart Failure, Obesity and Type 2 Diabetes [STEP-HFpEF DM]; NCT04916470).",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Double-Blind Method",
+        "Frailty",
+        "Heart Failure",
+        "Obesity",
+        "Stroke Volume",
+        "Treatment Outcome",
+        "Weight Loss",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "journal": "JACC. Heart failure",
+      "authors": [
+        "Ambarish Pandey",
+        "Dalane W Kitzman",
+        "Khaja M Chinnakondepalli",
+        "Shachi Patel",
+        "Barry A Borlaug",
+        "Javed Butler"
+      ]
+    }
+  ]
+}

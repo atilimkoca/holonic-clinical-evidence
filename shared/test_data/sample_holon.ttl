@@ -1,0 +1,165 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix prov:   <http://www.w3.org/ns/prov#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+@prefix oeq:    <https://example.org/openevidence/questions/> .
+@prefix oed:    <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oesrc:  <https://example.org/openevidence/sources/> .
+@prefix oeevt:  <https://example.org/openevidence/events/> .
+
+# =============================================================================
+# SAMPLE HOLON: Clinical Question about Hypertension Treatment
+# Demonstrates the four-layer holon model with RDF 1.2 reification
+# =============================================================================
+
+# --- Holon Declaration --------------------------------------------------------
+
+oeq:q001 a holon:ClinicalQuestionHolon ;
+    rdfs:label "Clinical Question: First-line treatment for stage 2 hypertension"@en ;
+    holon:hasInteriorGraph oeq:q001-int ;
+    holon:hasBoundaryGraph oeq:q001-bnd ;
+    holon:hasProjectionGraph oeq:q001-prj ;
+    holon:hasContextGraph oeq:q001-ctx ;
+    holon:sequenceNumber 1 .
+
+# --- Interior Graph -----------------------------------------------------------
+# Contains the actual clinical content: question, answer, evidence assertions
+
+GRAPH oeq:q001-int {
+
+    oeq:q001 oe:questionText 
+        "What is the recommended first-line pharmacological treatment for adults with stage 2 hypertension?"^^xsd:string .
+    
+    oeq:q001 oe:answerText
+        "Current guidelines recommend initiating dual combination therapy for stage 2 hypertension. First-line agents include ACE inhibitors or ARBs combined with calcium channel blockers or thiazide diuretics."^^xsd:string .
+    
+    oeq:q001 oe:belongsToSpecialty "Cardiology" .
+
+    # Evidence Assertion 1: ACE inhibitors for hypertension
+    # Using RDF 1.2 reification syntax
+    oedrug:lisinopril oe:treats oed:hypertension ~ oeevt:ev001 {|
+        a holon:EvidenceAssertion ;
+        holon:confidence "0.92"^^xsd:decimal ;
+        holon:evidenceLevel "Level-1A" ;
+        holon:assessedBy oeq:openevidence_ai ;
+        holon:recordedOn "2025-03-15"^^xsd:date ;
+        oe:cites oesrc:pubmed_34567890 ;
+        holon:rationale "Systematic review of 15 RCTs confirms ACE inhibitor efficacy in stage 2 HTN"@en
+    |} .
+
+    # Evidence Assertion 2: Combination therapy
+    oedrug:amlodipine oe:treats oed:hypertension ~ oeevt:ev002 {|
+        a holon:EvidenceAssertion ;
+        holon:confidence "0.88"^^xsd:decimal ;
+        holon:evidenceLevel "Level-1B" ;
+        holon:assessedBy oeq:openevidence_ai ;
+        holon:recordedOn "2025-03-15"^^xsd:date ;
+        oe:cites oesrc:pubmed_34567891 ;
+        holon:rationale "ACCOMPLISH trial demonstrates CCB + ACEi superiority over diuretic + ACEi"@en
+    |} .
+
+    # Evidence Assertion 3: Side effect relationship
+    oedrug:lisinopril oe:causesSideEffect oe:dry_cough ~ oeevt:ev003 {|
+        a holon:EvidenceAssertion ;
+        holon:confidence "0.95"^^xsd:decimal ;
+        holon:evidenceLevel "Level-1A" ;
+        holon:assessedBy oeq:openevidence_ai ;
+        holon:recordedOn "2025-03-15"^^xsd:date ;
+        oe:cites oesrc:pubmed_34567892
+    |} .
+
+    # Causal link between evidence assertions
+    oeevt:ev002 holon:inResponseTo oeevt:ev003 ~ oeevt:causal001 {|
+        holon:confidence "0.75"^^xsd:decimal ;
+        holon:assessedBy oeq:openevidence_ai ;
+        holon:rationale "CCB alternative considered due to ACEi cough incidence"@en
+    |} .
+}
+
+# --- Boundary Graph -----------------------------------------------------------
+# SHACL shapes and entry/exit constraints for this holon
+
+GRAPH oeq:q001-bnd {
+    
+    # Entry conditions: what must be true for an entity to enter this holon
+    oeevt:entry001 a holon:EntityEntry ;
+        holon:entity oed:hypertension ;
+        holon:entryMode "topic-match" ;
+        rdfs:comment "Hypertension enters as the primary disease entity for this question."@en .
+
+    oeevt:entry002 a holon:EntityEntry ;
+        holon:entity oedrug:lisinopril ;
+        holon:entryMode "evidence-linked" .
+
+    oeevt:entry003 a holon:EntityEntry ;
+        holon:entity oedrug:amlodipine ;
+        holon:entryMode "evidence-linked" .
+
+    # Exit: when evidence supersedes, entity may exit to a new holon
+    oeevt:exit001 a holon:EntityExit ;
+        holon:entity oedrug:lisinopril ;
+        holon:destinationHolon oeq:q042 ;
+        holon:entryMode "superseded-by-newer-evidence" .
+}
+
+# --- Projection Graph ---------------------------------------------------------
+# External summary visible to other holons and consumers
+
+GRAPH oeq:q001-prj {
+    
+    oeq:q001 holon:narrativeFunction
+        "Establishes first-line HTN treatment with dual combination therapy; identifies ACEi+CCB as preferred"@en ;
+        holon:summaryConfidence "0.90"^^xsd:decimal ;
+        holon:prerequisiteFor oeq:q002 ;
+        rdfs:comment "Key takeaway: Stage 2 HTN → dual therapy (ACEi/ARB + CCB/thiazide)"@en .
+}
+
+# --- Context Graph ------------------------------------------------------------
+# Provenance and metadata about this holon
+
+GRAPH oeq:q001-ctx {
+    
+    oeq:q001 prov:wasAttributedTo oeq:openevidence_ai ;
+        prov:generatedAtTime "2025-03-15T10:30:00Z"^^xsd:dateTime ;
+        prov:wasDerivedFrom <https://www.openevidence.com/q/hypertension-first-line> ;
+        rdfs:comment "Crawled from OpenEvidence.com; all reification confidence scores are AI-assessed."@en .
+
+    oeq:openevidence_ai a prov:Agent ;
+        rdfs:label "OpenEvidence AI System"@en .
+}
+
+# --- Entity Declarations ------------------------------------------------------
+
+oed:hypertension a oe:Disease ;
+    rdfs:label "Hypertension"@en ;
+    oe:icdCode "I10" .
+
+oedrug:lisinopril a oe:Drug ;
+    rdfs:label "Lisinopril"@en ;
+    oe:atcCode "C09AA03" .
+
+oedrug:amlodipine a oe:Drug ;
+    rdfs:label "Amlodipine"@en ;
+    oe:atcCode "C08CA01" .
+
+oe:dry_cough a oe:Symptom ;
+    rdfs:label "Dry Cough"@en .
+
+oesrc:pubmed_34567890 a oe:SystematicReview ;
+    rdfs:label "Systematic Review: ACE inhibitors in Stage 2 HTN"@en ;
+    oe:pubmedId "34567890" ;
+    oe:publicationDate "2024-06-01"^^xsd:date .
+
+oesrc:pubmed_34567891 a oe:ClinicalTrial ;
+    rdfs:label "ACCOMPLISH Trial"@en ;
+    oe:pubmedId "34567891" ;
+    oe:publicationDate "2023-11-15"^^xsd:date ;
+    oe:sampleSize 11506 .
+
+oesrc:pubmed_34567892 a oe:MetaAnalysis ;
+    rdfs:label "Meta-analysis: ACEi-induced cough prevalence"@en ;
+    oe:pubmedId "34567892" ;
+    oe:publicationDate "2024-02-20"^^xsd:date .

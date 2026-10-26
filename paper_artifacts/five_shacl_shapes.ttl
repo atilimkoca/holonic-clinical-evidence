@@ -1,0 +1,34 @@
+@prefix gen: <https://atilimkoca.github.io/syz-ontology/medical/shapes#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+gen:AllowedDescriptorQualifierPairShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#DisallowedDescriptorQualifierPair> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#AllowedDescriptorQualifierPair> .
+
+gen:CheckTagShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TopicalDescriptor> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#PublicationType> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#GeographicalDescriptor> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#CheckTag> .
+
+gen:ConceptShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Term> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Descriptor> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SupplementaryConceptRecord> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#DescriptorQualifierPair> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Qualifier> ] ;
+    sh:property [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Concept> ;
+            sh:path <http://id.nlm.nih.gov/mesh/vocab#relatedConcept> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Concept> ;
+            sh:path <http://id.nlm.nih.gov/mesh/vocab#narrowerConcept> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Concept> ;
+            sh:path <http://id.nlm.nih.gov/mesh/vocab#broaderConcept> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#Concept> .
+
+gen:DescriptorQualifierPairShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Term> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Qualifier> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SupplementaryConceptRecord> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#DescriptorQualifierPair> .

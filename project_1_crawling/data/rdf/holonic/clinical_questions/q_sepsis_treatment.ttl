@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_sepsis_treatment a holon:EntityEntry ;
+    holon:entity oed:sepsis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_sepsis_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_sepsis_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.92 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_sepsis_treatment ;
+    holon:recordedOn "2026-03-03"^^xsd:date ;
+    oe:cites oesrc:41359996 ;
+    oe:effectiveness "effective" .
+
+oedrug:ceftriaxone oe:treats oed:sepsis .
+
+oeevt:ev_q_sepsis_treatment-tt rdf:object oed:sepsis ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:ceftriaxone .
+
+oeq:q_sepsis_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Sepsis?"@en ;
+    prov:generatedAtTime "2026-03-03T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.65 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_sepsis_treatment-bnd ;
+    holon:hasContextGraph oeq:q_sepsis_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_sepsis_treatment-int ;
+    holon:hasProjectionGraph oeq:q_sepsis_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Sepsis with ceftriaxone."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_sepsis_efficacy ;
+    holon:recordedOn "2026-03-03"^^xsd:date ;
+    holon:summaryConfidence 0.92 ;
+    oe:aboutDisease oed:sepsis ;
+    oe:answerText "Sepsis is heterogeneous, and the optimal strategy for tailoring immunotherapy is uncertain. To investigate whether precision immunotherapy guided by the presence of macrophage activation-like syndrome or sepsis-induced immunoparalysis improves organ dysfunction by day 9."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    oe:cites oesrc:41339173,
+        oesrc:41359996,
+        oesrc:41428290,
+        oesrc:41712212 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Sepsis?"^^xsd:string .
+

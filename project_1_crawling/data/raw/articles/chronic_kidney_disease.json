@@ -1,0 +1,461 @@
+{
+  "disease": "Chronic Kidney Disease",
+  "slug": "chronic_kidney_disease",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40921075",
+      "title": "Chronic Kidney Disease.",
+      "abstract": "Nearly 14% of Americans have chronic kidney disease (CKD), which includes persistent decrements in glomerular filtration rate or the presence of albuminuria. Although CKD is commonly attributed to diabetes or hypertension, there is growing awareness of the interplay among cardiovascular, kidney, and metabolic health. Progression of CKD can result in metabolic abnormalities and end-stage kidney disease, but cardiovascular events are even more common. The main goals of CKD treatment include slowing the decline in kidney function, preventing cardiovascular disease, and treating metabolic complications. Recent pharmacologic advancements have yielded effective therapeutic agents capable of concurrently addressing all of these objectives.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Renal Insufficiency, Chronic",
+        "Cardiovascular Diseases",
+        "Glomerular Filtration Rate",
+        "Disease Progression",
+        "Risk Factors"
+      ],
+      "chemicals": [],
+      "journal": "Annals of internal medicine",
+      "authors": [
+        "Morgan E Grams",
+        "Michal L Melamed"
+      ]
+    },
+    {
+      "pmid": "41203232",
+      "title": "SGLT2 Inhibitors and Kidney Outcomes by Glomerular Filtration Rate and Albuminuria: A Meta-Analysis.",
+      "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors reduce chronic kidney disease (CKD) progression in individuals with type 2 diabetes, CKD, or heart failure. However, their effects in those with stage 4 CKD or little to no albuminuria remain uncertain. To assess whether estimated glomerular filtration rate (eGFR) or degree of albuminuria, measured by urinary albumin to creatinine ratio (UACR), modifies the effects of SGLT2 inhibitors on kidney outcomes. SGLT2 inhibitor trials participating in the SGLT2 Inhibitor Meta-Analysis Cardio-Renal Trialists' Consortium (SMART-C). Randomized, double-blind, placebo-controlled trials within SMART-C evaluating an SGLT2 inhibitor with label indications for reducing CKD progression including at least 500 participants in each group with at least 6 months of follow-up. Treatment effects in individual trials were pooled using inverse variance-weighted meta-analysis. CKD progression, defined as kidney failure, at least 50% reduction in eGFR, or death due to kidney failure. Other outcomes included annual rate of eGFR decline and kidney failure. Among 70\u202f361 participants (mean [SD] age, 64.8 [8.7] years; 24\u202f595 [35.0%] females) in 10 randomized trials, 2314 (3.3%) experienced CKD progression and 988 (1.4%) reached kidney failure. SGLT2 inhibitors reduced the risk of CKD progression (25.4 vs 40.3 events per 1000 patient-years; hazard ratio [HR], 0.62 [95% CI, 0.57-0.68]), irrespective of baseline eGFR (HR of 0.61 [95% CI, 0.52-0.71] for eGFR \u226560 mL/min/1.73 m2; 0.57 [95% CI, 0.47-0.70] for eGFR of 45 to <60 mL/min/1.73 m2; 0.64 [95% CI, 0.54-0.75] for eGFR of 30 to <45 mL/min/1.73 m2; and 0.71 [95% CI, 0.60-0.83] for eGFR <30 mL/min/1.73 m2; P for trend\u2009=\u2009.16) and baseline albuminuria (HR of 0.58 [95% CI, 0.44-0.76] for albuminuria \u226430 mg/g; 0.74 [95% CI, 0.57-0.96] for >30-300 mg/g; and 0.57 [95% CI, 0.52-0.64] for more than 300 mg/g; P for trend\u2009=\u2009.49). Although the magnitude of protection varied, SGLT2 inhibitors reduced the annual rate of eGFR decline across all eGFR and UACR subgroups, including when participants with and without diabetes were analyzed separately. SGLT2 inhibitors also reduced the risk of kidney failure alone (HR, 0.66 [95% CI, 0.58-0.75]). In this meta-analysis, SGLT2 inhibitors were found to lower the risk of CKD progression regardless of baseline eGFR or albuminuria, including in patients with stage 4 CKD or minimal albuminuria, supporting their routine use to improve kidney outcomes across the full spectrum of kidney function among patients with type 2 diabetes, CKD, or heart failure.",
+      "pub_date": "2026-01-20",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Albumins",
+        "Albuminuria",
+        "Creatinine",
+        "Diabetes Mellitus, Type 2",
+        "Disease Progression",
+        "Glomerular Filtration Rate",
+        "Heart Failure",
+        "Kidney Failure, Chronic",
+        "Randomized Controlled Trials as Topic",
+        "Renal Insufficiency, Chronic",
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "chemicals": [
+        "Albumins",
+        "Creatinine",
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Brendon L Neuen",
+        "Robert A Fletcher",
+        "Stefan D Anker",
+        "Deepak L Bhatt",
+        "Javed Butler",
+        "David Z I Cherney"
+      ]
+    },
+    {
+      "pmid": "41485732",
+      "title": "A clinical impact of apoptosis inhibitor of macrophage on feline chronic kidney disease.",
+      "abstract": "Cats are highly susceptible to chronic kidney disease (CKD), for which effective treatments remain unavailable. We previously reported a genetic deficiency in activating apoptosis inhibitor of macrophages (AIM) in cats. Based on a hypothesis that the deficiency in AIM activation may contribute to the high susceptibility of cats to CKD, we investigated clinical impacts of recombinant AIM (rAIM) treatment in cats with advanced CKD, as an exploratory, non-pivotal study. 216 CKD cats were screened and those harboring serum creatinine concentrations between 2.9 and 5.0\u202fmg/dL, including 26 with \u2265\u202f5\u202f\u00b5g/mL serum indoxyl sulfate (IS) concentrations and 9 with <\u202f5\u202f\u03bcg/mL IS, were enrolled into the study. Of the 26 cats, 6 received mouse rAIM administrations, 5 received feline rAIM, and 15 served as non-treated controls. Their survival was monitored for 360 days, and kidney biomarkers, metabolomic profiles, as well as sphingolipids in serum were assessed. The median survival time of non-treated controls was 167 days (95\u202f% confidence interval [CI]: 116-217), whereas rAIM treatment significantly extended survival, with a cumulative survival rate of 0.83 (95\u202f% CI: 0.53-1.0) at 360 days by mouse rAIM and 0.8 (95\u202f% CI: 0.44-1.0) by feline rAIM compared to 0.20 (95\u202f% CI: 0.0-0.40) in controls. Additionally, rAIM prevented the worsening of kidney biomarkers and uremic toxins, restoring serum sphingomyelins that reduce inflammation and fibrosis. The 9 cats with lower IS concentrations showed 100\u202f% survival at 360 days without rAIM treatment. These findings support the use of AIM-based therapies against advanced CKD in cats.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Cats",
+        "Renal Insufficiency, Chronic",
+        "Cat Diseases",
+        "Male",
+        "Female",
+        "Mice",
+        "Recombinant Proteins"
+      ],
+      "chemicals": [
+        "Recombinant Proteins"
+      ],
+      "journal": "Veterinary journal (London, England : 1997)",
+      "authors": [
+        "Tetsushi Tezuka",
+        "Hiroyuki Arakawa",
+        "Kai Kudo",
+        "Hideyuki Takehara",
+        "Masanobu Morioka",
+        "Kazutaka Ikeda"
+      ]
+    },
+    {
+      "pmid": "41082889",
+      "title": "Effects of empagliflozin on conventional and exploratory acute and chronic kidney outcomes: an individual participant-level meta-analysis.",
+      "abstract": "Uncertainty remains about effects of sodium-glucose co-transporter-2 (SGLT2) inhibition on kidney outcomes in individuals with slowly progressive chronic kidney disease (eg, low albuminuria) and those at risk of large acute estimated glomerular filtration rate (eGFR) dips on initiation of such treatment. We aimed to explore the effects of empagliflozin on a range of kidney outcomes in these population subtypes. In this meta-analysis, we used individual-level data from 23\u2009340 participants in four large placebo-controlled trials (EMPA-REG OUTCOME, EMPEROR-Reduced, EMPEROR-Preserved, and EMPA-KIDNEY) to assess the effects of empagliflozin on conventional and exploratory acute and chronic kidney outcomes. We then assessed whether effects varied by predicted size of the acute eGFR dip on treatment initiation or among other key population subtypes using tests for heterogeneity and trend. The individual-level data were requested from Boehringer Ingelheim (Ingelheim, Germany). Compared with placebo, allocation to empagliflozin reduced the risk of a marker of acute kidney injury (a \u226550% increase in serum creatinine in consecutive follow-up samples) by 20% (hazard ratio 0\u00b780 [95% CI 0\u00b772-0\u00b788]; 1573 outcomes), acute kidney injury adverse events by 27% (0\u00b773 [0\u00b763-0\u00b785]; 694 outcomes), a categorical chronic kidney disease progression outcome by 30% (0\u00b770 [0\u00b763-0\u00b778]; 1403 outcomes), and kidney failure by 34% (0\u00b766 [0\u00b755-0\u00b779]; 490 outcomes). Empagliflozin slowed a chronic annual rate of eGFR decline by 64% (95% CI 59-69) and off-treatment dip-free slope-a post-hoc outcome using randomisation and off-treatment eGFR values available in a subset of 10\u2009630 participants-by 64% (54-73). These kidney benefits were similar in subgroups divided by predicted size of acute eGFR dip, and were present irrespective of diabetes or heart failure status, level of kidney function, or albuminuria. SGLT2 inhibition reduces risk of acute and chronic kidney outcomes irrespective of the size of the acute dip in eGFR. Kidney benefits are evident irrespective of diabetes status, heart failure status, primary cause of kidney disease, and markers of severity of these diseases. None.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Renal Insufficiency, Chronic",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Glomerular Filtration Rate",
+        "Acute Kidney Injury",
+        "Diabetes Mellitus, Type 2",
+        "Treatment Outcome",
+        "Male",
+        "Randomized Controlled Trials as Topic",
+        "Female"
+      ],
+      "chemicals": [
+        "empagliflozin",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "journal": "The lancet. Diabetes & endocrinology",
+      "authors": [
+        "William G Herrington",
+        "Zhaojing J Che",
+        "Rebecca Sardell",
+        "Alistair J Roddick",
+        "Parminder K Judge",
+        "Christoph Wanner"
+      ]
+    },
+    {
+      "pmid": "41361176",
+      "title": "Urate-lowering therapy and kidney outcomes in patients with chronic kidney disease and hyperuricemia.",
+      "abstract": "Hyperuricemia is considered a modifiable risk factor for the development and progression of chronic kidney disease (CKD). There remains controversy over the effects of urate-lowering therapy (ULT) on kidney outcomes in patients with CKD and hyperuricemia. We conducted a cohort study using a sequential target trial emulation framework to evaluate the composite kidney outcomes in patients with CKD and hyperuricemia initiating ULT versus supportive care alone (control). A total of 269,831 eligible person trials (56,936 unique persons) with CKD and hyperuricemia who had received supportive care were included from the China Renal Data System database. The primary outcome was a composite kidney outcome defined as a greater than 40% decline in the estimated GFR or end-stage kidney disease (ESKD). The 3-year cumulative incidence rates of the composite kidney outcomes were 19.69% and 23.22% in the ULT group and the control group, respectively, with a risk difference of -3.53% (95% CI, -5.25% to -1.94%). The estimated 3-year risk differences for ESKD, all-cause mortality, and cardiovascular mortality were -1.88% (-3.28% to -0.45%), -2.25% (-3.02% to -1.51%), and -0.69% (-1.33% to -0.05%), respectively, all of which favor the ULT group. The estimates from the subgroup and sensitivity analyses were consistent with those from the primary analysis. Thus, ULT is associated with a significantly lower risk of kidney disease progression and mortality in patients with stage 3 or higher CKD and hyperuricemia. Large randomized clinical trials with refined designs are needed to assess the effect of ULT in these patients.",
+      "pub_date": "2025-12-09",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hyperuricemia",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Renal Insufficiency, Chronic",
+        "Uric Acid",
+        "Aged",
+        "Kidney Failure, Chronic",
+        "Adult",
+        "Disease Progression",
+        "Risk Factors",
+        "Glomerular Filtration Rate"
+      ],
+      "chemicals": [
+        "Uric Acid"
+      ],
+      "journal": "Signal transduction and targeted therapy",
+      "authors": [
+        "Sheng Nie",
+        "Shiyu Zhou",
+        "Ruixuan Chen",
+        "Lantian Li",
+        "Yinfang Sun",
+        "Jiao Liu"
+      ]
+    },
+    {
+      "pmid": "40829896",
+      "title": "Efficacy and safety of anrikefon in patients with pruritus undergoing haemodialysis: multicentre, double blind, randomised placebo controlled phase 3 trial.",
+      "abstract": "To evaluate the efficacy and safety of anrikefon (formerly known as HSK21542), a novel selective peripherally restricted kappa opioid receptor agonist, in patients with chronic kidney disease associated pruritus. Multicentre, double blind, randomised placebo controlled phase 3 trial. 50 centres in China, June 2022 to June 2024. 652 patients with moderate to severe CKD associated pruritus undergoing haemodialysis were screened: 545 were randomly assigned (1:1 ratio) to receive either anrikefon (n=275) or placebo (n=270). Intravenous anrikefon (0.3 \u03bcg/kg body weight) or placebo three times weekly for 12 weeks, followed by an optional open label extension phase with anrikefon treatment for 40 weeks. The primary endpoint was the percentage of patients achieving at least a 4 point reduction in weekly mean 24 hour worst itching intensity numerical rating scale (WI-NRS) score from baseline to week 12. Secondary outcomes were the percentage of patients achieving at least a 3 point reduction in weekly mean WI-NRS score from baseline to week 12, as well as changes in itch related quality of life from baseline using the Skindex-10 and 5-D itch scales. The change in itch related quality of life from baseline to week 40 of open label treatment was also reported using the 5-D itch scale. The safety of anrikefon was evaluated throughout the trial. 243/275 (88%) patients in the anrikefon group and 254/270 (94%) in the placebo group completed the 12 week double blind treatment. 443 subsequently entered the 40 week open label extension phase. 37% of patients in the anrikefon group showed at least a 4 point reduction in WI-NRS score at week 12 compared with 15% in the placebo group (P<0.001). The percentage of patients with at least a 3 point reduction in WI-NRS score from baseline to week 12 was 51% in the anrikefon group compared with 24% in the placebo group (P<0.001). The anrikefon group showed significant improvements in itch related quality of life (mean change from baseline in 5-D itch scale -5.3 In patients with moderate to severe pruritus undergoing haemodialysis, anrikefon was found to be safe and resulted in a noticeable reduction in itch intensity and an improvement in itch related quality of life. ClinicalTrials.gov NCT05135390.",
+      "pub_date": "2025-08-19",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pruritus",
+        "Double-Blind Method",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Renal Dialysis",
+        "Renal Insufficiency, Chronic",
+        "Treatment Outcome",
+        "Aged",
+        "Adult",
+        "Morphinans",
+        "Quality of Life",
+        "China",
+        "Receptors, Opioid, kappa",
+        "Spiro Compounds"
+      ],
+      "chemicals": [
+        "TRK 820",
+        "Morphinans",
+        "Receptors, Opioid, kappa",
+        "Spiro Compounds"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Bi-Cheng Liu",
+        "Zuo-Lin Li",
+        "Ping Zhang",
+        "Ai-Min Zhong",
+        "Ya-Ling Bai",
+        "Yan Xu"
+      ]
+    },
+    {
+      "pmid": "41202026",
+      "title": "Effects of Sodium Glucose Cotransporter 2 Inhibitors by Diabetes Status and Level of Albuminuria: A Meta-Analysis.",
+      "abstract": "There is uncertainty about the effects of sodium-glucose cotransporter 2 (SGLT2) inhibitors in participants with chronic kidney disease, with guidelines offering different strengths of recommendation based on diabetes status and urine albumin to creatinine ratio (UACR). To assess the relative and absolute effects of SGLT2 inhibitor use across efficacy and serious safety outcomes in participants stratified by diabetes status and UACR (\u2265200 mg/g or <200 mg/g). Included 8 randomized clinical trials that studied an SGLT2 inhibitor with a label indication for use in kidney disease and recorded longitudinal kidney outcomes and baseline data on albuminuria. Data were combined using inverse variance-weighted meta-analysis; group-specific absolute effects were estimated by applying relevant relative risks to the event rates of the placebo groups. Assessed the effects of SGLT2 inhibitor use on clinical efficacy and safety outcomes. Heterogeneity by baseline level of UACR was assessed separately by diabetes status. A total of 58\u202f816 participants (mean age, 64 [SD, 10] years; 35% were female; 48\u202f946 with diabetes and 9870 without diabetes) were included from trials comparing an SGLT2 inhibitor vs placebo. Allocation to an SGLT2 inhibitor produced a lower rate of kidney disease progression (33 vs 48 for placebo per 1000 patient-years; hazard ratio [HR], 0.65 [95% CI, 0.60-0.70] in those with diabetes and 32 vs 46 per 1000; HR, 0.74 [95% CI, 0.63-0.85] in those without diabetes), a lower rate of acute kidney injury (14 vs 18 per 1000 [HR, 0.77; 95% CI, 0.69-0.87] with diabetes and 13 vs 18 per 1000 [HR, 0.72; 95% CI, 0.56-0.92] without diabetes), a lower rate of any hospitalization (202 vs 231 per 1000 [HR, 0.90; 95% CI, 0.87-0.92] with diabetes and 203 vs 237 per 1000 [HR, 0.89; 95% CI, 0.83-0.95] without diabetes), and a lower rate of any death (42 vs 47 per 1000 [HR, 0.86; 95% CI, 0.80-0.91] with diabetes and 42 vs 48 per 1000 [HR, 0.91; 95% CI, 0.78-1.05] without diabetes). Diabetes-specific HRs were similar in participants (with a UACR \u2265200 mg/g vs with a UACR <200 mg/g) considered separately. Higher absolute risk at a UACR of 200 mg/g or greater meant larger estimated absolute benefits on kidney disease progression were evident in this subgroup. Clear absolute benefits were evident for other efficacy outcomes, and particularly hospitalization, in participants with a UACR less than 200 mg/g. Net absolute benefits remained in the analyses of non-heart failure populations and when estimated glomerular filtration rate was less than 60 mL/min/1.73 m2. Within the studied participants, there were clear absolute benefits of SGLT2 inhibitors on kidney, hospitalization, and mortality outcomes irrespective of diabetes status and level of UACR.",
+      "pub_date": "2026-01-20",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Acute Kidney Injury",
+        "Albumins",
+        "Albuminuria",
+        "Creatinine",
+        "Diabetes Mellitus, Type 2",
+        "Disease Progression",
+        "Hospitalization",
+        "Randomized Controlled Trials as Topic",
+        "Renal Insufficiency, Chronic",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Albumins",
+        "Creatinine",
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Natalie Staplin",
+        "Alistair J Roddick",
+        "Brendon L Neuen",
+        "Stefan D Anker",
+        "Deepak L Bhatt",
+        "Javed Butler"
+      ]
+    },
+    {
+      "pmid": "41205673",
+      "title": "From progression to remission: a new paradigm for success in chronic kidney disease.",
+      "abstract": "Recent advances in treatment of chronic kidney disease have changed the clinical paradigm from slowing inevitable progression to achievable remission. Landmark trials involving sodium-glucose cotransporter 2 inhibitors, nonsteroidal mineralocorticoid receptor antagonists, glucagon-like peptide 1 receptor agonists, and targeted immunotherapies for IgA nephropathy demonstrate that sustained estimated glomerular filtration rate preservation and normalization of albuminuria are now realistic goals in both diabetic and glomerular kidney diseases. Remission, defined by estimated glomerular filtration rate slopes of <1 ml/min per 1.73 m",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Disease Progression",
+        "Renal Insufficiency, Chronic",
+        "Remission Induction",
+        "Glomerular Filtration Rate",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Treatment Outcome",
+        "Albuminuria",
+        "Mineralocorticoid Receptor Antagonists",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Kidney"
+      ],
+      "chemicals": [
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Mineralocorticoid Receptor Antagonists",
+        "Glucagon-Like Peptide-1 Receptor Agonists"
+      ],
+      "journal": "Kidney international",
+      "authors": [
+        "Navdeep Tangri",
+        "Brendon L Neuen",
+        "David Z Cherney",
+        "Katherine R Tuttle",
+        "Vlado Perkovic"
+      ]
+    },
+    {
+      "pmid": "41147324",
+      "title": "Comparison of the renal outcomes of novel antidiabetic agents in patients with type 2 diabetes with chronic kidney disease: A systematic review and network meta-analysis of randomized controlled trials.",
+      "abstract": "To investigate the renal outcomes of dipeptidyl peptidase 4 (DPP-4) inhibitors, glucagon-like peptide-1 (GLP-1) receptor agonists, and sodium-glucose transport protein-2 (SGLT-2) inhibitors in patients with type 2 diabetes mellitus (T2DM) with chronic renal disease (CKD). PubMed, Embase, Cochrane CENTRAL, and ClinicalTrials.gov were searched through July 2025 for randomized controlled trials with \u226524\u2009weeks of follow-up in patients with T2DM and CKD. Outcomes included composite renal outcome, estimated glomerular filtration rate (eGFR), and urinary albumin-to-creatinine ratio (UACR). A network meta-analysis was conducted, and the certainty of evidence was assessed with the Grading of Recommendations Assessment, Development, and Evaluation used to evaluate evidence certainty (GRADE). Twenty RCTs enrolling 80,670 participants were included. Compared with placebo, several agents significantly reduced composite renal outcomes, with dapagliflozin 10\u2009mg showing the greatest efficacy (OR 0.55, 95% CI 0.42-0.72; high-certainty evidence), followed by canagliflozin, empagliflozin, efpeglenatide, sotagliflozin 400\u2009mg, semaglutide, and dulaglutide 1.5\u2009mg. Canagliflozin 100-300\u2009mg significantly reduced UACR, whereas dapagliflozin had no effect. None of the novel antidiabetic agents significantly altered eGFR. Certainty of evidence ranged from high for placebo-controlled comparisons to low or very low for indirect estimates. In patients with T2DM and CKD, SGLT2 inhibitors provide the most consistent renal protection, while GLP-1 receptor agonists offer additional but variable benefits. Dapagliflozin showed the greatest efficacy, and canagliflozin most strongly reduced albuminuria, highlighting meaningful heterogeneity across agents. DPP-4 inhibitors conferred no renal benefit. Overall, evidence from placebo-controlled trials was robust, whereas certainty was lower for indirect estimates, highlighting the need for drug-specific evaluation in clinical practice.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Comparative Study",
+        "Network Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Hypoglycemic Agents",
+        "Randomized Controlled Trials as Topic",
+        "Renal Insufficiency, Chronic",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Diabetic Nephropathies",
+        "Glomerular Filtration Rate",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Hypoglycemic Agents",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Glucagon-Like Peptide-1 Receptor Agonists"
+      ],
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": [
+        "Rong Lin",
+        "Chia-Li Hsu",
+        "Ming-Chieh Shih",
+        "Kuo-Liong Chien",
+        "Hon-Yen Wu"
+      ]
+    },
+    {
+      "pmid": "41369941",
+      "title": "Rationale, Design, and Baseline Clinical Characteristics of the Ziltivekimab Cardiovascular Outcomes Trial: Interleukin-6 Inhibition and Atherosclerotic Event Rate Reduction.",
+      "abstract": "Cardiovascular inflammation is a major determinant of atherosclerotic disease, and inhibition of the central signaling cytokine, interleukin 6 (IL-6), is a promising target for intervention. Patients with chronic kidney disease (CKD) commonly have plasma elevations of inflammatory biomarkers, such as high-sensitivity C-reactive protein (hsCRP) and IL-6, and are at high risk for life-threatening atherosclerotic events as well as loss of kidney function and might therefore benefit from IL-6 inhibition. The Ziltivekimab Cardiovascular Outcomes Trial (ZEUS; NCT05021835) will determine the safety and efficacy of IL-6 inhibition with ziltivekimab among patients with atherosclerotic cardiovascular disease (ASCVD), CKD, and systemic inflammation. ZEUS is a multinational, double-blind, placebo-controlled, event-driven, randomized clinical trial inclusive of 6376 participants with ASCVD, CKD, and an hsCRP level greater than or equal to 2 mg/L who were randomized in a 1:1 fashion to receive either ziltivekimab, 15 mg, administered subcutaneously every month or matching placebo. At randomization, mean age was 69.5 years, 27.5% were female, 92.0% had hypertension, 65.7% had diabetes, and 41.3% had heart failure. At baseline, the mean estimated glomerular filtration rate (eGFR) was 44.5 mL/min/1.73 m2, mean low-density lipoprotein cholesterol level was 77.7 mg/dL, median hsCRP level was 4.5 mg/L, and median IL-6 level was 4.9 pg/mL. At enrollment, sodium-glucose cotransporter-2 inhibitors and glucagon-like peptide-1 receptor agonists were being used by 36.8% and 11.3% of the cohort, respectively. The primary outcome is 3-point major adverse cardiovascular events. Secondary cardiovascular outcomes include (1) an expanded major adverse cardiovascular event outcome including hospitalization for unstable angina requiring urgent coronary revascularization, (2) hospitalizations for heart failure or urgent heart failure visits or cardiovascular death, and (3) all-cause mortality. The secondary kidney outcome is a composite of greater than 40% decline in eGFR, eGFR less than 15 mL/min/1.73 m2, dialysis, kidney transplant, death from kidney disease, or cardiovascular death. The ZEUS randomized clinical trial will formally test the hypothesis that IL-6 inhibition with ziltivekimab will lower incident cardiovascular event rates and potentially slow kidney decline among participants with known ASCVD, CKD, and elevated hsCRP. If successful, the ZEUS trial would provide a fully novel approach for prevention of myocardial infarction, stroke, cardiovascular death, and kidney function decline among high-risk patients with CKD.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Interleukin-6",
+        "Double-Blind Method",
+        "Antibodies, Monoclonal, Humanized",
+        "Female",
+        "Atherosclerosis",
+        "Male",
+        "Renal Insufficiency, Chronic",
+        "Middle Aged",
+        "Aged",
+        "C-Reactive Protein",
+        "Inflammation",
+        "Biomarkers",
+        "Randomized Controlled Trials as Topic",
+        "Glomerular Filtration Rate",
+        "Interleukin-6 Inhibitors"
+      ],
+      "chemicals": [
+        "Interleukin-6",
+        "Antibodies, Monoclonal, Humanized",
+        "C-Reactive Protein",
+        "Biomarkers",
+        "Interleukin-6 Inhibitors"
+      ],
+      "journal": "JAMA cardiology",
+      "authors": [
+        "Paul M Ridker",
+        "Florian M M Baeres",
+        "Anders Hveplund",
+        "Mads M D Engelmann",
+        "G Kees Hovingh",
+        "A Michael Lincoff"
+      ]
+    },
+    {
+      "pmid": "40880481",
+      "title": "Lubiprostone in chronic kidney disease: Insights into mitochondrial function and polyamines from a randomized phase 2 clinical trial.",
+      "abstract": "Chronic kidney disease (CKD) is a life-threatening condition, and constipation is a progressive risk factor. We evaluated changes in uremic toxins, renal function, and the safety of lubiprostone, a selective chloride channel activator, in patients with CKD. In this phase 2, randomized, double-blind, placebo-controlled trial across nine centers in Japan, 150 patients with stage IIIb-IV CKD received lubiprostone (8 or 16\u00a0micrograms) or placebo for 24 weeks. The primary end point was change in indoxyl sulfate levels. Secondary end points included other uremic toxins and renal function markers. Lubiprostone did not alter uremic toxin levels but improved or preserved estimated glomerular filtration rate and its slope in the 16-microgram group. Mild-to-moderate gastrointestinal events occurred in the placebo and 16-microgram groups. Multiomics analysis revealed that lubiprostone modulated the gut microbial agmatine pathway and increased spermidine levels, thereby improving renal mitochondrial function. Lubiprostone is a previously unknown and safe therapeutic option to mitigate renal decline in CKD.",
+      "pub_date": "2025-08-29",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase II",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Renal Insufficiency, Chronic",
+        "Male",
+        "Female",
+        "Lubiprostone",
+        "Middle Aged",
+        "Aged",
+        "Mitochondria",
+        "Polyamines",
+        "Glomerular Filtration Rate",
+        "Double-Blind Method",
+        "Adult"
+      ],
+      "chemicals": [
+        "Lubiprostone",
+        "Polyamines"
+      ],
+      "journal": "Science advances",
+      "authors": [
+        "Shun Watanabe",
+        "Masaaki Nakayama",
+        "Takashi Yokoo",
+        "Satoru Sanada",
+        "Yoshifumi Ubara",
+        "Atsushi Komatsuda"
+      ]
+    },
+    {
+      "pmid": "41027876",
+      "title": "Inhibition of long interspersed nuclear element-1 by nucleoside reverse transcriptase inhibitors attenuates vascular calcification.",
+      "abstract": "Vascular calcification (VC) is a critical vascular pathological event, contributing to the rise in both the prevalence and fatality of cardiovascular diseases. However, the lack of effective therapeutic strategies for VC is attributed primarily to the incomplete understanding of its underlying molecular mechanisms. In this study, we discovered that long interspersed nuclear element 1 (LINE1) was significantly upregulated in the calcified arteries of both human individuals and mouse models. Mechanistically, silencing LINE1 expression or inhibiting its activity with adding nucleoside reverse transcriptase inhibitors (NRTIs, a class of validated LINE1 inhibitors) effectively prevented the osteogenic reprogramming of vascular smooth muscle cells (VSMCs). Moreover, NRTIs treatment substantially mitigated VC in chronic kidney disease (CKD)-induced and vitamin D",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Vascular Calcification",
+        "Mice",
+        "Long Interspersed Nucleotide Elements",
+        "Reverse Transcriptase Inhibitors",
+        "Male",
+        "Muscle, Smooth, Vascular",
+        "Myocytes, Smooth Muscle",
+        "Renal Insufficiency, Chronic",
+        "Female",
+        "Signal Transduction",
+        "Disease Models, Animal"
+      ],
+      "chemicals": [
+        "Reverse Transcriptase Inhibitors"
+      ],
+      "journal": "Signal transduction and targeted therapy",
+      "authors": [
+        "Jianshuai Ma",
+        "Dayu He",
+        "Mingxuan Zhang",
+        "Ziting Zhou",
+        "Jinkun Cheng",
+        "Aoran Huang"
+      ]
+    }
+  ]
+}

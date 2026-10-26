@@ -1,0 +1,32 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_post_traumatic_stress_disorder_treatment> a holon:ClinicalQuestionHolon ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Post-Traumatic Stress Disorder?"^^xsd:string ;
+    oe:answerText "This multi-site, randomized, double-blind, confirmatory phase 3 study evaluated the efficacy and safety of 3,4-methylenedioxymethamphetamine-assisted therapy (MDMA-AT) versus placebo with identical therapy in participants with moderate to severe post-traumatic stress disorder (PTSD). Changes in Clinician-Administered PTSD Scale for DSM-5 (CAPS-5) total severity score (primary endpoint) and Sheehan Disability Scale (SDS) functional impairment score (key secondary endpoint) were assessed by blinded independent assessors."^^xsd:string ;
+    oe:belongsToSpecialty "Psychiatry" ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_post_traumatic_stress_disorder_treatment-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_post_traumatic_stress_disorder_treatment-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_post_traumatic_stress_disorder_treatment-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_post_traumatic_stress_disorder_treatment-con> ;
+    holon:evidenceQualityThreshold "0.50"^^xsd:decimal .
+
+<https://example.org/openevidence/drugs/sertraline> oe:treats <https://example.org/openevidence/diseases/post_traumatic_stress_disorder> .
+<https://example.org/openevidence/generated/ev_q_post_traumatic_stress_disorder_treatment_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_post_traumatic_stress_disorder_treatment_0-tt> ;
+    holon:confidence "0.88"^^xsd:decimal ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/37709999> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_post_traumatic_stress_disorder_treatment> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_post_traumatic_stress_disorder_treatment_0-tt> rdf:subject <https://example.org/openevidence/drugs/sertraline> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/post_traumatic_stress_disorder> .
+

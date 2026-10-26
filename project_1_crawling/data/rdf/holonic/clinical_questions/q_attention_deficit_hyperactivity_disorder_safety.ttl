@@ -1,0 +1,37 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_attention_deficit_hyperactivity_disorder_safety a holon:EntityEntry ;
+    holon:entity oed:attention_deficit_hyperactivity_disorder ;
+    holon:entryMode "topic-match" .
+
+oeq:q_attention_deficit_hyperactivity_disorder_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Attention Deficit Hype"@en ;
+    prov:generatedAtTime "2025-08-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.5 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_attention_deficit_hyperactivity_disorder_safety-bnd ;
+    holon:hasContextGraph oeq:q_attention_deficit_hyperactivity_disorder_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_attention_deficit_hyperactivity_disorder_safety-int ;
+    holon:hasProjectionGraph oeq:q_attention_deficit_hyperactivity_disorder_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Attention Deficit Hyperactivity Disorder."^^xsd:string ;
+    holon:recordedOn "2025-08-01"^^xsd:date ;
+    holon:summaryConfidence 0.92 ;
+    oe:aboutDisease oed:attention_deficit_hyperactivity_disorder ;
+    oe:answerText "Attention Deficit/Hyperactivity Disorder (ADHD) demonstrates unique developmental manifestations in adolescence with implications for optimized, age-appropriate treatment. This 10-year update is the third in a series of systematic reviews examining the efficacy and safety of adolescent ADHD treatments."^^xsd:string ;
+    oe:belongsToSpecialty "Psychiatry" ;
+    oe:cites oesrc:39098738,
+        oesrc:39370392,
+        oesrc:40400273,
+        oesrc:40560574 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Attention Deficit Hyperactivity Disorder with available therapies?"^^xsd:string .
+

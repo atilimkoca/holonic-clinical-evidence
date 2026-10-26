@@ -1,0 +1,108 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov:   <http://www.w3.org/ns/prov#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# PROJECT 2 — HOLON ONTOLOGY EXTENSION (Student B)
+# Extends shared/ontology/holon_core.ttl + openevidence_vocab.ttl with the
+# terms required by boundary-aware SHACL validation (Set A) and by the
+# inconsistency corpus (T1–T6).
+#
+# This file is ADDITIVE: it never redefines terms already in the shared
+# ontology; it only adds the structural vocabulary the boundary-aware
+# shapes need (layer membership, diagnostic criteria, aggregate scoring,
+# projection-interior coherence).
+# =============================================================================
+
+<https://example.org/openevidence/project2>
+    a owl:Ontology ;
+    rdfs:label "OpenEvidence Holonic Semantic Layer (Project 2)"@en ;
+    owl:imports <https://example.org/holon> , <https://example.org/openevidence> ;
+    rdfs:comment "Boundary-aware semantic layer ontology for RQ2: does holon-boundary SHACL detect more semantic inconsistencies than flat SHACL?"@en .
+
+# --- Layer membership (lets shapes reason about which layer a triple lives in)
+
+holon:layer a owl:DatatypeProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:range xsd:string ;
+    rdfs:label "layer"@en ;
+    rdfs:comment "Marks an assertion's holon layer: 'interior' | 'boundary' | 'projection' | 'context'."@en .
+
+holon:inHolon a owl:ObjectProperty ;
+    rdfs:range holon:Holon ;
+    rdfs:label "in holon"@en ;
+    rdfs:comment "Attaches an interior assertion / reifier node to the holon that owns it. Required for cross-holon consistency (T5) and projection-interior coherence (T6) checks."@en .
+
+holon:summarizes a owl:ObjectProperty ;
+    rdfs:label "summarizes"@en ;
+    rdfs:comment "A projection-layer node summarizes one or more interior-layer events. Used by ProjectionCoherenceShape."@en .
+
+holon:derivedFromAssertion a owl:ObjectProperty ;
+    rdfs:label "derived from assertion"@en ;
+    rdfs:comment "Links a projection claim back to the interior EvidenceAssertion(s) it is derived from."@en .
+
+# --- Disease holon interior vocabulary (needed by T4/T5 semantic checks) ------
+
+oe:DiagnosticCriterion a owl:Class ;
+    rdfs:label "Diagnostic Criterion"@en ;
+    rdfs:comment "A boundary-layer criterion that an entity must satisfy to be diagnosed with a disease."@en .
+
+oe:hasDiagnosticCriterion a owl:ObjectProperty ;
+    rdfs:domain oe:Disease ;
+    rdfs:range oe:DiagnosticCriterion ;
+    rdfs:label "has diagnostic criterion"@en .
+
+oe:prognosis a owl:DatatypeProperty ;
+    rdfs:domain oe:Disease ;
+    rdfs:range xsd:string ;
+    rdfs:label "prognosis"@en .
+
+oe:approvalDate a owl:DatatypeProperty ;
+    rdfs:domain oe:Drug ;
+    rdfs:range xsd:date ;
+    rdfs:label "approval date"@en ;
+    rdfs:comment "Regulatory approval date of a drug. Used by temporal consistency checks (T3)."@en .
+
+oe:firstDescribedDate a owl:DatatypeProperty ;
+    rdfs:domain oe:Disease ;
+    rdfs:range xsd:date ;
+    rdfs:label "first described date"@en ;
+    rdfs:comment "Date the disease was first described in the literature. Used by T3 temporal checks."@en .
+
+# --- Evidence chain aggregation (EvidenceChainHolon projection) ---------------
+
+# NOTE: rdfs:domain is intentionally OMITTED on the two properties below.
+# A domain axiom of holon:EvidenceChainHolon would, under rdfs inference,
+# spuriously re-type any holon carrying these properties as an evidence chain,
+# causing false positives. The intended domain is documented in the comment.
+holon:aggregateConfidence a owl:DatatypeProperty ;
+    rdfs:range xsd:decimal ;
+    rdfs:label "aggregate confidence"@en ;
+    rdfs:comment "Roll-up confidence score for an evidence chain's projection (intended domain: holon:EvidenceChainHolon). Must be consistent with interior assertions (ProjectionCoherenceShape)."@en .
+
+holon:evidenceQualityThreshold a owl:DatatypeProperty ;
+    rdfs:range xsd:decimal ;
+    rdfs:label "evidence quality threshold"@en ;
+    rdfs:comment "Boundary constraint: minimum confidence an assertion needs to be admitted into this evidence chain."@en .
+
+# --- Cross-holon consistency vocabulary (T5) ----------------------------------
+
+oe:effectiveness a owl:DatatypeProperty ;
+    rdfs:range xsd:string ;
+    rdfs:label "effectiveness"@en ;
+    rdfs:comment "Asserted effectiveness verdict of a drug for a disease ('effective' | 'ineffective' | 'inconclusive'). Two holons disagreeing is a T5 cross-holon inconsistency."@en .
+
+# --- Annotation property used to tag corpus members ---------------------------
+
+oe:corpusLabel a owl:AnnotationProperty ;
+    rdfs:label "corpus label"@en ;
+    rdfs:comment "Gold-standard tag on a corpus holon: 'consistent' or an inconsistency type code 'T1'..'T6'."@en .
+
+oe:injectedDefect a owl:AnnotationProperty ;
+    rdfs:label "injected defect"@en ;
+    rdfs:comment "Human-readable description of the defect deliberately injected into an inconsistent corpus holon."@en .

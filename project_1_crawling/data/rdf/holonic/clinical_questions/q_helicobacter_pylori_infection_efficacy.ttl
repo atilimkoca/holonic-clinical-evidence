@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_helicobacter_pylori_infection_efficacy a holon:EntityEntry ;
+    holon:entity oed:helicobacter_pylori_infection ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_helicobacter_pylori_infection_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_helicobacter_pylori_infection_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.96 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_helicobacter_pylori_infection_efficacy ;
+    holon:recordedOn "2025-11-01"^^xsd:date ;
+    oe:cites oesrc:39824392 ;
+    oe:effectiveness "effective" .
+
+oedrug:amoxicillin oe:treats oed:helicobacter_pylori_infection .
+
+oeevt:ev_q_helicobacter_pylori_infection_efficacy-tt rdf:object oed:helicobacter_pylori_infection ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:amoxicillin .
+
+oeq:q_helicobacter_pylori_infection_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is amoxicillin compared with other agents for Helicobacter Pylori Infection?"@en ;
+    prov:generatedAtTime "2025-11-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.5 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_helicobacter_pylori_infection_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_helicobacter_pylori_infection_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_helicobacter_pylori_infection_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_helicobacter_pylori_infection_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Helicobacter Pylori Infection with amoxicillin."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_helicobacter_pylori_infection_safety ;
+    holon:recordedOn "2025-11-01"^^xsd:date ;
+    holon:summaryConfidence 0.96 ;
+    oe:aboutDisease oed:helicobacter_pylori_infection ;
+    oe:answerText "Screening for, and treating, Helicobacter pylori in the general population or patients with early gastric neoplasia could reduce incidence of, and mortality from, gastric cancer. We updated a meta-analysis of randomized controlled trials (RCTs) examining this issue."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    oe:cites oesrc:39824392,
+        oesrc:40093672,
+        oesrc:40912906,
+        oesrc:40923937 ;
+    oe:questionText "How effective is amoxicillin compared with other agents for Helicobacter Pylori Infection?"^^xsd:string .
+

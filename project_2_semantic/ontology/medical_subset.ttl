@@ -1,0 +1,80 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix oe:     <https://example.org/openevidence#> .
+@prefix med:    <https://example.org/medical#> .
+
+# =============================================================================
+# MEDICAL OWL SUBSET (source for the §2.6 OWL -> SHACL conversion experiment)
+#
+# A deliberately axiom-RICH miniature ontology (SNOMED/MeSH-flavoured) chosen so
+# that some axioms convert cleanly to SHACL and others are PROVABLY lossy. The
+# converter (src/owl_to_shacl.py) reports exactly which is which.
+# =============================================================================
+
+<https://example.org/medical> a owl:Ontology ;
+    rdfs:label "Medical OWL subset"@en .
+
+# --- Classes -----------------------------------------------------------------
+
+med:Drug a owl:Class .
+med:Disease a owl:Class .
+med:Symptom a owl:Class .
+med:Antibiotic a owl:Class ; rdfs:subClassOf med:Drug .            # CONVERTIBLE (subclass)
+
+# Disjointness — CONVERTIBLE to sh:not
+med:Drug owl:disjointWith med:Disease .
+
+# equivalentClass — LOSSY (SHACL has no class-equivalence axiom)
+med:Medication owl:equivalentClass med:Drug .
+
+# someValuesFrom restriction — CONVERTIBLE to sh:qualifiedValueShape minCount 1
+med:Disease rdfs:subClassOf [
+    a owl:Restriction ;
+    owl:onProperty med:hasSymptom ;
+    owl:someValuesFrom med:Symptom
+] .
+
+# exact cardinality restriction — CONVERTIBLE to sh:minCount/sh:maxCount
+med:Drug rdfs:subClassOf [
+    a owl:Restriction ;
+    owl:onProperty med:hasAtcCode ;
+    owl:cardinality "1"^^xsd:nonNegativeInteger
+] .
+
+# --- Properties --------------------------------------------------------------
+
+# Object property with domain+range — CONVERTIBLE (sh:class on path, target on domain)
+med:treats a owl:ObjectProperty ;
+    rdfs:domain med:Drug ;
+    rdfs:range med:Disease .
+
+med:hasSymptom a owl:ObjectProperty ;
+    rdfs:domain med:Disease ;
+    rdfs:range med:Symptom .
+
+# Datatype property with range — CONVERTIBLE to sh:datatype
+med:hasAtcCode a owl:DatatypeProperty ;
+    rdfs:domain med:Drug ;
+    rdfs:range xsd:string .
+
+# FunctionalProperty — CONVERTIBLE to sh:maxCount 1
+med:hasAtcCode a owl:FunctionalProperty .
+
+# inverseOf — LOSSY (SHACL cannot ASSERT the inverse triple; it can only
+# validate an existing inverse path, not entail/materialise it)
+med:treatedBy a owl:ObjectProperty ;
+    owl:inverseOf med:treats .
+
+# TransitiveProperty — LOSSY (SHACL has no transitive-closure entailment;
+# property paths give reachability for *validation* but cannot infer new edges)
+med:partOf a owl:ObjectProperty , owl:TransitiveProperty .
+
+# SymmetricProperty — LOSSY (no entailment of the symmetric triple)
+med:interactsWith a owl:ObjectProperty , owl:SymmetricProperty ;
+    rdfs:domain med:Drug ;
+    rdfs:range med:Drug .
+
+# owl:sameAs at instance level — LOSSY (SHACL has no identity reasoning)
+med:aspirin owl:sameAs med:acetylsalicylicAcid .

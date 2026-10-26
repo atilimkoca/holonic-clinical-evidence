@@ -1,0 +1,437 @@
+{
+  "disease": "Aortic Stenosis",
+  "slug": "aortic_stenosis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "35583875",
+      "title": "Lipoprotein(a) and its Significance in Cardiovascular Disease: A Review.",
+      "abstract": "Lipoprotein(a) (Lp[a]) is a low-density lipoprotein (LDL) cholesterol-like particle bound to apolipoprotein(a). This novel marker of cardiovascular disease acts through induction of vascular inflammation, atherogenesis, calcification, and thrombosis. While an absolute risk threshold remains to be universally accepted, an estimated 20% to 25% of the global population have Lp(a) levels of 50 mg/dL or higher, a level noted by the European Atherosclerosis Society to confer increased cardiovascular risk. Compelling evidence from pathophysiological, observational, and genetic studies suggest a potentially causal association between high Lp(a) levels, atherosclerotic cardiovascular disease, and calcific aortic valve stenosis. Additional evidence has demonstrated that elevated Lp(a) levels are associated with a residual cardiovascular risk despite traditional risk factor optimization, including LDL cholesterol reduction. These findings have led to the formulation of the Lp(a) hypothesis, namely that Lp(a) lowering leads to cardiovascular risk reduction, intensifying the search for Lp(a)-reducing therapies. The ineffectiveness of lifestyle modification, statins, and ezetimibe to lower Lp(a); the modest Lp(a) reduction with proprotein convertase subtilisin/kexin type 9 inhibitors; the adverse effect profile and unclear cardiovascular benefit of pharmacotherapies such as niacin and mipomersen; and the impracticality of regular lipoprotein apheresis represent major challenges to currently available therapies. Nevertheless, emerging nucleic acid-based therapies, such as the antisense oligonucleotide pelacarsen and the small interfering RNA olpasiran, are generating interest because of their potent Lp(a)-lowering effects. Assessment of new-onset diabetes in patients achieving very low Lp(a) levels will be important in future trials. Epidemiologic and genetic studies suggest a potentially causal association between elevated Lp(a) levels, atherosclerotic cardiovascular disease, and aortic valve stenosis. Emerging nucleic acid-based therapies have potent Lp(a)-lowering effects and appear safe; phase 3 trials will establish whether they improve cardiovascular outcomes.",
+      "pub_date": "2022-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Aortic Valve Stenosis",
+        "Atherosclerosis",
+        "Cardiovascular Diseases",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Lipoprotein(a)",
+        "Nucleic Acids"
+      ],
+      "chemicals": [
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Lipoprotein(a)",
+        "Nucleic Acids"
+      ],
+      "journal": "JAMA cardiology",
+      "authors": [
+        "Freddy Duarte Lau",
+        "Robert P Giugliano"
+      ]
+    },
+    {
+      "pmid": "39656785",
+      "title": "Calcific aortic stenosis: omics-based target discovery and therapy development.",
+      "abstract": "Calcific aortic valve disease (CAVD) resulting in aortic stenosis (AS) is the most common form of valvular heart disease, affecting 2% of those over age 65. Those who develop symptomatic severe AS have an average further lifespan of <2 years without valve replacement, and three-quarters of these patients will develop heart failure, undergo valve replacement, or die within 5 years. There are no approved pharmaceutical therapies for AS, due primarily to a limited understanding of the molecular mechanisms that direct CAVD progression in the complex haemodynamic environment. Here, advances in efforts to understand the pathogenesis of CAVD and to identify putative drug targets derived from recent multi-omics studies [including (epi)genomics, transcriptomics, proteomics, and metabolomics] of blood and valvular tissues are reviewed. The recent explosion of single-cell omics-based studies in CAVD and the pathobiological and potential drug discovery insights gained from the application of omics to this disease area are a primary focus. Lastly, the translation of knowledge gained in valvular pathobiology into clinical therapies is addressed, with a particular emphasis on treatment regimens that consider sex-specific, renal, and lipid-mediated contributors to CAVD, and ongoing Phase I/II/III trials aimed at the prevention/treatment of AS are described.",
+      "pub_date": "2025-02-14",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Aortic Valve Stenosis",
+        "Calcinosis",
+        "Aortic Valve",
+        "Proteomics",
+        "Genomics",
+        "Drug Discovery",
+        "Metabolomics"
+      ],
+      "chemicals": [],
+      "journal": "European heart journal",
+      "authors": [
+        "Mark C Blaser",
+        "Magnus B\u00e4ck",
+        "Thomas F L\u00fcscher",
+        "Elena Aikawa"
+      ]
+    },
+    {
+      "pmid": "38739079",
+      "title": "Aficamten for Symptomatic Obstructive Hypertrophic Cardiomyopathy.",
+      "abstract": "One of the major determinants of exercise intolerance and limiting symptoms among patients with obstructive hypertrophic cardiomyopathy (HCM) is an elevated intracardiac pressure resulting from left ventricular outflow tract obstruction. Aficamten is an oral selective cardiac myosin inhibitor that reduces left ventricular outflow tract gradients by mitigating cardiac hypercontractility. In this phase 3, double-blind trial, we randomly assigned adults with symptomatic obstructive HCM to receive aficamten (starting dose, 5 mg; maximum dose, 20 mg) or placebo for 24 weeks, with dose adjustment based on echocardiography results. The primary end point was the change from baseline to week 24 in the peak oxygen uptake as assessed by cardiopulmonary exercise testing. The 10 prespecified secondary end points (tested hierarchically) were change in the Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ-CSS), improvement in the New York Heart Association (NYHA) functional class, change in the pressure gradient after the Valsalva maneuver, occurrence of a gradient of less than 30 mm Hg after the Valsalva maneuver, and duration of eligibility for septal reduction therapy (all assessed at week 24); change in the KCCQ-CSS, improvement in the NYHA functional class, change in the pressure gradient after the Valsalva maneuver, and occurrence of a gradient of less than 30 mm Hg after the Valsalva maneuver (all assessed at week 12); and change in the total workload as assessed by cardiopulmonary exercise testing at week 24. A total of 282 patients underwent randomization: 142 to the aficamten group and 140 to the placebo group. The mean age was 59.1 years, 59.2% were men, the baseline mean resting left ventricular outflow tract gradient was 55.1 mm Hg, and the baseline mean left ventricular ejection fraction was 74.8%. At 24 weeks, the mean change in the peak oxygen uptake was 1.8 ml per kilogram per minute (95% confidence interval [CI], 1.2 to 2.3) in the aficamten group and 0.0 ml per kilogram per minute (95% CI, -0.5 to 0.5) in the placebo group (least-squares mean between-group difference, 1.7 ml per kilogram per minute; 95% CI, 1.0 to 2.4; P<0.001). The results for all 10 secondary end points were significantly improved with aficamten as compared with placebo. The incidence of adverse events appeared to be similar in the two groups. Among patients with symptomatic obstructive HCM, treatment with aficamten resulted in a significantly greater improvement in peak oxygen uptake than placebo. (Funded by Cytokinetics; SEQUOIA-HCM ClinicalTrials.gov number, NCT05186818.).",
+      "pub_date": "2024-05-30",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Benzylamines",
+        "Cardiac Myosins",
+        "Cardiomyopathy, Hypertrophic",
+        "Double-Blind Method",
+        "Exercise Test",
+        "Exercise Tolerance",
+        "Oxygen Consumption",
+        "Uracil",
+        "Valsalva Maneuver",
+        "Ventricular Outflow Obstruction",
+        "Cardiovascular Agents",
+        "Myocardial Contraction",
+        "Administration, Oral"
+      ],
+      "chemicals": [
+        "Benzylamines",
+        "Cardiac Myosins",
+        "MYK-461",
+        "Uracil",
+        "Cardiovascular Agents"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Martin S Maron",
+        "Ahmad Masri",
+        "Michael E Nassif",
+        "Roberto Barriales-Villa",
+        "Michael Arad",
+        "Nuno Cardim"
+      ]
+    },
+    {
+      "pmid": "37966402",
+      "title": "Applications of Gene Therapy in\u00a0Cardiomyopathies.",
+      "abstract": "Gene therapy is defined by the introduction of new genes or the genetic modification of existing genes and/or their regulatory portions via gene replacement and gene editing strategies, respectively. The genetic material is usually delivered though cardiotropic vectors such as adeno-associated virus 9 or engineered capsids. The enthusiasm for gene therapy has been hampered somewhat by adverse events observed in clinical trials, including dose-dependent immunologic reactions such as hepatotoxicity, acquired hemolytic uremic syndrome and myocarditis. Notably, gene therapy for Duchenne muscular dystrophy has recently been approved and pivotal clinical trials are testing gene therapy approaches in rare myocardial conditions such as Danon disease and Fabry disease. Furthermore, promising results have been shown in animal models of gene therapy in hypertrophic cardiomyopathy and arrhythmogenic cardiomyopathy. This review summarizes the gene therapy techniques, the toxicity risk associated with adeno-associated virus delivery, the ongoing clinical trials, and future targets.",
+      "pub_date": "2024-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Heart Failure",
+        "Cardiomyopathies",
+        "Muscular Dystrophy, Duchenne",
+        "Genetic Therapy",
+        "Cardiomyopathy, Hypertrophic",
+        "Genetic Vectors"
+      ],
+      "chemicals": [],
+      "journal": "JACC. Heart failure",
+      "authors": [
+        "Alessia Argiro",
+        "Quan Bui",
+        "Kimberly N Hong",
+        "Enrico Ammirati",
+        "Iacopo Olivotto",
+        "Eric Adler"
+      ]
+    },
+    {
+      "pmid": "37495229",
+      "title": "Delayed-release rapamycin halts progression of left ventricular hypertrophy in subclinical feline hypertrophic cardiomyopathy: results of the RAPACAT trial.",
+      "abstract": "Feline hypertrophic cardiomyopathy (HCM) remains a disease with little therapeutic advancement. Rapamycin modulates the mTOR pathway, preventing and reversing cardiac hypertrophy in rodent disease models. Its use in human renal allograft patients is associated with reduced cardiac wall thickness. We sought to evaluate the effects of once-weekly delayed-release (DR) rapamycin over 6 months on echocardiographic, biochemical, and biomarker responses in cats with subclinical, nonobstructive HCM. 43 client-owned cats with subclinical HCM. Cats enrolled in this double-blinded, multicentered, randomized, and placebo-controlled clinical trial were allocated to low- or high-dose DR rapamycin or placebo. Cats underwent physical examination, quality-of-life assessment, blood pressure, hematology, biochemistry, total T4, urinalysis, N-terminal pro-B-type natriuretic peptide, and cardiac troponin I at baseline and days 60, 120, and 180. Fructosamine was analyzed at screening and day 180. Echocardiograms were performed at all time points excluding day 120. Outcome variables were compared using a repeated measures ANCOVA. No demographic, echocardiographic, or clinicopathologic values were significantly different between study groups at baseline, confirming successful randomization. At day 180, the primary study outcome variable, maximum LV myocardial wall thickness at any location, was significantly lower in the low-dose DR rapamycin group compared to placebo (P = .01). Oral DR rapamycin was well tolerated with no significant differences in adverse events between groups. Results demonstrate that DR rapamycin was well tolerated and may prevent or delay progressive LV hypertrophy in cats with subclinical HCM. Additional studies are warranted to confirm and further characterize these results.",
+      "pub_date": "2023-11-01",
+      "publication_types": [
+        "Randomized Controlled Trial, Veterinary",
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Cats",
+        "Cardiomyopathy, Hypertrophic",
+        "Cat Diseases",
+        "Heart",
+        "Hypertrophy, Left Ventricular",
+        "Myocardium",
+        "Sirolimus",
+        "Delayed-Action Preparations"
+      ],
+      "chemicals": [
+        "Sirolimus",
+        "Delayed-Action Preparations"
+      ],
+      "journal": "Journal of the American Veterinary Medical Association",
+      "authors": [
+        "Joanna L Kaplan",
+        "Victor N Rivas",
+        "Ashley L Walker",
+        "Louise Grubb",
+        "Aisling Farrell",
+        "Stuart Fitzgerald"
+      ]
+    },
+    {
+      "pmid": "40258460",
+      "title": "Lp(a): A Clinical Review.",
+      "abstract": "Elevated lipoprotein(a) (Lp[a]) is a genetically determined cardiovascular risk factor, linked to both atherosclerotic cardiovascular disease and aortic stenosis. Elevated Lp(a) is widely prevalent, and consequently, several cardiovascular societies now recommend performing Lp(a) screening at least once in all adults. While there are presently no approved drugs specifically aimed at lowering Lp(a), several promising candidates are currently in the drug development pipeline, and many of these are now undergoing late phase clinical trials. In this comprehensive review, we outline Lp(a) biology and genetics, describe Lp(a)'s relationship to various cardiovascular clinical phenotypes of interest, highlight novel Lp(a)-lowering therapies, and outline what role these may have in future clinical practice.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lipoprotein(a)",
+        "Cardiovascular Diseases",
+        "Atherosclerosis",
+        "Aortic Valve Stenosis",
+        "Hypolipidemic Agents"
+      ],
+      "chemicals": [
+        "Lipoprotein(a)",
+        "Hypolipidemic Agents"
+      ],
+      "journal": "Clinical biochemistry",
+      "authors": [
+        "Khalil Anchouche",
+        "Alexis Baass",
+        "George Thanassoulis"
+      ]
+    },
+    {
+      "pmid": "35304599",
+      "title": "Targeting the sarcomere in inherited cardiomyopathies.",
+      "abstract": "Variants in >12 genes encoding sarcomeric proteins can cause various cardiomyopathies. The two most common are hypertrophic cardiomyopathy (HCM) and dilated cardiomyopathy (DCM). Current therapeutics do not target the root causes of these diseases, but attempt to prevent disease progression and/or to manage symptoms. Accordingly, novel approaches are being developed to treat the cardiac muscle dysfunction directly. Challenges to developing therapeutics for these diseases include the diverse mechanisms of pathogenesis, some of which are still being debated and defined. Four small molecules that modulate the myosin motor protein in the cardiac sarcomere have shown great promise in the settings of HCM and DCM, regardless of the underlying genetic pathogenesis, and similar approaches are being developed to target other components of the sarcomere. In the setting of HCM, mavacamten and aficamten bind to the myosin motor and decrease the ATPase activity of myosin. In the setting of DCM, omecamtiv mecarbil and danicamtiv increase myosin activity in cardiac muscle (but omecamtiv mecarbil decreases myosin activity in vitro). In this Review, we discuss the therapeutic strategies to alter sarcomere contractile activity and summarize the data indicating that targeting one protein in the sarcomere can be effective in treating patients with genetic variants in other sarcomeric proteins, as well as in patients with non-sarcomere-based disease.",
+      "pub_date": "2022-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Cardiomyopathies",
+        "Cardiomyopathy, Dilated",
+        "Cardiomyopathy, Hypertrophic",
+        "Humans",
+        "Mutation",
+        "Myocardium",
+        "Myosins",
+        "Sarcomeres"
+      ],
+      "chemicals": [
+        "Myosins"
+      ],
+      "journal": "Nature reviews. Cardiology",
+      "authors": [
+        "Sarah J Lehman",
+        "Claudia Crocini",
+        "Leslie A Leinwand"
+      ]
+    },
+    {
+      "pmid": "39217450",
+      "title": "Long-term effect of mavacamten in obstructive hypertrophic cardiomyopathy.",
+      "abstract": "Long-term safety and efficacy of mavacamten in patients with obstructive hypertrophic cardiomyopathy (HCM) are unknown. MAVA-LTE (NCT03723655) is an ongoing, 5-year, open-label extension study designed to evaluate the long-term effects of mavacamten. Participants from EXPLORER-HCM (NCT03470545) could enrol in MAVA-LTE upon study completion. At the latest data cut-off, 211 (91.3%) of the 231 patients originally enrolled in MAVA-LTE still received mavacamten. Median (range) time on study was 166.1 (6.0-228.1) weeks; 185 (80.1%) and 99 (42.9%) patients had completed the Week 156 and 180 visits, respectively. Sustained reductions from baseline to Week 180 occurred in left ventricular outflow tract gradients [mean (standard deviation): resting, -40.3 (32.7) mmHg; Valsalva, -55.3 (33.7) mmHg], N-terminal pro B-type natriuretic peptide [median (interquartile range): -562 (-1162.5, -209) ng/L], and EQ-5D-5L score [mean (standard deviation): 0.09 (0.17)]. Mean left ventricular ejection fraction (LVEF) decreased from 73.9% (baseline) to 66.6% (Week 24) and 63.9% (Week 180). At Week 180, 74 (77.9%) of the 95 patients improved by at least one New York Heart Association class from baseline. Over 739 patient-years exposure, 20 patients (8.7%; exposure-adjusted incidence: 2.77/100 patient-years) experienced 22 transient reductions in LVEF to <50% resulting in temporary treatment interruption (all recovered LVEF of \u226550%). Five (2.2%) patients died (all considered unrelated to mavacamten). Long-term mavacamten treatment resulted in sustained improvements in cardiac function and symptoms in patients with obstructive HCM, with no new safety concerns identified. Transient, reversible reductions in LVEF were observed in a small proportion of patients during long-term follow-up.",
+      "pub_date": "2024-12-16",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cardiomyopathy, Hypertrophic",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Treatment Outcome",
+        "Aged",
+        "Adult",
+        "Uracil",
+        "Stroke Volume",
+        "Benzylamines",
+        "Natriuretic Peptide, Brain",
+        "Quality of Life"
+      ],
+      "chemicals": [
+        "MYK-461",
+        "Uracil",
+        "Benzylamines",
+        "Natriuretic Peptide, Brain"
+      ],
+      "journal": "European heart journal",
+      "authors": [
+        "Pablo Garcia-Pavia",
+        "Artur Or\u0119ziak",
+        "Ahmad Masri",
+        "Roberto Barriales-Villa",
+        "Theodore P Abraham",
+        "Anjali T Owens"
+      ]
+    },
+    {
+      "pmid": "38228638",
+      "title": "Enhancing aortic valve drug delivery with PAR2-targeting magnetic nano-cargoes for calcification alleviation.",
+      "abstract": "Calcific aortic valve disease is a prevalent cardiovascular disease with no available drugs capable of effectively preventing its progression. Hence, an efficient drug delivery system could serve as a valuable tool in drug screening and potentially enhance therapeutic efficacy. However, due to the rapid blood flow rate associated with aortic valve stenosis and the lack of specific markers, achieving targeted drug delivery for calcific aortic valve disease has proved to be challenging. Here we find that protease-activated-receptor 2 (PAR2) expression is up-regulated on the plasma membrane of osteogenically differentiated valvular interstitial cells. Accordingly, we develop a magnetic nanocarrier functionalized with PAR2-targeting hexapeptide for dual-active targeting drug delivery. We show that the nanocarriers effectively deliver XCT790-an anti-calcification drug-to the calcified aortic valve under extra magnetic field navigation. We demonstrate that the nano-cargoes consequently inhibit the osteogenic differentiation of valvular interstitial cells, and alleviate aortic valve calcification and stenosis in a high-fat diet-fed low-density lipoprotein receptor-deficient (Ldlr",
+      "pub_date": "2024-01-16",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Osteogenesis",
+        "Calcinosis",
+        "Aortic Valve",
+        "Cells, Cultured",
+        "Animals",
+        "Aortic Valve Stenosis",
+        "Magnetic Phenomena",
+        "Mice"
+      ],
+      "chemicals": [],
+      "journal": "Nature communications",
+      "authors": [
+        "Jinyong Chen",
+        "Tanchen Ren",
+        "Lan Xie",
+        "Haochang Hu",
+        "Xu Li",
+        "Miribani Maitusong"
+      ]
+    },
+    {
+      "pmid": "40888697",
+      "title": "Aficamten or Metoprolol Monotherapy for Obstructive Hypertrophic Cardiomyopathy.",
+      "abstract": "Beta-blockers have been the initial treatment for symptomatic obstructive hypertrophic cardiomyopathy (HCM) despite limited evidence of their efficacy. Aficamten is a cardiac myosin inhibitor that reduces left ventricular outflow tract gradients, improves exercise capacity, and decreases HCM symptoms when added to standard medications. Whether aficamten as monotherapy provides greater clinical benefit than beta-blockers as monotherapy remains unknown. We conducted an international, double-blind, double-dummy trial in which adults with symptomatic obstructive HCM were randomly assigned in a 1:1 ratio to receive aficamten (at a daily dose of 5 mg to 20 mg) plus placebo or metoprolol (at a daily dose of 50 mg to 200 mg) plus placebo. The primary end point was the change in peak oxygen uptake at week 24; secondary end points were improvement at week 24 in New York Heart Association (NYHA) functional class and changes at week 24 in Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ-CSS), left ventricular outflow tract gradient after the Valsalva maneuver, N-terminal pro-B-type natriuretic peptide (NT-proBNP) level, left atrial volume index, and left ventricular mass index. A total of 88 patients were assigned to the aficamten group and 87 to the metoprolol group. The mean age of the patients was 58 years, 58.3% were men, and the mean left ventricular outflow tract gradient was 47 mm Hg at rest and 74 mm Hg after the Valsalva maneuver. At 24 weeks, the change in the peak oxygen uptake was 1.1 ml per kilogram of body weight per minute (95% confidence interval [CI], 0.5 to 1.7) in the aficamten group and -1.2 ml per kilogram per minute (95% CI, -1.7 to -0.8) in the metoprolol group (least-squares mean between-group difference, 2.3 ml per kilogram per minute; 95% CI, 1.5 to 3.1; P<0.001). Patients who received aficamten had significantly greater improvements in NYHA class, KCCQ-CSS, left ventricular outflow tract gradient, NT-proBNP level, and left atrial volume index than patients who received metoprolol. No significant difference in left ventricular mass index was observed. Adverse events appeared to be similar in the two treatment groups. Among patients with symptomatic obstructive HCM, aficamten monotherapy was superior to metoprolol monotherapy in improving peak oxygen uptake and hemodynamics and decreasing symptoms. (Funded by Cytokinetics; MAPLE-HCM ClinicalTrials.gov number, NCT05767346.).",
+      "pub_date": "2025-09-11",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Adrenergic beta-1 Receptor Antagonists",
+        "Cardiomyopathy, Hypertrophic",
+        "Double-Blind Method",
+        "Exercise Tolerance",
+        "Metoprolol",
+        "Natriuretic Peptide, Brain",
+        "Oxygen Consumption",
+        "Peptide Fragments",
+        "Pyrazoles",
+        "Cardiac Myosins",
+        "Exercise Test",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Adrenergic beta-1 Receptor Antagonists",
+        "Metoprolol",
+        "Natriuretic Peptide, Brain",
+        "Peptide Fragments",
+        "pro-brain natriuretic peptide (1-76)",
+        "aficamten",
+        "Pyrazoles",
+        "Cardiac Myosins"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Pablo Garcia-Pavia",
+        "Martin S Maron",
+        "Ahmad Masri",
+        "Bela Merkely",
+        "Michael E Nassif",
+        "Maria Luisa Pe\u00f1a-Pe\u00f1a"
+      ]
+    },
+    {
+      "pmid": "40888717",
+      "title": "Mavacamten in Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.",
+      "abstract": "Mavacamten is approved to treat adults with symptomatic obstructive hypertrophic cardiomyopathy (HCM). However, its effects in nonobstructive HCM remain uncertain. We conducted a phase 3, international, double-blind, placebo-controlled, clinical trial to determine whether mavacamten improves functional capacity and patient-reported health status among adults with symptomatic nonobstructive HCM. Patients were randomly assigned in a 1:1 ratio to receive mavacamten (starting at 5 mg per day and adjusted up to a maximum of 15 mg per day on the basis of left ventricular ejection fraction) or placebo (with sham dose adjustment) for 48 weeks. The two primary end points were the change from baseline to week 48 in peak oxygen uptake and in the 23-item Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ-CSS; scores range from 0 to 100, with higher scores indicating better health status). We randomly assigned 289 patients to receive mavacamten and 291 to receive placebo. The mean (\u00b1SD) age of the patients was 56\u00b115 years, and 46% were women. From baseline to week 48, the least-squares mean change in peak oxygen uptake was 0.52 ml per kilogram of body weight per minute (95% confidence interval [CI], 0.09 to 0.95) in the mavacamten group and 0.05 ml per kilogram per minute (95% CI, -0.38 to 0.47) in the placebo group (between-group difference, 0.47 ml per kilogram per minute; 95% CI, -0.03 to 0.98; P\u2009=\u20090.07). The least-squares mean change in the KCCQ-CSS was 13.1 points (95% CI, 10.7 to 15.5) in the mavacamten group and 10.4 points (95% CI, 8.0 to 12.8) in the placebo group (between-group difference, 2.7 points; 95% CI, -0.1 to 5.6; P\u2009=\u20090.06). Reductions in ejection fraction and interruptions in the trial regimen were more common with mavacamten than with placebo. Among patients with nonobstructive HCM, mavacamten did not result in a significantly greater improvement in peak oxygen uptake or decrease in symptoms than placebo. (Funded by Bristol Myers Squibb; ODYSSEY-HCM ClinicalTrials.gov number, NCT05582395.).",
+      "pub_date": "2025-09-11",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Cardiomyopathy, Hypertrophic",
+        "Double-Blind Method",
+        "Oxygen Consumption",
+        "Stroke Volume",
+        "Uracil",
+        "Benzylamines",
+        "Treatment Outcome",
+        "Echocardiography",
+        "Exercise Test"
+      ],
+      "chemicals": [
+        "MYK-461",
+        "Uracil",
+        "Benzylamines"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Milind Y Desai",
+        "Anjali T Owens",
+        "Theodore Abraham",
+        "Iacopo Olivotto",
+        "Pablo Garcia-Pavia",
+        "Renato D Lopes"
+      ]
+    },
+    {
+      "pmid": "37639259",
+      "title": "Effect of Mavacamten on Chinese Patients With Symptomatic Obstructive Hypertrophic Cardiomyopathy: The EXPLORER-CN Randomized Clinical Trial.",
+      "abstract": "Mavacamten has shown clinical benefits in global studies for patients with obstructive hypertrophic cardiomyopathy (oHCM), but evidence in the Asian population is lacking. To evaluate the safety and efficacy of mavacamten compared with placebo for Chinese patients with symptomatic oHCM. This phase 3, randomized, double-blind, placebo-controlled clinical trial was conducted at 12 hospitals in China. Between January 4 and August 5, 2022, patients with oHCM and a left ventricular outflow tract (LVOT) gradient of 50 mm Hg or more and New York Heart Association (NYHA) class II or III symptoms were enrolled and received treatment for 30 weeks. Patients were randomized 2:1 to receive mavacamten (starting at 2.5 mg once daily) or placebo for 30 weeks. The primary end point was change in Valsalva LVOT peak gradient from baseline to week 30. Left ventricular outflow tract gradients and left ventricular ejection fraction (LVEF) were assessed by echocardiography, while left ventricular mass index (LVMI) was determined by cardiac magnetic resonance imaging. Analysis was performed on an intention-to-treat basis. A total of 81 patients (mean [SD] age, 51.9 [11.9] years; 58 men [71.6%]) were randomized. Mavacamten demonstrated a significant improvement in the primary end point compared with placebo (least-squares mean [LSM] difference, -70.3 mm Hg; 95% CI, -89.6 to -50.9 mm Hg; 1-sided P\u2009<\u2009.001). Similar trends were demonstrated for resting LVOT peak gradient (LSM difference, -55.0 mm Hg; 95% CI, -69.1 to -40.9 mm Hg). At week 30, more patients receiving mavacamten than placebo achieved a Valsalva LVOT peak gradient less than 30 mm Hg (48.1% [26 of 54] vs 3.7% [1 of 27]), less than 50 mm Hg (59.3% [32 of 54] vs 7.4% [2 of 27]), and NYHA class improvement (59.3% [32 of 54] vs 14.8% [4 of 27]). Greater improvements were also observed with mavacamten regarding the Kansas City Cardiomyopathy Questionnaire Clinical Summary Score (LSM difference, 10.2; 95% CI, 4.4-16.1), N-terminal pro-B-type natriuretic peptide level (proportion of geometric mean ratio, 0.18; 95% CI, 0.13-0.24), high-sensitivity cardiac troponin I level (proportion of geometric mean ratio, 0.34; 95% CI, 0.27-0.42), and LVMI (mean difference, -30.8 g/m2; 95% CI, -41.6 to -20.1 g/m2). Safety and tolerability were similar between mavacamten and placebo. No patients experienced LVEF less than 50%. Mavacamten significantly improved Valsalva LVOT gradient vs placebo for Chinese patients. All secondary efficacy end points were also improved. Mavacamten was well tolerated with no new safety signals. This study supports the efficacy and safety of mavacamten in diverse populations, including Chinese patients. ClinicalTrials.gov Identifier: NCT05174416.",
+      "pub_date": "2023-10-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Male",
+        "Humans",
+        "Middle Aged",
+        "Stroke Volume",
+        "Ventricular Function, Left",
+        "Double-Blind Method",
+        "East Asian People",
+        "Cardiomyopathy, Hypertrophic",
+        "Benzylamines",
+        "Uracil"
+      ],
+      "chemicals": [
+        "MYK-461",
+        "Benzylamines",
+        "Uracil"
+      ],
+      "journal": "JAMA cardiology",
+      "authors": [
+        "Zhuang Tian",
+        "Liwen Li",
+        "Xiaoyan Li",
+        "Jian'an Wang",
+        "Qing Zhang",
+        "Zhanquan Li"
+      ]
+    }
+  ]
+}

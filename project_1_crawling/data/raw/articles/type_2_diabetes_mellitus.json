@@ -1,0 +1,456 @@
+{
+  "disease": "Type 2 Diabetes Mellitus",
+  "slug": "type_2_diabetes_mellitus",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41931049",
+      "title": "GLP-1 Receptor Agonists.",
+      "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists are incretin analogues that promote glucose-mediated insulin release and are used to treat type 2 diabetes mellitus and obesity. GLP-1 receptor agonists and GLP-1 and glucose-dependent insulinotropic peptide agonists have several mechanisms of action, including reduction of gastric emptying, inhibition of glucagon secretion, beneficial changes in the intestinal microbiome, and direct effects on hypothalamic nuclei to enhance satiety (which promotes weight loss). Beyond the impressive effects of GLP-1 receptor agonists on blood glucose levels and body weight, large-scale randomized, controlled trials have shown that GLP-1 receptor agonists reduce cardiovascular risk and slow progression to renal failure in persons at high risk and those with type 2 diabetes. Adverse side effects from GLP-1 receptor agonists are mostly gastrointestinal but may also include loss of muscle and bone mass. Questions remain about long-term adherence, weight regain after discontinuation of treatment, and the functional implications of the loss of muscle and bone mass. Recent and ongoing targeted studies suggest the possibility of additional uses for GLP-1 receptor agonists.",
+      "pub_date": "2026-04-02",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cardiovascular Diseases",
+        "Diabetes Mellitus, Type 2",
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Hypoglycemic Agents",
+        "Incretins",
+        "Obesity",
+        "Renal Insufficiency",
+        "Anti-Obesity Agents",
+        "Disease Progression",
+        "Gastric Emptying",
+        "Glucagon",
+        "Gastrointestinal Microbiome",
+        "Satiety Response",
+        "Randomized Controlled Trials as Topic",
+        "Medication Adherence"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Hypoglycemic Agents",
+        "Incretins",
+        "Anti-Obesity Agents",
+        "Glucagon"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Clifford J Rosen",
+        "Julie R Ingelfinger"
+      ]
+    },
+    {
+      "pmid": "41785010",
+      "title": "Retatrutide in type 2 diabetes mellitus and obesity: an overview.",
+      "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly used for T2DM and obesity. An electronic search was conducted in Scopus, PubMed/MEDLINE, and Google Scholar databases. Retatrutide (LY3437943) is a novel triple agonist targeting glucagon receptor (GCGR), glucose-dependent insulinotropic polypeptide receptor (GIPR), and glucagon-like peptide-1 receptor (GLP-1\u2009R). In subjects with type 2 diabetes mellitus (T2DM), decreased glycated hemoglobin (HbA These promising effects on glycemic control, weight loss, and emerging pleiotropic actions merit further investigation.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Obesity",
+        "Hypoglycemic Agents",
+        "Weight Loss",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Blood Glucose",
+        "Glycated Hemoglobin",
+        "Receptors, Glucagon",
+        "Animals",
+        "Body Mass Index",
+        "Fatty Acids",
+        "Peptides",
+        "Receptors, Gastrointestinal Hormone"
+      ],
+      "chemicals": [
+        "Hypoglycemic Agents",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Blood Glucose",
+        "Glycated Hemoglobin",
+        "Receptors, Glucagon",
+        "gastric inhibitory polypeptide receptor",
+        "retatrutide",
+        "Fatty Acids",
+        "Peptides",
+        "Receptors, Gastrointestinal Hormone"
+      ],
+      "journal": "Expert review of clinical pharmacology",
+      "authors": [
+        "Theodoros Panou",
+        "Evanthia Gouveri",
+        "Djordje S Popovic",
+        "Nikolaos Papanas"
+      ]
+    },
+    {
+      "pmid": "41781010",
+      "title": "Glucagon-like peptide-1 receptor agonists and risk of substance use disorders among US veterans with type 2 diabetes: cohort study.",
+      "abstract": "To investigate whether initiation of glucagon-like peptide-1 (GLP-1) receptor agonists is associated with both reduced risks of incident alcohol, cannabis, cocaine, nicotine, opioid, and other substance use disorders (SUDs) in people with no history of SUDs (protocol 1) and with reduced risk of SUD related adverse clinical outcomes among people with a pre-existing SUD (protocol 2). Emulation of eight parallel, new user, active comparator target trials using electronic health records: seven trials for each incident SUD outcome (protocol 1) and one trial for adverse outcomes in people with pre-existing SUD (protocol 2). US Department of Veterans Affairs. From a base population of 606\u2009434 US veterans with type 2 diabetes, participants were assigned to one of the two protocols and followed for up to three years. Trial 1 (primary trial) of protocol 1 included 524\u2009817 initiators of GLP-1 receptor agonists (n=124\u2009001) or sodium-glucose cotransporter-2 (SGLT-2) inhibitors (n=400\u2009816). Protocol 2 included 81\u2009617 initiators of GLP-1 receptor agonists (n=16\u2009768) and SGLT-2 inhibitors (n=64\u2009849). Incident outcomes were alcohol, cannabis, cocaine, nicotine, opioid, other SUDs, and a composite of these outcomes. Adverse outcomes among participants with pre-existing SUDs included SUD related emergency department visits, SUD related hospital admissions, and SUD related mortality, and drug overdose and suicidal ideation or attempt. Hazard ratios and net three year risk difference (NRD) per 1000 people were reported based on inverse probability weighted (standardised mortality ratio weighted) cause specific Cox survival models. Compared with initiation of SGLT-2 inhibitors, initiation of GLP-1 receptor agonists was associated with reduced risk of disorders related to alcohol use (hazard ratio 0.82 (95% confidence interval (CI) 0.78 to 0.85); NRD per 1000 people -5.57 (-6.61 to -4.53)), cannabis use (0.86 (0.81 to 0.90), NRD -2.25 (-3.00 to -1.50)), cocaine use (0.80 (0.72 to 0.88), NRD -0.97 (-1.37 to -0.57)), nicotine use (0.80 (0.74 to 0.87), NRD -1.64 (-2.19 to -1.09)), and opioid use (0.75 (0.67 to 0.85), NRD -0.86 (-1.19 to -0.52)), and other SUDs (0.87 (0.81 to 0.94), NRD -1.12 (-1.68 to -0.55)) and composite outcome of all incident SUDs (0.86 (0.83 to 0.88), NRD -6.61 (-7.95 to -5.26)). Among people with pre-existing SUDs, initiation of GLP-1 receptor agonists was associated with reduced risk of SUD related emergency department visits (0.69 (0.61 to 0.78), NRD -8.92 (-11.59 to -6.25)), SUD related hospital admissions (0.74 (0.65 to 0.85), NRD -6.23 (-8.73 to -3.74)), and SUD related mortality (0.50 (0.32 to 0.79), NRD -1.52 (-2.32 to -0.72)), and drug overdose (0.61 (0.42 to 0.88), NRD -1.49 (-2.43 to -0.55)) and suicidal ideation or attempt (0.75 (0.67 to 0.83), NRD -9.95 (-13.14 to -6.77)). Analyses of treatment adherence showed directionally consistent results with analyses of treatment initiation for both incident SUDs and adverse outcomes among participants with pre-existing SUDs. Use of GLP-1 receptor agonists was consistently associated with reduced risks of developing various incident SUDs, suggesting a broad preventive effect across multiple substance types. Use was also associated with reduced risks of adverse clinical outcomes in people with pre-existing SUDs. These observational data suggest a potential role for GLP-1 receptor agonists in both the prevention and the treatment of various SUDs, warranting further evaluation.",
+      "pub_date": "2026-03-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Male",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Veterans",
+        "United States",
+        "Female",
+        "Substance-Related Disorders",
+        "Middle Aged",
+        "Hypoglycemic Agents",
+        "Cohort Studies",
+        "Aged",
+        "Risk Factors"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Miao Cai",
+        "Taeyoung Choi",
+        "Yan Xie",
+        "Ziyad Al-Aly"
+      ]
+    },
+    {
+      "pmid": "41713504",
+      "title": "Concurrent management of gout and type 2 diabetes mellitus: combined therapy insights.",
+      "abstract": "Gout and type 2 diabetes mellitus (T2DM) are prevalent metabolic disorders with a significant bidirectional association. The review article focuses on the interplay between serum uric acid and glucose/lipid metabolism, innate immunity, inflammation, and gut microbiota, proposing simultaneous treatment strategies. Gout, caused by monosodium urate crystal deposition due to hyperuricaemia, and T2DM, induced by high-fat, high-sugar diets disrupting metabolic balance, share common pathological mechanisms. Elevated uric acid levels contribute to lipid and glucose metabolic disorders, activate inflammatory pathways like the nucleotide-binding oligomerization domain-like receptor 3 inflammasome, and trigger innate immune responses. The gut microbiota also plays a significant role in both metabolic diseases, with dysbiosis affecting uric acid excretion and insulin resistance. This review article highlights promising therapeutic approaches, including the use of sodium-glucose cotransporter-2 inhibitors which reduce serum uric acid and lowers gout risk alongside glycaemic control. Additionally, targeting inflammatory pathways such as interleukin-1\u03b2 offers potential benefits for both conditions. Combined pharmacological therapies, dietary adjustments, and gut microbiota interventions present new directions for simultaneous management. This review article provides a comprehensive analysis of the links between gout and T2DM, offering novel insights for clinical practice and future research.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Gout",
+        "Gastrointestinal Microbiome",
+        "Uric Acid",
+        "Hyperuricemia",
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "chemicals": [
+        "Uric Acid",
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "journal": "Diabetes research and clinical practice",
+      "authors": [
+        "Hanfei Wang",
+        "Boyu Wang",
+        "Jieying Zhang",
+        "Haibin Tong",
+        "Irma Ares",
+        "Marta Mart\u00ednez"
+      ]
+    },
+    {
+      "pmid": "41816857",
+      "title": "Obesity Treatments and Weight Changes in Clinical Practice After Discontinuation of Semaglutide or Tirzepatide.",
+      "abstract": "To describe obesity treatments in real-world settings after discontinuation of semaglutide or tirzepatide and variability in weight change post-discontinuation. This retrospective cohort study used electronic health records from 1 January 2021, to 30 June 2025, in a large health system in Ohio and Florida. Adults with overweight or obesity who initiated injectable semaglutide or tirzepatide for obesity or T2D between 2021 and 2023 and discontinued the medication within 3-12\u2009months were included. Main outcomes were reinitiation of the index medication or receipt of an alternative treatment, body weight changes from baseline to index medication discontinuation and from discontinuation to 1-year post discontinuation. A total of 7938 patients (mean [SD] age, 55.7 [13.4]\u2009years; 5061 [63.8%] female) were identified. During 1-year post-discontinuation, 19.6% restarted the index medication and 35.2% received an alternative obesity treatment, including starting another medication (27.4%), lifestyle modification visit (13.7%) and metabolic and bariatric surgery (0.6%). Mean percentage weight change from baseline to discontinuation was -8.4% [95% CI, -8.7%, -8.1%] when treating obesity and -4.4% [95% CI, -4.7%, -4.2%] when treating T2D. Mean percentage weight change from discontinuation to 1\u2009year later was 0.5% [95% CI, 0.0%, 1.0%] when treating obesity and -1.3% [95% CI, -1.6%, -1.0%] when treating T2D; however, there was considerable individual-level variability. In this large sample of patients who discontinued semaglutide or tirzepatide, reinitiation of the original medication or receipt of alternative obesity treatment was common. The average weight change 1-year post-discontinuation was relatively small; however, there was considerable individual-level variability.",
+      "pub_date": "2026-06-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Glucagon-Like Peptides",
+        "Female",
+        "Middle Aged",
+        "Male",
+        "Retrospective Studies",
+        "Obesity",
+        "Anti-Obesity Agents",
+        "Adult",
+        "Weight Loss",
+        "Tirzepatide",
+        "Aged",
+        "Diabetes Mellitus, Type 2"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptides",
+        "Anti-Obesity Agents",
+        "Tirzepatide"
+      ],
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": [
+        "Hamlet Gasoyan",
+        "Rebecca Schulte",
+        "Christopher B Boyer",
+        "Nicholas J Casacchia",
+        "W Scott Butsch",
+        "Phuc Le"
+      ]
+    },
+    {
+      "pmid": "41897350",
+      "title": "Metformin-A Type 2 Diabetes Mellitus Drug-And Ovarian Cancer: Anticancer Mechanisms and Therapeutic Implications.",
+      "abstract": "Ovarian cancer is a devastating disease that is often diagnosed in the late stages. The typical therapeutic approach includes surgery plus cytotoxic drugs such as carboplatin and paclitaxel. In recent years, the advent of poly ADP-ribose polymerase (PARP) inhibitors such as olaparib has offered additional treatment opportunities for patients with BRCA mutations or homologous recombination deficiencies. Nevertheless, resistance to therapy usually occurs, leading to poor overall survival. Therefore, novel treatments are needed for this disease. One of the obstacles to successful treatment is the highly immunosuppressive nature of the ovarian cancer microenvironment. Recent strategies for the treatment of ovarian cancer and other types of cancer involve targeting the metabolism of cancer cells and other cells of the tumor microenvironment. One drug that has been investigated both in preclinical studies and clinical trials as an antitumor agent is metformin. This drug, typically used for the treatment of type-2 diabetes for its capability to lower blood glucose, can directly affect cancer cell growth and survival by activating the AMPK (adenosine monophosphate-activated protein kinase) pathway. Furthermore, it can affect the phenotype of other cells of the tumor microenvironment such as macrophages and T cells. In this review, we summarize the main characteristics of ovarian cancer and describe preclinical studies and clinical trials involving metformin as a therapeutic agent for this disease.",
+      "pub_date": "2026-03-11",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Metformin",
+        "Female",
+        "Ovarian Neoplasms",
+        "Antineoplastic Agents",
+        "Diabetes Mellitus, Type 2",
+        "Tumor Microenvironment",
+        "Animals",
+        "Hypoglycemic Agents"
+      ],
+      "chemicals": [
+        "Metformin",
+        "Antineoplastic Agents",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "Biomolecules",
+      "authors": [
+        "Emma Sielski",
+        "Al-Noumani Shuhd",
+        "Ella Bower",
+        "Kate Cunningham",
+        "Grace Beidel",
+        "Alissa Luchianova"
+      ]
+    },
+    {
+      "pmid": "41872653",
+      "title": "Implications of Genetic Elements on Type 2 Diabetes Mellitus Pathogenesis and Management.",
+      "abstract": "Type 2 diabetes mellitus (T2DM) is a complex, multifactorial disease influenced by interactions between environmental exposures and genetic determinants. Increasing evidence highlights the important role of genetic variation in disease susceptibility, progression, and therapeutic response. This review aims to explore key genetic factors associated with T2DM risk and pathogenesis, as well as pharmacogenomic variants that influence antidiabetic therapy metabolism and clinical response. Several genetic variants have been linked to altered glucose metabolism and increased susceptibility to T2DM. Notable genes include KCNJ11, HNF4A, IGF2BP2, CDKN2A/B, PPAR\u03b3, KLF14, and IRS, which influence insulin secretion, insulin signalling, and glucose regulation. Genetic polymorphisms vary across populations and may contribute to differences in disease susceptibility. In addition, variations in drug-metabolising enzymes, particularly within the cytochrome P450 enzymes (CYP450), can influence the pharmacokinetics and pharmacodynamics of commonly prescribed antidiabetic medications. Some major CYP450 isoforms implicated in the metabolism of antidiabetic medications have been shown to exhibit polymorphisms that can alter plasma drug concentrations, ultimately leading to poor glycaemic control or heightening adverse effects. Therefore, understanding these genetic underpinnings is critical for advancing precision medicine approaches in diabetes care, enabling tailored pharmacotherapy and optimising treatment outcomes. By integrating genetic insights into clinical decision-making, this paper highlights the potential of pharmacogenomics not only to identify populations at risk of developing T2DM but also to improve glycaemic control, reduce adverse drug reactions, and enhance patients' quality of life with T2DM.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Hypoglycemic Agents",
+        "Genetic Predisposition to Disease",
+        "Polymorphism, Genetic"
+      ],
+      "chemicals": [
+        "Hypoglycemic Agents"
+      ],
+      "journal": "Endocrinology, diabetes & metabolism",
+      "authors": [
+        "Nokwanda N Ngcobo",
+        "Ntethelelo H Sibiya"
+      ]
+    },
+    {
+      "pmid": "42036156",
+      "title": "Noninsulin Medications for Type 2 Diabetes.",
+      "abstract": "This article reviews the noninsulin medications to treat type 2 diabetes, including their mechanism of action, efficacy, safety, and clinical considerations. It highlights the shift in the treatment of diabetes from a glucose-centric to a patient-centered approach, with emphasis on the importance of choosing therapy based on the evidence to improve outcomes and prevent comorbidities. Major classes discussed include biguanides (metformin), insulin secretagogues (sulfonylureas, meglitinides), thiazolidinediones, alpha-glucosidase inhibitors, SGLT2 inhibitors, DPP4 inhibitors, GLP1 receptor agonists, dual GLP1/GIP receptor agonists, and amylin analogs.",
+      "pub_date": "2026-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Hypoglycemic Agents",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Glycoside Hydrolase Inhibitors",
+        "Sulfonylurea Compounds",
+        "Biguanides",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Thiazolidinediones",
+        "Metformin"
+      ],
+      "chemicals": [
+        "Hypoglycemic Agents",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Glycoside Hydrolase Inhibitors",
+        "Sulfonylurea Compounds",
+        "Biguanides",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Thiazolidinediones",
+        "Metformin"
+      ],
+      "journal": "The Medical clinics of North America",
+      "authors": [
+        "Iris Castro-Revoredo",
+        "Sara C Markley Webster"
+      ]
+    },
+    {
+      "pmid": "41879623",
+      "title": "Type 2 Diabetes in Pregnancy: Management and Novel Therapies.",
+      "abstract": "Type 2 diabetes mellitus (T2DM) is estimated to affect 2% of all pregnancies, and it is associated with numerous adverse perinatal outcomes. Glycemic monitoring and strict glycemic control are required to improve overall outcomes. Insulin is the mainstay of treatment, with limited data regarding newer medications like glucagon-like peptide 1 receptors agonists (GLP-1 RAs), dual incretin agonists like tirzepatide, sodium-glucose cotransporter-2 inhibitors (SGLT2i), and dipeptidyl peptidase-4 inhibitors (DPP-4i). This chapter will provide a review of the current available literature regarding T2DM management in pregnancy.",
+      "pub_date": "2026-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pregnancy",
+        "Female",
+        "Diabetes Mellitus, Type 2",
+        "Hypoglycemic Agents",
+        "Pregnancy in Diabetics",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Insulin",
+        "Incretins",
+        "Glycemic Control"
+      ],
+      "chemicals": [
+        "Hypoglycemic Agents",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Insulin",
+        "Incretins"
+      ],
+      "journal": "Clinical obstetrics and gynecology",
+      "authors": [
+        "Gianna Wilkie"
+      ]
+    },
+    {
+      "pmid": "41702311",
+      "title": "Mechanisms in diabetes mellitus: Relationships to metabolism and/or neoplasia.",
+      "abstract": "Insulin resistance and diabetes mellitus are associated with increased atherosclerotic thromboembolic events, decreased immune competence, and elevated neoplasia event rates compared with euglycemic populations. Insulin signals cellular metabolism to activate adenosine monophosphate protein kinase (AMPK) for energy generation and transduces insulin-like growth factor to promote cell growth and proliferation. Diabetes renders inhibition of genes for tumor suppression, thereby promoting cell growth and proliferation. Since insulin resistance may increase expression of cell growth and proliferation, it is a target for therapeutic interruption. Metformin and pioglitazone have been found to promote metabolic (mTOR2) while inhibiting neoplastic (mTOR 1) pathways of the AMPK signaling network.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Neoplasms",
+        "Insulin Resistance",
+        "Signal Transduction",
+        "Animals",
+        "Hypoglycemic Agents",
+        "Metformin",
+        "Diabetes Mellitus",
+        "AMP-Activated Protein Kinases",
+        "TOR Serine-Threonine Kinases",
+        "Diabetes Mellitus, Type 2",
+        "Energy Metabolism",
+        "Thiazolidinediones"
+      ],
+      "chemicals": [
+        "Hypoglycemic Agents",
+        "Metformin",
+        "AMP-Activated Protein Kinases",
+        "TOR Serine-Threonine Kinases",
+        "Thiazolidinediones"
+      ],
+      "journal": "Journal of diabetes and its complications",
+      "authors": [
+        "John A D'Elia",
+        "Bijan Roshan",
+        "Larry A Weinrauch"
+      ]
+    },
+    {
+      "pmid": "41697744",
+      "title": "GLP-1 and the cardiovascular system.",
+      "abstract": "The incretin hormone glucagon-like peptide-1 (GLP-1) exerts potent effects on glucose metabolism, prompting the development of therapeutic strategies that enhance activity of the GLP-1 receptor (GLP-1R) pathway. Inhibitors of dipeptidyl peptidase 4 (DPP-4) prolong the half-life of endogenous GLP-1 and typically achieve reductions in HbA1c of 0.5%-0.8%. However, large-scale cardiovascular (CV) outcomes trials (CVOTs) with DPP-4 inhibitors demonstrated CV safety but did not show a reduction in CV events. A second incretin-based therapeutic approach was the development of GLP-1R agonists (GLP-1RAs). Various GLP-1RAs, including liraglutide, semaglutide, and dulaglutide, demonstrated a reduction in CV outcomes in large CVOTs. Initially, these medications were only available as injectable agents for subcutaneous administration, but recent technological advancements have enabled the development of orally available GLP-1RAs. A third incretin-based approach is tirzepatide, a dual agonist of GLP-1R and glucose-dependent insulinotropic polypeptide receptor (GIPR), which achieves greater HbA1c reduction and weight loss compared with GLP-1RAs alone. Ongoing large-scale CVOTs will determine its effects on hard cardiovascular endpoints. This Review summarizes the effects of GLP-1 and GLP-1RAs in the CV system as well as clinical data of GLP-1RAs in individuals with CV disease or high CV risk.",
+      "pub_date": "2026-02-16",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Glucagon-Like Peptide 1",
+        "Cardiovascular Diseases",
+        "Cardiovascular System",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide-1 Receptor",
+        "Animals",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Glucagon-Like Peptides",
+        "Diabetes Mellitus, Type 2",
+        "Incretins",
+        "Hypoglycemic Agents"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptide 1",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide-1 Receptor",
+        "GLP1R protein, human",
+        "Dipeptidyl-Peptidase IV Inhibitors",
+        "Glucagon-Like Peptides",
+        "Incretins",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "The Journal of clinical investigation",
+      "authors": [
+        "Florian Kahles",
+        "Andreas L Birkenfeld",
+        "Nikolaus Marx"
+      ]
+    },
+    {
+      "pmid": "41787464",
+      "title": "Long-term risk of offspring type 1 and type 2 diabetes following maternal gestational diabetes mellitus: a nationwide birth cohort study with 10-year follow-up.",
+      "abstract": "Evidence on the individual risks of type 1 and type 2 diabetes following gestational diabetes mellitus (GDM) exposure, particularly in large Asian populations, remains limited. We examined whether maternal GDM increases the risk of type 1 and type 2 diabetes in offspring in a Korean nationwide cohort. After excluding mothers with preexisting diabetes, we analyzed a nationwide Korean birth cohort of 3,491,680 mother-child pairs from 2009 to 2018, followed for up to 14\u00a0years. Type 1 diabetes was defined as International Classification of Diseases, 10th Revision (ICD-10) E10 with insulin prescription; type 2 diabetes as ICD-10 E11-E14 with antidiabetic medication use. Cox proportional hazards models were used to estimate hazard ratios (HRs) across three groups, offspring born to mothers without GDM (reference), with GDM but not treated with insulin, and with GDM treated with insulin, adjusting for maternal and neonatal covariates. Of the total cohort, 424,185 (12.1%) pregnancies were complicated by GDM, among which 30,003 (7.1%) required insulin therapy during pregnancy. GDM without insulin therapy was not associated with type 1 diabetes in offspring (HR, 0.857 [95% confidence interval, 0.696-1.054]). However, offspring of GDM mothers requiring insulin during pregnancy had a higher risk of type 1 diabetes (HR, 1.936 [1.228-3.052]). For offspring type 2 diabetes, GDM without insulin during pregnancy was significantly associated with increased risk (HR, 1.281 [1.146-1.433]), with a greater risk among insulin-treated GDM pregnancies (HR, 4.329 [3.555-5.270]). Maternal GDM without insulin therapy is associated with an increased risk of type 2 diabetes, but not type 1 diabetes, in offspring, whereas insulin treatment for GDM during pregnancy is associated with increased risk for both type 1 and type 2 diabetes. These findings underscore the need for individualized postnatal monitoring for offspring of mothers with GDM, with heightened attention for those whose mothers required insulin therapy during pregnancy.",
+      "pub_date": "2026-03-06",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pregnancy",
+        "Female",
+        "Diabetes, Gestational",
+        "Diabetes Mellitus, Type 2",
+        "Adult",
+        "Diabetes Mellitus, Type 1",
+        "Follow-Up Studies",
+        "Republic of Korea",
+        "Male",
+        "Prenatal Exposure Delayed Effects",
+        "Risk Factors",
+        "Infant, Newborn",
+        "Birth Cohort",
+        "Insulin",
+        "Cohort Studies",
+        "Hypoglycemic Agents",
+        "Child",
+        "Proportional Hazards Models"
+      ],
+      "chemicals": [
+        "Insulin",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "BMC medicine",
+      "authors": [
+        "Joon Ho Moon",
+        "Han Na Jung",
+        "Bongseong Kim",
+        "Jaehyun Kim",
+        "Young Mi Jung",
+        "Hyeon Ji Kim"
+      ]
+    }
+  ]
+}

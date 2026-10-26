@@ -1,0 +1,415 @@
+{
+  "disease": "Systemic Lupus Erythematosus",
+  "slug": "systemic_lupus_erythematosus",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41107121",
+      "title": "EULAR recommendations for the management of systemic lupus erythematosus with kidney involvement: 2025 update.",
+      "abstract": "The objective of this study was to update the 2019 European Alliance of Associations for Rheumatology (EULAR)/ European Renal Association/European Dialysis Transplantation Association (ERA-EDTA) recommendations for the management of systemic lupus erythematosus (SLE) with kidney involvement, taking into consideration emerging evidence and recent developments in the field. We recruited an international Task Force of experts and followed the EULAR standard operating procedures. We performed systematic literature research (period January 2019 to March 2024), followed by the modified Delphi method, to form questions, elicit expert opinions, and reach consensus. The new evidence was examined, taking into consideration previous updates. The Task Force agreed on 4 overarching principles and 13 recommendations, which were also evaluated for their feasibility and impact on clinical care. These concern the use of kidney biopsy for diagnosis; targets of therapy and treatment milestones; immunomodulatory therapy with antimalarials, glucocorticoids, immunosuppressives (mycophenolate, cyclophosphamide, and calcineurin inhibitors), and biologics (belimumab, obinutuzumab, and rituximab); nonimmune therapy (kidney protection, vaccinations, cardiovascular, and bone protection); family planning; and management of kidney failure. Guidance on single-agent or early combination immune therapy, glucocorticoid tapering and withdrawal, duration of immune therapy, and treatment of refractory disease is provided. The updated EULAR recommendations provide evidence- and expert-based consensus on the management of SLE with kidney involvement, adjusted for severity, and taking into consideration long-term efficacy, safety, cost, and local availability of drugs.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Lupus Nephritis",
+        "Immunosuppressive Agents",
+        "Glucocorticoids",
+        "Delphi Technique",
+        "Consensus"
+      ],
+      "chemicals": [
+        "Immunosuppressive Agents",
+        "Glucocorticoids"
+      ],
+      "journal": "Annals of the rheumatic diseases",
+      "authors": [
+        "Antonis Fanouriakis",
+        "Myrto Kostopoulou",
+        "Hans-Joachim Anders",
+        "Jeanette Andersen",
+        "Martin Aringer",
+        "Michael W Beresford"
+      ]
+    },
+    {
+      "pmid": "40931063",
+      "title": "Loss-of-function mutations in PLD4 lead to systemic lupus erythematosus.",
+      "abstract": "Monogenic lupus offers valuable insights into the underlying mechanisms and therapeutic approaches for systemic lupus erythematosus (SLE)",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Lupus Erythematosus, Systemic",
+        "Humans",
+        "Animals",
+        "Mice",
+        "Female",
+        "Azetidines",
+        "Male",
+        "Loss of Function Mutation",
+        "Purines",
+        "Sulfonamides",
+        "Phospholipase D",
+        "Dendritic Cells",
+        "Pyrazoles",
+        "Toll-Like Receptor 7",
+        "Signal Transduction",
+        "Toll-Like Receptor 9",
+        "Adult",
+        "Interferon Type I",
+        "Autoimmunity"
+      ],
+      "chemicals": [
+        "Azetidines",
+        "baricitinib",
+        "Purines",
+        "Sulfonamides",
+        "Phospholipase D",
+        "Pyrazoles",
+        "Toll-Like Receptor 7",
+        "Toll-Like Receptor 9",
+        "Interferon Type I"
+      ],
+      "journal": "Nature",
+      "authors": [
+        "Qintao Wang",
+        "Honghao Zhu",
+        "Xiangwei Sun",
+        "Changming Zhang",
+        "Shuangyue Ma",
+        "Ying Jin"
+      ]
+    },
+    {
+      "pmid": "41092329",
+      "title": "A Phase 3 Trial of Telitacicept for Systemic Lupus Erythematosus.",
+      "abstract": "Telitacicept, a new dual inhibitor of the cytokines B-lymphocyte stimulator (BLyS) and APRIL (a proliferation-inducing ligand), showed efficacy in adults with active systemic lupus erythematosus (SLE) in a phase 2b trial when added to standard therapy. We conducted a phase 3 trial in China in which participants with active SLE were randomly assigned (in a 1:1 ratio) to receive telitacicept (160 mg) or placebo subcutaneously once weekly for 52 weeks, in addition to standard therapy. The primary end point at week 52 was a response on the modified SLE Responder Index 4 (SRI-4), with a response on this composite measure defined as a reduction of at least 4 points in the Safety of Estrogens in Lupus Erythematosus National Assessment-Systemic Lupus Erythematosus Disease Activity Index (SELENA-SLEDAI) score (ranging from 0 to 105, with higher scores indicating greater disease activity), no new disease activity as measured on the British Isles Lupus Assessment Group index, and no worsening in the Physician's Global Assessment score. Of 433 adults screened, 335 underwent randomization (167 to the telitacicept group and 168 to the placebo group). At week 52, significantly more participants receiving telitacicept had a response on the modified SRI-4 than those receiving placebo (67.1% vs. 32.7%; adjusted difference, 34.5 percentage points; 95% confidence interval [CI], 24.3 to 44.7; P<0.001). A reduction of at least 4 points from baseline in the SELENA-SLEDAI score had occurred in 70.1% of the telitacicept group and in 40.5% of the placebo group (difference, 29.6 percentage points; 95% CI, 13.1 to 46.1). Adverse events that were considered by the investigator to be related to the trial regimen were more common with telitacicept than with placebo (74.9% vs. 50.0%). Such events that occurred more frequently in the telitacicept group than in the placebo group included upper respiratory tract infection (31.7% vs. 19.0%), a reduced serum IgG level (15.6% vs. 1.2%), a reduced serum IgM level (15.0% vs. 0.6%), and injection-site reactions (12.6% vs. 0.6%). In this 52-week trial involving participants with active SLE who were receiving background therapy, the incidence of a clinical response was higher with telitacicept than with placebo. However, the incidence of upper respiratory infections, reduced immunoglobulin levels, and injection-site reactions was also higher with telitacicept. (Funded by RemeGen; 18C010 ClinicalTrials.gov number, NCT04082416.).",
+      "pub_date": "2025-10-16",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "B-Cell Activating Factor",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Injection Site Reaction",
+        "Injections, Subcutaneous",
+        "Lupus Erythematosus, Systemic",
+        "Recombinant Fusion Proteins",
+        "Severity of Illness Index",
+        "Tumor Necrosis Factor Ligand Superfamily Member 13",
+        "Respiratory Tract Infections",
+        "Incidence",
+        "Treatment Outcome",
+        "Immunoglobulins"
+      ],
+      "chemicals": [
+        "B-Cell Activating Factor",
+        "Recombinant Fusion Proteins",
+        "telitacicept",
+        "Tumor Necrosis Factor Ligand Superfamily Member 13",
+        "Immunoglobulins"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Ronald F van Vollenhoven",
+        "Li Wang",
+        "Joan T Merrill",
+        "Yi Liu",
+        "Chunde Bao",
+        "Fen Li"
+      ]
+    },
+    {
+      "pmid": "40676245",
+      "title": "Advances in the treatment of systemic lupus erythematosus.",
+      "abstract": "Systemic lupus erythematous is a clinically and pathogenetically heterogeneous disease that has long challenged researchers and clinicians aiming to improve its treatment. Advances over the past 75\u2009years have revealed a number of key immune mechanisms that drive clinical manifestations, paving the way for the development of therapies that go beyond broad immunosuppression to improve clinical efficacy and reduce side effects. These include approaches aimed at specific immune pathways, and emerging efforts to restore immune homeostasis, such as chimeric antigen receptor T cell therapies to eliminate pathogenic B cells, low-dose interleukin 2 or regulatory T cell therapies. Although hopes for durable remissions or cure are rising, major obstacles remain owing to the complex nature of the disease. In this Review, we discuss emerging therapeutic strategies designed to address these challenges.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Animals",
+        "B-Lymphocytes"
+      ],
+      "chemicals": [],
+      "journal": "Nature reviews. Drug discovery",
+      "authors": [
+        "Marc Scherlinger",
+        "Antonios G A Kolios",
+        "Vasileios C Kyttaris",
+        "George C Tsokos"
+      ]
+    },
+    {
+      "pmid": "41204012",
+      "title": "Cutaneous lupus erythematosus - from pathogenesis to targeted therapy.",
+      "abstract": "Cutaneous lupus erythematosus (CLE) is a complex inflammatory skin disease that presents either in isolation or as a frequent manifestation of systemic lupus erythematosus (SLE). CLE subtypes show clinical heterogeneity and varying associations with SLE. Histologically, CLE is characterized by interface dermatitis, a reaction pattern that involves immune-cell infiltration of the dermo-epidermal junction. In-depth characterization of both non-lesional and lesional lupus skin has reshaped our understanding of pathogenesis. Non-lesional and lesional lupus skin exhibits early and chronic upregulation of type I interferons, which drive photosensitivity, myeloid-cell recruitment and amplification of cytokine responses in both immune and non-immune cells. This detailed understanding of CLE biology has enabled the development of targeted therapies. Ongoing research to identify key pathogenic mechanisms will create opportunities for prevention of CLE and CLE-to-SLE transition.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lupus Erythematosus, Cutaneous",
+        "Lupus Erythematosus, Systemic",
+        "Molecular Targeted Therapy",
+        "Skin"
+      ],
+      "chemicals": [],
+      "journal": "Nature reviews. Rheumatology",
+      "authors": [
+        "Benjamin Klein",
+        "Allison C Billi",
+        "Lisa Abernathy-Close",
+        "J Michelle Kahlenberg"
+      ]
+    },
+    {
+      "pmid": "40699272",
+      "title": "Efficacy and Safety of Biologics for Systemic Lupus Erythematosus (SLE): A Systematic Review and Network Meta-Analysis.",
+      "abstract": "This study aimed to use Bayesian network meta-analysis to compare the efficacy and safety of biologics for systemic lupus erythematosus (SLE). A comprehensive and systematic search of electronic databases (PubMed, Medline, Cochrane Library, EMBASE, Web of Science, CNKI, and WanFang Data) was conducted from 2014 to September 2024. Our study only included randomized controlled trials with full articles that enrolled adult SLE patients treated with biologics, in comparison with standard therapy. The primary efficacy endpoints were SLE Responder Index 4 (SRI4) and BICLA (BILAG-Based Composite Lupus Assessment). The safety endpoints were adverse events (AEs) and serious adverse events (SAEs). R 4.4.3 and RStudio were used to conduct the network meta-analysis. RevMan 5.4 was used to assess the included literature. 29 randomized controlled trials with a total of 13,712 patients met the inclusion criteria. The network meta-analysis indicated that compared with standard therapy, telitacicept (OR 5.2, 95% CI 1.4-20.0) demonstrated superior efficacy in achieving SRI4 response, deucravacitinib (OR 1.6, 95% CI 1.0-2.5), and anifrolumab (OR 1.6, 95% CI 1.3-2.0) all exhibited significant BICLA response in moderate-to-severe SLE patients. Regarding safety, it was observed that there were no significant statistical differences among the various treatment options. Cluster analysis revealed that deucravacitinib exhibited the best efficacy-safety profile. Deucravacitinib suggested a favorable profile between efficacy and safety. Telitacicept showed the most pronounced improvement in SRI-4 response, but was associated with higher rates of AEs and SAEs, whereas anifrolumab and deucravacitinib displayed advantages in reducing SAEs. For patients with elevated baseline IFN signatures, anti-type I interferon biologics such as anifrolumab and sifalimumab are recommended to maximize clinical benefits. The reliance on indirect comparisons necessitates cautious interpretation of these findings, so further research should prioritize direct head-to-head trials to validate the efficacy and safety profiles of these biologics.",
+      "pub_date": "2025-07-23",
+      "publication_types": [
+        "Journal Article",
+        "Network Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Bayes Theorem",
+        "Biological Products",
+        "Lupus Erythematosus, Systemic",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Biological Products"
+      ],
+      "journal": "Clinical reviews in allergy & immunology",
+      "authors": [
+        "Ziyan Ding",
+        "Hui Zhang",
+        "Fan Huang",
+        "Yian Liu",
+        "Qian Zhou",
+        "Dingyuan Hu"
+      ]
+    },
+    {
+      "pmid": "40788686",
+      "title": "Lupus Nephritis: Unmet Needs and Evolving Solutions.",
+      "abstract": "Lupus nephritis (LN) is seeing more and more enriching immunotherapies, but important unmet needs remain. Here, we discuss how to focus on histologic signs of immunologic activity triggering immunotherapy versus signs of irreversible kidney injury requiring care for CKD. In addition, the correct interpretation of residual proteinuria requires dissecting immunologic activity from glomerular hyperfiltration, e.g ., by repeat biopsy. Despite modern triple immunotherapy, per-protocol biopsies still document irreversible injury to occur in the first year. Immediate inhibition of the complement system may address this unmet need and may even help to ultimately replace early glucocorticoid therapy. We advocate the concept of a clone-directed therapy to sufficiently suppress the autoreactive clones of memory B and T cells inside the lymphoid tissues as well as the long-lived plasma cells in the bone marrow that maintain activity of SLE and drive disease flares. Numerous B-cell and plasma cell-targeting therapies are gradually becoming available, and their parenteral route of application may also avoid oral drug nonadherence. Replacing oral and toxic medications such as steroids, mycophenolate, and calcineurin inhibitors is now a goal for the next decade. Obtaining orphan disease designation for LN would accelerate progress and is supported by latest data on LN prevalence. With these conceptual and management improvements, LN, once \"complex\" and frequently fatal, may become easy-to-manage as other autoimmune diseases.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lupus Nephritis",
+        "Immunosuppressive Agents",
+        "Immunotherapy"
+      ],
+      "chemicals": [
+        "Immunosuppressive Agents"
+      ],
+      "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+      "authors": [
+        "Matteo Abinti",
+        "Marc Patricio-Liebana",
+        "Hans-Joachim Anders"
+      ]
+    },
+    {
+      "pmid": "40888883",
+      "title": "[Lupus erythematosus].",
+      "abstract": "Cutaneous lupus erythematosus (CLE) comprises a\u00a0heterogeneous spectrum of autoimmune dermatoses. Four main forms are distinguished: acute (ACLE), subacute (SCLE), intermediate (ICLE), and chronic CLE (CCLE). Epidemiological studies show that the overall risk of developing systemic lupus erythematosus (SLE) is highest within the first 3\u00a0years following diagnosis of CLE. Therefore, patients with newly diagnosed CLE should be closely monitored for systemic symptoms, especially in the first few years following CLE diagnosis. Therapy of CLE includes both topical and systemic approaches. Treatment of SLE with organ and cutaneous manifestation should ideally be treated in close cooperation with an internal medicine rheumatologist. The overall therapeutic landscape of lupus erythematosus in increasingly moving toward personalized approaches.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lupus Erythematosus, Cutaneous",
+        "Lupus Erythematosus, Systemic",
+        "Immunosuppressive Agents"
+      ],
+      "chemicals": [
+        "Immunosuppressive Agents"
+      ],
+      "journal": "Dermatologie (Heidelberg, Germany)",
+      "authors": [
+        "Patrick-Pascal Strunz",
+        "Marc Schmalzing",
+        "Matthias Goebeler",
+        "Astrid Schmieder"
+      ]
+    },
+    {
+      "pmid": "41353079",
+      "title": "B cell depletion and BAFF receptor blockade with ianalumab (VAY736) for the treatment of moderate-to-severe systemic lupus erythematosus: a phase 2 randomised, double-blind, placebo-controlled trial with subsequent open-label treatment.",
+      "abstract": "B cell depletion or B cell activating factor (BAFF) blockade has shown benefits in systemic lupus erythematosus (SLE). We compared ianalumab, a monoclonal antibody targeting BAFF receptor (BAFF-R)-expressing B cells to lyse B cells and block BAFF-R, with placebo for SLE treatment combined with standard therapies. Patients with active SLE were randomised (1:1) to monthly subcutaneous ianalumab 300 mg or placebo. The primary outcome was a composite of SLE Responder Index (SRI)-4 at week 28 in patients successfully achieving corticosteroid (CS) tapering criteria. Patients subsequently received open-label (OL) ianalumab until week 48, followed by exploratory assessments at week 52 and off-treatment to week 68. Safety monitoring continued until B cell recovery. This report describes interim analyses conducted on the week 68 dataset. Sixty-seven patients were randomised and received blinded treatments until week 28. The primary composite endpoint was more frequently achieved with ianalumab vs placebo: 15/34 (44.1%) vs 3/33 (9.1%), with responses sustained to week 52 and replicated by placebo transitioned to OL ianalumab: 15/33 (45.5%) and 13/32 (40.6%). Positive treatment effects were consistently observed across other lupus disease activity outcomes (SRI-6, Definition of Remission in SLE, Lupus Low Disease Activity State, flare reduction, and CS use) at week 28, with clinical benefits until weeks 52 and 68. Ianalumab was not associated with increased serious adverse events or serious infections. Nonserious local injection site reactions occurred more frequently with ianalumab. At week 28, reduced disease activity was observed in patients with SLE receiving ianalumab plus standard therapies compared with those receiving standard therapies alone, with sustained benefits with further treatment until 1 year, which was well tolerated.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase II",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Female",
+        "Male",
+        "Adult",
+        "Double-Blind Method",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Treatment Outcome",
+        "Antibodies, Monoclonal",
+        "B-Lymphocytes",
+        "B-Cell Activation Factor Receptor",
+        "Severity of Illness Index",
+        "Lymphocyte Depletion",
+        "Young Adult"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Antibodies, Monoclonal",
+        "B-Cell Activation Factor Receptor"
+      ],
+      "journal": "Annals of the rheumatic diseases",
+      "authors": [
+        "Nancy Agmon-Levin",
+        "Stanislav Ignatenko",
+        "Alexander Gordienko",
+        "Josefina Cort\u00e9s-Hern\u00e1ndez",
+        "Pongthorn Narongroeknawin",
+        "Katarzyna Romanowska-Pr\u00f3chnicka"
+      ]
+    },
+    {
+      "pmid": "41934146",
+      "title": "Pathogenesis-directed lupus therapeutics.",
+      "abstract": "Systemic lupus erythematosus (SLE) is a complex autoimmune disease characterized, posing significant challenges to effective management. This review summarizes current United States Food and Drug Administration -approved therapies and management guidelines of the American College of Rheumatology. Contemporary SLE management is guided by organ systems involvement and disease severity. Discoveries of molecular mechanisms underlying disease pathogenesis have driven the development of targeted biologic therapies, including natural and engineered antibodies, chimeric antigen receptor-guided cell therapies, and T-cell engagers, transforming the therapeutic landscape of lupus. In addition to traditional B-cell and plasma cell surface targets, emerging molecular targets include transmembrane signaling molecules such as CD40L and intracellular organelles such as endosomes and mitochondria. While antibody and cell-based biologic therapies target pathogenesis-driving molecules, they suppress key immune pathways and thus infection remains a leading cause of morbidity and mortality. Accordingly, this review also addresses nonpharmacologic strategies - such as dietary modifications - that may confer therapeutic benefit without increasing susceptibility to infection. With a rapidly expanding portfolio of mechanistically driven clinical trials, the future of SLE management appears increasingly promising.",
+      "pub_date": "2026-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Molecular Targeted Therapy"
+      ],
+      "chemicals": [],
+      "journal": "Current opinion in rheumatology",
+      "authors": [
+        "Bhavya Poudyal",
+        "Andras Perl"
+      ]
+    },
+    {
+      "pmid": "40516564",
+      "title": "Exposure to hydroxychloroquine in early pregnancy and incidence of pre-eclampsia and pre-term delivery in patients with systemic lupus erythematosus in Sweden: a nationwide population-based cohort study.",
+      "abstract": "Pregnant women with systemic lupus erythematosus (SLE) have elevated risks of pre-eclampsia and pre-term delivery. Hydroxychloroquine, the mainstay treatment during pregnancy in women with SLE, is currently a promising agent for pre-eclampsia prevention. We aimed to examine associations between hydroxychloroquine use and pre-eclampsia and pre-term delivery in pregnant women with SLE. In this nationwide population-based cohort study, we included all singleton pregnancies of women with prevalent SLE that lead to a delivery (livebirths and stillbirths) between Jan 1, 2007, and Dec 31, 2022, diagnosed in secondary or tertiary care centres in Sweden. Hydroxychloroquine exposure was defined as two or more dispensations from 3 months pre-pregnancy until the end of the first trimester. The primary outcomes were pre-eclampsia (diagnosed from 20 Between Jan 1, 2007, and Dec 31, 2022, we included 959 singleton pregnancies from 685 women with prevalent SLE in Sweden. 404 (42%) of 959 pregnancies were nulliparous pregnancies (232 [57%] were unexposed and 172 [43%] were hydroxychloroquine-exposed) and 555 (58%) were parous pregnancies (333 [60%] were unexposed and 222 [40%] were hydroxychloroquine-exposed). The mean maternal age was 32 years (SD 4\u00b77). Pre-eclampsia was recorded in 19 (11%) of 172 hydroxychloroquine-exposed pregnancies and 30 (13%) of 232 unexposed pregnancies in the nulliparous group and 12 (5%) of 222 hydroxychloroquine-exposed pregnancies and 20 (6%) of 333 unexposed pregnancies in the parous group. Pre-term delivery was recorded in 33 (19%) of 172 hydroxychloroquine-exposed pregnancies and 34 (15%) of 232 in unexposed pregnancies in the nulliparous group and 26 (12%) of 222 hydroxychloroquine-exposed pregnancies and 41 (12%) of 333 unexposed pregnancies in the parous group. The adjusted risk ratio for pre-eclampsia in SLE pregnancies with hydroxychloroquine exposure versus those without exposure was 0\u00b749 (95% CI 0\u00b731-0\u00b779) overall, 0\u00b759 (0\u00b733-1\u00b708) in the nulliparous group, and 0\u00b744 (0\u00b722-0\u00b789) in the parous group. Associations between hydroxychloroquine and pre-term delivery were unclear in the overall (risk ratio 0\u00b795 [95% CI 0\u00b767-1\u00b734]), nulliparous (1\u00b710 [0\u00b768-1\u00b780]), and parous (0\u00b775 [0\u00b747-1\u00b724]) groups. Stratification by antiphospholipid syndrome, renal diseases, and hypertension showed similar results. In this large cohort of pregnant women with SLE, hydroxychloroquine exposure in early pregnancy was associated with a lower pre-eclampsia risk. However, the association with pre-term delivery was unclear. US National Institutes of Health and the Ingegerd Johansson Donation.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Pregnancy",
+        "Hydroxychloroquine",
+        "Lupus Erythematosus, Systemic",
+        "Pre-Eclampsia",
+        "Sweden",
+        "Adult",
+        "Incidence",
+        "Premature Birth",
+        "Antirheumatic Agents",
+        "Cohort Studies",
+        "Pregnancy Complications",
+        "Young Adult"
+      ],
+      "chemicals": [
+        "Hydroxychloroquine",
+        "Antirheumatic Agents"
+      ],
+      "journal": "The Lancet. Rheumatology",
+      "authors": [
+        "Ngoc V Nguyen",
+        "Anna Sandstr\u00f6m",
+        "Elisabet Svenungsson",
+        "Annica Dominicus",
+        "Elizabeth V Arkema",
+        "Julia F Simard"
+      ]
+    },
+    {
+      "pmid": "40701862",
+      "title": "Differential molecular signatures in response to CD19-CAR T cell therapy compared with conventional pharmacotherapy in systemic lupus erythematosus.",
+      "abstract": "Early trials of CD19-chimeric antigen receptor (CAR) T cell therapy in systemic lupus erythematosus (SLE) show promise, but the molecular mechanisms underlying its disease-modifying effects remain unclear. We aimed to compare biological profiles and alterations following CD19-CAR T cell versus standard pharmacotherapy in SLE. Pseudo-bulk gene expression derived from single-cell RNA sequencing of peripheral blood mononuclear cells from 7 SLE patients before and after CD19-CAR T cell therapy was compared with whole-blood transcriptome data from 30 SLE patients in remission on standard pharmacotherapy and 31 SLE patients before and 6 months after treatment with rituximab, belimumab, or cyclophosphamide. Pathway analysis was conducted using Functional Analysis of Individual Microarray Expression and gene set enrichment analysis. CD19-CAR T cell-induced remission was characterised by marked suppression of complement activation, type I interferon, DNA damage response (DDR), and cell death pathways compared with remission following conventional pharmacotherapy, alongside an upregulation of lipid metabolism pathways. Compared with rituximab and belimumab, CD19-CAR T cell therapy induced greater downregulation of type I/II interferon, DDR, and chemokine pathways. Compared with cyclophosphamide, CD19-CAR T cell therapy induced greater suppression of interferon, mitochondrial, and mammalian target of rapamycin signalling pathways. CD19-CAR T cell therapy induces substantial suppression of key immunological pathways involved in SLE, including complement activation and type I interferon responses, accompanied by a metabolic reprogramming. Molecular profiles of remission after CD19-CAR T cell therapy differ from those induced by conventional SLE pharmacotherapy, suggesting more profound CD19-CAR T cell-induced biological alterations.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lupus Erythematosus, Systemic",
+        "Adult",
+        "Female",
+        "Cyclophosphamide",
+        "Antibodies, Monoclonal, Humanized",
+        "Antigens, CD19",
+        "Male",
+        "Rituximab",
+        "Immunotherapy, Adoptive",
+        "Immunosuppressive Agents",
+        "Middle Aged",
+        "Transcriptome",
+        "Remission Induction"
+      ],
+      "chemicals": [
+        "Cyclophosphamide",
+        "Antibodies, Monoclonal, Humanized",
+        "Antigens, CD19",
+        "belimumab",
+        "Rituximab",
+        "Immunosuppressive Agents"
+      ],
+      "journal": "Annals of the rheumatic diseases",
+      "authors": [
+        "Panagiotis Garantziotis",
+        "Lorenzo Beretta",
+        "Julius Lindblom",
+        "Georgia-Savina Moysidou",
+        "Dionysis Nikolopoulos",
+        "Ricardo Grieshaber-Bouyer"
+      ]
+    }
+  ]
+}

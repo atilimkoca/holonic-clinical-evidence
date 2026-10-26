@@ -1,0 +1,204 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl:    <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix skos:   <http://www.w3.org/2004/02/skos/core#> .
+@prefix prov:   <http://www.w3.org/ns/prov#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix schema: <https://schema.org/> .
+@prefix dct:    <http://purl.org/dc/terms/> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# HOLON CORE ONTOLOGY
+# Based on Kurt Cagle's Context Graph Architecture (CGA)
+# =============================================================================
+
+# --- Top-Level Holon Class ---------------------------------------------------
+
+holon:Holon a owl:Class ;
+    rdfs:label "Holon"@en ;
+    rdfs:comment "A self-similar, nested unit of knowledge with four graph layers: interior, boundary, projection, and context."@en .
+
+# --- Holon Subtypes ----------------------------------------------------------
+
+holon:ClinicalQuestionHolon a owl:Class ;
+    rdfs:subClassOf holon:Holon ;
+    rdfs:label "Clinical Question Holon"@en ;
+    rdfs:comment "A holon representing a clinical question-answer interaction from OpenEvidence."@en .
+
+holon:DiseaseHolon a owl:Class ;
+    rdfs:subClassOf holon:Holon ;
+    rdfs:label "Disease Holon"@en ;
+    rdfs:comment "A holon encapsulating all knowledge about a specific disease."@en .
+
+holon:EvidenceChainHolon a owl:Class ;
+    rdfs:subClassOf holon:Holon ;
+    rdfs:label "Evidence Chain Holon"@en ;
+    rdfs:comment "A holon representing a chain of evidence supporting or contradicting a claim."@en .
+
+holon:TreatmentHolon a owl:Class ;
+    rdfs:subClassOf holon:Holon ;
+    rdfs:label "Treatment Holon"@en ;
+    rdfs:comment "A holon encapsulating treatment protocols and their evidence base."@en .
+
+# --- Four Graph Layers --------------------------------------------------------
+
+holon:hasInteriorGraph a owl:ObjectProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:label "has interior graph"@en ;
+    rdfs:comment "Points to the named graph holding events, assertions, and interactions within the holon."@en .
+
+holon:hasBoundaryGraph a owl:ObjectProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:label "has boundary graph"@en ;
+    rdfs:comment "Points to the named graph holding SHACL shapes and entry/exit constraints."@en .
+
+holon:hasProjectionGraph a owl:ObjectProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:label "has projection graph"@en ;
+    rdfs:comment "Points to the named graph holding the outward-facing summary of the holon."@en .
+
+holon:hasContextGraph a owl:ObjectProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:label "has context graph"@en ;
+    rdfs:comment "Points to the named graph holding provenance and metadata."@en .
+
+# --- Holon Relationships ------------------------------------------------------
+
+holon:containsHolon a owl:ObjectProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:range holon:Holon ;
+    rdfs:label "contains holon"@en ;
+    rdfs:comment "Parent holon contains a child holon (nesting)."@en .
+
+holon:precedingHolon a owl:ObjectProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:range holon:Holon ;
+    rdfs:label "preceding holon"@en ;
+    rdfs:comment "The holon that precedes this one in a sequence."@en .
+
+holon:followingHolon a owl:ObjectProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:range holon:Holon ;
+    rdfs:label "following holon"@en ;
+    rdfs:comment "The holon that follows this one in a sequence."@en .
+
+holon:sequenceNumber a owl:DatatypeProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:range xsd:integer ;
+    rdfs:label "sequence number"@en .
+
+# --- Boundary Events ---------------------------------------------------------
+
+holon:EntityEntry a owl:Class ;
+    rdfs:label "Entity Entry"@en ;
+    rdfs:comment "An event recording when an entity crosses into a holon boundary."@en .
+
+holon:EntityExit a owl:Class ;
+    rdfs:label "Entity Exit"@en ;
+    rdfs:comment "An event recording when an entity exits a holon boundary."@en .
+
+holon:entity a owl:ObjectProperty ;
+    rdfs:domain [ owl:unionOf (holon:EntityEntry holon:EntityExit) ] ;
+    rdfs:label "entity"@en .
+
+holon:entryMode a owl:DatatypeProperty ;
+    rdfs:label "entry mode"@en ;
+    rdfs:comment "How the entity entered/exited (e.g., 'new-evidence', 'contradiction', 'update')."@en .
+
+holon:destinationHolon a owl:ObjectProperty ;
+    rdfs:range holon:Holon ;
+    rdfs:label "destination holon"@en .
+
+# --- Interior Graph Events ----------------------------------------------------
+
+holon:Event a owl:Class ;
+    rdfs:label "Event"@en ;
+    rdfs:comment "A generic event within a holon's interior graph."@en .
+
+holon:EvidenceAssertion a owl:Class ;
+    rdfs:subClassOf holon:Event ;
+    rdfs:label "Evidence Assertion"@en ;
+    rdfs:comment "An assertion of clinical evidence with confidence and provenance."@en .
+
+holon:StateTransition a owl:Class ;
+    rdfs:subClassOf holon:Event ;
+    rdfs:label "State Transition"@en ;
+    rdfs:comment "A change of state within the holon (e.g., new evidence changes treatment recommendation)."@en .
+
+holon:Decision a owl:Class ;
+    rdfs:subClassOf holon:Event ;
+    rdfs:label "Decision"@en ;
+    rdfs:comment "A decision point that has consequences for downstream holons."@en .
+
+# --- Confidence and Provenance ------------------------------------------------
+
+holon:confidence a owl:DatatypeProperty ;
+    rdfs:range xsd:decimal ;
+    rdfs:label "confidence"@en ;
+    rdfs:comment "Confidence score [0.0, 1.0] for an assertion or reification."@en .
+
+holon:assessedBy a owl:ObjectProperty ;
+    rdfs:range prov:Agent ;
+    rdfs:label "assessed by"@en .
+
+holon:rationale a owl:DatatypeProperty ;
+    rdfs:range xsd:string ;
+    rdfs:label "rationale"@en ;
+    rdfs:comment "Human-readable explanation for a confidence assessment."@en .
+
+holon:evidenceLevel a owl:DatatypeProperty ;
+    rdfs:range xsd:string ;
+    rdfs:label "evidence level"@en ;
+    rdfs:comment "Level of evidence (e.g., 'Level-1A', 'Level-2B', 'Expert-Opinion')."@en .
+
+# --- Temporal Properties ------------------------------------------------------
+
+holon:recordedOn a owl:DatatypeProperty ;
+    rdfs:range xsd:date ;
+    rdfs:label "recorded on"@en .
+
+holon:validFrom a owl:DatatypeProperty ;
+    rdfs:range xsd:date ;
+    rdfs:label "valid from"@en .
+
+holon:validUntil a owl:DatatypeProperty ;
+    rdfs:range xsd:date ;
+    rdfs:label "valid until"@en .
+
+holon:terminates a owl:ObjectProperty ;
+    rdfs:label "terminates"@en ;
+    rdfs:comment "Closure operator: this event terminates a previously asserted state."@en .
+
+# --- Projection Properties ----------------------------------------------------
+
+holon:narrativeFunction a owl:DatatypeProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:range xsd:string ;
+    rdfs:label "narrative function"@en .
+
+holon:summaryConfidence a owl:DatatypeProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:range xsd:decimal ;
+    rdfs:label "summary confidence"@en ;
+    rdfs:comment "Aggregate confidence for the holon's projection."@en .
+
+holon:prerequisiteFor a owl:ObjectProperty ;
+    rdfs:domain holon:Holon ;
+    rdfs:range holon:Holon ;
+    rdfs:label "prerequisite for"@en .
+
+# --- Causal Links -------------------------------------------------------------
+
+holon:inResponseTo a owl:ObjectProperty ;
+    rdfs:label "in response to"@en ;
+    rdfs:comment "Causal link between events; annotated with confidence via reification."@en .
+
+holon:influencedBy a owl:ObjectProperty ;
+    rdfs:label "influenced by"@en .
+
+holon:consequences a owl:ObjectProperty ;
+    rdfs:label "consequences"@en ;
+    rdfs:comment "Forward causal link from a decision to its downstream effects."@en .

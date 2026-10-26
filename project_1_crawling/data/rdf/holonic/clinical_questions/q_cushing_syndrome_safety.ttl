@@ -1,0 +1,37 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_cushing_syndrome_safety a holon:EntityEntry ;
+    holon:entity oed:cushing_syndrome ;
+    holon:entryMode "topic-match" .
+
+oeq:q_cushing_syndrome_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Cushing Syndrome with "@en ;
+    prov:generatedAtTime "2025-12-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.44 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_cushing_syndrome_safety-bnd ;
+    holon:hasContextGraph oeq:q_cushing_syndrome_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_cushing_syndrome_safety-int ;
+    holon:hasProjectionGraph oeq:q_cushing_syndrome_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Cushing Syndrome."^^xsd:string ;
+    holon:recordedOn "2025-12-01"^^xsd:date ;
+    holon:summaryConfidence 0.72 ;
+    oe:aboutDisease oed:cushing_syndrome ;
+    oe:answerText "Despite the use of multiple glucose-lowering medications, glycemic targets are not met in a significant fraction of people with type 2 diabetes. In this prospective, observational study we assessed the prevalence of hypercortisolism, a potential contributing factor to inadequate glucose control."^^xsd:string ;
+    oe:belongsToSpecialty "Endocrinology" ;
+    oe:cites oesrc:32141023,
+        oesrc:36470583,
+        oesrc:38569434,
+        oesrc:40249765 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Cushing Syndrome with available therapies?"^^xsd:string .
+

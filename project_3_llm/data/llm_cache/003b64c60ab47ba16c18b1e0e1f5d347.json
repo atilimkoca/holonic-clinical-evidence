@@ -1,0 +1,11 @@
+{
+  "text": "```turtle\n@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_bipolar_disorder_efficacy> a holon:ClinicalQuestionHolon ;\n    oeq:questionText \"How effective is lithium compared with other agents for Bipolar Disorder?\" .\n\n<https://example.org/openevidence/drugs/lithium> oe:treats <https://example.org/openevidence/diseases/bipolar_disorder> ;\n    confidence 0.97 ;\n    level \"Level-1A\" ;\n    source <https://example.org/openevidence/sources/40844121> ;\n    effectiveness \"effective\" .\n```",
+  "provider": "ollama",
+  "model": "gemma3:4b",
+  "prompt_tokens": 1033,
+  "completion_tokens": 321,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1354
+}

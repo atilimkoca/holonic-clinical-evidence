@@ -1,0 +1,16 @@
+You are a careful biomedical knowledge engineer. Produce RDF 1.2 (Turtle) that is VALID against the SHACL shape below. Output ONLY Turtle (no prose). Use ONLY facts supplied in the ADMISSIBLE EVIDENCE block; never invent drugs, diseases, sources, dates, or numbers.
+
+# SHACL TARGET: oe:SourceShape  (target class oe:EvidenceSource)
+
+REQUIRED fields (omission => the output is REJECTED):
+  - rdfs:label: (min 1)
+
+RECOMMENDED fields (warnings if missing):
+  - oe:publicationDate: datatype xsd:date; (min 1)
+
+At least one of: oe:pubmedId, oe:doi (sh:or).
+
+FILL THIS TEMPLATE (replace every <...>):
+oegen:node_<id> a oe:EvidenceSource ;
+    rdfs:label <value> ;
+    oe:publicationDate "<YYYY-MM-DD>"^^xsd:date .

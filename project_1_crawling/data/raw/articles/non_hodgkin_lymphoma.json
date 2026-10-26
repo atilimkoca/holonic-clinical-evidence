@@ -1,0 +1,459 @@
+{
+  "disease": "Non-Hodgkin Lymphoma",
+  "slug": "non_hodgkin_lymphoma",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40663786",
+      "title": "The treatment of marginal zone lymphoma.",
+      "abstract": "The treatment landscape of B-cell non-Hodgkin lymphomas is rapidly evolving. However, few advances have occurred in marginal zone lymphoma (MZL), with a single US Food and Drug Administration-approved agent impacting the treatment landscape. Multiple factors are associated with this slower pace of progress, with a lower MZL incidence representing a significant factor. Pivotal randomized indolent lymphoma clinical trials analyzed MZL subsets without the appropriate power to capture differences between treatment arms. Furthermore, the current Lugano classification may not fully capture the presentation or treatment responses of some subtypes, preventing access to clinical trials and limiting an efficacy assessment across the disease spectrum. Thus, current MZL treatment is largely informed by single-arm studies with relatively empiric treatment sequencing among available agents. Although frontline strategies in early and advanced-stage MZL can achieve prolonged disease control, few options exist in the relapsed/refractory setting capable of achieving similar results. Emerging data demonstrate the encouraging efficacy of CD3\u00d7CD20 bispecific antibodies and antibody-drug conjugates in achieving deep responses, as well as the potential of circulating tumor DNA in risk stratification and molecular response monitoring. Compounding all these considerations, it is essential to recognize MZL as a heterogeneous group of diseases characterized by unique biology, clinical presentation, treatment response, toxicity, and survival. Nonetheless, a common characteristic across MZL subtypes is their general indolent disease course, emphasizing the need to incorporate patient-centered assessment in clinical trials to better inform the decision-making process.",
+      "pub_date": "2026-01-08",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lymphoma, B-Cell, Marginal Zone"
+      ],
+      "chemicals": [],
+      "journal": "Blood",
+      "authors": [
+        "Juan Pablo Alderuccio",
+        "Ariela Noy"
+      ]
+    },
+    {
+      "pmid": "41360064",
+      "title": "Tafasitamab, lenalidomide, and rituximab in relapsed or refractory follicular lymphoma (inMIND): a global, phase 3, randomised controlled trial.",
+      "abstract": "Follicular lymphoma is characterised by episodes of remission and relapse, with patients requiring multiple lines of therapy. Lenalidomide plus rituximab is a commonly used immunotherapy combination in patients with relapsed or refractory follicular lymphoma. We aimed to assess the efficacy and safety of adding tafasitamab, a CD19-targeted Fc-enhanced monoclonal antibody, to lenalidomide and rituximab in this setting. This phase 3, double-blind, randomised, placebo-controlled trial (inMIND) was done in 210 centres (including community-based haematology clinics, major hospitals, and academic institutions) in North America, Europe, and the Asia-Pacific region. Adults with relapsed or refractory follicular lymphoma, who had received at least one previous line of systemic therapy, were eligible for enrolment and randomly assigned (1:1) to receive treatment with up to 12 cycles (28-day cycle length) of tafasitamab (12 mg/kg by intravenous infusion on days 1, 8, 15, and 22 of cycles 1-3 and days 1 and 15 of cycles 4-12) or placebo, both with lenalidomide (20 mg/day orally on days 1-21 of cycles 1-12) and rituximab (375 mg/m Between April 16, 2021, and Aug 10, 2023, a total of 817 patients were assessed for eligibility; 548 patients with relapsed or refractory follicular lymphoma were enrolled and randomly assigned to treatment with either tafasitamab (n=273) or placebo (n=275). 299 (55%) of all randomised patients were male and 249 (45%) were female. The addition of tafasitamab to lenalidomide and rituximab resulted in significantly lower risk of progression, relapse, or death versus placebo (median progression-free survival by investigator 22\u00b74 months [95% CI 19\u00b72 to not evaluable] in the tafasitamab group vs 13\u00b79 months [11\u00b75-16\u00b74] in the placebo group; hazard ratio 0\u00b743 [95% CI 0\u00b732-0\u00b758]; p<0\u00b70001) in the planned primary analysis. Improvement in progression-free survival was confirmed by independent review committee. Adverse events were reported in 272 (99%) of 274 patients in the tafasitamab group and 270 (99%) of 272 patients in the placebo group. Most common adverse events occurring in either the tafasitamab group or placebo group were neutropenia (133 [49%] vs 123 [45%]) and diarrhoea (103 [38%] vs 77 [28%]). There were no deaths due to treatment-related adverse events in the tafasitamab group; two (1%) patients had fatal adverse events related to treatment in the placebo group. The addition of tafasitamab to lenalidomide and rituximab resulted in a statistically significant and clinically meaningful improvement in progression-free survival, with an acceptable safety profile in patients with relapsed or refractory follicular lymphoma. This combination represents a potential new standard-of-care treatment. Incyte.",
+      "pub_date": "2026-01-10",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Double-Blind Method",
+        "Lenalidomide",
+        "Lymphoma, Follicular",
+        "Neoplasm Recurrence, Local",
+        "Progression-Free Survival",
+        "Rituximab"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Lenalidomide",
+        "Rituximab",
+        "tafasitamab"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Laurie H Sehn",
+        "Kai H\u00fcbel",
+        "Stefano Luminari",
+        "Christian W Scholz",
+        "Antonio Salar",
+        "Shankara Paneesha"
+      ]
+    },
+    {
+      "pmid": "41371238",
+      "title": "Epcoritamab, lenalidomide, and rituximab versus lenalidomide and rituximab for relapsed or refractory follicular lymphoma (EPCORE FL-1): a global, open-label, randomised, phase 3 trial.",
+      "abstract": "An unmet need persists for chemotherapy-free regimens that induce durable responses for relapsed or refractory follicular lymphoma. Lenalidomide and rituximab (R In this multicountry, open-label, phase 3 trial, participants were randomly allocated (1:1) to fixed-duration epcoritamab plus R Out of 668 participants screened for eligibility across 189 academic and non-academic centres in 30 countries across Africa, Asia, Australia, Europe, North America, and South America, a total of 488 participants were randomly allocated, 243 to epcoritamab plus R Epcoritamab plus R AbbVie and Genmab.",
+      "pub_date": "2026-01-10",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Comparative Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Lenalidomide",
+        "Lymphoma, Follicular",
+        "Neoplasm Recurrence, Local",
+        "Progression-Free Survival",
+        "Rituximab",
+        "Treatment Outcome",
+        "Antibodies, Bispecific"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Lenalidomide",
+        "Rituximab",
+        "Antibodies, Bispecific"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Lorenzo Falchi",
+        "Marcel Nijland",
+        "Huiqiang Huang",
+        "Kim M Linton",
+        "John F Seymour",
+        "Rong Tao"
+      ]
+    },
+    {
+      "pmid": "41067277",
+      "title": "NCCN Guidelines\u00ae Insights: B-Cell Lymphomas 3.2025.",
+      "abstract": "The treatment landscape of B-cell lymphomas has significantly evolved in recent years with approval of novel targeted therapies. CD3 \u00d7 CD20 bispecific antibodies and CD19-directed monoclonal antibodies and antibody-drug conjugates have demonstrated efficacy in relapsed/refractory follicular lymphoma (FL). Bruton tyrosine kinase (BTK) inhibitor-based regimens are emerging as effective treatment options for patients with TP53-mutated classical mantle cell lymphoma (MCL). Results from ongoing clinical trials suggest that the addition of CD3 \u00d7 CD20 bispecific antibodies to chemoimmunotherapy improves outcomes in patients with relapsed/refractory diffuse large B-cell lymphoma (DLBCL). These NCCN Guideline Insights highlight significant updates to the NCCN Guidelines for B-Cell Lymphomas for the treatment of FL, MCL, and DLBCL.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lymphoma, B-Cell",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Lymphoma, Mantle-Cell",
+        "Lymphoma, Large B-Cell, Diffuse"
+      ],
+      "chemicals": [],
+      "journal": "Journal of the National Comprehensive Cancer Network : JNCCN",
+      "authors": [
+        "Andrew D Zelenetz",
+        "Leo I Gordon",
+        "Jeremy S Abramson",
+        "Ranjana H Advani",
+        "Babis Andreadis",
+        "Nancy L Bartlett"
+      ]
+    },
+    {
+      "pmid": "41329901",
+      "title": "FLIPI24: A Modern Prognostic Model and Clinical Trial Enrichment Tool for Newly Diagnosed Follicular Lymphoma.",
+      "abstract": "Although most patients with follicular lymphoma (FL) can expect an indolent course, progressive lymphoma remains the primary cause of death during the first decade after diagnosis. Progression of disease within 24 months (POD24) of starting first-line (1L) immunochemotherapy defines a high-risk population with poor survival, but better risk stratification at diagnosis is needed. The FLIPI24 model was developed and internally validated to predict 24-month event rates using individual data from 4,485 patients treated with 1L immunochemotherapy from 10 observational cohorts of FL. Overall and cause-specific survival was further evaluated in FLIPI24 risk groups. External validation in the 1L immunochemotherapy setting was performed using the prospective observational Lymphoma Epidemiology of Outcomes (LEO) cohort (N = 565) and three randomized phase III trials (N = 3,192); extension to all patients with FL (any 1L therapy) was performed in the LEO cohort (N = 1,445) and its Molecular Epidemiology Resource subcohort (N = 1,074). The FLIPI24 model uses age and four blood-based variables (hemoglobin, lactate dehydrogenase, beta-2 microglobulin, and WBC count). FLIPI24 showed consistent performance across validation and extension data sets, which was superior to existing prognostic tools. Across the four external immunochemotherapy validation data sets, patients with high-risk FLIPI24 (23%-32% of patients) had significantly higher 24-month event rates (22%-35%) and inferior 5-year overall survival (77%-83%) compared with patients with low-risk FLIPI24 (29%-31% of patients, 24-month event rates: 10%-12%; 5-year OS: 96%-97%). Results were consistent when evaluating lymphoma-related death and when extended to all patients with FL. The FLIPI24 model robustly stratifies, at diagnosis, patients with FL at increased risk of lymphoma-related death versus patients with very low lymphoma-related mortality during the first decade after diagnosis. FLIPI24 can be used to enrich future clinical trial designs in newly diagnosed FL.",
+      "pub_date": "2026-01-10",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lymphoma, Follicular",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Prognosis",
+        "Prospective Studies",
+        "Risk Assessment",
+        "Adult",
+        "Clinical Trials, Phase III as Topic",
+        "Randomized Controlled Trials as Topic",
+        "Antineoplastic Combined Chemotherapy Protocols"
+      ],
+      "chemicals": [],
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "authors": [
+        "Matthew J Maurer",
+        "Vit K Prochazka",
+        "Tarec Christoffer El-Galaly",
+        "Christopher R Flowers",
+        "Diego Villa",
+        "Emmanuel Bachy"
+      ]
+    },
+    {
+      "pmid": "41028651",
+      "title": "Ifupinostat: First Approval.",
+      "abstract": "Ifupinostat (; Betlin) is a first-in-class dual phosphoinositide 3-kinase \u03b1 (PI3K\u03b1)/histone deacetylase (HDAC) inhibitor being developed by BeBetter Med for the treatment of relapsed or refractory diffuse large B-cell lymphoma. On the 30th June 2025, ifupinostat received its first approval in China as a monotherapy for adults with relapsed or refractory diffuse large B-cell lymphoma who have received at least two lines of systemic therapy. Continued approval is dependent on the results of a confirmatory, randomized, controlled phase 3 trial. This article summarizes the milestones in the development of ifupinostat leading to this first approval as a monotherapy for adults with relapsed or refractory diffuse large B-cell lymphoma who have received at least two lines of systemic therapy.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Histone Deacetylase Inhibitors",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Drug Approval",
+        "Hydroxamic Acids",
+        "Antineoplastic Agents",
+        "Randomized Controlled Trials as Topic",
+        "China"
+      ],
+      "chemicals": [
+        "Histone Deacetylase Inhibitors",
+        "Hydroxamic Acids",
+        "Antineoplastic Agents"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Simon Fung"
+      ]
+    },
+    {
+      "pmid": "40920572",
+      "title": "Fixed-duration epcoritamab plus R2 drives favorable outcomes in relapsed or refractory follicular lymphoma.",
+      "abstract": "Epcoritamab is a subcutaneous CD3\u00d7CD20 bispecific antibody approved as monotherapy for relapsed/refractory (R/R) follicular lymphoma (FL). We evaluated fixed-duration epcoritamab with rituximab plus lenalidomide (R2) in R/R FL in arm 2 of EPCORE NHL-2 (phase 1b/2). Patients received epcoritamab (2 step-up doses, then 48-mg full doses) for up to 2 years, and R2 for up to 12 cycles (28 days per cycle). The primary end point was overall response rate (ORR) per investigator assessment (Lugano criteria). As of 21 September 2024, 108 patients received \u22651 epcoritamab dose in expansion (median follow-up, 28.2 months). Median age was 65 years; 57% had 1 previous line of therapy. ORR and complete response (CR) rate were 96% and 88%, respectively; CR rates in patients with high-risk features were 90% (primary refractory), 82% (refractory to anti-CD20 and an alkylating agent), and 83% (disease progression within 24 months of first-line therapy). Two-year estimates for remaining in CR, progression-free survival, overall survival, and not starting next antilymphoma therapy were 82%, 76%, 90%, and 84%, respectively. Minimal residual disease negativity was observed in 86% of evaluable patients (clonoSEQ assay). Common treatment-emergent adverse events (TEAEs) included neutropenia (65%), COVID-19 (59%), and cytokine release syndrome (CRS; 51%). Grade \u22653 TEAEs occurred in 87% of patients; 5 had grade 5 TEAEs (all COVID-19). CRS events were mostly low grade (grade 1, 38%; grade 2, 11%; grade 3, 2%), all resolved, and none led to epcoritamab discontinuation. Fixed-duration epcoritamab plus R2 demonstrated deep, durable responses with manageable safety and favorable outcomes in R/R FL, irrespective of risk features. This trial was registered at www.ClinicalTrials.gov as #NCT04663347.",
+      "pub_date": "2025-11-27",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Clinical Trial, Phase I",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lymphoma, Follicular",
+        "Aged",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Rituximab",
+        "Lenalidomide",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Adult",
+        "Aged, 80 and over",
+        "Neoplasm Recurrence, Local",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Rituximab",
+        "Lenalidomide"
+      ],
+      "journal": "Blood",
+      "authors": [
+        "Lorenzo Falchi",
+        "Anna Sureda",
+        "Sirpa Lepp\u00e4",
+        "Joost S P Vermaat",
+        "Marcel Nijland",
+        "Jacob Haaber Christensen"
+      ]
+    },
+    {
+      "pmid": "40668613",
+      "title": "Tafasitamab plus lenalidomide as salvage therapy in diffuse large B-cell lymphoma: real-world experience from GELTAMO.",
+      "abstract": "Relapsed/refractory diffuse large B-cell lymphoma (R/R DLBCL) remains challenging to treat, especially in patients ineligible for intensive therapy or chimeric antigen receptor T cells. Tafasitamab plus lenalidomide (T/L) is an effective option based on the phase 2 L-MIND trial findings, although real-world evidence studies have not consistently confirmed these results. We aimed to describe real-world outcomes of R/R DLBCL treated with T/L in Spain. A total of 99 patients received at least 1 dose of tafasitamab (intent-to-treat [ITT] cohort), with 83 completing at least 1 full cycle of T/L (efficacy cohort). Respectively for ITT and efficacy cohorts, at a median follow-up of 19.2 and 21.6 months, the overall response rate was 51% and 61% (complete response [CR], 35% and 42%). Median duration of response was not reached, and patients achieving a CR had excellent outcomes. The median progression-free survival (PFS) was 4.9 and 10.9 months, and overall survival (OS) was 12.2 and 21.8 months, respectively for both ITT and efficacy cohorts. Neither age nor cumulative illness rating score influenced survival. Better PFS was obtained in first/second relapse but only poor Eastern Cooperative Oncology Group performance status 2 to 4, double-hit lymphoma, and those with refractory/progressing disease after the previous therapy, were independently associated with worse PFS. Treatment was generally well tolerated, with manageable toxicity. Relative dose intensity of lenalidomide significantly affected response, PFS, and OS. In summary, T/L is both well tolerated and effective, irrespective of age or comorbidities. Our findings provide valuable insights into the real-world application of T/L and reinforce its role as a key treatment option for patients with R/R DLBCL.",
+      "pub_date": "2025-10-14",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Lenalidomide",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Salvage Therapy",
+        "Treatment Outcome",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "chemicals": [
+        "Lenalidomide",
+        "tafasitamab",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "Blood advances",
+      "authors": [
+        "Antonio Gutierrez",
+        "Izaskun Zeberio",
+        "Francisco Javier Pe\u00f1alver",
+        "Pilar Martinez-Barranco",
+        "Sandra Perez",
+        "Daniel Morillo"
+      ]
+    },
+    {
+      "pmid": "41380698",
+      "title": "Epcoritamab monotherapy for Richter transformation (EPCORE CLL-1): findings from a single-arm, multicentre, open-label, phase 1b/2 trial.",
+      "abstract": "Richter transformation is one of the most challenging B-cell lymphomas to treat, particularly in patients with high-risk chronic lymphocytic leukaemia features or who have had previous therapy for chronic lymphocytic leukaemia. Median survival remains 6-12 months across various therapeutic approaches. We evaluated the safety and preliminary activity of epcoritamab monotherapy, a subcutaneous CD3\u00d7CD20 bispecific antibody, in patients with Richter transformation. This multicentre, open-label, phase 1b/2 trial was conducted at 24 centres in nine countries (Australia, Belgium, Denmark, Germany, Israel, Italy, Spain, The Netherlands, and USA). Eligible patients were aged 18 years or older and had histologically confirmed Richter transformation (diffuse large B-cell lymphoma [DLBCL]), an Eastern Cooperative Oncology Group performance status of 0-2, and up to two previous lines of Richter transformation-directed therapy. The trial includes dose-escalation and dose-expansion phases. The expansion groups evaluate epcoritamab monotherapy (group 2A), epcoritamab plus lenalidomide (group 2B), and epcoritamab plus the combination of rituximab, cyclophosphamide, doxorubicin, vincristine, and prednisone (R-CHOP; group 2C). The current report describes results from group 2A. Epcoritamab was administered subcutaneously in step-up doses followed by 48 mg every week for cycles 1-3, every 2 weeks for cycles 4-9, and every 4 weeks thereafter until disease progression or unacceptable toxicity. The primary endpoint was investigator-assessed overall response rate per Lugano 2014 criteria in the full analysis set (all patients who received \u22651 dose of epcoritamab). It was evaluated against a null hypothesis of 30% versus an alternative of 50%. Prespecified subgroup analyses by line of therapy for Richter transformation and TP53 aberration and/or del(17p) status were performed. Safety was assessed in all treated patients. This trial is ongoing and registered with ClinicalTrials.gov, NCT04623541. Between Oct 18, 2021, and March 21, 2025, we enrolled 42 patients with Richter transformation. The median age was 69 years (range 50-80); and 32 (76%) of 42 patients were male and ten (24%) were female. Race or ethnicity data were available for 40 patients (37 [88%] identified as White, two [5%] as Asian, and one [2%] as Black or African American; ethnicity was not reported for two patients). The median time from diagnosis of chronic lymphocytic leukaemia or small lymphocytic lymphoma to Richter transformation was 7\u00b76 years (range 0-23\u00b79). 21 (50%) of 42 patients received epcoritamab as first-line Richter transformation-directed therapy. At a median follow-up of 22\u00b79 months (range 0\u00b75-39\u00b79), 20 of 42 patients had a response with an investigator-assessed overall response rate of 47\u00b76% (95% CI 32\u00b70-63\u00b76), which did not meet the prespecified alternative hypothesis (50%). Overall response occurred in 12 of 21 patients in the first-line population (overall response rate 57\u00b71%, 34\u00b70-78\u00b72), in eight of 21 patients in the second-line or later-line population (38\u00b71%, 18\u00b71-61\u00b76), and in eight of 20 patients with TP53 aberration and/or del(17p) alteration at baseline (40%, 19\u00b71-63\u00b79). The most common grade 3-4 adverse events were neutropenia in 19 (45%) of 42 patients, anaemia in 16 (38%) patients, thrombocytopenia in 16 (38%) patients, infection in nine (21%) patients, pneumonia in four (10%) patients, and COVID-19 in two (5%) patients. Cytokine release syndrome occurred in 36 (86%) patients with three (7%) being grade 3, immune effector cell-associated neurotoxicity syndrome in five (12%; all grade 1-2) patients and clinical tumour lysis syndrome in two (5%; all grade 1-2) patients. Three fatal adverse events were reported, one each due to general physical health deterioration in the context of progressive disease, sepsis, and cerebrovascular accident; none were considered by the investigator to be related to study treatment. In patients with Richter transformation, epcoritamab monotherapy showed clinically meaningful antitumour activity, although the investigator-assessed overall response rate was below the alternative hypothesis of 50%, with a safety profile consistent with previous studies. These findings support further investigation of epcoritamab as a potential treatment option for patients with Richter transformation. Genmab A/S and AbbVie.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Clinical Trial, Phase I",
+        "Clinical Trial, Phase II"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Aged",
+        "Middle Aged",
+        "Leukemia, Lymphocytic, Chronic, B-Cell",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Aged, 80 and over",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Antineoplastic Agents, Immunological",
+        "Lenalidomide",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antineoplastic Agents, Immunological",
+        "Lenalidomide"
+      ],
+      "journal": "The Lancet. Haematology",
+      "authors": [
+        "Arnon P Kater",
+        "Ann Janssens",
+        "Herbert Eradat",
+        "Fritz Offner",
+        "Jose D Sandoval-Sus",
+        "Mazyar Shadman"
+      ]
+    },
+    {
+      "pmid": "41052510",
+      "title": "Ibrutinib and rituximab versus immunochemotherapy in patients with previously untreated mantle cell lymphoma (ENRICH): a randomised, open-label, phase 2/3 superiority trial.",
+      "abstract": "Ibrutinib, a Bruton tyrosine kinase inhibitor, prolongs progression-free survival when added to immunochemotherapy as first line treatment. The ENRICH trial compared the chemotherapy-free combination of ibrutinib and the anti-CD20 antibody rituximab (ibrutinib-rituximab) with standard immunochemotherapy (R-CHOP [rituximab-cyclophosphamide, doxorubicin, vincristine, and prednisolone] or bendamustine-rituximab) in patients 60 years and older with untreated mantle-cell lymphoma. This randomised, open-label, phase 2/3 superiority trial was performed at 66 sites in the UK, Sweden, Norway, Finland, and Denmark. Patients 60 years and older with untreated mantle-cell lymphoma (Ann-Arbor stage II-IV disease, an Eastern Cooperative Oncology Group performance-status score of 0-2) were randomly assigned to receive either rituximab plus immunochemotherapy or ibrutinib-rituximab in a 1:1 ratio, stratified by investigator choice of immunochemotherapy. Patients randomly allocated to the ibrutinib-rituximab (intervention) group received 560 mg oral ibrutinib daily in combination with six to eight cycles of 375 mg/m Between Feb 15, 2016, and June 30, 2021, 397 patients were randomly allocated to immunochemotherapy (control) or ibrutinib-rituximab (intervention). Of the 397, 107 (27%) were pre-allocated to the immunochemotherapy choice of R-CHOP and 290 (73%) were pre-allocated to rituximab-bendamustine. In total, 198 were allocated to the control group (53 to R-CHOP and 145 to bendamustine-rituximab) and 199 were allocated to intervention. The median age was 74 years (IQR 70-77) for the intervention group and 74 years (70-78) in the control group. 296 patients (75%) were male and 101 patients (25%) were female; ethnicity data were not collected. At a median follow-up of 47\u00b79 months, the median progression-free survival of ibrutinib-rituximab was superior to immunochemotherapy, with an adjusted hazard ratio (HR) of 0\u00b769 (95% CI 0\u00b752-0\u00b790); p=0\u00b70034. For those with pre-randomisation choice R-CHOP, the HR was 0\u00b737 (0\u00b722-0\u00b762), and with bendamustine-rituximab, the HR was 0\u00b791 (0\u00b766-1\u00b725). Across induction and maintenance, 67% of patients assigned to ibrutinib-rituximab and 70% of patients receiving immunotherapy reported grade 3 or above adverse events. To our knowledge, this is the first randomised trial in untreated mantle-cell lymphoma to demonstrate significant improvement in progression-free survival for ibrutinib-rituximab compared to immunochemotherapy. This study suggests that ibrutinib-rituximab should be considered a new standard of care option for first-line treatment of older patients with mantle-cell lymphoma. Cancer Research UK (C7627/A17938) and Johnson and Johnson Pharmaceuticals.",
+      "pub_date": "2025-10-25",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study",
+        "Comparative Study",
+        "Equivalence Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Rituximab",
+        "Lymphoma, Mantle-Cell",
+        "Adenine",
+        "Piperidines",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Male",
+        "Female",
+        "Aged",
+        "Vincristine",
+        "Middle Aged",
+        "Cyclophosphamide",
+        "Doxorubicin",
+        "Bendamustine Hydrochloride",
+        "Prednisone",
+        "Pyrazoles",
+        "Progression-Free Survival",
+        "Pyrimidines",
+        "Aged, 80 and over"
+      ],
+      "chemicals": [
+        "Rituximab",
+        "Adenine",
+        "Piperidines",
+        "ibrutinib",
+        "Vincristine",
+        "Cyclophosphamide",
+        "Doxorubicin",
+        "Bendamustine Hydrochloride",
+        "Prednisone",
+        "R-CHOP protocol",
+        "Pyrazoles",
+        "Pyrimidines"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "David J Lewis",
+        "Mats Jerkeman",
+        "Lexy Sorrell",
+        "David Wright",
+        "Ingrid Glimelius",
+        "Christian B Poulsen"
+      ]
+    },
+    {
+      "pmid": "41410728",
+      "title": "Zeprumetostat: First Approval.",
+      "abstract": "Zeprumetostat (), an oral, selective, small molecule inhibitor of enhancer of zeste homolog 2 (EZH2), a histone methyltransferase, is being developed by Jiangsu Hengrui Pharmaceutical Co., Ltd for the treatment of solid and haematological malignancies. In August 2025, zeprumetostat received conditional approval in China for use in adult patients with relapsed or refractory peripheral T-cell lymphoma (r/r PTCL) who have received \u2265 1 line of systemic therapy. This article summarizes the milestones in the development of zeprumetostat leading to this first approval for the treatment of r/r PTCL.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Drug Approval",
+        "Lymphoma, T-Cell, Peripheral",
+        "Enhancer of Zeste Homolog 2 Protein",
+        "China",
+        "Antineoplastic Agents",
+        "Hydroxamic Acids"
+      ],
+      "chemicals": [
+        "Enhancer of Zeste Homolog 2 Protein",
+        "EZH2 protein, human",
+        "Antineoplastic Agents",
+        "Hydroxamic Acids"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Susan J Keam"
+      ]
+    },
+    {
+      "pmid": "41115257",
+      "title": "Efficacy and Safety of Glofitamab Plus Polatuzumab Vedotin in Relapsed/Refractory Large B-Cell Lymphoma Including High-Grade B-Cell Lymphoma: Results From a Phase Ib/II Trial.",
+      "abstract": "An unmet need remains for more effective therapies for relapsed/refractory (R/R) large B-cell lymphoma (LBCL), especially high-grade B-cell lymphoma (HGBCL). We present the primary analysis of a phase Ib/II study (ClinicalTrials.gov identifier: NCT03533283) investigating efficacy and safety of glofitamab plus polatuzumab vedotin (Glofit-Pola) in patients with R/R LBCL, including HGBCL and those who received previous chimeric antigen receptor (CAR) T-cell therapy. Patients received 1,000 mg obinutuzumab on Cycle (C)1 Day (D)1 (once daily). Polatuzumab vedotin (1.8 mg/kg) was given on C1D2 and D1 of C2-6 (21-day cycles; once daily). Glofitamab was given as step-up doses in C1 (D8, 2.5 mg; D15, 10 mg) followed by 30 mg on D1 of C2-12 (21-day cycles; once daily). Polatuzumab vedotin was given for six fixed-duration cycles, and glofitamab for 12. As of September 2, 2024, 129 patients with LBCL (HGBCL; n = 44, 34.1%), received \u22651 dose of study treatment. The median age was 67 years (range, 23-84), and 63.6% were male. Patients had received a median of 2 (range, 1-7) previous lines of treatment (previous CAR T-cell therapy, n = 28, 21.7%). The independent review committee-assessed overall response rate was 78.3% (complete response rate, 59.7%). The median progression-free survival and overall survival (OS) were 12.3 and 33.8 months, respectively (median OS follow-up time, 32.7 months). The most common adverse event (AE) was cytokine release syndrome (43.4%; grade 1-2: 41.9%; one grade 5 event). Grade 3-4 AEs occurred in 58.9% of patients; 9.3% had grade 5 AEs, and 14.7% discontinued treatment because of AEs. Glofit-Pola demonstrated high efficacy and durable responses, with manageable safety, in heavily pretreated patients with R/R LBCL, including patients with HGBCL and previous CAR T-cell therapy failure.",
+      "pub_date": "2025-12-20",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Clinical Trial, Phase I",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Lymphoma, Large B-Cell, Diffuse",
+        "Adult",
+        "Lymphoma, B-Cell",
+        "Aged, 80 and over",
+        "Immunoconjugates",
+        "Antibodies, Monoclonal, Humanized",
+        "Antibodies, Bispecific",
+        "Neoplasm Recurrence, Local",
+        "Neoplasm Grading",
+        "Antibodies, Monoclonal"
+      ],
+      "chemicals": [
+        "polatuzumab vedotin",
+        "Immunoconjugates",
+        "Antibodies, Monoclonal, Humanized",
+        "Antibodies, Bispecific",
+        "Antibodies, Monoclonal"
+      ],
+      "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+      "authors": [
+        "Martin Hutchings",
+        "Anna Sureda",
+        "Francesc Bosch",
+        "Thomas Stauffer Larsen",
+        "Paolo Corradini",
+        "Abraham Avigdor"
+      ]
+    }
+  ]
+}

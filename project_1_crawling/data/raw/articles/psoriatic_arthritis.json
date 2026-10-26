@@ -1,0 +1,395 @@
+{
+  "disease": "Psoriatic Arthritis",
+  "slug": "psoriatic_arthritis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "38499325",
+      "title": "EULAR recommendations for the management of psoriatic arthritis with pharmacological therapies: 2023 update.",
+      "abstract": "New modes of action and more data on the efficacy and safety of existing drugs in psoriatic arthritis (PsA) required an update of the EULAR 2019 recommendations for the pharmacological treatment of PsA. Following EULAR standardised operating procedures, the process included a systematic literature review and a consensus meeting of 36 international experts in April 2023. Levels of evidence and grades of recommendations were determined. The updated recommendations comprise 7 overarching principles and 11 recommendations, and provide a treatment strategy for pharmacological therapies. Non-steroidal anti-inflammatory drugs should be used in monotherapy only for mild PsA and in the short term; oral glucocorticoids are not recommended. In patients with peripheral arthritis, rapid initiation of conventional synthetic disease-modifying antirheumatic drugs is recommended and methotrexate preferred. If the treatment target is not achieved with this strategy, a biological disease-modifying antirheumatic drug (bDMARD) should be initiated, without preference among modes of action. Relevant skin psoriasis should orient towards bDMARDs targeting interleukin (IL)-23p40, IL-23p19, IL-17A and IL-17A/F inhibitors. In case of predominant axial or entheseal disease, an algorithm is also proposed. Use of Janus kinase inhibitors is proposed primarily after bDMARD failure, taking relevant risk factors into account, or in case bDMARDs are not an appropriate choice. Inflammatory bowel disease and uveitis, if present, should influence drug choices, with monoclonal tumour necrosis factor inhibitors proposed. Drug switches and tapering in sustained remission are also addressed. These updated recommendations integrate all currently available drugs in a practical and progressive approach, which will be helpful in the pharmacological management of PsA.",
+      "pub_date": "2024-05-15",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Arthritis, Psoriatic",
+        "Humans",
+        "Antirheumatic Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Methotrexate",
+        "Biological Products"
+      ],
+      "chemicals": [
+        "Antirheumatic Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Methotrexate",
+        "Biological Products"
+      ],
+      "journal": "Annals of the rheumatic diseases",
+      "authors": [
+        "Laure Gossec",
+        "Andreas Kerschbaumer",
+        "Ricardo J O Ferreira",
+        "Daniel Aletaha",
+        "Xenofon Baraliakos",
+        "Heidi Bertheussen"
+      ]
+    },
+    {
+      "pmid": "38686385",
+      "title": "IL-23 past, present, and future: a roadmap to advancing IL-23 science and therapy.",
+      "abstract": "Interleukin (IL)-23, an IL-12 cytokine family member, is a hierarchically dominant regulatory cytokine in a cluster of immune-mediated inflammatory diseases (IMIDs), including psoriasis, psoriatic arthritis, and inflammatory bowel disease. We review IL-23 biology, IL-23 signaling in IMIDs, and the effect of IL-23 inhibition in treating these diseases. We propose studies to advance IL-23 biology and unravel differences in response to anti-IL-23 therapy. Experimental evidence generated from these investigations could establish a novel molecular ontology centered around IL-23-driven diseases, improve upon current approaches to treating IMIDs with IL-23 inhibition, and ultimately facilitate optimal identification of patients and, thereby, outcomes.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Arthritis, Psoriatic",
+        "Inflammatory Bowel Diseases",
+        "Interleukin-23",
+        "Psoriasis",
+        "Signal Transduction"
+      ],
+      "chemicals": [
+        "Interleukin-23"
+      ],
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "James G Krueger",
+        "Kilian Eyerich",
+        "Vijay K Kuchroo",
+        "Christopher T Ritchlin",
+        "Maria T Abreu",
+        "M Merle Elloso"
+      ]
+    },
+    {
+      "pmid": "40571687",
+      "title": "Psoriasis.",
+      "abstract": "Plaque psoriasis is a chronic, immune-mediated inflammatory skin disease that has considerable effects on patients' physical, psychological and social well-being. It is strongly influenced by genetic predisposition, with HLA-C*06:02 showing the strongest association, particularly in those with early-onset disease. Additional susceptibility loci, including IL23A, IL12B and IL17RA, are linked to dysregulation of the IL-23-T helper 17 axis, which contributes to chronic inflammation and keratinocyte hyperproliferation. Plaque psoriasis is frequently associated with psoriatic arthritis and other comorbidities, such as cardiovascular disease, metabolic syndrome and psychiatric disorders, all of which contribute to increased morbidity and mortality. Management strategies are tailored to disease severity and the presence of comorbidities. For mild disease, topical therapies remain the first-line treatment, including corticosteroids, vitamin D analogues and topical calcineurin inhibitors. New non-steroidal agents, such as topical PDE4 and aryl hydrocarbon receptor agonists, offer additional options. In moderate-to-severe disease, oral systemic therapies, such as methotrexate, ciclosporin, acitretin, apremilast and deucravacitinib, provide a range of immunomodulatory effects. Biologic therapies targeting TNF, IL-17, IL-23 and IL-12/23 have demonstrated high efficacy in improving both cutaneous and systemic inflammation. Current research on systemic therapies is focused on the development of additional inhibitors of the Tyk2 pathway and inhibitors to IL-23 receptor, IL-17, and TNF. Early screening for psoriatic arthritis, proactive cardiovascular risk reduction and multidisciplinary care are crucial to optimizing long-term outcomes. Ongoing research continues to advance precision medicine approaches, with the goal of enhancing treatment durability and improving quality of life for individuals living with psoriasis.",
+      "pub_date": "2025-06-26",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Psoriasis",
+        "Arthritis, Psoriatic"
+      ],
+      "chemicals": [],
+      "journal": "Nature reviews. Disease primers",
+      "authors": [
+        "April W Armstrong",
+        "Andrew Blauvelt",
+        "Kristina Callis Duffin",
+        "Yu-Huei Huang",
+        "Laura J Savage",
+        "Lily Guo"
+      ]
+    },
+    {
+      "pmid": "38503473",
+      "title": "Efficacy and safety of pharmacological treatment of psoriatic arthritis: a systematic literature research informing the 2023 update of the EULAR recommendations for the management of psoriatic arthritis.",
+      "abstract": "To obtain an overview of recent evidence on efficacy and safety of pharmacological treatments in psoriatic arthritis (PsA). This systematic literature research (SLR) investigated the efficacy and safety of conventional synthetic (cs), biological (b) and targeted synthetic (ts) disease-modifying antirheumatic drugs (DMARDs) in patients with PsA. A systematic database search using Medline, EMBASE, Cochrane CENTRAL was conducted to identify relevant articles published since the previous update in 2019 until 28 December 2022. Efficacy was assessed in trials while for safety observational data were also considered. Adverse events of special interest were infections (including herpes zoster, influenza and tuberculosis), malignancies, major adverse cardiovascular events, venous thromboembolisms, liver disease, laboratory changes and psychiatric adverse events. No meta-analyses were performed. For efficacy, of 3946 articles screened, 38 articles (30 trials) were analysed. The compounds investigated included csDMARDs (leflunomide, methotrexate), bDMARDs inhibiting IL17 (bimekizumab, brodalumab, ixekizumab, izokibep, secukinumab,), IL-23 (guselkumab, risankizumab, tildrakizumab), IL-12/23 (ustekinumab) as well as TNF (adalimumab, certolizumab-pegol, etanercept, infliximab, golimumab) and Janus Kinase inhibitors (JAKi) (brepocitinib, deucravacitinib, tofacitinib, upadacitinib). The compounds investigated were efficacious in improving signs and symptoms of PsA, improving physical functioning and quality of life. For safety, 2055 abstracts were screened, and 24 articles analysed: 15 observational studies and 9 long-term follow-ups of trials, assessing glucocorticoids, TNFi, IL-17i, JAKi, IL-12/23i and PDE4i (apremilast). Safety indicators were generally coherent with the previous SLR in 2019. The results of this SLR informed the task force responsible for the 2023 update of the European Alliance of Associations for Rheumatology recommendations for pharmacological management of PsA.",
+      "pub_date": "2024-05-15",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Arthritis, Psoriatic",
+        "Humans",
+        "Antirheumatic Agents",
+        "Treatment Outcome",
+        "Practice Guidelines as Topic",
+        "Biological Products"
+      ],
+      "chemicals": [
+        "Antirheumatic Agents",
+        "Biological Products"
+      ],
+      "journal": "Annals of the rheumatic diseases",
+      "authors": [
+        "Andreas Kerschbaumer",
+        "Josef S Smolen",
+        "Ricardo J O Ferreira",
+        "Heidi Bertheussen",
+        "Xenofon Baraliakos",
+        "Daniel Aletaha"
+      ]
+    },
+    {
+      "pmid": "39150442",
+      "title": "Subclinical psoriatic arthritis and disease interception-where are we in 2024?",
+      "abstract": "Psoriatic arthritis (PsA) is a chronic rheumatic disease that usually appears in patients with skin psoriasis, making it a model for detection of joint disease in the pre-clinical phases in a setting where therapy for cutaneous disease may ameliorate or prevent arthritis development. Such PsA prevention appears credible due to the increasingly recognized closely shared immunopathology between the skin and joints, especially the entheses. Recently, several initiatives have explored the concept of pre-clinical PsA, and nomenclatures have been developed with the recent EULAR nomenclature proposing a simplified three stages from psoriasis to clinical PsA development, namely at risk of PsA, subclinical PsA and early PsA. A better comprehension of early PsA and the identification of individuals predisposed to its development could enable interventions to 'prevent' the appearance of PsA. Several recent retrospective observational studies have demonstrated disease interception feasibility, i.e. treatment of people with psoriasis may prevent the appearance of PsA, in particular using biologic disease-modifying drugs. However, further data are urgently required due to unexpected findings in some studies where TNF inhibition for psoriasis does not reduce the rate of PsA development. In this review we address the current challenges in early PsA, including comparisons of pre-PsA nomenclature sets, its risk factors and the potential for disease interception.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Arthritis, Psoriatic",
+        "Humans",
+        "Risk Factors",
+        "Terminology as Topic",
+        "Antirheumatic Agents"
+      ],
+      "chemicals": [
+        "Antirheumatic Agents"
+      ],
+      "journal": "Rheumatology (Oxford, England)",
+      "authors": [
+        "Clementina L\u00f3pez-Medina",
+        "Dennis McGonagle",
+        "Laure Gossec"
+      ]
+    },
+    {
+      "pmid": "39982633",
+      "title": "Next-Generation Anti-IL-17 Agents for Psoriatic Disease: A Pipeline Review.",
+      "abstract": "Innovations in biologics are transforming the treatment of psoriatic diseases. The ability to target specific levels of immune activation provides a distinct advantage. Interleukin (IL)-17 inhibitors fall into this class of biologics, and they are effectively used to treat a spectrum of psoriatic diseases, such as psoriasis vulgaris and psoriatic arthritis. In recent years, anti-IL-17 agents have been the focus of therapeutic development, with various formulations and routes of administration. In this manuscript, we review pipeline anti-IL-17 therapies for psoriatic diseases identified through a search of ClinicalTrials.gov (January 2019-December 2024) and other databases. Key agents under investigation include netakimab, vunakizumab, xeligekimab, gumokimab, HB0017, CJM 112, JS005, 608, LZM012, ZL-1102, izokibep, sonelokimab, DC-806, DC-853, and LEO 153339. Both preclinical and clinical trial data for each agent are summarized, with an emphasis on their efficacy, adverse effects, immunogenicity, and future outlooks.",
+      "pub_date": "2025-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Interleukin-17",
+        "Psoriasis",
+        "Dermatologic Agents",
+        "Clinical Trials as Topic",
+        "Treatment Outcome",
+        "Biological Products",
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Humanized",
+        "Arthritis, Psoriatic"
+      ],
+      "chemicals": [
+        "Interleukin-17",
+        "Dermatologic Agents",
+        "Biological Products",
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "American journal of clinical dermatology",
+      "authors": [
+        "Dahyeon Kim",
+        "Seanna Yang",
+        "Minka Gill",
+        "Nickoulet Babaei",
+        "Mireya Cervantes",
+        "Jashin J Wu"
+      ]
+    },
+    {
+      "pmid": "38331098",
+      "title": "Vaccination recommendations for adults receiving biologics and oral therapies for psoriasis and psoriatic arthritis: Delphi consensus from the medical board of the National Psoriasis Foundation.",
+      "abstract": "For psoriatic patients who need to receive nonlive or live vaccines, evidence-based recommendations are needed regarding whether to pause or continue systemic therapies for psoriasis and/or psoriatic arthritis. To evaluate literature regarding vaccine efficacy and safety and to generate consensus-based recommendations for adults receiving systemic therapies for psoriasis and/or psoriatic arthritis receiving nonlive or live vaccines. Using a modified Delphi process, 22 consensus statements were developed by the National Psoriasis Foundation Medical Board and COVID-19 Task Force, and infectious disease experts. Key recommendations include continuing most oral and biologic therapies without modification for patients receiving nonlive vaccines; consider interruption of methotrexate for nonlive vaccines. For patients receiving live vaccines, discontinue most oral and biologic medications before and after administration of live\u00a0vaccine. Specific recommendations include discontinuing most biologic therapies, except for abatacept, for 2-3 half-lives before live vaccine administration and deferring next dose 2-4\u00a0weeks after live vaccination. Studies regarding infection rates after vaccination are lacking. Interruption of antipsoriatic oral and biologic therapies is generally not necessary for\u00a0patients receiving nonlive vaccines. Temporary interruption of oral and biologic therapies before and after administration of live vaccines is recommended in most cases.",
+      "pub_date": "2024-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Psoriasis",
+        "Arthritis, Psoriatic",
+        "Delphi Technique",
+        "Biological Products",
+        "Administration, Oral",
+        "Vaccination",
+        "Adult",
+        "COVID-19",
+        "COVID-19 Vaccines",
+        "SARS-CoV-2",
+        "Methotrexate",
+        "Dermatologic Agents"
+      ],
+      "chemicals": [
+        "Biological Products",
+        "COVID-19 Vaccines",
+        "Methotrexate",
+        "Dermatologic Agents"
+      ],
+      "journal": "Journal of the American Academy of Dermatology",
+      "authors": [
+        "Vipawee S Chat",
+        "Christoph T Ellebrecht",
+        "Paige Kingston",
+        "George Gondo",
+        "Stacie Bell",
+        "Kelly M Cordoro"
+      ]
+    },
+    {
+      "pmid": "37923366",
+      "title": "Selectivity, efficacy and safety of JAKinibs: new evidence for a still evolving story.",
+      "abstract": "Fundamental insight gained over the last decades led to the discovery of cytokines as pivotal drivers of inflammatory diseases such as rheumatoid arthritis, psoriasis/psoriasis arthritis, inflammatory bowel diseases, atopic dermatitis and spondylarthritis. A deeper understanding of the pro-inflammatory and anti-inflammatory effects of various cytokines has prompted new cytokine-targeting therapies, which revolutionised the treatment options in the last years for patients with inflammatory disorders. Disease-associated immune responses typically involve a complex interplay of multiple cytokines. Therefore, blockade of one single cytokine does not necessarily lead to a persistent remission in all patients with inflammatory disorders and fostered new therapeutic strategies targeting intracellular pathways shared by multiple cytokines. By inhibiting JAK-STAT signalling pathways common to families of cytokines, JAK-inhibitors (JAKinibs) have created a new paradigm for the treatment of inflammatory diseases. Multiple agents have been approved for various disorders and more are being investigated for several new indications. Second-generation selective JAKinibs have been devised with the aim to achieve an increased selectivity and a possible reduced risk of side effects. In the current review, we will summarise the current body of evidence of pan versus selective JAKinibs and the most recent insights on new side effects and indications, including COVID-19.",
+      "pub_date": "2024-01-11",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Janus Kinase Inhibitors",
+        "Autoimmune Diseases",
+        "Arthritis, Rheumatoid",
+        "Cytokines",
+        "Arthritis, Psoriatic",
+        "Janus Kinases"
+      ],
+      "chemicals": [
+        "Janus Kinase Inhibitors",
+        "Cytokines",
+        "Janus Kinases"
+      ],
+      "journal": "Annals of the rheumatic diseases",
+      "authors": [
+        "Michael Bonelli",
+        "Andreas Kerschbaumer",
+        "Kastriot Kastrati",
+        "Kamran Ghoreschi",
+        "Massimo Gadina",
+        "Leonhard X Heinz"
+      ]
+    },
+    {
+      "pmid": "40329069",
+      "title": "Disease Modification in Psoriasis: Future Prospects for Long-Term Remission.",
+      "abstract": "A subset of patients with moderate-to-severe psoriasis show long-term remission after drug withdrawal lasting well beyond several half-life times of the drug, particularly following effective treatment with modern biologics such as interleukin-23 inhibitors. Furthermore, evidence suggests that the development of comorbidities, including psoriatic arthritis, a key comorbidity causing irreversible damage, can be prevented or delayed in a subgroup of patients with psoriasis receiving these therapies. This implies that psoriasis treatments may alter the underlying disease mechanisms in some individuals, extending beyond their direct pharmacological effects. However, this concept of disease modification remains controversial, as predicting the natural clinical course of an individual patient with psoriasis is challenging, and typically, no permanent clinically detectable changes occur in psoriatic skin inflammation. This article aims to provide an overview of the current evidence on disease modification in psoriasis and discusses clinical and molecular markers that could be used to predict or monitor disease modification in psoriasis.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Psoriasis",
+        "Remission Induction",
+        "Severity of Illness Index",
+        "Biological Products",
+        "Dermatologic Agents",
+        "Biomarkers",
+        "Treatment Outcome",
+        "Arthritis, Psoriatic",
+        "Interleukin-23"
+      ],
+      "chemicals": [
+        "Biological Products",
+        "Dermatologic Agents",
+        "Biomarkers",
+        "Interleukin-23"
+      ],
+      "journal": "American journal of clinical dermatology",
+      "authors": [
+        "David Ranzinger",
+        "Kilian Eyerich"
+      ]
+    },
+    {
+      "pmid": "39572047",
+      "title": "Advances in the management of psoriatic arthritis in adults.",
+      "abstract": "Psoriatic arthritis is an inflammatory arthritis that affects around 30% of patients with psoriasis. The disease spectrum includes peripheral arthritis, enthesitis, tenosynovitis, dactylitis, axial involvement, and skin and nail psoriasis in most patients. In addition to the cutaneous and musculoskeletal manifestations, several comorbidities can complicate the disease course, including cardiovascular disease, diabetes mellitus, metabolic syndrome, gout, anxiety, and depression. The management of patients with psoriatic arthritis begins with a careful assessment of the skin and joints and screening for comorbidities. This review describes the assessment tools and outcome measures used in the evaluation of patients with psoriatic arthritis. It summarizes the approach to therapy, including non-medicinal interventions such as education, lifestyle changes, physiotherapy, and occupational therapy. It discusses the evidence on pharmacologic treatments, including drugs used for symptomatic relief such as non-steroidal anti-inflammatory drugs, and those used to control the disease process; this last group comprises conventional synthetic disease modifying anti-rheumatic drugs (DMARDs), including methotrexate, leflunomide, and sulfasalazine, and biologic and targeted DMARDs, including anti-tumor necrosis factor (TNF\u03b1), anti-interleukin-17 (IL-17), anti-IL-12/23, and anti-IL-23 agents, as well as Janus kinase (JAK) inhibitors and phosphodiesterase 4 (PDE4) antagonists. Although these drugs are usually tailored to the clinical profile of the patient, biomarkers predictive of response to therapy are needed so that a more personalized approach can be followed.",
+      "pub_date": "2024-11-21",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Arthritis, Psoriatic",
+        "Antirheumatic Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Adult"
+      ],
+      "chemicals": [
+        "Antirheumatic Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Fadi Kharouf",
+        "Dafna D Gladman"
+      ]
+    },
+    {
+      "pmid": "40875187",
+      "title": "Safety Profile of Upadacitinib: Descriptive Analysis in Over 27,000 Patient-Years Across Rheumatoid Arthritis, Psoriatic Arthritis, Axial Spondyloarthritis, Atopic Dermatitis, and Inflammatory Bowel Disease.",
+      "abstract": "We report the long-term safety of upadacitinib (oral, selective, and reversible Janus kinase inhibitor) in rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS), non-radiographic axial spondyloarthritis (nr-axSpA), atopic dermatitis (AD), Crohn's disease (CD), and ulcerative colitis (UC). Data were analyzed from 16 studies (data cutoff August 15, 2024). Each treatment group was pooled across studies within each indication. Active comparator arms included adalimumab (RA/PsA) and methotrexate (RA). Treatment-emergent adverse events (TEAEs) were reported as exposure-adjusted incidence rates per 100 patient-years (n/100\u00a0PY). This analysis included 8632 (RA, n\u2009=\u20093209; PsA, n\u2009=\u2009907; AS, n\u2009=\u2009596; nr-axSpA, n\u2009=\u2009286; AD, n\u2009=\u20092683; CD, n\u2009=\u2009450; UC, n\u2009=\u2009501) upadacitinib-treated patients over 27,164.2 patient-years (range 199.4-12,315.8\u00a0PY across indications). Rates (n/100\u00a0PY) of any TEAEs ranged from 112.0 (AS) to 401.1 (RA). Most frequently reported TEAEs included COVID-19, upper respiratory tract infection, nasopharyngitis, herpes zoster, urinary tract infection, and acne (primarily patients with AD). Serious TEAEs ranged from 4.5 (AD) to 11.0 (UC), and those leading to discontinuation ranged from 2.9 (AS) to 8.3 (UC). TEAEs leading to death ranged from 0 (nr-axSpA, UC) to 0.7 (RA). Among upadacitinib-treated patients across indications, rates of adverse events of special interest ranged from 1.3 to 4.6 (serious infection), 2.4-6.6 (herpes zoster), 0.2-0.9 (malignancy excluding nonmelanoma skin cancer [NMSC]), 0-1.4 (NMSC), 0-0.5 (major adverse cardiovascular event\u00a0[MACE]), 0-0.9 (venous thromboembolism [VTE]), and 0-9.2 (elevated creatine kinase). In RA and PsA, herpes zoster, NMSC, and elevated creatine kinase rates were numerically higher with upadacitinib vs active comparators. Serious infection, herpes zoster, malignancy (excluding NMSC), NMSC, MACE, and VTE rates remained stable over time. This descriptive analysis indicates a long-term safety profile of upadacitinib consistent with previous reports, further supporting long-term treatment of chronic diseases with upadacitinib. Variations in TEAE rates across indications likely reflected differences in populations and underlying comorbidities. ClinicalTrials.gov identifiers NCT02675426, NCT02706951, NCT02706847, NCT02629159, NCT02706873, NCT03086343, NCT03104374, NCT03104400, NCT03178487, NCT04169373, NCT03569293, NCT03568318, NCT03607422, NCT03345823, NCT02819635.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Arthritis, Psoriatic",
+        "Arthritis, Rheumatoid",
+        "Axial Spondyloarthritis",
+        "Dermatitis, Atopic",
+        "Heterocyclic Compounds, 3-Ring",
+        "Inflammatory Bowel Diseases",
+        "Janus Kinase Inhibitors",
+        "Clinical Trials as Topic"
+      ],
+      "chemicals": [
+        "Heterocyclic Compounds, 3-Ring",
+        "Janus Kinase Inhibitors",
+        "upadacitinib"
+      ],
+      "journal": "Advances in therapy",
+      "authors": [
+        "Gerd R Burmester",
+        "Atul Deodhar",
+        "Alan D Irvine",
+        "Remo Panaccione",
+        "Kevin L Winthrop",
+        "Ruth Ann Vleugels"
+      ]
+    },
+    {
+      "pmid": "40439953",
+      "title": "Oral Peptide Therapeutics as an Emerging Treatment Modality in Immune-Mediated Inflammatory Diseases: A Narrative Review.",
+      "abstract": "Immune-mediated inflammatory diseases (IMIDs), such as psoriasis, psoriatic arthritis, and inflammatory bowel disease, encompass a heterogenous group of conditions associated with chronic inflammation. Systemic treatments for patients with IMIDs include parenterally delivered monoclonal antibodies (mAbs) that disrupt specific cytokine and cytokine receptor binding interactions, and orally delivered small molecules that inhibit certain enzymes involved in the regulation of inflammatory signaling. Many patients prefer oral alternatives to injectables, but currently available oral advanced therapies are less effective than mAbs and/or have tolerability concerns. Thus, an unmet need exists for additional oral treatment options for patients with IMIDs. Therapeutic peptides can be designed to possess characteristics that provide both the target selectivity typically associated with parenterally delivered mAbs and an oral route of administration. Oral peptide therapeutics are an area of intense research in several therapeutic areas, and, although some oral peptides are available for certain indications, such as diabetes, there are currently no targeted oral peptides available for the treatment of patients with IMIDs. Icotrokinra (JNJ-77242113), which is currently in development to treat patients with various IMIDs, is the first targeted oral peptide designed to selectively inhibit interleukin (IL)-23 signaling by blocking the IL-23 receptor on human immune cells. In a phase 2b study in adults with moderate-to-severe psoriasis, icotrokinra showed a significant dose-response effect versus placebo, and a tolerable safety profile at Week 16. Sustained skin clearance and no safety signals were observed through Week 52 in the extension study to the phase 2b study. Ongoing phase 2 and phase 3 clinical studies in patients with psoriasis, psoriatic arthritis, and ulcerative colitis will provide data to inform the therapeutic potential of icotrokinra to address the unmet need in these diseases.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Administration, Oral",
+        "Psoriasis",
+        "Peptides",
+        "Inflammatory Bowel Diseases",
+        "Arthritis, Psoriatic",
+        "Inflammation"
+      ],
+      "chemicals": [
+        "Peptides"
+      ],
+      "journal": "Advances in therapy",
+      "authors": [
+        "Linda Stein Gold",
+        "Kilian Eyerich",
+        "Joseph F Merola",
+        "Joana Torres",
+        "Laura C Coates",
+        "Jessica R Allegretti"
+      ]
+    }
+  ]
+}

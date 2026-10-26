@@ -1,0 +1,11 @@
+{
+  "text": "Here is the corrected Turtle output:\n\n```turtle\n@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_cirrhosis_efficacy> a holon:ClinicalQuestionHolon ;\n    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_cirrhosis_efficacy-int> ;\n    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_cirrhosis_efficacy-bou> ;\n    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_cirrhosis_efficacy-pro> ;\n    holon:hasContextGraph <https://example.org/openevidence/questions/q_cirrhosis_efficacy-con> .\n\n<https://example.org/openevidence/questions/q_cirrhosis_efficacy-int> a oe:InteriorGraph ;\n    oe:hasQuestion <https://example.org/openevidence/questions/q_cirrhosis_efficacy> .\n\n<https://example.org/openevidence/questions/q_cirrhosis_efficacy-bou> a oe:BoundaryGraph ;\n    oe:hasQuestion <https://example.org/openevidence/questions/q_cirrhosis_efficacy> .\n\n<https://example.org/openevidence/questions/q_cirrhosis_efficacy-pro> a oe:ProjectionGraph ;\n    oe:hasQuestion <https://example.org/openevidence/questions/q_cirrhosis_efficacy> .\n\n<https://example.org/openevidence/questions/q_cirrhosis_efficacy-con> a oe:ContextGraph ;\n    oe:hasQuestion <https://example.org/openevidence/questions/q_cirrhosis_efficacy> .\n\n<https://example.org/openevidence/drugs/furosemide> oe:treats <https://example.org/openevidence/diseases/cirrhosis> .\n```\n\nThis output addresses the SHACL violations by providing exactly one interior graph, boundary graph, projection graph, and context graph for the clinical question resource. The retrieved relation that answers the target question is also included as a separate top-level Turtle statement.",
+  "provider": "ollama",
+  "model": "llama3.1:8b",
+  "prompt_tokens": 742,
+  "completion_tokens": 561,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1303
+}

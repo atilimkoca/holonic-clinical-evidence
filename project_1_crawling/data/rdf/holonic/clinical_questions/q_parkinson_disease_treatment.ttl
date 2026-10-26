@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_parkinson_disease_treatment a holon:EntityEntry ;
+    holon:entity oed:parkinson_disease ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_parkinson_disease_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_parkinson_disease_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.91 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_parkinson_disease_treatment ;
+    holon:recordedOn "2025-12-01"^^xsd:date ;
+    oe:cites oesrc:41126787 ;
+    oe:effectiveness "effective" .
+
+oedrug:levodopa oe:treats oed:parkinson_disease .
+
+oeevt:ev_q_parkinson_disease_treatment-tt rdf:object oed:parkinson_disease ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:levodopa .
+
+oeq:q_parkinson_disease_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Parkinson Disease?"@en ;
+    prov:generatedAtTime "2025-12-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.64 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_parkinson_disease_treatment-bnd ;
+    holon:hasContextGraph oeq:q_parkinson_disease_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_parkinson_disease_treatment-int ;
+    holon:hasProjectionGraph oeq:q_parkinson_disease_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Parkinson Disease with levodopa."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_parkinson_disease_efficacy ;
+    holon:recordedOn "2025-12-01"^^xsd:date ;
+    holon:summaryConfidence 0.91 ;
+    oe:aboutDisease oed:parkinson_disease ;
+    oe:answerText "Gut dysbiosis and gut-brain-axis involvement in people with Parkinson's disease (PwP) support the use of gut-microbiota-modulating interventions. Probiotics may help manage constipation in PwP; however, mechanisms underpinning additional beneficial properties are unknown."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    oe:cites oesrc:40754045,
+        oesrc:40792655,
+        oesrc:40864725,
+        oesrc:41126787 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Parkinson Disease?"^^xsd:string .
+

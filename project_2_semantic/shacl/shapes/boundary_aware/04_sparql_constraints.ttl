@@ -1,0 +1,173 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# SET A — BOUNDARY-AWARE SHACL  ·  FILE 4/4: SPARQL CONSTRAINTS
+#
+# Six SPARQL constraints. The first two (T3 temporal) are ALSO present in the
+# flat set — both models catch them, giving the expected "no significant
+# difference on T1–T3". The last four (T4 semantic, T5 cross-holon, T6
+# projection-interior) require holon context (holon:inHolon, the boundary
+# threshold, the projection layer) that the flat model does not represent,
+# so they are Set-A-only. This asymmetry is the heart of RQ2.
+#
+# Shared SPARQL prefixes block, reused by every constraint below.
+# =============================================================================
+
+oe:_prefixes
+    sh:declare [ sh:prefix "holon" ; sh:namespace "https://example.org/holon#"^^xsd:anyURI ] ;
+    sh:declare [ sh:prefix "oe"    ; sh:namespace "https://example.org/openevidence#"^^xsd:anyURI ] ;
+    sh:declare [ sh:prefix "xsd"   ; sh:namespace "http://www.w3.org/2001/XMLSchema#"^^xsd:anyURI ] ;
+    sh:declare [ sh:prefix "rdf"   ; sh:namespace "http://www.w3.org/1999/02/22-rdf-syntax-ns#"^^xsd:anyURI ] .
+
+# --- T3a: assertion recorded BEFORE the source it cites was published --------
+# (Both sets have this — temporal sanity, no holon context needed.)
+
+# oe:TemporalConstraintShape — the mandatory §2.2 temporal shape (T3 family).
+oe:TemporalConstraintShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T3 temporal: evidence recorded before the cited source was published." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_prefixes ;
+        sh:select """
+            SELECT $this (holon:recordedOn AS ?path) (?rec AS ?value)
+            WHERE {
+                $this holon:recordedOn ?rec .
+                $this oe:cites ?src .
+                ?src oe:publicationDate ?pub .
+                FILTER (?rec < ?pub)
+            }
+        """ ;
+    ] .
+
+# --- T3b: drug 'treats' a disease that was first described AFTER the drug's --
+# regulatory approval (chronological impossibility). Both sets.
+
+oe:T3_DrugPredatesDiseaseShape a sh:NodeShape ;
+    sh:targetClass oe:Drug ;
+    sh:sparql [
+        sh:message "T3 temporal: drug approved before the disease it treats was first described." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_prefixes ;
+        sh:select """
+            SELECT $this (oe:treats AS ?path) (?approval AS ?value)
+            WHERE {
+                $this oe:approvalDate ?approval .
+                $this oe:treats ?disease .
+                ?disease oe:firstDescribedDate ?described .
+                FILTER (?approval < ?described)
+            }
+        """ ;
+    ] .
+
+# --- T4a: interior assertion violates its holon's boundary admission rule ----
+# An assertion whose effectiveness is "effective" but whose confidence is
+# BELOW the owning holon's declared evidenceQualityThreshold is SHACL-valid
+# field-by-field yet semantically inadmissible. Detecting it needs the
+# boundary threshold => SET-A ONLY.
+
+oe:T4_BoundaryAdmissionShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T4 semantic: 'effective' claim admitted below the holon's evidence-quality threshold." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_prefixes ;
+        sh:select """
+            SELECT $this (holon:confidence AS ?path) (?conf AS ?value)
+            WHERE {
+                $this holon:confidence ?conf .
+                $this oe:effectiveness "effective" .
+                $this holon:inHolon ?h .
+                ?h holon:evidenceQualityThreshold ?thr .
+                FILTER (?conf < ?thr)
+            }
+        """ ;
+    ] .
+
+# --- T4b: evidence-level / confidence gross mismatch within holon context ----
+# Level-1A (highest) paired with very low confidence, or Level-5 (expert
+# opinion) paired with near-certain confidence — internally incoherent.
+# SET-A ONLY: scored against the holon's calibrated bands.
+
+oe:T4_LevelConfidenceShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T4 semantic: evidence level and confidence are grossly inconsistent." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_prefixes ;
+        sh:select """
+            SELECT $this (holon:confidence AS ?path) (?conf AS ?value)
+            WHERE {
+                $this holon:inHolon ?h .
+                $this holon:evidenceLevel ?lvl .
+                $this holon:confidence ?conf .
+                FILTER (
+                    ( (?lvl = "Level-1A" || ?lvl = "Level-1B") && ?conf < 0.4 ) ||
+                    ( (?lvl = "Level-5"  || ?lvl = "Level-4")  && ?conf > 0.9 )
+                )
+            }
+        """ ;
+    ] .
+
+# --- T5: cross-holon contradiction -------------------------------------------
+# Two DIFFERENT holons assert opposite effectiveness verdicts for the same
+# drug–disease pair. Requires holon:inHolon to localise each assertion =>
+# SET-A ONLY (the flat model cannot tell which holon a triple belongs to).
+
+# oe:CrossHolonConsistencyShape — mandatory §2.2 shape (Set A only).
+oe:CrossHolonConsistencyShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "T5 cross-holon: contradictory effectiveness for the same drug-disease across holons." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_prefixes ;
+        sh:select """
+            SELECT $this (oe:effectiveness AS ?path) (?eff1 AS ?value)
+            WHERE {
+                $this rdf:reifies ?tt1 .
+                ?tt1 rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?disease .
+                $this oe:effectiveness ?eff1 .
+                $this holon:inHolon ?h1 .
+
+                ?other rdf:reifies ?tt2 .
+                ?tt2 rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?disease .
+                ?other oe:effectiveness ?eff2 .
+                ?other holon:inHolon ?h2 .
+
+                FILTER (?h1 != ?h2 && ?eff1 = "effective" && ?eff2 = "ineffective")
+            }
+        """ ;
+    ] .
+
+# --- T6: projection–interior incoherence -------------------------------------
+# A holon's projected aggregateConfidence diverges from the mean confidence of
+# its interior assertions by more than 0.25. Requires both layers =>
+# SET-A ONLY (flat model has no projection layer to compare against).
+
+# oe:ProjectionCoherenceShape — mandatory §2.2 shape (Set A only).
+oe:ProjectionCoherenceShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceChainHolon ;
+    sh:sparql [
+        sh:message "T6 projection-interior: projected aggregate confidence diverges from interior evidence." ;
+        sh:severity sh:Violation ;
+        sh:prefixes oe:_prefixes ;
+        sh:select """
+            SELECT $this (holon:aggregateConfidence AS ?path) (?agg AS ?value)
+            WHERE {
+                $this holon:aggregateConfidence ?agg .
+                {
+                    SELECT $this (AVG(?c) AS ?mean)
+                    WHERE {
+                        ?a holon:inHolon $this .
+                        ?a holon:confidence ?c .
+                    } GROUP BY $this
+                }
+                FILTER (ABS(?agg - ?mean) > 0.25)
+            }
+        """ ;
+    ] .

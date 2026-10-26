@@ -1,0 +1,38 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_irritable_bowel_syndrome_efficacy a holon:EntityEntry ;
+    holon:entity oed:irritable_bowel_syndrome ;
+    holon:entryMode "topic-match" .
+
+oeq:q_irritable_bowel_syndrome_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is available therapies compared with other agents for Irritable Bowel Syndro"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.42 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_irritable_bowel_syndrome_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_irritable_bowel_syndrome_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_irritable_bowel_syndrome_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_irritable_bowel_syndrome_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Irritable Bowel Syndrome."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_irritable_bowel_syndrome_safety ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.95 ;
+    oe:aboutDisease oed:irritable_bowel_syndrome ;
+    oe:answerText "Gut-brain neuromodulators might be efficacious for irritable bowel syndrome (IBS), but there has been no synthesis of evidence from randomised controlled trials (RCTs) of some drug classes, and whether they have pain-modifying properties in IBS is unclear. We updated a previous systematic review and meta-analysis of RCTs examining these questions."^^xsd:string ;
+    oe:belongsToSpecialty "Gastroenterology" ;
+    oe:cites oesrc:36014888,
+        oesrc:36677677,
+        oesrc:36994979,
+        oesrc:40258375 ;
+    oe:questionText "How effective is available therapies compared with other agents for Irritable Bowel Syndrome?"^^xsd:string .
+

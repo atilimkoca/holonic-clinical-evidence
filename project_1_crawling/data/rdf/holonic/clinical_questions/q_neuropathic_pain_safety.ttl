@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_neuropathic_pain_safety a holon:EntityEntry ;
+    holon:entity oed:neuropathic_pain ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_neuropathic_pain_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_neuropathic_pain_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.88 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_neuropathic_pain_safety ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    oe:cites oesrc:40048191 .
+
+oedrug:gabapentin oe:causesSideEffect oesym:joint_pain .
+
+oeevt:ev_q_neuropathic_pain_safety-tt rdf:object oesym:joint_pain ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:gabapentin .
+
+oeq:q_neuropathic_pain_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Neuropathic Pain with "@en ;
+    prov:generatedAtTime "2026-04-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.64 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_neuropathic_pain_safety-bnd ;
+    holon:hasContextGraph oeq:q_neuropathic_pain_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_neuropathic_pain_safety-int ;
+    holon:hasProjectionGraph oeq:q_neuropathic_pain_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Neuropathic Pain with gabapentin."^^xsd:string ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    holon:summaryConfidence 0.88 ;
+    oe:aboutDisease oed:neuropathic_pain ;
+    oe:answerText "Evidence regarding suppressive valacyclovir treatment on postherpetic neuralgia is necessary to guide care. To test the hypothesis that suppressive treatment with 1000 mg/d of oral valacyclovir for 12 months reduces the prevalence, severity, and duration of postherpetic neuralgia compared with placebo at 12 and 18 months in participants with herpes zoster ophthalmicus (HZO)."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    oe:cites oesrc:40048191,
+        oesrc:40653266,
+        oesrc:40795617,
+        oesrc:41501467 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Neuropathic Pain with gabapentin?"^^xsd:string .
+

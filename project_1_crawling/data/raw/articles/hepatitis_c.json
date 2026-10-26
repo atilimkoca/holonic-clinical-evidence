@@ -1,0 +1,374 @@
+{
+  "disease": "Hepatitis C",
+  "slug": "hepatitis_c",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "39599853",
+      "title": "Acute Hepatitis C: Current Status and Future Perspectives.",
+      "abstract": "The hepatitis C virus (HCV) infection continues to represent a significant public health threat and is a leading cause of liver cirrhosis, liver cancer, and liver-related mortality. The World Health Organization (WHO) has set a goal for 2030: to eliminate HCV infection as a public health threat by reducing new HCV infections by 90% and mortality by 65%. The early phase of HCV infection represents a pivotal point in the evolution of hepatitis C. Despite a favourable course in the majority of patients, approximately 50-70% of individuals with recently acquired hepatitis C will develop a chronic infection, defined as the persistence of viremia for a period exceeding six months. The diagnosis and treatment of a recent HCV infection should facilitate engagement in multidisciplinary care, prevent the development and complications of chronic liver disease, and reduce ongoing transmission in key populations. Therefore, early treatment in the early phase of infection compared with deferring treatment until the chronic infection remains a valid approach in the era of direct antiviral agents (DAAs). This approach is supported by a cost-effectiveness analysis. The aim of this review is to synthesise the existing knowledge on the early phase of hepatitis C virus infection, with a particular focus on the current risk factors, natural history, therapeutic management, and future perspectives.",
+      "pub_date": "2024-11-06",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hepatitis C",
+        "Antiviral Agents",
+        "Hepacivirus",
+        "Risk Factors",
+        "Acute Disease"
+      ],
+      "chemicals": [
+        "Antiviral Agents"
+      ],
+      "journal": "Viruses",
+      "authors": [
+        "Massimo Fasano",
+        "Francesco Ieva",
+        "Marianna Ciarallo",
+        "Bruno Caccianotti",
+        "Teresa Antonia Santantonio"
+      ]
+    },
+    {
+      "pmid": "38235776",
+      "title": "[Not Available].",
+      "abstract": "The primary purpose of treating chronic hepatitis C (HCV) is to prevent the development of liver fibrosis, cirrhosis, and cancer. In the last decade, direct-acting antiviral medicine (DAA) has been approved to treat children with HCV. This treatment has a higher efficacy, shorter duration, and milder side effects than the previously approved treatment. In this review, it is recommended to track down children who might be infected with HCV to enhance early treatment to prevent transmission of the virus and the possible complications.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Review",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Child",
+        "Humans",
+        "Antiviral Agents",
+        "Hepatitis C, Chronic",
+        "Hepatitis C",
+        "Hepacivirus",
+        "Liver Cirrhosis"
+      ],
+      "chemicals": [
+        "Antiviral Agents"
+      ],
+      "journal": "Ugeskrift for laeger",
+      "authors": [
+        "Krestine Rosager Hansen",
+        "Jesper Kj\u00e6rgaard",
+        "Helene Kvistgaard",
+        "Dorthe Grosen",
+        "Mette Holm",
+        "Jan Gerstoft"
+      ]
+    },
+    {
+      "pmid": "38459735",
+      "title": "Personalized care approaches to hepatitis C therapy: recent advances and future directions.",
+      "abstract": "The introduction of direct-acting antivirals (DAAs) has significantly transformed the therapeutic landscape for chronic C hepatitis virus (HCV) infection. However, there is still room for further improvement in optimizing therapy efficacy and minimizing adverse effects. This review is devoted to the rationale for adopting a personalized approach to HCV therapy. Specifically, we explore the role of host-related factors, such as sex or the presence of comorbidities. We thoroughly examine the implications of commonly encountered comorbidities, including HIV infection, chronic renal disease, liver cirrhosis, and other chronic viral hepatitis infections. Additionally, we discuss the prevalent drug-to-drug interactions between DAAs and other medications, while providing guidance on their management. Finally, we investigate viral-related issues that can influence treatment outcomes, such as viral genotype, quasi-species, and the presence of resistance-associated mutations. Despite pivotal trials demonstrating efficacy rates exceeding 90% for currently available DAA regimens, there are still opportunities to optimize therapy outcomes and tailor treatment to each patient. This can be achieved through a meticulous evaluation of the patient's specific clinical conditions and comorbidities, a vigilant approach to manage potential drug interactions, and diligent patient follow-up.",
+      "pub_date": "2024-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antiviral Agents",
+        "HIV Infections",
+        "Hepatitis C, Chronic",
+        "Hepatitis C",
+        "Hepacivirus"
+      ],
+      "chemicals": [
+        "Antiviral Agents"
+      ],
+      "journal": "Expert review of anti-infective therapy",
+      "authors": [
+        "Nicola Schiano Moriello",
+        "Biagio Pinchera",
+        "Ivan Gentile"
+      ]
+    },
+    {
+      "pmid": "39361017",
+      "title": "Prevalence of Drug Resistance Associated Substitutions in Persons With Chronic Hepatitis C Infection and Virological Failure Following Initial or Re-treatment With Pan-genotypic Direct-Acting Antivirals: A Systematic Review and Meta-analysis.",
+      "abstract": "The advent of short-course, curative treatment with direct-acting antivirals (DAA) has given promise for the global elimination of hepatitis C virus (HCV) infections by 2030. Virological failure occurs in 2%-12% of persons receiving curative DAA treatment and may be presaged by pre-existing polymorphisms or result from selection of drug resistant variants during therapy. We conducted a systematic review to assess the prevalence of HCV resistance associated substitutions (RAS) among individuals with chronic hepatitis C infection who had virological failure following initial or re-treatment with pan-genotypic DAA regimens. We included 34 and 22 studies assessing RAS in people with virological failure published between January 2014 and July 2023. Pooled RAS prevalence was estimated using random-effects meta-analysis. The pooled prevalence of RAS in people with virological failure following initial DAA treatment was 78.0% (95% confidence interval [CI]: 62.0-92.0) for sofosbuvir/velpatasvir, 81.0% (95% CI: 67.0-93.0) for sofosbuvir/daclatasvir, and 79.0% (95% CI: 70.0-87.0) for glecaprevir/pibrentasvir, with a high prevalence of resistance to the NS5A inhibitors. Among those with virological failure following re-treatment regimens, RAS were present in 93.0% (95% CI: 83.0-99.0) for sofosbuvir/velpatasvir/voxilepravir and in 100% (95% CI: 92.0-100) for glecaprevir/pibrentasvir, with resistance driven by RAS to NS5A inhibitors. At least 1 RAS is present in a high proportion of the few individuals with virological failure following initial or re-treatment with pan-genotypic DAA regimens. There is a need for ongoing surveillance for DAA-associated resistance, to assess risk factors for their development and clinical impact to inform best practice strategies for re-treatment.",
+      "pub_date": "2024-12-17",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antiviral Agents",
+        "Drug Resistance, Viral",
+        "Genotype",
+        "Hepacivirus",
+        "Hepatitis C, Chronic",
+        "Prevalence",
+        "Sustained Virologic Response",
+        "Treatment Failure"
+      ],
+      "chemicals": [
+        "Antiviral Agents"
+      ],
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "authors": [
+        "Seth Inzaule",
+        "Philippa Easterbrook",
+        "Ashley Latona",
+        "Nathan P Ford",
+        "William Irving",
+        "Philippa C Matthews"
+      ]
+    },
+    {
+      "pmid": "39914746",
+      "title": "Number of people treated for hepatitis C virus infection in 2014-2023 and applicable lessons for new HBV and HDV therapies.",
+      "abstract": "The year 2023 marked the 10-year anniversary of the launch of direct-acting antivirals (DAAs) for the treatment of hepatitis C virus (HCV). Monitoring HCV treatment trends by country, region, and globally is important to assess progress toward the World Health Organization's 2030 elimination targets. Additionally, historical patterns can help predict the uptake of future therapies for other liver diseases. The number of people living with HCV (PLHCV) treated between 2014-2023 across 119 countries was estimated using national HCV registries, reported DAA sales data, pharmaceutical companies' reports, and estimates provided by national experts. For the countries with no available data, the average estimate of the corresponding Global Burden of Disease region was used. An estimated 13,816,000 (95% uncertainty intervals: 13,221,000-16,415,000) PLHCV were treated, of whom 12,748,000 (12,226,000-15,231,000) were treated with DAAs, of which 11,081,000 (10,542,000-13,338,000) were sofosbuvir-based DAA regimens. Country-level data accounted for 97% of these estimates. In high-income countries, there was a 41% drop in treatment from its peak, and reimbursement was a large predictor of treatment. In low- and middle-income countries, price played an important role in expanding treatment access through the public and private markets, and treatment continues to increase slowly after a sharp drop at the end of the Egyptian national program. In the last 10 years, 21% of all HCV infections were treated with DAAs. Regional and temporal variations highlight the importance of active screening strategies. Without program enhancements, the number of treated PLHCV stalled in every country/region, which may not reflect a lower prevalence but may instead reflect the diminishing returns of existing strategies. Long-term hepatitis C virus (HCV) infection can lead to cirrhosis and liver cancer. Since 2014, these infections can be effectively treated with 8-12 weeks of oral therapies. In 2015, the World Health Organization established targets to eliminate HCV by 2030, which included treatment targets for member countries. The current study examines HCV treatment patterns across 119 countries and regions from 2014 to 2023 to assess the impact of national programs. This study can assist physicians and policymakers in understanding treatment patterns within similar regions or income groups and in utilizing historical data to refine their strategies in the future.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antiviral Agents",
+        "Hepatitis C, Chronic",
+        "Global Health",
+        "Hepatitis C",
+        "Hepacivirus",
+        "Hepatitis B",
+        "Hepatitis D"
+      ],
+      "chemicals": [
+        "Antiviral Agents"
+      ],
+      "journal": "Journal of hepatology",
+      "authors": []
+    },
+    {
+      "pmid": "39971531",
+      "title": "[Emphasis on scientific research related to viral hepatitis].",
+      "abstract": "The Chinese Journal of Hepatology second supplementary issue in 2024 focused on viral hepatitis. The context of hepatitis B and C encompassed the exploration of expanding treatment advantages, research on the treatment of special populations, the clinical cure concept, and the regional and special population genotyping, treatment of patients who failed to receive direct-acting antiviral drugs, and medical prevention and elimination fusion models. The supplement's findings reflect the current trends in prevention and treatment, such as epidemiology, clinical practice, and elimination models, and serve as references for exploring antiviral treatment plans and hepatitis elimination models, assisting readers to experience the academic dynamism of liver disease, address elimination challenges, and facilitate goal attainment.",
+      "pub_date": "2024-12-30",
+      "publication_types": [
+        "Introductory Journal Article",
+        "Editorial",
+        "English Abstract"
+      ],
+      "mesh_descriptors": [
+        "Hepatitis B",
+        "Hepatitis C",
+        "Genotyping Techniques",
+        "Antiviral Agents",
+        "Disease Eradication",
+        "Hepatitis B virus",
+        "Hepacivirus",
+        "Sofosbuvir",
+        "Treatment Outcome",
+        "China",
+        "Humans"
+      ],
+      "chemicals": [
+        "Antiviral Agents",
+        "Sofosbuvir"
+      ],
+      "journal": "Zhonghua gan zang bing za zhi = Zhonghua ganzangbing zazhi = Chinese journal of hepatology",
+      "authors": [
+        "H Ren",
+        "P Hu"
+      ]
+    },
+    {
+      "pmid": "38385850",
+      "title": "Real-world hepatitis C prevalence and treatment uptake at opioid agonist therapy clinics in Ontario, Canada.",
+      "abstract": "Widespread screening for hepatitis C virus (HCV) is necessary for Canada to meet its HCV elimination goals by 2030. People who currently or previously injected drugs are at high risk for HCV. Opioid agonist therapy (OAT, such as methadone and buprenorphine) has been shown to help stabilize the lives of people who are opioid-dependent. The distribution of OAT in North America typically requires daily, weekly, or monthly clinic visits and presents an opportunity for engagement, screening and treatment for those at high-risk of HCV. In this study, HCV screening was conducted by staff at OAT clinics in Ontario from 2016 to 2020 and those with chronic infections were treated on-site with direct-acting antivirals. Point-of-care or dried blood spot (DBS) testing was used for antibodies, DBS or serum for HCV RNA and serum for HCV RNA at SVR12 (sustained virological response). Clinics screened 1954 people (mean age 40\u2009years \u00b112, 63% male). Forty-five percent were antibody positive, of whom 64% were HCV RNA+. Eighty percent of those RNA+ set an appointment in which 99% attended. Ninety-six percent started treatment with 87% completing treatment. Sixty-eight percent of people who completed treatment submitted a sample for SVR12 testing of which 97% achieved a virological cure. Results suggest that HCV screening and treatment at OAT clinics is feasible, effective and warrants expansion. Data suggest strong treatment adherence due to high rates of SVR12 comparable with other OAT-based HCV treatment programs. The lack of SVR12 sampling could be addressed by either on-site phlebotomy or incentivizing SVR12 sampling.",
+      "pub_date": "2024-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Adult",
+        "Female",
+        "Hepacivirus",
+        "Analgesics, Opioid",
+        "Antiviral Agents",
+        "Ontario",
+        "Prevalence",
+        "Hepatitis C, Chronic",
+        "Hepatitis C",
+        "RNA",
+        "Substance Abuse, Intravenous"
+      ],
+      "chemicals": [
+        "Analgesics, Opioid",
+        "Antiviral Agents",
+        "RNA"
+      ],
+      "journal": "Journal of viral hepatitis",
+      "authors": [
+        "B Wolfson-Stofko",
+        "G Hirode",
+        "A Vanderhoff",
+        "J Karkada",
+        "C Capraru",
+        "M J Biondi"
+      ]
+    },
+    {
+      "pmid": "38580885",
+      "title": "Direct-Acting Antiviral Therapy for Patients with Chronic Hepatitis C Infection and Decompensated Cirrhosis.",
+      "abstract": "Patients with chronic hepatitis C virus (HCV) infection and decompensated cirrhosis are an important population for antiviral therapy yet under-represented in clinical trials. HCV direct-acting antiviral (DAA) therapies, unlike interferon-containing regimens, can be safely utilized in decompensated patients. Per guidelines from the American Association for the Study of Liver Diseases (AASLD), therapy of choice in HCV and decompensated cirrhosis is sofosbuvir, an HCV polymerase inhibitor, combined with a replication complex inhibitor (NS5A inhibitor) with or without ribavirin. Combination therapy with a HCV protease inhibitor and an NS5A inhibitor is effective in this population but is specifically not recommended in AASLD guidelines due to safety concerns. Important risk factors for further decompensation during DAA therapy are serum albumin\u2009<\u20093.5\u00a0g/dL, MELD (Model for End-Stage Liver Disease) score\u2009>\u200914, or HCV genotype 3 infection. Although sustained virologic response (SVR) is achieved less often in patients with decompensated vs compensated cirrhosis, in clinical studies response rates are\u2009>\u200980%. Both Child-Turcotte-Pugh Class at baseline and viral genotype can affect these response rates. Achieving SVR lowers risk of mortality, but to a lesser extent than in individuals with compensated cirrhosis. Likewise, treating patients for HCV infection along with successful treatment for hepatocellular carcinoma improves risks of both liver-related and overall mortality. In fewer than one third of cases, treating transplant-eligible, HCV-infected patients pre-transplant enables their delisting from transplant wait lists.",
+      "pub_date": "2024-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antiviral Agents",
+        "Hepatitis C, Chronic",
+        "Liver Cirrhosis",
+        "Drug Therapy, Combination",
+        "Hepacivirus",
+        "Sustained Virologic Response",
+        "Sofosbuvir"
+      ],
+      "chemicals": [
+        "Antiviral Agents",
+        "Sofosbuvir"
+      ],
+      "journal": "Digestive diseases and sciences",
+      "authors": [
+        "Brian L Pearlman"
+      ]
+    },
+    {
+      "pmid": "39459866",
+      "title": "Review of the Effects of Antiviral Therapy on Hepatitis B/C-Related Mortality and the Regression of Fibrosis.",
+      "abstract": "Hepatitis B and Hepatitis C are viral causes of Hepatitis that lead to significant worldwide mortality and morbidity through the sequelae of fibrosis and hepatocellular carcinoma. In this review, we have summarized recent studies that have examined the effects of antiviral therapy on the regression of fibrosis and the reduction in mortalities associated with the viruses. Antiviral therapy significantly decreases mortality and induces the regression of fibrosis.",
+      "pub_date": "2024-09-27",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antiviral Agents",
+        "Liver Cirrhosis",
+        "Hepatitis B",
+        "Hepatitis C",
+        "Hepatitis B virus",
+        "Hepacivirus",
+        "Hepatitis B, Chronic"
+      ],
+      "chemicals": [
+        "Antiviral Agents"
+      ],
+      "journal": "Viruses",
+      "authors": [
+        "Stephen Sinclair",
+        "Sean Shearen",
+        "Youssef Ghobrial",
+        "George Trad",
+        "Syed Abdul Basit",
+        "David Shih"
+      ]
+    },
+    {
+      "pmid": "40760535",
+      "title": "Intestinal flora of hepatitis C after direct antiviral drug therapy: A review.",
+      "abstract": "Hepatitis C virus infection remains one of the most critical healthcare issues worldwide, attracting attention for its high chronicity and extrahepatic impact. The continued development of direct antiviral antivirals (DAAs) has made hepatitis C virus infection curable. In recent years, it has been found that dysbiosis is often observed in chronic liver diseases, and chronic hepatitis C (CHC) is one of them. However, the role of intestinal flora and whether DAA has any effect on it remains unclear. In our review, we summarize the changes in intestinal flora before and after DAA treatment in different stages of CHC, as well as the research progress of probiotics in recent years, to provide new thinking for further research on the interrelationship between intestinal flora and CHC as well as for the clinical treatment of CHC.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antiviral Agents",
+        "Gastrointestinal Microbiome",
+        "Hepatitis C, Chronic",
+        "Dysbiosis",
+        "Probiotics",
+        "Hepacivirus"
+      ],
+      "chemicals": [
+        "Antiviral Agents"
+      ],
+      "journal": "Medicine",
+      "authors": [
+        "Hui Li",
+        "Yang Liu",
+        "Ming Yu Lai"
+      ]
+    },
+    {
+      "pmid": "40227981",
+      "title": "Update on hepatitis C virus management.",
+      "abstract": "Despite the efficacy of direct-acting antiviral (DAA) therapy, hepatitis C virus (HCV) remains a significant contributor to liver-related morbidity and mortality. This review summarizes the approach to HCV treatment, the simplified treatment algorithm for most patients, the management of special populations, and future directions for HCV interventions. Pan genotypic DAA regimens have high cure rates and can be managed by nonspecialist providers, and the simplified treatment approach provides a clear algorithm for workup and treatment decisions among treatment-naive patients without decompensated cirrhosis. Additionally, advancements in point of care diagnostics have the potential to further expand access to screening and linkage to care. Despite these breakthroughs, barriers to accessing care and the stigmatization of high-risk populations continue to undercut progress towards HCV elimination. Continued implementation of innovative screening and treatment strategies are required to overcome rising HCV prevalence. HCV cure is achievable for nearly all patients, but reaching HCV elimination goals will require a comprehensive approach that increases screening, expands access to simplified treatment, and avoids stigmatization of at-risk populations. Targeting healthcare disparities and removing barriers to treatment uptake are crucial to achieving elimination targets.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antiviral Agents",
+        "Health Services Accessibility",
+        "Algorithms",
+        "Hepacivirus",
+        "Mass Screening",
+        "Hepatitis C",
+        "Hepatitis C, Chronic"
+      ],
+      "chemicals": [
+        "Antiviral Agents"
+      ],
+      "journal": "Current opinion in gastroenterology",
+      "authors": [
+        "Austin D Peer",
+        "Jennifer C Price"
+      ]
+    },
+    {
+      "pmid": "38420130",
+      "title": "Injecting drug use and hepatitis C virus infection independently increase biomarkers of inflammatory disease risk which are incompletely restored by curative direct-acting antiviral therapy.",
+      "abstract": "Hepatitis C virus (HCV) infections are more prevalent in people who inject drugs (PWID) who often experience additional health risks. HCV induces inflammation and immune alterations that contribute to hepatic and non-hepatic morbidities. It remains unclear whether curative direct acting antiviral (DAA) therapy completely reverses immune alterations in PWID. Plasma biomarkers of immune activation associated with chronic disease risk were measured in HCV-seronegative (n=24) and HCV RNA+ (n=32) PWID at baseline and longitudinally after DAA therapy. Adjusted generalised estimating equations were used to assess longitudinal changes in biomarker levels. Comparisons between community controls (n=29) and HCV-seronegative PWID were made using adjusted multiple regression modelling. HCV-seronegative PWID exhibited significantly increased levels of inflammatory biomarkers including soluble (s) TNF-RII, IL-6, sCD14 and sCD163 and the diabetes index HbA1c as compared to community controls. CXCL10, sTNF-RII, vascular cell adhesion molecule-1 and lipopolysaccharide binding protein (LBP) were additionally elevated in PWID with viremic HCV infection as compared to HCV- PWID. Whilst curative DAA therapy reversed some biomarkers, others including LBP and sTNF-RII remained elevated 48 weeks after HCV cure. Elevated levels of inflammatory and chronic disease biomarkers in PWID suggest an increased risk of chronic morbidities such as diabetes and cardiovascular disease. HCV infection in PWID poses an additional disease burden, amplified by the incomplete reversal of immune dysfunction following DAA therapy. These findings highlight the need for heightened clinical surveillance of PWID for chronic inflammatory diseases, particularly those with a history of HCV infection.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hepacivirus",
+        "Antiviral Agents",
+        "Substance Abuse, Intravenous",
+        "Hepatitis C, Chronic",
+        "Hepatitis C",
+        "Biomarkers",
+        "Diabetes Mellitus"
+      ],
+      "chemicals": [
+        "Antiviral Agents",
+        "Biomarkers"
+      ],
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Anna C Hearps",
+        "Nikil Vootukuru",
+        "Salimeh Ebrahimnezhaddarzi",
+        "Brendan L Harney",
+        "Irene Boo",
+        "Long Nguyen"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_bipolar_disorder_efficacy> a holon:ClinicalQuestionHolon .\n\n<https://example.org/openevidence/questions/q_bipolar_disorder_efficacy-int> a oe:Interior .\n<https://example.org/openevidence/questions/q_bipolar_disorder_efficacy-bou> a oe:Boundary .\n<https://example.org/openevidence/questions/q_bipolar_disorder_efficacy-pro> a oe:Projection .\n<https://example.org/openevidence/questions/q_bipolar_disorder_efficacy-con> a oe:Context .\n\n<https://example.org/openevidence/questions/q_bipolar_disorder_efficacy> oe:hasAnswer [\n  a oe:Answer ;\n  oe:hasRetrievedRelation [\n    a oe:RetrievedRelation ;\n    oe:hasDrug <https://example.org/openevidence/drugs/lithium> ;\n    oe:hasDisease <https://example.org/openevidence/diseases/bipolar_disorder> ;\n    oe:hasEffectiveness oe:effective ;\n    oe:hasSource <https://example.org/openevidence/sources/40844121> ;\n    oe:hasConfidence 0.97 ;\n    oe:hasLevel \"Level-1A\" ;\n    oe:hasRetrievedRelation [\n      a oe:RetrievedRelation ;\n      oe:hasDrug <https://example.org/openevidence/drugs/sertraline> ;\n      oe:hasDisease <https://example.org/openevidence/diseases/major_depressive_disorder> ;\n      oe:hasEffectiveness oe:effective ;\n      oe:hasSource <https://example.org/openevidence/sources/41251319> ;\n      oe:hasConfidence 0.92 ;\n      oe:hasLevel \"Level-1B\"\n    ]\n  ]\n] .\n\n<https://example.org/openevidence/drugs/lithium> oe:treats <https://example.org/openevidence/diseases/bipolar_disorder> .\n<https://example.org/openevidence/drugs/sertraline> oe:treats <https://example.org/openevidence/diseases/major_depressive_disorder> .",
+  "provider": "ollama",
+  "model": "llama3.1:8b",
+  "prompt_tokens": 883,
+  "completion_tokens": 600,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1483
+}

@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_chronic_kidney_disease_efficacy a holon:EntityEntry ;
+    holon:entity oed:chronic_kidney_disease ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_chronic_kidney_disease_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_chronic_kidney_disease_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.98 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_chronic_kidney_disease_efficacy ;
+    holon:recordedOn "2026-01-20"^^xsd:date ;
+    oe:cites oesrc:41202026 ;
+    oe:effectiveness "effective" .
+
+oedrug:lisinopril oe:treats oed:chronic_kidney_disease .
+
+oeevt:ev_q_chronic_kidney_disease_efficacy-tt rdf:object oed:chronic_kidney_disease ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:lisinopril .
+
+oeq:q_chronic_kidney_disease_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is lisinopril compared with other agents for Chronic Kidney Disease?"@en ;
+    prov:generatedAtTime "2026-01-20T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.66 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_chronic_kidney_disease_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_chronic_kidney_disease_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_chronic_kidney_disease_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_chronic_kidney_disease_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Chronic Kidney Disease with lisinopril."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_chronic_kidney_disease_safety ;
+    holon:recordedOn "2026-01-20"^^xsd:date ;
+    holon:summaryConfidence 0.98 ;
+    oe:aboutDisease oed:chronic_kidney_disease ;
+    oe:answerText "There is uncertainty about the effects of sodium-glucose cotransporter 2 (SGLT2) inhibitors in participants with chronic kidney disease, with guidelines offering different strengths of recommendation based on diabetes status and urine albumin to creatinine ratio (UACR). To assess the relative and absolute effects of SGLT2 inhibitor use across efficacy and serious safety outcomes in participants stratified by diabetes status and UACR (≥200 mg/g or <200 mg/g)."^^xsd:string ;
+    oe:belongsToSpecialty "Nephrology" ;
+    oe:cites oesrc:40829896,
+        oesrc:41202026,
+        oesrc:41205673,
+        oesrc:41361176 ;
+    oe:questionText "How effective is lisinopril compared with other agents for Chronic Kidney Disease?"^^xsd:string .
+

@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_rheumatoid_arthritis_treatment a holon:EntityEntry ;
+    holon:entity oed:rheumatoid_arthritis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_rheumatoid_arthritis_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_rheumatoid_arthritis_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.53 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_rheumatoid_arthritis_treatment ;
+    holon:recordedOn "2026-06-01"^^xsd:date ;
+    oe:cites oesrc:41350407 ;
+    oe:effectiveness "effective" .
+
+oedrug:methotrexate oe:treats oed:rheumatoid_arthritis .
+
+oeevt:ev_q_rheumatoid_arthritis_treatment-tt rdf:object oed:rheumatoid_arthritis ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:methotrexate .
+
+oeq:q_rheumatoid_arthritis_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Rheumatoid Arthritis?"@en ;
+    prov:generatedAtTime "2026-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.48 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_rheumatoid_arthritis_treatment-bnd ;
+    holon:hasContextGraph oeq:q_rheumatoid_arthritis_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_rheumatoid_arthritis_treatment-int ;
+    holon:hasProjectionGraph oeq:q_rheumatoid_arthritis_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Rheumatoid Arthritis with methotrexate."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_rheumatoid_arthritis_efficacy ;
+    holon:recordedOn "2026-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.53 ;
+    oe:aboutDisease oed:rheumatoid_arthritis ;
+    oe:answerText "Reducing individual inflammatory factors does not always translate into clinical efficacy in rheumatoid arthritis (RA), an autoimmune disease characterized by joint inflammation. Proinflammatory M1 macrophages are a key driver of the hyperinflammatory joint microenvironment, which also promotes the progression of RA."^^xsd:string ;
+    oe:belongsToSpecialty "Rheumatology" ;
+    oe:cites oesrc:41319557,
+        oesrc:41350407,
+        oesrc:41420964,
+        oesrc:41475979 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Rheumatoid Arthritis?"^^xsd:string .
+

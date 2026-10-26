@@ -1,0 +1,73 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oe:symptom2042 a oe:Symptom ;
+    rdfs:label "Symptom-2042"@en .
+
+oeevt:entry2042 a holon:EntityEntry ;
+    holon:entity oed:disease2042 ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev2042_0 a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev2042_0-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.89 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:chain2042 ;
+    holon:recordedOn "2020-06-01"^^xsd:date ;
+    oe:cites oesrc:src2042 ;
+    oe:effectiveness "effective" .
+
+oeevt:ev2042_1 a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev2042_1-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.85 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:chain2042 ;
+    holon:recordedOn "2020-06-01"^^xsd:date ;
+    oe:cites oesrc:src2042 ;
+    oe:effectiveness "effective" .
+
+oeevt:ev2042_0-tt rdf:object oed:disease2042 ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:drug2042 .
+
+oeevt:ev2042_1-tt rdf:object oed:disease2042 ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:drug2042 .
+
+oedrug:drug2042 a oe:Drug ;
+    rdfs:label "Drug-2042"@en ;
+    oe:approvalDate "2010-01-01"^^xsd:date ;
+    oe:atcCode "C09AA03"^^xsd:string ;
+    oe:treats oed:disease2042 .
+
+oeq:chain2042 a holon:EvidenceChainHolon ;
+    rdfs:label "Holon 2042"@en ;
+    holon:aggregateConfidence 0.20 ;
+    holon:evidenceQualityThreshold 0.50 ;
+    holon:hasBoundaryGraph oeq:chain2042-bnd ;
+    holon:hasContextGraph oeq:chain2042-ctx ;
+    holon:hasInteriorGraph oeq:chain2042-int ;
+    holon:hasProjectionGraph oeq:chain2042-prj ;
+    holon:narrativeFunction "Establishes Drug-2042 as first-line for Disease-2042"@en ;
+    holon:summaryConfidence 0.85 .
+
+oesrc:src2042 a oe:SystematicReview ;
+    rdfs:label "Source-2042"@en ;
+    oe:publicationDate "2018-01-01"^^xsd:date ;
+    oe:pubmedId "30002042"^^xsd:string .
+
+oed:disease2042 a oe:Disease ;
+    rdfs:label "Disease-2042"@en ;
+    oe:firstDescribedDate "1990-01-01"^^xsd:date ;
+    oe:icdCode "I10"^^xsd:string .
+

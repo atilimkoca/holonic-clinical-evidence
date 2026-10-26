@@ -1,0 +1,55 @@
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+oesym:abdominal_pain a oe:Symptom ;
+    rdfs:label "Abdominal pain"@en .
+
+oesym:chest_pain a oe:Symptom ;
+    rdfs:label "Chest pain"@en .
+
+oesym:cough a oe:Symptom ;
+    rdfs:label "Cough"@en .
+
+oesym:depressed_mood a oe:Symptom ;
+    rdfs:label "Depressed mood"@en .
+
+oesym:dizziness a oe:Symptom ;
+    rdfs:label "Dizziness"@en .
+
+oesym:dry_cough a oe:Symptom ;
+    rdfs:label "Dry cough"@en .
+
+oesym:dyspnea a oe:Symptom ;
+    rdfs:label "Shortness of breath"@en .
+
+oesym:edema a oe:Symptom ;
+    rdfs:label "Edema"@en .
+
+oesym:fatigue a oe:Symptom ;
+    rdfs:label "Fatigue"@en .
+
+oesym:fever a oe:Symptom ;
+    rdfs:label "Fever"@en .
+
+oesym:headache a oe:Symptom ;
+    rdfs:label "Headache"@en .
+
+oesym:joint_pain a oe:Symptom ;
+    rdfs:label "Joint pain"@en .
+
+oesym:nausea a oe:Symptom ;
+    rdfs:label "Nausea"@en .
+
+oesym:palpitations a oe:Symptom ;
+    rdfs:label "Palpitations"@en .
+
+oesym:seizure a oe:Symptom ;
+    rdfs:label "Seizure"@en .
+
+oesym:tremor a oe:Symptom ;
+    rdfs:label "Tremor"@en .
+
+oesym:weight_loss a oe:Symptom ;
+    rdfs:label "Weight loss"@en .
+

@@ -1,0 +1,503 @@
+{
+  "disease": "Community-Acquired Pneumonia",
+  "slug": "community_acquired_pneumonia",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41359996",
+      "title": "Precision Immunotherapy to Improve Sepsis Outcomes: The ImmunoSep Randomized Clinical Trial.",
+      "abstract": "Sepsis is heterogeneous, and the optimal strategy for tailoring immunotherapy is uncertain. To investigate whether precision immunotherapy guided by the presence of macrophage activation-like syndrome or sepsis-induced immunoparalysis improves organ dysfunction by day 9. A randomized, double-blind, double-dummy, placebo-controlled clinical trial conducted in 6 countries. Patients with sepsis, defined by Sepsis-3, were included if they had community-acquired or hospital-acquired pneumonia or ventilator-associated pneumonia or bacteremia and sepsis and had displayed either macrophage activation-like syndrome (blood ferritin >4420 ng/mL) or sepsis-induced immunoparalysis (blood ferritin \u22644420 ng/mL and <5000 human leukocyte antigen DR receptors on CD45/CD14 monocytes). The first patient was enrolled August 5, 2021, and the last follow-up, April 29, 2024. Eligible patients were randomized to receive standard care and precision immunotherapy or standard care and placebo. Those in the precision immunotherapy group with macrophage activation-like syndrome received anakinra intravenously (IV) and placebo subcutaneously, and those with sepsis-induced immunoparalysis received subcutaneous recombinant human interferon gamma and IV placebo. Those in the placebo group received both IV and subcutaneous placebo. Treatment was administered for up to 15 days. The primary end point was a decrease of at least 1.4 points in the mean Sequential Organ Failure Assessment (SOFA) score from baseline by day 9. The SOFA score evaluates 6 organ systems, ranging from 0, no dysfunction, to 4, failure, and the total score ranges from 0, normal, to 24, most severe form of multiorgan failure. Key secondary outcomes included 28-day mortality. Of 672 patients assessed for eligibility, 281 were randomized and 276 were included in the primary analysis population (mean [SD] age, 70 [13] years; 93 females [33.7%]; median baseline SOFA score, 9 [IQR, 7-11]). The SOFA decrease end point was attained by 46 of 131 patients (35.1%) in the precision immunotherapy group and by 26 of 145 patients (17.9%) in the placebo group (difference, 17.2% [95% CI, 6.8% to 27.2%]; P\u2009=\u2009.002). Mortality at 28 days was not statistically significantly different between groups. A total of 1069 serious treatment-emergent adverse events (88.8%) were reported; increased incidence of anemia was noted in the anakinra group; and hemorrhage in the recombinant human interferon gamma group. Among patients with sepsis, precision immunotherapy targeting macrophage activation-like syndrome and sepsis-induced immunoparalysis improved organ dysfunction by day 9 compared with placebo. ClinicalTrials.gov Identifier: NCT04990232.",
+      "pub_date": "2026-03-03",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Bacteremia",
+        "Community-Acquired Pneumonia",
+        "Double-Blind Method",
+        "Healthcare-Associated Pneumonia",
+        "Immunotherapy",
+        "Injections, Intravenous",
+        "Injections, Subcutaneous",
+        "Interferon-gamma",
+        "Interleukin 1 Receptor Antagonist Protein",
+        "Macrophage Activation Syndrome",
+        "Multiple Organ Failure",
+        "Organ Dysfunction Scores",
+        "Precision Medicine",
+        "Sepsis",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Interferon-gamma",
+        "Interleukin 1 Receptor Antagonist Protein"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Evangelos J Giamarellos-Bourboulis",
+        "Antigone Kotsaki",
+        "Ioanna Kotsamidi",
+        "Aikaterini Efthymiou",
+        "Vasiliki Koutsoukou",
+        "Johannes Ehler"
+      ]
+    },
+    {
+      "pmid": "41325621",
+      "title": "Systemic Corticosteroids, Mortality, and Infections in Pneumonia and Acute Respiratory Distress Syndrome : A Systematic Review and Meta-analysis.",
+      "abstract": "The benefit-risk profile of systemic corticosteroids in non-COVID-19 pneumonia and acute respiratory distress syndrome (ARDS) remains debated. To assess corticosteroid effects on mortality and infection-related complications in adults with severe pneumonia or ARDS. MEDLINE, EMBASE, Cochrane Central Register of Controlled Trials, Web of Science, ClinicalTrials.gov, and World Health Organization International Clinical Trials Registry Platform through September 2025. Randomized controlled trials comparing systemic corticosteroids with placebo and usual care. Primary analysis: severe pneumonia or ARDS with corticosteroids 3 mg/kg Paired reviewers; consensus for disagreements. From 16\u2009831 screened records, 20 studies (15 severe pneumonia, 5 ARDS) including 3459 participants met criteria. Low-dose, short-course corticosteroids probably reduce short-term mortality in severe pneumonia (15 studies, 2445 participants; risk ratio [RR], 0.73 [95% CI, 0.57 to 0.93]; Heterogeneous pneumonia severity classification limiting subgroup precision. In severe pneumonia and ARDS, adjunct corticosteroids probably reduce short-term mortality. In severe pneumonia, they may reduce secondary shock. In both conditions, corticosteroids may have little or no effect on hospital-acquired infections. None. (PROSPERO: CRD42024536301).",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Adrenal Cortex Hormones",
+        "COVID-19",
+        "Pneumonia",
+        "Respiratory Distress Syndrome",
+        "SARS-CoV-2"
+      ],
+      "chemicals": [
+        "Adrenal Cortex Hormones"
+      ],
+      "journal": "Annals of internal medicine",
+      "authors": [
+        "Alice Soumare",
+        "Thomas Kapfer",
+        "Thomas Botrel",
+        "Leslie Adda",
+        "Maxime Renaux",
+        "Pierre-Louis Blot"
+      ]
+    },
+    {
+      "pmid": "41264690",
+      "title": "Rebalancing viral and immune damage versus repair prevents death from lethal influenza infection.",
+      "abstract": "Maintaining tissue function while eliminating infected cells is fundamental, and inflammatory damage plays a major contribution to lethality after lung infection. We tested 50 immunomodulatory regimes to determine their ability to protect mice from lethal infection. Only neutrophil depletion soon after infection prevented death from influenza. This result suggests that the infected host passed an early tipping point after which limiting innate damage alone could not rescue lung function. We investigated treatments that could have efficacy when administered later in infection. We found that partial limitation of viral spread together with enhancement of epithelial repair, by interferon blockade or limiting CD8",
+      "pub_date": "2025-11-20",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Female",
+        "Mice",
+        "CD8-Positive T-Lymphocytes",
+        "Epithelial Cells",
+        "Immunity, Innate",
+        "Interferons",
+        "Lung",
+        "Lymphocyte Depletion",
+        "Mice, Inbred C57BL",
+        "Neutrophils",
+        "Orthomyxoviridae Infections",
+        "Pneumonia, Viral",
+        "Oseltamivir",
+        "Antiviral Agents",
+        "Enzyme Inhibitors",
+        "Immunomodulating Agents",
+        "Adaptive Immunity",
+        "Immunomodulation"
+      ],
+      "chemicals": [
+        "Interferons",
+        "Oseltamivir",
+        "Antiviral Agents",
+        "Enzyme Inhibitors",
+        "Immunomodulating Agents"
+      ],
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Hiroshi Ichise",
+        "Emily Speranza",
+        "Federica La Russa",
+        "Tibor Z Veres",
+        "Colin J Chu",
+        "Anita Gola"
+      ]
+    },
+    {
+      "pmid": "41298513",
+      "title": "Uncovering the immune mechanisms underlying the emergence of immunotherapy-induced pneumonitis in lung cancer patients.",
+      "abstract": "The clinical application of checkpoint inhibitors in lung cancer has been impeded by the emergence of immune-related adverse effects, such as pneumonitis. To date, the precise immune pathogenesis of immune checkpoint inhibitor-related pneumonitis (CIP) remains elusive. Here, we perform comprehensive single-cell analysis, specifically the combination of scRNA-seq and scTCR/BCR-seq, to profile molecular and cellular changes in CIP tissues and matched noncancerous adjacent tissues from lung cancer patients. CIP patients exhibit disrupted immune homeostasis, marked by expansion of the CD8\u207a tissue-resident memory T cell population, elevated IFNG expression and increased TCR clone sharing with other CD8\u207a T cells. We also identify increased IL-17A levels, robust IgG isotype class switching in B cells and GSDME-mediated macrophage pyroptosis as potential mechanisms involved in CIP. These findings provide valuable insights into the mechanisms underlying CIP and inform potential strategies for further intervention.",
+      "pub_date": "2025-11-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lung Neoplasms",
+        "CD8-Positive T-Lymphocytes",
+        "Immunotherapy",
+        "Pneumonia",
+        "Immune Checkpoint Inhibitors",
+        "Interleukin-17",
+        "B-Lymphocytes",
+        "Interferon-gamma",
+        "Single-Cell Analysis",
+        "Pyroptosis",
+        "Macrophages",
+        "Female",
+        "Male",
+        "Immunoglobulin G"
+      ],
+      "chemicals": [
+        "Immune Checkpoint Inhibitors",
+        "Interleukin-17",
+        "Interferon-gamma",
+        "Immunoglobulin G",
+        "IL17A protein, human"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Xinqing Lin",
+        "Chunjie Li",
+        "Jiaxi Deng",
+        "Ying Wu",
+        "Bingbing Xie",
+        "Jingyi Bao"
+      ]
+    },
+    {
+      "pmid": "41378862",
+      "title": "Associations Between Antibiotic Use and Outcomes in Patients Hospitalized With Community-Acquired Pneumonia and Positive Respiratory Viral Assays.",
+      "abstract": "Newly released community-acquired pneumonia (CAP) guidelines include a conditional recommendation to treat all hospitalized patients with positive respiratory virus assays with antibacterials. We assessed the frequency, duration, and outcomes of antibacterial prescribing in this population. We retrospectively identified all hospitalized patients with possible CAP and a positive respiratory virus test at 5 hospitals, June 2015-December 2024. We used detailed clinical data to propensity-weight patients treated with 0-2 versus 5-7 days of antibacterials and compared outcomes overall and for different viruses. Among 6779 patients with possible CAP and a respiratory virus, 3269 were treated with 0-2 days and 1560 with 5-7 days of antibacterials. After propensity-weighting 2614 patients (1720 treated 0-2 days, 894 treated 5-7 days), there were no significant differences in hospital length of stay (11.7 days vs 11.1 days; OR 1.05, 95% CI .97-1.15), ICU admission after 48 hours (28.3% vs 28.2%; OR 1.01, 95% CI .86-1.18), in-hospital mortality (9.5% vs 9.8%; OR 0.97, 95% CI .74-1.27), or 30-day hospital-free days (16.9 days vs 17.0 days; OR 0.99, 95% CI .95-1.03). Results were consistent when restricted to non-SARS-CoV-2 viruses and to influenza alone, when comparing 0 versus 5-7 days of antibacterials, and when restricting to patients with ICD-10 codes for pneumonia present on admission. Antibacterial use for patients with possible CAP and respiratory viruses is highly variable but outcomes are similar with 0-2 versus 5-7 days of antibacterials. This suggests antibiotics are not beneficial in most CAP patients who test positive for respiratory viruses.",
+      "pub_date": "2026-04-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Community-Acquired Infections",
+        "Anti-Bacterial Agents",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Aged",
+        "Middle Aged",
+        "Hospitalization",
+        "Pneumonia",
+        "Length of Stay",
+        "Aged, 80 and over",
+        "Treatment Outcome",
+        "Viruses",
+        "Community-Acquired Pneumonia"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+      "authors": [
+        "Brett Biebelberg",
+        "Tom Chen",
+        "Cara McKenna",
+        "Sanjat Kanjilal",
+        "Claire Shappell",
+        "Chanu Rhee"
+      ]
+    },
+    {
+      "pmid": "41290594",
+      "title": "An antimicrobial peptide as a potential therapy for bacterial pneumonia that alleviates antimicrobial resistance.",
+      "abstract": "Bacterial pneumonia remains a global health threat that is worsened by drug-resistant bacteria, underscoring the need for the development of new antimicrobial agents. Antimicrobial peptides are promising new candidates with broad-spectrum activity and low potential for resistance development. Here, we report a linear antimicrobial peptide (AMP) that consists of four repeating units of (D-tryptophan)-(D-arginine)-(D-lysine). This peptide exhibits high stability and robust antimicrobial activity against multidrug-resistant bacteria, such as methicillin-resistant Staphylococcus aureus and Klebsiella pneumoniae, and improved biocompatibility. Furthermore, the AMP shows low potential for resistance development and the ability to alleviate resistance and restore antibiotic sensitivity due to multiple mechanisms, including membrane targeting and non-membrane lysis (DNA binding, reactive oxygen species accumulation, ATP depletion, metabolic interference). In vivo, the peptide showed promising therapeutic efficacy in a model of methicillin-resistant Staphylococcus aureus and K. pneumoniae pneumonia, as well as in a lipopolysaccharide-induced lung injury model.",
+      "pub_date": "2025-11-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Methicillin-Resistant Staphylococcus aureus",
+        "Klebsiella pneumoniae",
+        "Animals",
+        "Pneumonia, Bacterial",
+        "Antimicrobial Peptides",
+        "Mice",
+        "Anti-Bacterial Agents",
+        "Microbial Sensitivity Tests",
+        "Humans",
+        "Drug Resistance, Multiple, Bacterial",
+        "Disease Models, Animal",
+        "Lipopolysaccharides"
+      ],
+      "chemicals": [
+        "Antimicrobial Peptides",
+        "Anti-Bacterial Agents",
+        "Lipopolysaccharides"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Chao Zhong",
+        "Yongtao He",
+        "Jing Zou",
+        "Luyang Gao",
+        "Jiahui Wang",
+        "Jingyi Zhu"
+      ]
+    },
+    {
+      "pmid": "41255094",
+      "title": "Nerandomilast, a PDE4B inhibitor, alleviates silica-induced lung inflammation and fibrosis by inhibition of NLRP3 inflammasome and TGF-\u03b2/Smad signalling.",
+      "abstract": "Silicosis is a major cause of occupational disease-related morbidity and mortality worldwide, yet effective pharmacological treatments remain limited. Nerandomilast, a novel inhibitor of phosphodiesterase-4B (PDE4B), has demonstrated anti-fibrotic potential in idiopathic pulmonary fibrosis (IPF); however, its efficacy and mechanisms in silicosis have not been investigated. The therapeutic effects (and their underlying mechanisms) of PDE4B inhibition was evaluated in in models of silicosis, both in vivo (male C57BL/6N mice) and in vitro (THP-1 macrophages and MRC-5 cells). Single-cell RNA sequencing, using lung tissue, was first performed to identify PDE4B as a key regulatory target in the pathogenesis of silicosis. Based on this finding, the therapeutic effects and underlying mechanisms of PDE4B inhibition were assessed using nerandomilast. Pulmonary function tests, inflammatory marker analyses and fibrosis evaluations were conducted to determine treatment efficacy. In addition, bulk RNA sequencing and transcriptomic analyses were performed to explore the molecular pathways modulated by nerandomilast. PDE4B inhibition effectively prevented and attenuated silica-induced lung inflammation in the mouse model by suppressing both canonical and non-canonical NLRP3 inflammasome pathways in lung macrophages. Furthermore, PDE4B inhibition down-regulated TGF-\u03b2/Smad signalling in lung fibroblasts of silicosis, leading to a significant reduction in fibrosis-related gene expression. These findings suggest that nerandomilast, a PDE4B inhibitor, may be a promising treatment for silicosis, which currently lacks effective therapies.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Mice, Inbred C57BL",
+        "Male",
+        "Phosphodiesterase 4 Inhibitors",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Signal Transduction",
+        "Mice",
+        "Transforming Growth Factor beta",
+        "Silicon Dioxide",
+        "Inflammasomes",
+        "Humans",
+        "Smad Proteins",
+        "Silicosis",
+        "Pneumonia",
+        "Pulmonary Fibrosis",
+        "Cyclic Nucleotide Phosphodiesterases, Type 4",
+        "Lung",
+        "Cell Line"
+      ],
+      "chemicals": [
+        "Phosphodiesterase 4 Inhibitors",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Transforming Growth Factor beta",
+        "Silicon Dioxide",
+        "Inflammasomes",
+        "Smad Proteins",
+        "Cyclic Nucleotide Phosphodiesterases, Type 4",
+        "Nlrp3 protein, mouse"
+      ],
+      "journal": "British journal of pharmacology",
+      "authors": [
+        "Yuanying Wang",
+        "Di Sun",
+        "Nafeisa Dilixiati",
+        "Dongmei Wang",
+        "Yawen Song",
+        "Qiao Ye"
+      ]
+    },
+    {
+      "pmid": "41253746",
+      "title": "Therapeutic targeting of endothelial calcium signaling accelerates the resolution of lung injury.",
+      "abstract": "Acute respiratory distress syndrome (ARDS) is a severe pulmonary disease characterized by acute, noncardiogenic pulmonary edema and hypoxemia leading to respiratory failure. It is induced by a diverse array of etiologies, including recent SARS-CoV-2 infection. The current standard of care for ARDS remains predominantly supportive, underscoring the urgent need for targeted pharmacological interventions. To address this critical gap, we developed an inhibitor of the microtubule accessory factor end-binding protein 3 (EB3), a key mediator of pathological calcium signaling in endothelial cells. During injury, EB3 facilitates inositol 1,4,5-trisphosphate receptor 3 (IP",
+      "pub_date": "2025-11-18",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Animals",
+        "Calcium Signaling",
+        "Inositol 1,4,5-Trisphosphate Receptors",
+        "COVID-19",
+        "Mice",
+        "SARS-CoV-2",
+        "Endothelial Cells",
+        "Respiratory Distress Syndrome",
+        "COVID-19 Drug Treatment",
+        "Lung Injury"
+      ],
+      "chemicals": [
+        "Inositol 1,4,5-Trisphosphate Receptors"
+      ],
+      "journal": "Signal transduction and targeted therapy",
+      "authors": [
+        "Wan Ching Chan",
+        "Man Long Kwok",
+        "Xinyan Qu",
+        "Hazem Abdelkarim",
+        "Jonathan Le",
+        "Deying Yang"
+      ]
+    },
+    {
+      "pmid": "41371766",
+      "title": "Prognostic impact and safety of early adjunctive corticosteroid therapy in HIV-negative severe",
+      "abstract": "This multicentre retrospective observational study included consecutive patients diagnosed with proven or probable PcP, from January 2011 to January 2021. This study assessed the prognostic impact and safety of early AC in HIV-negative patients with PcP. To address baseline characteristic imbalances between patients, a non-parsimonious propensity matching analysis was performed with a 1/1 ratio. Survival analysis, day-90 mortality rate and healthcare-associated infections (HCAI) were compared using Cox and logistic regressions. 350 consecutive HIV-negative patients with proven or probable PcP were included. Of these, 116 (33.1%) received early AC within 5\u2009days of anti-PcP therapy initiation. The median arterial oxygen partial pressure to fractional inspired oxygen (PaO Early AC therapy was not associated with reduced 90-day mortality in HIV-negative PcP patients. Although recommended in hypoxemic HIV-positive PcP patients, the benefit of this strategy in HIV-negative patients remains to be proven.",
+      "pub_date": "2026-05-14",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Observational Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pneumonia, Pneumocystis",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Propensity Score",
+        "Prognosis",
+        "Adrenal Cortex Hormones",
+        "Aged",
+        "Adult",
+        "Pneumocystis carinii",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Adrenal Cortex Hormones"
+      ],
+      "journal": "Thorax",
+      "authors": [
+        "Florian Reizine",
+        "Vicky Stiegler",
+        "Romain Lecuyer",
+        "Benoit Tessoulin",
+        "Guillaume Rieul",
+        "Fabrice Camou"
+      ]
+    },
+    {
+      "pmid": "41296084",
+      "title": "Angiotensin-(1-7) treatment improves pneumonia and prevents sepsis caused by pneumococcal infection.",
+      "abstract": "Pneumonia caused by Streptococcus pneumoniae remains a major global health concern, leading to significant morbidity and mortality. Angiotensin-(1-7) [Ang-(1-7)] is an endogenous peptide with known anti-inflammatory and pro-resolving properties, but its therapeutic potential in bacterial pneumonia is not fully understood. This study aimed to investigate whether Ang-(1-7) could reduce inflammation, improve bacterial clearance, and enhance survival in a murine model of pneumococcal pneumonia, alone or in combination with the antibiotic ceftriaxone. A mouse model of S. pneumoniae pneumonia was used to evaluate the effects of Ang-(1-7). Mice received Ang-(1-7) treatment after infection, either alone or combined with ceftriaxone. Outcomes included leukocyte infiltration, pulmonary edema, lung tissue damage, cytokine production (TNF-\u03b1, IL-6, CXCL-1), bacterial load in bronchoalveolar lavage and blood, survival analysis, bone marrow-derived macrophage phagocytosis assays, and expression of lung barrier-associated genes. Ang-(1-7) reduced leukocyte infiltration, pulmonary edema, and lung tissue injury, and decreased pro-inflammatory cytokine levels. Treatment improved bacterial clearance in both lungs and bloodstream and increased survival in infected mice. Importantly, combining Ang-(1-7) with ceftriaxone further enhanced survival, even when treatment initiation was delayed. Mechanistically, Ang-(1-7) increased macrophage phagocytic activity and upregulated genes associated with lung barrier integrity. Ang-(1-7) decreased inflammation, improved bacterial clearance, and enhanced survival in severe pneumococcal pneumonia. Its combination with ceftriaxone produced additive benefits, supporting Ang-(1-7) as a promising adjuvant therapeutic strategy in this infectious condition.",
+      "pub_date": "2025-11-26",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Angiotensin I",
+        "Peptide Fragments",
+        "Sepsis",
+        "Pneumonia, Pneumococcal",
+        "Cytokines",
+        "Lung",
+        "Anti-Bacterial Agents",
+        "Ceftriaxone",
+        "Streptococcus pneumoniae",
+        "Mice, Inbred C57BL",
+        "Mice",
+        "Male",
+        "Anti-Inflammatory Agents",
+        "Macrophages",
+        "Phagocytosis",
+        "Bronchoalveolar Lavage Fluid",
+        "Female",
+        "Pulmonary Edema"
+      ],
+      "chemicals": [
+        "Angiotensin I",
+        "angiotensin I (1-7)",
+        "Peptide Fragments",
+        "Cytokines",
+        "Anti-Bacterial Agents",
+        "Ceftriaxone",
+        "Anti-Inflammatory Agents"
+      ],
+      "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "authors": [
+        "Eliza Mathias Melo",
+        "Izabela Galv\u00e3o",
+        "Franciel Batista Felix",
+        "Fernanda Medeiros Vale Magalh\u00e3es",
+        "Flavia Rago",
+        "Marina Gomes Machado"
+      ]
+    },
+    {
+      "pmid": "41325763",
+      "title": "Macrolide-resistant Mycoplasma pneumoniae resurgence in Chinese children in 2023: a longitudinal, cross-sectional, genomic epidemiology study.",
+      "abstract": "After a prolonged period of low detection rates, Mycoplasma pneumoniae resurged in China, during September to November, 2023, raising global concern. This study aims to gain a better understanding of the genetic mechanisms underlying the 2023 increase in cases and the evolutionary dynamics of the epidemic populations, which has been previously hampered due to limited genomic data of this pathogen. We sequenced 685 M pneumoniae isolates, including 248 isolates from 11 Chinese provinces and municipalities in 2023 and 437 isolates from Beijing (2013-22). By analysing these isolates and 436 publicly global sequences, we reconstructed the pathogen's evolutionary history using time-calibrated phylogenies and effective population size inference. We investigated potential genomic variations contributing to the 2023 resurgence through genome-wide association study and conducted phylogeographic analysis of the 2023 isolates across China. Two macrolide-resistant epidemic clusters (T1-2-EC1 and T2-2-EC2) were responsible for the 2023 resurgence in China. Both clusters, having acquired the 23S ribosomal RNA A2063G mutation conferring macrolide resistance, emerged in approximately 1997 and 2014, respectively, and subsequently outcompeted their predecessor populations. This coincided with China's large-scale adoption of azithromycin for paediatric community-acquired pneumonia around the early 2000s. Aside from macrolide resistance, T1-2-EC1 independently acquired 17 clade-specific mutations and T2-2-EC2 four clade-specific mutations, which could further explain their increased competitiveness. Whole-genome analysis revealed no resurgence-specific mutations in the 2023 isolates. Phylogeographic analysis showed rapid mixing of T1-2-EC1 isolates between different sampled regions within China. Our study provides evidence that the 2023 resurgence in China is a continuation of the pre-COVID epidemic, rather than emergence of novel variants. The high prevalence of macrolide resistance and rapid intranational spread emphasise the urgent need for enhanced global surveillance of this pathogen. National Key Research and Development Program of China, National Natural Science Foundation of China for Key Programs of China Grants, and Beijing High-Level Public Health Technical Talent Project.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Mycoplasma pneumoniae",
+        "Pneumonia, Mycoplasma",
+        "Macrolides",
+        "China",
+        "Child",
+        "Drug Resistance, Bacterial",
+        "Anti-Bacterial Agents",
+        "Cross-Sectional Studies",
+        "Phylogeny",
+        "Longitudinal Studies",
+        "Child, Preschool",
+        "Male",
+        "Female",
+        "Genome-Wide Association Study",
+        "RNA, Ribosomal, 23S",
+        "Phylogeography",
+        "Mutation",
+        "Infant",
+        "Genome, Bacterial"
+      ],
+      "chemicals": [
+        "Macrolides",
+        "Anti-Bacterial Agents",
+        "RNA, Ribosomal, 23S"
+      ],
+      "journal": "The Lancet. Microbe",
+      "authors": [
+        "Chao Yan",
+        "Shanwei Tong",
+        "Yarong Wu",
+        "Yujie Chen",
+        "Xinyu Jia",
+        "Yan Guo"
+      ]
+    },
+    {
+      "pmid": "41490992",
+      "title": "Macrolide-Resistant Mycoplasma pneumoniae in Children, Ohio, USA.",
+      "abstract": "As the COVID-19 pandemic waned, Mycoplasma pneumoniae reemerged in the pediatric population in Ohio, USA. The rate of macrolide-resistant M. pneumoniae fluctuated by month, ranging from 0 to 8.7%, and mirrored the azithromycin prescribing rate. Real-time surveillance for macrolide-resistant M. pneumoniae provides accurate information for management of children with these infections.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Mycoplasma pneumoniae",
+        "Ohio",
+        "Child",
+        "Pneumonia, Mycoplasma",
+        "Macrolides",
+        "Anti-Bacterial Agents",
+        "Drug Resistance, Bacterial",
+        "Child, Preschool",
+        "Infant",
+        "COVID-19",
+        "Azithromycin",
+        "Adolescent",
+        "SARS-CoV-2",
+        "Male",
+        "Female"
+      ],
+      "chemicals": [
+        "Macrolides",
+        "Anti-Bacterial Agents",
+        "Azithromycin"
+      ],
+      "journal": "Emerging infectious diseases",
+      "authors": [
+        "Huanyu Wang",
+        "Tori Embry",
+        "Kathy Everhart",
+        "Morgan Szekely",
+        "Jeanette Taveras",
+        "Sophonie J Oyeniran"
+      ]
+    }
+  ]
+}

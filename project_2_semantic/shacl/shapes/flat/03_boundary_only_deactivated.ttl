@@ -1,0 +1,23 @@
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# SET B - FLAT SHACL (BASELINE)  .  FILE 3/3: BOUNDARY-ONLY NAME PARITY
+#
+# These three §2.2 shape names are declared for auditability, but deliberately
+# deactivated in Set B. Activating them would add the holon/layer scope that the
+# flat baseline is supposed to omit. The executable versions live in Set A.
+# =============================================================================
+
+oe:HolonBoundaryShape a sh:NodeShape ;
+    sh:deactivated true ;
+    rdfs:comment "Set B name-parity declaration only. The executable boundary-membership check is boundary-aware and is implemented in Set A."@en .
+
+oe:CrossHolonConsistencyShape a sh:NodeShape ;
+    sh:deactivated true ;
+    rdfs:comment "Set B name-parity declaration only. Cross-holon contradiction detection requires holon scope and is implemented in Set A."@en .
+
+oe:ProjectionCoherenceShape a sh:NodeShape ;
+    sh:deactivated true ;
+    rdfs:comment "Set B name-parity declaration only. Projection/interior coherence requires layer scope and is implemented in Set A."@en .

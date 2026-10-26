@@ -1,0 +1,11 @@
+{
+  "text": "```turtle\n@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\noegen:node_123456789 a holon:ClinicalQuestionHolon ;\n    holon:hasBoundaryGraph \"acute_kidney_injury\" ;\n    holon:hasContextGraph \"acute_kidney_injury\" ;\n    holon:hasInteriorGraph \"acute_kidney_injury\" ;\n    holon:hasProjectionGraph \"acute_kidney_injury\" ;\n    oe:answerText \"Furosemide\"^^xsd:string ;\n    oe:questionText \"What is the treatment for acute kidney injury?\"^^xsd:string ;\n    oe:belongsToSpecialty \"Nephrology\" .\n\n<https://example.org/openevidence/drugs/furosemide> oe:treats <https://example.org/openevidence/diseases/acute_kidney_injury> ;\n```",
+  "provider": "ollama",
+  "model": "gemma3:4b",
+  "prompt_tokens": 839,
+  "completion_tokens": 359,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1198
+}

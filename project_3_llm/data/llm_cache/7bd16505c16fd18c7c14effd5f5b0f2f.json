@@ -1,0 +1,11 @@
+{
+  "text": "```turtle\n@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_addison_disease_efficacy> a holon:ClinicalQuestionHolon ;\n    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_addison_disease_efficacy-bou> ;\n    holon:hasContextGraph <https://example.org/openevidence/questions/q_addison_disease_efficacy-con> ;\n    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_addison_disease_efficacy-int> ;\n    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_addison_disease_efficacy-pro> ;\n    oe:answerText \"Prednisone\"^^xsd:string ;\n    oe:questionText \"Is prednisone effective for treating Addison's disease?\"^^xsd:string ;\n    oe:belongsToSpecialty \"Endocrinology\" .\n<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/addison_disease> ;\n    confidence=0.38 ;\n    level=Level-4 ;\n    source=<https://example.org/openevidence/sources/36102024> ;\n    effectiveness=inconclusive .\n```",
+  "provider": "ollama",
+  "model": "gemma3:4b",
+  "prompt_tokens": 1113,
+  "completion_tokens": 485,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1598
+}

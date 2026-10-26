@@ -1,0 +1,100 @@
+@prefix gen: <https://example.org/medical/shapes#> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+gen:AllowedDescriptorQualifierPairShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#DisallowedDescriptorQualifierPair> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#AllowedDescriptorQualifierPair> .
+
+gen:CheckTagShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TopicalDescriptor> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#PublicationType> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#GeographicalDescriptor> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#CheckTag> .
+
+gen:ConceptShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Term> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Descriptor> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SupplementaryConceptRecord> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#DescriptorQualifierPair> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Qualifier> ] ;
+    sh:property [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Concept> ;
+            sh:path <http://id.nlm.nih.gov/mesh/vocab#relatedConcept> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Concept> ;
+            sh:path <http://id.nlm.nih.gov/mesh/vocab#narrowerConcept> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Concept> ;
+            sh:path <http://id.nlm.nih.gov/mesh/vocab#broaderConcept> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#Concept> .
+
+gen:DescriptorQualifierPairShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Term> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Qualifier> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SupplementaryConceptRecord> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#DescriptorQualifierPair> .
+
+gen:DescriptorShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#DescriptorQualifierPair> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Qualifier> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Term> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SupplementaryConceptRecord> ] ;
+    sh:property [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Descriptor> ;
+            sh:path <http://id.nlm.nih.gov/mesh/vocab#broaderDescriptor> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#Descriptor> .
+
+gen:DisallowedDescriptorQualifierPairShape a sh:NodeShape ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#DisallowedDescriptorQualifierPair> .
+
+gen:GeographicalDescriptorShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TopicalDescriptor> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#PublicationType> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#GeographicalDescriptor> .
+
+gen:PublicationTypeShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TopicalDescriptor> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#PublicationType> .
+
+gen:QualifierShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SupplementaryConceptRecord> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Term> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> ] ;
+    sh:property [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Qualifier> ;
+            sh:path <http://id.nlm.nih.gov/mesh/vocab#broaderQualifier> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#Qualifier> .
+
+gen:SCR_ChemicalShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SCR_Organism> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SCR_Protocol> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SCR_Disease> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#SCR_Chemical> .
+
+gen:SCR_DiseaseShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SCR_Organism> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SCR_Protocol> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#SCR_Disease> .
+
+gen:SCR_OrganismShape a sh:NodeShape ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#SCR_Organism> .
+
+gen:SCR_ProtocolShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#SCR_Organism> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#SCR_Protocol> .
+
+gen:SupplementaryConceptRecordShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#Term> ],
+        [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#SupplementaryConceptRecord> .
+
+gen:TermShape a sh:NodeShape ;
+    sh:not [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#Term> .
+
+gen:TopicalDescriptorShape a sh:NodeShape ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#TopicalDescriptor> .
+
+gen:TreeNumberShape a sh:NodeShape ;
+    sh:property [ sh:class <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> ;
+            sh:path <http://id.nlm.nih.gov/mesh/vocab#parentTreeNumber> ] ;
+    sh:targetClass <http://id.nlm.nih.gov/mesh/vocab#TreeNumber> .
+

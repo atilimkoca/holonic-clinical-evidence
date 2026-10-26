@@ -1,0 +1,51 @@
+id,category,kind,answerable_A,answerable_B,rows_A,rows_B,results_equal,patterns_A,patterns_B,ms_A,ms_B,desc
+S01,simple,select,1,1,72,72,yes,1,1,3.6,3.41,All diseases (typed oe:Disease).
+S02,simple,select,1,1,60,60,yes,1,1,4.12,2.99,All drugs.
+S03,simple,select,1,1,1,1,yes,1,1,2.99,3.12,ICD code of hypertension.
+S04,simple,select,1,1,1,1,yes,1,1,3.67,3.32,ATC code of lisinopril.
+S05,simple,select,1,1,1,1,yes,1,1,3.03,3.06,Drugs that treat hypertension (base triple).
+S06,simple,select,1,1,2,2,yes,1,1,3.74,3.06,Symptoms of hypertension.
+S07,simple,select,1,1,624,624,yes,1,1,3.13,3.14,All evidence sources.
+S08,simple,select,1,1,216,216,yes,1,1,3.67,3.1,All clinical-question holons.
+S09,simple,select,1,1,50,50,yes,1,1,3.33,3.07,Drug classes present.
+S10,simple,select,1,1,10,10,yes,1,1,3.27,3.46,Diseases in the Cardiology specialty.
+S11,simple,select,1,1,48,48,yes,2,2,4.08,3.38,PubMed IDs of all systematic reviews.
+S12,simple,select,1,1,1,1,yes,1,1,3.02,3.2,Approval date of metformin.
+S13,simple,select,1,1,1,1,yes,1,1,5.83,4.9,Count of clinical-question holons.
+S14,simple,select,1,1,10,10,yes,1,1,3.85,3.12,Specialties (typed oe:Specialty).
+S15,simple,ask,1,1,1,1,yes,1,1,3.19,2.92,Does any drug treat hypertension? (ASK)
+M01,medium,select,1,1,136,136,yes,5,5,6.12,5.29,Confidence of each treats-assertion (edge-level metadata).
+M02,medium,select,1,1,45,45,yes,2,2,3.84,3.68,Assertions with evidence level Level-1A.
+M03,medium,select,1,1,50,50,yes,5,5,84.92,8.87,Drug-disease pairs asserted with confidence > 0.9.
+M04,medium,select,1,1,204,204,yes,2,2,4.32,3.52,Sources cited by each evidence assertion.
+M05,medium,select,1,1,30,30,yes,3,3,4.4,4.0,Holons about diseases in Cardiology (2-hop join).
+M06,medium,select,1,1,18,18,yes,2,2,3.63,3.51,Drugs treating a disease that has the symptom 'fatigue'.
+M07,medium,select,1,1,204,204,yes,2,2,3.66,3.47,Evidence assertions and their owning holon.
+M08,medium,select,1,1,2,2,yes,5,5,5.75,5.13,"Confidence of treats(lisinopril, hypertension)."
+M09,medium,select,1,1,7,7,yes,2,2,4.61,3.61,Distinct evidence levels used across assertions.
+M10,medium,select,1,1,68,68,yes,4,4,4.36,4.94,Side-effect assertions (drug causesSideEffect symptom).
+M11,medium,select,1,1,216,216,yes,2,2,3.36,4.12,Holons citing at least one source (interior cites).
+M12,medium,select,1,1,32,32,yes,1,1,3.03,3.41,Drugs and the classes contraindicated against them.
+M13,medium,select,1,1,7,7,yes,2,2,8.17,7.54,Count of evidence assertions per evidence level.
+M14,medium,select,1,1,1,1,yes,2,2,3.58,3.44,Disease holons containing a given clinical-question holon.
+M15,medium,ask,1,1,1,1,yes,3,3,9.06,8.98,Is there a Level-1A assertion with confidence >= 0.9? (ASK)
+C01,complex,select,1,1,33,33,yes,5,5,11.49,11.95,"Assertions recorded after 2020 citing a systematic review, confidence > 0.9."
+C02,complex,select,1,1,16,16,yes,3,3,11.65,10.63,Drugs approved after 2000 that treat a disease first described before 1950 (temporal join).
+C03,complex,select,1,1,216,216,yes,1,1,4.26,3.15,Provenance: holons attributed to the AI agent.
+C04,complex,select,1,1,5,5,yes,2,2,54.06,51.7,Five most-cited sources (by number of citing holons).
+C05,complex,select,1,1,30,30,yes,8,8,11.92,11.59,High-confidence (>0.9) treats-assertions whose source is a meta-analysis or RCT.
+C06,complex,select,1,1,7,7,yes,3,3,18.49,18.15,Mean assertion confidence per evidence level.
+C07,complex,select,1,1,204,204,yes,4,4,9.71,9.89,Assertions whose recording date is at/after the cited source's publication date (temporal consistency witness).
+C08,complex,select,1,1,5,5,yes,5,5,240.49,25.65,Drug treating the most distinct diseases (with high-confidence evidence).
+C09,complex,select,1,1,216,216,yes,1,1,6.11,6.82,Holons generated after 2024 (provenance dateTime).
+C10,complex,select,1,1,1,1,yes,3,3,7.81,8.47,Evidence assertions citing a source published before 2015 (legacy evidence).
+H01,hard,select,1,0,15,0,,2,0,4.94,0.0,Predicates asserted in the interior layer of a specific holon.
+H02,hard,select,1,0,4,0,,2,0,5.49,0.0,All triples in the projection layer of a specific holon.
+H03,hard,select,1,0,4,0,,2,0,433.06,0.0,Triple count per layer for a specific holon.
+H04,hard,select,1,0,1,0,,1,0,5.13,0.0,Which named graph (layer) asserts the questionText of a holon? (provenance-by-graph)
+H05,hard,select,1,0,204,0,,2,0,10.06,0.0,Holons whose interior graph contains more than 8 triples.
+H06,hard,select,1,0,4,0,,2,0,45911.51,0.0,Total triple count grouped by layer across the whole corpus.
+H07,hard,select,1,0,1,0,,3,0,5.28,0.0,Boundary-layer entry events reached via the holon's boundary graph.
+H08,hard,select,1,0,1,0,,4,0,6.69,0.0,Subjects that appear in BOTH the interior and context layers of a holon (cross-layer join).
+H09,hard,select,1,0,4,0,,5,0,11.36,0.0,The four layer-graph IRIs of a holon and the size of each.
+H10,hard,select,1,0,15,0,,3,0,8.8,0.0,Holons whose projection-layer summary confidence is below 0.5 (graph-scoped read).

@@ -1,0 +1,11 @@
+{
+  "text": "```turtle\n@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\noegen:node_167877488967889 a holon:ClinicalQuestionHolon ;\n    holon:hasBoundaryGraph \"true\"^^xsd:boolean ;\n    holon:hasContextGraph \"true\"^^xsd:boolean ;\n    holon:hasInteriorGraph \"true\"^^xsd:boolean ;\n    holon:hasProjectionGraph \"true\"^^xsd:boolean ;\n    oe:answerText \"effective\"^^xsd:string ;\n    oe:questionText \"Efficacy of adalimumab for ankylosing spondylitis\"^^xsd:string ;\n    oe:belongsToSpecialty \"Rheumatology\" .\n\n<https://example.org/openevidence/drugs/adalimumab> oe:treats <https://example.org/openevidence/diseases/ankylosing_spondylitis> .\n```",
+  "provider": "ollama",
+  "model": "gemma3:4b",
+  "prompt_tokens": 842,
+  "completion_tokens": 364,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1206
+}

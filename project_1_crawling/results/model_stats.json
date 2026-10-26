@@ -1,0 +1,15 @@
+{
+  "model_a": {
+    "triples": 14573,
+    "named_graphs": 866,
+    "reified_assertions": 204,
+    "cross_relations": 152
+  },
+  "model_b": {
+    "triples": 13505,
+    "named_graphs": 0,
+    "reified_assertions": 204,
+    "cross_relations": 152
+  },
+  "reification_ratio": 0.573
+}

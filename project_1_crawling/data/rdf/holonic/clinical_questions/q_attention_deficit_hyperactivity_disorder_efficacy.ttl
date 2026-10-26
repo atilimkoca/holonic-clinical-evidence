@@ -1,0 +1,38 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_attention_deficit_hyperactivity_disorder_efficacy a holon:EntityEntry ;
+    holon:entity oed:attention_deficit_hyperactivity_disorder ;
+    holon:entryMode "topic-match" .
+
+oeq:q_attention_deficit_hyperactivity_disorder_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is available therapies compared with other agents for Attention Deficit Hype"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.59 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_attention_deficit_hyperactivity_disorder_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_attention_deficit_hyperactivity_disorder_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_attention_deficit_hyperactivity_disorder_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_attention_deficit_hyperactivity_disorder_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Attention Deficit Hyperactivity Disorder."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_attention_deficit_hyperactivity_disorder_safety ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.96 ;
+    oe:aboutDisease oed:attention_deficit_hyperactivity_disorder ;
+    oe:answerText "Concerns about the cardiovascular safety of medications used for the treatment of attention-deficit hyperactivity disorder (ADHD) remain. We aimed to compare the effects of pharmacological treatments for ADHD on haemodynamic values and electrocardiogram (ECG) parameters in children, adolescents, and adults."^^xsd:string ;
+    oe:belongsToSpecialty "Psychiatry" ;
+    oe:cites oesrc:39096466,
+        oesrc:39132746,
+        oesrc:39773705,
+        oesrc:40203844 ;
+    oe:questionText "How effective is available therapies compared with other agents for Attention Deficit Hyperactivity Disorder?"^^xsd:string .
+

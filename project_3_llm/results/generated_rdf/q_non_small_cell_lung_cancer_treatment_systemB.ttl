@@ -1,0 +1,33 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_non_small_cell_lung_cancer_treatment> a holon:ClinicalQuestionHolon ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Non-Small Cell Lung Cancer?"^^xsd:string ;
+    oe:answerText "Although immunotherapy has revolutionized cancer treatment, many patients still experience limited benefit, highlighting the urgent need for improved biomarkers."^^xsd:string ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_non_small_cell_lung_cancer_treatment-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_non_small_cell_lung_cancer_treatment-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_non_small_cell_lung_cancer_treatment-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_non_small_cell_lung_cancer_treatment-con> .
+
+<https://example.org/openevidence/drugs/pembrolizumab> oe:treats <https://example.org/openevidence/diseases/non_small_cell_lung_cancer> .
+<https://example.org/openevidence/generated/ev_q_non_small_cell_lung_cancer_treatment_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_non_small_cell_lung_cancer_treatment_0-tt> ;
+    holon:confidence "0.69"^^xsd:decimal ;
+    holon:evidenceLevel "Level-2B" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/41851467> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_non_small_cell_lung_cancer_treatment> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_non_small_cell_lung_cancer_treatment_0-tt> rdf:subject <https://example.org/openevidence/drugs/pembrolizumab> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/non_small_cell_lung_cancer> .
+
+<https://example.org/openevidence/drugs/cisplatin> oe:treats <https://example.org/openevidence/diseases/colorectal_cancer> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/nephrotic_syndrome> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/tamoxifen> oe:treats <https://example.org/openevidence/diseases/breast_cancer> .   # ungrounded (naive)

@@ -1,0 +1,496 @@
+{
+  "disease": "Atrial Fibrillation",
+  "slug": "atrial_fibrillation",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41849741",
+      "title": "Left Atrial Appendage Closure or Medical Therapy in Atrial Fibrillation.",
+      "abstract": "Catheter-based closure of the left atrial appendage is an alternative to oral anticoagulation for stroke prevention in patients with atrial fibrillation. The effectiveness of this strategy, as compared with physician-directed best medical care, in patients at high risk for stroke and bleeding is unknown. In this multicenter randomized trial conducted in Germany, we assigned patients with atrial fibrillation and a high risk of stroke and bleeding to undergo left atrial appendage closure or to receive physician-directed best medical care (including direct oral anticoagulants, if eligible). The primary end point, tested for noninferiority, was a composite of stroke (ischemic or hemorrhagic), systemic embolism, major bleeding, or cardiovascular or unexplained death, assessed in a time-to-event analysis. The noninferiority margin was a hazard ratio of 1.3. A total of 912 adult patients underwent randomization. The primary end-point analysis included 446 patients who were assigned to undergo left atrial appendage closure (device group) and 442 who were assigned to physician-directed best medical care (medical-therapy group). The mean (\u00b1SD) age was 77.9\u00b17.1 years; 38.6% of the patients were women, the mean CHA Among patients with atrial fibrillation at high risk for stroke and bleeding, left atrial appendage closure was not noninferior to physician-directed best medical care with regard to a composite end point of stroke, systemic embolism, major bleeding, or cardiovascular or unexplained death. (Funded by the German Center for Cardiovascular Research; CLOSURE-AF ClinicalTrials.gov number, NCT03463317.).",
+      "pub_date": "2026-04-02",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Anticoagulants",
+        "Atrial Appendage",
+        "Atrial Fibrillation",
+        "Cardiovascular Diseases",
+        "Embolism",
+        "Hemorrhage",
+        "Kaplan-Meier Estimate",
+        "Left Atrial Appendage Closure",
+        "Septal Occluder Device",
+        "Stroke",
+        "Follow-Up Studies",
+        "Incidence",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Ulf Landmesser",
+        "Carsten Skurk",
+        "Paulus Kirchhof",
+        "Thorsten Lewalter",
+        "Johannes Hartung",
+        "Andi Rroku"
+      ]
+    },
+    {
+      "pmid": "40886309",
+      "title": "Long-Term Anticoagulation Discontinuation After Catheter Ablation for Atrial Fibrillation: The ALONE-AF Randomized Clinical Trial.",
+      "abstract": "Data from randomized clinical trials on a long-term anticoagulation strategy for patients after catheter-based ablation for atrial fibrillation (AF) are lacking. To evaluate whether discontinuing oral anticoagulant therapy provides superior clinical outcomes compared with continuing oral anticoagulant therapy in patients without documented atrial arrhythmia recurrence after catheter ablation for AF. A randomized clinical trial including 840 adult patients (aged 19-80 years) who were enrolled and randomized from July 28, 2020, to March 9, 2023, at 18 hospitals in South Korea. Enrolled patients had at least 1 non-sex-related stroke risk factor (determined using the CHA2DS2-VASc score [range, 0-9]) and no documented recurrence of atrial arrhythmia for at least 1 year after catheter ablation for AF. The CHA2DS2-VASc score is used as an assessment of stroke risk among patients with AF (calculated using point values for congestive heart failure, hypertension, \u226575 years of age, diabetes, stroke or transient ischemic attack, vascular disease, between 65 and 74 years of age, and sex category). The date of final follow-up was June 4, 2025. The patients were randomly assigned in a 1:1 ratio to discontinue oral anticoagulant therapy (n\u2009=\u2009417) or continue oral anticoagulant therapy (with direct oral anticoagulants; n\u2009=\u2009423). The primary outcome was the first occurrence of a composite of stroke, systemic embolism, and major bleeding at 2 years. Individual components of the primary outcome (such as ischemic stroke and major bleeding) were assessed as secondary outcomes. Of the 840 adults randomized, the mean age was 64 (SD, 8) years, 24.9% were women, the mean CHA2DS2-VASc score was 2.1 (SD, 1.0), and 67.6% had paroxysmal AF. At 2 years, the primary outcome occurred in 1 patient (0.3%) in the discontinue oral anticoagulant therapy group vs 8 patients (2.2%) in the continue oral anticoagulant therapy group (absolute difference, -1.9 percentage points [95% CI, -3.5 to -0.3]; P\u2009=\u2009.02). The 2-year cumulative incidence of ischemic stroke was 0.3% in the discontinue oral anticoagulant therapy group vs 0.8% in the continue oral anticoagulant therapy group (absolute difference, -0.5 percentage points [95% CI, -1.6 to 0.6]). Major bleeding occurred in 0 patients in the discontinue oral anticoagulant therapy group vs 5 patients (1.4%) in the continue oral anticoagulant therapy group (absolute difference, -1.4 percentage points [95% CI, -2.6 to -0.2]). Among patients without documented atrial arrhythmia recurrence after catheter ablation for AF, discontinuing oral anticoagulant therapy resulted in a lower risk for the composite outcome of stroke, systemic embolism, and major bleeding vs continuing direct oral anticoagulant therapy. ClinicalTrials.gov Identifier: NCT04432220.",
+      "pub_date": "2025-10-14",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "Administration, Oral",
+        "Anticoagulants",
+        "Atrial Fibrillation",
+        "Catheter Ablation",
+        "Hemorrhage",
+        "Postoperative Complications",
+        "Prospective Studies",
+        "Recurrence",
+        "Risk Factors",
+        "Stroke",
+        "Thromboembolism",
+        "Treatment Outcome",
+        "Withholding Treatment"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Daehoon Kim",
+        "Jaemin Shim",
+        "Eue-Keun Choi",
+        "Il-Young Oh",
+        "Jun Kim",
+        "Young Soo Lee"
+      ]
+    },
+    {
+      "pmid": "41211917",
+      "title": "Therapy for Atrial Fibrillation in Patients with Drug-Eluting Stents.",
+      "abstract": "Despite guideline recommendations, evidence for the use of non-vitamin K antagonist oral anticoagulant (NOAC) monotherapy in patients with atrial fibrillation after implantation of a drug-eluting stent remains limited. In this multicenter, randomized, open-label, noninferiority trial in South Korea, we assigned patients with atrial fibrillation who had undergone the implantation of a drug-eluting stent at least 1 year earlier in a 1:1 ratio to receive NOAC monotherapy or combination therapy (NOAC plus clopidogrel). The primary end point was net adverse clinical events, a composite of death from any cause, myocardial infarction, stent thrombosis, stroke, systemic embolism, or major bleeding or clinically relevant nonmajor bleeding at 12 months. The noninferiority margin was 3.0 percentage points. A total of 960 patients underwent randomization: 482 patients to receive monotherapy and 478 to receive combination therapy. The mean age of the patients was 71.1 years, and 21.4% were women. At 12 months, a primary end-point event had occurred in 46 patients (Kaplan-Meier estimate, 9.6%) in the monotherapy group and in 82 patients (Kaplan-Meier estimate, 17.2%) in the combination-therapy group, for an absolute difference of -7.6 percentage points (95.2% confidence interval [CI], -11.9 to -3.3; P<0.001 for noninferiority) and a hazard ratio of 0.54 (95.2% CI, 0.37 to 0.77; P<0.001 for superiority). Major bleeding or clinically relevant nonmajor bleeding occurred in 25 patients (5.2%) in the monotherapy group and in 63 patients (13.2%) in the combination-therapy group (hazard ratio, 0.38; 95% CI, 0.24 to 0.60). Among patients with atrial fibrillation who had undergone implantation of a drug-eluting stent at least 1 year earlier, NOAC monotherapy was noninferior to combination therapy for net adverse clinical events. (Funded by Cardiovascular Research Center and Samjin Pharmaceutical; ADAPT AF-DES ClinicalTrials.gov number, NCT04250116.).",
+      "pub_date": "2026-02-12",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Equivalence Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Administration, Oral",
+        "Anticoagulants",
+        "Atrial Fibrillation",
+        "Clopidogrel",
+        "Drug Therapy, Combination",
+        "Drug-Eluting Stents",
+        "Hemorrhage",
+        "Kaplan-Meier Estimate",
+        "Percutaneous Coronary Intervention",
+        "Platelet Aggregation Inhibitors",
+        "Republic of Korea",
+        "Thrombosis",
+        "Ischemic Stroke",
+        "Follow-Up Studies",
+        "Treatment Outcome",
+        "Factor Xa Inhibitors"
+      ],
+      "chemicals": [
+        "Anticoagulants",
+        "Clopidogrel",
+        "Platelet Aggregation Inhibitors",
+        "Factor Xa Inhibitors"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Seung-Jun Lee",
+        "Hee Tae Yu",
+        "Yong-Joon Lee",
+        "Sang-Hyup Lee",
+        "Jung Ho Heo",
+        "Sung Gyun Ahn"
+      ]
+    },
+    {
+      "pmid": "41051787",
+      "title": "Optimal Antithrombotics for Ischemic Stroke and Concurrent Atrial Fibrillation and Atherosclerosis: A Randomized Clinical Trial.",
+      "abstract": "Patients with ischemic stroke and concurrent nonvalvular atrial fibrillation and atherosclerotic cardiovascular disease are at an elevated risk of recurrent ischemic events. Although combined anticoagulant and antiplatelet therapy may reduce ischemic risk, it also increases bleeding, and the optimal antithrombotic strategy remains uncertain. To determine whether adding an antiplatelet agent to anticoagulant therapy influences the net clinical benefit in patients with ischemic stroke or transient ischemic attack and concurrent nonvalvular atrial fibrillation and atherosclerotic cardiovascular disease. This multicenter, open-label randomized clinical trial was conducted at 41 sites across Japan from November 2016 to March 2025. Eligible patients had an ischemic stroke or transient ischemic attack within 8 to 360 days of onset, nonvalvular atrial fibrillation, and at least 1 manifestation of atherosclerotic cardiovascular disease (carotid or intracranial artery stenosis, noncardioembolic stroke, ischemic heart disease, or peripheral artery disease). Data were analyzed from April 16, 2024, to October 14, 2024. Patients were randomized to receive combination therapy (anticoagulant plus antiplatelet) or anticoagulant monotherapy. The primary outcome was a composite of ischemic cardiovascular events and major bleeding within 2 years. Secondary outcomes included ischemic cardiovascular events; safety outcomes included major and clinically relevant nonmajor bleeding. In total, 316 patients were randomized to combination therapy (n\u2009=\u2009159) or monotherapy (n\u2009=\u2009157) (mean [SD] age, 77.2 [7.4] years; 90 female patients [28.5%]). The trial was terminated on July 18, 2023, after an interim analysis for futility. The cumulative incidence of the primary outcome was 17.8% in the combination therapy group and 19.6% in the monotherapy group (hazard ratio [HR], 0.91; 95% CI, 0.53-1.55; P\u2009=\u2009.64). Ischemic cardiovascular events occurred in 11.1% and 14.2% (HR, 0.76; 95% CI, 0.39-1.48; P\u2009=\u2009.41), and major and clinically relevant nonmajor bleeding occurred in 19.5% and 8.6% (HR, 2.42; 95% CI, 1.23-4.76; P\u2009=\u2009.008) of combination therapy and monotherapy groups, respectively. In this randomized clinical trial, in patients with ischemic stroke or transient ischemic attack and concurrent nonvalvular atrial fibrillation and atherosclerotic cardiovascular disease, adding an antiplatelet agent to anticoagulant therapy provided no net clinical benefit over anticoagulant monotherapy, with higher bleeding risk. ClinicalTrials.gov Identifier: NCT03062319.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Anticoagulants",
+        "Atherosclerosis",
+        "Atrial Fibrillation",
+        "Drug Therapy, Combination",
+        "Fibrinolytic Agents",
+        "Hemorrhage",
+        "Ischemic Attack, Transient",
+        "Ischemic Stroke",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "chemicals": [
+        "Anticoagulants",
+        "Fibrinolytic Agents",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "journal": "JAMA neurology",
+      "authors": [
+        "Shuhei Okazaki",
+        "Kanta Tanaka",
+        "Yukako Yazawa",
+        "Ryosuke Doijiri",
+        "Masatoshi Koga",
+        "Masafumi Ihara"
+      ]
+    },
+    {
+      "pmid": "41211931",
+      "title": "Antithrombotic Therapy after Successful Catheter Ablation for Atrial Fibrillation.",
+      "abstract": "Whether successful catheter ablation for atrial fibrillation eliminates the need for long-term oral anticoagulant therapy is unknown. We conducted an international, open-label, randomized, blinded-outcome-assessment trial involving 1284 patients who had undergone successful catheter ablation for atrial fibrillation at least 1 year earlier and had a CHA A total of 641 patients were assigned to the rivaroxaban group and 643 to the aspirin group. A primary-outcome event occurred in 5 patients (0.31 events per 100 patient-years) in the rivaroxaban group and in 9 patients (0.66 events per 100 patient-years) in the aspirin group (relative risk, 0.56; 95% confidence interval [CI], 0.19 to 1.65; absolute risk difference at 3 years, -0.6 percentage points; 95% CI, -1.8 to 0.5; P\u2009=\u20090.28). New cerebral infarcts measuring less than 15 mm occurred in 22 of 568 patients (3.9%) in the rivaroxaban group and in 26 of 590 patients (4.4%) in the aspirin group (relative risk, 0.89; 95% CI, 0.51 to 1.55). Fatal or major bleeding (the composite primary safety outcome) had occurred in 10 patients (1.6%) with rivaroxaban and in 4 patients (0.6%) with aspirin (hazard ratio, 2.51; 95% CI, 0.79 to 7.95) at 3 years. Among patients who had had successful catheter ablation for atrial fibrillation at least 1 year earlier and had risk factors for stroke, treatment with rivaroxaban did not result in a significantly lower incidence of a composite of stroke, systemic embolism, or new covert embolic stroke than treatment with aspirin. (Funded by Bayer and others; OCEAN ClinicalTrials.gov number, NCT02168829.).",
+      "pub_date": "2026-01-22",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Administration, Oral",
+        "Aspirin",
+        "Atrial Fibrillation",
+        "Brain",
+        "Catheter Ablation",
+        "Embolism",
+        "Factor Xa Inhibitors",
+        "Fibrinolytic Agents",
+        "Follow-Up Studies",
+        "Hemorrhage",
+        "Incidence",
+        "Kaplan-Meier Estimate",
+        "Magnetic Resonance Imaging",
+        "Rivaroxaban",
+        "Stroke",
+        "Treatment Outcome",
+        "Prospective Studies"
+      ],
+      "chemicals": [
+        "Aspirin",
+        "Factor Xa Inhibitors",
+        "Fibrinolytic Agents",
+        "Rivaroxaban"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Atul Verma",
+        "David H Birnie",
+        "Chenyang Jiang",
+        "Hein Heidb\u00fcchel",
+        "Gerhard Hindricks",
+        "Paulus Kirchhof"
+      ]
+    },
+    {
+      "pmid": "40570866",
+      "title": "Collaboration on the optimal timing of anticoagulation after ischaemic stroke and atrial fibrillation: a systematic review and prospective individual participant data meta-analysis of randomised controlled trials (CATALYST).",
+      "abstract": "The optimal timing of oral anticoagulation for prevention of early ischaemic stroke recurrence in people with acute ischaemic stroke and atrial fibrillation remains uncertain. We aimed to estimate the effects of starting a direct oral anticoagulant (DOAC) early (\u22644 days) versus later (\u22655 days) after onset of ischaemic stroke. For this systematic review and meta-analysis we searched the electronic databases PubMed, Cochrane Central Register of Controlled Trials, and Embase for randomised controlled trials published from inception until March 16, 2025. We included clinical trials if they were pre-registered, randomised, investigated clinical outcomes, and included participants with acute ischaemic stroke and atrial fibrillation who were assigned to either early or later initiation (\u22644 days vs \u22655 days) of a DOAC in approved doses. The primary outcome was a composite of recurrent ischaemic stroke, symptomatic intracerebral haemorrhage, or unclassified stroke within 30 days of randomisation. Secondary outcomes included components of the primary composite within 30 days and 90 days. We did a one-stage individual patient data meta-analysis with the use of a generalised linear mixed-effects model, accounting for between-trial differences, to generate treatment effects, which are presented as odds ratios (ORs) and 95% CIs. This study is registered with PROSPERO, CRD42024522634. We identified four eligible trials: TIMING (NCT02961348), ELAN (NCT03148457), OPTIMAS (NCT03759938), and START (NCT03021928). After excluding participants who opted out of data sharing or were not randomly assigned to DOAC initiation within 4 days or at day 5 or later, we included 5441 participants (mean age 77\u00b77 years [SD 10\u00b70], 2472 [45\u00b74%] women, median National Institutes of Health Stroke Scale 5 [IQR 3-10]) in the individual patient data meta-analysis. We obtained primary outcome data for 5429 participants. The primary outcome occurred in 57 (2\u00b71%) of 2683 participants who started DOAC early versus 83 (3\u00b70%) of 2746 participants who started later (OR 0\u00b770, 95% CI 0\u00b750-0\u00b798, p=0\u00b7039). Early DOAC reduced the risk of recurrent ischaemic stroke (45 [1\u00b77%] of 2683 vs 70 [2\u00b76%] of 2746, OR 0\u00b766, 0\u00b745-0\u00b796, p=0\u00b7029). There was no evidence of an increase in symptomatic intracerebral haemorrhage with early DOAC initiation (10 [0\u00b74%] of 2683 vs 10 [0\u00b74%] of 2746, OR 1\u00b702, 0\u00b743-2\u00b746, p=0\u00b796). For people with acute ischaemic stroke and atrial fibrillation, early DOAC initiation (within 4 days) reduced the risk of the composite outcome of recurrent ischaemic stroke, symptomatic intracerebral haemorrhage, or unclassified stroke within 30 days. These findings support early DOAC initiation in clinical practice. The CATALYST collaboration was facilitated by a British Heart Foundation grant for OPTIMAS (grant reference number CS/17/6/33361), with support from researchers at the National Institute for Health and Care Research University College London Hospitals Biomedical Research Centre, and a Swiss National Science Foundation grant for ELAN (32003B_197009; 32003B_169975).",
+      "pub_date": "2025-07-05",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Atrial Fibrillation",
+        "Anticoagulants",
+        "Ischemic Stroke",
+        "Randomized Controlled Trials as Topic",
+        "Recurrence",
+        "Aged",
+        "Male",
+        "Time Factors",
+        "Female",
+        "Secondary Prevention",
+        "Administration, Oral",
+        "Stroke",
+        "Prospective Studies",
+        "Time-to-Treatment"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Hakim-Moulay Dehbi",
+        "Urs Fischer",
+        "Signild \u00c5sberg",
+        "Truman J Milling",
+        "Stefanie Abend",
+        "Norin Ahmed"
+      ]
+    },
+    {
+      "pmid": "40830055",
+      "title": "Withdrawal of heart failure therapy after atrial fibrillation rhythm control with ejection fraction normalization: the WITHDRAW-AF trial.",
+      "abstract": "Atrial fibrillation-mediated cardiomyopathy (AFCM) represents an important reversible cause of left ventricular systolic dysfunction. Current clinical practice is indefinite heart failure (HF) pharmacotherapy despite left ventricular ejection fraction (LVEF) normalization. However, whether this is necessary to maintain normal LVEF, in addition to rhythm control, is uncertain. This multi-centre, randomized trial conducted between 2021 and 2024 examined the impact of staged withdrawal of HF therapy following AF rhythm control and LVEF normalization in AFCM. Participants were randomized (1:1) to early withdrawal (Group A) or continued therapy for 6\u2005months followed by delayed withdrawal (Group B), in a crossover design. The primary endpoint was the randomized comparison of cardiac magnetic resonance (CMR) LVEF maintenance \u226550% at 6\u2005months, during which time Group A had withdrawn therapy and Group B remained on treatment. Secondary outcomes included cardiac remodelling, functional status, biomarkers, quality of life, and arrhythmia recurrence on vs off HF therapy. The total follow-up duration was 12\u2005months. Between July 2021 and May 2024, 60 patients were enrolled (age 60 [55-65] years, previous persistent AF <1\u2005year and maintaining sinus rhythm for minimum 6\u2005months following AF rhythm control [catheter ablation in 97%]). All participants completed treatment withdrawal and 12-month follow-up. In the initial randomized comparison, LVEF was maintained \u226550% at 6\u2005months in 90% of participants undergoing HF therapy withdrawal (Group A), compared with 100% who continued medical therapy (Group B) (odds ratio [OR] 1.18, 95% confidence interval [CI] 0.27-2.82, P = .47). CMR LVEF was similar between randomization groups at the end of the randomization phase (Group A: LVEF 58% [95% CI 54-60] vs Group B: LVEF 59% [95% CI 55-64], P = .236) and across study time points (mixed effects P = .37). Transthoracic echocardiography characteristics, N-terminal pro-B-type natriuretic peptide, functional status, quality of life and AF burden were similar on vs off HF therapy in the overall population. Withdrawal of HF therapy following AF rhythm control for prior AFCM and recovered LVEF was not associated with a decline in LVEF for most patients in the following 6\u2005months.",
+      "pub_date": "2026-01-07",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Atrial Fibrillation",
+        "Male",
+        "Female",
+        "Heart Failure",
+        "Stroke Volume",
+        "Middle Aged",
+        "Aged",
+        "Withholding Treatment",
+        "Quality of Life",
+        "Cross-Over Studies",
+        "Anti-Arrhythmia Agents",
+        "Ventricular Dysfunction, Left"
+      ],
+      "chemicals": [
+        "Anti-Arrhythmia Agents"
+      ],
+      "journal": "European heart journal",
+      "authors": [
+        "Louise Segan",
+        "Peter M Kistler",
+        "Shane Nanayakkara",
+        "Andrew Taylor",
+        "James Hare",
+        "Benedict Costello"
+      ]
+    },
+    {
+      "pmid": "40832786",
+      "title": "Subclinical hyperthyroidism.",
+      "abstract": "Subclinical hyperthyroidism is a clinical condition where thyroid-stimulating hormone (TSH) is below the normal range along with normal levels of circulating thyroid hormones. It is associated with cardiovascular complications such as atrial fibrillation, but the effects on other organ systems is less certain. There are areas of uncertainty in the management of this condition, which this review seeks to address by reviewing relevant literature from the last 18 months. Data on prevalence from recent meta-analyses are in line with previous studies. Individual TSH reference ranges are influenced by genetic factors, which suggests that current reference ranges may be leading to misdiagnosis. Further research has increased the strength of evidence for the association with atrial fibrillation. A meta-analysis has shown increased risk of osteoporosis and fractures. Data support an association between subclinical hyperthyroidism and dementia. A randomised controlled trial has recently been conducted to investigate the effect of treatment on atrial fibrillation incidence, in which post hoc-analysis showed normalisation of TSH decreased risk of atrial fibrillation. Degree of TSH suppression is an important element of clinical assessment. Subclinical hyperthyroidism is associated with atrial fibrillation, osteoporosis and dementia. Further research in this field is warranted.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hyperthyroidism",
+        "Thyrotropin",
+        "Atrial Fibrillation",
+        "Osteoporosis",
+        "Risk Factors",
+        "Prevalence"
+      ],
+      "chemicals": [
+        "Thyrotropin"
+      ],
+      "journal": "Current opinion in endocrinology, diabetes, and obesity",
+      "authors": [
+        "Alasdair Cooper",
+        "Prakash Abraham"
+      ]
+    },
+    {
+      "pmid": "40394992",
+      "title": "Residual Risk of Recurrent Stroke Despite Anticoagulation in Patients With Atrial Fibrillation: A Systematic Review and Meta-Analysis.",
+      "abstract": "Atrial fibrillation (AF) is a leading cause of stroke, and oral anticoagulants (OAC) reduce this risk. However, there are limited data on the residual risk of recurrent stroke in patients with AF. To determine the recurrent stroke risk in patients with AF by performing a systematic review and meta-analysis. Eligible studies were identified by searching Ovid MEDLINE and Embase from inception (Ovid: January 1946; Embase: January 1970) until January 2025. Eligible studies enrolled patients with prior ischemic stroke and AF, reported information on incidence of recurrent stroke, and had follow-up data for 1 or more years. Three reviewers independently screened abstracts and performed full-text reviews. Data extraction was performed by 2 reviewers and independently verified by a third. Incidence rates were pooled using random-effects meta-analysis. Analysis was repeated in patients whose qualifying event occurred despite OAC. Study quality was assessed using the Quality In Prognosis Studies tool. The primary outcome was recurrent ischemic stroke. The secondary outcomes were any recurrent stroke (ischemic stroke or intra-cerebral hemorrhage [ICH]) and ICH during follow-up. A total of 23 studies were identified, which included 78\u202f733 patients and 140\u202f307 years of follow-up. The median proportion of OAC use across studies was 92%. The pooled incidence of recurrent ischemic stroke was 3.75% per year (95% CI, 3.17%-4.33%). The risk was higher in noninterventional observational cohorts (4.20% per year; 95% CI, 3.41%-4.99%) compared with randomized clinical trials (2.26% per year; 95% CI, 1.96%-2.57%) (P value for interaction <.001). The risk of any recurrent stroke was 4.88% per year (95% CI, 3.87%-5.90%), and the risk of ICH was 0.58% per year (95% CI, 0.43%-0.73%). In patients with stroke despite OAC, the risk was 7.20% per year (95% CI, 5.05%-9.34%) for ischemic stroke, 8.96% per year (95% CI, 8.25%-9.67%) for any stroke, and 1.40% per year (95% CI, 0.40%-2.40%) for ICH. In this systematic review and meta-analysis, even with modern prevention therapy, the residual recurrence risk after AF-related stroke is high, with an estimated 1 in 6 patients experiencing a recurrent ischemic stroke at 5 years. These data demonstrate an urgent need to improve our understanding of the biological processes responsible for recurrence, improve risk stratification, and develop new secondary prevention strategies after AF-related stroke.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Atrial Fibrillation",
+        "Anticoagulants",
+        "Recurrence",
+        "Stroke",
+        "Ischemic Stroke"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "JAMA neurology",
+      "authors": [
+        "John J McCabe",
+        "Yuen Cheung",
+        "Marianne Foley",
+        "Stephen O Brennan",
+        "Jane Buckley",
+        "Pol Camps Renom"
+      ]
+    },
+    {
+      "pmid": "40505158",
+      "title": "Efficacy and Safety of Finerenone in Heart Failure With Preserved Ejection Fraction: A FINE-HEART Analysis.",
+      "abstract": "Pooling data from participants with heart failure with mildly reduced ejection fraction (HFmrEF) or heart failure with preserved ejection fraction (HFpEF) from all completed outcomes trials evaluating finerenone to date may enhance understanding of its safety and efficacy in this high-risk and heterogeneous population. In this prespecified participant-level pooled analysis of the FIDELIO-DKD, FIGARO-DKD, and FINEARTS-HF trials (FINE-HEART), we evaluated the safety and efficacy of finerenone in individuals with HFmrEF/HFpEF. The treatment effects of finerenone vs placebo on cardiovascular death or heart failure hospitalization were evaluated using Cox proportional hazards regression models stratified by trial. Additional endpoints included cardiovascular death, HF hospitalization, new-onset atrial fibrillation, and all-cause death. Among 18,991 pooled trial participants, 7,008 (36.9%) had HFmrEF/HFpEF (mean age, 71 \u00b1 10 years; 44% female). Over a median follow-up of 2.5 years, finerenone reduced cardiovascular death or heart failure hospitalization compared with placebo (HR: 0.87 [95% CI: 0.78-0.96]; P = 0.008). Consistent effects were observed across trials (P This participant-level pooled analysis of 3 large-scale outcomes trials supports the use of finerenone in individuals with HFmrEF/HFpEF across a broad range of cardiovascular-kidney-metabolic risk. (FINE-HEART: An Integrated Pooled Analysis of Finerenone across 3 Phase III Trials of Heart Failure and Chronic Kidney Disease and Type 2 Diabetes; CRD42024570467).",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Heart Failure",
+        "Stroke Volume",
+        "Female",
+        "Aged",
+        "Male",
+        "Hospitalization",
+        "Anisoles",
+        "Mineralocorticoid Receptor Antagonists",
+        "Atrial Fibrillation",
+        "Treatment Outcome",
+        "Middle Aged",
+        "Cause of Death",
+        "Naphthyridines"
+      ],
+      "chemicals": [
+        "finerenone",
+        "Anisoles",
+        "Mineralocorticoid Receptor Antagonists",
+        "Naphthyridines"
+      ],
+      "journal": "JACC. Heart failure",
+      "authors": [
+        "John W Ostrominski",
+        "Gerasimos Filippatos",
+        "Brian L Claggett",
+        "Zi Michael Miao",
+        "Akshay S Desai",
+        "Pardeep S Jhund"
+      ]
+    },
+    {
+      "pmid": "40878848",
+      "title": "Remote Screening for Asymptomatic Atrial Fibrillation: The AMALFI Randomized Clinical Trial.",
+      "abstract": "Screening for atrial fibrillation (AF) might reduce stroke if it increases long-term AF detection and anticoagulation use compared with usual care. To investigate the long-term efficacy of AF screening in older individuals at moderate to high risk of stroke using 14-day, patch-based continuous ambulatory electrocardiogram (ECG) monitoring. A parallel-group, unblinded, remote randomized clinical trial recruiting from 27 UK primary care practices from May 2, 2019, to February 28, 2022. All eligible individuals 65 years or older with a CHA2DS2VASc score of 3 or higher (men) or 4 or higher (women) with no previous AF or atrial flutter were identified via automated electronic health record searches. Last follow-up was on August 29, 2024, and statistical analysis was conducted from May to July 2025. Participants were randomized to receive and return an ECG patch monitor by postal mail (intervention, n\u2009=\u20092520) or usual care (control, n\u2009=\u20092520). Intention-to-treat analysis of the proportion of participants with AF recorded in primary care records within 2.5 years postrandomization. Exploratory outcomes included exposure to oral anticoagulation and stroke. Of the 22\u202f044 individuals invited, 5040 (22.9%) were randomized. The participants' mean (SD) age was 78 (6) years, 47% were female, and the median (IQR) CHA2DS2VASc score was 4 (3-5). A total of 2126 participants (84.4%) wore and returned the patch. AF was detected by patch in 89 participants (4.2%), 55% of whom had an AF burden less than 10%. After 2.5 years, a postrandomization record of AF was present in 172 individuals (6.8%) in the intervention group vs 136 (5.4%) in the control group (ratio of proportions, 1.26 [95% CI, 1.02-1.57]; P\u2009=\u2009.03), with consistent results in prespecified subgroups. Mean exposure to oral anticoagulation by 2.5 years was 1.63 months (95% CI, 1.50-1.76) in the intervention group and 1.14 months (95% CI, 1.01-1.26) in the control group (difference, 0.50 months [95% CI, 0.24-0.75]; P\u2009<\u2009.001). Stroke occurred in 69 participants (2.7%) in the intervention group and 64 (2.5%) in the control group (rate ratio, 1.08 [95% CI, 0.76-1.53]). In this remote randomized clinical trial, mail-based AF screening with an ECG patch in older patients at moderate to high risk of stroke led to a modest long-term increase in AF diagnosis at 2.5 years. ISRCTN Identifier: 15544176.",
+      "pub_date": "2025-10-21",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Anticoagulants",
+        "Asymptomatic Diseases",
+        "Atrial Fibrillation",
+        "Electrocardiography, Ambulatory",
+        "Intention to Treat Analysis",
+        "Mass Screening",
+        "Primary Health Care",
+        "Stroke",
+        "Follow-Up Studies",
+        "Administration, Oral"
+      ],
+      "chemicals": [
+        "Anticoagulants"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Rohan Wijesurendra",
+        "Guilherme Pessoa-Amorim",
+        "Georgina Buck",
+        "Charlie Harper",
+        "Richard Bulbulia",
+        "Alison Offer"
+      ]
+    },
+    {
+      "pmid": "40769671",
+      "title": "Outcomes in Older Patients After Switching to a Newer Anticoagulant or Remaining on Warfarin: The COMBINE-AF Substudy.",
+      "abstract": "Whether frail, elderly patients with atrial fibrillation (AF) on a vitamin K antagonist (VKA) should switch to a direct-acting oral anticoagulant (DOAC) was studied in the FRAIL-AF trial and remains controversial. The purpose of this study was to evaluate, in the COMBINE-AF data set, the impact on clinical outcomes of switching frail, elderly AF patients from VKA to DOAC. COMBINE-AF consists of individual patient-level data from 71,683 patients with AF in 4 randomized clinical trials comparing DOAC vs warfarin. Frailty was evaluated using a frailty index derived from a modified Rockwood's Accumulation Model including 18 age-related conditions. Patients with a frailty index score above the median were considered frail. Prespecified outcomes were stroke or systemic embolic events, bleeding events, death, and a net clinical outcome combining these events. We identified 5,913 patients who were frail, elderly (age \u226575 years), and VKA-experienced and 52,721 patients who did not meet all 3 of these criteria. Patients were randomized to a standard-dose (SD) DOAC or warfarin. After 27 months median follow-up, there was no heterogeneity in treatment effect with SD-DOAC vs warfarin among those who met all 3 criteria vs those who did not for the endpoints of stroke or systemic embolic events (HR: 0.83 vs 0.81; P Frail, elderly, VKA-experienced patients with AF switched to SD-DOAC experienced significant reductions in stroke or systemic embolism, fatal and intracranial bleeding, and death. Gastrointestinal bleeding was increased with SD-DOAC, while major bleeding and the primary net clinical outcome were similar. Based on these findings, SD-DOAC is a reasonable choice for frail, elderly, VKA-experienced patients to reduce stroke and systemic embolism, death, and the most serious types of bleeding.",
+      "pub_date": "2025-08-12",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Aged",
+        "Atrial Fibrillation",
+        "Warfarin",
+        "Anticoagulants",
+        "Male",
+        "Female",
+        "Aged, 80 and over",
+        "Stroke",
+        "Treatment Outcome",
+        "Drug Substitution",
+        "Frail Elderly",
+        "Hemorrhage"
+      ],
+      "chemicals": [
+        "Warfarin",
+        "Anticoagulants"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Andre M Nicolau",
+        "Robert P Giugliano",
+        "Andre Zimerman",
+        "Jonathan Afilalo",
+        "Baris Gencer",
+        "Jan Steffel"
+      ]
+    }
+  ]
+}

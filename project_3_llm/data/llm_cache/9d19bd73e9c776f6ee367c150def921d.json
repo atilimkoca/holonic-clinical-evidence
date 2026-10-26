@@ -1,0 +1,11 @@
+{
+  "text": "```turtle\n@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_angina_pectoris_treatment> a holon:ClinicalQuestionHolon ;\n    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_angina_pectoris_treatment-bou> ;\n    holon:hasContextGraph <https://example.org/openevidence/questions/q_angina_pectoris_treatment-con> ;\n    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_angina_pectoris_treatment-int> ;\n    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_angina_pectoris_treatment-pro> ;\n    oe:answerText \"<text>\"^^xsd:string ;\n    oe:questionText \"<text>\"^^xsd:string ;\n    oe:belongsToSpecialty \"Cardiology\" .\n    \n<https://example.org/openevidence/drugs/metoprolol> oe:treats <https://example.org/openevidence/diseases/angina_pectoris> | confidence=0.93 | level=Level-1B | source=<https://example.org/openevidence/sources/31733140> | effectiveness=effective .\n```",
+  "provider": "ollama",
+  "model": "gemma3:4b",
+  "prompt_tokens": 1492,
+  "completion_tokens": 473,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1965
+}

@@ -1,0 +1,387 @@
+{
+  "disease": "Gout",
+  "slug": "gout",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40063960",
+      "title": "Gout.",
+      "abstract": "Gout is characterized by deposition of monosodium urate (MSU) crystals in or around joints, tendons, bursae, and other tissues, resulting in painful recurrent flares and tissue damage. Gout is the most common form of inflammatory arthritis, with a prevalence of 5.1% in the United States, affecting 12.1 million adults. When urate levels exceed the limit of solubility (6.8 mg/dL [400 \u03bcmol/L]), MSU crystals may form or grow. Gout flares are the result of inflammatory responses to MSU crystals. The primary method to prevent and reduce gout flares, tophi, chronic inflammatory arthritis, and joint damage is to reduce urate levels below the saturation threshold. The pathophysiology of gout is well understood, and inexpensive and effective therapies are available. However, outcomes for patients with gout remain poorly optimized.",
+      "pub_date": "2025-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gout",
+        "Uric Acid",
+        "Gout Suppressants"
+      ],
+      "chemicals": [
+        "Uric Acid",
+        "Gout Suppressants"
+      ],
+      "journal": "Annals of internal medicine",
+      "authors": [
+        "John D FitzGerald"
+      ]
+    },
+    {
+      "pmid": "40153315",
+      "title": "Gout: one year in review 2025.",
+      "abstract": "The incidence of gout has increased steadily over the last decades and its management is still unsatisfactory. Growing evidence highlights the multifactorial etiology of this disease encompassing genetic predisposition, environmental stimuli and gut dysbiosis. Recent advances in biomolecular and computer sciences allowed to gain more and more genetic, epigenetic, transcriptomic, proteomics and metabolomics insights into hyperuricaemia and gout-related molecular mechanisms. Moreover, the interplay between gout and cardiovascular, metabolic and renal diseases may potentially offer novel targets for anti-inflammatory and urate-lowering therapies.This annual review aims to provide the latest updates on gout research, epidemiology, genetics, molecular mechanisms, diagnostic approach, and therapeutic advances.",
+      "pub_date": "2025-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gout",
+        "Gout Suppressants",
+        "Risk Factors",
+        "Genetic Predisposition to Disease",
+        "Hyperuricemia",
+        "Incidence",
+        "Uric Acid"
+      ],
+      "chemicals": [
+        "Gout Suppressants",
+        "Uric Acid"
+      ],
+      "journal": "Clinical and experimental rheumatology",
+      "authors": [
+        "Leonardo Punzi",
+        "Laura Scagnellato",
+        "Paola Galozzi",
+        "Chiara Baggio",
+        "Amelia Damasco",
+        "Francesca Oliviero"
+      ]
+    },
+    {
+      "pmid": "39033815",
+      "title": "Controversies and practical management of patients with gout and chronic kidney disease.",
+      "abstract": "Uric acid is a toxin retained with advancing kidney disease. Clinical manifestations of hyperuricemia include gout and systemic inflammation that are associated with increased risk of cardiovascular mortality. As many as one-third of all patients with chronic kidney disease have a history of gout, yet\u00a0<25% of these patients are effectively treated to target serum urate levels of\u00a0\u22646 mg/dl. A major reason for ineffective management of gout and hyperuricemia is the complexity in managing these patients, with some medications contraindicated and others requiring special dosing, potential drug interactions, and other factors. Consequently, many nephrologists do not primarily manage gout despite it being a common complication of chronic kidney disease, leaving management to the primary physician or rheumatologist. We believe that kidney specialists should consider gout as a major complication of chronic kidney disease and actively manage it in their patients. Here, we present insights from nephrologists and rheumatologists for a team approach to gout management that includes the nephrologist.",
+      "pub_date": "2024-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Gout",
+        "Humans",
+        "Renal Insufficiency, Chronic",
+        "Uric Acid",
+        "Renal Dialysis",
+        "Kidney Transplantation"
+      ],
+      "chemicals": [
+        "Uric Acid"
+      ],
+      "journal": "Kidney international",
+      "authors": [
+        "Richard J Johnson",
+        "Brian F Mandell",
+        "Naomi Schlesinger",
+        "David B Mount",
+        "John K Botson",
+        "Abdul Ali Abdellatif"
+      ]
+    },
+    {
+      "pmid": "38306017",
+      "title": "Gout: one year in review 2023.",
+      "abstract": "Gout is a chronic joint disease caused by the deposition of monosodium urate crystals into and around the articular tissues. In the last two years, new insights regarding diagnosis, genetic involvement, pathogenesis, comorbidities, and clinical data, have allowed the identification of new strategies to improve the control of the disease and its flares. In keeping, the discover of new mechanisms concerning crystal-induced inflammation have suggested new ways for the management not only of gout, but also other systemic diseases, mainly including renal and cardiovascular disorders. In this context it is very representative the case of colchicine which, given the surprising results obtained both in laboratory and clinical experiments, has recently received by FDA the approval for the prevention of cardiovascular disorders.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Uric Acid",
+        "Gout",
+        "Gout Suppressants",
+        "Colchicine",
+        "Comorbidity"
+      ],
+      "chemicals": [
+        "Uric Acid",
+        "Gout Suppressants",
+        "Colchicine"
+      ],
+      "journal": "Clinical and experimental rheumatology",
+      "authors": [
+        "Leonardo Punzi",
+        "Paola Galozzi",
+        "Roberto Luisetto",
+        "Anna Scanu",
+        "Roberta Ramonda",
+        "Francesca Oliviero"
+      ]
+    },
+    {
+      "pmid": "40692263",
+      "title": "2024 Update of Chinese Guidelines for Diagnosis and Treatment of Hyperuricemia and Gout Part I: Recommendations for General Patients.",
+      "abstract": "In 2018, the Chinese Society of Endocrinology developed the \"Chinese guideline for diagnosis and treatment of hyperuricemia and gout (2019)\". Over the past 5\u2009years, clinical and experimental research has expanded our knowledge of gout, resulting in novel diagnostic and therapeutic approaches. This update, prompted by new clinical challenges and gaps in evidence, aims to refine the 2019 guidelines. The working group formulated clinical questions based on a nationwide questionnaire survey, and the expert panel evaluated new evidence addressing these questions from January 2019 to March 2025. The guideline development followed the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach, adhering to internationally recognized protocols for clinical practice guideline development. The update includes 26 recommendations addressing 10 clinical questions related to urate-lowering therapy (ULT) for asymptomatic hyperuricemia and reproductive populations, anti-inflammatory treatments, urine alkalinization, dietary advice, and gout diagnosis in patients without a record of hyperuricemia and gout flare predictions in patients with asymptomatic hyperuricemia and intermittent gout. It recommends febuxostat as a first-line ULT for asymptomatic hyperuricemia and using it with caution during pregnancy and lactation. ULT should be customized according to the pathophysiologic type of hyperuricemia. Chronic gout management includes maintaining serum urate levels between 180 and 300\u2009\u03bcmol/L and prolonged glucocorticoid tapering in combination with colchicine. Alkalinization with citrate is preferred over sodium bicarbonate for patients with urine pH <\u20096.0. Novel biomarkers for predicting gout flares are proposed for high-risk populations. These updated guidelines incorporate expert consensus and evidence to provide refined strategies for the diagnosis, prevention, and treatment of hyperuricemia and gout.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hyperuricemia",
+        "Gout",
+        "Gout Suppressants",
+        "China",
+        "Uric Acid",
+        "Consensus",
+        "Female",
+        "Biomarkers"
+      ],
+      "chemicals": [
+        "Gout Suppressants",
+        "Uric Acid",
+        "Biomarkers"
+      ],
+      "journal": "International journal of rheumatic diseases",
+      "authors": [
+        "Mingshu Sun",
+        "Zhaohui Lyu",
+        "Can Wang",
+        "Yan Li",
+        "Dongbao Zhao",
+        "Xingwu Ran"
+      ]
+    },
+    {
+      "pmid": "40322858",
+      "title": "Gout and NLRP3 Inflammasome Biology.",
+      "abstract": "This review describes the three broad stages of acute inflammation in the context of gout: initiation, leucocyte mobilization, and self-resolution. A typical case of a gout flare is presented. The role of the NLRP3 inflammasome in acute monosodium urate crystal-induced inflammation is reviewed in detail. Treatment strategies for gout are outlined in the context of the mechanisms of NLRP3 inflammasome-mediated acute inflammation.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gout",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Inflammasomes",
+        "Uric Acid",
+        "Inflammation"
+      ],
+      "chemicals": [
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Inflammasomes",
+        "NLRP3 protein, human",
+        "Uric Acid"
+      ],
+      "journal": "Arthritis & rheumatology (Hoboken, N.J.)",
+      "authors": [
+        "Raewyn Poulsen",
+        "Nicola Dalbeth"
+      ]
+    },
+    {
+      "pmid": "39409183",
+      "title": "Advances in Gouty Arthritis Management: Integration of Established Therapies, Emerging Treatments, and Lifestyle Interventions.",
+      "abstract": "Gouty arthritis, a prevalent inflammatory condition characterized by the deposition of monosodium urate crystals within joints, often results in debilitating pain and inflammation. Conventional therapeutic approaches, including nonsteroidal anti-inflammatory drugs, corticosteroids, and urate-lowering agents such as allopurinol and febuxostat, often have limitations such as adverse effects, drug interactions, and suboptimal patient compliance. This review presents a comprehensive overview of both established and emerging therapeutic strategies, developed between 2019 and 2024, for gouty arthritis; the review focuses on their mechanisms of action, efficacy, and safety profiles. Novel therapeutic approaches include pharmaceutical plant additives (e.g.,",
+      "pub_date": "2024-10-09",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Arthritis, Gouty",
+        "Life Style",
+        "Anti-Inflammatory Agents",
+        "Uric Acid",
+        "Complementary Therapies",
+        "Gout Suppressants",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents",
+        "Uric Acid",
+        "canakinumab",
+        "Gout Suppressants",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Ting-Kuo Yao",
+        "Ru-Ping Lee",
+        "Wen-Tien Wu",
+        "Ing-Ho Chen",
+        "Tzai-Chiu Yu",
+        "Kuang-Ting Yeh"
+      ]
+    },
+    {
+      "pmid": "38336273",
+      "title": "Early-onset gout.",
+      "abstract": "Early-onset gout (EOG) is characterized by the occurrence of the first symptoms of gout at an unusually young age, usually <40 years. The aim of this review is to provide an overview of the epidemiology, clinical presentation and prognosis, association with comorbidities and specific management of EOG. A particularly high proportion of patients with EOG come from ethnic groups with stronger genetic factors, such as populations in the Pacific and Taiwan, who therefore have the highest prevalence of gout overall. The clinical presentation and severity of gout are broadly similar between EOG and common gout, although a longer disease duration exacerbates the disease, which more often tends to become polyarticular. Patients suffering from EOG develop metabolic comorbidities commonly associated with gout earlier in life, although those tend to be less frequent at the time of diagnosis. Some international guidelines recommend early treatment of EOG patients with urate-lowering therapies.",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gout",
+        "Age of Onset",
+        "Gout Suppressants",
+        "Male",
+        "Female",
+        "Prognosis",
+        "Adult",
+        "Prevalence",
+        "Severity of Illness Index",
+        "Comorbidity",
+        "Risk Assessment",
+        "Uric Acid"
+      ],
+      "chemicals": [
+        "Gout Suppressants",
+        "Uric Acid"
+      ],
+      "journal": "Joint bone spine",
+      "authors": [
+        "Tristan Pascart",
+        "Vincent Ducoulombier",
+        "Charlotte Jauffret"
+      ]
+    },
+    {
+      "pmid": "39665289",
+      "title": "An update on the pharmacotherapy of gout.",
+      "abstract": "Gout is a common form of acute inflammatory arthritis caused by the deposition of monosodium urate crystals within synovium of joints. This leads to severe pain, reducing quality of life for patients with this condition. This review summarizes the treatment of both acute flares of gout and urate-lowering therapy based on guidance from various major international societies. We have also covered new emerging therapies that have not yet reached clinical practice. Standard pharmacotherapies for gout flares include the options of colchicine, NSAIDs and oral or intramuscular corticosteroids, with IL-1 inhibitors newly established as an option for flare refractory to standard therapies. Urate-lowering therapies aim to prevent gout flares, with an emphasis on treat-to-target strategy; the escalation of therapies until the target serum uric acid is reached. Initial treatments include allopurinol and febuxostat, with uricosuric agents, probenecid, sulfinpyrazone and benzbromarone, as adjuncts. There are also emerging therapies in development. However, there is increasing personalization of treatment, adjusting pharmacotherapy depending on comorbidities, such as chronic kidney disease and ischemic heart disease, as well as patient preference.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gout",
+        "Gout Suppressants",
+        "Uric Acid",
+        "Quality of Life",
+        "Uricosuric Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal"
+      ],
+      "chemicals": [
+        "Gout Suppressants",
+        "Uric Acid",
+        "Uricosuric Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal"
+      ],
+      "journal": "Expert opinion on pharmacotherapy",
+      "authors": [
+        "Jack Shi Jie Yuan",
+        "Anush Shashidhara",
+        "Aman Sutaria",
+        "Syed Haider Tahir",
+        "Hasan Tahir"
+      ]
+    },
+    {
+      "pmid": "40609855",
+      "title": "Gout Management in Patients With CKD: A Review.",
+      "abstract": "The management of gout in patients with chronic kidney disease (CKD) can be challenging due to multiple factors. These include limitations on the type or doses of medications used. Although limitations or exclusions of some treatment options are warranted, others that are traditionally followed, such as the doses used for urate-lowering therapies such as allopurinol or febuxostat, may lead to undertreatment of gout. In this review, guidelines from consensus groups are discussed with a focus on management of gout in patients with CKD and appropriate dose adjustments beyond traditional kidney-dosed limits. Studies in the literature with regard to risk factors for allopurinol hypersensitivity syndrome are reviewed, including HLAB\u22175801 allele testing. Additionally, current evidence that allows providers to optimize both the effectiveness and safety of gout management in the setting of CKD, such as the \"start-low-go-low\" approach, are reviewed as well as considerations for kidney transplant recipients. Although there is a potential role of sodium/glucose cotransporter 2 inhibitors in lowering serum urate, it is limited in CKD. Finally, the use of immunomodulators to improve outcomes for pegloticase, a pegylated form of uricase, shows promise for increasing the utility of pegloticase in cases where it is warranted.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gout",
+        "Renal Insufficiency, Chronic",
+        "Gout Suppressants",
+        "Allopurinol",
+        "Disease Management",
+        "Febuxostat"
+      ],
+      "chemicals": [
+        "Gout Suppressants",
+        "Allopurinol",
+        "Febuxostat"
+      ],
+      "journal": "American journal of kidney diseases : the official journal of the National Kidney Foundation",
+      "authors": [
+        "Rochella A Ostrowski"
+      ]
+    },
+    {
+      "pmid": "38621464",
+      "title": "Traditional herbal medicine: Therapeutic potential in acute gouty arthritis.",
+      "abstract": "Acute gouty arthritis (AGA) is characterized by a rapid inflammatory reaction caused by the build-up of monosodium urate (MSU) crystals in the tissues surrounding the joints. This condition often associated with hyperuricemia (HUA), is distinguished by its symptoms of intense pain, active inflammation, and swelling of the joints. Traditional approaches in AGA management often fall short of desired outcomes in clinical settings. However, recent ethnopharmacological investigations have been focusing on the potential of Traditional Herbal Medicine (THM) in various forms, exploring their therapeutic impact and targets in AGA treatment. This review briefly summarizes the current potential pharmacological mechanisms of THMs - including active ingredients, extracts, and prescriptions -in the treatment of AGA, and discusses the relevant potential mechanisms and molecular targets in depth. The objective of this study is to offer extensive information and a reference point for the exploration of targeted AGA treatment using THMs. This review obtained scientific publications focused on in vitro and in vivo studies of anti-AGA THMs conducted between 2013 and 2023. The literature was collected from various journals and electronic databases, including PubMed, Elsevier, ScienceDirect, Web of Science, and Google Scholar. The retrieval and analysis of relevant articles were guided by keywords such as \"acute gouty arthritis and Chinese herbal medicine,\" \"acute gouty arthritis herbal prescription,\" \"acute gouty arthritis and immune cells,\" \"acute gouty arthritis and inflammation,\" \"acute gouty arthritis and NOD-like receptor thermoprotein domain associated protein 3 (NLRP3),\" \"acute gouty arthritis and miRNA,\" and \"acute gouty arthritis and oxidative stress.\" We found that AGA has a large number of therapeutic targets, highlighting the effectiveness the potential of THMs in AGA treatment through in vitro and in vivo studies. THMs and their active ingredients can mitigate AGA symptoms through a variety of therapeutic targets, such as influencing macrophage polarization, neutrophils, T cells, natural killer (NK) cells, and addressing factors like inflammation, NLRP3 inflammasome, signaling pathways, oxidative stress, and miRNA multi-target interactions. The anti-AGA properties of THMs, including their active components and prescriptions, were systematically summarized and categorized based on their respective therapeutic targets. phenolic, flavonoid, terpenoid and alkaloid compounds in THMs are considered the key ingredients to improve AGA. THMs and their active ingredients achieve enhanced efficacy through interactions with multiple targets, of which NLRP3 is a main therapeutic target. Nonetheless, given the intricate composition of traditional Chinese medicine (TCM), additional research is required to unravel the underlying mechanisms and molecular targets through which THMs alleviate AGA.",
+      "pub_date": "2024-08-10",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Arthritis, Gouty",
+        "Humans",
+        "Animals",
+        "Medicine, Traditional",
+        "Phytotherapy",
+        "Anti-Inflammatory Agents",
+        "Acute Disease"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents"
+      ],
+      "journal": "Journal of ethnopharmacology",
+      "authors": [
+        "Siwei Wang",
+        "Wei Liu",
+        "Bowen Wei",
+        "Aihua Wang",
+        "Yiwen Wang",
+        "Wen Wang"
+      ]
+    },
+    {
+      "pmid": "38199714",
+      "title": "Hyperuricemia and Gout Reduction by\u00a0SGLT2 Inhibitors in Diabetes and Heart\u00a0Failure: JACC\u00a0Review Topic of the Week.",
+      "abstract": "Gout is characterized by increased production of purines (through the pentose phosphate pathway), which is coupled with reduced renal or intestinal excretion of urate. Concurrent upregulation of nutrient surplus signaling (mammalian target of rapamycin and hypoxia-inducible factor-1a) and downregulation of nutrient deprivation signaling (sirtuin-1 and adenosine monophosphate-activated protein kinase) redirects glucose toward anabolic pathways (rather than adenosine triphosphate production), thus promoting heightened oxidative stress and cardiomyocyte and proximal tubular dysfunction, leading to cardiomyopathy and kidney disease. Hyperuricemia is a marker (rather than a driver) of these cellular stresses. By inducing a state of starvation mimicry in a state of nutrient surplus, sodium-glucose cotransporter-2 inhibitors decrease flux through the pentose phosphate pathway (thereby attenuating purine and urate synthesis) while promoting renal urate excretion. These convergent actions exert a meaningful effect to lower serum uric acid by \u22480.6 to 1.5\u00a0mg/dL and to reduce the risk of gout by 30% to 50% in large-scale clinical trials.",
+      "pub_date": "2024-01-16",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hyperuricemia",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Uric Acid",
+        "Gout",
+        "Heart Failure",
+        "Diabetes Mellitus",
+        "Glucose"
+      ],
+      "chemicals": [
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Uric Acid",
+        "Glucose"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Milton Packer"
+      ]
+    }
+  ]
+}

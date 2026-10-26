@@ -1,0 +1,438 @@
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oespec: <https://example.org/openevidence/specialties/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oed:acute_kidney_injury a oe:Disease ;
+    rdfs:label "Acute Kidney Injury"@en ;
+    oe:firstDescribedDate "1973-06-26"^^xsd:date ;
+    oe:icdCode "N17"^^xsd:string ;
+    oe:inSpecialty oespec:Nephrology .
+
+oed:addison_disease a oe:Disease ;
+    rdfs:label "Addison Disease"@en ;
+    oe:firstDescribedDate "1974-02-05"^^xsd:date ;
+    oe:icdCode "E27.1"^^xsd:string ;
+    oe:inSpecialty oespec:Endocrinology .
+
+oed:alzheimer_disease a oe:Disease ;
+    rdfs:label "Alzheimer Disease"@en ;
+    oe:firstDescribedDate "1960-12-06"^^xsd:date ;
+    oe:icdCode "G30"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:angina_pectoris a oe:Disease ;
+    rdfs:label "Angina Pectoris"@en ;
+    oe:firstDescribedDate "1977-03-27"^^xsd:date ;
+    oe:icdCode "I20"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:ankylosing_spondylitis a oe:Disease ;
+    rdfs:label "Ankylosing Spondylitis"@en ;
+    oe:firstDescribedDate "1922-10-01"^^xsd:date ;
+    oe:icdCode "M45"^^xsd:string ;
+    oe:inSpecialty oespec:Rheumatology .
+
+oed:aortic_stenosis a oe:Disease ;
+    rdfs:label "Aortic Stenosis"@en ;
+    oe:firstDescribedDate "1916-12-19"^^xsd:date ;
+    oe:icdCode "I35.0"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:asthma a oe:Disease ;
+    rdfs:label "Asthma"@en ;
+    oe:firstDescribedDate "1911-03-01"^^xsd:date ;
+    oe:icdCode "J45"^^xsd:string ;
+    oe:inSpecialty oespec:Pulmonology .
+
+oed:atrial_fibrillation a oe:Disease ;
+    rdfs:label "Atrial Fibrillation"@en ;
+    oe:firstDescribedDate "1964-10-05"^^xsd:date ;
+    oe:icdCode "I48"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:attention_deficit_hyperactivity_disorder a oe:Disease ;
+    rdfs:label "Attention Deficit Hyperactivity Disorder"@en ;
+    oe:firstDescribedDate "1927-07-13"^^xsd:date ;
+    oe:icdCode "F90"^^xsd:string ;
+    oe:inSpecialty oespec:Psychiatry .
+
+oed:bipolar_disorder a oe:Disease ;
+    rdfs:label "Bipolar Disorder"@en ;
+    oe:firstDescribedDate "1959-11-19"^^xsd:date ;
+    oe:icdCode "F31"^^xsd:string ;
+    oe:inSpecialty oespec:Psychiatry .
+
+oed:breast_cancer a oe:Disease ;
+    rdfs:label "Breast Cancer"@en ;
+    oe:firstDescribedDate "1951-12-19"^^xsd:date ;
+    oe:icdCode "C50"^^xsd:string ;
+    oe:inSpecialty oespec:Oncology .
+
+oed:cardiomyopathy a oe:Disease ;
+    rdfs:label "Cardiomyopathy"@en ;
+    oe:firstDescribedDate "1915-04-18"^^xsd:date ;
+    oe:icdCode "I42"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:cellulitis a oe:Disease ;
+    rdfs:label "Cellulitis"@en ;
+    oe:firstDescribedDate "1970-05-10"^^xsd:date ;
+    oe:icdCode "L03"^^xsd:string ;
+    oe:inSpecialty oespec:InfectiousDisease .
+
+oed:chronic_kidney_disease a oe:Disease ;
+    rdfs:label "Chronic Kidney Disease"@en ;
+    oe:firstDescribedDate "1936-11-18"^^xsd:date ;
+    oe:icdCode "N18"^^xsd:string ;
+    oe:inSpecialty oespec:Nephrology .
+
+oed:chronic_myeloid_leukemia a oe:Disease ;
+    rdfs:label "Chronic Myeloid Leukemia"@en ;
+    oe:firstDescribedDate "1937-07-26"^^xsd:date ;
+    oe:icdCode "C92.1"^^xsd:string ;
+    oe:inSpecialty oespec:Oncology .
+
+oed:chronic_obstructive_pulmonary_disease a oe:Disease ;
+    rdfs:label "Chronic Obstructive Pulmonary Disease"@en ;
+    oe:firstDescribedDate "1965-09-26"^^xsd:date ;
+    oe:icdCode "J44"^^xsd:string ;
+    oe:inSpecialty oespec:Pulmonology .
+
+oed:cirrhosis a oe:Disease ;
+    rdfs:label "Cirrhosis"@en ;
+    oe:firstDescribedDate "1930-12-16"^^xsd:date ;
+    oe:icdCode "K74.6"^^xsd:string ;
+    oe:inSpecialty oespec:Gastroenterology .
+
+oed:colorectal_cancer a oe:Disease ;
+    rdfs:label "Colorectal Cancer"@en ;
+    oe:firstDescribedDate "1913-11-24"^^xsd:date ;
+    oe:icdCode "C18"^^xsd:string ;
+    oe:inSpecialty oespec:Oncology .
+
+oed:community_acquired_pneumonia a oe:Disease ;
+    rdfs:label "Community-Acquired Pneumonia"@en ;
+    oe:firstDescribedDate "1911-12-16"^^xsd:date ;
+    oe:icdCode "J18"^^xsd:string ;
+    oe:inSpecialty oespec:InfectiousDisease .
+
+oed:coronary_artery_disease a oe:Disease ;
+    rdfs:label "Coronary Artery Disease"@en ;
+    oe:firstDescribedDate "1939-06-10"^^xsd:date ;
+    oe:icdCode "I25.1"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:crohn_disease a oe:Disease ;
+    rdfs:label "Crohn Disease"@en ;
+    oe:firstDescribedDate "1911-12-04"^^xsd:date ;
+    oe:icdCode "K50"^^xsd:string ;
+    oe:inSpecialty oespec:Gastroenterology .
+
+oed:cushing_syndrome a oe:Disease ;
+    rdfs:label "Cushing Syndrome"@en ;
+    oe:firstDescribedDate "1952-02-15"^^xsd:date ;
+    oe:icdCode "E24"^^xsd:string ;
+    oe:inSpecialty oespec:Endocrinology .
+
+oed:deep_vein_thrombosis a oe:Disease ;
+    rdfs:label "Deep Vein Thrombosis"@en ;
+    oe:firstDescribedDate "1937-08-21"^^xsd:date ;
+    oe:icdCode "I82.4"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:diabetic_nephropathy a oe:Disease ;
+    rdfs:label "Diabetic Nephropathy"@en ;
+    oe:firstDescribedDate "1933-08-05"^^xsd:date ;
+    oe:icdCode "E11.21"^^xsd:string ;
+    oe:inSpecialty oespec:Nephrology .
+
+oed:epilepsy a oe:Disease ;
+    rdfs:label "Epilepsy"@en ;
+    oe:firstDescribedDate "1915-02-04"^^xsd:date ;
+    oe:icdCode "G40"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:gastroesophageal_reflux_disease a oe:Disease ;
+    rdfs:label "Gastroesophageal Reflux Disease"@en ;
+    oe:firstDescribedDate "1978-10-19"^^xsd:date ;
+    oe:icdCode "K21"^^xsd:string ;
+    oe:inSpecialty oespec:Gastroenterology .
+
+oed:generalized_anxiety_disorder a oe:Disease ;
+    rdfs:label "Generalized Anxiety Disorder"@en ;
+    oe:firstDescribedDate "1923-01-12"^^xsd:date ;
+    oe:icdCode "F41.1"^^xsd:string ;
+    oe:inSpecialty oespec:Psychiatry .
+
+oed:gout a oe:Disease ;
+    rdfs:label "Gout"@en ;
+    oe:firstDescribedDate "1926-05-04"^^xsd:date ;
+    oe:icdCode "M10"^^xsd:string ;
+    oe:inSpecialty oespec:Rheumatology .
+
+oed:heart_failure a oe:Disease ;
+    rdfs:label "Heart Failure"@en ;
+    oe:firstDescribedDate "1904-03-27"^^xsd:date ;
+    oe:icdCode "I50"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:helicobacter_pylori_infection a oe:Disease ;
+    rdfs:label "Helicobacter Pylori Infection"@en ;
+    oe:firstDescribedDate "1956-03-28"^^xsd:date ;
+    oe:icdCode "B96.81"^^xsd:string ;
+    oe:inSpecialty oespec:InfectiousDisease .
+
+oed:hepatitis_c a oe:Disease ;
+    rdfs:label "Hepatitis C"@en ;
+    oe:firstDescribedDate "1904-07-22"^^xsd:date ;
+    oe:icdCode "B18.2"^^xsd:string ;
+    oe:inSpecialty oespec:InfectiousDisease .
+
+oed:hiv_infection a oe:Disease ;
+    rdfs:label "HIV Infection"@en ;
+    oe:firstDescribedDate "1922-10-15"^^xsd:date ;
+    oe:icdCode "B20"^^xsd:string ;
+    oe:inSpecialty oespec:InfectiousDisease .
+
+oed:hyperlipidemia a oe:Disease ;
+    rdfs:label "Hyperlipidemia"@en ;
+    oe:firstDescribedDate "1956-05-19"^^xsd:date ;
+    oe:icdCode "E78.5"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:hypertension a oe:Disease ;
+    rdfs:label "Hypertension"@en ;
+    oe:firstDescribedDate "1974-05-24"^^xsd:date ;
+    oe:icdCode "I10"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:hyperthyroidism a oe:Disease ;
+    rdfs:label "Hyperthyroidism"@en ;
+    oe:firstDescribedDate "1965-08-24"^^xsd:date ;
+    oe:icdCode "E05"^^xsd:string ;
+    oe:inSpecialty oespec:Endocrinology .
+
+oed:hypothyroidism a oe:Disease ;
+    rdfs:label "Hypothyroidism"@en ;
+    oe:firstDescribedDate "1919-05-24"^^xsd:date ;
+    oe:icdCode "E03"^^xsd:string ;
+    oe:inSpecialty oespec:Endocrinology .
+
+oed:idiopathic_pulmonary_fibrosis a oe:Disease ;
+    rdfs:label "Idiopathic Pulmonary Fibrosis"@en ;
+    oe:firstDescribedDate "1913-10-26"^^xsd:date ;
+    oe:icdCode "J84.112"^^xsd:string ;
+    oe:inSpecialty oespec:Pulmonology .
+
+oed:influenza a oe:Disease ;
+    rdfs:label "Influenza"@en ;
+    oe:firstDescribedDate "1957-08-13"^^xsd:date ;
+    oe:icdCode "J11"^^xsd:string ;
+    oe:inSpecialty oespec:InfectiousDisease .
+
+oed:irritable_bowel_syndrome a oe:Disease ;
+    rdfs:label "Irritable Bowel Syndrome"@en ;
+    oe:firstDescribedDate "1932-12-08"^^xsd:date ;
+    oe:icdCode "K58"^^xsd:string ;
+    oe:inSpecialty oespec:Gastroenterology .
+
+oed:major_depressive_disorder a oe:Disease ;
+    rdfs:label "Major Depressive Disorder"@en ;
+    oe:firstDescribedDate "1948-11-27"^^xsd:date ;
+    oe:icdCode "F32"^^xsd:string ;
+    oe:inSpecialty oespec:Psychiatry .
+
+oed:migraine a oe:Disease ;
+    rdfs:label "Migraine"@en ;
+    oe:firstDescribedDate "1975-03-06"^^xsd:date ;
+    oe:icdCode "G43"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:multiple_sclerosis a oe:Disease ;
+    rdfs:label "Multiple Sclerosis"@en ;
+    oe:firstDescribedDate "1968-09-16"^^xsd:date ;
+    oe:icdCode "G35"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:myasthenia_gravis a oe:Disease ;
+    rdfs:label "Myasthenia Gravis"@en ;
+    oe:firstDescribedDate "1933-04-12"^^xsd:date ;
+    oe:icdCode "G70.0"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:nephrotic_syndrome a oe:Disease ;
+    rdfs:label "Nephrotic Syndrome"@en ;
+    oe:firstDescribedDate "1979-06-02"^^xsd:date ;
+    oe:icdCode "N04"^^xsd:string ;
+    oe:inSpecialty oespec:Nephrology .
+
+oed:neuropathic_pain a oe:Disease ;
+    rdfs:label "Neuropathic Pain"@en ;
+    oe:firstDescribedDate "1909-01-18"^^xsd:date ;
+    oe:icdCode "M79.2"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:non_hodgkin_lymphoma a oe:Disease ;
+    rdfs:label "Non-Hodgkin Lymphoma"@en ;
+    oe:firstDescribedDate "1935-12-07"^^xsd:date ;
+    oe:icdCode "C85"^^xsd:string ;
+    oe:inSpecialty oespec:Oncology .
+
+oed:non_small_cell_lung_cancer a oe:Disease ;
+    rdfs:label "Non-Small Cell Lung Cancer"@en ;
+    oe:firstDescribedDate "1933-01-02"^^xsd:date ;
+    oe:icdCode "C34"^^xsd:string ;
+    oe:inSpecialty oespec:Oncology .
+
+oed:obsessive_compulsive_disorder a oe:Disease ;
+    rdfs:label "Obsessive-Compulsive Disorder"@en ;
+    oe:firstDescribedDate "1928-12-11"^^xsd:date ;
+    oe:icdCode "F42"^^xsd:string ;
+    oe:inSpecialty oespec:Psychiatry .
+
+oed:obstructive_sleep_apnea a oe:Disease ;
+    rdfs:label "Obstructive Sleep Apnea"@en ;
+    oe:firstDescribedDate "1948-11-18"^^xsd:date ;
+    oe:icdCode "G47.33"^^xsd:string ;
+    oe:inSpecialty oespec:Pulmonology .
+
+oed:osteoarthritis a oe:Disease ;
+    rdfs:label "Osteoarthritis"@en ;
+    oe:firstDescribedDate "1936-11-07"^^xsd:date ;
+    oe:icdCode "M19"^^xsd:string ;
+    oe:inSpecialty oespec:Rheumatology .
+
+oed:osteoporosis a oe:Disease ;
+    rdfs:label "Osteoporosis"@en ;
+    oe:firstDescribedDate "1930-11-19"^^xsd:date ;
+    oe:icdCode "M81"^^xsd:string ;
+    oe:inSpecialty oespec:Endocrinology .
+
+oed:pancreatitis a oe:Disease ;
+    rdfs:label "Pancreatitis"@en ;
+    oe:firstDescribedDate "1900-05-14"^^xsd:date ;
+    oe:icdCode "K85"^^xsd:string ;
+    oe:inSpecialty oespec:Gastroenterology .
+
+oed:parkinson_disease a oe:Disease ;
+    rdfs:label "Parkinson Disease"@en ;
+    oe:firstDescribedDate "1937-10-23"^^xsd:date ;
+    oe:icdCode "G20"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:peptic_ulcer_disease a oe:Disease ;
+    rdfs:label "Peptic Ulcer Disease"@en ;
+    oe:firstDescribedDate "1956-03-25"^^xsd:date ;
+    oe:icdCode "K27"^^xsd:string ;
+    oe:inSpecialty oespec:Gastroenterology .
+
+oed:peripheral_artery_disease a oe:Disease ;
+    rdfs:label "Peripheral Artery Disease"@en ;
+    oe:firstDescribedDate "1943-05-25"^^xsd:date ;
+    oe:icdCode "I73.9"^^xsd:string ;
+    oe:inSpecialty oespec:Cardiology .
+
+oed:polycystic_ovary_syndrome a oe:Disease ;
+    rdfs:label "Polycystic Ovary Syndrome"@en ;
+    oe:firstDescribedDate "1962-02-04"^^xsd:date ;
+    oe:icdCode "E28.2"^^xsd:string ;
+    oe:inSpecialty oespec:Endocrinology .
+
+oed:post_traumatic_stress_disorder a oe:Disease ;
+    rdfs:label "Post-Traumatic Stress Disorder"@en ;
+    oe:firstDescribedDate "1926-04-15"^^xsd:date ;
+    oe:icdCode "F43.1"^^xsd:string ;
+    oe:inSpecialty oespec:Psychiatry .
+
+oed:prostate_cancer a oe:Disease ;
+    rdfs:label "Prostate Cancer"@en ;
+    oe:firstDescribedDate "1961-10-04"^^xsd:date ;
+    oe:icdCode "C61"^^xsd:string ;
+    oe:inSpecialty oespec:Oncology .
+
+oed:psoriatic_arthritis a oe:Disease ;
+    rdfs:label "Psoriatic Arthritis"@en ;
+    oe:firstDescribedDate "1906-09-18"^^xsd:date ;
+    oe:icdCode "L40.5"^^xsd:string ;
+    oe:inSpecialty oespec:Rheumatology .
+
+oed:pulmonary_embolism a oe:Disease ;
+    rdfs:label "Pulmonary Embolism"@en ;
+    oe:firstDescribedDate "1962-05-17"^^xsd:date ;
+    oe:icdCode "I26"^^xsd:string ;
+    oe:inSpecialty oespec:Pulmonology .
+
+oed:rheumatoid_arthritis a oe:Disease ;
+    rdfs:label "Rheumatoid Arthritis"@en ;
+    oe:firstDescribedDate "1908-09-14"^^xsd:date ;
+    oe:icdCode "M06"^^xsd:string ;
+    oe:inSpecialty oespec:Rheumatology .
+
+oed:schizophrenia a oe:Disease ;
+    rdfs:label "Schizophrenia"@en ;
+    oe:firstDescribedDate "1906-10-05"^^xsd:date ;
+    oe:icdCode "F20"^^xsd:string ;
+    oe:inSpecialty oespec:Psychiatry .
+
+oed:sepsis a oe:Disease ;
+    rdfs:label "Sepsis"@en ;
+    oe:firstDescribedDate "1900-01-16"^^xsd:date ;
+    oe:icdCode "A41.9"^^xsd:string ;
+    oe:inSpecialty oespec:InfectiousDisease .
+
+oed:status_epilepticus a oe:Disease ;
+    rdfs:label "Status Epilepticus"@en ;
+    oe:firstDescribedDate "1962-09-20"^^xsd:date ;
+    oe:icdCode "G41"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:stroke a oe:Disease ;
+    rdfs:label "Stroke"@en ;
+    oe:firstDescribedDate "1946-05-11"^^xsd:date ;
+    oe:icdCode "I63"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:systemic_lupus_erythematosus a oe:Disease ;
+    rdfs:label "Systemic Lupus Erythematosus"@en ;
+    oe:firstDescribedDate "1978-04-26"^^xsd:date ;
+    oe:icdCode "M32"^^xsd:string ;
+    oe:inSpecialty oespec:Rheumatology .
+
+oed:trigeminal_neuralgia a oe:Disease ;
+    rdfs:label "Trigeminal Neuralgia"@en ;
+    oe:firstDescribedDate "1958-07-05"^^xsd:date ;
+    oe:icdCode "G50.0"^^xsd:string ;
+    oe:inSpecialty oespec:Neurology .
+
+oed:tuberculosis a oe:Disease ;
+    rdfs:label "Tuberculosis"@en ;
+    oe:firstDescribedDate "1962-08-08"^^xsd:date ;
+    oe:icdCode "A15"^^xsd:string ;
+    oe:inSpecialty oespec:InfectiousDisease .
+
+oed:type_1_diabetes_mellitus a oe:Disease ;
+    rdfs:label "Type 1 Diabetes Mellitus"@en ;
+    oe:firstDescribedDate "1953-06-09"^^xsd:date ;
+    oe:icdCode "E10"^^xsd:string ;
+    oe:inSpecialty oespec:Endocrinology .
+
+oed:type_2_diabetes_mellitus a oe:Disease ;
+    rdfs:label "Type 2 Diabetes Mellitus"@en ;
+    oe:firstDescribedDate "1910-12-16"^^xsd:date ;
+    oe:icdCode "E11"^^xsd:string ;
+    oe:inSpecialty oespec:Endocrinology .
+
+oed:ulcerative_colitis a oe:Disease ;
+    rdfs:label "Ulcerative Colitis"@en ;
+    oe:firstDescribedDate "1973-09-22"^^xsd:date ;
+    oe:icdCode "K51"^^xsd:string ;
+    oe:inSpecialty oespec:Gastroenterology .
+
+oed:urinary_tract_infection a oe:Disease ;
+    rdfs:label "Urinary Tract Infection"@en ;
+    oe:firstDescribedDate "1943-07-23"^^xsd:date ;
+    oe:icdCode "N39.0"^^xsd:string ;
+    oe:inSpecialty oespec:InfectiousDisease .
+

@@ -1,0 +1,468 @@
+{
+  "disease": "Ulcerative Colitis",
+  "slug": "ulcerative_colitis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41419296",
+      "title": "Medical management of inflammatory bowel diseases.",
+      "abstract": "Inflammatory bowel diseases (IBD), comprising Crohn's disease and ulcerative colitis, are chronic, inflammatory, immune mediated, relapsing-remitting conditions of the gastrointestinal tract with multidimensional and often negative effects on patients' quality of life. The global burden of IBD is increasing and is forecast to affect 1% of the population in early industrialized nations over the next 10 years. Advances in our understanding of the causes and pathogenesis of IBD in the past three decades have translated into new treatments that modulate the immune inflammatory cascade. Modern goals of treatment are clinical remission through assessment of patient reported outcomes and deep remission defined as mucosal healing on colonoscopy or imaging. Achieving both clinical and deep remission affords patients a better long term prognosis and quality of life. This review summarizes the latest evidence on IBD diagnosis, staging, and prognosis, with a detailed focus on current treatments.",
+      "pub_date": "2025-12-19",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Prognosis",
+        "Inflammatory Bowel Diseases",
+        "Quality of Life",
+        "Remission Induction",
+        "Colitis, Ulcerative",
+        "Crohn Disease"
+      ],
+      "chemicals": [],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Jana G Hashash",
+        "Jimmy K Limdi",
+        "Jason M Shapiro",
+        "Samir A Shah"
+      ]
+    },
+    {
+      "pmid": "41043449",
+      "title": "Etrasimod as induction and maintenance treatment for patients with moderately to severely active ulcerative colitis in East Asia (ENLIGHT UC): a randomised, double-blind, placebo-controlled, multicentre, phase 3 study.",
+      "abstract": "Etrasimod is an oral, once-daily sphingosine 1-phosphate (S1P) receptor modulator for the treatment of active ulcerative colitis. In the randomised, placebo-controlled, double-blind phase 3 ENLIGHT UC study, also known as the ES101002 study, we aimed to evaluate the efficacy and safety of etrasimod in patients with moderately to severely active ulcerative colitis in East Asia. Using a central interactive web response system, in the 12-week induction period, adults (aged 18-75 years, inclusive) with moderately to severely active ulcerative colitis (modified Mayo score [MMS] 4-9 with an endoscopic subscore \u22652 and a rectal bleeding subscore \u22651) and an inadequate response, loss of response, or intolerance to at least one ulcerative colitis treatment were randomly assigned (2:1) to once-daily oral etrasimod 2 mg or placebo. Patients and study staff were masked to treatment assignment. Patients were enrolled from 52 hospitals across China, Taiwan, and Souh Korea. Randomisation was stratified by previous treatment status and baseline disease activity. Patients who had an MMS clinical response at induction period week 12 were re-randomly assigned (1:1) to once-daily oral etrasimod 2 mg or placebo for the 40-week maintenance period. Randomisation was stratified by induction period treatment, previous exposure to biologicals or JAK inhibitors, and concomitant use of oral corticosteroids at induction period baseline. The primary efficacy outcome was MMS clinical remission (stool frequency subscore=0 [or stool frequency subscore=1 with a \u22651 point decrease from induction period baseline], rectal bleeding subscore=0, and endoscopic subscore \u22641 [excluding friability]), assessed in the induction and maintenance periods separately (at induction period week 12 and maintenance period week 40). The primary efficacy analyses used the full analysis set (FAS), which included all patients who were randomly assigned and received at least one dose of study treatment for the induction period, and all re-randomly assigned patients who showed clinical response at induction period week 12 and received at least one dose of study treatment for the maintenance period. The safety analyses for each treatment period used the safety analysis set (SAF), which included all patients who received any amount of study drug in the corresponding treatment period. ENLIGHT UC is registered with ClinicalTrials.gov (NCT04176588) and the study is complete. 606 patients were screened between Sept 25, 2019, and April 27, 2023, and 340 were randomly assigned for the induction period and treated (FAS: 228 patients [88 female and 140 male] assigned to etrasimod and 112 patients [44 female and 68 male] assigned to placebo). 157 patients who showed clinical response in the induction period were re-randomly assigned and treated in the maintenance period (FAS: 77 patients [35 female and 42 male] assigned to etrasimod and 80 patients [32 female and 48 male] assigned to placebo). A significantly greater proportion of patients treated with etrasimod than those treated with placebo, showed clinical remission at induction week 12 (57 [25\u00b70%] of 228 patients vs six [5\u00b74%] of 112 patients; adjusted difference 20\u00b74%; 95% CI 13\u00b74%-27\u00b74%; p<0\u00b70001) and maintenance period week 40 (37 [48\u00b71%] of 77 patients vs 10 [12\u00b75%] of 80 patients; adjusted difference 35\u00b79%; 95% CI 22\u00b75%-49\u00b72%; p<0\u00b70001). In the induction period, the most frequently reported treatment-emergent adverse event (TEAE) was increased ALT (22 [10%] in the etrasimod group vs one [1%] in the placebo group). In the maintenance period, the most frequently reported TEAE was upper respiratory tract infection (14 [18%] in the etrasimod group vs 14 [17%] in the placebo group). Across the induction and maintenance periods, most TEAEs were mild to moderate in severity. Five (2%) of 228 patients treated with etrasimod and four (4%) of 112 patients treated with placebo discontinued study treatment due to TEAEs during the induction period, and one (1%) of 77 patients treated with etrasimod and one (1%) of 81 patients treated with placebo discontinued study treatment due to TEAEs during the maintenance period. No grade 4 or higher TEAE, malignancies, or deaths were reported. Etrasimod was effective and well tolerated as an oral induction and maintenance treatment in patients with moderately to severely active ulcerative colitis in East Asia. Everest Medicines. For the Chinese translation of the abstract see Supplementary Materials section.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colitis, Ulcerative",
+        "Double-Blind Method",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Adult",
+        "Treatment Outcome",
+        "Induction Chemotherapy",
+        "Severity of Illness Index",
+        "Aged",
+        "Young Adult",
+        "Maintenance Chemotherapy",
+        "Adolescent",
+        "Sphingosine 1 Phosphate Receptor Modulators",
+        "China",
+        "Republic of Korea",
+        "Remission Induction"
+      ],
+      "chemicals": [
+        "Sphingosine 1 Phosphate Receptor Modulators"
+      ],
+      "journal": "The lancet. Gastroenterology & hepatology",
+      "authors": [
+        "Kaichun Wu",
+        "Changqing Zheng",
+        "Qian Cao",
+        "Yijuan Ding",
+        "Xiang Gao",
+        "Jie Zhong"
+      ]
+    },
+    {
+      "pmid": "41124707",
+      "title": "Baicalin ameliorates dextran sulfate solidum-induced colitis by modulating Th17-macrophage immune network via JAK2/STAT3/IL-17/NF-\u03baB pathway.",
+      "abstract": "Ulcerative colitis (UC) arises from complex interactions among genetic predisposition, environmental factors, and immune dysregulation. Promotion of M1-polarized macrophages critically contribute to intestinal inflammation and subsequent tissue damage. Baicalin, a bioactive flavonoid isolated from the roots of Scutellaria baicalensis, exhibits potent anti-inflammatory effects, yet its therapeutic efficacy and regulatory mechanisms of macrophages in the development of UC remain poorly understood. This study aimed to investigate the protective effects of baicalin in a murine model of UC, examining the influence of baicalin on helper T cells 17 (Th17) differentiation, macrophage polarization, and associated signaling pathways. In a dextran sulfate sodium (DSS)-induced UC mice model (n = 10), the therapeutic effects of baicalin were evaluated based on weight monitoring, colon length measurement, histopathological examination, and inflammatory marker analysis. Transcriptomic analysis was conducted to predict the potential mechanism on baicalin-treated mice. Additionally, by integrating transcriptomic data from colon tissues of patients with UC in publicly available databases, dysregulated pathways were identified. Mechanistic studies focused on janus kinase 2 (JAK2)/signal transducer and activator of transcription 3 (STAT3) and nuclear Factor kappa-B (NF-\u03baB) signaling both in Th cells (n = 3) and Raw264.7 (n = 3). Baicalin significantly alleviated DSS-induced colitis by attenuating weight loss, maintaining colon length, and restoring intestinal barrier function. Transcriptomic analysis revealed that baicalin suppressed Th17 cell differentiation and IL-17 signaling pathway which are found to be elevated in UC patients. Baicalin suppressed Th17 differentiation and IL-17 production by inhibiting JAK2/STAT3 phosphorylation in T cells. Baicalin suppressed IL-17RA expression in macrophages, thereby inhibiting NF-\u03baB activation and M1 polarization. As a result, the intestinal inflammation was effectively alleviated in vivo. Baicalin alleviates UC by modulating the Th17/M1 macrophage axis. Baicalin simultaneously suppresses JAK2/STAT3 signaling in Th cells and NF-\u03baB activation in macrophages, thereby interrupting IL-17-mediated inflammatory crosstalk between these two immune pathways. These findings suggest a potential therapeutic target for UC intervention.",
+      "pub_date": "2025-11-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "STAT3 Transcription Factor",
+        "Flavonoids",
+        "Janus Kinase 2",
+        "Dextran Sulfate",
+        "Th17 Cells",
+        "Macrophages",
+        "Signal Transduction",
+        "NF-kappa B",
+        "Interleukin-17",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Male",
+        "Colitis, Ulcerative",
+        "Humans",
+        "Disease Models, Animal",
+        "Anti-Inflammatory Agents",
+        "Scutellaria baicalensis"
+      ],
+      "chemicals": [
+        "baicalin",
+        "STAT3 Transcription Factor",
+        "Flavonoids",
+        "Janus Kinase 2",
+        "Dextran Sulfate",
+        "NF-kappa B",
+        "Interleukin-17",
+        "Jak2 protein, mouse",
+        "Stat3 protein, mouse",
+        "Anti-Inflammatory Agents"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Muxia Li",
+        "Jiazhen Wu",
+        "Dan Li",
+        "Junxuan Lei",
+        "Shiying Huang",
+        "Pingli Mo"
+      ]
+    },
+    {
+      "pmid": "41770503",
+      "title": "Ulcerative colitis, pathophysiological mechanisms and drug repurposing: a new therapeutic dawn-narrative review.",
+      "abstract": "Crohn's disease and ulcerative colitis (UC) are among the intestinal conditions that make up the category known as inflammatory bowel disease. Globally, UC prevalence and incidence are currently rising. There was substantial evidence that many pathways were involved in the pathophysiology of UC. Of these pathways, interleukin 6 (IL-6)/signal transducer and activator of transcription 3 (STAT3), mammalian target of rapamycin and AMP-activated protein kinase (AMPK), Sphingosine kinase (SPHK)/ Sphingosine-1-phosphate, nuclear factor erythroid-2 related factor 2 (Nrf2)/heme oxygenase (HO-1). While small-molecule pharmaceuticals and biologics are available to treat patients with UC, approximately one-third of people receiving treatment do not get better. To find an effective remedy for UC patients, new therapy and medication repurposing have therefore been thoroughly researched. Several medications, including rosiglitazone, amlodipine, felodipine, atorvastatin, metformin, pentoxifylline, nitazoxanide, nifuroxazide, carbocisteine, levetiracetam, topiramate, nicodamid, and vildagliptin, have been shown to have positive effects on multiple organs through their anti-inflammatory properties. Furthermore, data on gut barrier integrity, oxidative stress, and inflammatory pathways showed that these medications had a major favorable impact on these parameters in both cellular and clinical models of UC. Using the findings of in vitro, in vivo, and clinical investigations, the positive effects of these medications on UC are thoroughly outlined and examined in the present research. Having a better knowledge of these protective benefits and the basic mechanisms may make it possible for UC patients to take these medications effectively.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colitis, Ulcerative",
+        "Drug Repositioning",
+        "Animals",
+        "Anti-Inflammatory Agents"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents"
+      ],
+      "journal": "Inflammopharmacology",
+      "authors": [
+        "Mostafa M Bahaa",
+        "Mahmoud S Abdallah",
+        "Esraa M Mosalam",
+        "Ahmed R Gardouh",
+        "Mahmoud Nazih",
+        "Eman Hamza"
+      ]
+    },
+    {
+      "pmid": "41242336",
+      "title": "Safety and pharmacokinetics of SOR102, an oral bispecific inhibitor of TNF and interleukin-23 in healthy participants and patients with ulcerative colitis: a first-in-human, double-blind, randomised, placebo-controlled, phase 1 trial.",
+      "abstract": "SOR102 is an oral bispecific antibody comprised of single domain antibodies targeting TNF and interleukin (IL)-23p19. We aimed to assess the safety, pharmacokinetics, clinical, and biological activity of SOR102 in healthy participants and in patients with active ulcerative colitis. This phase 1 first-in-human, double-blind, randomised, placebo-controlled, trial was done in the UK, Ukraine, and Georgia in clinical research centres. Central randomisation was by an interactive web response system and a randomisation scheme produced by an unmasked, independent statistician. In part 1, healthy participants were randomly assigned (6:2) to single ascending doses of SOR102 or placebo. In part 2, healthy participants were randomly assigned (8:2) to SOR102 or placebo twice daily for 7 days. In part 3, patients with mildly-to-severely active ulcerative colitis were randomly assigned (1:1:1) to once-daily or twice-daily SOR102 or placebo for 42 days. The primary objective was to evaluate the safety and tolerability of SOR102. Safety analyses were done on all participants or patients who received at least one dose of study drug. This trial is registered with ClinicalTrials.gov, NCT06080048 and is complete. From Oct 9, 2023, to Oct 16, 2024, 157 participants were assessed for eligibility, of whom 93 were excluded and 64 were randomly assigned to either SOR102 (n=48) or placebo (n=16) across all three parts of the study. In part 1, six participants were randomly assigned to receive SOR102 135 mg, six to receive SOR102 405 mg, six to receive SOR102 1215 mg, six to receive SOR102 3645 mg, and eight to receive placebo. In part 2, eight participants were randomly assigned to receive SOR102 1215 mg twice-daily and two to receive placebo. In part 3, seven patients with ulcerative colitis were randomly assigned to receive SOR102 810 mg once-daily, nine to receive the same dose twice-daily, and six to receive placebo. In part 1, treatment-emergent adverse events (TEAEs) occurred in three (13%) of 24 participants who received SOR102 (two in the SOR102 135 mg dose group and one in the SOR102 405 mg dose group; mild diarrhoea and moderate dysmenorrhoea both in a single participant in the SOR102 135 mg group and mild flatulence in a second participant in same group; mild dysmenorrhoea in one participant in the SOR102 405 mg group) compared with two (25%) of eight participants who received placebo (mild catheter site pain; mild headache). Only the TEAE of mild diarrhoea was deemed treatment-related. No TEAEs occurred in part 2. In part 3, at least one TEAE occurred in seven (44%) of 16 patients who received SOR102 (five in the SOR102 810 mg twice-daily dose group and two in the SOR102 810 mg once-daily dose group) and three (50%) of six patients who received placebo. Two patients in the SOR102 twice-daily group had TEAEs of worsening of ulcerative colitis (one of which was severe [the only serious TEAE reported] but not deemed treatment related), leading to study discontinuation. All other TEAEs were mild to moderate in nature. No clinically significant effect of SOR102 on electrocardiogram, vital signs, physical examination, or laboratory parameters was observed at any dose, or frequency of dosing, in any part of the study, and no deaths occurred. In part 3, by day 42, three (43%) of seven participants in the SOR102 once-daily group, five (56%) of nine patients in the SOR102 twice-daily group, and one (17%) of six patients in the placebo group had achieved a Mayo score clinical response, while two (29%) patients in the once-daily group, six (67%) in the twice-daily group, and two (33%) in the placebo group achieved a modified Mayo score clinical response. Three (43%) patients in the once-daily group, five (56%) in the twice-daily group, and none in the placebo group achieved symptomatic remission by day 42. The favourable safety profile and preliminary evidence for efficacy support development of SOR102 for treatment of ulcerative colitis. Sorriso Pharmaceuticals.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase I",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colitis, Ulcerative",
+        "Double-Blind Method",
+        "Male",
+        "Female",
+        "Adult",
+        "Middle Aged",
+        "Administration, Oral",
+        "Young Adult",
+        "Antibodies, Bispecific",
+        "Tumor Necrosis Factor-alpha",
+        "Healthy Volunteers",
+        "Aged",
+        "Interleukin-23"
+      ],
+      "chemicals": [
+        "Antibodies, Bispecific",
+        "Tumor Necrosis Factor-alpha",
+        "Interleukin-23"
+      ],
+      "journal": "The lancet. Gastroenterology & hepatology",
+      "authors": [
+        "Vipul Jairath",
+        "Silvio Danese",
+        "Geert R D'Haens",
+        "Brian G Feagan",
+        "Laurent Peyrin-Biroulet",
+        "Bruce E Sands"
+      ]
+    },
+    {
+      "pmid": "41810448",
+      "title": "Lessons from extended induction and practical evidence for improving tofacitinib therapy in ulcerative colitis.",
+      "abstract": "With the introduction of Janus kinase inhibitors like tofacitinib, the treatment landscape for ulcerative colitis (UC) is changing quickly. Response heterogeneity is still a significant clinical challenge in spite of its quick onset and oral convenience. Extending tofacitinib induction beyond the standard eight weeks can produce significant benefits in a subset of patients without sacrificing safety, according to evidence from pivotal trials and real-world studies. We review recent real-world evidence, highlight lessons learnt from extended induction therapy, and present a practical framework to help guide tailored treatment decisions in this editorial. After 16 weeks of prolonged induction, more than half of patients with moderate-to-severe UC experienced remission, with durable persistence and favorable safety, according to a multicenter 52-week real-world study published in this issue of the",
+      "pub_date": "2026-03-07",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colitis, Ulcerative",
+        "Piperidines",
+        "Pyrimidines",
+        "Remission Induction",
+        "Treatment Outcome",
+        "Janus Kinase Inhibitors",
+        "Induction Chemotherapy",
+        "Drug Administration Schedule",
+        "Protein Kinase Inhibitors",
+        "Time Factors"
+      ],
+      "chemicals": [
+        "tofacitinib",
+        "Piperidines",
+        "Pyrimidines",
+        "Janus Kinase Inhibitors",
+        "Protein Kinase Inhibitors"
+      ],
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Yasser Fouad",
+        "Ahmed S Aboelela"
+      ]
+    },
+    {
+      "pmid": "41340115",
+      "title": "Pyroptosis in ulcerative colitis: biomarkers and therapeutic targets.",
+      "abstract": "Ulcerative colitis (UC) is one of the two major types of inflammatory bowel disease (IBD), characterized by inflammation of the colon and rectum. The colorectal epithelium, which covers the mucosal surface, maintains homeostasis by supporting commensal microorganisms in the outer mucus layer. Most colorectal epithelial cells (CECs) are absorptive colonocytes distributed primarily in the upper portion of the crypts. These CECs constitute the front-line barrier that modulates mucosal immunity and facilitates the transfer of immune molecules into the lumen. In patients with UC, CECs undergo both apoptosis and pyroptosis. Apoptosis is a physiological, programmed, caspase-dependent, and tightly regulated form of cell death that eliminates aged and damaged cells. In contrast, pyroptosis is an inflammatory, caspase-dependent form of lytic cell death that occurs in response to harmful stressors and toxins. Pyroptosis in CECs involves a broad array of signaling and effector molecules, many of which serve as measurable biomarkers with diagnostic, prognostic, and therapeutic potential. Dysregulated colorectal microflora significantly contributes to activating the pyroptotic pathway, initiating an inflammasome- and gasdermin-dependent inflammatory cell death process in UC patients. This review discusses the triggers and pathways of pyroptosis in CECs, evaluates recently identified biomarkers, highlights their potential roles in pyroptosis and as therapeutic targets in managing UC, and candidate compounds that have been shown effective UC therapeutics.",
+      "pub_date": "2025-12-03",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Pyroptosis",
+        "Humans",
+        "Colitis, Ulcerative",
+        "Biomarkers"
+      ],
+      "chemicals": [
+        "Biomarkers"
+      ],
+      "journal": "Journal of biomedical science",
+      "authors": [
+        "Hannah Cruz",
+        "Prarthna Shah",
+        "Nicholas Wohlgemuth",
+        "Robert Ketchum",
+        "Imad Nassif",
+        "Chien-An A Hu"
+      ]
+    },
+    {
+      "pmid": "41101072",
+      "title": "Bairui granules attenuate ulcerative colitis via microbial-metabolite crosstalk and Isorhamnetin-3-O-glucoside-mediated JAK2/STAT3 suppression.",
+      "abstract": "Bairui Granules (BRKL), a standardized botanical drug derived from Thesium chinense Turcz., has been clinically used for respiratory infections. However, its potential in ulcerative colitis (UC) and underlying mechanisms remain unexplored. This study elucidated the therapeutic effects and mechanisms of BRKL against UC through integrated phytochemistry, multi-omics, and pharmacological approaches. We investigated the protective effects of BRKL on DSS-induced colitis in mice. Pathological characteristics and oxidative stress of the distal colon were assessed. The impact of BRKL on gut microbiota was analyzed using 16S rRNA sequencing, while metabolomics explored changes in small molecular metabolites. UPLC-QE-MS validated BRKL's prototype compounds in the bloodstream, and network pharmacology predicted its targets and pathways. Molecular docking/dynamics validated target engaagement, followed by experimental validation in vitro and in vivo. BRKL significantly alleviated colitis symptoms, restored gut barrier integrity, and reduced oxidative stress. It reshaped gut microbiota composition (Akkermansia, Lachnospiraceae; Escherichia-Shigella) and modulated 22 colon metabolites linked to histidine and JAK-STAT pathways. Network pharmacology identified JAK2 as a core target, corroborated by molecular dynamics showing stable binding of BRKL-derived Withalongolide L to JAK2. BRKL and its active component Isorhamnetin-3-O-glucoside (0.1 mg/g crude drug) suppressed IL-6/JAK2/STAT3 phosphorylation, reduced apoptosis, and inhibited pro-inflammatory cytokines . Structural analysis confirmed Isorhamnetin-3-O-glucoside as a novel JAK2 inhibitor scaffold (Tanimoto index <0.3 vs. clinical inhibitors). BRKL ameliorates UC by synchronously modulating gut microbiota-metabolite interactions and blocking the JAK2/STAT3 pathway. Isorhamnetin-3-O-glucoside are identified as key bioactive compounds, positioning BRKL as a promising phytotherapeutic for inflammatory bowel disease.",
+      "pub_date": "2025-11-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Colitis, Ulcerative",
+        "Animals",
+        "Janus Kinase 2",
+        "STAT3 Transcription Factor",
+        "Gastrointestinal Microbiome",
+        "Mice",
+        "Drugs, Chinese Herbal",
+        "Male",
+        "Mice, Inbred C57BL",
+        "Molecular Docking Simulation",
+        "Oxidative Stress",
+        "Quercetin",
+        "Glucosides",
+        "Signal Transduction",
+        "Disease Models, Animal",
+        "Colon"
+      ],
+      "chemicals": [
+        "Janus Kinase 2",
+        "STAT3 Transcription Factor",
+        "Jak2 protein, mouse",
+        "Drugs, Chinese Herbal",
+        "Stat3 protein, mouse",
+        "Quercetin",
+        "3-methylquercetin",
+        "Glucosides"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Fang Zhang",
+        "Haonan Xu",
+        "Ke Che",
+        "Yu Cui",
+        "Qisheng Yao",
+        "Tingting Sun"
+      ]
+    },
+    {
+      "pmid": "41175586",
+      "title": "Tongxie Yaofang attenuates ulcerative colitis by modulating gut microbiota and IL-10RA/NF-\u03baB-mediated macrophage polarization.",
+      "abstract": "Tongxie Yaofang (TXYF), a traditional Chinese herbal formula, has shown therapeutic potential in gastrointestinal disorders. However, its mechanism in ulcerative colitis (UC) remains unclear. This study provides new insights into immune-microbiota crosstalk as a key mechanism driving the protective effects of TXYF. A DSS-induced colitis mouse model was used to evaluate TXYF's efficacy. Gut microbiota was profiled by 16S rRNA sequencing, while transcriptomics and network pharmacology identified core pathways. In vivo and in vitro assays examined immune regulation and epithelial barrier function. A THP-1/Caco-2 co-culture system explored IL-10RA-dependent immune-epithelial crosstalk, and fecal microbiota transplantation (FMT) tested the functional role of microbial remodeling. TXYF alleviated colitis symptoms, improved colon histology, and reduced pro-inflammatory cytokines. It reshaped gut microbiota by enriching SCFA-producing beneficial taxa and suppressing pathogenic bacteria. Transcriptomic analyses identified IL-10RA/NF-\u03baB as a novel regulatory axis, and TXYF enhanced IL-10RA expression, inhibited NF-\u03baB activation, and promoted M2 macrophage polarization. The co-culture model revealed IL-10RA-dependent macrophage-epithelial signaling that strengthened tight junction integrity. Importantly, FMT from TXYF-treated donors yielded these therapeutic benefits, reinforcing the evidence for microbiota-driven causality. This study is the first to identify IL-10RA/NF-\u03baB as a key immunoregulatory pathway of TXYF, uncover IL-10RA-dependent immune-epithelial communication, and validate gut microbiota as a functional mediator through FMT. Collectively, these findings demonstrate the innovative potential of TXYF as a multi-target herbal therapy for UC.",
+      "pub_date": "2025-11-25",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Gastrointestinal Microbiome",
+        "Animals",
+        "Colitis, Ulcerative",
+        "Humans",
+        "NF-kappa B",
+        "Mice",
+        "Drugs, Chinese Herbal",
+        "Mice, Inbred C57BL",
+        "Macrophages",
+        "Caco-2 Cells",
+        "Fecal Microbiota Transplantation",
+        "Male",
+        "Interleukin-10 Receptor alpha Subunit",
+        "Disease Models, Animal",
+        "Dextran Sulfate",
+        "Coculture Techniques"
+      ],
+      "chemicals": [
+        "NF-kappa B",
+        "Drugs, Chinese Herbal",
+        "Interleukin-10 Receptor alpha Subunit",
+        "Dextran Sulfate"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Zhao Shang",
+        "Li Zhou",
+        "Yue Liu",
+        "Xiao Yang",
+        "Dengke Yao",
+        "Feixiang Zhai"
+      ]
+    },
+    {
+      "pmid": "41308394",
+      "title": "Pomegranate peel and ellagic acid attenuate ulcerative colitis by targeting AKR1B1/B3 to inhibit NLRP3.",
+      "abstract": "Ulcerative colitis (UC) therapy remains challenging due to limited options. Pomegranate peel, rich in bioactive compounds, shows potential, but its key components and mechanisms underlying its action against UC are unclear. The present investigation was undertaken to assess the therapeutic efficacy of 70 % ethanolic (PPEE) and aqueous extracts (PPWE) derived from pomegranate peel, determine the primary active component, and clarify the underlying molecular mechanism. The anti-UC effects of PPEE and PPWE extracts were first assessed in DSS-induced mice. Differential constituents underlying their efficacy disparities were identified using LC-MS/UHPLC and chemometric analyses. Key bioactive compounds were screened via a model of Caco-2/THP-1 co-culture evaluating intestinal barrier function. The action mechanisms were further elucidated through molecular docking, surface plasmon resonance (SPR), co-immunoprecipitation (Co-IP), and other assays, validated across inflammatory cell models, DSS-induced mice, and human UC colon tissues. PPEE showed superior efficacy over PPWE, as evidenced by enhanced intestinal barrier function and suppressed inflammation and NLRP3 inflammasome activation. Ellagic acid (EA) was identified as the core active constituent, which directly targeted AKR1B1/AKR1B3, thereby inhibiting NLRP3-ASC oligomerization and subsequent cleavage of caspase-1 and IL-1\u03b2. This study unveils a novel pathogenic mechanism in UC, namely the AKR1B1/AKR1B3-NLRP3 axis, and identifies EA as its effective inhibitor. These results demonstrate the potential of pomegranate peel extracts and offer a novel therapeutic approach for UC.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Colitis, Ulcerative",
+        "Animals",
+        "Humans",
+        "Ellagic Acid",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Pomegranate",
+        "Plant Extracts",
+        "Mice",
+        "Caco-2 Cells",
+        "Male",
+        "Molecular Docking Simulation",
+        "Mice, Inbred C57BL",
+        "Fruit",
+        "THP-1 Cells"
+      ],
+      "chemicals": [
+        "Ellagic Acid",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Plant Extracts",
+        "Nlrp3 protein, mouse",
+        "NLRP3 protein, human"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Huimin Li",
+        "Jingya Ruan",
+        "Jiayan Huang",
+        "Yijin Wu",
+        "Jiaming Cheng",
+        "Ongher Kouye"
+      ]
+    },
+    {
+      "pmid": "41421285",
+      "title": "KuiAnNingFang alleviates ulcerative colitis by modulating gut microbiota and NF-\u03baB/NLRP3 pathway.",
+      "abstract": "Ulcerative colitis (UC), a major form of inflammatory bowel disease, is a chronic and relapsing inflammatory condition of the colonic mucosa. Despite the efficacy of the Traditional Chinese Medicine formula KuiAnNingFang (KANF) in alleviating UC, its therapeutic mechanisms remain incompletely understood. This study aimed to elucidate the ameliorative effect of Chinese medicine KANF and its potential mechanism against UC. The therapeutic efficacy of KANF against UC was initially assessed in clinical cohorts. A murine model of UC was subsequently established by administering DSS in drinking water and oral treatment with KANF extracts. The prototype components of KANF absorbed into the bloodstream were identified using UPLC-MS/MS. RNA-seq was conducted to identify differentially expressed genes and altered signaling pathways in colonic tissue. Furthermore, 16S rDNA sequencing and fecal microbiota transplantation were employed to determine whether KANF ameliorates UC by modulating the gut microbiota. KANF demonstrated significant therapeutic efficacy in alleviating UC in both clinical patients and animal models. Integrated analysis combining network pharmacology and RNA-seq validated that KANF attenuates intestinal inflammation by inhibiting NF-\u03baB/NLRP3 activation. Furthermore, 16S rDNA sequencing revealed that KANF restores gut microbial homeostasis, and fecal microbiota transplantation experiments confirmed that the suppressive effect of KANF on NF-\u03baB/NLRP3 signaling is primarily mediated through gut microbiota remodeling. KANF can significantly ameliorate symptoms in both clinical UC patients and DSS-induced colitis mice. KANF exerts its multi-target anti-colitic effects through regulation of the gut microbiota and subsequent suppression of the NF-\u03baB/NLRP3 signaling cascade.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Colitis, Ulcerative",
+        "Animals",
+        "Gastrointestinal Microbiome",
+        "NF-kappa B",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Drugs, Chinese Herbal",
+        "Mice",
+        "Humans",
+        "Male",
+        "Signal Transduction",
+        "Mice, Inbred C57BL",
+        "Disease Models, Animal",
+        "Female",
+        "Fecal Microbiota Transplantation",
+        "Dextran Sulfate",
+        "Middle Aged",
+        "Adult"
+      ],
+      "chemicals": [
+        "NF-kappa B",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Drugs, Chinese Herbal",
+        "Nlrp3 protein, mouse",
+        "Dextran Sulfate"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Chunli Sun",
+        "Yuehuan Tian",
+        "Yitan Zheng",
+        "Kunrong Yang",
+        "Shengnan Liu",
+        "Danrong Zhao"
+      ]
+    },
+    {
+      "pmid": "41479760",
+      "title": "Dual biologic therapy in patient with refractory ulcerative colitis and comorbidities: A case report.",
+      "abstract": "Despite advances in the treatment of ulcerative colitis (UC), some patients remain refractory to the currently available treatments. Dual biologic therapy (DBT) has emerged as a promising strategy for these patients. A patient with extensive UC presented with steroid dependence and contraindications (past medical history included breast cancer and previous myocardial infarction) to treatment with tumor necrosis factor and Janus kinase inhibitors. DBT of \u03b14\u03b27 integrin antagonist (vedolizumab) and interleukin 23p19 inhibitor (mirikizumab) resulted in a sustained clinical and biochemical remission. No adverse events were recorded during the follow-up. This case highlighted the challenge of managing refractory UC, especially in frail patients.",
+      "pub_date": "2025-12-21",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Humans",
+        "Antibodies, Monoclonal, Humanized",
+        "Colitis, Ulcerative",
+        "Comorbidity",
+        "Drug Therapy, Combination",
+        "Gastrointestinal Agents",
+        "Remission Induction",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Gastrointestinal Agents",
+        "vedolizumab"
+      ],
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Andreia C Guimar\u00e3es",
+        "Rocio Ferreiro-Iglesias",
+        "Cristina Calvi\u00f1o-Suarez",
+        "Iria Baston-Rey",
+        "Manuel Barreiro-de Acosta"
+      ]
+    }
+  ]
+}

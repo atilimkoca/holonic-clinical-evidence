@@ -1,0 +1,32 @@
+@prefix holon: <https://atilimkoca.github.io/syz-ontology/holon#> .
+@prefix oe: <https://atilimkoca.github.io/syz-ontology/openevidence#> .
+@prefix oeq: <https://atilimkoca.github.io/syz-ontology/openevidence/questions/> .
+@prefix oegen: <https://atilimkoca.github.io/syz-ontology/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy> a holon:ClinicalQuestionHolon ;
+    oe:questionText "How effective is salbutamol compared with other agents for Asthma?"^^xsd:string ;
+    oe:answerText "Severe asthma affects 5% to 10% of patients with asthma but constitutes close to one-half of the medical costs related to asthma due to higher morbidity and health care utilization. Biologic agents have become a standard of care in those unresponsive to standard treatments yet the choice of biologic agent is complex due to the varying mechanisms of action, efficacies, and lack of head-to-head comparisons."^^xsd:string ;
+    oe:belongsToSpecialty "Pulmonology" ;
+    holon:hasInteriorGraph <https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-int> ;
+    holon:hasBoundaryGraph <https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-bou> ;
+    holon:hasProjectionGraph <https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-pro> ;
+    holon:hasContextGraph <https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-con> ;
+    holon:evidenceQualityThreshold "0.50"^^xsd:decimal .
+
+<https://atilimkoca.github.io/syz-ontology/openevidence/drugs/salbutamol> oe:treats <https://atilimkoca.github.io/syz-ontology/openevidence/diseases/asthma> .
+<https://atilimkoca.github.io/syz-ontology/openevidence/generated/ev_q_asthma_efficacy_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://atilimkoca.github.io/syz-ontology/openevidence/generated/ev_q_asthma_efficacy_0-tt> ;
+    holon:confidence "0.93"^^xsd:decimal ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:assessedBy <https://atilimkoca.github.io/syz-ontology/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://atilimkoca.github.io/syz-ontology/openevidence/sources/41005695> ;
+    holon:inHolon <https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy> ;
+    oe:effectiveness "effective" .
+<https://atilimkoca.github.io/syz-ontology/openevidence/generated/ev_q_asthma_efficacy_0-tt> rdf:subject <https://atilimkoca.github.io/syz-ontology/openevidence/drugs/salbutamol> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://atilimkoca.github.io/syz-ontology/openevidence/diseases/asthma> .
+

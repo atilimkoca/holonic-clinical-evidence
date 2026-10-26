@@ -1,0 +1,449 @@
+{
+  "disease": "Osteoporosis",
+  "slug": "osteoporosis",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "36592455",
+      "title": "Effectiveness and Safety of Treatments to Prevent Fractures in People With Low Bone Mass or Primary Osteoporosis: A Living Systematic Review and Network Meta-analysis for the American College of Physicians.",
+      "abstract": "The prevalence of osteoporosis is increasing in the United States. To evaluate low bone mass and osteoporosis treatments to prevent fractures. Ovid MEDLINE ALL, Ovid Evidence Based Medicine Reviews: Cochrane Central Register of Controlled Trials, Cochrane Database of Systematic Reviews, and ClinicalTrials.gov from 2014 through February 2022. Adults receiving eligible interventions for low bone mass or osteoporosis. Randomized controlled trials (RCTs) for fracture outcomes, and RCTs and large observational studies ( Abstracted by 1 reviewer and verified by a second. Independent, dual assessments of risk of bias and certainty of evidence (CoE). We included 34 RCTs (in 100 publications) and 36 observational studies. Bisphosphonates and denosumab reduced hip, clinical and radiographic vertebral, and other clinical fractures in postmenopausal females with osteoporosis (moderate to high CoE). Bisphosphonates for 36 months or more may increase the risk for atypical femoral fractures (AFFs) and osteonecrosis of the jaw (ONJ), but the absolute risks were low. Abaloparatide and teriparatide reduced clinical and radiographic vertebral fractures but increased the risk for withdrawals due to adverse events (WAEs; moderate to high CoE). Raloxifene and bazedoxifene for 36 months or more reduced radiographic vertebral but not clinical fractures (low to moderate CoE). Abaloparatide, teriparatide, and sequential romosozumab, then alendronate, may be more effective than bisphosphonates in reducing clinical fractures for 17 to 24 months in older postmenopausal females at very high fracture risk (low to moderate CoE). Bisphosphonates may reduce clinical fractures in older females with low bone mass (low CoE) and radiographic vertebral fractures in males with osteoporosis (low to moderate CoE). Few studies examined participants with low bone mass, males, or Black-identifying persons, sequential therapy, or treatment beyond 3 years. Bisphosphonates, denosumab, abaloparatide, teriparatide, and romosozumab, followed by alendronate, reduce clinical fractures in postmenopausal females with osteoporosis. Abaloparatide and teriparatide increased WAEs; longer duration bisphosphonate use may increase AFF and ONJ risk though these events were rare. American College of Physicians. (PROSPERO: CRD42021236220).",
+      "pub_date": "2023-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Network Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Male",
+        "Adult",
+        "Female",
+        "Humans",
+        "Aged",
+        "Bone Density Conservation Agents",
+        "Teriparatide",
+        "Alendronate",
+        "Osteoporosis, Postmenopausal",
+        "Denosumab",
+        "Fractures, Bone",
+        "Osteoporosis",
+        "Diphosphonates",
+        "Spinal Fractures",
+        "Physicians"
+      ],
+      "chemicals": [
+        "Bone Density Conservation Agents",
+        "Teriparatide",
+        "Alendronate",
+        "Denosumab",
+        "Diphosphonates"
+      ],
+      "journal": "Annals of internal medicine",
+      "authors": [
+        "Chelsea Ayers",
+        "Devan Kansagara",
+        "Brittany Lazur",
+        "Rongwei Fu",
+        "Amy Kwon",
+        "Curtis Harrod"
+      ]
+    },
+    {
+      "pmid": "37130601",
+      "title": "Fracture risk reduction and safety by osteoporosis treatment compared with placebo or active comparator in postmenopausal women: systematic review, network meta-analysis, and meta-regression analysis of randomised clinical trials.",
+      "abstract": "To review the comparative effectiveness of osteoporosis treatments, including the bone anabolic agents, abaloparatide and romosozumab, on reducing the risk of fractures in postmenopausal women, and to characterise the effect of antiosteoporosis drug treatments on the risk of fractures according to baseline risk factors. Systematic review, network meta-analysis, and meta-regression analysis of randomised clinical trials. Medline, Embase, and Cochrane Library to identify randomised controlled trials published between 1 January 1996 and 24 November 2021 that examined the effect of bisphosphonates, denosumab, selective oestrogen receptor modulators, parathyroid hormone receptor agonists, and romosozumab compared with placebo or active comparator. Randomised controlled trials that included non-Asian postmenopausal women with no restriction on age, when interventions looked at bone quality in a broad perspective. The primary outcome was clinical fractures. Secondary outcomes were vertebral, non-vertebral, hip, and major osteoporotic fractures, all cause mortality, adverse events, and serious cardiovascular adverse events. The results were based on 69 trials (>80\u2009000 patients). For clinical fractures, synthesis of the results showed a protective effect of bisphosphonates, parathyroid hormone receptor agonists, and romosozumab compared with placebo. Compared with parathyroid hormone receptor agonists, bisphosphonates were less effective in reducing clinical fractures (odds ratio 1.49, 95% confidence interval 1.12 to 2.00). Compared with parathyroid hormone receptor agonists and romosozumab, denosumab was less effective in reducing clinical fractures (odds ratio 1.85, 1.18 to 2.92 for denosumab The evidence indicated a benefit of a range of treatments for osteoporosis in postmenopausal women for clinical and vertebral fractures. Bone anabolic treatments were more effective than bisphosphonates in the prevention of clinical and vertebral fractures, irrespective of baseline risk indicators. Hence this analysis provided no clinical evidence for restricting the use of anabolic treatment to patients with a very high risk of fractures. PROSPERO CRD42019128391.",
+      "pub_date": "2023-05-02",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Network Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Bone Density Conservation Agents",
+        "Postmenopause",
+        "Denosumab",
+        "Receptor, Parathyroid Hormone, Type 1",
+        "Osteoporosis",
+        "Osteoporotic Fractures",
+        "Diphosphonates",
+        "Spinal Fractures",
+        "Risk Reduction Behavior",
+        "Osteoporosis, Postmenopausal",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "chemicals": [
+        "Bone Density Conservation Agents",
+        "Denosumab",
+        "Receptor, Parathyroid Hormone, Type 1",
+        "Diphosphonates"
+      ],
+      "journal": "BMJ (Clinical research ed.)",
+      "authors": [
+        "Mina Nicole H\u00e4ndel",
+        "Isabel Cardoso",
+        "Cecilie von B\u00fclow",
+        "Jeanett Friis Rohde",
+        "Anja Ussing",
+        "Sabrina Mai Nielsen"
+      ]
+    },
+    {
+      "pmid": "36012730",
+      "title": "Current Status of the Diagnosis and Management of Osteoporosis.",
+      "abstract": "Osteoporosis has been defined as the silent disease of the 21st century, becoming a public health risk due to its severity, chronicity and progression and affecting mainly postmenopausal women and older adults. Osteoporosis is characterized by an imbalance between bone resorption and bone production. It is diagnosed through different methods such as bone densitometry and dual X-rays. The treatment of this pathology focuses on different aspects. On the one hand, pharmacological treatments are characterized by the use of anti-resorptive drugs, as well as emerging regenerative medicine treatments such as cell therapies and the use of bioactive hydrogels. On the other hand, non-pharmacological treatments are associated with lifestyle habits that should be incorporated, such as physical activity, diet and the cessation of harmful habits such as a high consumption of alcohol or smoking. This review seeks to provide an overview of the theoretical basis in relation to bone biology, the existing methods for diagnosis and the treatments of osteoporosis, including the development of new strategies.",
+      "pub_date": "2022-08-21",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Bone Density",
+        "Bone Resorption",
+        "Exercise",
+        "Female",
+        "Health Behavior",
+        "Humans",
+        "Osteoporosis",
+        "Osteoporosis, Postmenopausal",
+        "Smoking"
+      ],
+      "chemicals": [],
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Agust\u00edn Aibar-Almaz\u00e1n",
+        "Ana Voltes-Mart\u00ednez",
+        "Yolanda Castellote-Caballero",
+        "Diego Fernando Afanador-Restrepo",
+        "Mar\u00eda Del Carmen Carcel\u00e9n-Fraile",
+        "Elena L\u00f3pez-Ruiz"
+      ]
+    },
+    {
+      "pmid": "38311211",
+      "title": "Treatment Sequence for Osteoporosis.",
+      "abstract": "Osteoporosis is a chronic progressive disease that requires lifelong monitoring and treatment. Sequencing from one treatment to another at different ages and stages of disease is an approach that can maximize benefits and avoid potential risks from long-term treatment with a single agent. This article reviews clinical trial data in postmenopausal women that evaluate the effects of antiresorptive agents followed by other antiresorptives, osteoanabolic agents followed by antiresorptives, and antiresorptives followed by osteoanabolic medications. Literature review and discussion. When medications are discontinued, in the absence of sequential therapy, bone turnover rates return to baseline or above baseline, and bone loss occurs. The rate of bone loss differs for different treatments, with a very slow decline after stopping bisphosphonates and a particularly rapid decline after stopping denosumab. Careful attention to osteoporosis medication transitions can mitigate bone density loss and its consequences. For women who remain at high risk, switching from bisphosphonates to the more potent antiresorptive, denosumab, will result in further improvement in bone mineral density (BMD). When indicated, stopping denosumab can be accomplished safely by transition to an adequate bisphosphonate regimen. For high- and very-high-risk patients, treating with osteoanabolic agents first, followed by antiresorptive agents, produces substantially larger BMD gains than the reverse treatment sequence, with the biggest differences seen for BMD of the hip. Awareness of the importance of treatment sequences can help improve osteoporosis care across the postmenopausal lifespan.",
+      "pub_date": "2024-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Bone Density Conservation Agents",
+        "Female",
+        "Diphosphonates",
+        "Osteoporosis, Postmenopausal",
+        "Denosumab",
+        "Bone Density",
+        "Osteoporosis"
+      ],
+      "chemicals": [
+        "Bone Density Conservation Agents",
+        "Diphosphonates",
+        "Denosumab"
+      ],
+      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+      "authors": [
+        "Felicia Cosman",
+        "Bente Langdahl",
+        "Benjamin Z Leder"
+      ]
+    },
+    {
+      "pmid": "37991856",
+      "title": "Postmenopausal Osteoporosis.",
+      "abstract": "",
+      "pub_date": "2023-11-23",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Humans",
+        "Bone Density",
+        "Osteoporosis, Postmenopausal"
+      ],
+      "chemicals": [],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Marcella Donovan Walker",
+        "Elizabeth Shane"
+      ]
+    },
+    {
+      "pmid": "36920813",
+      "title": "Osteoporosis: Common Questions and Answers.",
+      "abstract": "Osteoporosis affects 10.2% of adults older than 50 years and is expected to increase to 13.6% by 2030. Osteoporotic fractures, specifically hip fractures, significantly affect morbidity, mortality, and quality of life. Screening for osteoporosis with dual energy x-ray absorptiometry should be considered for all women 65 years and older or women who are postmenopausal with clinical risk factors. The Bone Health and Osteoporosis Foundation recommends screening men 70 years and older and men with clinical risk factors; however, the U.S. Preventive Services Task Force did not find sufficient evidence to support routine screening in men. Osteoporosis can be diagnosed by a T-score of -2.5 or less or the presence of a fragility fracture. All patients with osteoporosis should be counseled on weight-bearing exercise, smoking cessation, moderation of alcohol intake, and calcium and vita-min D supplementation. Treatment of osteoporosis is influenced by the patient's fracture risk, the effectiveness of fracture risk reduction, and medication safety. Patients at high risk of fracture should consider treatment with antiresorptive therapy, including bisphosphonates and denosumab. Anabolic agents such as teriparatide, abaloparatide, and romosozumab should be considered for patients at very high risk or with previous vertebral fractures.",
+      "pub_date": "2023-03-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Male",
+        "Adult",
+        "Humans",
+        "Female",
+        "Bone Density Conservation Agents",
+        "Quality of Life",
+        "Osteoporosis",
+        "Osteoporotic Fractures",
+        "Diphosphonates",
+        "Osteoporosis, Postmenopausal",
+        "Bone Density"
+      ],
+      "chemicals": [
+        "Bone Density Conservation Agents",
+        "Diphosphonates"
+      ],
+      "journal": "American family physician",
+      "authors": [
+        "Kira Harris",
+        "Christopher A Zagar",
+        "Kelley V Lawrence"
+      ]
+    },
+    {
+      "pmid": "38691368",
+      "title": "The Women's Health Initiative Randomized Trials and Clinical Practice: A Review.",
+      "abstract": "Approximately 55 million people in the US and approximately 1.1 billion people worldwide are postmenopausal women. To inform clinical practice about the health effects of menopausal hormone therapy, calcium plus vitamin D supplementation, and a low-fat dietary pattern, the Women's Health Initiative (WHI) enrolled 161\u202f808 postmenopausal US women (N\u2009=\u200968\u202f132 in the clinical trials) aged 50 to 79 years at baseline from 1993 to 1998, and followed them up for up to 20 years. The WHI clinical trial results do not support hormone therapy with oral conjugated equine estrogens plus medroxyprogesterone acetate for postmenopausal women or conjugated equine estrogens alone for those with prior hysterectomy to prevent cardiovascular disease, dementia, or other chronic diseases. However, hormone therapy is effective for treating moderate to severe vasomotor and other menopausal symptoms. These benefits of hormone therapy in early menopause, combined with lower rates of adverse effects of hormone therapy in early compared with later menopause, support initiation of hormone therapy before age 60 years for women without contraindications to hormone therapy who have bothersome menopausal symptoms. The WHI results do not support routinely recommending calcium plus vitamin D supplementation for fracture prevention in all postmenopausal women. However, calcium and vitamin D are appropriate for women who do not meet national guidelines for recommended intakes of these nutrients through diet. A low-fat dietary pattern with increased fruit, vegetable, and grain consumption did not prevent the primary outcomes of breast or colorectal cancer but was associated with lower rates of the secondary outcome of breast cancer mortality during long-term follow-up. For postmenopausal women, the WHI randomized clinical trials do not support menopausal hormone therapy to prevent cardiovascular disease or other chronic diseases. Menopausal hormone therapy is appropriate to treat bothersome vasomotor symptoms among women in early menopause, without contraindications, who are interested in taking hormone therapy. The WHI evidence does not support routine supplementation with calcium plus vitamin D for menopausal women to prevent fractures or a low-fat diet with increased fruits, vegetables, and grains to prevent breast or colorectal cancer. A potential role of a low-fat dietary pattern in reducing breast cancer mortality, a secondary outcome, warrants further study.",
+      "pub_date": "2024-05-28",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Breast Neoplasms",
+        "Calcium",
+        "Calcium, Dietary",
+        "Cardiovascular Diseases",
+        "Diet, Fat-Restricted",
+        "Dietary Supplements",
+        "Estrogen Replacement Therapy",
+        "Estrogens, Conjugated (USP)",
+        "Hot Flashes",
+        "Medroxyprogesterone Acetate",
+        "Osteoporosis, Postmenopausal",
+        "Postmenopause",
+        "Randomized Controlled Trials as Topic",
+        "Vitamin D",
+        "Women's Health",
+        "United States"
+      ],
+      "chemicals": [
+        "Calcium",
+        "Calcium, Dietary",
+        "Estrogens, Conjugated (USP)",
+        "Medroxyprogesterone Acetate",
+        "Vitamin D"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "JoAnn E Manson",
+        "Carolyn J Crandall",
+        "Jacques E Rossouw",
+        "Rowan T Chlebowski",
+        "Garnet L Anderson",
+        "Marcia L Stefanick"
+      ]
+    },
+    {
+      "pmid": "39813642",
+      "title": "Fracture Prevention with Infrequent Zoledronate in Women 50 to 60 Years of Age.",
+      "abstract": "Zoledronate prevents fractures in older women when administered every 12 to 18 months, but its effects on bone density and bone turnover persist beyond 5 years. Whether infrequent zoledronate administration would prevent vertebral fractures in early postmenopausal women is unknown. We conducted a 10-year, prospective, double-blind, randomized, placebo-controlled trial involving early postmenopausal women (50 to 60 years of age) with bone mineral density T scores lower than 0 and higher than -2.5 (scores of -1 or higher typically indicate normal bone mineral density) at the lumbar spine, femoral neck, or hip. Participants were randomly assigned to receive an infusion of zoledronate at a dose of 5 mg at baseline and at 5 years (zoledronate-zoledronate group), zoledronate at a dose of 5 mg at baseline and placebo at 5 years (zoledronate-placebo group), or placebo at both baseline and 5 years (placebo-placebo group). Spinal radiographs were obtained at baseline, 5 years, and 10 years. The primary end point was morphometric vertebral fracture, which was assessed semiquantitatively and defined as at least a 20% change in vertebral height from that seen on the baseline radiograph. Secondary end points were fragility fracture, any fracture, and major osteoporotic fracture. Of 1054 women with a mean age of 56.0 years at baseline, 1003 (95.2%) completed 10 years of follow-up. A new morphometric fracture occurred in 22 women (6.3%) in the zoledronate-zoledronate group, in 23 women (6.6%) in the zoledronate-placebo group, and in 39 women (11.1%) in the placebo-placebo group (relative risk, zoledronate-zoledronate vs. placebo-placebo, 0.56 [95% confidence interval {CI}, 0.34 to 0.92; P\u2009=\u20090.04]; and zoledronate-placebo vs. placebo-placebo, 0.59 [95% CI, 0.36 to 0.97; P\u2009=\u20090.08]). The relative risk of fragility fracture, any fracture, and major osteoporotic fracture was 0.72 (95% CI, 0.55 to 0.93), 0.70 (95% CI, 0.56 to 0.88), and 0.60 (95% CI, 0.42 to 0.86), respectively, when zoledronate-zoledronate was compared with placebo-placebo and 0.79 (95% CI, 0.61 to 1.02), 0.77 (95% CI, 0.62 to 0.97), and 0.71 (95% CI, 0.51 to 0.99), respectively, when zoledronate-placebo was compared with placebo-placebo. Ten years after trial initiation, zoledronate administered at baseline and 5 years was effective in preventing morphometric vertebral fracture in early postmenopausal women. (Funded by the Health Research Council of New Zealand; Australian New Zealand Clinical Trials Registry number, ACTRN12612000270819.).",
+      "pub_date": "2025-01-16",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Humans",
+        "Middle Aged",
+        "Bone Density",
+        "Bone Density Conservation Agents",
+        "Double-Blind Method",
+        "Drug Administration Schedule",
+        "Follow-Up Studies",
+        "Hip Fractures",
+        "Infusions, Intravenous",
+        "Lumbar Vertebrae",
+        "Osteoporosis, Postmenopausal",
+        "Osteoporotic Fractures",
+        "Prospective Studies",
+        "Spinal Fractures",
+        "Zoledronic Acid",
+        "Femur Neck"
+      ],
+      "chemicals": [
+        "Bone Density Conservation Agents",
+        "Zoledronic Acid"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Mark J Bolland",
+        "Zaynah Nisa",
+        "Anna Mellar",
+        "Chiara Gasteiger",
+        "Veronica Pinel",
+        "Borislav Mihov"
+      ]
+    },
+    {
+      "pmid": "41252575",
+      "title": "Recent Advances in Osteoporosis Therapeutics.",
+      "abstract": "Postmenopausal osteoporosis is a chronic progressive disease related to estrogen deficiency at menopause, aging, and superimposed genetic and environmental factors. Many patients with osteoporosis are not diagnosed, and the majority are not treated. Current therapies for osteoporosis include antiresorptive treatments, including bisphosphonates, denosumab, and raloxifene, and osteoanabolic treatments, including teriparatide, abaloparatide, and romosozumab, which is a dual-action agent. Sequential therapies aim to optimize fracture prevention and bone density outcomes for long-term management. Recent guidelines have suggested categorical risk stratification and a goal-directed individualized therapy strategy. New treatments under investigation also hold promise for further improving bone health in postmenopausal osteoporosis.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Bone Density Conservation Agents",
+        "Female",
+        "Osteoporosis, Postmenopausal",
+        "Denosumab",
+        "Diphosphonates",
+        "Bone Density",
+        "Osteoporotic Fractures",
+        "Teriparatide",
+        "Raloxifene Hydrochloride"
+      ],
+      "chemicals": [
+        "Bone Density Conservation Agents",
+        "Denosumab",
+        "Diphosphonates",
+        "Teriparatide",
+        "Raloxifene Hydrochloride"
+      ],
+      "journal": "Annual review of medicine",
+      "authors": [
+        "Anne Sophie S\u00f8lling",
+        "Bente L Langdahl",
+        "Felicia Cosman"
+      ]
+    },
+    {
+      "pmid": "38547625",
+      "title": "Luteolin rescues postmenopausal osteoporosis elicited by OVX through alleviating osteoblast pyroptosis via activating PI3K-AKT signaling.",
+      "abstract": "Recently, osteoblast pyroptosis has been proposed as a potential pathogenic mechanism underlying osteoporosis, although this remains to be confirmed. Luteolin (Lut), a flavonoid phytochemical, plays a critical role in the anti-osteoporosis effects of many traditional Chinese medicine prescriptions. However, its protective impact on osteoblasts in postmenopausal osteoporosis (PMOP) has not been elucidated. This research aimed to determine the effect of Lut in ameliorating PMOP by alleviating osteoblast pyroptosis and sustaining osteogenesis. This research was designed to investigate the novel mechanism of Lut in alleviating PMOP both in cell and animal models. Ovariectomy-induced PMOP models were established in mice with/without daily gavaged of 10 or 20 mg/kg body weight Lut. The impact of Lut on bone microstructure, metabolism and oxidative stress was evaluated with 0.104 mg/kg body weight Estradiol Valerate Tablets daily gavaged as positive control. Network pharmacological analysis and molecular docking were employed to investigate the mechanisms of Lut in PMOP treatment. Subsequently, the impacts of Lut on the PI3K/AKT axis, oxidative stress, mitochondria, and osteoblast pyroptosis were assessed. In vitro, cultured MC3T3-E1(14) cells were exposed to H Our findings demonstrated that 20 mg/kg Lut, similar to the positive control drug, effectively reduced systemic bone loss and oxidative stress, and enhanced bone metabolism induced by ovariectomy. Network pharmacological analysis and molecular docking indicated that the PI3K/AKT axis was a potential target, with oxidative stress response and nuclear membrane function being key mechanisms. Consequently, the effects of Lut on the PI3K/AKT axis and pyroptosis were investigated. In vivo data revealed that the PI3K/AKT axis was deactivated following ovariectomy, and Lut restored the phosphorylation of key proteins, thereby reactivating the axis. Additionally, Lut alleviated osteoblast pyroptosis and mitochondrial abnormalities induced by ovariectomy. In vitro, Lut intervention mitigated the inhibition of the PI3K/AKT axis and osteogenesis, as well as H In summary, Lut could improve mitochondrial dysfunction, alleviate GSDME-mediated pyroptosis and maintain osteogenesis via activating the PI3K/AKT axis, offering a new therapeutic strategy for PMOP.",
+      "pub_date": "2024-06-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Female",
+        "Pyroptosis",
+        "Osteoporosis, Postmenopausal",
+        "Proto-Oncogene Proteins c-akt",
+        "Phosphatidylinositol 3-Kinases",
+        "Mice",
+        "Osteoblasts",
+        "Ovariectomy",
+        "Signal Transduction",
+        "Oxidative Stress",
+        "Luteolin",
+        "Osteogenesis",
+        "Molecular Docking Simulation",
+        "Disease Models, Animal",
+        "Humans",
+        "Mice, Inbred C57BL",
+        "Mitochondria",
+        "Network Pharmacology",
+        "Cell Line"
+      ],
+      "chemicals": [
+        "Proto-Oncogene Proteins c-akt",
+        "Phosphatidylinositol 3-Kinases",
+        "Luteolin"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Shuang Chai",
+        "Yanbing Yang",
+        "Liwei Wei",
+        "Yuju Cao",
+        "Jiangtao Ma",
+        "Xuxia Zheng"
+      ]
+    },
+    {
+      "pmid": "37948565",
+      "title": "Long-term consequences of osteoporosis therapy with bisphosphonates.",
+      "abstract": "Bisphosphonates (BPs) are medications widely used in clinical practice to treat osteoporosis and reduce fragility fractures. Its beneficial effects on bone tissue have been consolidated in the literature for the last decades. They have a high affinity for bone hydroxyapatite crystals, and most bisphosphonates remain on the bone surface for a long period of time. Benefits of long-term use of BPs: Large and important trials (Fracture Intervention Trial Long-term Extension and Health Outcomes and Reduced Incidence with Zoledronic acid Once Yearly-Pivotal Fracture Trial) with extended use of alendronate (up to 10 years) and zoledronate (up to 6 years) evidenced significant gain of bone mineral density (BMD) and vertebral fracture risk reduction. Risks of long-term use of BPs: The extended use of antiresorptive therapy has drawn attention to two extremely rare, although severe, adverse events. That is, atypical femoral fracture and medication-related osteonecrosis of the jaw are more common in patients with high cumulative doses and longer duration of therapy. BPs have demonstrated safety and effectiveness throughout the years and evidenced increased BMD and reduced fracture risks, resulting in reduced morbimortality, and improved quality of life. These benefits overweight the risks of rare adverse events.",
+      "pub_date": "2023-11-10",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Diphosphonates",
+        "Bone Density Conservation Agents",
+        "Quality of Life",
+        "Osteoporosis",
+        "Alendronate",
+        "Zoledronic Acid",
+        "Fractures, Bone",
+        "Osteoporosis, Postmenopausal"
+      ],
+      "chemicals": [
+        "Diphosphonates",
+        "Bone Density Conservation Agents",
+        "Alendronate",
+        "Zoledronic Acid"
+      ],
+      "journal": "Archives of endocrinology and metabolism",
+      "authors": [
+        "B\u00e1rbara Gehrke",
+        "Maria Caroline Alves Coelho",
+        "Catarina Brasil d'Alva",
+        "Miguel Madeira"
+      ]
+    },
+    {
+      "pmid": "36564572",
+      "title": "Denosumab Discontinuation.",
+      "abstract": "To review the pathophysiology, the clinical consequences as well as way of mitigating the effects of denosumab discontinuation. Treatment with denosumab (DMAB) is reversible and upon discontinuation there is a rapid increase in bone turnover and a subsequent bone loss. During this phase of high bone turnover, an increased risk of fractures has been reported. Therefore, treatment with DMAB could be considered life-long. However, side-effects may prompt the need for discontinuation and moreover, treatment with DMAB may have increased BMD to levels where continuing treatment does not provide further fracture risk reduction. Patients stopping DMAB should be offered subsequent antiresorptive treatment with an intense monitoring regimen during the initial year as most of the bone loss occurs within these initial 12 months. In this review, we evaluated the literature published over the past 1 to 3 years investigating DMAB withdrawal with focus on bone turnover markers, bone mineral density, and fracture risk and the transition to other anti-osteoporosis therapies. Furthermore, we summarized the current recommendations of international guidelines. In this review, we evaluated the literature published over the past 1 to 3 years investigating denosumab (DMAB) discontinuation and the transition to other anti-osteoporosis therapies. Additionally, we summarized the current recommendations of international guidelines.",
+      "pub_date": "2023-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Denosumab",
+        "Bone Density Conservation Agents",
+        "Osteoporosis",
+        "Bone Density",
+        "Fractures, Bone",
+        "Osteoporosis, Postmenopausal"
+      ],
+      "chemicals": [
+        "Denosumab",
+        "Bone Density Conservation Agents"
+      ],
+      "journal": "Current osteoporosis reports",
+      "authors": [
+        "Anne Sophie S\u00f8lling",
+        "Elena Tsourdi",
+        "Torben Harsl\u00f8f",
+        "Bente L Langdahl"
+      ]
+    }
+  ]
+}

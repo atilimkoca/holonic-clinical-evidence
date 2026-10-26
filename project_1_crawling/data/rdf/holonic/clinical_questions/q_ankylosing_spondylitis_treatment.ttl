@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_ankylosing_spondylitis_treatment a holon:EntityEntry ;
+    holon:entity oed:ankylosing_spondylitis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_ankylosing_spondylitis_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_ankylosing_spondylitis_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.94 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_ankylosing_spondylitis_treatment ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:35935936 ;
+    oe:effectiveness "effective" .
+
+oedrug:adalimumab oe:treats oed:ankylosing_spondylitis .
+
+oeevt:ev_q_ankylosing_spondylitis_treatment-tt rdf:object oed:ankylosing_spondylitis ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:adalimumab .
+
+oeq:q_ankylosing_spondylitis_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Ankylosing Spondylitis?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.57 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_ankylosing_spondylitis_treatment-bnd ;
+    holon:hasContextGraph oeq:q_ankylosing_spondylitis_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_ankylosing_spondylitis_treatment-int ;
+    holon:hasProjectionGraph oeq:q_ankylosing_spondylitis_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Ankylosing Spondylitis with adalimumab."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_ankylosing_spondylitis_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.94 ;
+    oe:aboutDisease oed:ankylosing_spondylitis ;
+    oe:answerText "Modern pharmacological research found that the chemical components of Pubmed, Cochran Library, CNKI, and other databases were searched to collect the randomized controlled trials (RCTs). Then, the risk of bias of RCTs were assessed and data of RCTs were extracted."^^xsd:string ;
+    oe:belongsToSpecialty "Rheumatology" ;
+    oe:cites oesrc:35935936,
+        oesrc:36270658,
+        oesrc:37984057,
+        oesrc:39835510 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Ankylosing Spondylitis?"^^xsd:string .
+

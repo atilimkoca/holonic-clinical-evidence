@@ -1,0 +1,380 @@
+{
+  "disease": "Migraine",
+  "slug": "migraine",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40005053",
+      "title": "Magnesium and Migraine.",
+      "abstract": "Migraine is a widespread and intricate neurological condition that involves various factors and is marked by recurring headache episodes. Migraine is among the ten neurological conditions accounting for the greatest disability in the whole population, the leading cause of disability for children and adolescents aged 5-19 years, and the second cause of disability for adults aged 20-59 years. Magnesium deficiency is also a very common condition resulting from diverse reasons, including insufficient dietary consumption or increased loss through the gastrointestinal or renal system. Accumulated evidence from case reports, case-control studies, observational studies, and randomized, placebo-controlled trials has shown the effectiveness of magnesium supplementation in alleviating migraine, both acutely and chronically. Mechanisms that may help explain these results include the potential link between magnesium deficit and spreading cortical depression, vascular changes, oxidative stress, chronic inflammation, nervous excitation, neurotransmitter release, and electrolyte imbalances. This article aims to provide a comprehensive review of the available evidence on the links between magnesium and migraine, considering the role of magnesium in the pathogenesis of migraine and the utility of magnesium in its prevention and treatment.",
+      "pub_date": "2025-02-18",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Migraine Disorders",
+        "Magnesium",
+        "Magnesium Deficiency",
+        "Dietary Supplements",
+        "Adult",
+        "Young Adult",
+        "Adolescent"
+      ],
+      "chemicals": [
+        "Magnesium"
+      ],
+      "journal": "Nutrients",
+      "authors": [
+        "Ligia J Dominguez",
+        "Nicola Veronese",
+        "Shaun Sabico",
+        "Nasser M Al-Daghri",
+        "Mario Barbagallo"
+      ]
+    },
+    {
+      "pmid": "40277321",
+      "title": "Evidence-based guidelines for the pharmacological treatment of migraine, summary version.",
+      "abstract": "We here present evidence-based guidelines for the pharmacological treatment of migraine. These guidelines, created by the Italian Society for the Study of Headache and the International Headache Society, aim to offer clear, actionable recommendations to healthcare professionals. They incorporate evidence-based recommendations from randomized controlled trials and expert-based opinions. The guidelines follow the GRADE approach for assessing the quality of evidence. The guideline development involved a systematic review of literature across multiple databases, adherence to Cochrane review methods, and a structured framework for data extraction and interpretation. Although the guidelines provide a robust foundation for migraine treatment, they also highlight gaps in current research, such as the paucity of head-to-head drug comparisons and the need for long-term outcome studies. These guidelines serve as a resource to standardize migraine treatment and promote high-quality care across different healthcare settings.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Migraine Disorders",
+        "Humans",
+        "Evidence-Based Medicine",
+        "Analgesics"
+      ],
+      "chemicals": [
+        "Analgesics"
+      ],
+      "journal": "Cephalalgia : an international journal of headache",
+      "authors": [
+        "Raffaele Ornello",
+        "Valeria Caponnetto",
+        "Fayyaz Ahmed",
+        "Haidar M Al-Khazali",
+        "Anna Ambrosini",
+        "Sait Ashina"
+      ]
+    },
+    {
+      "pmid": "40265504",
+      "title": "Migraine in women: a review.",
+      "abstract": "The purpose of this review is to provide an update on the clinical course and management of migraine in women. Migraine is two to three times more prevalent in women who report a longer, more severe attacks with more disability, an increased risk of recurrence, and a longer recovery period. Consequently, women use more acute and preventive medications, have more comorbid conditions and are more likely to run a chronic disease course.Real-life experience and evidence suggest that onabotulinumtoxinA and the newer generation antibody treatments against the calcitonin gene-related peptide (CGRP) ligand and its receptor are highly effective in the management of migraine in women.Pregnancy, breast feeding, and menstrual cycles should be taken into account when treating women with migraine. Topiramate and sodium valproate should be avoided in women of childbearing age (WCBA). Hormonal options can be considered in menstrual or menopausal migraines. NSAIDs and prostaglandins such as mefenamic acid can be used at onset of menstrual migraine. Venlafaxine can be effective in menopausal migraine while also treating the vasomotor symptoms. Migraine usually improves during pregnancy; however, if required nonpharmacological options should be considered. Effectively managing migraine in women of productive and reproductive age, can reduce the socioeconomic burden of this debilitating disease.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Migraine Disorders",
+        "Female",
+        "Pregnancy"
+      ],
+      "chemicals": [],
+      "journal": "Current opinion in neurology",
+      "authors": [
+        "M Ghadiri-Sani"
+      ]
+    },
+    {
+      "pmid": "40277319",
+      "title": "Evidence-based guidelines for the pharmacological treatment of migraine.",
+      "abstract": "We here present evidence-based guidelines for the pharmacological treatment of migraine. These guidelines, created by the Italian Society for the Study of Headache and the International Headache Society, aim to offer clear, actionable recommendations to healthcare professionals. They incorporate evidence-based recommendations from randomized controlled trials and expert-based opinions. The guidelines follow the Grading of Recommendations, Assessment, Development and Evaluation approach for assessing the quality of evidence. The guideline development involved a systematic review of literature across multiple databases, adherence to Cochrane review methods, and a structured framework for data extraction and interpretation. Although the guidelines provide a robust foundation for migraine treatment, they also highlight gaps in current research, such as the paucity of head-to-head drug comparisons and the need for long-term outcome studies. These guidelines serve as a resource to standardize migraine treatment and promote high-quality care across different healthcare settings.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Analgesics",
+        "Evidence-Based Medicine",
+        "Migraine Disorders",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "chemicals": [
+        "Analgesics"
+      ],
+      "journal": "Cephalalgia : an international journal of headache",
+      "authors": [
+        "Raffaele Ornello",
+        "Valeria Caponnetto",
+        "Fayyaz Ahmed",
+        "Haidar M Al-Khazali",
+        "Anna Ambrosini",
+        "Sait Ashina"
+      ]
+    },
+    {
+      "pmid": "40238974",
+      "title": "Acute Migraine Headache: Treatment Strategies.",
+      "abstract": "Migraine is a primary headache disorder characterized by recurrent disabling attacks. Pharmacologic treatment of acute migraine episodes should be individualized based on route of administration, cost, contraindications, and adverse effects. Stratifying treatment based on migraine severity may result in more rapid resolution of symptoms and return of function. Simple analgesics, such as acetaminophen and nonsteroidal anti-inflammatory drugs, are first-line treatments for mild to moderate migraine episodes, and triptans are first-line therapy for moderate to severe attacks. Antiemetics and ergot alkaloids are recommended as second-line agents and in cases of refractory migraine. Gepants and ditans are promising newer agents that are supported by quality evidence for second-line use. Unlike triptans and ergot alkaloids, gepants and ditans do not have vascular contraindications. The use of these medications is largely limited by cost, although the adverse effects of ditans also may limit their use. Opioids and butalbital-containing medications are not recommended for the treatment of migraine unless other options have been ineffective. There is insufficient evidence to recommend nonpharmacologic therapies, such as neuromodulatory devices, acupuncture, and greater occipital nerve blocks, but these therapies may be appropriate for select patients.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Migraine Disorders",
+        "Tryptamines",
+        "Acute Disease",
+        "Analgesics",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Ergot Alkaloids"
+      ],
+      "chemicals": [
+        "Tryptamines",
+        "Analgesics",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Ergot Alkaloids"
+      ],
+      "journal": "American family physician",
+      "authors": [
+        "Anna T Wiley",
+        "James C Watson",
+        "Delaney N Lehmann"
+      ]
+    },
+    {
+      "pmid": "40121062",
+      "title": "Calcitonin gene-related peptide-targeted therapy in migraine: current role and future perspectives.",
+      "abstract": "Almost 40 years ago, the discovery of the vasoactive neuropeptide calcitonin gene-related peptide (CGRP) and its role in migraine pathophysiology ushered in a new era in migraine treatment. Since 2018, monoclonal antibodies (mAbs) targeting the CGRP pathway are available for migraine prevention. The approval of these drugs marks a pioneering development, as they are the first pharmacological agents specifically tailored for migraine prevention. Introduction of these agents contrasts the historical reliance on traditional preventive medications initially formulated for other indications and later repurposed for migraine therapy. Although the emergence of evidence on the efficacy and safety of CGRP-targeted mAbs has raised the bar for treatment success in migraine, their efficacy in other headache entities, such as cluster headache, is low to moderate. Small-molecule CGRP receptor antagonists called gepants have also been proven to be effective both as acute and preventive migraine treatments. Furthermore, these agents have bridged the traditional categories of acute and preventive treatment strategies. Short-term prevention and treatment during the prodromal phase of migraine represent emerging strategies enabling clinicians to develop treatment approaches designed to meet changing patient needs; however, these strategies still require more formal evidence. Although solid data have been gathered, further research concerning the efficacy and long-term safety of drugs targeting the CGRP pathway and robust pharmacoeconomic evaluations are needed. Finally, randomised withdrawal and switching studies would facilitate the formulation of evidence-based guidance for the discontinuation of and switching between drugs targeting the CGRP pathway.",
+      "pub_date": "2025-03-22",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Migraine Disorders",
+        "Calcitonin Gene-Related Peptide",
+        "Calcitonin Gene-Related Peptide Receptor Antagonists",
+        "Antibodies, Monoclonal",
+        "Receptors, Calcitonin Gene-Related Peptide",
+        "Antibodies, Monoclonal, Humanized",
+        "Molecular Targeted Therapy"
+      ],
+      "chemicals": [
+        "Calcitonin Gene-Related Peptide",
+        "Calcitonin Gene-Related Peptide Receptor Antagonists",
+        "Antibodies, Monoclonal",
+        "Receptors, Calcitonin Gene-Related Peptide",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Jan Versijpt",
+        "Koen Paemeleire",
+        "Uwe Reuter",
+        "Antoinette MaassenVanDenBrink"
+      ]
+    },
+    {
+      "pmid": "41722594",
+      "title": "Advances in migraine prevention.",
+      "abstract": "Migraine imposes a heavy burden on patients and societies. Preventive treatments aimed at reducing the occurrence of migraine attacks and their intensity have been largely underused, leaving a multitude of people with migraine to rely exclusively on acute treatments, which, when used in excess, might even worsen the clinical situation. Large, randomised trials have established the tolerability and efficacy of calcitonin gene-related peptide (CGRP)-targeting drugs, a new class of migraine-specific treatment. The increased adherence to longer treatment cycles with migraine-specific preventive drugs, such as CGRP-targeting therapies, compared with non-migraine specific treatments has the potential to improve control of the disease. These migraine-specific drugs also provide benefits to individuals with migraine who previously did not benefit from non-specific migraine preventive medications. Increased reliance on preventive treatment with migraine-specific options is progressively optimising the management of migraine for mounting numbers of patients disabled by the disease, thereby improving disease control and their quality of life.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Migraine Disorders",
+        "Calcitonin Gene-Related Peptide",
+        "Calcitonin Gene-Related Peptide Receptor Antagonists"
+      ],
+      "chemicals": [
+        "Calcitonin Gene-Related Peptide",
+        "Calcitonin Gene-Related Peptide Receptor Antagonists"
+      ],
+      "journal": "The Lancet. Neurology",
+      "authors": [
+        "Daniele Martinelli",
+        "Roberto De Icco",
+        "Haidar M Al-Khazali",
+        "Sait Ashina",
+        "Hans-Christoph Diener",
+        "Freda Dodd-Glover"
+      ]
+    },
+    {
+      "pmid": "39639191",
+      "title": "Combining treatments for migraine prophylaxis: the state-of-the-art.",
+      "abstract": "Combination treatments for migraine prophylaxis present a promising approach to addressing the diverse and complex mechanisms underlying migraine. This review explores the potential of combining oral conventional prophylactics, onabotulinumtoxin A, monoclonal antibodies (mAbs) targeting the calcitonin gene-related peptide (CGRP) pathway, and small molecule CGRP receptor antagonists (gepants). Among the most promising strategies, dual CGRP inhibition through mAbs and gepants may enhance efficacy by targeting both the CGRP peptide and its receptor, while the combination of onabotulinumtoxin A with CGRP treatments offers synergistic pain relief. Oral non-CGRP treatments, which are accessible and often prescribed for patients with comorbid conditions, provide an affordable and practical option in combination regimens. Despite the potential of these combinations, there is a lack of evidence to support their widespread inclusion in clinical guidelines. The high cost of certain combinations, such as onabotulinumtoxin A with a CGRP mAb or dual anti-CGRP mAbs, presents feasibility challenges. Further large-scale trials are needed to establish safe and effective combination protocols and solidify their role in clinical practice, particularly for treatment-resistant patients.",
+      "pub_date": "2024-12-05",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Migraine Disorders",
+        "Botulinum Toxins, Type A",
+        "Calcitonin Gene-Related Peptide Receptor Antagonists",
+        "Antibodies, Monoclonal",
+        "Drug Therapy, Combination",
+        "Calcitonin Gene-Related Peptide"
+      ],
+      "chemicals": [
+        "Botulinum Toxins, Type A",
+        "Calcitonin Gene-Related Peptide Receptor Antagonists",
+        "onabotulinum toxin A",
+        "Antibodies, Monoclonal",
+        "Calcitonin Gene-Related Peptide"
+      ],
+      "journal": "The journal of headache and pain",
+      "authors": [
+        "Lanfranco Pellesi",
+        "David Garcia-Azorin",
+        "Eloisa Rubio-Beltr\u00e1n",
+        "Wook-Seok Ha",
+        "Roberta Messina",
+        "Raffaele Ornello"
+      ]
+    },
+    {
+      "pmid": "40973555",
+      "title": "Migraine: advances in treatment.",
+      "abstract": "Increased understanding of the pathophysiology of migraine has resulted in the development of therapies targeting calcitonin gene-related peptide and its receptor. Ditans, which are serotonin 5HT",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Migraine Disorders",
+        "Animals",
+        "Pituitary Adenylate Cyclase-Activating Polypeptide"
+      ],
+      "chemicals": [
+        "Pituitary Adenylate Cyclase-Activating Polypeptide"
+      ],
+      "journal": "Trends in molecular medicine",
+      "authors": [
+        "Usman Ashraf",
+        "Peter J Goadsby"
+      ]
+    },
+    {
+      "pmid": "41534042",
+      "title": "Fremanezumab in Children and Adolescents with Episodic Migraine.",
+      "abstract": "Fremanezumab, a humanized monoclonal antibody that selectively targets calcitonin gene-related peptide, is approved for the prevention of migraine in adults. Evidence from randomized, controlled trials in children and adolescents is needed. We randomly assigned participants 6 to 17 years of age with a diagnosis of episodic migraine (defined as migraine for \u22656 months and a history of \u226414 headache days per month) to receive monthly subcutaneous injections of fremanezumab (120 mg for participants with a body weight of <45 kg and 225 mg for those with a body weight of \u226545 kg) or matched placebo for 3 months. Participants were allowed to use migraine-specific medications to treat acute headaches. The primary end point was the change from baseline in the average number of migraine days per month. Key secondary end points included the change in the number of days per month with headache of at least moderate severity and a reduction of 50% or more in the number of migraine days per month. Of 237 participants who underwent randomization, 234 were included in the full analysis population: 123 in the fremanezumab group (36 received the 120-mg dose and 87 received the 225-mg dose) and 111 in the placebo group. Fremanezumab reduced the number of migraine days per month by 2.5 as compared with 1.4 with placebo (difference, 1.1; P\u2009=\u20090.02) and the number of days per month with headache of at least moderate severity by 2.6 as compared with 1.5 with placebo (difference, 1.1; P\u2009=\u20090.02). The percentage of participants who had a reduction of 50% or more in the number of migraine days per month was 47.2% with fremanezumab and 27.0% with placebo (P\u2009=\u20090.002). Injection-site erythema was the most common adverse event with fremanezumab (9.8% of participants, vs. 5.4% with placebo). Among children and adolescents with episodic migraine, fremanezumab resulted in greater reductions in the number of migraine days and headache days than placebo. Injection-site erythema was the most common adverse event with fremanezumab. Longer follow-up is required to further understand the efficacy and safety of the drug in this population. (Funded by Teva Pharmaceuticals; ClinicalTrials.gov number, NCT04458857.).",
+      "pub_date": "2026-01-15",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Adolescent",
+        "Child",
+        "Female",
+        "Humans",
+        "Male",
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Humanized",
+        "Calcitonin Gene-Related Peptide",
+        "Calcitonin Gene-Related Peptide Receptor Antagonists",
+        "Double-Blind Method",
+        "Injections, Subcutaneous",
+        "Migraine Disorders",
+        "Severity of Illness Index",
+        "Injection Site Reaction",
+        "Erythema",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal",
+        "Antibodies, Monoclonal, Humanized",
+        "Calcitonin Gene-Related Peptide",
+        "Calcitonin Gene-Related Peptide Receptor Antagonists",
+        "fremanezumab"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Andrew D Hershey",
+        "Christina L Szperka",
+        "Piero Barbanti",
+        "Patricia Pozo-Rosich",
+        "Petra Bittigau",
+        "Steve Barash"
+      ]
+    },
+    {
+      "pmid": "40323613",
+      "title": "Fremanezumab for the Treatment of Patients With Migraine and Comorbid Major Depressive Disorder: The UNITE Randomized Clinical Trial.",
+      "abstract": "Migraine and major depressive disorder are frequently comorbid; however, evidence evaluating the efficacy of preventive migraine therapy in patients with both diseases is limited. To evaluate the efficacy and safety of fremanezumab in adults with migraine and comorbid major depressive disorder. The UNITE study was a double-blind, placebo-controlled, parallel-group, randomized clinical trial consisting of a 4-week screening period, 12-week double-blind period, and 12-week open-label extension (OLE), conducted between July 9, 2020, and August 31, 2022. The trial was conducted at 55 centers across 12 countries. Eligible patients were adults with episodic migraine (EM) or chronic migraine (CM), history of major depressive disorder according to Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition) criteria for 12 or more months before screening, and active symptoms of depression (9-item Patient Health Questionnaire score of 10 or more) at screening. Patients were randomized 1:1 to receive monthly fremanezumab (225 mg) or matched placebo. All patients in the OLE received quarterly fremanezumab (675 mg). The primary end point was the mean change from baseline in monthly migraine days during the 12-week double-blind period. Of the 540 patients screened for the study, 353 patients (mean [SD] age, 42.9 [12.3] years; 310 female [88%]; EM, 48%; CM, 52%) were eligible and randomized to receive fremanezumab (n\u2009=\u2009175) or placebo (n\u2009=\u2009178). Mean (SE) change from baseline in monthly migraine days during the 12-week double-blind period was -5.1 (0.50; 95% CI, -6.09 to -4.13) for fremanezumab and -2.9 (0.49; 95% CI, -3.89 to -1.96) for placebo (P\u2009<.001). Mean (SE) change from baseline in the Hamilton Depression Rating Scale-17 Items score at week 8 was -6.0 (0.55; 95% CI, -7.10 to -4.95) for fremanezumab and -4.6 (0.54; 95% CI, -5.66 to -3.55) for placebo (least squares mean [SE] difference: -1.4 [0.61]; 95% CI, -2.61 to -0.22; P\u2009=\u2009.02). Adverse events were consistent with other fremanezumab trials. Results were maintained throughout the OLE. Treatment with fremanezumab compared with placebo resulted in significant reductions in monthly migraine days and depressive symptoms. No new safety concerns were observed. To the authors' knowledge, this was the first placebo-controlled, randomized clinical trial, specifically designed to assess patients with migraine and comorbid depressive disorder, to demonstrate significant improvements in migraine and depressive symptoms with a single pharmacological intervention. ClinicalTrials.gov Identifier: NCT04041284.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Migraine Disorders",
+        "Male",
+        "Double-Blind Method",
+        "Adult",
+        "Major Depressive Disorder",
+        "Middle Aged",
+        "Treatment Outcome",
+        "Antibodies, Monoclonal",
+        "Comorbidity"
+      ],
+      "chemicals": [
+        "fremanezumab",
+        "Antibodies, Monoclonal"
+      ],
+      "journal": "JAMA neurology",
+      "authors": [
+        "Richard B Lipton",
+        "Verena Ramirez Campos",
+        "Zipi Roth-Ben Arie",
+        "Maja Galic",
+        "Dimos Mitsikostas",
+        "Cristina Tassorelli"
+      ]
+    },
+    {
+      "pmid": "39262214",
+      "title": "International Headache Society Global Practice Recommendations for Preventive Pharmacological Treatment of Migraine.",
+      "abstract": "",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Migraine Disorders",
+        "Societies, Medical"
+      ],
+      "chemicals": [],
+      "journal": "Cephalalgia : an international journal of headache",
+      "authors": [
+        "Francesca Puledda",
+        "Simona Sacco",
+        "Hans-Christoph Diener",
+        "Messoud Ashina",
+        "Haidar M Al-Khazali",
+        "Sait Ashina"
+      ]
+    }
+  ]
+}

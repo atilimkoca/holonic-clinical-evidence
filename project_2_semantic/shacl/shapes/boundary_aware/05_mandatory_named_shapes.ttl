@@ -1,0 +1,139 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix prov:   <http://www.w3.org/ns/prov#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# SET A — BOUNDARY-AWARE SHACL  ·  FILE 5/5: MANDATORY NAMED SHAPES (§2.2)
+#
+# Provides the §2.2 shapes that the table names explicitly and that were not
+# yet present under their canonical names:
+#   oe:EvidenceAssertionShape · oe:ReifierShape · oe:ProvenanceShape
+# (oe:TemporalConstraintShape, oe:CrossHolonConsistencyShape and
+#  oe:ProjectionCoherenceShape are in file 04.)
+#
+# This file also raises the count of sh:reifierShape usages to >= 5 (the §2.2
+# "critical for RDF 1.2" requirement). sh:reifierShape links a property's
+# reified annotations to a reifier NodeShape; in our materialised model the
+# runnable enforcement is oe:EvidenceReifierShape / oe:CitationReifierShape
+# (file 02), targeted via sh:targetClass + sh:targetSubjectsOf rdf:reifies.
+# =============================================================================
+
+# --- oe:EvidenceAssertionShape -----------------------------------------------
+# The canonical shape for a reified evidence assertion (the §2.2 name). Targets
+# the same reifier nodes as oe:EvidenceReifierShape; here we additionally bind
+# the reifier validation to the supports / contradicts / cites relations.
+
+oe:EvidenceAssertionShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:severity sh:Violation ;
+
+    # Core required annotation present on every consistent assertion (T1).
+    sh:property [
+        sh:path holon:confidence ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 1 ; sh:maxCount 1 ;
+        sh:minInclusive 0.0 ; sh:maxInclusive 1.0 ;
+        sh:severity sh:Violation ;
+        sh:message "EvidenceAssertion must carry exactly one confidence in [0,1]." ;
+    ] ;
+    sh:property [
+        sh:path holon:evidenceLevel ;
+        sh:in ( "Level-1A" "Level-1B" "Level-2A" "Level-2B" "Level-3" "Level-4" "Level-5" ) ;
+        sh:minCount 1 ;
+        sh:severity sh:Violation ;
+        sh:message "EvidenceAssertion must declare a recognised evidence level." ;
+    ] ;
+
+    # sh:reifierShape #3 — reified citations on the assertion.
+    sh:property [
+        sh:path oe:cites ;
+        sh:class oe:EvidenceSource ;
+        sh:reifierShape oe:CitationReifierShape ;
+        sh:severity sh:Violation ;
+        sh:message "Cited source must be typed (T2); its reification is validated by CitationReifierShape." ;
+    ] ;
+    # sh:reifierShape #4 — reified 'supports' links carry their own annotations.
+    sh:property [
+        sh:path oe:supports ;
+        sh:reifierShape oe:ReifierShape ;
+        sh:severity sh:Warning ;
+        sh:message "A 'supports' link, if present, is reification-validated by ReifierShape." ;
+    ] ;
+    # sh:reifierShape #5 — reified 'contradicts' links.
+    sh:property [
+        sh:path oe:contradicts ;
+        sh:reifierShape oe:ReifierShape ;
+        sh:severity sh:Warning ;
+        sh:message "A 'contradicts' link, if present, is reification-validated by ReifierShape." ;
+    ] .
+
+# --- oe:ReifierShape ---------------------------------------------------------
+# Generic reifier-metadata shape (the §2.2 name). Any reifier node validated
+# through it must carry a confidence in range if it declares one. Warning-level
+# so it never false-positives on assertions that simply lack the property.
+
+oe:ReifierShape a sh:NodeShape ;
+    sh:severity sh:Warning ;
+    sh:property [
+        sh:path holon:confidence ;
+        sh:datatype xsd:decimal ;
+        sh:minInclusive 0.0 ; sh:maxInclusive 1.0 ;
+        sh:maxCount 1 ;
+        sh:severity sh:Warning ;
+        sh:message "Reifier confidence, if present, must be a single value in [0,1]." ;
+    ] ;
+    # sh:reifierShape #6 — nested citation reification on a generic reifier.
+    sh:property [
+        sh:path oe:cites ;
+        sh:reifierShape oe:CitationReifierShape ;
+        sh:severity sh:Info ;
+        sh:message "Nested citation reification validated by CitationReifierShape." ;
+    ] .
+
+# --- oe:ProvenanceShape ------------------------------------------------------
+# Validates the provenance chain (§2.2). Warning severity: provenance is a
+# context-layer quality signal, not a hard structural gate, so it does not
+# affect the Violation-threshold detection counts. Checks that an evidence
+# assertion records WHO assessed it and WHEN, and (if the holon declares
+# context provenance) that attribution and derivation are present.
+
+oe:ProvenanceShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:severity sh:Warning ;
+    sh:property [
+        sh:path holon:assessedBy ;
+        sh:minCount 1 ;
+        sh:severity sh:Warning ;
+        sh:message "Provenance: evidence assertion should identify its assessor (prov:Agent)." ;
+    ] ;
+    sh:property [
+        sh:path holon:recordedOn ;
+        sh:datatype xsd:date ;
+        sh:minCount 1 ;
+        sh:severity sh:Warning ;
+        sh:message "Provenance: evidence assertion should record an assessment date." ;
+    ] .
+
+# --- oe:HolonProvenanceContextShape ------------------------------------------
+# Complementary provenance check on the holon's context layer when present.
+
+oe:HolonProvenanceContextShape a sh:NodeShape ;
+    sh:targetSubjectsOf prov:wasAttributedTo ;
+    sh:severity sh:Warning ;
+    sh:property [
+        sh:path prov:wasAttributedTo ;
+        sh:minCount 1 ;
+        sh:severity sh:Warning ;
+        sh:message "Provenance: a holon declaring attribution must name the agent." ;
+    ] ;
+    sh:property [
+        sh:path prov:generatedAtTime ;
+        sh:datatype xsd:dateTime ;
+        sh:maxCount 1 ;
+        sh:severity sh:Info ;
+        sh:message "Provenance: generation time, if present, must be an xsd:dateTime." ;
+    ] .

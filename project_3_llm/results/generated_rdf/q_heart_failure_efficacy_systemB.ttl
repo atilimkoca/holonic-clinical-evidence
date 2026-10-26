@@ -1,0 +1,34 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_heart_failure_efficacy> a holon:ClinicalQuestionHolon ;
+    oe:questionText "How effective is sacubitril valsartan compared with other agents for Heart Failure?"^^xsd:string ;
+    oe:answerText "Sodium-glucose cotransporter-2 inhibitors (SGLT2i) and the nonsteroidal mineralocorticoid receptor antagonist (nsMRA) finerenone have each been shown to individually improve heart failure events among patients with heart failure and mildly reduced or preserved ejection fraction (HFmrEF/HFpEF). Moreover, the angiotensin receptor neprilysin inhibitor (ARNI) sacubitril/valsartan has been shown to improve outcomes in patients with HFmrEF/HFpEF with a left ventricular ejection fraction (LVEF) below normal (<60%)."^^xsd:string ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_heart_failure_efficacy-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_heart_failure_efficacy-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_heart_failure_efficacy-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_heart_failure_efficacy-con> .
+
+<https://example.org/openevidence/drugs/sacubitril_valsartan> oe:treats <https://example.org/openevidence/diseases/heart_failure> .
+<https://example.org/openevidence/generated/ev_q_heart_failure_efficacy_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_heart_failure_efficacy_0-tt> ;
+    holon:confidence "0.55"^^xsd:decimal ;
+    holon:evidenceLevel "Level-3" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/41052644> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_heart_failure_efficacy> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_heart_failure_efficacy_0-tt> rdf:subject <https://example.org/openevidence/drugs/sacubitril_valsartan> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/heart_failure> .
+
+<https://example.org/openevidence/drugs/atorvastatin> oe:treats <https://example.org/openevidence/diseases/coronary_artery_disease> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/levothyroxine> oe:treats <https://example.org/openevidence/diseases/hypothyroidism> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/morphine> oe:treats <https://example.org/openevidence/diseases/pancreatitis> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/addison_disease> .   # ungrounded (naive)

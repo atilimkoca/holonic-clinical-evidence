@@ -1,0 +1,449 @@
+{
+  "disease": "Chronic Myeloid Leukemia",
+  "slug": "chronic_myeloid_leukemia",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "39093014",
+      "title": "Chronic myeloid leukemia: 2025 update on diagnosis, therapy, and monitoring.",
+      "abstract": "Chronic myeloid leukemia (CML) is a myeloproliferative neoplasm with an annual incidence of two cases/100\u2009000. It accounts for approximately 15% of newly diagnosed cases of leukemia in adults. CML is characterized by a balanced genetic translocation, t(9;22) (q34;q11.2), involving a fusion of the Abelson murine leukemia (ABL1) gene from chromosome 9q34 with the breakpoint cluster region (BCR) gene on chromosome 22q11.2. This rearrangement is known as the Philadelphia chromosome. The molecular consequence of this translocation is the generation of a BCR::ABL1 fusion oncogene, which in turn translates into a BCR::ABL1 oncoprotein. Four tyrosine kinase inhibitors (TKIs), imatinib, dasatinib, bosutinib, and nilotinib, are approved by the United States Food and Drug Administration (FDA) for first-line treatment of newly diagnosed CML in the chronic phase (CML-CP). Clinical trials with second and third-generation TKIs in frontline CML-CP therapy reported significantly deeper and faster responses but had no impact on survival prolongation, likely because of their potent efficacy and the availability of effective TKIs salvage therapies for patients who have a cytogenetic relapse with frontline TKI therapy. All four TKIs are equivalent if the aim of therapy is to improve survival. In younger patients with high-risk disease and in whom the aim of therapy is to induce a treatment-free remission status, second-generation TKIs may be favored. For CML post-failure on frontline therapy, second-line options include second and third-generation TKIs. Although potent and selective, these TKIs exhibit unique pharmacological profiles and response patterns relative to different patient and disease characteristics, such as patients' comorbidities and financial status, disease stage, and BCR::ABL1 mutational status. Patients who develop the T315I \"gatekeeper\" mutation display resistance to all currently available TKIs except ponatinib, asciminib, and olverembatinib. Allogeneic stem cell transplantation remains an important therapeutic option for patients with CML-CP and failure (due to resistance) of at least two TKIs and for all patients in advanced-phase disease. Older patients who have a cytogenetic relapse post-failure on all TKIs can maintain long-term survival if they continue a daily most effective/least toxic TKI, with or without the addition of non-TKI anti-CML agents (hydroxyurea, omacetaxine, azacitidine, decitabine, cytarabine, and others).",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Protein Kinase Inhibitors",
+        "Antineoplastic Agents",
+        "Fusion Proteins, bcr-abl"
+      ],
+      "chemicals": [
+        "Protein Kinase Inhibitors",
+        "Antineoplastic Agents",
+        "Fusion Proteins, bcr-abl"
+      ],
+      "journal": "American journal of hematology",
+      "authors": [
+        "Elias Jabbour",
+        "Hagop Kantarjian"
+      ]
+    },
+    {
+      "pmid": "40360311",
+      "title": "BCR-ABL: The molecular mastermind behind chronic myeloid leukemia.",
+      "abstract": "The chromosomal translocation t(9;22)(q34;q11), known as the Philadelphia (Ph) chromosome, results in the BCR-ABL gene fusion which gives rise to Chronic Myeloid Leukemia (CML), a slowly progressing hematopoietic cancer that begins in the bone marrow of the patient. Making up about 15\u202f% of all new leukemia cases, CML remains a critical focus of cancer research and treatment due to its distinctive genetic hallmark, the BCR-ABL fusion gene. The BCR-ABL fusion protein is a constitutively active tyrosine kinase which signals to multiple pathways including the Ras/MAPK, PI3K/AKT, JAK/STAT and NF-kappaB pathways which promote uncontrolled cell proliferation and survival. While multiple tyrosine kinase inhibitors (TKIs) are used to specifically target the fusion in the treatment of CML, new therapies are becoming available to overcome the resistance that occurs during TKI treatments of the disease. The discovery of the Philadelphia chromosome and the subsequent elucidation of the BCR-ABL fusion protein have since become a paradigm for understanding the genetic basis of cancer and developing precision medicine approaches. This review highlights the etiology and historical discovery of the BCR-ABL fusion, recent advances in understanding its regulatory mechanisms, and emerging strategies for its therapeutic targeting.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Fusion Proteins, bcr-abl",
+        "Protein Kinase Inhibitors",
+        "Animals",
+        "Signal Transduction",
+        "Philadelphia Chromosome"
+      ],
+      "chemicals": [
+        "Fusion Proteins, bcr-abl",
+        "Protein Kinase Inhibitors"
+      ],
+      "journal": "Cytokine & growth factor reviews",
+      "authors": [
+        "Tara Shammas",
+        "Malalage N Peiris",
+        "April N Meyer",
+        "Daniel J Donoghue"
+      ]
+    },
+    {
+      "pmid": "40616814",
+      "title": "Management of chronic myeloid leukemia in 2025.",
+      "abstract": "Chronic myeloid leukemia (CML) has an annual incidence of approximately two cases per 100,000. The reduction in annual mortality from 10%-20% to 1% with BCR::ABL1 tyrosine kinase inhibitors (TKIs) has resulted in an increased prevalence in the United States of an estimated 150,000 cases in 2025. This translates into a worldwide estimated prevalence of approximately 5 million cases, and hence the need to make TKIs available and affordable to all patients. The four main goals of CML therapy are to (1) improve survival; (2) achieve a durable deep molecular response, which may lead to a treatment-free remission status; (3) reduce short- and long-term side effects; and (4) provide good treatment value. Today, the six approved BCR::ABL1 TKIs, five in frontline therapy (imatinib, dasatinib, bosutinib, nilotinib, and asciminib) and all six in later line therapy (including ponatinib), fulfill in one form or another these requirements. Third-generation TKIs that target the ABL1 kinase domain (olverembatinib and ELVN-001) or the myristoyl pocket (TGRX-678 and TERN-701) are under development. Allogeneic hematopoietic stem cell transplantation is a one-time, cost-effective, curative treatment in patients with CML resistant to second-generation TKIs, which is perhaps surprisingly underused in 2025, given the high enthusiasm for it before the development of TKIs. However, serious complications, such as graft-vs-host disease, or death could occur. This review summarizes relevant information concerning the management of CML in 2025, and addresses some CML treatment pathways that became entrenched in the management of CML in the first 15-20 years of TKI experience, which may need to be revisited.",
+      "pub_date": "2025-07-15",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Protein Kinase Inhibitors",
+        "Fusion Proteins, bcr-abl",
+        "Hematopoietic Stem Cell Transplantation",
+        "Antineoplastic Agents"
+      ],
+      "chemicals": [
+        "Protein Kinase Inhibitors",
+        "Fusion Proteins, bcr-abl",
+        "Antineoplastic Agents"
+      ],
+      "journal": "Cancer",
+      "authors": [
+        "Hagop Kantarjian",
+        "Massimo Breccia",
+        "Fadi G Haddad",
+        "R\u00fcdiger Hehlmann",
+        "Ghayas C Issa",
+        "Hemant Malhotra"
+      ]
+    },
+    {
+      "pmid": "40646132",
+      "title": "2025 European LeukemiaNet recommendations for the management of chronic myeloid leukemia.",
+      "abstract": "In this 5th version of the European LeukemiaNet guidance for adult patients, there are important changes in several areas of management based on evidence available since 2020, including the World Health Organisation's reclassification of CML as a biphasic disease. Previous advice to switch the tyrosine kinase inhibitor (TKI) on failure of molecular milestones, is modified to better account for individual patient circumstances. Our recommendations are summarized in tables designed to be read in conjunction with the text which offers justification and additional advice. We describe decision-making for first-line treatment, both in available drugs and their initial dosing. Similarly we elaborate on dose reduction rather than drug switching to manage toxicities and discuss treatment sequencing. Data have matured for the outcome of treatment discontinuation and for management of parenting for both men and women. We acknowledge that most patients will remain on treatment for many years and emphasize the needs to minimize side effects, manage co-morbidities and optimize quality of life. Recent advances in allogeneic stem cell transplantation have broadened access to alternative donors, and lessened limitations of age and co-morbidities such that transplant remains a valuable option for patients for whom long-term disease control is not achieved through TKI therapy.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Disease Management",
+        "Europe",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Protein Kinase Inhibitors"
+      ],
+      "chemicals": [
+        "Protein Kinase Inhibitors"
+      ],
+      "journal": "Leukemia",
+      "authors": [
+        "Jane F Apperley",
+        "Dragana Milojkovic",
+        "Nicholas C P Cross",
+        "Henrik Hjorth-Hansen",
+        "Andreas Hochhaus",
+        "Hagop Kantarjian"
+      ]
+    },
+    {
+      "pmid": "39729529",
+      "title": "Novel treatment strategies for chronic myeloid leukemia.",
+      "abstract": "Starting with imatinib, tyrosine kinase inhibitors (TKIs) have turned chronic myeloid leukemia (CML) from a lethal blood cancer into a chronic condition. As patients with access to advanced CML care have an almost normal life expectancy, there is a perception that CML is a problem of the past, and one should direct research resources elsewhere. However, a closer look at the current CML landscape reveals a more nuanced picture. Most patients still require life-long TKI therapy to avoid recurrence of active CML. Chronic TKI toxicity and the high costs of the well-tolerated agents remain challenging. Progression to blast phase still occurs, particularly in socioeconomically disadvantaged parts of the world, where high-risk CML at diagnosis is common. Here, we review the prospects of further improving TKIs to achieve optimal suppression of BCR::ABL1 kinase activity, the potential of combining different classes of TKIs, and the current state of BCR::ABL1 degraders. We cover combination therapy approaches to address TKI resistance in the setting of residual leukemia and in advanced CML. Despite the unprecedented success of TKIs in CML, more work is needed to truly finish the job, and we hope to stimulate innovative research aiming to achieve this goal.",
+      "pub_date": "2025-02-27",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Protein Kinase Inhibitors",
+        "Drug Resistance, Neoplasm",
+        "Fusion Proteins, bcr-abl",
+        "Antineoplastic Agents"
+      ],
+      "chemicals": [
+        "Protein Kinase Inhibitors",
+        "Fusion Proteins, bcr-abl",
+        "Antineoplastic Agents"
+      ],
+      "journal": "Blood",
+      "authors": [
+        "Nataly Cruz-Rodriguez",
+        "Michael W Deininger"
+      ]
+    },
+    {
+      "pmid": "39374521",
+      "title": "Asciminib plus dasatinib and prednisone for Philadelphia chromosome-positive acute leukemia.",
+      "abstract": "Dasatinib is an effective treatment for Philadelphia chromosome-positive (Ph+) acute leukemia, but some patients develop resistance. Combination treatment with dasatinib and asciminib, an allosteric inhibitor of BCR::ABL1, may deepen responses and prevent the emergence of dasatinib-resistant clones. In this phase 1 study (NCT03595017), 24 adults with Ph+ acute lymphoblastic leukemia (ALL; n\u00a0=\u00a022; p190, n\u00a0=\u00a016; p210, n\u00a0=\u00a06) and chronic myeloid leukemia in lymphoid blast crisis (n\u00a0=\u00a02) were treated with escalating daily doses of asciminib in combination with dasatinib 140 mg daily plus prednisone 60\u00a0mg/m2 daily to determine the maximum tolerated dose. After a 28-day induction, dasatinib and asciminib were continued indefinitely or until hematopoietic stem cell transplant. The median age was 64.5 years (range, 33-85; 50% aged \u226565 years). The recommended phase 2 dose of asciminib was 80 mg daily in combination with dasatinib and prednisone. The dose limiting toxicity at 160 mg daily was asymptomatic grade 3 pancreatic enzyme elevation without symptomatic pancreatitis. There were no vaso-occlusive events. Among patients with de novo ALL, the complete hematologic remission rates at days 28 and 84 were 84% and 100%, respectively. At day 84, 100% of patients achieved complete cytogenetic remission, 89% achieved measurable residual disease negativity (<0.01%) by multicolor flow cytometry, and 74% and 26% achieved BCR::ABL1 reverse transcription quantitative polymerase chain reaction <0.1% and <0.01%, respectively. Dual BCR::ABL1 inhibition with dasatinib and asciminib is safe with encouraging activity in patients with de novo Ph+ ALL. This trial was registered at www.clinicaltrials.gov as #NCT02081378.",
+      "pub_date": "2025-02-06",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase I",
+        "Multicenter Study",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Aged, 80 and over",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Dasatinib",
+        "Fusion Proteins, bcr-abl",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Maximum Tolerated Dose",
+        "Philadelphia Chromosome",
+        "Precursor Cell Lymphoblastic Leukemia-Lymphoma",
+        "Prednisone",
+        "Pyrazoles",
+        "Niacinamide"
+      ],
+      "chemicals": [
+        "asciminib",
+        "Dasatinib",
+        "Fusion Proteins, bcr-abl",
+        "Prednisone",
+        "Pyrazoles",
+        "Niacinamide"
+      ],
+      "journal": "Blood",
+      "authors": [
+        "Marlise R Luskin",
+        "Mark A Murakami",
+        "Julia Keating",
+        "Yael Flamand",
+        "Eric S Winer",
+        "Jacqueline S Garcia"
+      ]
+    },
+    {
+      "pmid": "39046786",
+      "title": "A predictive model for therapy failure in patients with chronic myeloid leukemia receiving tyrosine kinase inhibitor therapy.",
+      "abstract": "Although tyrosine kinase inhibitor (TKI) therapy has markedly improved the survival of people with chronic-phase chronic myeloid leukemia (CML), 20% to 30% of people still experienced therapy failure. Data from 1955 consecutive patients with chronic-phase CML diagnosed by the European LeukemiaNet recommendations from 1 center receiving initial imatinib or a second-generation (2G) TKI therapy were interrogated to develop a clinical prediction model for TKI-therapy failure. This model was subsequently validated in 3454 patients from 76 other centers. Using the predictive clinical covariates associated with TKI-therapy failure, we developed a model that stratified patients into low-, intermediate- and high-risk subgroups with significantly different cumulative incidences of therapy failure (P\u00a0< .001). There was good discrimination and calibration in the external validation data set, and the performance was consistent with that of the training data set. Our model had the better prediction discrimination than the Sokal and European Treatment and Outcome Study long-term survival scores, with the greater time-dependent area under the receiver-operator characteristic curve values and a better ability to redefine the risk of therapy failure. Our model could help physicians estimate the likelihood of initial imatinib or 2G TKI-therapy failure in people with chronic-phase CML.",
+      "pub_date": "2024-10-31",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Protein Kinase Inhibitors",
+        "Treatment Failure",
+        "Middle Aged",
+        "Male",
+        "Female",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Aged",
+        "Adult",
+        "Imatinib Mesylate",
+        "Aged, 80 and over",
+        "Protein-Tyrosine Kinases",
+        "Pyrimidines",
+        "Young Adult",
+        "Adolescent",
+        "Benzamides",
+        "Piperazines",
+        "Prognosis",
+        "Antineoplastic Agents",
+        "Tyrosine Kinase Inhibitors"
+      ],
+      "chemicals": [
+        "Protein Kinase Inhibitors",
+        "Imatinib Mesylate",
+        "Protein-Tyrosine Kinases",
+        "Pyrimidines",
+        "Benzamides",
+        "Piperazines",
+        "Antineoplastic Agents",
+        "Tyrosine Kinase Inhibitors"
+      ],
+      "journal": "Blood",
+      "authors": [
+        "Xiaoshuai Zhang",
+        "Bingcheng Liu",
+        "Jian Huang",
+        "Yanli Zhang",
+        "Na Xu",
+        "Robert Peter Gale"
+      ]
+    },
+    {
+      "pmid": "40197896",
+      "title": "Olverembatinib in chronic myeloid leukemia-Review of historical development, current status, and future research.",
+      "abstract": "Once considered an incurable disease with a poor prognosis (median survival, 3-6 years), chronic myeloid leukemia (CML) is now managed with a diverse clinical armamentarium that includes BCR::ABL1 tyrosine kinase inhibitors (TKIs), which have largely normalized life expectancy in most patients in the chronic phase of the disease (CML-CP). Clinical challenges remain, including ABL1 mutation-driven treatment resistance (under the selection pressures exerted by TKIs), as well as treatment intolerance, which can involve potentially serious arterial occlusive events. Olverembatinib is a third-generation TKI approved in China for TKI-resistant CML-CP and accelerated-phase CML with the T135I mutation, as well as for CML-CP resistant to or intolerant of first- and/or second-generation TKIs. Olverembatinib exhibits a broad coverage of ABL1 mutants, including the gatekeeper T315I variant and compound mutations. In preclinical models, olverembatinib inhibited multiple downstream protein kinases, which has potentially opened avenues for future management of other malignancies, including acute myeloid and lymphoid leukemias, gastrointestinal tumors, and others. The pharmacokinetic profile of olverembatinib is compatible with alternate-day dosing. In clinical trials, olverembatinib exerted potent antileukemic effects in heavily pretreated patients with CML, including those with ponatinib or asciminib resistance or intolerance, and was well tolerated. Future studies include the phase 3 registrational POLARIS-1 (NCT06051409; in patients with newly diagnosed Philadelphia chromosome-positive acute lymphoblastic leukemia), POLARIS-2 (NCT06423911; in patients with CML with or without the T315I mutation), and POLARIS-3 (NCT06640361; in patients with succinate dehydrogenase-deficient gastrointestinal stromal tumors) clinical trials.",
+      "pub_date": "2025-04-15",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Protein Kinase Inhibitors",
+        "Drug Resistance, Neoplasm",
+        "Fusion Proteins, bcr-abl",
+        "Mutation",
+        "Antineoplastic Agents",
+        "Clinical Trials as Topic"
+      ],
+      "chemicals": [
+        "Protein Kinase Inhibitors",
+        "Fusion Proteins, bcr-abl",
+        "Antineoplastic Agents"
+      ],
+      "journal": "Cancer",
+      "authors": [
+        "Hagop Kantarjian",
+        "Yifan Zhai",
+        "Vivian G Oehler",
+        "Omer Jamy",
+        "Paul B Koller",
+        "Fadi G Haddad"
+      ]
+    },
+    {
+      "pmid": "39465372",
+      "title": "Combined targeting of GPX4 and BCR-ABL tyrosine kinase selectively compromises BCR-ABL+\u2009leukemia stem cells.",
+      "abstract": "In the ongoing battle against BCR-ABL+\u2009leukemia, despite significant advances with tyrosine kinase inhibitors (TKIs), the persistent challenges of drug resistance and the enduring presence of leukemic stem cells (LSCs) remain formidable barriers to achieving a cure. In this study, we demonstrated that Disulfiram (DSF) induces ferroptosis to synergize with TKIs in inhibiting BCR-ABL+\u2009cells, particularly targeting resistant cells and LSCs, using cell models, mouse models, and primary cells from patients. We elucidated the mechanism by which DSF promotes GPX4 degradation to induce ferroptosis through immunofluorescence, co-immunoprecipitation (CO-IP), RNA sequencing, lipid peroxidation assays, and rescue experiments. Here, we present compelling evidence elucidating the sensitivity of DSF, an USA\u00a0FDA-approved drug for alcohol dependence, towards BCR-ABL+\u2009cells. Our findings underscore DSF's ability to selectively induce a potent cytotoxic effect on BCR-ABL+\u2009cell lines and effectively inhibit primary BCR-ABL+\u2009leukemia cells. Crucially, the combined treatment of DSF with TKIs selectively eradicates TKI-insensitive stem cells and resistant cells. Of particular note is DSF's capacity to disrupt GPX4 stability, elevate the labile iron pool, and intensify lipid peroxidation, ultimately leading to ferroptotic cell death. Our investigation shows that BCR-ABL expression induces alterations in cellular iron metabolism and increases GPX4 expression. Additionally, we demonstrate the indispensability of GPX4 for LSC development and the initiation/maintenance of BCR-ABL+\u2009leukemia. Mechanical analysis further elucidates DSF's capacity to overcome resistance by reducing GPX4 levels through the disruption of its binding with HSPA8, thereby promoting STUB1-mediated GPX4 ubiquitination and subsequent proteasomal degradation. Furthermore, the combined treatment of DSF with TKIs effectively targets both BCR-ABL+\u2009blast cells and drug-insensitive LSCs, conferring a significant survival advantage in mouse models. In summary, the dual inhibition of GPX4 and BCR-ABL presents a promising therapeutic strategy to synergistically target blast cells and drug-insensitive LSCs in patients, offering potential avenues for advancing leukemia treatment.",
+      "pub_date": "2024-10-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Fusion Proteins, bcr-abl",
+        "Neoplastic Stem Cells",
+        "Humans",
+        "Animals",
+        "Mice",
+        "Protein Kinase Inhibitors",
+        "Disulfiram",
+        "Ferroptosis",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Cell Line, Tumor",
+        "Drug Resistance, Neoplasm",
+        "Xenograft Model Antitumor Assays"
+      ],
+      "chemicals": [
+        "Phospholipid Hydroperoxide Glutathione Peroxidase",
+        "Fusion Proteins, bcr-abl",
+        "Protein Kinase Inhibitors",
+        "Disulfiram"
+      ],
+      "journal": "Molecular cancer",
+      "authors": [
+        "Chengwu Zeng",
+        "Dingrui Nie",
+        "Xianfeng Wang",
+        "Shuxin Zhong",
+        "Xiangbo Zeng",
+        "Xin Liu"
+      ]
+    },
+    {
+      "pmid": "40102686",
+      "title": "Selective translational control by PABPC1 phase separation regulates blast crisis and therapy resistance in chronic myeloid leukaemia.",
+      "abstract": "Tyrosine kinase inhibitors (TKIs) targeting the BCR-ABL1 fusion tyrosine kinase have revolutionized the treatment of chronic myeloid leukaemia (CML). However, the development of TKI resistance and the subsequent transition from the chronic phase (CP) to blast crisis (BC) threaten patients with CML. Accumulating evidence suggests that translational control is crucial for cancer progression. Our high-throughput CRISPR-Cas9 screening identified poly(A) binding protein cytoplasmic 1 (PABPC1) as a driver for CML progression in the BC stage. PABPC1 preferentially improved the translation efficiency of multiple leukaemogenic mRNAs with long and highly structured 5' untranslated regions by forming biomolecular condensates. Inhibiting PABPC1 significantly suppressed CML cell proliferation and attenuated disease progression, with minimal effects on normal haematopoiesis. Moreover, we identified two PABPC1 inhibitors that inhibited BC progression and overcame TKI resistance in murine and human CML. Overall, our work identifies PABPC1 as a selective translation enhancing factor in CML-BC, with its genetic or pharmacological inhibition overcoming TKI resistance and suppressed BC progression.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Blast Crisis",
+        "Humans",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Animals",
+        "Drug Resistance, Neoplasm",
+        "Protein Kinase Inhibitors",
+        "Mice",
+        "Poly(A)-Binding Protein I",
+        "Protein Biosynthesis",
+        "Cell Proliferation",
+        "Fusion Proteins, bcr-abl",
+        "Cell Line, Tumor",
+        "Gene Expression Regulation, Leukemic",
+        "Female",
+        "Phase Separation"
+      ],
+      "chemicals": [
+        "Protein Kinase Inhibitors",
+        "Poly(A)-Binding Protein I",
+        "Fusion Proteins, bcr-abl"
+      ],
+      "journal": "Nature cell biology",
+      "authors": [
+        "Chenguang Sun",
+        "Xi Xu",
+        "Zhongyang Chen",
+        "Fanqi Zhou",
+        "Wen Wang",
+        "Junzhu Chen"
+      ]
+    },
+    {
+      "pmid": "39486043",
+      "title": "Long-term outcomes of tyrosine kinase inhibitors in chronic myeloid leukemia.",
+      "abstract": "Long-term outcomes with tyrosine kinase inhibitors (TKIs) show that their impact on chronic myeloid leukemia (CML) is sustained as shown by 13 studies with 5- to 14-year-follow-up, and numerous shorter-term studies of newly diagnosed chronic-phase CML. Twenty-five years of imatinib (IM) treatment confirm its beneficial effect on survival and possible cure of CML. Large, randomized, academic, treatment-optimization studies have confirmed and extended the pivotal International Randomized Study on Interferon and STI571. The 3 academic trials in Germany, France, and the United Kingdom did not show benefit of the IM-interferon (IFN) combination, despite the immunomodulatory properties of IFN. Second-generation (2G) TKIs induce responses faster than IM and recognize IM-resistance mutations but do not prolong survival compared with IM. Adverse drug-related reactions (ADRs) limit the general use of 2GTKIs despite frequent but mostly mild IM-ADRs. Molecular monitoring of treatment efficacy has been established serving as an example for other neoplasms. Comorbidities, transcript type, and the negative impact of high-risk additional chromosomal abnormalities were addressed. A new prognostic score (European Treatment and Outcome Study long-term survival score) accounts for the fact that the majority of patients with CML die of other causes. Non-CML determinants of survival have been identified. Large and long-term observational studies demonstrate that progress with CML management has also reached routine care in most but not all instances. Despite merits of 2GTKIs, IM remains the preferred treatment option for CML because of its efficacy and superior safety.",
+      "pub_date": "2025-02-27",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Protein Kinase Inhibitors",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Treatment Outcome",
+        "Imatinib Mesylate",
+        "Antineoplastic Agents",
+        "Tyrosine Kinase Inhibitors"
+      ],
+      "chemicals": [
+        "Protein Kinase Inhibitors",
+        "Imatinib Mesylate",
+        "Antineoplastic Agents",
+        "Tyrosine Kinase Inhibitors"
+      ],
+      "journal": "Blood",
+      "authors": [
+        "Fran\u00e7ois Guilhot",
+        "R\u00fcdiger Hehlmann"
+      ]
+    },
+    {
+      "pmid": "40334072",
+      "title": "Asciminib remained superior vs bosutinib in late-line CML-CP after nearly 4 years of follow-up in ASCEMBL.",
+      "abstract": "The efficacy of and disease control afforded by tyrosine kinase inhibitors (TKIs) in chronic myeloid leukemia in chronic phase (CML-CP) have led to increased longevity and thus the continued pursuit of alternative therapies that are efficacious and maximize tolerability. The 24- and 96-week analyses from ASCEMBL demonstrated superior efficacy, safety, and tolerability of asciminib when compared with bosutinib in later-line therapy, thereby meeting the primary and key secondary objectives. With nearly 4 years of follow-up, data from ASCEMBL continued to demonstrate the superior efficacy, safety, and tolerability of asciminib over bosutinib. At week 156, the major molecular response (MMR) rates remained higher with asciminib (33.8%) than with bosutinib (10.5%); the difference in MMR rates between arms, after adjusting for baseline major cytogenetic response, was 23.2% (95% confidence interval, 13.14-33.18; 2-sided P < .001). Asciminib continued to cause fewer grade \u22653 adverse events (AEs; 59.6% vs 68.4%) and fewer AEs that led to treatment discontinuation (8.3% vs 27.6%) than bosutinib. This updated analysis also includes patients who switched to asciminib because of a lack of efficacy with bosutinib. Two of the 25 patients who switched achieved MMR by the end of study, suggesting that earlier incorporation of asciminib, before other TKIs, may improve responses, albeit modestly. These long-term results further solidify asciminib as the therapy of choice for patients with CML-CP who were previously treated with \u22652 previous TKIs. This trial was registered at clinicaltrials.gov as #NCT03106779.",
+      "pub_date": "2025-08-26",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Aniline Compounds",
+        "Antineoplastic Agents",
+        "Follow-Up Studies",
+        "Leukemia, Myelogenous, Chronic, BCR-ABL Positive",
+        "Leukemia, Myeloid, Chronic-Phase",
+        "Nitriles",
+        "Protein Kinase Inhibitors",
+        "Pyrazoles",
+        "Quinolines",
+        "Treatment Outcome",
+        "Niacinamide"
+      ],
+      "chemicals": [
+        "Aniline Compounds",
+        "Antineoplastic Agents",
+        "asciminib",
+        "bosutinib",
+        "Nitriles",
+        "Protein Kinase Inhibitors",
+        "Pyrazoles",
+        "Quinolines",
+        "Niacinamide"
+      ],
+      "journal": "Blood advances",
+      "authors": [
+        "Michael J Mauro",
+        "Yosuke Minami",
+        "Andreas Hochhaus",
+        "Elza Lomaia",
+        "Sergey Voloshin",
+        "Anna Turkina"
+      ]
+    }
+  ]
+}

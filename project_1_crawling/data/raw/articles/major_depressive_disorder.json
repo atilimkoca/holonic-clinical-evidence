@@ -1,0 +1,448 @@
+{
+  "disease": "Major Depressive Disorder",
+  "slug": "major_depressive_disorder",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40323613",
+      "title": "Fremanezumab for the Treatment of Patients With Migraine and Comorbid Major Depressive Disorder: The UNITE Randomized Clinical Trial.",
+      "abstract": "Migraine and major depressive disorder are frequently comorbid; however, evidence evaluating the efficacy of preventive migraine therapy in patients with both diseases is limited. To evaluate the efficacy and safety of fremanezumab in adults with migraine and comorbid major depressive disorder. The UNITE study was a double-blind, placebo-controlled, parallel-group, randomized clinical trial consisting of a 4-week screening period, 12-week double-blind period, and 12-week open-label extension (OLE), conducted between July 9, 2020, and August 31, 2022. The trial was conducted at 55 centers across 12 countries. Eligible patients were adults with episodic migraine (EM) or chronic migraine (CM), history of major depressive disorder according to Diagnostic and Statistical Manual of Mental Disorders (Fifth Edition) criteria for 12 or more months before screening, and active symptoms of depression (9-item Patient Health Questionnaire score of 10 or more) at screening. Patients were randomized 1:1 to receive monthly fremanezumab (225 mg) or matched placebo. All patients in the OLE received quarterly fremanezumab (675 mg). The primary end point was the mean change from baseline in monthly migraine days during the 12-week double-blind period. Of the 540 patients screened for the study, 353 patients (mean [SD] age, 42.9 [12.3] years; 310 female [88%]; EM, 48%; CM, 52%) were eligible and randomized to receive fremanezumab (n\u2009=\u2009175) or placebo (n\u2009=\u2009178). Mean (SE) change from baseline in monthly migraine days during the 12-week double-blind period was -5.1 (0.50; 95% CI, -6.09 to -4.13) for fremanezumab and -2.9 (0.49; 95% CI, -3.89 to -1.96) for placebo (P\u2009<.001). Mean (SE) change from baseline in the Hamilton Depression Rating Scale-17 Items score at week 8 was -6.0 (0.55; 95% CI, -7.10 to -4.95) for fremanezumab and -4.6 (0.54; 95% CI, -5.66 to -3.55) for placebo (least squares mean [SE] difference: -1.4 [0.61]; 95% CI, -2.61 to -0.22; P\u2009=\u2009.02). Adverse events were consistent with other fremanezumab trials. Results were maintained throughout the OLE. Treatment with fremanezumab compared with placebo resulted in significant reductions in monthly migraine days and depressive symptoms. No new safety concerns were observed. To the authors' knowledge, this was the first placebo-controlled, randomized clinical trial, specifically designed to assess patients with migraine and comorbid depressive disorder, to demonstrate significant improvements in migraine and depressive symptoms with a single pharmacological intervention. ClinicalTrials.gov Identifier: NCT04041284.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Migraine Disorders",
+        "Male",
+        "Double-Blind Method",
+        "Adult",
+        "Major Depressive Disorder",
+        "Middle Aged",
+        "Treatment Outcome",
+        "Antibodies, Monoclonal",
+        "Comorbidity"
+      ],
+      "chemicals": [
+        "fremanezumab",
+        "Antibodies, Monoclonal"
+      ],
+      "journal": "JAMA neurology",
+      "authors": [
+        "Richard B Lipton",
+        "Verena Ramirez Campos",
+        "Zipi Roth-Ben Arie",
+        "Maja Galic",
+        "Dimos Mitsikostas",
+        "Cristina Tassorelli"
+      ]
+    },
+    {
+      "pmid": "40329642",
+      "title": "Advancing an Inflammatory Subtype of Major Depression.",
+      "abstract": "Chronic inflammation plays a prominent role in multiple medical disorders, including psychiatric diseases such as major depression. Exposure to inflammatory stimuli leads to changes in neurotransmitter systems and neurocircuits in the brain that are associated with depressive symptoms. Blockade of inflammatory cytokines can reduce depressive symptoms in medically ill and medically healthy individuals with depression. Increased levels of biomarkers of inflammation are associated with an overrepresentation of neurovegetative symptoms, including anhedonia, fatigue, and psychomotor slowing, and can predict response to antidepressant treatments. Importantly, however, increased inflammatory biomarkers occur in only a subgroup of individuals with depression. Thus, there appears to be a subset of patients with depression with a unique symptom presentation and treatment response whose disease is primarily driven by inflammation. Further identifying and characterizing this inflammatory subtype of depression can foster the development of treatments targeting the immune system and its effects on the brain. Moreover, by using this mechanism-based approach to parsing the heterogeneity of depression, we can refine our diagnostic nosology and model a strategy for precision medicine and targeted therapeutics in psychiatry.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Major Depressive Disorder",
+        "Inflammation",
+        "Biomarkers",
+        "Cytokines",
+        "Brain",
+        "Antidepressive Agents"
+      ],
+      "chemicals": [
+        "Biomarkers",
+        "Cytokines",
+        "Antidepressive Agents"
+      ],
+      "journal": "The American journal of psychiatry",
+      "authors": [
+        "Andrew H Miller"
+      ]
+    },
+    {
+      "pmid": "40601310",
+      "title": "Esketamine Monotherapy in Adults With Treatment-Resistant Depression: A Randomized Clinical Trial.",
+      "abstract": "Esketamine nasal spray, administered in conjunction with an oral antidepressant, is approved for treatment-resistant depression (TRD). However, the efficacy of esketamine nasal spray administered as monotherapy for patients with TRD has not yet been evaluated. To assess the efficacy and safety of esketamine monotherapy compared to placebo in reducing depressive symptoms in patients with TRD. This phase 4, double-blind, placebo-controlled randomized clinical trial was conducted from November 2020 to January 2024 at 51 outpatient centers in the US. Adults with major depressive disorder (DSM-5 criteria) without psychotic features who experienced inadequate response (\u226425% improvement) to 2 or more oral antidepressants during the current depressive episode were eligible for inclusion. Data analyses were conducted from March 1, 2024, to July 8, 2024. After a 2-week or longer antidepressant-free period, participants were randomized at a 1:1:2 ratio to fixed-dose intranasal esketamine (56 mg or 84 mg) or matching intranasal placebo, administered twice weekly for 4 weeks. Change in Montgomery-\u00c5sberg Depression Rating Scale (MADRS) score from baseline to day 28 (primary efficacy end point) and to 24 hours post-first dose (day 2; key secondary efficacy end point) were analyzed by a mixed-effects model using repeated measures. In this multicenter randomized clinical trial, 378 participants who met prerandomization MADRS severity criteria received 1 or more study drug doses (esketamine, 56 mg [n\u2009=\u200986]; esketamine, 84 mg [n\u2009=\u200995]; or placebo [n\u2009=\u2009197]). Mean (SD) participant age was 45.4 (14.1) years, 231 participants (61.1%) were female, and baseline mean (range) MADRS total score was 37.3 (28-50). At day 28, the least-square (LS) mean difference (SE) between esketamine and placebo was -5.1 (1.42) (95% CI, -7.91 to -2.33) for the 56-mg dose and -6.8 (1.38) (95% CI, -9.48 to -4.07) for the 84-mg dose (for each, 2-sided P\u2009<\u2009.001). Observed effect sizes were 0.48 and 0.63 for the 56-mg and 84-mg dose groups, respectively. At day 2 (approximately 24 hours post-first dose), the between-group difference was significant for both esketamine doses: -3.8 (1.29) (95% CI, -6.29 to -1.22; 2-sided P\u2009=\u2009.004) for 56 mg and -3.4 (1.24) (95% CI, -5.89 to -1.00; 2-sided P\u2009=\u2009.006) for 84 mg. The most common treatment-emergent adverse events reported for esketamine (combined doses) were nausea (56 participants [24.8%]), dissociation (55 [24.3%]), dizziness (49 [21.7%]), and headache (43 [19.0%]). According to results of this multicenter, double-blind randomized clinical trial, esketamine monotherapy may expand treatment options for adult patients with TRD by addressing an unmet need of patients experiencing treatment-limiting tolerability concerns and nonresponse with oral antidepressants. ClinicalTrials.gov Identifier: NCT04599855.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase IV"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Ketamine",
+        "Male",
+        "Depressive Disorder, Treatment-Resistant",
+        "Female",
+        "Double-Blind Method",
+        "Middle Aged",
+        "Adult",
+        "Administration, Intranasal",
+        "Antidepressive Agents",
+        "Major Depressive Disorder",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Ketamine",
+        "Esketamine",
+        "Antidepressive Agents"
+      ],
+      "journal": "JAMA psychiatry",
+      "authors": [
+        "Adam Janik",
+        "Xin Qiu",
+        "Rosanne Lane",
+        "Vanina Popova",
+        "Wayne C Drevets",
+        "Carla M Canuso"
+      ]
+    },
+    {
+      "pmid": "40808264",
+      "title": "The Efficacy of Pharmacological Interventions in the Treatment of Major Depressive Disorder and Bipolar Depression With Mixed Features: A Systematic Review.",
+      "abstract": "There is a need to provide up-to-date, clinically translatable data as it relates to the treatment of a major depressive episode (MDE) with mixed features. PubMed and OVID were searched from inception to July 22, 2024. Randomized controlled trials (RCTs) investigating the efficacy of pharmacological agents for adults with bipolar disorder (BD) or major depressive disorder (MDD) in an MDE with mixed features were included. Risk of bias was assessed using the Cochrane Risk of Bias Tool for Randomized Studies (RoB2). A total of seven studies were included in this systematic review. The studies identified were all short-term acute studies ranging from 6 to 8\u2009weeks. Treatment with lurasidone, olanzapine, cariprazine, lumateperone, quetiapine, and ziprasidone was associated with statistically significant reduction of depressive symptoms in MDEs with mixed features. Only lumateperone is studied in both BD subtypes [bipolar I disorder (BD-I), bipolar II disorder (BD-II)] and MDD, wherein efficacy in mixed features was the prespecified primary outcome. Lurasidone has a single study in MDD, while ziprasidone has data in a mixed sample of BD-II and MDD. Data for the other agents in mixed features is post hoc. Co-occurring hypomanic symptoms generally improved, and there was no significant difference between the above treatments and placebo with respect to hypomanic symptom severity intensification or treatment-emergent affective switching. Select atypical antipsychotics are effective in alleviating depressive symptoms in persons with mixed features; albeit, much of the data is obtained from post hoc analysis. Minimal evidence exists for the efficacy of lithium or valproate in the treatment of depressive episodes with mixed features. Antidepressant monotherapy has not been adequately evaluated in depressive episodes with mixed features. In addition, there is a pressing need for a consistent definition of mixed presentations to guide future interventional studies.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Bipolar Disorder",
+        "Major Depressive Disorder",
+        "Antipsychotic Agents",
+        "Antidepressive Agents",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "chemicals": [
+        "Antipsychotic Agents",
+        "Antidepressive Agents"
+      ],
+      "journal": "Bipolar disorders",
+      "authors": [
+        "Naomi Xiao",
+        "Liyang Yin",
+        "Serene Lee",
+        "Kayla M Teopiz",
+        "Sabrina Wong",
+        "Gia Han Le"
+      ]
+    },
+    {
+      "pmid": "40282849",
+      "title": "Pharmacological Monotherapy for Depressive Disorders: Current and Future-A Narrative Review.",
+      "abstract": "",
+      "pub_date": "2025-03-21",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antidepressive Agents",
+        "Bupropion",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Major Depressive Disorder",
+        "Monoamine Oxidase Inhibitors",
+        "Depressive Disorder",
+        "Serotonin and Noradrenaline Reuptake Inhibitors",
+        "Antidepressive Agents, Tricyclic"
+      ],
+      "chemicals": [
+        "Antidepressive Agents",
+        "Bupropion",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Monoamine Oxidase Inhibitors",
+        "Serotonin and Noradrenaline Reuptake Inhibitors",
+        "Antidepressive Agents, Tricyclic"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "authors": [
+        "Keming Gao",
+        "Evrim Bayrak Oruc",
+        "Buket Koparal"
+      ]
+    },
+    {
+      "pmid": "40834902",
+      "title": "Major depressive disorder and anti-depressant therapy markedly alters the human follicular niche DNA methylome.",
+      "abstract": "Generalized anxiety disorder, major depressive disorder and their treatment selective serotonin reuptake inhibitors (SSRIs) impact 4-17% of pregnancies worldwide and alter the epigenome of numerous tissues, but their effects on the ovarian follicle are unknown. This study profiles the methylome of granulosa cells, revealing novel epigenetic pathways and molecular mechanisms altered by mental health conditions and their treatments. Generalized anxiety and major depressive disorders (GAD/MDD) impact 4-17% of pregnancies worldwide. GAD/MDD and SSRIs alter the epigenome of numerous tissues; however, their effect on the ovarian follicular niche is unknown. In this study, we determined SSRI concentrations in the follicular fluid and matched patients by clinical and stimulation characteristics, and then grouped them into three groups: i) treated GAD/MDD (n = 10), ii) untreated GAD/MDD (n = 4), and iii) control (n = 10). DNA methylation sequencing was performed on granulosa cells using the Illumina TruSeq Methyl Capture EPIC kit. For patients with untreated GAD/MDD, we identified 3,829 differentially methylated sites (DMSs). Pathway analysis revealed an enrichment in genes involved in catabolism and immune response for the hypomethylated DMSs and hypermethylated DMSs were associated with protein localization and cellular transport. When assessing the effect of SSRI treatment, we identified 3,690 DMSs. Hypomethylated DMSs were associated with genes involved in cytoskeleton organization and cellular transport, whereas hypermethylated DMSs were associated with apoptosis and cell cycle. This is the first study profiling the methylome of human granulosa cells from patients with treated or untreated GAD/MDD. This study provides a valuable dataset describing the effects of SSRI on cells in the ovarian follicular niche.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "DNA Methylation",
+        "Major Depressive Disorder",
+        "Adult",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Granulosa Cells",
+        "Ovarian Follicle",
+        "Epigenesis, Genetic",
+        "Epigenome",
+        "Antidepressive Agents",
+        "Follicular Fluid"
+      ],
+      "chemicals": [
+        "Selective Serotonin Reuptake Inhibitors",
+        "Antidepressive Agents"
+      ],
+      "journal": "Reproduction (Cambridge, England)",
+      "authors": [
+        "Noga Fuchs Weizman",
+        "Brandon A Wyse",
+        "Cyntia Duval",
+        "Clifford L Librach"
+      ]
+    },
+    {
+      "pmid": "41285177",
+      "title": "The role of frontal EEG in predicting clinical response of major depressive disorder to intranasal ketamine and esketamine.",
+      "abstract": "Ketamine and its enantiomer esketamine are NMDA receptor antagonists that have shown consistent antidepressant effects in major depression disorder (MDD). These effects suggest an active role of glutamate in the pathophysiology of depression. It has been hypothesized that acute increase of glutamate neurotransmission in the prefrontal cortex following treatment with (es)ketamine leads to synaptic plasticity and neurotrophic changes with following influence on theta activity of encephalography (EEG). The present retrospective study included a total of 43 patients affected by MDD and treated with either esketamine or ketamine. EEG recordings before treatment were related to clinical outcome as measured by both a self-rating and a rater-based psychometric scale. EEG measures were considered as possible predictive biomarkers for responsivity of MDD to (es)ketamine. In particular, we utilized phase locking value (PLV), phase lag index (PLI), Renyi and Tsallis entropy, as well as aperiodic spectral parameters (offset and decay exponent) by focusing on the frontal region and the theta band. We found increased functional connectivity (PLI and PLV) and decreased entropy in responders to (es)ketamine compared to non-responders. Although, we did not find a predictive effect of aperiodic spectral parameters, we observed decreased values in responders compared to non-responders. Our results emphasize the role of frontal EEG as possible biomarker [area under the ROC curve of 0.7065 (Renyi entropy), 0.7101 (Tsallis entropy) and 0.7283 (PLI)] in predicting antidepressant effects of (es)ketamine.",
+      "pub_date": "2026-02-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Ketamine",
+        "Major Depressive Disorder",
+        "Male",
+        "Female",
+        "Electroencephalography",
+        "Adult",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Administration, Intranasal",
+        "Antidepressive Agents",
+        "Frontal Lobe",
+        "Treatment Outcome",
+        "Theta Rhythm",
+        "Prefrontal Cortex"
+      ],
+      "chemicals": [
+        "Ketamine",
+        "Esketamine",
+        "Antidepressive Agents"
+      ],
+      "journal": "Journal of affective disorders",
+      "authors": [
+        "Carlos Trenado",
+        "Erich Seifritz",
+        "Sebastian Olbrich",
+        "Stefano Ferrea"
+      ]
+    },
+    {
+      "pmid": "41251319",
+      "title": "Efficacy and safety of zuranolone in Japanese adults with major depressive disorder: A double-blind, randomized, placebo-controlled, Phase 3 clinical trial.",
+      "abstract": "To evaluate the efficacy and safety of oral zuranolone for 14\u2009days, compared with placebo, in Japanese patients with major depressive disorder (MDD). This multicenter, Phase 3 study was conducted in two parts (70 sites; Japan) including a randomized, double-blind, placebo-controlled, parallel-group part presented herein. Participants aged 18-75\u2009years with the 17-item Hamilton Rating Scale for Depression (HAMD-17) total score\u2009\u2265\u200922 were randomized (1:1) ratio to receive either zuranolone (30 mg once daily) or placebo for 14\u2009days with follow-up on Days 3, 8, and 15 and then weekly for 6\u2009weeks (57\u2009days) thereafter. The primary endpoint was change from baseline in the HAMD-17 total score at Day 15. Overall, 412 participants were randomized to receive either zuranolone 30 mg (n\u2009=\u2009207) or placebo (n\u2009=\u2009205). The difference in the least-squares mean (95% confidence interval [CI]) change from baseline in the HAMD-17 total score between groups (-1.20; 95% CI: -2.32, -0.08; P\u2009=\u20090.0365) was statistically significant on Day 15. A significant improvement in the HAMD-17 total score was observed with zuranolone 30 mg during the early treatment period on Days 3 and 8 compared with placebo; however, no significant differences were observed between the groups at later time points, from Day 22 to Day 57. The frequency of adverse events was higher in the zuranolone group (55.1%) than in the placebo group (40.7%); however, no serious adverse events were reported. Zuranolone improved depressive symptoms on Day 15, compared with placebo, in Japanese patients with MDD. No new safety signals were observed. jRCT2031210577.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adolescent",
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "Antidepressive Agents",
+        "Major Depressive Disorder",
+        "Double-Blind Method",
+        "Japan",
+        "Outcome Assessment, Health Care",
+        "Treatment Outcome",
+        "East Asian People"
+      ],
+      "chemicals": [
+        "Antidepressive Agents"
+      ],
+      "journal": "Psychiatry and clinical neurosciences",
+      "authors": [
+        "Masaki Kato",
+        "Kazuyuki Nakagome",
+        "Takamichi Baba",
+        "Takuhiro Sonoyama",
+        "Hiroki Fukuju",
+        "Ryosuke Shimizu"
+      ]
+    },
+    {
+      "pmid": "40484149",
+      "title": "Add-on probiotics for inflammatory depression - A double-blind randomized placebo-controlled trial.",
+      "abstract": "Previous treatment studies have suggested an antidepressant effect of adjunctive probiotics, but more high-quality randomized controlled trials (RCTs) are needed before clinical implementation. The mechanisms underlying putative antidepressant effects of probiotics are not understood, but one possibility is that they are mediated via short-chain fatty acids (SCFAs) - neuroactive bacterial metabolites with anti-inflammatory properties. The main aim of this study was to test the adjunctive antidepressant efficacy of a Lactobacillus probiotic in depressed patients with concomitant systemic low-grade inflammation, and to test the relationship between treatment response and short-chain fatty acids (SCFAs) in blood and feces. In this 8-week double-blind RCT, patients with major depressive disorder (MDD), BMI \u2265 25\u00a0kg/m",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Probiotics",
+        "Double-Blind Method",
+        "Male",
+        "Female",
+        "Middle Aged",
+        "Major Depressive Disorder",
+        "Adult",
+        "Inflammation",
+        "Treatment Outcome",
+        "Feces",
+        "Fatty Acids, Volatile",
+        "C-Reactive Protein",
+        "Limosilactobacillus reuteri",
+        "Antidepressive Agents",
+        "Depression"
+      ],
+      "chemicals": [
+        "Fatty Acids, Volatile",
+        "C-Reactive Protein",
+        "Antidepressive Agents"
+      ],
+      "journal": "Brain, behavior, and immunity",
+      "authors": [
+        "Gustav S\u00f6derberg Veib\u00e4ck",
+        "Jesper Lindahl",
+        "Klara Suneson",
+        "Johanna Tjernberg",
+        "Darya St\u00e5hl",
+        "Rikard Landberg"
+      ]
+    },
+    {
+      "pmid": "40441655",
+      "title": "Gastrointestinal adverse events associated with SNRIs: A FAERS-based pharmacovigilance study.",
+      "abstract": "Major depressive disorder is a prevalent mental illness, with SNRIs constituting a mainstay of the psychopharmacological approach to its clinical management. Despite their impact on adherence, efficacy, and relapse risk, gastrointestinal adverse events (AEs) linked to SNRIs remain under-explored. This study systematically evaluated gastrointestinal adverse events associated with SNRIs by leveraging the FDA Adverse Event Reporting System (FAERS) database. A retrospective analysis of FAERS data from 2004 to 2024 identified 114,148 reports involving five SNRI drugs (venlafaxine, desvenlafaxine, milnacipran, levomilnacipran, and duloxetine). Gastrointestinal adverse events ranked among the top ten System Organ Classes for all five drugs. At the pharmacovigilance level, we identified 18 positive signals, with significant risks for five specific adverse events: constipation, dry mouth, oral hypoaesthesia, nausea, and vomiting. Descriptive analyses revealed that middle-aged (45-64\u00a0years) and elderly (65-74\u00a0years) patients were more susceptible to gastrointestinal adverse events compared to younger age groups, although the specific effects varied across different drugs and age groups. These findings highlight the significant risks of gastrointestinal AEs associated with SNRIs, underscoring the need for individualized drug selection, close monitoring, and further research into underlying mechanisms and long-term impacts.",
+      "pub_date": "2025-10-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pharmacovigilance",
+        "Middle Aged",
+        "Aged",
+        "Male",
+        "Female",
+        "Adverse Drug Reaction Reporting Systems",
+        "Retrospective Studies",
+        "Gastrointestinal Diseases",
+        "Adult",
+        "Major Depressive Disorder",
+        "United States",
+        "Serotonin and Noradrenaline Reuptake Inhibitors",
+        "Young Adult",
+        "Adolescent"
+      ],
+      "chemicals": [
+        "Serotonin and Noradrenaline Reuptake Inhibitors"
+      ],
+      "journal": "Journal of affective disorders",
+      "authors": [
+        "Jiayi Lin",
+        "Sijia Wei",
+        "Ying Peng",
+        "Chuoyi Liang",
+        "Wenli Jiao",
+        "Yelin Ji"
+      ]
+    },
+    {
+      "pmid": "40840695",
+      "title": "All roads lead to glutamate: NMDA and AMPA receptors as targets for rapid-acting antidepressants.",
+      "abstract": "Treatment-resistant depression (TRD) represents a major clinical challenge. Affecting about 30\u202f% of major depressive disorder (MDD) patients, effective treatments for TRD are urgently needed. While depression research and antidepressant (AD) development have long centred on monoaminergic targets, research over the past 35 years has increasingly explored glutamatergic mechanisms. Here we present an extended discussion on developments in glutamatergic drug discovery, focusing on mechanistic convergence between NMDA and AMPA receptor signalling. Beyond established rapid-acting antidepressants (RAADs), such as (es)ketamine and dextromethorphan/bupropion (AXS-05), we highlight novel therapeutic directions involving esmethadone (REL-1017), nitrous oxide, and positive allosteric modulators (PAMs) of NMDA receptors (e.g. rapastinel, zelquistinel, and apimostinel). Moreover, we discuss forward-looking strategies using AMPA receptor PAMs (e.g. osavampator and tulrampator) and targeting of AMPA receptor-interacting proteins. By integrating recent clinical evidence with molecular and physiological findings, we highlight a convergent mechanism across these compounds. This involves increased AMPA receptor activation, triggering BDNF release and mTOR signalling, promoting synaptic strengthening through enhanced AMPA receptor trafficking and dendritic spine formation. Together, targeting glutamatergic signalling represents a transformative path for TRD treatment with high efficacy by more directly modulating pathologically affected signalling modules. These developments place glutamatergic agents at the forefront of next-generation AD strategies.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Receptors, AMPA",
+        "Antidepressive Agents",
+        "Humans",
+        "Animals",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Major Depressive Disorder",
+        "Depressive Disorder, Treatment-Resistant",
+        "Glutamic Acid"
+      ],
+      "chemicals": [
+        "Receptors, AMPA",
+        "Antidepressive Agents",
+        "Receptors, N-Methyl-D-Aspartate",
+        "Glutamic Acid"
+      ],
+      "journal": "Pharmacological research",
+      "authors": [
+        "Florian Freudenberg",
+        "Christine Reif-Leonhard",
+        "Gerard R Dawson",
+        "Ruth M McKernan",
+        "Andreas Reif"
+      ]
+    },
+    {
+      "pmid": "40602411",
+      "title": "Pramipexole augmentation for the acute phase of treatment-resistant, unipolar depression: a placebo-controlled, double-blind, randomised trial in the UK.",
+      "abstract": "About 30% of patients with depression treated with antidepressant medication do not respond sufficiently to the first agents used. Pramipexole might usefully augment antidepressant medication in such cases of treatment-resistant depression, but data on its effects and tolerability are scarce. We aimed to assess the efficacy and tolerability of pramipexole augmentation of ongoing antidepressant treatment, over 48 weeks, in patients with treatment-resistant depression. We did a multicentre, double-blind, placebo-controlled randomised trial in which adults with resistant major depressive disorder were randomly assigned (1:1; using an online randomisation system) to 48 weeks of pramipexole (titrated to 2\u00b75 mg) or placebo added to their ongoing antidepressant medication. The study was conducted in nine National Health Service Trusts in England. Participants, investigators, and researchers involved in recruitment and assessment were masked to group allocation, and the central pharmacy team dispensing the medication was not masked. The primary outcome was change from baseline to week 12 in the total score of the 16-item Quick Inventory of Depressive Symptomology self-report version (QIDS-SR Between Feb 16 and May 29, 2024, 217 participants attended a screening visit, of whom 66 were excluded due to ineligibility. 151 participants were randomly assigned (75 to the pramipexole group and 75 to the placebo group, after one participant was found to be ineligible after randomisation). 84 (56%) participants were female and 66 (44%) were male and the mean age of participants was 44\u00b79 years (SD 14\u00b70). Ethnicity data were not available. The mean QIDS-SR In this trial involving participants with treatment-resistant depression, pramipexole augmentation of antidepressant treatment, at a target dose of 2\u00b75 mg, demonstrated a reduction in symptoms relative to placebo at 12 weeks but was associated with some adverse effects. These results suggest that pramipexole is a clinically effective option for reducing symptoms in patients with treatment-resistant depression. Future trials directly comparing pramipexole with existing treatments for this disorder are needed. National Institute of Health and Care Research, Efficacy and Mechanism Evaluation Programme.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pramipexole",
+        "Female",
+        "Male",
+        "Double-Blind Method",
+        "Depressive Disorder, Treatment-Resistant",
+        "Middle Aged",
+        "Adult",
+        "Antidepressive Agents",
+        "Treatment Outcome",
+        "Drug Therapy, Combination",
+        "United Kingdom",
+        "Major Depressive Disorder",
+        "Dopamine Agonists",
+        "Aged"
+      ],
+      "chemicals": [
+        "Pramipexole",
+        "Antidepressive Agents",
+        "Dopamine Agonists"
+      ],
+      "journal": "The lancet. Psychiatry",
+      "authors": [
+        "Michael Browning",
+        "Philip J Cowen",
+        "Ushma Galal",
+        "Ashley Baldwin",
+        "Anthony J Cleare",
+        "Jonathan Evans"
+      ]
+    }
+  ]
+}

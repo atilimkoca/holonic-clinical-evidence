@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_urinary_tract_infection_efficacy a holon:EntityEntry ;
+    holon:entity oed:urinary_tract_infection ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_urinary_tract_infection_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_urinary_tract_infection_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.79 ;
+    holon:evidenceLevel "Level-2A" ;
+    holon:inHolon oeq:q_urinary_tract_infection_efficacy ;
+    holon:recordedOn "2026-01-01"^^xsd:date ;
+    oe:cites oesrc:40552968 ;
+    oe:effectiveness "effective" .
+
+oedrug:ciprofloxacin oe:treats oed:urinary_tract_infection .
+
+oeevt:ev_q_urinary_tract_infection_efficacy-tt rdf:object oed:urinary_tract_infection ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:ciprofloxacin .
+
+oeq:q_urinary_tract_infection_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is ciprofloxacin compared with other agents for Urinary Tract Infection?"@en ;
+    prov:generatedAtTime "2026-01-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.46 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_urinary_tract_infection_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_urinary_tract_infection_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_urinary_tract_infection_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_urinary_tract_infection_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Urinary Tract Infection with ciprofloxacin."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_urinary_tract_infection_safety ;
+    holon:recordedOn "2026-01-01"^^xsd:date ;
+    holon:summaryConfidence 0.79 ;
+    oe:aboutDisease oed:urinary_tract_infection ;
+    oe:answerText "Existing antibiotics for uncomplicated urinary tract infections are becoming less reliably effective owing to increasing antimicrobial resistance. Our objective was to evaluate the safety and efficacy of sulopenem/probenecid for uncomplicated urinary tract infections."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    oe:cites oesrc:40106750,
+        oesrc:40552968,
+        oesrc:40905426,
+        oesrc:40907025 ;
+    oe:questionText "How effective is ciprofloxacin compared with other agents for Urinary Tract Infection?"^^xsd:string .
+

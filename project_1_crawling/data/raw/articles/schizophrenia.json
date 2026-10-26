@@ -1,0 +1,475 @@
+{
+  "disease": "Schizophrenia",
+  "slug": "schizophrenia",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40900607",
+      "title": "Semaglutide Treatment of Antipsychotic-Treated Patients With Schizophrenia, Prediabetes, and Obesity: The HISTORI Randomized Clinical Trial.",
+      "abstract": "Patients with schizophrenia have reduced life expectancy due to cardiovascular disease and obesity-related type 2 diabetes, exacerbated by second-generation antipsychotic (SGA) medication. Existing interventions have shown limited effect. To assess the effect of the once-weekly glucagon-like peptide-1 receptor agonist semaglutide in SGA-treated adults (aged 18-60 years) with schizophrenia, prediabetes (glycosylated hemoglobin A1c [HbA1c], 5.7%-6.4% of total hemoglobin) (to convert HbA1c from percentage of total hemoglobin to mmol/mol, use the following formula: (HbA1c %\u2009-\u20092.152)/0.09148), and overweight or obesity (body mass index [BMI], calculated as weight in kilograms divided by height in meters squared, \u226527). This placebo-controlled, double-blinded randomized clinical trial was conducted from January 2022 to May 2024, with 30 weeks of follow-up, among regional community-based mental health services in 2 regions of Denmark (Region of Southern Denmark and Region of Zealand). SGA-treated patients with schizophrenia, prediabetes, and overweight or obesity were randomized to semaglutide or placebo. Data analysis was completed from May 2024 to January 2025. Once-weekly subcutaneous semaglutide or placebo for 30 weeks; semaglutide was titrated up to 1.0 mg/week over 8 weeks. The primary outcome was change in HbA1c. Secondary end points included changes in body weight, schizophrenia symptoms based on Positive and Negative Syndrome Scale 6 (PANSS-6) score, and physical and mental quality of life (QoL) (assessed via the 36-item Short Form Survey, version 2 [SF-36v2]). A total of 154 patients were recruited and randomized 1:1 to semaglutide or placebo (87 female participants (56.5%); mean [SD] age, 38.3 [10.7] years). Of 154 randomized patients, 141 (91.5%) completed the trial-74 of 77 patients randomized to semaglutide (96%) and 67 of 77 randomized to placebo (87%). Semaglutide reduced HbA1c by 0.46% of total hemoglobin (95% CI, -0.56% to -0.36%) and body weight by 9.21 kg (95% CI, -11.68 to -6.75). An HbA1c less than 5.7% of total hemoglobin was achieved in 81% vs 19% of patients treated with semaglutide and placebo, respectively (P\u2009<\u2009.001); improvements in high-density cholesterol by 10.81 mg/dL (95% CI, 2.70-18.53; P\u2009=\u2009.007) and triglycerides by -29.20 mg/dL (95% CI, -55.75 to 2.65; P\u2009=\u2009.03) (to convert to millimoles per liter, multiply by 0.0113) were also observed. Finally, semaglutide improved physical QoL by 3.75 points on the SF-36v2 (95% CI, 1.52-5.98; P\u2009=\u2009.001) but had no significant effect on mental QoL scores or PANSS-6 score. Gastrointestinal symptoms were more frequent in semaglutide-treated patients. A few semaglutide-treated patients were hospitalized more frequently than observed in the placebo-treated group, but the number of serious adverse effects did not differ between groups. In this multicenter, double-blinded randomized clinical trial, 30 weeks of administration of semaglutide, up to 1.0 mg/week, was safe, lowered blood glucose (as measured by HbA1c) and weight, and improved physical QoL in SGA-treated patients with schizophrenia, prediabetes, and obesity without worsening mental health. ClinicalTrials.gov Identifier: NCT05193578.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adolescent",
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Young Adult",
+        "Antipsychotic Agents",
+        "Double-Blind Method",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptides",
+        "Glycated Hemoglobin",
+        "Obesity",
+        "Prediabetic State",
+        "Schizophrenia",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Antipsychotic Agents",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptides",
+        "Glycated Hemoglobin",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "journal": "JAMA psychiatry",
+      "authors": [
+        "Ashok A Ganeshalingam",
+        "Nicolai Uhrenholt",
+        "Sidse Arnfred",
+        "Peter G\u00e6de",
+        "Signe D\u00fcring",
+        "Elsebeth N Stenager"
+      ]
+    },
+    {
+      "pmid": "40506208",
+      "title": "Efficacy and safety of semaglutide versus placebo for people with schizophrenia on clozapine with obesity (COaST): a phase 2, multi-centre, participant and investigator- blinded, randomised controlled trial in Australia.",
+      "abstract": "People with schizophrenia have a 16-20-year reduction in life expectancy, primarily due to cardiometabolic disease. Clozapine, the most efficacious antipsychotic for treatment-resistant schizophrenia, is associated with weight gain and metabolic dysfunction. Glucagon-like peptide-1 receptor agonists, including semaglutide, contribute to substantial weight loss in the general population, but their effect and safety profile in people with schizophrenia remain unknown. We evaluated the efficacy and safety of semaglutide for weight reduction in individuals with schizophrenia who were prescribed clozapine. COaST was an Australian randomised, placebo-controlled, multi-site trial, independent of pharmaceutical industry support, with methods informed by people with lived experience. Adults (aged 18-64 years) across six sites were randomly assigned (1:1) to once weekly subcutaneous semaglutide titrated to 2\u00b70 mg or placebo for 36 weeks. Participants were included if they fulfilled criteria for schizophrenia or schizoaffective disorder, were prescribed clozapine for 18 weeks or more, had a BMI of at least 26 kg/m 166 individuals were screened for eligibility, 135 were excluded, and the remaining 31 were randomly assigned to either the semaglutide group (n=15) or the control group (n=16). 21 males and ten females were included in the study, with a mean age of 38\u00b79 years (range 21-58). All participants assigned to each group were included in the analysis of the primary outcome. 84% of participants were White, 7% were from the Indian Subcontinent, 3% were Asian (not including from the Indian Subcontinent), 3% were Australian Aboriginal or Torres Strait Islanders, and 3% were New Zealand M\u0101ori or Pacific Islanders. Recruitment commenced on Aug 30, 2022 and was suspended in June, 2024 before achieving the intended number of 80 participants due to non-availability of the investigational product. At week 36, semaglutide yielded a 13\u00b788% (SE 0\u00b790) body weight reduction compared with 0\u00b742% (SE 0\u00b793) for placebo (between-group difference: -13\u00b746%; p<0\u00b70001). No differences were observed in clozapine or norclozapine concentrations or PANSS scores. Semaglutide was well tolerated, with no serious adverse events that were deemed to be related to the treatment, and low rates of constipation. Semaglutide led to significantly greater weight loss than placebo in this small trial without affecting psychotic symptoms or clozapine concentrations. Semaglutide appears to be safe and well tolerated in this population. These encouraging findings highlight the need for larger confirmatory trials. National Health and Medical Research Council, Qld Advancing Clinical Research Fellowship, and Metro South Health Research Support Scheme Program.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase II"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Male",
+        "Adult",
+        "Australia",
+        "Middle Aged",
+        "Glucagon-Like Peptides",
+        "Clozapine",
+        "Antipsychotic Agents",
+        "Obesity",
+        "Schizophrenia",
+        "Young Adult",
+        "Treatment Outcome",
+        "Weight Loss",
+        "Double-Blind Method",
+        "Adolescent",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptides",
+        "Clozapine",
+        "Antipsychotic Agents",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "journal": "The lancet. Psychiatry",
+      "authors": [
+        "Dan Siskind",
+        "Andrea Baker",
+        "Urska Arnautovska",
+        "Nicola Warren",
+        "Anthony Russell",
+        "Veronica DeMonte"
+      ]
+    },
+    {
+      "pmid": "40617246",
+      "title": "Absolute neutrophil count and adverse drug reaction monitoring during clozapine treatment: consensus guidelines from a global Delphi panel.",
+      "abstract": "Despite its superior effectiveness for treatment-resistant schizophrenia, clozapine has a high burden of adverse drug reactions (ADRs), which require monitoring and treatment. This global Delphi study has established consensus guidelines for absolute neutrophil count (ANC) thresholds for consideration of clozapine cessation and provided monitoring protocols for ADR management. Recommendations include lowering ANC thresholds for consideration of clozapine cessation to 1\u00b70\u2009\u00d7\u200910",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Clozapine",
+        "Antipsychotic Agents",
+        "Delphi Technique",
+        "Drug Monitoring",
+        "Consensus",
+        "Neutrophils",
+        "Leukocyte Count",
+        "Schizophrenia, Treatment-Resistant",
+        "Practice Guidelines as Topic"
+      ],
+      "chemicals": [
+        "Clozapine",
+        "Antipsychotic Agents"
+      ],
+      "journal": "The lancet. Psychiatry",
+      "authors": [
+        "Dan Siskind",
+        "Korinne Northwood",
+        "Toby Pillinger",
+        "Sherry Chan",
+        "Christoph Correll",
+        "Robert O Cotes"
+      ]
+    },
+    {
+      "pmid": "41763745",
+      "title": "Comparative efficacy and tolerability of antidopaminergic and muscarinic antipsychotics for acute schizophrenia: a network meta-analysis of randomised controlled trials indexed in international English and Chinese databases.",
+      "abstract": "Antipsychotic drugs are the established treatment for acute schizophrenia but differ in receptor-binding profiles. In 2024, a new-in-class muscarinic receptor agonist (xanomeline-trospium) was licenced, acting upstream of antidopaminergic agents, and providing hope to decrease the adverse effects burden of antipsychotics. We aimed to compare the efficacy and tolerability of antipsychotics by performing network meta-analysis of randomised controlled trials (RCTs). This systematic review (PROSPERO, CRD42022380708) included blinded and open RCTs investigating antipsychotic drugs in participants of any age with acute psychotic symptoms of schizophrenia over 3 weeks to 3 months. Included antipsychotics comprised 23 primarily dopamine-receptor blocking medications and the muscarinic receptor agonist xanomeline-trospium in different applications. We searched Cochrane Schizophrenia group's register, previous reviews, and five Chinese databases for trials published from database inception until July 26, 2024 and contacted authors to assess trials' methodological quality; only trials with appropriate randomisation indicated were included. The primary outcome was rating scale-measured overall symptoms of schizophrenia (efficacy) analysed with random-effects frequentist network meta-analysis. Secondary outcomes comprised 32 further efficacy and tolerability outcomes. The confidence in the estimates was assessed using the Confidence in Network Meta-Analysis approach. After screening 18\u2008859 references and contacting authors of 5428 trials, we included 438 RCTs. Of those, 388 RCTs with 78\u2008193 participants (28\u2008448 women and 49\u2008745 men) provided usable data for at least one outcome. 5117 Chinese trials were identified but most were excluded because authors did not reply or reported serious methodological concerns. 256 double-blind studies with 58\u2008948 participants provided usable data for the primary outcome. All antipsychotics reduced symptoms more than placebo with standardised mean differences ranging from -0\u00b790 (95% CI -1\u00b703 to -0\u00b777) to -0\u00b723 (-0\u00b739 to -0\u00b706). Particularly clozapine, as well as amisulpride, olanzapine, and risperidone were more efficacious than at least three other antipsychotics (confidence in estimates were low-to-moderate). Adverse effects varied across medications. This network meta-analysis provides evidence for small-to-medium clinically relevant differences between antipsychotics in efficacy; this finding warrants stronger and more specific emphasis in clinical guidelines. Nonetheless, important differences in tolerability need to be considered for individualised drug choice, with partial dopamine agonists having overall better tolerability and xanomeline-trospium lacking adverse effects of dopamine-blocking agents but resulting in cholinergic and anticholinergic adverse events. Future research should directly compare xanomeline-trospium with other antipsychotics to confirm its efficacy; modern trials using clozapine early in schizophrenia are needed to establish whether it improves outcomes and prevents chronification. German Research Foundation, German Ministry of Research, Technology and Space, and National Natural Science Foundation of China.",
+      "pub_date": "2026-02-28",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Network Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Acute Disease",
+        "Antipsychotic Agents",
+        "Dopamine Antagonists",
+        "Muscarinic Agonists",
+        "Randomized Controlled Trials as Topic",
+        "Schizophrenia",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antipsychotic Agents",
+        "Dopamine Antagonists",
+        "Muscarinic Agonists"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Johannes Schneider-Thoma",
+        "Yikang Zhu",
+        "Mengchang Qin",
+        "Yu Dong",
+        "Shiwei Guan",
+        "Jiaxi Wang"
+      ]
+    },
+    {
+      "pmid": "40854216",
+      "title": "High-Concentration Delta-9-Tetrahydrocannabinol Cannabis Products and Mental Health Outcomes : A Systematic Review.",
+      "abstract": "Rapid changes in the legalized cannabis market have led to the predominance of high-concentration delta-9-tetrahydrocannabinol (THC) cannabis products. To systematically review associations of high-concentration THC cannabis products with mental health outcomes. Ovid MEDLINE through May 2025; EMBASE, Allied and Complementary Medicine Database, Cochrane Library, Database of Abstracts of Reviews of Effects, CINAHL, and Toxicology Literature Online through August 2024. Two reviewers independently selected studies with high-concentration THC defined as greater than 5 mg or greater than 10% THC per serving or labeled as \"high-potency concentrate,\" \"shatter,\" or \"dab.\" Outcomes included anxiety, depression, psychosis or schizophrenia, and cannabis use disorder (CUD). Results were categorized by association direction and by study characteristics. Therapeutic studies were defined by use of cannabis to treat medical conditions or symptoms. Ninety-nine studies (221\u2009097 participants) were included: randomized trials (42%), observational studies (47%), and other interventional study designs (11%); more than 95% had moderate or high risk of bias. In studies not testing for therapeutic effects, high-concentration THC products showed consistent unfavorable associations with psychosis or schizophrenia (70%) and CUD (75%). No therapeutic studies reported favorable results for psychosis or schizophrenia. For anxiety and depression, 53% and 41% of nontherapeutic studies, respectively, reported unfavorable associations, especially among healthy populations. Among therapeutic studies, nearly half found benefits for anxiety (47%) and depression (48%), although some also found unfavorable associations (24% and 30%, respectively). Moderate and high risk of bias of individual studies and limited evaluation of contemporary products. High-concentration THC products are associated with unfavorable mental health outcomes, particularly for psychosis or schizophrenia and CUD. There was some low-quality evidence, inconsistent by population, for therapeutic benefits for anxiety and depression. Colorado General Assembly, House Bill 21-1317.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Dronabinol",
+        "Mental Disorders",
+        "Mental Health",
+        "Medical Marijuana",
+        "Schizophrenia"
+      ],
+      "chemicals": [
+        "Dronabinol",
+        "Medical Marijuana"
+      ],
+      "journal": "Annals of internal medicine",
+      "authors": [
+        "Thanitsara Rittiphairoj",
+        "Louis Leslie",
+        "Jean-Pierre Oberste",
+        "Tsz Wing Yim",
+        "Gregory Tung",
+        "Lisa Bero"
+      ]
+    },
+    {
+      "pmid": "41335431",
+      "title": "Semaglutide and Early-Stage Metabolic Abnormalities in Individuals With Schizophrenia Spectrum Disorders: A Randomized Clinical Trial.",
+      "abstract": "Individuals with schizophrenia spectrum disorders treated with second-generation antipsychotics (SGAs) are at heightened risk for obesity, prediabetes, and type 2 diabetes, contributing to increased cardiovascular morbidity and premature mortality. Early intervention with glucagon-like peptide-1 receptor agonists (GLP-1RAs) may help mitigate long-term cardiometabolic risk. To evaluate the efficacy of adjunctive semaglutide on glycemic control, weight-associated outcomes, and cardiometabolic risk factors in individuals with schizophrenia spectrum disorders receiving clozapine or olanzapine and exhibiting early glycemic abnormalities. This was a multicenter, double-blind, placebo-controlled, randomized clinical trial. Participants were enrolled from 3 clinical sites in Denmark between September 2021 and August 2024. Screening individuals were aged 18 to 65 years with schizophrenia spectrum disorders and clozapine or olanzapine treatment initiated within the past 5 years. Participants had early-stage glycemic dysregulation (hemoglobin A1c [HbA1c], 5.4%-7.4%) and were not receiving antidiabetic therapy. Participants received once-weekly subcutaneous semaglutide (1 mg) or a matching placebo, administered adjunctively to SGA therapy for 26 weeks. The prespecified primary outcome was change in HbA1c level from baseline to week 26. The primary analysis adhered to the intention-to-treat principle. Of 104 individuals screened, 73 were randomized and 57 (78%) completed the trial. Baseline characteristics were comparable between groups. Mean (SD) age was 35 (12) years, 48 were female (65%), and mean (SD) body mass index was 36.1 (7.9). At week 26, semaglutide significantly reduced HbA1c level compared with placebo (mean difference, -0.25%; 95% CI, -0.33 to -0.16; P\u2009<\u2009.001); 43% of participants (12 of 28) treated with semaglutide achieved low-risk HbA1c levels (<5.4%) vs 3% with placebo. Greater reductions in body weight (-9.2 kg; 95% CI, -13.3 to -5.1 kg; P\u2009<\u2009.001), waist circumference (-7.0 cm; 95% CI, -10.6 to -3.3 cm; P\u2009<\u2009.001), and fat mass (-6.1 kg; 95% CI, -10.2 to -1.9 kg; P\u2009=\u2009.006) were observed with semaglutide. No differences in lipid levels, liver function, blood pressure, or psychiatric symptoms were observed. Gastrointestinal adverse events were common but mild and transient; psychiatric adverse events were similar across groups. Results of this randomized clinical trial show that adjunctive semaglutide significantly improved glycemic control and weight outcomes in individuals with schizophrenia spectrum disorders. Secondary outcomes were exploratory. These findings support the use of GLP-1RAs as a potential early intervention strategy to reduce cardiometabolic risk in this vulnerable population. ClinicalTrials.gov Identifier: NCT04892199.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Male",
+        "Adult",
+        "Middle Aged",
+        "Glucagon-Like Peptides",
+        "Schizophrenia",
+        "Double-Blind Method",
+        "Antipsychotic Agents",
+        "Olanzapine",
+        "Glycated Hemoglobin",
+        "Young Adult",
+        "Clozapine",
+        "Aged",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Adolescent",
+        "Hypoglycemic Agents",
+        "Diabetes Mellitus, Type 2",
+        "Drug Therapy, Combination"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptides",
+        "Antipsychotic Agents",
+        "Olanzapine",
+        "Glycated Hemoglobin",
+        "Clozapine",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "JAMA psychiatry",
+      "authors": [
+        "Marie R Sass",
+        "Mette Kruse Klausen",
+        "Christine R Schwarz",
+        "Line Rasmussen",
+        "Malte E B Giver",
+        "Malthe Hviid"
+      ]
+    },
+    {
+      "pmid": "40830715",
+      "title": "Antipsychotic-Related Prolactin Changes: A Systematic Review and Dose-Response Meta-analysis.",
+      "abstract": "Prolactin increase is a common and potentially problematic adverse event of antipsychotics. We aimed to discover the relationship between antipsychotic doses and changes in prolactin levels. To examine the relationship between antipsychotic doses and changes in prolactin levels in adults with acutely exacerbated schizophrenia. We searched the Cochrane Schizophrenia Group register (last search 26 July 2024) and previous reviews for fixed-dose, randomized controlled trials (RCTs) that investigated monotherapy of 21 antipsychotics in adults with acutely exacerbated schizophrenia. The primary outcome was mean prolactin change from baseline to study endpoint adopting mean differences (MD) in ng/mL as the effect size measure. The dose-response curves were estimated by conducting random-effects dose-response meta-analyses using the restricted cubic spline method. Among 165 eligible studies, 68 studies with 238 dose arms (23,128 participants, 35% female) reported on prolactin and were meta-analyzed. Of these, 94% lasted \u2264\u00a03\u00a0months, and 90% of the studies used oral formulations. Participants in one study experienced their first episode, while all other studies also included multiepisode participants. The dose-response curves indicated that with aripiprazole, higher doses were significantly associated with lower prolactin levels than lower doses. Brexpiprazole, cariprazine, lumateperone, and quetiapine carried negligible risks for prolactin increase across examined doses. During treatment with most other antipsychotics, i.e., asenapine, haloperidol, iloperidone, lurasidone, olanzapine, paliperidone, risperidone, and ziprasidone, prolactin levels rose with increasing doses and then continued to increase or plateaued. The shape of the dose-response curves was similar in males and females, with generally larger amplitudes of the curves in females. The prolactin-increasing property varies among antipsychotics, is dose-related, and is greater in females. These findings in adults with acutely exacerbated schizophrenia can help clinicians titrate and adapt antipsychotic doses and consider patients' sex in treatment decisions. The protocol was registered in the International Prospective Register of Systematic Reviews (PROSPERO); registration no. CRD42020181467.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antipsychotic Agents",
+        "Dose-Response Relationship, Drug",
+        "Prolactin",
+        "Randomized Controlled Trials as Topic",
+        "Schizophrenia"
+      ],
+      "chemicals": [
+        "Antipsychotic Agents",
+        "Prolactin"
+      ],
+      "journal": "CNS drugs",
+      "authors": [
+        "Xiao Lin",
+        "Spyridon Siafis",
+        "Jing Tian",
+        "Hui Wu",
+        "Mengchang Qin",
+        "Christoph U Correll"
+      ]
+    },
+    {
+      "pmid": "40675714",
+      "title": "Real-world effectiveness of clozapine augmentation with antidepressants: within-subject data evidence from two European nationwide cohorts.",
+      "abstract": "Only 40% of people with treatment-resistant schizophrenia will have an adequate response to clozapine. Data on the effect of antidepressant augmentation on these patients are scarce. We aimed to study the effectiveness and safety of antidepressant augmentations to clozapine in two nationwide cohorts. For this within-subject data evidence study, data from two cohort studies were analysed then meta-analysed, including patients with schizophrenia using clozapine identified from Finnish (1996-2017) and Swedish (2006-23) nationwide registers, followed up from first clozapine use until death or end of data linkage. Clozapine augmentation with specific antidepressants was compared with clozapine use only. The primary outcome was schizophrenia relapse (hospital admission with ICD-10 F20-F29 diagnosis), and the secondary outcome was somatic hospital admission. The risk of outcomes (expressed as adjusted hazard ratio [aHR]) was assessed by a within-individual cohort design, using each individual as their own control. Ethnicity data were not available. People with lived experience were not involved. The analysis included 23\u2008206 clozapine users (9531 women and 13\u2008675 men), with a mean age of 41\u00b73 years (SD 13\u00b75). The lowest risk of relapse was observed for sertraline (meta-analysis aHR 0\u00b776 [95% CI 0\u00b769-0\u00b783]), duloxetine (aHR 0\u00b778 [0\u00b768-0\u00b789]), and escitalopram (0\u00b785 [0\u00b779-0\u00b792]). When antidepressants were recategorised by dose, the lowest risk of relapse was observed for standard doses of sertraline at 30-54 mg/day (aHR 0\u00b749 [0\u00b727-0\u00b789]), escitalopram 6-10 mg/day (aHR 0\u00b757 [0\u00b737-0\u00b788]), and duloxetine 18-32 mg/day (aHR 0\u00b759 [0\u00b746-0\u00b775]). No antidepressant was associated with an increased risk of somatic hospital admission at low or standard dose, whereas high-dose use was associated with increased risk, although most of the risk estimates were not significant. This meta-analysis from two nationwide cohorts indicates that SSRI and SNRI augmentation therapies for people with treatment-resistant schizophrenia are associated with a substantially decreased risk of relapse at standard dose, unlike other antidepressants. Potential benefits associated with augmentation must be balanced against risks of possible deleterious somatic outcomes, which were observed only when antidepressants were used at high doses. Sigrid Jus\u00e9lius Foundation.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antidepressive Agents",
+        "Antipsychotic Agents",
+        "Clozapine",
+        "Cohort Studies",
+        "Drug Therapy, Combination",
+        "Finland",
+        "Recurrence",
+        "Schizophrenia",
+        "Schizophrenia, Treatment-Resistant",
+        "Sweden",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antidepressive Agents",
+        "Antipsychotic Agents",
+        "Clozapine"
+      ],
+      "journal": "The lancet. Psychiatry",
+      "authors": [
+        "Heidi Taipale",
+        "Dan Siskind",
+        "Antti Tanskanen",
+        "Ellenor Mittendorfer-Rutz",
+        "Christoph U Correll",
+        "Jari Tiihonen"
+      ]
+    },
+    {
+      "pmid": "40562225",
+      "title": "Why Is Clozapine Uniquely Effective in Treatment-Resistant Schizophrenia? A Review and Proposal.",
+      "abstract": "A great deal is known about the use, benefits, and side effects of clozapine in treatment-resistant schizophrenia (TRS). However, why clozapine is more effective than other antipsychotics in TRS remains unclear. In this article, we address this question. Patients with TRS show glutamate abnormalities, and clozapine has widespread effects on glutamate. However, these actions have not been proven to be different from those of other antipsychotics. Immune dysfunction is also reported in TRS, and clozapine has anti-inflammatory actions, but these have not been correlated with clinical improvement. Currently, there is a great deal of interest in muscarinic abnormalities in psychosis. Unlike most antipsychotics, clozapine has important effects on muscarinic receptors, particularly M",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Clozapine",
+        "Antipsychotic Agents",
+        "Schizophrenia, Treatment-Resistant",
+        "Schizophrenia"
+      ],
+      "chemicals": [
+        "Clozapine",
+        "Antipsychotic Agents"
+      ],
+      "journal": "Biological psychiatry",
+      "authors": [
+        "Robin M Murray",
+        "Alice Egerton",
+        "Yueming Gao",
+        "Anthony A Grace",
+        "Oliver Howes",
+        "Sameer Jauhar"
+      ]
+    },
+    {
+      "pmid": "41506001",
+      "title": "Long-term efficacy, safety, and tolerability of xanomeline and trospium chloride in schizophrenia: A 52-week, open-label trial (EMERGENT-5).",
+      "abstract": "The M EMERGENT-5 (NCT04820309) was a 52-week, open-label trial evaluating the long-term safety, tolerability, and efficacy of twice daily KarXT (maximum dose 125/30\u202fmg) in psychiatrically stable adults with schizophrenia. Safety measures included treatment-emergent adverse events (TEAEs), vital signs, and laboratory parameters. Efficacy measures included change in Positive and Negative Syndrome Scale (PANSS) and Clinical Global Impression-Severity (CGIS). Between June 2021-May 2024, 566 participants at 54 US sites received \u22651 dose of KarXT. Overall, 277/566 (48.9\u202f%) participants completed the trial. A total of 466/566 (82.3\u202f%) experienced \u22651 TEAE, the majority of which were mild or moderate in intensity; severe TEAEs were reported in 33/566 (5.8\u202f%) participants. The most common TEAEs occurring in \u22655\u202f% of participants were nausea (23.1\u202f%), vomiting (20.3\u202f%), constipation (18.0\u202f%), hypertension (10.4\u202f%), diarrhea and dry mouth (9.4\u202f% each), dizziness (8.8\u202f%), headache (8.1\u202f%), dyspepsia (7.2\u202f%), somnolence (6.2\u202f%), weight decreased (5.7\u202f%), and hyperhidrosis (5.1\u202f%). KarXT improved PANSS total, PANSS positive and negative subscale, and CGI-S scores over the trial duration. Psychiatrically stable adults with schizophrenia were safely switched from prior antipsychotics to KarXT with a trend toward symptom improvement over 1\u202fyear. The safety and tolerability profile of KarXT was consistent with observations in prior clinical trials; no new safety issues emerged.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Schizophrenia",
+        "Nortropanes",
+        "Male",
+        "Adult",
+        "Female",
+        "Middle Aged",
+        "Benzilates",
+        "Muscarinic Antagonists",
+        "Outcome Assessment, Health Care",
+        "Antipsychotic Agents",
+        "Double-Blind Method",
+        "Muscarinic Agonists",
+        "Young Adult",
+        "Pyridines",
+        "Thiadiazoles"
+      ],
+      "chemicals": [
+        "Nortropanes",
+        "trospium chloride",
+        "Benzilates",
+        "xanomeline",
+        "Muscarinic Antagonists",
+        "Antipsychotic Agents",
+        "Muscarinic Agonists",
+        "Pyridines",
+        "Thiadiazoles"
+      ],
+      "journal": "Schizophrenia research",
+      "authors": [
+        "Inder Kaul",
+        "Amy Claxton",
+        "Soumya Chaturvedi",
+        "Tejendra Patel",
+        "Hsiuanlin Wu",
+        "Sharon Sawchak"
+      ]
+    },
+    {
+      "pmid": "41088977",
+      "title": "The Intricacies of Polypharmacy and Drug Interactions in Schizophrenia Treatment.",
+      "abstract": "Polypharmacy is frequently practiced in the management of schizophrenia due to its chronic nature, recurrent relapses, and associated comorbidities. While combining psychotropic medications may benefit patients with treatment-resistant symptoms, it poses risks such as drug-drug interactions (DDIs), adverse effects, and reduced medication adherence. The absence of uniform prescribing standards further complicates clinical decision-making. This narrative review was conducted using a scoping methodology. Databases including Pub- Med, Scopus, and Web of Science were searched for English-language publications from 2000 to 2024. Search terms included \"schizophrenia,\" \"polypharmacy,\" \"drug-drug interactions,\" \"clinical outcomes,\" and \"pharmacogenetics.\" Eligible sources included clinical trials, observational studies, systematic reviews, and treatment guidelines. Exclusion criteria were non-English articles, gray literature, and individual case reports. Polypharmacy is reported in 30-60% of individuals with schizophrenia, especially in institutionalized or treatment-resistant populations. Treatment regimens often involve multiple antipsychotics along with adjunctive antidepressants or mood stabilizers. This approach is associated with increased risks of metabolic syndrome, cardiovascular events (e.g., QT prolongation), extrapyramidal symptoms, and decreased adherence. Interindividual variability in pharmacogenetics further affects drug efficacy and safety. Innovative approaches like genotype-guided therapy and computerized clinical decisionsupport systems are promising but not yet widely implemented. Although polypharmacy may offer symptomatic relief in specific scenarios, it requires careful management due to its potential to cause harm. Rational prescribing, close monitoring, and attention to individual patient factors such as pharmacogenetic profiles are essential to optimize therapy. Ensuring a balance between therapeutic benefit and adverse effects is crucial when employing polypharmacy in schizophrenia treatment. Integrating personalized medicine strategies, regular monitoring, and deprescribing practices when feasible can enhance clinical outcomes and patient safety.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Schizophrenia",
+        "Polypharmacy",
+        "Drug Interactions",
+        "Antipsychotic Agents"
+      ],
+      "chemicals": [
+        "Antipsychotic Agents"
+      ],
+      "journal": "Current drug metabolism",
+      "authors": [
+        "Jyotsana Dwivedi",
+        "Mohd Seemab",
+        "Pranay Wal",
+        "Piyali Dey",
+        "Thirumalaikumaran Rathinam",
+        "Avula Dhamini"
+      ]
+    },
+    {
+      "pmid": "40939570",
+      "title": "Long-term trajectories of treatment-resistant schizophrenia following clozapine or electroconvulsive therapy: A retrospective observational study.",
+      "abstract": "Clozapine (CLZ) is the first-line treatment for treatment-resistant schizophrenia (TRS), but practical constraints often delay its implementation. Approximately 50\u00a0% of patients ultimately discontinue CLZ, primarily due to adverse events. Electroconvulsive therapy (ECT) has shown efficacy in TRS, though concerns remain regarding the durability of its effects. This study aimed to characterize the treatment effectiveness and clinical trajectories of patients with TRS following initial treatment with CLZ or ECT. This study reviewed medical records of 116 patients with TRS initially treated with either CLZ (n\u00a0=\u00a063) or ECT (n\u00a0=\u00a053) at three tertiary care centers in Japan (2000-2020). The primary outcome was time to treatment failure, defined as readmission, ECT initiation, CLZ discontinuation/initiation, interruption of hospital attendance, or all-cause death. We traced patients' trajectories following initial treatment failure. Both groups showed similar treatment failure rates in the first year. Beyond this period, the CLZ group exhibited diminishing failure rates (median time: 2093 days), with discontinuation as the main reason. Among CLZ responders (42.9\u00a0%), 81.5\u00a0% maintained stability without readmission. The ECT group showed consistent failure occurrence (median: 589 days), with readmission as the primary reason. Despite low maintenance ECT utilization (13.2\u00a0%), approximately 40\u00a0% of ECT patients maintained stability over two years. Our findings described different long-term trajectories in TRS following CLZ or ECT as initial treatments, highlighting the importance of extended follow-up. Considering long-term stability, timely CLZ initiation is preferable. ECT can be a valuable alternative when CLZ implementation is impractical, providing clinical stability in a substantial proportion of patients.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Clozapine",
+        "Electroconvulsive Therapy",
+        "Male",
+        "Retrospective Studies",
+        "Female",
+        "Antipsychotic Agents",
+        "Middle Aged",
+        "Adult",
+        "Schizophrenia, Treatment-Resistant",
+        "Outcome Assessment, Health Care",
+        "Japan"
+      ],
+      "chemicals": [
+        "Clozapine",
+        "Antipsychotic Agents"
+      ],
+      "journal": "Journal of psychiatric research",
+      "authors": [
+        "Hirotsugu Kawashima",
+        "Yoshiteru Takekita",
+        "Nobuatsu Aoki",
+        "Masaaki Hazama",
+        "Morio Aki",
+        "Kentaro Katsuragi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+You are a careful biomedical knowledge engineer. Produce RDF 1.2 (Turtle) that is VALID against the SHACL shape below. Output ONLY Turtle (no prose). Use ONLY facts supplied in the ADMISSIBLE EVIDENCE block; never invent drugs, diseases, sources, dates, or numbers.
+
+# SHACL TARGET: oe:EvidenceChainBoundaryShape  (target class holon:EvidenceChainHolon)
+
+REQUIRED fields (omission => the output is REJECTED):
+  - holon:aggregateConfidence: (min 1, max 1)
+  - holon:evidenceQualityThreshold: datatype xsd:decimal; in range [0.0, 1.0]; (min 1, max 1)
+
+FILL THIS TEMPLATE (replace every <...>):
+oegen:node_<id> a holon:EvidenceChainHolon ;
+    holon:aggregateConfidence <value> ;
+    holon:evidenceQualityThreshold "<0.0-1.0>"^^xsd:decimal .

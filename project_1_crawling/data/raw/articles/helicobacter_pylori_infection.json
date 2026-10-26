@@ -1,0 +1,406 @@
+{
+  "disease": "Helicobacter Pylori Infection",
+  "slug": "helicobacter_pylori_infection",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "39466269",
+      "title": "Peptic Ulcer Disease: A Review.",
+      "abstract": "In the US, peptic ulcer disease affects 1% of the population and approximately 54\u202f000 patients are admitted to the hospital annually for bleeding peptic ulcers. Approximately 10% of patients presenting with upper abdominal pain in a primary care setting have a peptic ulcer as the cause of their symptoms. The principal causes of peptic ulcer disease are Helicobacter pylori infection, which affects approximately 42% of patients with peptic ulcer disease, and aspirin or nonsteroidal anti-inflammatory drug (NSAID) use, which are etiologic factors in approximately 36% of people with peptic ulcer disease. Complications of peptic ulcer include bleeding (73% of patients), perforation (9% of patients), and pyloric obstruction (3% of patients). Annually, 10\u202f000 people die of peptic ulcer disease in the US. Endoscopy definitively diagnoses peptic ulcer disease. Acid blockers, such as omeprazole, can heal peptic ulcers in approximately 80% to 100% of patients within 4 weeks, but gastric ulcers larger than 2 cm may require 8 weeks of treatment. Eradication of H pylori decreases peptic ulcer recurrence rates from approximately 50% to 60% to 0% to 2%. Discontinuing NSAIDs heals 95% of ulcers identified on endoscopy and reduces recurrence from 40% to 9%. When discontinuing an NSAID is not desirable, changing the NSAID (eg, from ketorolac to ibuprofen), adding a proton pump inhibitor such as omeprazole or lansoprazole, and eradicating H pylori with treatment such as bismuth, metronidazole, and tetracycline combined with omeprazole can reduce recurrence rates. Peptic ulcer disease is associated with increased hospitalization rates and mortality. Acid blocking with proton pump inhibitors, such as omeprazole or lansoprazole, is the primary treatment. Recurrence of ulcers can be prevented by eradicating H pylori if present and discontinuing aspirin or NSAIDs if applicable.",
+      "pub_date": "2024-12-03",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Anti-Ulcer Agents",
+        "Aspirin",
+        "Helicobacter Infections",
+        "Helicobacter pylori",
+        "Peptic Ulcer",
+        "Proton Pump Inhibitors",
+        "Recurrence",
+        "Abdominal Pain",
+        "Endoscopy, Gastrointestinal",
+        "Metronidazole",
+        "Bismuth",
+        "Drug Therapy, Combination"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Anti-Ulcer Agents",
+        "Aspirin",
+        "Proton Pump Inhibitors",
+        "Metronidazole",
+        "Bismuth"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Nimish Vakil"
+      ]
+    },
+    {
+      "pmid": "40409232",
+      "title": "Helicobacter pylori and gastric disease.",
+      "abstract": "The infection caused by Helicobacter pylori is the most common on the planet, affecting half of the global population. It is usually transmitted during childhood and persists for life if untreated. It is the primary cause of chronic gastritis, peptic ulcer, and gastric cancer. In young dyspeptic patients without alarm symptoms, the test-and-treat strategy (detection of H. pylori through a non-invasive test and subsequent eradication) is the preferred approach. The causal role of the infection in the development of gastric adenocarcinoma provides an opportunity to implement preventive strategies. The infection can be diagnosed through invasive methods (requiring endoscopy, such as the rapid urease test or histology) and non-invasive methods (such as the breath test or stool antigen test). The treatment for H. pylori combines a proton pump inhibitor with several antibiotics or bismuth salts.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Helicobacter Infections",
+        "Helicobacter pylori",
+        "Stomach Neoplasms",
+        "Proton Pump Inhibitors",
+        "Anti-Bacterial Agents",
+        "Gastritis",
+        "Stomach Diseases",
+        "Adenocarcinoma"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Medicina clinica",
+      "authors": [
+        "Javier P Gisbert"
+      ]
+    },
+    {
+      "pmid": "40072510",
+      "title": "ACG Clinical Guideline: Diagnosis and Management of Gastric Premalignant Conditions.",
+      "abstract": "Gastric premalignant conditions (GPMC) are common and include atrophic gastritis, gastric intestinal metaplasia, dysplasia, and certain gastric epithelial polyps. GPMC have an increased risk of progression to gastric adenocarcinoma. Gastric cancer (GC) in the United States represents an important cancer disparity because incidence rates are 2- to 13-fold greater in non-White individuals, particularly early-generation immigrants from regions of high GC incidence. The US 5-year survival rate for GC is 36%, which falls short of global standards and is driven by the fact that only a small percentage of GC in the US is diagnosed in the early, curable stage. This document represents the first iteration of American College of Gastroenterology guidelines on this topic and encompasses endoscopic surveillance for high-risk patients with GPMC, the performance of high-quality endoscopy and image-enhanced endoscopy for diagnosis and surveillance, GPMC histology criteria and reporting, endoscopic treatment of dysplasia, the role of Helicobacter pylori eradication, general risk reduction measures, and the management of autoimmune gastritis and gastric epithelial polyps. There is insufficient evidence to make a recommendation on upper endoscopic screening for GC/GPMC detection in US populations deemed high-risk for GC. Surveillance endoscopy is recommended for individuals at high risk for GPMC progression, as defined by endoscopic, histologic, and demographic factors, typically every 3 years, but an individualized interval may be warranted. H. pylori testing, treatment, and eradication confirmation are recommended in all individuals with GPMC. Extensive high-quality data from US populations regarding GPMC management are lacking, but continue to accrue, and the quality of evidence for the recommendations presented herein should be interpreted with this dynamic context in mind. The GPMC research and education agendas are broad and include high-quality prospective studies evaluating opportunistic endoscopic screening for GC/GPMC, refined delineation of what constitutes \"high-risk\" populations, development of novel biomarkers, alignment of best practices, implementation of training programs for improved GPMC/GC detection, and evaluation of the impact of these interventions on GC incidence and mortality in the US.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Precancerous Conditions",
+        "Stomach Neoplasms",
+        "Helicobacter Infections",
+        "Gastritis, Atrophic",
+        "Gastroscopy",
+        "Helicobacter pylori",
+        "United States",
+        "Metaplasia"
+      ],
+      "chemicals": [],
+      "journal": "The American journal of gastroenterology",
+      "authors": [
+        "Douglas R Morgan",
+        "Juan E Corral",
+        "Dan Li",
+        "Elizabeth A Montgomery",
+        "Arnoldo Riquelme",
+        "John J Kim"
+      ]
+    },
+    {
+      "pmid": "41252836",
+      "title": "Iron Deficiency Anemia: Evaluation and Management.",
+      "abstract": "Iron deficiency anemia is common worldwide. In adult patients without inflammation, a ferritin level of less than 45 ng/mL or ferritin level of 46 to 99 ng/mL plus a transferrin saturation of less than 20% is diagnostic of iron deficiency. In patients with inflammation, a ferritin level of less than 100 ng/mL is diagnostic. Risk factors for iron deficiency anemia include low socioeconomic status, female sex, age younger than 5 years, and chronic inflammation. Underlying causes should be investigated. Recurrent blood loss is responsible for 94% of cases. In younger patients with a plausible cause of iron deficiency anemia (eg, heavy menstrual bleeding), a reasonable approach is to treat the bleeding and provide iron supplementation. In men and postmenopausal women, bidirectional endoscopy should be performed. Noninvasive testing for Helicobacter pylori infection and celiac disease is recommended because both are common causes of iron deficiency anemia. Oral iron replacement is the first-line treatment for most patients. However, intravenous iron is recommended in patients with heart failure to increase exercise capacity. Every-other-day dosing of oral iron improves absorption. Approximately 50% of patients have decreased adherence due to adverse effects. Patients taking oral iron therapy should be evaluated for response in 2 to 4 weeks. Patients who cannot tolerate oral iron or do not have adequate response should receive intravenous iron. Hypersensitivity to newer formulations of intravenous iron is rare (less than 1%).",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anemia, Iron-Deficiency",
+        "Female",
+        "Iron",
+        "Male",
+        "Risk Factors",
+        "Ferritins",
+        "Adult",
+        "Helicobacter Infections"
+      ],
+      "chemicals": [
+        "Iron",
+        "Ferritins"
+      ],
+      "journal": "American family physician",
+      "authors": [
+        "Kelly Latimer",
+        "Genta Baci",
+        "Michael Layne"
+      ]
+    },
+    {
+      "pmid": "39824392",
+      "title": "Eradication Therapy to Prevent Gastric Cancer in Helicobacterpylori-Positive Individuals: Systematic Review and Meta-Analysis of Randomized Controlled Trials and Observational Studies.",
+      "abstract": "Screening for, and treating, Helicobacter pylori in the general population or patients with early gastric neoplasia could reduce incidence of, and mortality from, gastric cancer. We updated a meta-analysis of randomized controlled trials (RCTs) examining this issue. We searched the literature through October 4, 2024, identifying studies examining effect of eradication therapy on incidence of gastric cancer in H pylori-positive adults without gastric neoplasia at baseline or H pylori-positive patients with gastric neoplasia undergoing endoscopic mucosal resection (EMR) in either RCTs or observational studies. The control arm received placebo or no eradication therapy in RCTs and no eradication therapy in observational studies. Follow-up was \u22652 years. We estimated relative risks (RR) of gastric cancer incidence and mortality. Eleven RCTs and 13 observational studies were eligible. For RCTs, RR of gastric cancer was lower with eradication therapy in healthy H pylori-positive individuals (8 RCTs, 0.64; 95% confidence interval [CI], 0.48-0.84) and H pylori-positive patients with gastric neoplasia undergoing EMR (3 RCTs, 0.52; 95% CI, 0.38-0.71). RR of death from gastric cancer was lower with eradication therapy in healthy H pylori-positive individuals (5 RCTs, 0.78; 95% CI, 0.62-0.98). In observational studies, RR of future gastric cancer was lower with eradication therapy in H pylori-positive subjects without gastric neoplasia at baseline (11 studies, 0.56; 95% CI, 0.43-0.73) and H pylori-positive patients with gastric neoplasia undergoing EMR (2 studies, 0.19; 95% CI, 0.06-0.61). This meta-analysis provides further evidence that administering eradication therapy prevents gastric cancer in H pylori-positive individuals, with consistency in results among studies of different design.",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Stomach Neoplasms",
+        "Helicobacter Infections",
+        "Helicobacter pylori",
+        "Randomized Controlled Trials as Topic",
+        "Observational Studies as Topic",
+        "Anti-Bacterial Agents",
+        "Incidence",
+        "Endoscopic Mucosal Resection",
+        "Treatment Outcome",
+        "Proton Pump Inhibitors"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "Proton Pump Inhibitors"
+      ],
+      "journal": "Gastroenterology",
+      "authors": [
+        "Alexander C Ford",
+        "Yuhong Yuan",
+        "Jin Young Park",
+        "David Forman",
+        "Paul Moayyedi"
+      ]
+    },
+    {
+      "pmid": "40093672",
+      "title": "Overcoming antibiotic-resistant",
+      "abstract": "Recent studies have shown a noticeable increase in global",
+      "pub_date": "2025-03-14",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Helicobacter pylori",
+        "Helicobacter Infections",
+        "Anti-Bacterial Agents",
+        "Proton Pump Inhibitors",
+        "Drug Therapy, Combination",
+        "Microbial Sensitivity Tests",
+        "Probiotics",
+        "Drug Resistance, Bacterial",
+        "Drug Resistance, Multiple, Bacterial"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "Proton Pump Inhibitors"
+      ],
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Gabriel Reis Rocha",
+        "Fabian Fellipe Bueno Lemos",
+        "Luis Guilherme de Oliveira Silva",
+        "Marcel Silva Luz",
+        "Gabriel Lima Correa Santos",
+        "Samuel Luca Rocha Pinheiro"
+      ]
+    },
+    {
+      "pmid": "40912906",
+      "title": "Screening and eradication of",
+      "abstract": "To convene a global consensus on 32 experts from 12 countries developed and refined consensus statements on Consensus was achieved on 28 statements. Eradication of",
+      "pub_date": "2025-10-08",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Helicobacter Infections",
+        "Stomach Neoplasms",
+        "Helicobacter pylori",
+        "Anti-Bacterial Agents",
+        "Mass Screening",
+        "Delphi Technique"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Gut",
+      "authors": [
+        "Jyh-Ming Liou",
+        "Peter Malfertheiner",
+        "Tzu-Chan Hong",
+        "Hsiu-Chi Cheng",
+        "Kentaro Sugano",
+        "Shailja Shah"
+      ]
+    },
+    {
+      "pmid": "40923937",
+      "title": "Potassium-competitive acid blockers.",
+      "abstract": "Acid suppression is the mainstay of management of common foregut disorders, including gastroesophageal reflux disease (GERD), peptic ulcer disease and Helicobacter pylori infection. Drawbacks of standard management with proton pump inhibitors (PPIs) include acid lability requiring enteric coating, slow onset of effect, lack of suppression of nocturnal acid breakthrough, and need for administration before meals. Potassium-competitive acid blockers (PCABs) are a novel class of acid suppressants that are effective in the management of symptomatic and erosive GERD, peptic ulcer disease and H. pylori infection. Administration before meals is not needed, and these agents achieve profound acid suppression right from the first dose, with control of daytime as well as nocturnal acid. In randomized controlled trials, PCABs are noninferior and often superior to PPIs, especially in healing of advanced grade esophagitis and eradication of treatment-naive as well as refractory H. pylori. The safety profile of PCABs over 10\u200ayears of use is reassuring, although profound acid suppression may contribute to hypergastrinemia and increased risk of gastrointestinal infections. As PCABs become available in many countries around the globe, real-world use will allow further research to determine the clinical niche of these acid-suppressive agents.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gastroesophageal Reflux",
+        "Helicobacter Infections",
+        "Proton Pump Inhibitors",
+        "Peptic Ulcer",
+        "Helicobacter pylori",
+        "Gastric Acid",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "journal": "Current opinion in gastroenterology",
+      "authors": [
+        "Trevor A Davis",
+        "C Prakash Gyawali"
+      ]
+    },
+    {
+      "pmid": "40924085",
+      "title": "[Helicobacter pylori].",
+      "abstract": "Helicobacter pylori was first characterized as an obligate bacterial pathogen in 1983. Since then, substantial advances have been made in understanding the pathophysiology of H.\u00a0pylori infection, optimizing diagnostic and therapeutic strategies, and expanding testing and treatment-including in the prevention of gastric malignancies. The recognition of H.\u00a0pylori-associated gastritis as an infectious disease led to the recommendation to initiate eradication therapy after any confirmed detection of the pathogen. The marked increase in resistance to commonly used antibiotics has prompted revisions in both national and international clinical guidelines. These include changes to empirical first-line therapy and have fueled ongoing debate regarding the pros and cons of routine pre-treatment antimicrobial susceptibility testing. This CME article provides an overview of the clinical relevance of the topic and also explains indications and methods for guideline-based diagnostics and therapy.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Helicobacter Infections",
+        "Helicobacter pylori",
+        "Anti-Bacterial Agents",
+        "Gastritis",
+        "Stomach Neoplasms"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Innere Medizin (Heidelberg, Germany)",
+      "authors": [
+        "Christian Schulz",
+        "Kerstin Sch\u00fctte"
+      ]
+    },
+    {
+      "pmid": "39964380",
+      "title": "[Helicobacter pylori].",
+      "abstract": "The guidelines on Helicobacter pylori (HP) have changed considerably. HP should always be considered a persistent and not a transient infection. A positive HP test should always be treated in order to prevent complications such as gastric or duodenal ulcers and gastric carcinoma. The prevalence of HP has been decreasing for many years but remains high among immigrants from many countries. Because the antimicrobial resistance situation has deteriorated significantly, we always recommend resistance testing before first-line therapy.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anti-Bacterial Agents",
+        "Cross-Sectional Studies",
+        "Diagnosis, Differential",
+        "Drug Resistance, Bacterial",
+        "Drug Therapy, Combination",
+        "Gastritis",
+        "Helicobacter Infections",
+        "Helicobacter pylori",
+        "Stomach Neoplasms",
+        "Practice Guidelines as Topic"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents"
+      ],
+      "journal": "Praxis",
+      "authors": [
+        "Fabian Egli",
+        "Dominik Dill",
+        "Baharak Babouee Flury",
+        "Magdalena Filipowicz Sinnreich",
+        "Anne Meynard",
+        "Gisela Etter"
+      ]
+    },
+    {
+      "pmid": "40645767",
+      "title": "",
+      "abstract": "This study's aim was to collect and update information on antibiotic resistance (AR) rates in An international survey was conducted in 31 countries on 6 continents to address key issues concerning the management of Resistance to the most effective antibiotics used in The dramatic global rise in",
+      "pub_date": "2025-09-08",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Helicobacter pylori",
+        "Humans",
+        "Helicobacter Infections",
+        "Anti-Bacterial Agents",
+        "Global Health",
+        "Drug Resistance, Bacterial",
+        "Microbial Sensitivity Tests",
+        "Bismuth"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "Bismuth"
+      ],
+      "journal": "Gut",
+      "authors": [
+        "Christian Schulz",
+        "Jyh-Ming Liou",
+        "Mohamed Alboraie",
+        "Jan Bornschein",
+        "Christian Campos Nunez",
+        "Luiz Gonzaga Coelho"
+      ]
+    },
+    {
+      "pmid": "39718517",
+      "title": "AGA Clinical Practice Update on Screening and Surveillance in Individuals at Increased Risk for Gastric Cancer in the United States: Expert Review.",
+      "abstract": "Gastric cancer (GC) is a leading cause of preventable cancer and mortality in certain US populations. The most impactful way to reduce GC mortality is via primary prevention, namely Helicobacter pylori eradication, and secondary prevention, namely endoscopic screening and surveillance of precancerous conditions, such as gastric intestinal metaplasia (GIM). An emerging body of evidence supports the possible impact of these strategies on GC incidence and mortality in identifiable high-risk populations in the United States. Accordingly, the primary objective of this American Gastroenterological Association (AGA) Clinical Practice Update (CPU) Expert Review is to provide best practice advice for primary and secondary prevention of GC in the context of current clinical practice and evidence in the United States. This CPU Expert Review was commissioned and approved by the AGA Institute CPU Committee and the AGA Governing Board to provide timely guidance on a topic of high clinical importance to the AGA membership, and underwent internal peer review by the CPU Committee and external peer review through standard procedures of Gastroenterology. These best practice advice statements were drawn from a review of the published literature and expert opinion. Because systematic reviews were not performed, these best practice advice statements do not carry formal ratings regarding the quality of evidence or strength of the presented considerations. Best Practice Advice Statements BEST PRACTICE ADVICE 1: There are identifiable high-risk groups in the United States who should be considered for GC screening. These include first-generation immigrants from high-incidence GC regions and possibly other non-White racial and ethnic groups, those with a family history of GC in a first-degree relative, and individuals with certain hereditary gastrointestinal polyposis or hereditary cancer syndromes. BEST PRACTICE ADVICE 2: Endoscopy is the best test for screening or surveillance in individuals at increased risk for GC. Endoscopy enables direct visualization to endoscopically stage the mucosa and identify areas concerning for neoplasia, as well as enables biopsies for further histologic examination and mucosal staging. Both endoscopic and histologic staging are key for risk stratification and determining whether ongoing surveillance is indicated and at what interval. BEST PRACTICE ADVICE 3: High-quality upper endoscopy for the detection of premalignant and malignant gastric lesions should include the use of a high-definition white-light endoscopy system with image enhancement, gastric mucosal cleansing, and insufflation to achieve optimal mucosal visualization, in addition to adequate visual inspection time, photodocumentation, and use of a systematic biopsy protocol for mucosal staging when appropriate. BEST PRACTICE ADVICE 4: H pylori eradication is essential and serves as an adjunct to endoscopic screening and surveillance for primary and secondary prevention of GC. Opportunistic screening for H pylori infection should be considered in individuals deemed to be at increased risk for GC (refer to Best Practice Advice 1). Screening for H pylori infection in adult household members of individuals who test positive for H pylori (so-called \"familial-based testing\") should also be considered. BEST PRACTICE ADVICE 5: In individuals with suspected gastric atrophy with or without intestinal metaplasia, gastric biopsies should be obtained according to a systematic protocol (eg, updated Sydney System) to enable histologic confirmation and staging. A minimum of 5 total biopsies should be obtained, with samples from the antrum/incisura and corpus placed in separately labeled jars (eg, jar 1, \"antrum/incisura\" and jar 2, \"corpus\"). Any suspicious areas should be described and biopsied separately. BEST PRACTICE ADVICE 6: GIM and dysplasia are endoscopically detectable. However, these findings often go undiagnosed when endoscopists are unfamiliar with the characteristic visual features; accordingly, there is an unmet need for improved training, especially in the United States. Artificial intelligence tools appear promising for the detection of early gastric neoplasia in the adequately visualized stomach, but data are too preliminary to recommend routine use. BEST PRACTICE ADVICE 7: Endoscopists should work with their local pathologists to achieve consensus for consistent documentation of histologic risk-stratification parameters when atrophic gastritis with or without metaplasia is diagnosed. At a minimum, the presence or absence of H pylori infection, severity of atrophy and/or metaplasia, and histologic subtyping of GIM, if applicable, should be documented to inform clinical decision making. BEST PRACTICE ADVICE 8: If the index screening endoscopy performed in an individual at increased risk for GC (refer to Best Practice Advice 1) does not identify atrophy, GIM, or neoplasia, then the decision to continue screening should be based on that individual's risk factors and preferences. If the individual has a family history of GC or multiple risk factors for GC, then ongoing screening should be considered. The optimal screening intervals in such scenarios are not well defined. BEST PRACTICE ADVICE 9: Endoscopists should ensure that all individuals with confirmed gastric atrophy with or without GIM undergo risk stratification. Individuals with severe atrophic gastritis and/or multifocal or incomplete GIM are likely to benefit from endoscopic surveillance, particularly if they have other risk factors for GC (eg, family history). Endoscopic surveillance should be considered every 3 years; however, intervals are not well defined and shorter intervals may be advisable in those with multiple risk factors, such as severe GIM that is anatomically extensive. BEST PRACTICE ADVICE 10: Indefinite and low-grade dysplasia can be difficult to reproducibly identify by endoscopy and accurately diagnose on histopathology. Accordingly, all dysplasia should be confirmed by an experienced gastrointestinal pathologist, and clinicians should refer patients with visible or nonvisible dysplasia to an endoscopist or center with expertise in the diagnosis and management of gastric neoplasia. Individuals with indefinite or low-grade dysplasia who are infected with H pylori should be treated and have eradication confirmed, followed by repeat endoscopy and biopsies by an experienced endoscopist, as visual and histologic discernment may improve once inflammation subsides. BEST PRACTICE ADVICE 11: Individuals with suspected high-grade dysplasia or early GC should undergo endoscopic submucosal dissection with the goal of en bloc, R0 resection to enable accurate pathologic staging with curative intent. Eradication of active H pylori infection is essential, but should not delay endoscopic intervention. Endoscopic submucosal dissection should be performed at a center with endoscopic and pathologic expertise. BEST PRACTICE ADVICE 12: Individuals with a history of successfully resected gastric dysplasia or cancer require ongoing endoscopic surveillance. Suggested surveillance intervals exist, but additional data are required to refine surveillance recommendations, particularly in the United States. BEST PRACTICE ADVICE 13: Type I gastric carcinoids in individuals with atrophic gastritis are typically indolent, especially if <1 cm. Endoscopists may consider resecting gastric carcinoids <1 cm and should endoscopically resect lesions measuring 1-2 cm. Individuals with type I gastric carcinoids >2\u00a0cm should undergo cross-sectional imaging and be referred for surgical resection, given the risk of metastasis. Individuals with type I gastric carcinoids should undergo surveillance, but the intervals are not well defined. BEST PRACTICE ADVICE 14: In general, only individuals who are fit for endoscopic or potentially surgical treatment should be screened for GC and continued surveillance of premalignant gastric conditions. If a person is no longer fit for endoscopic or surgical treatment, then screening and surveillance should be stopped. BEST PRACTICE ADVICE 15: To achieve health equity, a personalized approach should be taken to assess an individual's risk for GC to determine whether screening and surveillance should be pursued. In conjunction, modifiable risk factors for GC should be distinctly addressed, as most of these risk factors disproportionately impact people at high risk for GC and represent health care disparities.",
+      "pub_date": "2025-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Stomach Neoplasms",
+        "United States",
+        "Early Detection of Cancer",
+        "Risk Factors",
+        "Helicobacter Infections",
+        "Risk Assessment",
+        "Precancerous Conditions",
+        "Gastroenterology",
+        "Helicobacter pylori",
+        "Primary Prevention",
+        "Gastroscopy",
+        "Secondary Prevention",
+        "Incidence",
+        "Metaplasia",
+        "Societies, Medical",
+        "Population Surveillance",
+        "Mass Screening"
+      ],
+      "chemicals": [],
+      "journal": "Gastroenterology",
+      "authors": [
+        "Shailja C Shah",
+        "Andrew Y Wang",
+        "Michael B Wallace",
+        "Joo Ha Hwang"
+      ]
+    }
+  ]
+}

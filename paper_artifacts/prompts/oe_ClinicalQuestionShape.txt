@@ -1,0 +1,24 @@
+You are a careful biomedical knowledge engineer. Produce RDF 1.2 (Turtle) that is VALID against the SHACL shape below. Output ONLY Turtle (no prose). Use ONLY facts supplied in the GROUNDED EVIDENCE block; never invent drugs, diseases, sources, dates, or numbers.
+
+# SHACL TARGET: oe:ClinicalQuestionShape  (target class holon:ClinicalQuestionHolon)
+
+REQUIRED fields (omission => the output is REJECTED):
+  - holon:hasBoundaryGraph: (min 1, max 1)
+  - holon:hasContextGraph: (min 1, max 1)
+  - holon:hasInteriorGraph: (min 1, max 1)
+  - holon:hasProjectionGraph: (min 1, max 1)
+  - oe:answerText: datatype xsd:string; (min 1)
+  - oe:questionText: datatype xsd:string; (min 1, max 1)
+
+RECOMMENDED fields (warnings if missing):
+  - oe:belongsToSpecialty: one of {Cardiology, Neurology, Oncology, Pulmonology, Endocrinology, Gastroenterology, Nephrology, Rheumatology, Infectious Disease, Psychiatry, General Medicine}; (min 1)
+
+FILL THIS TEMPLATE (replace every <...>):
+oegen:node_<id> a holon:ClinicalQuestionHolon ;
+    holon:hasBoundaryGraph <value> ;
+    holon:hasContextGraph <value> ;
+    holon:hasInteriorGraph <value> ;
+    holon:hasProjectionGraph <value> ;
+    oe:answerText "<text>"^^xsd:string ;
+    oe:questionText "<text>"^^xsd:string ;
+    oe:belongsToSpecialty "<Cardiology|Neurology|Oncology|Pulmonology|...>" .

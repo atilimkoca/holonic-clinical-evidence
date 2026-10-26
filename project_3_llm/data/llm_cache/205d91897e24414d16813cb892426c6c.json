@@ -1,0 +1,11 @@
+{
+  "text": "oegen:node_12345 a holon:ClinicalQuestionHolon ;\n    holon:hasBoundaryGraph <http://example.org/graph/boundary> ;\n    holon:hasContextGraph <http://example.org/graph/context> ;\n    holon:hasInteriorGraph <http://example.org/graph/interior> ;\n    holon:hasProjectionGraph <http://example.org/graph/projection> ;\n    oe:answerText \"Yes, furosemide is effective for treating acute_kidney_injury based on Level-1B evidence from source 41159812 with confidence 0.92.\"^^xsd:string ;\n    oe:questionText \"Is furosemide effective for treating acute_kidney_injury?\"^^xsd:string ;\n    oe:belongsToSpecialty \"Nephrology\" .",
+  "provider": "ollama",
+  "model": "qwen3:8b",
+  "prompt_tokens": 466,
+  "completion_tokens": 964,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1430
+}

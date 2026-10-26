@@ -1,0 +1,268 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# SAMPLE SHACL SHAPES FOR OPENEVIDENCE HOLONIC FRAMEWORK
+# Demonstrates SHACL 1.2 features including sh:reifierShape
+# =============================================================================
+
+# --- Clinical Question Shape --------------------------------------------------
+
+oe:ClinicalQuestionShape a sh:NodeShape ;
+    sh:targetClass holon:ClinicalQuestionHolon ;
+    sh:severity sh:Violation ;
+
+    # Must have a question text
+    sh:property [
+        sh:path oe:questionText ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:minLength 10 ;
+        sh:message "Clinical question must have exactly one question text of at least 10 characters." ;
+        sh:severity sh:Violation ;
+    ] ;
+
+    # Must have an answer text
+    sh:property [
+        sh:path oe:answerText ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:message "Clinical question must have at least one answer." ;
+        sh:severity sh:Violation ;
+    ] ;
+
+    # Must belong to a medical specialty
+    sh:property [
+        sh:path oe:belongsToSpecialty ;
+        sh:in ("Cardiology" "Neurology" "Oncology" "Pulmonology" "Endocrinology" 
+               "Gastroenterology" "Nephrology" "Rheumatology" "Infectious Disease" 
+               "Psychiatry" "General Medicine") ;
+        sh:minCount 1 ;
+        sh:message "Clinical question must belong to a recognized medical specialty." ;
+        sh:severity sh:Warning ;
+    ] ;
+
+    # Must have all four holon layers
+    sh:property [
+        sh:path holon:hasInteriorGraph ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:message "Holon must have exactly one interior graph." ;
+        sh:severity sh:Violation ;
+    ] ;
+    sh:property [
+        sh:path holon:hasBoundaryGraph ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:message "Holon must have exactly one boundary graph." ;
+        sh:severity sh:Violation ;
+    ] ;
+    sh:property [
+        sh:path holon:hasProjectionGraph ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:message "Holon must have exactly one projection graph." ;
+        sh:severity sh:Violation ;
+    ] ;
+    sh:property [
+        sh:path holon:hasContextGraph ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:message "Holon must have exactly one context graph." ;
+        sh:severity sh:Violation ;
+    ] .
+
+# --- Disease Shape ------------------------------------------------------------
+
+oe:DiseaseShape a sh:NodeShape ;
+    sh:targetClass oe:Disease ;
+
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:datatype rdf:langString ;
+        sh:message "Disease must have at least one label." ;
+        sh:severity sh:Violation ;
+    ] ;
+
+    sh:property [
+        sh:path oe:icdCode ;
+        sh:datatype xsd:string ;
+        sh:pattern "^[A-Z][0-9]{2}(\\.[0-9]{1,4})?$" ;
+        sh:maxCount 1 ;
+        sh:message "ICD code must match pattern like 'I10' or 'I10.0'." ;
+        sh:severity sh:Warning ;
+    ] ;
+
+    sh:property [
+        sh:path oe:hasSymptom ;
+        sh:class oe:Symptom ;
+        sh:message "hasSymptom must point to a Symptom instance." ;
+        sh:severity sh:Violation ;
+    ] .
+
+# --- Drug Shape ---------------------------------------------------------------
+
+oe:DrugShape a sh:NodeShape ;
+    sh:targetClass oe:Drug ;
+
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:message "Drug must have at least one label." ;
+        sh:severity sh:Violation ;
+    ] ;
+
+    sh:property [
+        sh:path oe:atcCode ;
+        sh:datatype xsd:string ;
+        sh:pattern "^[A-Z][0-9]{2}[A-Z]{2}[0-9]{2}$" ;
+        sh:maxCount 1 ;
+        sh:message "ATC code must match pattern like 'C09AA03'." ;
+        sh:severity sh:Warning ;
+    ] ;
+
+    # The 'treats' property with reifier validation (SHACL 1.2)
+    sh:property [
+        sh:path oe:treats ;
+        sh:class oe:Disease ;
+        sh:message "treats must point to a Disease instance." ;
+        sh:severity sh:Violation ;
+        # SHACL 1.2: Validate the reification annotations on this triple
+        sh:reifierShape oe:EvidenceReifierShape ;
+    ] .
+
+# --- Evidence Reifier Shape (SHACL 1.2) --------------------------------------
+# Validates the metadata attached to reified evidence assertions
+
+oe:EvidenceReifierShape a sh:NodeShape ;
+    rdfs:comment "Validates RDF 1.2 reification annotations on evidence triples."@en ;
+
+    # Must have confidence score
+    sh:property [
+        sh:path holon:confidence ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:minInclusive "0.0"^^xsd:decimal ;
+        sh:maxInclusive "1.0"^^xsd:decimal ;
+        sh:message "Evidence reification must have exactly one confidence score in [0.0, 1.0]." ;
+        sh:severity sh:Violation ;
+    ] ;
+
+    # Must have evidence level
+    sh:property [
+        sh:path holon:evidenceLevel ;
+        sh:minCount 1 ;
+        sh:in ("Level-1A" "Level-1B" "Level-2A" "Level-2B" "Level-3" "Level-4" "Level-5") ;
+        sh:message "Evidence must specify a recognized evidence level." ;
+        sh:severity sh:Violation ;
+    ] ;
+
+    # Must have assessor
+    sh:property [
+        sh:path holon:assessedBy ;
+        sh:minCount 1 ;
+        sh:message "Evidence reification must identify the assessor." ;
+        sh:severity sh:Warning ;
+    ] ;
+
+    # Must have recording date
+    sh:property [
+        sh:path holon:recordedOn ;
+        sh:datatype xsd:date ;
+        sh:minCount 1 ;
+        sh:message "Evidence reification must have a recording date." ;
+        sh:severity sh:Warning ;
+    ] ;
+
+    # Must cite at least one source
+    sh:property [
+        sh:path oe:cites ;
+        sh:class oe:EvidenceSource ;
+        sh:minCount 1 ;
+        sh:message "Evidence reification must cite at least one source." ;
+        sh:severity sh:Violation ;
+    ] .
+
+# --- Evidence Source Shape ----------------------------------------------------
+
+oe:SourceShape a sh:NodeShape ;
+    sh:targetClass oe:EvidenceSource ;
+
+    sh:property [
+        sh:path rdfs:label ;
+        sh:minCount 1 ;
+        sh:message "Evidence source must have a label." ;
+        sh:severity sh:Violation ;
+    ] ;
+
+    # Must have either PubMed ID or DOI
+    sh:or (
+        [ sh:property [
+            sh:path oe:pubmedId ;
+            sh:minCount 1 ;
+        ] ]
+        [ sh:property [
+            sh:path oe:doi ;
+            sh:minCount 1 ;
+        ] ]
+    ) ;
+
+    sh:property [
+        sh:path oe:publicationDate ;
+        sh:datatype xsd:date ;
+        sh:minCount 1 ;
+        sh:message "Evidence source must have a publication date." ;
+        sh:severity sh:Warning ;
+    ] .
+
+# --- Holon Boundary Shape (Meta-Shape) ----------------------------------------
+# Validates the structure of boundary graphs themselves
+
+oe:HolonBoundaryShape a sh:NodeShape ;
+    sh:targetClass holon:EntityEntry ;
+
+    sh:property [
+        sh:path holon:entity ;
+        sh:minCount 1 ;
+        sh:maxCount 1 ;
+        sh:message "Entity entry must reference exactly one entity." ;
+        sh:severity sh:Violation ;
+    ] ;
+
+    sh:property [
+        sh:path holon:entryMode ;
+        sh:datatype xsd:string ;
+        sh:minCount 1 ;
+        sh:in ("topic-match" "evidence-linked" "contradiction" "superseded-by-newer-evidence" 
+               "temporal-update" "new-evidence" "cross-reference") ;
+        sh:message "Entry mode must be one of the recognized modes." ;
+        sh:severity sh:Warning ;
+    ] .
+
+# --- SPARQL Constraint: Temporal Consistency ----------------------------------
+# Custom SPARQL constraint ensuring that evidence dates are not in the future
+
+oe:TemporalConsistencyConstraint a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:sparql [
+        sh:message "Evidence recording date must not be in the future." ;
+        sh:severity sh:Violation ;
+        sh:prefixes [
+            sh:declare [ sh:prefix "holon" ; sh:namespace "https://example.org/holon#"^^xsd:anyURI ] ;
+            sh:declare [ sh:prefix "xsd" ; sh:namespace "http://www.w3.org/2001/XMLSchema#"^^xsd:anyURI ]
+        ] ;
+        sh:select """
+            SELECT $this (holon:recordedOn AS ?path) (?date AS ?value)
+            WHERE {
+                $this holon:recordedOn ?date .
+                FILTER (?date > NOW())
+            }
+        """ ;
+    ] .

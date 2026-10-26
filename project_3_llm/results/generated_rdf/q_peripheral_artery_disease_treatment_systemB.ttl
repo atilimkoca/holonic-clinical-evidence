@@ -1,0 +1,32 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_peripheral_artery_disease_treatment> a holon:ClinicalQuestionHolon ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Peripheral Artery Disease?"^^xsd:string ;
+    oe:answerText "Peripheral artery disease is a highly morbid type of atherosclerotic vascular disease involving the legs and is estimated to affect over 230 million individuals globally. Few therapies improve functional capacity and health-related quality of life in people with lower limb peripheral artery disease."^^xsd:string ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_peripheral_artery_disease_treatment-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_peripheral_artery_disease_treatment-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_peripheral_artery_disease_treatment-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_peripheral_artery_disease_treatment-con> .
+
+<https://example.org/openevidence/drugs/clopidogrel> oe:treats <https://example.org/openevidence/diseases/peripheral_artery_disease> .
+<https://example.org/openevidence/generated/ev_q_peripheral_artery_disease_treatment_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_peripheral_artery_disease_treatment_0-tt> ;
+    holon:confidence "0.93"^^xsd:decimal ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/40169145> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_peripheral_artery_disease_treatment> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_peripheral_artery_disease_treatment_0-tt> rdf:subject <https://example.org/openevidence/drugs/clopidogrel> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/peripheral_artery_disease> .
+
+<https://example.org/openevidence/drugs/atorvastatin> oe:treats <https://example.org/openevidence/diseases/coronary_artery_disease> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/donepezil> oe:treats <https://example.org/openevidence/diseases/alzheimer_disease> .   # ungrounded (naive)

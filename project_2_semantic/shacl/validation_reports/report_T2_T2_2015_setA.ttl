@@ -1,0 +1,17 @@
+Validation Report
+Conforms: False
+Results (2):
+Constraint Violation in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: [ sh:class oe:EvidenceSource ; sh:message Literal("Cited source must be typed (T2); its reification is validated by CitationReifierShape.") ; sh:path oe:cites ; sh:reifierShape oe:CitationReifierShape ; sh:severity sh:Violation ]
+	Focus Node: oeevt:ev2015_0
+	Value Node: oesrc:ghost2015
+	Result Path: oe:cites
+	Message: Cited source must be typed (T2); its reification is validated by CitationReifierShape.
+Constraint Violation in ClassConstraintComponent (http://www.w3.org/ns/shacl#ClassConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: [ sh:class oe:EvidenceSource ; sh:message Literal("Evidence reification must cite at least one typed source (T2).") ; sh:minCount Literal("1", datatype=xsd:integer) ; sh:path oe:cites ; sh:reifierShape oe:CitationReifierShape ; sh:severity sh:Violation ]
+	Focus Node: oeevt:ev2015_0
+	Value Node: oesrc:ghost2015
+	Result Path: oe:cites
+	Message: Evidence reification must cite at least one typed source (T2).

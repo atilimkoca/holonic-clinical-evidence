@@ -1,0 +1,429 @@
+{
+  "disease": "Generalized Anxiety Disorder",
+  "slug": "generalized_anxiety_disorder",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "39505448",
+      "title": "Pharmacotherapy for Anxiety Disorders.",
+      "abstract": "Anxiety disorders are the most common psychiatric illness and include disorders such as generalized anxiety disorder (GAD), panic disorder (PD), and social anxiety disorder (SAD). Psychotherapy and pharmacotherapy are both effective treatments for anxiety disorders, with efficacy between 60% and 85%. Selective serotonin reuptake inhibitors and serotonin-norepinephrine reuptake inhibitors are first-line pharmacologic treatment for GAD, PD, and SAD. Recommendations for treating pediatric and geriatric populations vary slightly, but first-line treatments remain the same. Recent advancements in the treatment of anxiety disorders are limited although research has discovered novel pathways, which may lead to additional treatment options in the future.",
+      "pub_date": "2024-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anxiety Disorders",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Anti-Anxiety Agents",
+        "Serotonin and Noradrenaline Reuptake Inhibitors",
+        "Panic Disorder",
+        "Psychotherapy"
+      ],
+      "chemicals": [
+        "Selective Serotonin Reuptake Inhibitors",
+        "Anti-Anxiety Agents",
+        "Serotonin and Noradrenaline Reuptake Inhibitors"
+      ],
+      "journal": "The Psychiatric clinics of North America",
+      "authors": [
+        "Kerry B O'Leary",
+        "Jeffrey S Khan"
+      ]
+    },
+    {
+      "pmid": "38924898",
+      "title": "Therapeutic potential of cannabidiol (CBD) in anxiety disorders: A systematic review and meta-analysis.",
+      "abstract": "Cannabidiol (CBD), as one of the phytocannabinoids, has a wide range of therapeutic properties for various neuropsychiatric disorders due to central nervous system effects. These therapeutic properties demonstrated by preclinical and clinical studies encompass more than just anticonvulsant, anti-arthritic, analgesic, anti-inflammatory, antioxidant, antitumor, antiemetic, antipsychotic and neuroprotective effects. It has been hypothesized that CBD holds potential in the treatment of various neuropsychiatric and anxiety disorders. Thus, PRISMA was used as a guide for our systematic review. Eight of the 1550 articles screened in June 2023 were eligible for meta-analysis. Based on the 316 participants included in these eight articles, this meta-analysis revealed a substantial significant impact of CBD on anxiety with a considerable effect size (Hedges' g = -0.92, 95% CI -1.80 to -0.04). In addition, this meta-analysis focuses on the efficacy of CBD in treating anxiety disorders such as generalized anxiety disorder (GAD), social anxiety disorder (SAD), and post-traumatic stress disorder (PTSD). However, caution should be exercised in interpreting our findings due to the limited size of the clinical sample, and additional trials ought to be carried out if deemed necessary.",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Cannabidiol",
+        "Humans",
+        "Anxiety Disorders",
+        "Anti-Anxiety Agents"
+      ],
+      "chemicals": [
+        "Cannabidiol",
+        "Anti-Anxiety Agents"
+      ],
+      "journal": "Psychiatry research",
+      "authors": [
+        "Kevin Han",
+        "Jia-Yu Wang",
+        "Peng-Yun Wang",
+        "Yue-Chu-Han Peng"
+      ]
+    },
+    {
+      "pmid": "41296368",
+      "title": "Therapeutic Use of Cannabis and Cannabinoids: A Review.",
+      "abstract": "Approximately 27% of adults in the US and Canada report having ever used cannabis for medical purposes. An estimated 10.5% of the US population reports using cannabidiol (CBD), a chemical compound extracted from cannabis that does not have psychoactive effects, for therapeutic purposes. Conditions for which cannabinoids have approval from the US Food and Drug Administration include HIV/AIDS-related anorexia, chemotherapy-induced nausea and vomiting, and certain pediatric seizure disorders. A meta-analysis of randomized clinical trials reported a small but significant reduction in nausea and vomiting from various causes (eg, chemotherapy, cancer) when comparing prescribed cannabinoids (eg, dronabinol, nabilone) with placebo or active comparators (eg, alizapride, chlorpromazine; standardized mean difference [SMD], -0.29 [95% CI, -0.39 to -0.18]). A meta-analysis of randomized clinical trials among patients with HIV/AIDS reported that cannabinoids had a moderate effect on increasing body weight compared with placebo (SMD, 0.57 [95% CI, 0.22 to 0.92]). Evidence-based guidelines do not recommend the use of inhaled or high-potency cannabis (\u226510% or 10 mg \u03949-tetrahydrocannabinol [\u03949-THC]) for medical purposes. High-potency cannabis compared with low-potency cannabis use is associated with increased risk of psychotic symptoms (12.4% vs 7.1%) and generalized anxiety disorder (19.1% vs 11.6%). A meta-analysis of observational studies reported that 29% of individuals who used cannabis for medical purposes met criteria for cannabis use disorder. Daily inhaled cannabis use compared with nondaily use was associated with an increased risk of coronary heart disease (2.0% vs 0.9%), myocardial infarction (1.7% vs 1.3%), and stroke (2.6% vs 1.0%). Evidence from randomized clinical trials does not support the use of cannabis or cannabinoids for most conditions for which it is promoted, such as acute pain and insomnia. Before considering cannabis or cannabinoids for medical use, clinicians should consult applicable institutional, state, and national regulations; evaluate for drug-drug interactions; and assess for contraindications (eg, pregnancy) or conditions in which risks likely outweigh benefits (eg, schizophrenia or ischemic heart disease). For patients using cannabis or cannabinoids for treatment of medical conditions, clinicians should discuss harm reduction strategies, including avoiding concurrent use with alcohol or other central nervous system depressants such as benzodiazepines, using the lowest effective dose, and avoiding use when driving or operating machinery. Evidence is insufficient for the use of cannabis or cannabinoids for most medical indications. Clear guidance from clinicians is essential to support safe, evidence-based decision-making. Clinicians should weigh benefits against risks when engaging patients in informed discussions about cannabis or cannabinoid use.",
+      "pub_date": "2026-01-27",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cannabidiol",
+        "Cannabinoids",
+        "Cannabis",
+        "Medical Marijuana",
+        "Nausea",
+        "Seizures",
+        "Vomiting",
+        "Harm Reduction",
+        "Coronary Disease",
+        "Generalized Anxiety Disorder",
+        "Myocardial Infarction",
+        "Stroke",
+        "Randomized Controlled Trials as Topic",
+        "Meta-Analysis as Topic"
+      ],
+      "chemicals": [
+        "Cannabidiol",
+        "Cannabinoids",
+        "Medical Marijuana"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Michael Hsu",
+        "Arya Shah",
+        "Ayana Jordan",
+        "Mark S Gold",
+        "Kevin P Hill"
+      ]
+    },
+    {
+      "pmid": "39271040",
+      "title": "Anxiety disorders: Treatments, models, and circuitry mechanisms.",
+      "abstract": "Anxiety disorders are one of the most prevalent mental health conditions worldwide, imposing a significant burden on individuals affected by them and society in general. Current research endeavors aim to enhance the effectiveness of existing anxiolytic drugs and reduce their side effects through optimization or the development of new treatments. Several anxiolytic novel drugs have been produced as a result of discovery-focused research. However, many drug candidates that show promise in preclinical rodent model studies fail to offer any substantive clinical benefits to patients. This review provides an overview of the diagnosis and classification of anxiety disorders together with a systematic review of anxiolytic drugs with a focus on their targets, therapeutic applications, and side effects. It also provides a concise overview of the constraints and disadvantages associated with frequently administered anxiolytic drugs. Additionally, the study comprehensively reviews animal models used in anxiety studies and their associated molecular mechanisms, while also summarizing the brain circuitry related to anxiety. In conclusion, this article provides a valuable foundation for future anxiolytic drug discovery efforts.",
+      "pub_date": "2024-11-15",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Anti-Anxiety Agents",
+        "Anxiety Disorders",
+        "Disease Models, Animal",
+        "Brain"
+      ],
+      "chemicals": [
+        "Anti-Anxiety Agents"
+      ],
+      "journal": "European journal of pharmacology",
+      "authors": [
+        "Li Ren",
+        "Yue Fan",
+        "Wenjian Wu",
+        "Yuanxin Qian",
+        "Miao He",
+        "Xinlong Li"
+      ]
+    },
+    {
+      "pmid": "39271062",
+      "title": "Beta-blockers for the treatment of anxiety disorders: A systematic review and meta-analysis.",
+      "abstract": "Beta-blocker prescriptions for patients with anxiety increased substantially between 2003 and 2018, yet there is no clinical guidance concerning their use. A previous review of propranolol - a beta-blocker - in the treatment of anxiety concluded there was insufficient evidence to support its use. Additional data have been published in the eight years since that review including some evidence for other beta-blockers. We aimed to synthesise all available data on the effectiveness of beta-blockers in the treatment of anxiety disorders in adults. We searched Medline, Embase, PsycINFO, Web of Science, and Trial Registries (September 2023), including randomised controlled trials (RCT), non-randomised control group comparative studies and cross-over trials reporting self- or clinician-reported anxiety symptoms. Study quality was assessed using Cochrane's Risk of Bias tool, with meta-analyses conducted by comparator group using random-effects models. Searches produced 3068 records, with 10 studies included, of which five were included in meta-analyses (n\u00a0=\u00a0179). There was no evidence for a beneficial effect of beta-blockers compared with either placebo or benzodiazepines in patients with social phobia or panic disorder with/without agoraphobia (p-value for all meta-analyses \u22650.54). Many of the included studies had small sample sizes, missing data and high or unclear risk of bias. Beta-blockers are increasingly prescribed for anxiety, yet there is a lack of robust evidence of effectiveness. There is a need to understand when and why practitioners are using these drugs, and to undertake a large RCT to provide definitive evidence of whether beta-blockers are an effective and safe treatment for anxiety.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Adrenergic beta-Antagonists",
+        "Anti-Anxiety Agents",
+        "Anxiety Disorders",
+        "Panic Disorder",
+        "Phobia, Social",
+        "Propranolol"
+      ],
+      "chemicals": [
+        "Adrenergic beta-Antagonists",
+        "Anti-Anxiety Agents",
+        "Propranolol"
+      ],
+      "journal": "Journal of affective disorders",
+      "authors": [
+        "Charlotte Archer",
+        "Nicola Wiles",
+        "David Kessler",
+        "Katrina Turner",
+        "Deborah M Caldwell"
+      ]
+    },
+    {
+      "pmid": "38138172",
+      "title": "Preoperative Anxiety Impact on Anesthetic and Analgesic Use.",
+      "abstract": "Anxiety is a complex emotional state that can arise from the anticipation of a threatening event, and preoperative anxiety is a common experience among adult patients undergoing surgery. In adult patients, the incidence of preoperative anxiety varies widely across different surgical groups, and it can result in a variety of psychophysiological responses and problems. Despite its negative impact, preoperative anxiety often receives insufficient attention in clinical practice. To improve pain management strategies, there is a need for further research on personalized approaches that take into account various factors that contribute to an individual's pain experience. These personalized approaches could involve developing tools to identify individuals who are more likely to experience increased pain and may require additional analgesia. To address this, regular assessments of anxiety levels should be conducted during preoperative visits, and counseling should be provided to patients with high levels of anxiety. Identifying and addressing preoperative anxiety in a timely manner can help reduce its incidence and potential consequences.",
+      "pub_date": "2023-11-23",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Analgesics",
+        "Anxiety",
+        "Anesthetics",
+        "Anxiety Disorders",
+        "Pain",
+        "Postoperative Pain"
+      ],
+      "chemicals": [
+        "Analgesics",
+        "Anesthetics"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "authors": [
+        "Hanaa Baagil",
+        "Hamzah Baagil",
+        "Mark Ulrich Gerbershagen"
+      ]
+    },
+    {
+      "pmid": "39505450",
+      "title": "Childhood Anxiety Disorders.",
+      "abstract": "Anxiety disorders are common in children and adolescents, with many youths experiencing functional impairment in multiple domains because of these conditions. Biologic and cognitive-behavioral models provide a basis for the development and maintenance of these disorders. Cognitive behavioral therapy (CBT) with exposures and selective serotonin reuptake inhibitors or serotonin and norepinephrine reuptake inhibitors are empirically supported treatments for childhood anxiety disorders. Exposures are a key component of CBT treatment and a case vignette demonstrates how to tailor exposures to the unique fears of the child.",
+      "pub_date": "2024-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anxiety Disorders",
+        "Child",
+        "Cognitive Behavioral Therapy",
+        "Adolescent",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Implosive Therapy"
+      ],
+      "chemicals": [
+        "Selective Serotonin Reuptake Inhibitors"
+      ],
+      "journal": "The Psychiatric clinics of North America",
+      "authors": [
+        "Jordan T Stiede",
+        "Katie H Mangen",
+        "Eric A Storch"
+      ]
+    },
+    {
+      "pmid": "38014714",
+      "title": "Pharmacological treatments in panic disorder in adults: a network meta-analysis.",
+      "abstract": "A panic attack is a discrete period of fear or anxiety that has a rapid onset and reaches a peak within 10 minutes. The main symptoms involve bodily systems, such as racing heart, chest pain, sweating, shaking, dizziness, flushing, churning stomach, faintness and breathlessness. Other recognised panic attack symptoms involve fearful cognitions, such as the fear of collapse, going mad or dying, and derealisation (the sensation that the world is unreal). Panic disorder is common in the general population with a prevalence of 1% to 4%. The treatment of panic disorder includes psychological and pharmacological interventions, including antidepressants and benzodiazepines. To compare, via network meta-analysis, individual drugs (antidepressants and benzodiazepines) or placebo in terms of efficacy and acceptability in the acute treatment of panic disorder, with or without agoraphobia. To rank individual active drugs for panic disorder (antidepressants, benzodiazepines and placebo) according to their effectiveness and acceptability. To rank drug classes for panic disorder (selective serotonin reuptake inhibitors (SSRIs), serotonin-norepinephrine reuptake inhibitors (SNRIs), tricyclic antidepressants (TCAs), mono-amine oxidase inhibitors (MAOIs) and benzodiazepines (BDZs) and placebo) according to their effectiveness and acceptability. To explore heterogeneity and inconsistency between direct and indirect evidence in a network meta-analysis. We searched the Cochrane Common Mental Disorders Specialised Register, CENTRAL, CDSR, MEDLINE, Ovid Embase and PsycINFO to 26 May 2022. We included randomised controlled trials (RCTs) of people aged 18 years or older of either sex and any ethnicity with clinically diagnosed panic disorder, with or without agoraphobia. We included trials that compared the effectiveness of antidepressants and benzodiazepines with each other or with a placebo. Two authors independently screened titles/abstracts and full texts, extracted data and assessed risk of bias. We analysed dichotomous data and continuous data as risk ratios (RRs), mean differences (MD) or standardised mean differences (SMD): response to treatment (i.e. substantial improvement from baseline as defined by the original investigators: dichotomous outcome), total number of dropouts due to any reason (as a proxy measure of treatment acceptability: dichotomous outcome), remission (i.e. satisfactory end state as defined by global judgement of the original investigators: dichotomous outcome), panic symptom scales and global judgement (continuous outcome), frequency of panic attacks (as recorded, for example, by a panic diary; continuous outcome), agoraphobia (dichotomous outcome). We assessed the certainty of evidence using threshold analyses. Overall, we included 70 trials in this review. Sample sizes ranged between 5 and 445 participants in each arm, and the total sample size per study ranged from 10 to 1168. Thirty-five studies included sample sizes of over 100 participants. There is evidence from 48 RCTs (N = 10,118) that most medications are more effective in the response outcome than placebo. In particular, diazepam, alprazolam, clonazepam, paroxetine, venlafaxine, clomipramine, fluoxetine and adinazolam showed the strongest effect, with diazepam, alprazolam and clonazepam ranking as the most effective. We found heterogeneity in most of the comparisons, but our threshold analyses suggest that this is unlikely to impact the findings of the network meta-analysis. Results from 64 RCTs (N = 12,310) suggest that most medications are associated with either a reduced or similar risk of dropouts to placebo. Alprazolam and diazepam were associated with a lower dropout rate compared to placebo and were ranked as the most tolerated of all the medications examined. Thirty-two RCTs (N = 8569) were included in the remission outcome. Most medications were more effective than placebo, namely desipramine, fluoxetine, clonazepam, diazepam, fluvoxamine, imipramine, venlafaxine and paroxetine, and their effects were clinically meaningful. Amongst these medications, desipramine and alprazolam were ranked highest. Thirty-five RCTs (N = 8826) are included in the continuous outcome reduction in panic scale scores. Brofaromine, clonazepam and reboxetine had the strongest reductions in panic symptoms compared to placebo, but results were based on either one trial or very small trials. Forty-one RCTs (N = 7853) are included in the frequency of panic attack outcome. Only clonazepam and alprazolam showed a strong reduction in the frequency of panic attacks compared to placebo, and were ranked highest. Twenty-six RCTs (N = 7044) provided data for agoraphobia. The strongest reductions in agoraphobia symptoms were found for citalopram, reboxetine, escitalopram, clomipramine and diazepam, compared to placebo. For the pooled intervention classes, we examined the two primary outcomes (response and dropout). The classes of medication were: SSRIs, SNRIs, TCAs, MAOIs and BDZs. For the response outcome, all classes of medications examined were more effective than placebo. TCAs as a class ranked as the most effective, followed by BDZs and MAOIs. SSRIs as a class ranked fifth on average, while SNRIs were ranked lowest. When we compared classes of medication with each other for the response outcome, we found no difference between classes. Comparisons between MAOIs and TCAs and between BDZs and TCAs also suggested no differences between these medications, but the results were imprecise. For the dropout outcome, BDZs were the only class associated with a lower dropout compared to placebo and were ranked first in terms of tolerability. The other classes did not show any difference in dropouts compared to placebo. In terms of ranking, TCAs are on average second to BDZs, followed by SNRIs, then by SSRIs and lastly by MAOIs. BDZs were associated with lower dropout rates compared to SSRIs, SNRIs and TCAs. The quality of the studies comparing antidepressants with placebo was moderate, while the quality of the studies comparing BDZs with placebo and antidepressants was low. In terms of efficacy, SSRIs, SNRIs (venlafaxine), TCAs, MAOIs and BDZs may be effective, with little difference between classes. However, it is important to note that the reliability of these findings may be limited due to the overall low quality of the studies, with all having unclear or high risk of bias across multiple domains. Within classes, some differences emerged. For example, amongst the SSRIs paroxetine and fluoxetine seem to have stronger evidence of efficacy than sertraline. Benzodiazepines appear to have a small but significant advantage in terms of tolerability (incidence of dropouts) over other classes.",
+      "pub_date": "2023-11-28",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Network Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Panic Disorder",
+        "Selective Serotonin Reuptake Inhibitors",
+        "Paroxetine",
+        "Fluoxetine",
+        "Venlafaxine Hydrochloride",
+        "Serotonin and Noradrenaline Reuptake Inhibitors",
+        "Alprazolam",
+        "Clomipramine",
+        "Reboxetine",
+        "Clonazepam",
+        "Desipramine",
+        "Antidepressive Agents",
+        "Antidepressive Agents, Tricyclic",
+        "Benzodiazepines",
+        "Diazepam"
+      ],
+      "chemicals": [
+        "Selective Serotonin Reuptake Inhibitors",
+        "Paroxetine",
+        "Fluoxetine",
+        "Venlafaxine Hydrochloride",
+        "Serotonin and Noradrenaline Reuptake Inhibitors",
+        "Alprazolam",
+        "Clomipramine",
+        "Reboxetine",
+        "Clonazepam",
+        "Desipramine",
+        "Antidepressive Agents",
+        "Antidepressive Agents, Tricyclic",
+        "Benzodiazepines",
+        "Diazepam"
+      ],
+      "journal": "The Cochrane database of systematic reviews",
+      "authors": [
+        "Giuseppe Guaiana",
+        "Nicholas Meader",
+        "Corrado Barbui",
+        "Simon Jc Davies",
+        "Toshi A Furukawa",
+        "Hissei Imai"
+      ]
+    },
+    {
+      "pmid": "38419494",
+      "title": "Irritability in Youths: A Critical Integrative Review.",
+      "abstract": "Irritability, defined as proneness to anger that may impair an individual's functioning, is common in youths. There has been a recent upsurge in relevant research. The authors combine systematic and narrative review approaches to integrate the latest clinical and translational findings and provide suggestions for addressing research gaps. Clinicians and researchers should assess irritability routinely, and specific assessment tools are now available. Informant effects are prominent, are stable, and vary by age and gender. The prevalence of irritability is particularly high among individuals with attention deficit hyperactivity disorder, autism spectrum disorder, and mood and anxiety disorders. Irritability is associated with impairment and suicidality risk independent of co-occurring diagnoses. Developmental trajectories of irritability (which may begin early in life) have been identified and are differentially associated with clinical outcomes. Youth irritability is associated with increased risk of anxiety, depression, behavioral problems, and suicidality later in life. Irritability is moderately heritable, and genetic associations differ based on age and comorbid illnesses. Parent management training is effective for treating psychological problems related to irritability, but its efficacy in treating irritability should be tested rigorously, as should novel mechanism-informed interventions (e.g., those targeting exposure to frustration). Associations between irritability and suicidality and the impact of cultural context are important, underresearched topics. Analyses of large, diverse longitudinal samples that extend into adulthood are needed. Data from both animal and human research indicate that aberrant responses to frustration and threat are central to the pathophysiology of irritability, revealing important translational opportunities.",
+      "pub_date": "2024-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Adolescent",
+        "Autism Spectrum Disorder",
+        "Irritable Mood",
+        "Anxiety Disorders",
+        "Attention Deficit Disorder with Hyperactivity",
+        "Anxiety",
+        "Mood Disorders",
+        "Attention Deficit and Disruptive Behavior Disorders"
+      ],
+      "chemicals": [],
+      "journal": "The American journal of psychiatry",
+      "authors": [
+        "Ellen Leibenluft",
+        "Laura E Allen",
+        "Robert R Althoff",
+        "Melissa A Brotman",
+        "Jeffrey D Burke",
+        "Gabrielle A Carlson"
+      ]
+    },
+    {
+      "pmid": "39477079",
+      "title": "Running therapy or antidepressants as treatments for immunometabolic depression in patients with depressive and anxiety disorders: A secondary analysis of the MOTAR study.",
+      "abstract": "Exercise promotes immunometabolic health and is increasingly recognized as an effective depression treatment. Exercise may be beneficial for patients with immunometabolic depression (IMD), who experience inflammatory and metabolic dysregulations and may respond less to antidepressants. This secondary analysis of the MOTAR study compared the effects of running therapy and antidepressants on IMD features among patients with depression and/or anxiety disorder. We additionally assessed whether baseline IMD moderated intervention effects on depression. Participants received 16\u00a0weeks of group-based running therapy (N\u00a0=\u00a096) or escitalopram/sertraline (N\u00a0=\u00a045) in a partially randomized patient preference design. IMD features included atypical, energy-related symptom (AES) severity, inflammation index (CRP, IFN-\u03b3, IL-6, TNF-\u03b1), metabolic syndrome index, three metabolite principle components (PC) (derived from 73 metabolites) and a composite IMD index. Interventions differed in changes in the metabolic syndrome index (d\u00a0=\u00a00.59, p\u00a0=\u00a00.026) and IMD index (d\u00a0=\u00a00.85, p\u00a0<\u00a00.001). While running therapy decreased both outcomes, the antidepressant group showed an increased IMD index. Although groups did not differ statistically significant in changes in AES severity, inflammation index, and metabolite PC1, results indicated a consistent trend towards greater improvement with running therapy across these outcomes as well (d\u00a0=\u00a00.38 to 0.52). Baseline IMD did not moderate intervention effects on depression outcomes. This study suggests that exercise more effectively targets the IMD dimension than antidepressants. Patients with IMD did not benefit more from running therapy than antidepressants in terms of reductions in depression. Exercise should be considered an alternative or complementary treatment to particularly reduce IMD features in depressed patients. Trialregister.nl Number of identification: NTR3460.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Antidepressive Agents",
+        "Adult",
+        "Middle Aged",
+        "Anxiety Disorders",
+        "Running",
+        "Exercise Therapy",
+        "Depression",
+        "Treatment Outcome",
+        "Depressive Disorder",
+        "Escitalopram",
+        "Inflammation",
+        "Metabolic Syndrome"
+      ],
+      "chemicals": [
+        "Antidepressive Agents",
+        "Escitalopram"
+      ],
+      "journal": "Brain, behavior, and immunity",
+      "authors": [
+        "Sarah R Vreijling",
+        "Brenda W J H Penninx",
+        "Josine E Verhoeven",
+        "Charlotte E Teunissen",
+        "Elena R Blujdea",
+        "Aartjan T F Beekman"
+      ]
+    },
+    {
+      "pmid": "40906494",
+      "title": "Single Treatment With MM120 (Lysergide) in Generalized Anxiety Disorder: A Randomized Clinical Trial.",
+      "abstract": "Effective and well-tolerated pharmacotherapies for generalized anxiety disorder (GAD), which is one of the most common psychiatric disorders, are needed. To determine the dose-response relationship of MM120 (lysergide D-tartrate) in adults with moderate to severe GAD. This phase 2b, multicenter, randomized, double-blind, placebo-controlled study enrolled 198 adults aged 18 to 74 years with a primary GAD diagnosis who presented with moderate to severe symptoms (defined by a Hamilton Anxiety Rating Scale [HAM-A] score \u226520) and was conducted at 22 outpatient psychiatric research sites in the US from August 2022 to August 2023. The anxiety and depression end point assessments were conducted by independent central raters who were blinded to the trial protocol, treatment allocation, and study visit date. The last date of follow-up was November 27, 2023. Participants were randomized to receive a single (freebase equivalent) treatment dose with 25 \u00b5g (n\u2009=\u200939), 50 \u00b5g (n\u2009=\u200940), 100 \u00b5g (n\u2009=\u200940), or 200 \u00b5g (n\u2009=\u200940) of MM120 or placebo (n\u2009=\u200939). The primary outcome was a dose-response relationship assessed using the multiple comparison procedure modeling (MCP-Mod) method for change in HAM-A score at 4 weeks (score range, 0-56; higher scores indicate greater severity; \u22647 indicates no or minimal anxiety; 8-14, mild; 15-23, moderate; and \u226524, severe). The minimal clinically important difference was 2.5 points. Of the 198 participants randomized, 194 were included in the full analysis set (mean age, 41.3 [SD, 13.6] years; 56.7% were female; and 3.6% were Asian, 7.7% were Black or African American, and 83.0% were White). The dose-response relationship assessed using the MCP-Mod method for change in HAM-A score at week 4 was statistically significant for the 100-\u00b5g and the 200-\u00b5g dose groups vs placebo (least-squares mean difference, -5.0 points [95% CI, -9.6 to -0.4 points] with 100 \u00b5g of MM120 and -6.0 points [95% CI, -9.8 to -2.0 points] with 200 \u00b5g of MM120) but the 25-\u00b5g and 50-\u00b5g dose groups did not reach significance vs placebo (least-squares mean difference, -1.2 points [95% CI, -6.0 to 3.5 points] with 25 \u00b5g of MM120 and -1.8 points [95% CI, -7.6 to 4.0 points] with 50 \u00b5g of MM120). The adverse events were consistent with the expected effects of MM120. The most common adverse events were visual perceptual changes (illusion, pseudo-hallucination, and visual hallucination), which occurred in 46.2% of participants who received 25 \u00b5g of MM120, in 75.0% who received 50 \u00b5g, in 92.5% who received 100 \u00b5g, in 100% who received 200 \u00b5g, and in 10.3% who received placebo; nausea occurred in 7.7%, 27.5%, 40.0%, 60.0%, and 7.7%, respectively; and headache occurred in 12.8%, 22.5%, 35.0%, 27.5%, and 23.1%. In participants with moderate to severe GAD, a single dose of MM120 produced a dose-dependent reduction in anxiety. These results support the dose-dependent efficacy of MM120 and inform the dose selection for phase 3 pivotal trials. ClinicalTrials.gov Identifier: NCT05407064.",
+      "pub_date": "2025-10-21",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Anti-Anxiety Agents",
+        "Dose-Response Relationship, Drug",
+        "Double-Blind Method",
+        "Generalized Anxiety Disorder",
+        "Hallucinations",
+        "Headache",
+        "Illusions",
+        "Lysergic Acid Diethylamide",
+        "Minimal Clinically Important Difference",
+        "Nausea",
+        "Psychiatric Status Rating Scales",
+        "Severity of Illness Index",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Anti-Anxiety Agents",
+        "Lysergic Acid Diethylamide"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Reid Robison",
+        "Robert Barrow",
+        "Craig Conant",
+        "Eric Foster",
+        "Jamie M Freedman",
+        "Paula L Jacobsen"
+      ]
+    },
+    {
+      "pmid": "39461622",
+      "title": "Nonsedating anxiolytics.",
+      "abstract": "Anxiety disorders are the most prevalent psychiatric pathology with substantial cost to society, but the existing treatments are often inadequate. This has rekindled the interest in the GABA",
+      "pub_date": "2024-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Anti-Anxiety Agents",
+        "Humans",
+        "Animals",
+        "Receptors, GABA-A",
+        "Anxiety Disorders",
+        "Anxiety",
+        "Allosteric Regulation"
+      ],
+      "chemicals": [
+        "Anti-Anxiety Agents",
+        "Receptors, GABA-A"
+      ],
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "authors": [
+        "Rok Cerne",
+        "Jodi L Smith",
+        "Aleksandra Chrzanowska",
+        "Arnold Lippa"
+      ]
+    }
+  ]
+}

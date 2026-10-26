@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_cellulitis_safety a holon:EntityEntry ;
+    holon:entity oed:cellulitis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_cellulitis_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_cellulitis_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.94 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_cellulitis_safety ;
+    holon:recordedOn "2025-07-01"^^xsd:date ;
+    oe:cites oesrc:32745638 .
+
+oedrug:amoxicillin oe:causesSideEffect oesym:fever .
+
+oeevt:ev_q_cellulitis_safety-tt rdf:object oesym:fever ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:amoxicillin .
+
+oeq:q_cellulitis_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Cellulitis with amoxic"@en ;
+    prov:generatedAtTime "2025-07-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.6 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_cellulitis_safety-bnd ;
+    holon:hasContextGraph oeq:q_cellulitis_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_cellulitis_safety-int ;
+    holon:hasProjectionGraph oeq:q_cellulitis_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Cellulitis with amoxicillin."^^xsd:string ;
+    holon:recordedOn "2025-07-01"^^xsd:date ;
+    holon:summaryConfidence 0.94 ;
+    oe:aboutDisease oed:cellulitis ;
+    oe:answerText "Compared with guideline recommendations, antibiotic overuse is common in treating cellulitis. We conducted a systematic review and meta-analyses on antibiotic route and duration of treatment for cellulitis in adults and children."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    oe:cites oesrc:32745638,
+        oesrc:35438766,
+        oesrc:39240378,
+        oesrc:40259138 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Cellulitis with amoxicillin?"^^xsd:string .
+

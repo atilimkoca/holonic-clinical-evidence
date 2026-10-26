@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_non_hodgkin_lymphoma_efficacy a holon:EntityEntry ;
+    holon:entity oed:non_hodgkin_lymphoma ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_non_hodgkin_lymphoma_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_non_hodgkin_lymphoma_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.73 ;
+    holon:evidenceLevel "Level-2B" ;
+    holon:inHolon oeq:q_non_hodgkin_lymphoma_efficacy ;
+    holon:recordedOn "2026-01-10"^^xsd:date ;
+    oe:cites oesrc:40668613 ;
+    oe:effectiveness "effective" .
+
+oedrug:rituximab oe:treats oed:non_hodgkin_lymphoma .
+
+oeevt:ev_q_non_hodgkin_lymphoma_efficacy-tt rdf:object oed:non_hodgkin_lymphoma ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:rituximab .
+
+oeq:q_non_hodgkin_lymphoma_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is rituximab compared with other agents for Non-Hodgkin Lymphoma?"@en ;
+    prov:generatedAtTime "2026-01-10T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.51 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_non_hodgkin_lymphoma_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_non_hodgkin_lymphoma_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_non_hodgkin_lymphoma_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_non_hodgkin_lymphoma_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Non-Hodgkin Lymphoma with rituximab."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_non_hodgkin_lymphoma_safety ;
+    holon:recordedOn "2026-01-10"^^xsd:date ;
+    holon:summaryConfidence 0.73 ;
+    oe:aboutDisease oed:non_hodgkin_lymphoma ;
+    oe:answerText "Relapsed/refractory diffuse large B-cell lymphoma (R/R DLBCL) remains challenging to treat, especially in patients ineligible for intensive therapy or chimeric antigen receptor T cells. Tafasitamab plus lenalidomide (T/L) is an effective option based on the phase 2 L-MIND trial findings, although real-world evidence studies have not consistently confirmed these results."^^xsd:string ;
+    oe:belongsToSpecialty "Oncology" ;
+    oe:cites oesrc:40668613,
+        oesrc:40920572,
+        oesrc:41028651,
+        oesrc:41329901 ;
+    oe:questionText "How effective is rituximab compared with other agents for Non-Hodgkin Lymphoma?"^^xsd:string .
+

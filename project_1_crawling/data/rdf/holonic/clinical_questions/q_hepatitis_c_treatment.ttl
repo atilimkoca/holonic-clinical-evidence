@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_hepatitis_c_treatment a holon:EntityEntry ;
+    holon:entity oed:hepatitis_c ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_hepatitis_c_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_hepatitis_c_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.92 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_hepatitis_c_treatment ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:39361017 ;
+    oe:effectiveness "effective" .
+
+oedrug:tenofovir oe:treats oed:hepatitis_c .
+
+oeevt:ev_q_hepatitis_c_treatment-tt rdf:object oed:hepatitis_c ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:tenofovir .
+
+oeq:q_hepatitis_c_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Hepatitis C?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.42 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_hepatitis_c_treatment-bnd ;
+    holon:hasContextGraph oeq:q_hepatitis_c_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_hepatitis_c_treatment-int ;
+    holon:hasProjectionGraph oeq:q_hepatitis_c_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Hepatitis C with tenofovir."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_hepatitis_c_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.92 ;
+    oe:aboutDisease oed:hepatitis_c ;
+    oe:answerText "The advent of short-course, curative treatment with direct-acting antivirals (DAA) has given promise for the global elimination of hepatitis C virus (HCV) infections by 2030. Virological failure occurs in 2%-12% of persons receiving curative DAA treatment and may be presaged by pre-existing polymorphisms or result from selection of drug resistant variants during therapy."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    oe:cites oesrc:38235776,
+        oesrc:38459735,
+        oesrc:39361017,
+        oesrc:39599853 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Hepatitis C?"^^xsd:string .
+

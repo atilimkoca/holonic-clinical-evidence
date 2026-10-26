@@ -1,0 +1,532 @@
+{
+  "disease": "Prostate Cancer",
+  "slug": "prostate_cancer",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41299174",
+      "title": "NSD2 targeting reverses plasticity and drug resistance in prostate cancer.",
+      "abstract": "Lineage plasticity is a cancer hallmark that drives disease progression and treatment resistance",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Male",
+        "Humans",
+        "Animals",
+        "Mice",
+        "Drug Resistance, Neoplasm",
+        "Prostatic Neoplasms, Castration-Resistant",
+        "Benzamides",
+        "Phenylthiohydantoin",
+        "Histone-Lysine N-Methyltransferase",
+        "Receptors, Androgen",
+        "Nitriles",
+        "Cell Line, Tumor",
+        "Organoids",
+        "Cell Plasticity",
+        "Repressor Proteins",
+        "Histones",
+        "Cell Transdifferentiation",
+        "Methylation",
+        "Up-Regulation",
+        "Adenocarcinoma",
+        "Gene Expression Regulation, Neoplastic"
+      ],
+      "chemicals": [
+        "Benzamides",
+        "NSD2 protein, human",
+        "enzalutamide",
+        "Phenylthiohydantoin",
+        "Histone-Lysine N-Methyltransferase",
+        "Receptors, Androgen",
+        "Nitriles",
+        "Repressor Proteins",
+        "Histones"
+      ],
+      "journal": "Nature",
+      "authors": [
+        "Jia J Li",
+        "Alessandro Vasciaveo",
+        "Dimitris Karagiannis",
+        "Zhen Sun",
+        "Kristjan H Gretarsson",
+        "Xiao Chen"
+      ]
+    },
+    {
+      "pmid": "41124201",
+      "title": "Improved Survival with Enzalutamide in Biochemically Recurrent Prostate Cancer.",
+      "abstract": "In the phase 3 EMBARK trial, enzalutamide plus leuprolide and enzalutamide monotherapy were associated with longer metastasis-free survival than leuprolide alone among patients with biochemically recurrent prostate cancer. The final analysis of overall survival has not been reported. We randomly assigned patients with prostate cancer who had high-risk biochemical recurrence in a 1:1:1 ratio to receive enzalutamide plus leuprolide (the combination group), leuprolide alone (the leuprolide-alone group), or enzalutamide monotherapy (the monotherapy group). The primary end point was metastasis-free survival, assessed in the combination group as compared with the leuprolide-alone group. Overall survival was an alpha-controlled, key secondary end point. Updated results for prespecified secondary end points, including the time to first use of new antineoplastic therapy and the time to the first symptomatic skeletal event, were summarized descriptively, as was progression-free survival with the first subsequent therapy, an exploratory end point. The 8-year overall survival was 78.9% (95% confidence interval [CI], 73.9 to 83.1) in the combination group and 69.5% (95% CI, 64.0 to 74.3) in the leuprolide-alone group; the hazard ratio for death was 0.60 (95% CI, 0.44 to 0.80; P<0.001). The 8-year overall survival with monotherapy was 73.1% (95% CI, 67.6 to 77.9), which did not differ significantly from that with leuprolide alone (hazard ratio, 0.83; 95% CI, 0.63 to 1.10; P\u2009=\u20090.19). In the descriptive updates for prespecified secondary end points, results were similar to those previously reported. Safety findings were consistent with those in the primary analysis of metastasis-free survival. Overall survival was significantly longer with the combination of enzalutamide and leuprolide than with leuprolide alone among patients with prostate cancer with high-risk biochemical recurrence. Enzalutamide monotherapy was not superior to leuprolide alone in the analysis of overall survival. (Funded by Pfizer and Astellas Pharma; EMBARK ClinicalTrials.gov number, NCT02319837.).",
+      "pub_date": "2026-02-05",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study",
+        "Comparative Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antineoplastic Agents, Hormonal",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Benzamides",
+        "Kaplan-Meier Estimate",
+        "Leuprolide",
+        "Neoplasm Recurrence, Local",
+        "Nitriles",
+        "Phenylthiohydantoin",
+        "Progression-Free Survival",
+        "Prostate-Specific Antigen",
+        "Prostatic Neoplasms",
+        "Time Factors"
+      ],
+      "chemicals": [
+        "Antineoplastic Agents, Hormonal",
+        "Benzamides",
+        "enzalutamide",
+        "Leuprolide",
+        "Nitriles",
+        "Phenylthiohydantoin",
+        "Prostate-Specific Antigen"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Neal D Shore",
+        "Murilo de Almeida Luz",
+        "Ugo De Giorgi",
+        "Martin Gleave",
+        "Geoffrey T Gotto",
+        "Christopher M Pieczonka"
+      ]
+    },
+    {
+      "pmid": "41120017",
+      "title": "Capivasertib plus abiraterone in PTEN-deficient metastatic hormone-sensitive prostate cancer: CAPItello-281 phase III study.",
+      "abstract": "In metastatic hormone-sensitive prostate cancer (mHSPC), phosphatase and tensin homolog (PTEN) deficiency results in phosphoinositide 3-kinase (PI3K)/protein kinase B (AKT) pathway activation, providing an independent proliferative drive, which cannot be suppressed by androgen receptor pathway inhibitors (ARPIs), resulting in worse outcomes. Dual inhibition of PI3K/AKT and AR pathways with capivasertib and abiraterone may delay progression and improve disease outcomes. In CAPItello-281 (NCT04493853), patients with PTEN-deficient mHSPC (diagnostic cut-off: \u226590% viable malignant cells with no specific cytoplasmic PTEN immunohistochemistry staining) received capivasertib or placebo (1 : 1) plus abiraterone, prednisone/prednisolone, and androgen deprivation therapy (ADT). The primary endpoint was investigator-assessed radiographic progression-free survival (rPFS); overall survival (OS) was a key secondary endpoint. Post hoc exploratory subgroups at increasing PTEN cut-off thresholds were also assessed. 25.3% (1519/6003) of patients with valid tumor test results had PTEN-deficient tumors. In the randomized PTEN-deficient population, a statistically significant improvement in rPFS was observed with capivasertib plus abiraterone (n = 507, median 33.2 months) versus placebo plus abiraterone [n = 505, 25.7 months; hazard ratio (HR) 0.81, 95% confidence interval (CI) 0.66-0.98, P = 0.034]. Post hoc rPFS analyses for loss of PTEN cut-offs of \u226595%, \u226599%, and 100% showed that the capivasertib plus abiraterone arm performed consistently across cut-offs, but the placebo plus abiraterone arm performed progressively worse as the cut-off for the degree of PTEN loss was increased, resulting in a numerically improved treatment effect. In the overall population studied, the HR for OS (26.4% maturity) was 0.90, 95% CI 0.71-1.15, P = 0.401. The most common adverse events (AEs) for capivasertib plus abiraterone were diarrhea (51.9%; 8.0% placebo plus abiraterone), hyperglycemia (38.0%; 12.9%), and rash (35.4%; 7.0%). Deaths associated with an AE were reported in 36 (7.2%) and 26 (5.2%) patients in the capivasertib plus abiraterone and placebo plus abiraterone arms, respectively. Capivasertib plus abiraterone improves rPFS versus placebo plus abiraterone in PTEN-deficient mHSPC, on a background of ADT, with a 7.5-month improvement in median rPFS. AE profile was consistent with that of the individual agents. Patients with PTEN-deficient mHSPC benefit from dual blockade of the PI3K/AKT and AR pathways with capivasertib plus abiraterone.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "PTEN Phosphohydrolase",
+        "Prostatic Neoplasms",
+        "Antineoplastic Combined Chemotherapy Protocols",
+        "Aged",
+        "Androstenes",
+        "Middle Aged",
+        "Pyrimidines",
+        "Progression-Free Survival",
+        "Androgen Antagonists",
+        "Aged, 80 and over",
+        "Pyrazoles",
+        "Double-Blind Method",
+        "Pyrroles"
+      ],
+      "chemicals": [
+        "PTEN Phosphohydrolase",
+        "abiraterone",
+        "PTEN protein, human",
+        "Androstenes",
+        "capivasertib",
+        "Pyrimidines",
+        "Androgen Antagonists",
+        "Pyrazoles",
+        "Pyrroles"
+      ],
+      "journal": "Annals of oncology : official journal of the European Society for Medical Oncology",
+      "authors": [
+        "K Fizazi",
+        "N W Clarke",
+        "M De Santis",
+        "H Uemura",
+        "A P Fay",
+        "N Karadurmus"
+      ]
+    },
+    {
+      "pmid": "41264309",
+      "title": "Optimal Duration of Androgen Deprivation Therapy With Definitive Radiotherapy for Localized Prostate Cancer: A Meta-Analysis.",
+      "abstract": "The ideal duration of androgen deprivation therapy (ADT) for treating localized prostate cancer is unknown due to variable adherence and treatment durations tested in clinical trials. To determine the ideal duration of ADT for patients with prostate cancer treated with radiotherapy. This individual patient data meta-analysis of 13 randomized phase 3 clinical trials evaluated the use of radiotherapy alone or with ADT. It included patients with a median follow-up of 11.3 (IQR, 9.5-14.5) years and ADT duration of 0 to 36 months. Most patients (7392 [72%]) included had National Comprehensive Cancer Network high-risk or very high-risk disease. For this meta-analysis, a systematic literature search from 1980 to 2020 was performed in trial registries (Cochrane Central Register of Controlled Trials and ClinicalTrials.gov), MEDLINE (1966-2020), Embase (1982-2020), Web of Science, and Scopus to identify trials. Intention-to-treat and as-treated analyses were performed. The number needed to treat to prevent 1 distant metastasis at 10 years was calculated based on prognostic risk group. The analyses were conducted from January 5 to August 15, 2023. The primary end point for this study was overall survival, defined as time to death or last follow-up from randomization. Secondary end points included biochemical recurrence, distant metastasis (DM), prostate cancer-specific mortality, and other-cause mortality. The median (IQR) age among the 10\u202f266 male patients was 70 (65-74) years. Longer durations of ADT were associated with nonlinear improvement in relative benefits of DM, prostate cancer-specific mortality, and overall survival, with reduced estimated benefits beyond 9 to 12 months of ADT based on the end point. There was a near-linear increase in other-cause mortality associated with long-term ADT use (hazard ratio, 1.28; 95% CI, 1.09-1.50; P\u2009=\u2009.002 for 28 vs 0 months of ADT). The optimal ADT duration based on 10-year DM was 0, 6, 12 months, and undefined for patients with 1 intermediate-risk factor, 2 or more intermediate-risk factors, and National Comprehensive Cancer Network high-risk and very high-risk disease, respectively. The results of this meta-analysis suggest that, for men with localized prostate cancer treated with definitive radiotherapy and ADT, there are relative and absolute benefits from increasing durations of ADT that help provide individualized risk estimates.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Prostatic Neoplasms",
+        "Androgen Antagonists",
+        "Time Factors",
+        "Randomized Controlled Trials as Topic",
+        "Treatment Outcome",
+        "Aged",
+        "Clinical Trials, Phase III as Topic"
+      ],
+      "chemicals": [
+        "Androgen Antagonists"
+      ],
+      "journal": "JAMA oncology",
+      "authors": [
+        "Nicholas G Zaorsky",
+        "Yilun Sun",
+        "Abdenour Nabid",
+        "Almudena Zapatero",
+        "Michel Bolla",
+        "David Joseph"
+      ]
+    },
+    {
+      "pmid": "41086208",
+      "title": "Protein disulfide isomerases regulate androgen receptor stability and promote prostate cancer cell growth and survival.",
+      "abstract": "Cancer cells exhibit accelerated protein production to accommodate their high rates of growth and proliferation. Elevated protein synthesis creates a dependency on endoplasmic reticulum (ER)-resident proteins and chaperones, which are required to maintain proteostasis. In this study, we identified the protein disulfide isomerases (PDIs) PDIA1 and PDIA5, which play a critical role in folding of client proteins in the ER, as important regulators of prostate cancer growth and response to therapy. PDIA1 and PDIA5 are upregulated in prostate cancer and induced by the androgen receptor (AR) signaling axis. Genetic or pharmacological disabling of PDIA1/PDIA5 caused redox stress, mitochondrial dysfunction, growth inhibition, and death of prostate cancer cells in vitro and in vivo. The critical functions of these enzymes in redox homeostasis and cell survival were observed in both AR-driven and AR-independent models of prostate cancer. Loss of PDIA1/PDIA5 activity led to ubiquitination and degradation of the AR, revealing a feedback loop between these chaperones and the AR pathway. Mechanistically, PDIA1/PDIA5 regulated AR stability by mediating disulfide bond formation, an activity that required cysteines 669 and 844 in AR's ligand-binding domain. Importantly, targeting PDIAs sensitized prostate cancer cells to the AR antagonist, enzalutamide. This study reveals a mechanism governing AR proteostasis in prostate cancer and positions PDIA1/5 as viable therapeutic targets.",
+      "pub_date": "2025-10-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cell Line, Tumor",
+        "Prostatic Neoplasms",
+        "Protein Disulfide-Isomerases",
+        "Receptors, Androgen",
+        "Protein Stability",
+        "Oxidation-Reduction",
+        "Mitochondria",
+        "Enzyme Inhibitors",
+        "Procollagen-Proline Dioxygenase"
+      ],
+      "chemicals": [
+        "P4HB protein, human",
+        "PDIA5 protein, human",
+        "Protein Disulfide-Isomerases",
+        "Receptors, Androgen",
+        "Enzyme Inhibitors",
+        "Procollagen-Proline Dioxygenase"
+      ],
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "authors": [
+        "Jianling Xie",
+        "Kaikai Shen",
+        "Wenken Liang",
+        "Zijian Kuang",
+        "Raj K Shrestha",
+        "Adrienne R Hanson"
+      ]
+    },
+    {
+      "pmid": "41380904",
+      "title": "High-fat diet induced ECM remodeling attenuates chemosensitivity in prostate cancer via activating Piezo1-dependent mitochondria-ER contacts.",
+      "abstract": "High-fat diet (HFD) and obesity are established risk factors for therqpy resistance in prostate cancer (PCa), but the underlying mechanisms remain incompletely understood. Here, we demonstrate that a HFD promote chemoresistance by remodeling the tumor microenvironment (TME) and activating extracellular matrix (ECM)-dependent mitochondria-endoplasmic reticulum contacts (MERCs). Through integration of clinical data with multi-omics and biomechanical analyses, we show that lipid-overloaded tumor cells secrete TGF-\u03b21 to indirectly drive the activation of cancer-associated fibroblasts (CAFs). This triggers pathological ECM stiffening and collagen deposition. These biomechanical alterations are sensed by the mechanosensor Piezo1, which transduces pro-malignant signals that foster chemoresistance. Pharmacological inhibition of Piezo1 blocks its channel activity, disrupts intracellular ion homeostasis and consequently induces MERCs dissociation. MERCs disassembly, in return, destabilizes the IP3R-GRP75-VDAC complex, leading to metabolic reprogramming characterized by mitochondrial dysfunction, endoplasmic reticulum stress, and redox imbalance. Crucially, dual targeting of lipid metabolism (with statins) and mechanotransduction (with GsMTx4) resensitizes PCa to chemotherapy by normalizing ECM architecture and restoring MERCs integrity. Our work defines the \"mechanometabolic niche\" as a targetable signaling hub where coordinated lipid metabolism and TME biomechanics converge to dictate therapeutic response and unveils a novel co-targeting strategy for advanced PCa.",
+      "pub_date": "2026-02-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Male",
+        "Diet, High-Fat",
+        "Mitochondria",
+        "Extracellular Matrix",
+        "Humans",
+        "Ion Channels",
+        "Animals",
+        "Prostatic Neoplasms",
+        "Tumor Microenvironment",
+        "Mice",
+        "Endoplasmic Reticulum",
+        "Drug Resistance, Neoplasm",
+        "Cell Line, Tumor",
+        "Cancer-Associated Fibroblasts"
+      ],
+      "chemicals": [
+        "Ion Channels",
+        "PIEZO1 protein, human"
+      ],
+      "journal": "Cancer letters",
+      "authors": [
+        "Yupeng Guan",
+        "Fei Cao",
+        "Yusheng Luo",
+        "Jun Li",
+        "Peng Wu",
+        "Junfu Zhang"
+      ]
+    },
+    {
+      "pmid": "41402322",
+      "title": "Early favorable prostate-specific antigen response prediction in metastatic hormone sensitive prostate cancer.",
+      "abstract": "There is an unmet need for a tool that could predict early favorable prostate-specific antigen (PSA) response in metastatic hormone sensitive prostate cancer (mHSPC) patients receiving androgen receptor pathway inhibitor (ARPI). Here, we train and validate a multivariable logistic regression model to predict early favorable PSA response (\u22640.2\u2009ng/mL by 6 months) in these patients. Patients randomly allocated to the ARPI arms of the LATITUDE (abiraterone), TITAN (apalutamide), and ARASENS (darolutamide) trials, are split 60:40 into training (n\u2009=\u20091030) and internal validation (n\u2009=\u2009688) cohorts. The locked model is validated in an independent external validation cohort - the enzalutamide arm of the ENZAMET trial (n\u2009=\u2009540). The area under curve and Brier score for the locked model in the external validation cohort are 0.82 (95% confidence interval [CI] = 0.78-0.85) and 0.16, respectively. Stratification by predicted probability tertiles show PSA response rates of 92% (95% CI\u2009=\u200988-96), 74% (95% CI\u2009=\u200968-81), and 39% (95% CI\u2009=\u200932-47), respectively. Pending prospective validation, our model predicts early favorable PSA response supporting its potential role in guiding treatment decisions.",
+      "pub_date": "2025-12-17",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Prostate-Specific Antigen",
+        "Prostatic Neoplasms",
+        "Benzamides",
+        "Nitriles",
+        "Aged",
+        "Phenylthiohydantoin",
+        "Middle Aged",
+        "Androgen Receptor Antagonists",
+        "Thiohydantoins",
+        "Neoplasm Metastasis",
+        "Treatment Outcome",
+        "Receptors, Androgen"
+      ],
+      "chemicals": [
+        "Prostate-Specific Antigen",
+        "Benzamides",
+        "Nitriles",
+        "enzalutamide",
+        "Phenylthiohydantoin",
+        "Androgen Receptor Antagonists",
+        "apalutamide",
+        "Thiohydantoins",
+        "Receptors, Androgen"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Soumyajit Roy",
+        "Yilun Sun",
+        "Maha Hussain",
+        "Kim N Chi",
+        "Karim Fizazi",
+        "Ian D Davis"
+      ]
+    },
+    {
+      "pmid": "41339923",
+      "title": "Targeting CHD1L suppresses prostate cancer progression via the FOXO3-PUMA axis.",
+      "abstract": "Prostate cancer (PCa) is one of the most common malignancies in men worldwide, and advanced or metastatic disease remains a major therapeutic challenge. Chromodomain helicase DNA binding protein 1-like (CHD1L) has been implicated as an oncogenic driver in multiple cancer types, yet its role in prostate cancer pathogenesis is not fully defined. The purpose of this study is to investigate the biological significance of CHD1L in prostate cancer and to evaluate the therapeutic potential of its selective inhibitor OTI-611. Bioinformatics analyses were conducted to assess the expression, prognostic significance of CHD1L in PCa patients. In vitro, cell viability, cycle progression, apoptosis, and migration/invasion were evaluated using CCK-8, colony formation, flow cytometry, transwell assays. In vivo treatment potential of OTI-611 was assessed through a nude mouse xenograft model. Protein and mRNA levels were determined by western blot and qPCR, respectively. Synergism of OTI-611 and docetaxel was determined using SynergyFinder 3.0. We demonstrated that CHD1L was significantly upregulated in PCa patients and correlates with poor prognosis. Genetic knockdown of CHD1L substantially inhibits PCa cell proliferation and induces apoptosis. Moreover, inhibition of CHD1L by the small molecule OTI-611 significantly suppresses PCa cell proliferation, migration, and invasion, and induces apoptosis both in vitro and in vivo. Mechanistically, inhibition of CHD1L induces the expression of FOXO3 (a classic transcription factor) and its downstream target PUMA (a key apoptosis inducer). Restricting the expression of FOXO3 significantly reverses the anti-tumor effects induced by OTI-611. Furthermore, OTI-611 synergizes with docetaxel to enhance apoptotic cell death, providing a promising strategy to overcome docetaxel resistance. Our study demonstrates that CHD1L is markedly upregulated in prostate cancer and contributes to tumor progression. Pharmacological inhibition of CHD1L with the selective inhibitor OTI-611 significantly suppresses proliferation, migration, and invasion, while inducing apoptosis in vitro and in vivo. Mechanistically, these effects are mediated through activation of the FOXO3-PUMA axis, as FOXO3 suppression abrogates OTI-611-induced apoptosis. Moreover, OTI-611 exhibits strong synergy with docetaxel, enhancing apoptotic cell death and providing a potential strategy to improve therapeutic efficacy in prostate cancer.",
+      "pub_date": "2025-12-04",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Male",
+        "Humans",
+        "Prostatic Neoplasms",
+        "Forkhead Box Protein O3",
+        "Animals",
+        "Cell Line, Tumor",
+        "Cell Proliferation",
+        "Apoptosis",
+        "Disease Progression",
+        "DNA Helicases",
+        "Cell Movement",
+        "DNA-Binding Proteins",
+        "Apoptosis Regulatory Proteins",
+        "Proto-Oncogene Proteins",
+        "Mice, Nude",
+        "Gene Expression Regulation, Neoplastic",
+        "Signal Transduction",
+        "Docetaxel",
+        "Mice",
+        "Xenograft Model Antitumor Assays",
+        "Up-Regulation",
+        "Neoplasm Invasiveness",
+        "Cell Survival"
+      ],
+      "chemicals": [
+        "Forkhead Box Protein O3",
+        "FOXO3 protein, human",
+        "DNA Helicases",
+        "DNA-Binding Proteins",
+        "CHD1L protein, human",
+        "Apoptosis Regulatory Proteins",
+        "Proto-Oncogene Proteins",
+        "BBC3 protein, human",
+        "Docetaxel"
+      ],
+      "journal": "Journal of translational medicine",
+      "authors": [
+        "Pusheng Hui",
+        "Yanru Lai",
+        "Haiqi Fan",
+        "Qinrong Yan",
+        "Yue Yang",
+        "Zhe Chen"
+      ]
+    },
+    {
+      "pmid": "41071892",
+      "title": "Targeting the ATM-TRMT10A-BRCA1 axis confers synthetic lethality to PARP inhibition in metastatic castration-resistant prostate cancer.",
+      "abstract": "Metastatic castration-resistant prostate cancer (mCRPC) progresses aggressively and resists existing therapies. Although poly(ADP-ribose) polymerase inhibitors (PARPis) benefit a subset of patients with mCRPC and BRCA1/2 deficiencies, therapeutic options remain limited for those without such mutations. Here, we uncover a critical role for the ATM-TRMT10A-BRCA1 signaling axis in regulating homologous recombination (HR) repair and PARPi sensitivity. We demonstrate that ATM phosphorylates TRMT10A at serine-28 after DNA damage, promoting BRCA1 recruitment and efficient HR repair. TRMT10A deletion disrupts HR repair, sensitizing cells to PARPis. Moreover, TRMT10A is up-regulated in mCRPC through stabilization by USP10. Targeting USP10 with spautin-1 induces TRMT10A degradation and enhances tumor sensitivity to PARPis in cell-derived xenografts and patient-derived xenograft models. These findings identify TRMT10A as a therapeutic vulnerability in mCRPC and demonstrate that combined inhibition of PARP and USP10 offers a promising synthetic lethal strategy for a broader group of patients lacking classical BRCA mutations.",
+      "pub_date": "2025-10-10",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Prostatic Neoplasms, Castration-Resistant",
+        "Poly(ADP-ribose) Polymerase Inhibitors",
+        "Ataxia Telangiectasia Mutated Proteins",
+        "BRCA1 Protein",
+        "Animals",
+        "Mice",
+        "Synthetic Lethal Mutations",
+        "Cell Line, Tumor",
+        "Xenograft Model Antitumor Assays",
+        "Ubiquitin Thiolesterase",
+        "Signal Transduction",
+        "Recombinational DNA Repair",
+        "DNA Damage"
+      ],
+      "chemicals": [
+        "Poly(ADP-ribose) Polymerase Inhibitors",
+        "Ataxia Telangiectasia Mutated Proteins",
+        "BRCA1 Protein",
+        "ATM protein, human",
+        "BRCA1 protein, human",
+        "Ubiquitin Thiolesterase"
+      ],
+      "journal": "Science advances",
+      "authors": [
+        "Ying Yang",
+        "Qiang Liu",
+        "Xinyan Li",
+        "Hua Zhang",
+        "Xin Xu",
+        "Qi Ma"
+      ]
+    },
+    {
+      "pmid": "41353213",
+      "title": "OPRK1 drives SLC9A3R1 progression to neuroendocrine prostate cancer.",
+      "abstract": "Neuroendocrine differentiation (NED) plays a critical role in endocrine therapy resistance and dismal outcomes among prostate cancer (PCa) patients. The emergence of treatment-induced neuroendocrine prostate cancers (t-NEPCs) with the utilization of second-generation androgen receptor (AR) pathway inhibitors (ARPIs) poses a significant challenge, as the molecular underpinnings remain elusive. Here, our investigation unveils a close correlation between heightened levels of opioid receptor membrane protein OPRK1 and treatment-induced NED (t-NED), alongside an adverse prognosis in PCa cohorts. Our findings illuminate that AR represses OPRK1 transcription by binding to its promoter, a regulation amenable to reversal via ARPI administration. Further exploration reveals that OPRK1 stimulation triggers autophagic degradation of REST upon up-regulation and interaction with SLC9A3R1, thereby instigating NED. In essence, OPRK1 experiences negative control by AR and emerges as a pivotal instigator of t-NED. Combining JTC-801 with CQ successfully impedes NEPC progression by impacting the OPRK1/SLC9A3R1/autophagy/REST axis. Our study accentuates OPRK1 as a novel therapeutic target for PCa management and furnishes profound insights into the pathogenesis of t-NEPC.",
+      "pub_date": "2025-12-07",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Male",
+        "Humans",
+        "Prostatic Neoplasms",
+        "Disease Progression",
+        "Receptors, Androgen",
+        "Cell Line, Tumor",
+        "Animals",
+        "Gene Expression Regulation, Neoplastic",
+        "Norepinephrine Plasma Membrane Transport Proteins",
+        "Mice",
+        "Autophagy",
+        "Neuroendocrine Tumors"
+      ],
+      "chemicals": [
+        "Receptors, Androgen",
+        "Norepinephrine Plasma Membrane Transport Proteins"
+      ],
+      "journal": "Cell death & disease",
+      "authors": [
+        "Linghui Liang",
+        "Zhiyi Shen",
+        "Yuwei Zhang",
+        "Yifei Cheng",
+        "Bing Yao",
+        "Ninghan Feng"
+      ]
+    },
+    {
+      "pmid": "41081632",
+      "title": "Liquid Biopsy Identifies Taxane Resistance and Clonal Selection in Castration-Resistant Prostate Cancer.",
+      "abstract": "Taxanes are life-prolonging treatments for patients with advanced prostate cancer. However, treatment resistance and lethal disease invariably develop. Here we used liquid biopsies to identify and characterize resistance to cabazitaxel. We analyzed serial plasma from patients with metastatic castration-resistant prostate cancer treated with cabazitaxel in a prospective biomarker study (NCT03381326, N = 97). ctDNA was studied using a bespoke, targeted genomic test (PCF_SELECT). Clinical and molecular variables were evaluated for associations with overall survival (OS) and radiographic progression-free survival (rPFS). Patients categorized by median ctDNA fraction had progressively worse survival for ctDNA-negative versus -low versus -high patients (median OS: 26.8, 12.4, and 8.2 months; median rPFS: 8.0, 5.3, and 3.1 months). A ctDNA fraction increase at cycle 3 compared with patients who remained ctDNA negative associated with shorter OS [median, 7.5 vs. 29.9 months; HR, 4.60 (95% confidence interval, 2.06-10.28), P < 0.0001] and rPFS [median, 2.6 vs. 8.2 months; HR, 3.73 (95% confidence interval, 1.75-7.93), P < 0.0001]. Plasma DNA collected at progression on an androgen receptor pathway inhibitor was enriched for alterations in the androgen receptor gene, whereas after a taxane (docetaxel before cabazitaxel or after cabazitaxel), there was enrichment of copy-number gains of genes sited on chromosome 3 (ATR, PIK3CB, MLH1, and FANCD2) or involved in cell cycle regulation, including mutually exclusive alterations in CCND1 and CDKN1B. Sequential liquid biopsy identifies ctDNA features associated with treatment benefit in patients with metastatic castration-resistant prostate cancer treated with cabazitaxel. There was overlap of gene alterations selected for at progression on docetaxel or cabazitaxel, in part explaining cross-resistance.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Aged, 80 and over",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Biomarkers, Tumor",
+        "Circulating Tumor DNA",
+        "Drug Resistance, Neoplasm",
+        "Liquid Biopsy",
+        "Prognosis",
+        "Prospective Studies",
+        "Prostatic Neoplasms, Castration-Resistant",
+        "Taxoids"
+      ],
+      "chemicals": [
+        "Biomarkers, Tumor",
+        "cabazitaxel",
+        "Circulating Tumor DNA",
+        "Taxoids"
+      ],
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "authors": [
+        "Nicole Brighi",
+        "Daniel Wetterskog",
+        "Osvaldas Vainauskas",
+        "Francesco Orlando",
+        "Yari Ciani",
+        "Giorgia Gurioli"
+      ]
+    },
+    {
+      "pmid": "41126755",
+      "title": "ZDHHC2-Dependent Palmitoylation Dictates Ferroptosis and Castration Sensitivity in Prostate Cancer via Controlling ACSL4 Degradation and Lipid Peroxidation.",
+      "abstract": "Ferroptosis represents a promising vulnerability to overcome therapeutic resistance in castration-resistant prostate cancer (CRPC). While S-palmitoylation of lipid peroxide-scavenging proteins such as GPX4 and SLC7A11 has been shown to suppress ferroptosis, whether palmitoylation modulates the lipid peroxidation generation remains unclear. Here, we identified the palmitoyltransferase ZDHHC2 as a critical driver of enzalutamide resistance through destabilizing ACSL4. ZDHHC2 is transcriptionally upregulated by a FOXA1/CXXC5/TET2 complex and promotes S-palmitoylation of the deubiquitinase USP19, which impairs its interaction with ACSL4. This disrupts USP19-mediated ACSL4 stabilization, promoting its ubiquitin-proteasome degradation and consequently suppressing lipid peroxidation and ferroptosis. We synthesized a small-molecule ZDHHC2 inhibitor, TTZ1, which restores ACSL4 protein, reactivates ferroptosis, and reverses enzalutamide resistance in CRPC cell lines and patient-derived xenograft models. This study uncovers a previously unrecognized mechanism by which palmitoylation regulates ferroptosis through modulating ACSL4 stability, and highlights the ZDHHC2-USP19-ACSL4 axis as a druggable target for overcoming resistance in advanced prostate cancer.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Ferroptosis",
+        "Male",
+        "Humans",
+        "Animals",
+        "Prostatic Neoplasms, Castration-Resistant",
+        "Coenzyme A Ligases",
+        "Mice",
+        "Lipoylation",
+        "Long-Chain-Fatty-Acid-CoA Ligase",
+        "Lipid Peroxidation",
+        "Cell Line, Tumor",
+        "Acyltransferases",
+        "Benzamides",
+        "Nitriles",
+        "Drug Resistance, Neoplasm",
+        "Phenylthiohydantoin"
+      ],
+      "chemicals": [
+        "Coenzyme A Ligases",
+        "Long-Chain-Fatty-Acid-CoA Ligase",
+        "Acyltransferases",
+        "Benzamides",
+        "Nitriles",
+        "enzalutamide",
+        "Phenylthiohydantoin"
+      ],
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Shuai Shao",
+        "Wei Li",
+        "Yulong Hong",
+        "Ruijiang Zeng",
+        "Liang Zhu",
+        "Lu Yi"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,437 @@
+{
+  "disease": "Obstructive Sleep Apnea",
+  "slug": "obstructive_sleep_apnea",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "38912654",
+      "title": "Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity.",
+      "abstract": "Obstructive sleep apnea is characterized by disordered breathing during sleep and is associated with major cardiovascular complications; excess adiposity is an etiologic risk factor. Tirzepatide may be a potential treatment. We conducted two phase 3, double-blind, randomized, controlled trials involving adults with moderate-to-severe obstructive sleep apnea and obesity. Participants who were not receiving treatment with positive airway pressure (PAP) at baseline were enrolled in trial 1, and those who were receiving PAP therapy at baseline were enrolled in trial 2. The participants were assigned in a 1:1 ratio to receive either the maximum tolerated dose of tirzepatide (10 mg or 15 mg) or placebo for 52 weeks. The primary end point was the change in the apnea-hypopnea index (AHI, the number of apneas and hypopneas during an hour of sleep) from baseline. Key multiplicity-controlled secondary end points included the percent change in AHI and body weight and changes in hypoxic burden, patient-reported sleep impairment and disturbance, high-sensitivity C-reactive protein (hsCRP) concentration, and systolic blood pressure. At baseline, the mean AHI was 51.5 events per hour in trial 1 and 49.5 events per hour in trial 2, and the mean body-mass index (BMI, the weight in kilograms divided by the square of the height in meters) was 39.1 and 38.7, respectively. In trial 1, the mean change in AHI at week 52 was -25.3 events per hour (95% confidence interval [CI], -29.3 to -21.2) with tirzepatide and -5.3 events per hour (95% CI, -9.4 to -1.1) with placebo, for an estimated treatment difference of -20.0 events per hour (95% CI, -25.8 to -14.2) (P<0.001). In trial 2, the mean change in AHI at week 52 was -29.3 events per hour (95% CI, -33.2 to -25.4) with tirzepatide and -5.5 events per hour (95% CI, -9.9 to -1.2) with placebo, for an estimated treatment difference of -23.8 events per hour (95% CI, -29.6 to -17.9) (P<0.001). Significant improvements in the measurements for all prespecified key secondary end points were observed with tirzepatide as compared with placebo. The most frequently reported adverse events with tirzepatide were gastrointestinal in nature and mostly mild to moderate in severity. Among persons with moderate-to-severe obstructive sleep apnea and obesity, tirzepatide reduced the AHI, body weight, hypoxic burden, hsCRP concentration, and systolic blood pressure and improved sleep-related patient-reported outcomes. (Funded by Eli Lilly; SURMOUNT-OSA ClinicalTrials.gov number, NCT05412004.).",
+      "pub_date": "2024-10-03",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Blood Pressure",
+        "Body Weight",
+        "C-Reactive Protein",
+        "Double-Blind Method",
+        "Hypoxia",
+        "Obesity",
+        "Sleep Apnea, Obstructive",
+        "Severity of Illness Index",
+        "Gastric Inhibitory Polypeptide",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Maximum Tolerated Dose",
+        "Sleep Quality",
+        "Treatment Outcome",
+        "Tirzepatide"
+      ],
+      "chemicals": [
+        "C-Reactive Protein",
+        "Tirzepatide",
+        "Gastric Inhibitory Polypeptide",
+        "Glucagon-Like Peptide-1 Receptor Agonists"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Atul Malhotra",
+        "Ronald R Grunstein",
+        "Ingo Fietze",
+        "Terri E Weaver",
+        "Susan Redline",
+        "Ali Azarbarzin"
+      ]
+    },
+    {
+      "pmid": "38547961",
+      "title": "Tirzepatide for the treatment of obstructive sleep apnea: Rationale, design, and sample baseline characteristics of the SURMOUNT -OSA phase 3 trial.",
+      "abstract": "Weight reduction is a standard recommendation for obstructive sleep apnea (OSA) treatment in people with obesity or overweight; however, weight loss can be challenging to achieve and maintain without bariatric surgery. Currently, no approved anti-obesity medication has demonstrated effectiveness in OSA management. This study is evaluating the efficacy and safety of tirzepatide for treatment of moderate to severe OSA in people with obesity. SURMOUNT-OSA, a randomized, placebo -controlled, 52-week phase 3 trial, is investigating the efficacy and safety of tirzepatide for treatment of moderate to severe OSA (apnea hypopnea- index \u226515 events/h) in participants with obesity (body mass index \u226530\u00a0kg/m The primary endpoint for the individual ISAs is the difference in apnea hypopnea- index response, as measured by polysomnography, between tirzepatide and placebo arms at week 52. Secondary endpoints include sleep apnea-specific hypoxic burden, functional outcomes, and cardiometabolic biomarkers. The trial employs digital wearables, including home sleep testing to capture time to improvement and accelerometry for daily physical activity assessment, to evaluate exploratory outcomes. SURMOUNT-OSA brings a novel design to investigate if tirzepatide provides clinically meaningful improvement in obesity-related OSA by targeting the underlying etiology. ClinicalTrials.gov, NCT05412004.",
+      "pub_date": "2024-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Clinical Trial Protocol"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Body Mass Index",
+        "Continuous Positive Airway Pressure",
+        "Double-Blind Method",
+        "Obesity",
+        "Polysomnography",
+        "Research Design",
+        "Severity of Illness Index",
+        "Sleep Apnea, Obstructive",
+        "Weight Loss",
+        "Clinical Trials, Phase III as Topic",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "chemicals": [],
+      "journal": "Contemporary clinical trials",
+      "authors": [
+        "Atul Malhotra",
+        "Josef Bednarik",
+        "Sujatro Chakladar",
+        "Julia P Dunn",
+        "Terri Weaver",
+        "Ron Grunstein"
+      ]
+    },
+    {
+      "pmid": "41090431",
+      "title": "Retatrutide for the treatment of obesity, obstructive sleep apnea and knee osteoarthritis: Rationale and design of the TRIUMPH registrational clinical trials.",
+      "abstract": "Retatrutide, a novel synthetic molecule, is a triple agonist activating the glucose-dependent insulinotropic polypeptide, glucagon-like peptide-1 and glucagon receptors. The TRIUMPH clinical development program evaluates its safety and efficacy concurrently for the treatment of obesity and two related complications-obstructive sleep apnea (OSA) and knee osteoarthritis (OA). A novel basket trial design simultaneously evaluates retatrutide treatment across these multiple adiposity-related disease states. TRIUMPH consists of four Phase 3, multicenter, randomized, double-blind studies assessing weekly subcutaneous retatrutide compared to placebo, in conjunction with healthy diet and physical activity in over 5800 participants. The four trials consist of two weight management basket trials (TRIUMPH-1 and TRIUMPH-2) with OSA and/or OA protocols nested within the weight management trial; one weight management trial in a population with CVD (TRIUMPH-3); and one stand-alone OA trial (TRIUMPH-4). The primary endpoint for weight management is percent change in body weight, for OSA is change in Apnea-Hypopnea Index and for knee OA includes change in the Western Ontario and McMaster Universities Osteoarthritis Index pain subscale score. The basket trial permits independent analysis of weight management, OSA and OA studies with type I error rate controlled at \u03b1\u2009=\u20090.05, split between the overarching weight management and each basket trial. By recruiting participants with shared disease exposures, the TRIUMPH program will assess the safety and efficacy of retatrutide for the treatment of adults with obesity and two of its common complications-OSA and OA.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Osteoarthritis, Knee",
+        "Sleep Apnea, Obstructive",
+        "Obesity",
+        "Double-Blind Method",
+        "Clinical Trials, Phase III as Topic",
+        "Male",
+        "Middle Aged",
+        "Randomized Controlled Trials as Topic",
+        "Female",
+        "Adult",
+        "Multicenter Studies as Topic",
+        "Fatty Acids",
+        "Peptides"
+      ],
+      "chemicals": [
+        "retatrutide",
+        "Fatty Acids",
+        "Peptides"
+      ],
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": [
+        "Kathryn Giblin",
+        "Lee M Kaplan",
+        "Virend K Somers",
+        "Carel W Le Roux",
+        "David J Hunter",
+        "Qiwei Wu"
+      ]
+    },
+    {
+      "pmid": "37812772",
+      "title": "The Combination of Aroxybutynin and Atomoxetine in the Treatment of Obstructive Sleep Apnea (MARIPOSA): A Randomized Controlled Trial.",
+      "abstract": "",
+      "pub_date": "2023-12-15",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Atomoxetine Hydrochloride",
+        "Sleep Apnea, Obstructive",
+        "Sleep",
+        "Polysomnography",
+        "Fatigue",
+        "Continuous Positive Airway Pressure",
+        "Muscarinic Antagonists"
+      ],
+      "chemicals": [
+        "Atomoxetine Hydrochloride",
+        "Muscarinic Antagonists"
+      ],
+      "journal": "American journal of respiratory and critical care medicine",
+      "authors": [
+        "Paula K Schweitzer",
+        "Luigi Taranto-Montemurro",
+        "Joseph M Ojile",
+        "Stephen G Thein",
+        "Christopher L Drake",
+        "Russell Rosenberg"
+      ]
+    },
+    {
+      "pmid": "39210083",
+      "title": "Obstructive sleep apnea -related hypertension: a review of the literature and clinical management strategy.",
+      "abstract": "Obstructive Sleep Apnea (OSA) and hypertension have a high rate of co-occurrence, with OSA being a causative factor for hypertension. Sympathetic activity due to intermittent hypoxia and/or fragmented sleep is the most important mechanisms triggering the elevation in blood pressure in OSA. OSA-related hypertension is characterized by resistant hypertension, nocturnal hypertension, abnormal blood pressure variability, and vascular remodeling. In particular, the prevalence of OSA is high in patients with resistant hypertension, and the mechanism proposed includes vascular remodeling due to the exacerbation of arterial stiffness by OSA. Continuous positive airway pressure therapy is effective at lowering blood pressure, however, the magnitude of the decrease in blood pressure is relatively modest, therefore, patients often need to also take antihypertensive medications to achieve optimal blood pressure control. Antihypertensive medications targeting sympathetic pathways or the renin-angiotensin-aldosterone system have theoretical potential in OSA-related hypertension, Therefore, beta-blockers and renin-angiotensin system inhibitors may be effective in the management of OSA-related hypertension, but current evidence is limited. The characteristics of OSA-related hypertension, such as nocturnal hypertension and obesity-related hypertension, suggests potential for angiotensin receptor-neprilysin inhibitor (ARNI), sodium-glucose cotransporter 2 inhibitors (SGLT2i) and glucose-dependent insulinotropic polypeptide receptor/ glucagon-like peptide-1 receptor agonist (GIP/GLP-1 RA). Recently, OSA has been considered to be caused not only by upper airway anatomy but also by several non-anatomic mechanisms, such as responsiveness of the upper airway response, ventilatory control instability, and reduced sleep arousal threshold. Elucidating the phenotypic mechanisms of OSA may potentially advance more personalized hypertension treatment strategies in the future. Clinical characteristics and management strategy of OSA-related hypertension. OSA obstructive sleep apnea, BP blood pressure, ABPM ambulatory blood pressure monitoring, CPAP continuous positive airway pressure, LVH left ventricular hypertrophy, ARB: angiotensin II receptor blocker, SGLT2i Sodium-glucose cotransporter 2 inhibitors, ARNI angiotensin receptor-neprilysin inhibitor, CCB calcium channel blocker, GIP/GLP-1 RA glucose-dependent insulinotropic polypeptide receptor and glucagon-like peptide-1 receptor agonist.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Sleep Apnea, Obstructive",
+        "Hypertension",
+        "Antihypertensive Agents",
+        "Continuous Positive Airway Pressure",
+        "Renin-Angiotensin System"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents"
+      ],
+      "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
+      "authors": [
+        "Kazuki Shiina"
+      ]
+    },
+    {
+      "pmid": "35227430",
+      "title": "Evaluation and Management of Secondary Hypertension.",
+      "abstract": "Hypertension is a major cause of cardiovascular morbidity and mortality globally. Many patients with hypertension have secondary causes of hypertension that merit further evaluation. For example, secondary hypertension can result in target organ damage to the heart, kidneys, and brain independent of the effects of blood pressure. Several causes benefit from targeted therapies to supplement first-line antihypertensive agents. However, secondary hypertension is often underrecognized. The goal of this review is to highlight optimal approaches to the diagnosis and management of common causes of secondary hypertension, including primary aldosteronism, renovascular hypertension, obstructive sleep apnea, and drug-induced hypertension.",
+      "pub_date": "2022-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Antihypertensive Agents",
+        "Blood Pressure",
+        "Humans",
+        "Hypertension",
+        "Sleep Apnea, Obstructive"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents"
+      ],
+      "journal": "The Medical clinics of North America",
+      "authors": [
+        "Harini Sarathy",
+        "Liann Abu Salman",
+        "Christopher Lee",
+        "Jordana B Cohen"
+      ]
+    },
+    {
+      "pmid": "40590655",
+      "title": "Comparative Efficacy of Tirzepatide, Liraglutide, and Semaglutide in Reduction of Risk of Major Adverse Cardiovascular Events in Patients with Obstructive Sleep Apnea and Type 2 Diabetes: Real-World Evidence.",
+      "abstract": "",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Liraglutide",
+        "Diabetes Mellitus, Type 2",
+        "Male",
+        "Female",
+        "Glucagon-Like Peptides",
+        "Sleep Apnea, Obstructive",
+        "Retrospective Studies",
+        "Middle Aged",
+        "Hypoglycemic Agents",
+        "Cardiovascular Diseases",
+        "Aged",
+        "Tirzepatide",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Liraglutide",
+        "Glucagon-Like Peptides",
+        "Hypoglycemic Agents",
+        "Tirzepatide",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "journal": "Annals of the American Thoracic Society",
+      "authors": [
+        "Alex E Henney",
+        "David R Riley",
+        "Matthew Anson",
+        "Megan Heague",
+        "Gema Hernadez",
+        "Uazman Alam"
+      ]
+    },
+    {
+      "pmid": "35320066",
+      "title": "Drug Therapy for Obstructive Sleep Apnea: Are We There Yet?",
+      "abstract": "",
+      "pub_date": "2022-06-15",
+      "publication_types": [
+        "Editorial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Comment"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Sleep Apnea Syndromes",
+        "Sleep Apnea, Obstructive",
+        "Thiazines",
+        "Benzenesulfonamides"
+      ],
+      "chemicals": [
+        "Thiazines",
+        "sulthiame",
+        "Benzenesulfonamides"
+      ],
+      "journal": "American journal of respiratory and critical care medicine",
+      "authors": [
+        "Christopher N Schmickl",
+        "Bradley A Edwards",
+        "Atul Malhotra"
+      ]
+    },
+    {
+      "pmid": "32768459",
+      "title": "Acetazolamide for OSA and Central Sleep Apnea: A Comprehensive Systematic Review and Meta-Analysis.",
+      "abstract": "Therapy options for OSA and central sleep apnea (CSA) are limited, thus many patients remain untreated. Clinically, acetazolamide is sometimes used for CSA; however, given overlapping pathophysiologic properties of OSA and CSA, we hypothesized that acetazolamide is equally effective for both types. Prior reviews focused on specific subtypes of sleep apnea, study designs, and languages, thus including few studies (typically\u00a0\u22643) limiting insights. How efficacious is acetazolamide for sleep apnea, and is its effect modified by sleep apnea type or acetazolamide dose? We queried MEDLINE, EMBASE, and ClinicalTrials.gov from inception until March 11, 2019. Any study in which adults with OSA/CSA received oral acetazolamide vs\u00a0no acetazolamide (control) that reported sleep apnea-related outcomes was eligible, independent of study design or language. Two reviewers independently assessed eligibility and abstracted data. Primary outcomes were apnea-hypopnea index (AHI) and oxygen saturation nadir. Quality of evidence (QoE) was rated with the use of Grades of Recommendation Assessment, Development and Evaluation methods. We included 28 studies (13 OSA/15 CSA; N Short-term acetazolamide improved both OSA and CSA. Rigorous studies with long-term follow up are warranted to assess Acetazolamide's value for the chronic treatment of patients with sleep apnea. PROSPERO (CRD42019147504).",
+      "pub_date": "2020-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Systematic Review"
+      ],
+      "mesh_descriptors": [
+        "Acetazolamide",
+        "Carbonic Anhydrase Inhibitors",
+        "Humans",
+        "Sleep Apnea, Central",
+        "Sleep Apnea, Obstructive",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Carbonic Anhydrase Inhibitors",
+        "Acetazolamide"
+      ],
+      "journal": "Chest",
+      "authors": [
+        "Christopher N Schmickl",
+        "Shane A Landry",
+        "Jeremy E Orr",
+        "Kazuo Chin",
+        "Kimihiko Murase",
+        "Johan Verbraecken"
+      ]
+    },
+    {
+      "pmid": "30395486",
+      "title": "The Combination of Atomoxetine and Oxybutynin Greatly Reduces Obstructive Sleep Apnea Severity. A Randomized, Placebo-controlled, Double-Blind Crossover Trial.",
+      "abstract": "",
+      "pub_date": "2019-05-15",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Adrenergic Uptake Inhibitors",
+        "Atomoxetine Hydrochloride",
+        "Cross-Over Studies",
+        "Double-Blind Method",
+        "Drug Combinations",
+        "Mandelic Acids",
+        "Parasympatholytics",
+        "Placebo Effect",
+        "Sleep",
+        "Sleep Apnea, Obstructive"
+      ],
+      "chemicals": [
+        "Adrenergic Uptake Inhibitors",
+        "Atomoxetine Hydrochloride",
+        "Drug Combinations",
+        "Mandelic Acids",
+        "oxybutynin",
+        "Parasympatholytics"
+      ],
+      "journal": "American journal of respiratory and critical care medicine",
+      "authors": [
+        "Luigi Taranto-Montemurro",
+        "Ludovico Messineo",
+        "Scott A Sands",
+        "Ali Azarbarzin",
+        "Melania Marques",
+        "Bradley A Edwards"
+      ]
+    },
+    {
+      "pmid": "32066145",
+      "title": "The Management of Chronic Insomnia Disorder and Obstructive Sleep Apnea: Synopsis of the 2019 U.S. Department of Veterans Affairs and U.S. Department of Defense Clinical Practice Guidelines.",
+      "abstract": "In September 2019, the U.S. Department of Veterans Affairs (VA) and the U.S. Department of Defense (DoD) approved a new joint clinical practice guideline for assessing and managing patients with chronic insomnia disorder and obstructive sleep apnea (OSA). This guideline is intended to give health care teams a framework by which to screen, evaluate, treat, and manage the individual needs and preferences of VA and DoD patients with either of these conditions. In October 2017, the VA/DoD Evidence-Based Practice Work Group initiated a joint VA/DoD guideline development effort that included clinical stakeholders and conformed to the Institute of Medicine's tenets for trustworthy clinical practice guidelines. The guideline panel developed key questions, systematically searched and evaluated the literature, created three 1-page algorithms, and advanced 41 recommendations using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) system. This synopsis summarizes the key recommendations of the guideline in 3 areas: diagnosis and assessment of OSA and chronic insomnia disorder, treatment and management of OSA, and treatment and management of chronic insomnia disorder. Three clinical practice algorithms are also included.",
+      "pub_date": "2020-03-03",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Cognitive Behavioral Therapy",
+        "Continuous Positive Airway Pressure",
+        "Humans",
+        "Hypnotics and Sedatives",
+        "Sleep Apnea, Obstructive",
+        "Sleep Initiation and Maintenance Disorders",
+        "United States",
+        "United States Department of Defense",
+        "United States Department of Veterans Affairs"
+      ],
+      "chemicals": [
+        "Hypnotics and Sedatives"
+      ],
+      "journal": "Annals of internal medicine",
+      "authors": [
+        "Vincent Mysliwiec",
+        "Jennifer L Martin",
+        "Christi S Ulmer",
+        "Susmita Chowdhuri",
+        "Matthew S Brock",
+        "Christopher Spevak"
+      ]
+    },
+    {
+      "pmid": "39378016",
+      "title": "Estimating Cardiovascular Benefits of Tirzepatide in Sleep Apnea and Obesity: Insight from the SURMOUNT-OSA Trials.",
+      "abstract": "This commentary aims to offer a perspective on the effect of tirzepatide on hypoxic burden and provide indirect evidence of cardiovascular risk reduction after tirzepatide for the treatment of obstructive sleep apnea and obesity. It also discusses the role of tirzepatide-induced weight loss in the management of obstructive sleep apnea. In the SURMOUNT-OSA phase 3 trials, tirzepatide, a new GIP/GLP-1 receptor co-agonist, reduced the apnea-hypopnea index, hypoxic burden, and body weight in adults with moderate-to-severe obstructive sleep apnea and obesity. The change in apnea-hypopnea index is clinically relevant, but its impact on cardiovascular mortality remains unclear. Conversely, hypoxic burden predicts cardiovascular mortality across populations independent of AHI. We attempted to postulate the magnitude of cardiovascular benefits of tirzepatide based on the reduction in hypoxic burden. Tirzepatide treatment for obstructive sleep apnea and obesity seems to result in hypoxic burden values associated with a lower cardiovascular mortality rate and thus might attenuate the negative cardiovascular impact of hypoxic burden.",
+      "pub_date": "2024-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Obesity",
+        "Sleep Apnea, Obstructive",
+        "Cardiovascular Diseases",
+        "Weight Loss",
+        "Hypoxia",
+        "Clinical Trials, Phase III as Topic",
+        "Randomized Controlled Trials as Topic"
+      ],
+      "chemicals": [],
+      "journal": "Current obesity reports",
+      "authors": [
+        "Guglielmo Beccuti",
+        "Fabio Bioletto",
+        "Mirko Parasiliti-Caprino",
+        "Andrea Benso",
+        "Ezio Ghigo",
+        "Alessandro Cicolin"
+      ]
+    }
+  ]
+}

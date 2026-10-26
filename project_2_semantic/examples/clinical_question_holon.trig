@@ -1,0 +1,130 @@
+# =============================================================================
+# FULL FOUR-LAYER HOLON EXAMPLE 3/3 - ClinicalQuestionHolon
+# A clinical question about initial hypertension therapy, serialised as TriG
+# with explicit interior / boundary / projection / context named graphs.
+# =============================================================================
+
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix prov:   <http://www.w3.org/ns/prov#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+@prefix oeq:    <https://example.org/openevidence/questions/> .
+@prefix oed:    <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oesrc:  <https://example.org/openevidence/sources/> .
+@prefix oeevt:  <https://example.org/openevidence/events/> .
+
+oeq:q_stage2_hypertension a holon:ClinicalQuestionHolon ;
+    rdfs:label "Clinical Question: initial therapy for stage 2 hypertension"@en ;
+    holon:hasInteriorGraph   oeq:q_stage2_hypertension-int ;
+    holon:hasBoundaryGraph   oeq:q_stage2_hypertension-bnd ;
+    holon:hasProjectionGraph oeq:q_stage2_hypertension-prj ;
+    holon:hasContextGraph    oeq:q_stage2_hypertension-ctx ;
+    holon:evidenceQualityThreshold "0.50"^^xsd:decimal ;
+    holon:sequenceNumber 3 .
+
+# --- INTERIOR: question text, answer, entities, and evidence ------------------
+
+oeq:q_stage2_hypertension-int {
+    oeq:q_stage2_hypertension
+        oe:questionText
+            "What is the recommended first-line pharmacological treatment for adults with stage 2 hypertension?"^^xsd:string ;
+        oe:answerText
+            "Initiate dual combination therapy, commonly an ACE inhibitor or ARB with a calcium-channel blocker or thiazide-type diuretic."^^xsd:string ;
+        oe:belongsToSpecialty "Cardiology" .
+
+    oed:hypertension a oe:Disease ;
+        rdfs:label "Hypertension"@en ;
+        oe:icdCode "I10" .
+
+    oedrug:lisinopril a oe:Drug ;
+        rdfs:label "Lisinopril"@en ;
+        oe:atcCode "C09AA03" .
+
+    oedrug:amlodipine a oe:Drug ;
+        rdfs:label "Amlodipine"@en ;
+        oe:atcCode "C08CA01" .
+
+    oesrc:accomplish a oe:ClinicalTrial ;
+        rdfs:label "ACCOMPLISH trial"@en ;
+        oe:pubmedId "19052124" ;
+        oe:publicationDate "2008-12-04"^^xsd:date .
+
+    oedrug:lisinopril oe:treats oed:hypertension .
+    oeevt:cq_ev1 a holon:EvidenceAssertion ;
+        rdf:reifies oeevt:cq_ev1-tt ;
+        holon:confidence "0.88"^^xsd:decimal ;
+        holon:evidenceLevel "Level-1B" ;
+        holon:assessedBy oe:openevidence_ai ;
+        holon:recordedOn "2025-03-15"^^xsd:date ;
+        oe:cites oesrc:accomplish ;
+        oe:effectiveness "effective" ;
+        holon:inHolon oeq:q_stage2_hypertension .
+    oeevt:cq_ev1-tt rdf:subject oedrug:lisinopril ;
+        rdf:predicate oe:treats ;
+        rdf:object oed:hypertension .
+
+    oedrug:amlodipine oe:treats oed:hypertension .
+    oeevt:cq_ev2 a holon:EvidenceAssertion ;
+        rdf:reifies oeevt:cq_ev2-tt ;
+        holon:confidence "0.86"^^xsd:decimal ;
+        holon:evidenceLevel "Level-1B" ;
+        holon:assessedBy oe:openevidence_ai ;
+        holon:recordedOn "2025-03-15"^^xsd:date ;
+        oe:cites oesrc:accomplish ;
+        oe:effectiveness "effective" ;
+        holon:inHolon oeq:q_stage2_hypertension .
+    oeevt:cq_ev2-tt rdf:subject oedrug:amlodipine ;
+        rdf:predicate oe:treats ;
+        rdf:object oed:hypertension .
+}
+
+# --- BOUNDARY: admission conditions for this question holon -------------------
+
+oeq:q_stage2_hypertension-bnd {
+    oeevt:cq_entry_disease a holon:EntityEntry ;
+        holon:entity oed:hypertension ;
+        holon:entryMode "topic-match" .
+
+    oeevt:cq_entry_acei a holon:EntityEntry ;
+        holon:entity oedrug:lisinopril ;
+        holon:entryMode "evidence-linked" .
+
+    oeevt:cq_entry_ccb a holon:EntityEntry ;
+        holon:entity oedrug:amlodipine ;
+        holon:entryMode "evidence-linked" .
+
+    oeq:Stage2HypertensionQuestionShape a sh:NodeShape ;
+        sh:targetNode oeq:q_stage2_hypertension ;
+        sh:property [
+            sh:path oe:belongsToSpecialty ;
+            sh:hasValue "Cardiology" ;
+            sh:severity sh:Violation ;
+            sh:message "This worked example is scoped to cardiology questions." ;
+        ] .
+}
+
+# --- PROJECTION: externally visible summary -----------------------------------
+
+oeq:q_stage2_hypertension-prj {
+    oeq:q_stage2_hypertension
+        holon:narrativeFunction
+            "Summarises first-line stage 2 hypertension therapy as dual pharmacological treatment."@en ;
+        holon:summaryConfidence "0.87"^^xsd:decimal ;
+        holon:prerequisiteFor oeq:q_hypertension_followup .
+}
+
+# --- CONTEXT: provenance -------------------------------------------------------
+
+oeq:q_stage2_hypertension-ctx {
+    oeq:q_stage2_hypertension
+        prov:wasAttributedTo oe:openevidence_ai ;
+        prov:generatedAtTime "2025-03-15T10:30:00Z"^^xsd:dateTime ;
+        prov:wasDerivedFrom oesrc:accomplish .
+
+    oe:openevidence_ai a prov:Agent ;
+        rdfs:label "OpenEvidence AI System"@en .
+}

@@ -1,0 +1,510 @@
+{
+  "disease": "Diabetic Nephropathy",
+  "slug": "diabetic_nephropathy",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40470996",
+      "title": "Finerenone with Empagliflozin in Chronic Kidney Disease and Type 2 Diabetes.",
+      "abstract": "Limited evidence exists to support the simultaneous initiation of sodium-glucose cotransporter-2 inhibitors and finerenone, a nonsteroidal mineralocorticoid receptor antagonist, in persons with chronic kidney disease and type 2 diabetes. We randomly assigned participants with chronic kidney disease (estimated glomerular filtration rate [eGFR], 30 to 90 ml per minute per 1.73 m At baseline, the urinary albumin-to-creatinine ratio was similar among the participants in the three groups; the median value was 579 (interquartile range, 292 to 1092) among those with available data (265 in the combination-therapy group, 258 in the finerenone group, and 261 participants in the empagliflozin group). At day 180, the reduction in the urinary albumin-to-creatinine ratio with combination therapy was 29% greater than that with finerenone alone (least-squares mean ratio of the difference in the change from baseline, 0.71; 95% confidence interval [CI], 0.61 to 0.82; P<0.001) and 32% greater than that with empagliflozin alone (least-squares mean ratio of the difference in the change from baseline, 0.68; 95% CI, 0.59 to 0.79; P<0.001). Neither agent, alone or in combination, led to unexpected adverse events. Symptomatic hypotension, acute kidney injury, and hyperkalemia leading to drug discontinuation were uncommon. Among persons with both chronic kidney disease and type 2 diabetes, initial therapy with finerenone plus empagliflozin led to a greater reduction in the urinary albumin-to-creatinine ratio than either treatment alone. (Funded by Bayer; CONFIDENCE ClinicalTrials.gov number, NCT05254002.).",
+      "pub_date": "2025-08-07",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Albuminuria",
+        "Creatinine",
+        "Diabetes Mellitus, Type 2",
+        "Diabetic Nephropathies",
+        "Double-Blind Method",
+        "Drug Therapy, Combination",
+        "Glomerular Filtration Rate",
+        "Mineralocorticoid Receptor Antagonists",
+        "Renal Insufficiency, Chronic",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Serum Albumin, Human",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Naphthyridines"
+      ],
+      "chemicals": [
+        "Creatinine",
+        "empagliflozin",
+        "finerenone",
+        "Mineralocorticoid Receptor Antagonists",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Serum Albumin, Human",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Naphthyridines"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Rajiv Agarwal",
+        "Jennifer B Green",
+        "Hiddo J L Heerspink",
+        "Johannes F E Mann",
+        "Janet B McGill",
+        "Amy K Mottl"
+      ]
+    },
+    {
+      "pmid": "40935879",
+      "title": "Mechanisms of diabetic kidney disease and established and emerging treatments.",
+      "abstract": "Kidney disease is one of the leading causes of mortality in persons with diabetes mellitus. Diabetic kidney disease (DKD) typically presents with a reduced estimated glomerular filtration rate and, in many but not all cases, with marked proteinuria. Strict glycaemic control and blood pressure control remain foundational in managing DKD, and advances in the understanding of disease mechanisms have redefined the therapeutic landscape. Large outcome trials, such as EMPA-KIDNEY, DAPA-CKD and CREDENCE, have demonstrated that sodium-glucose cotransporter 2 inhibitors slow chronic kidney disease progression and improve cardiovascular outcomes. Glucagon-like peptide 1 receptor agonists reduce albuminuria and preserve estimated glomerular filtration rate, as shown most recently in the FLOW trial. Finerenone, a non-steroidal mineralocorticoid receptor antagonist, lowered renal and cardiovascular risk in the FIDELIO-DKD and FIGARO-DKD trials. Combination approaches (for example, sodium-glucose cotransporter 2 inhibition plus endothelin receptor type A blockade in ZENITH-CKD), aldosterone synthase inhibition, and targeted anti-inflammatory or complement-modifying agents offer additional promise. We summarize the key pathophysiological drivers (glomerular hyperfiltration, podocyte injury, tubulointerstitial inflammation and fibrosis), review established treatments and highlight emerging strategies to prevent or halt DKD.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetic Nephropathies",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Glomerular Filtration Rate",
+        "Animals"
+      ],
+      "chemicals": [
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "journal": "Nature reviews. Endocrinology",
+      "authors": [
+        "Victor Martinez Leon",
+        "Rachel Hilburg",
+        "Katalin Susztak"
+      ]
+    },
+    {
+      "pmid": "40327845",
+      "title": "Rapid and Simultaneous Initiation of Guideline-Directed Kidney Therapies in Patients with CKD and Type 2 Diabetes.",
+      "abstract": "The global incidence of CKD continues to rise, with type 2 diabetes as a major contributor. At any stage of CKD, patients with concurrent CKD and type 2 diabetes are at heightened cardiovascular risk and have a greater likelihood of dying from cardiovascular causes than progressing to kidney failure. Consequently, the use of \"four pillars\" of CKD therapy, including renin-angiotensin system inhibitors, sodium-glucose cotransporter 2 inhibitor, nonsteroidal mineralocorticoid receptor antagonists, and glucagon-like peptide-1 receptor agonists, has been advocated to reduce cardiovascular-kidney risk. Although these therapies can mitigate cardiovascular and kidney events when used individually, the residual risks of these events remain high across major clinical trials testing these therapies separately as well as in real-world clinical settings. This raises the question about when to optimally initiate these therapies, including strategies that start these agents in rapid sequence, or even simultaneously, to reduce long-term risk, thereby mirroring best practices with rapid titration schedules in patients with heart failure. However, initiating all four therapies simultaneously in the setting of CKD has not yet been tested due to lack of data on safety and tolerability in this high-risk population. Data regarding the safety profile of rapid sequence initiation remain limited. Therefore, our aim was to review the existing evidence on the safety profiles of guideline-recommended therapies and discuss the challenges associated with rapid sequence initiation of these treatments in patients with CKD.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetes Mellitus, Type 2",
+        "Renal Insufficiency, Chronic",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Practice Guidelines as Topic",
+        "Mineralocorticoid Receptor Antagonists",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Diabetic Nephropathies",
+        "Cardiovascular Diseases"
+      ],
+      "chemicals": [
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Mineralocorticoid Receptor Antagonists",
+        "Angiotensin-Converting Enzyme Inhibitors",
+        "Glucagon-Like Peptide-1 Receptor Agonists"
+      ],
+      "journal": "Journal of the American Society of Nephrology : JASN",
+      "authors": [
+        "Ahmed Mustafa Rashid",
+        "Muhammad Shahzeb Khan",
+        "David Z I Cherney",
+        "Ankit Mehta",
+        "Janani Rangaswami",
+        "Tariq Shafi"
+      ]
+    },
+    {
+      "pmid": "40450519",
+      "title": "Podocyte FFAR4 deficiency aggravated glomerular diseases and aging.",
+      "abstract": "Podocyte injury contributes to the progression of glomerular disease and aging; however, causative molecular/physiological pathways are poorly defined, and there are few therapies to improve kidney outcomes. We previously reported that free fatty acid receptor 4 (FFAR4) agonist TUG891 improved podocyte injury to alleviate renal inflammation and fibrosis in diabetic nephropathy. However, the role of podocyte FFAR4 as a promising drug target has not been explored in glomerular diseases and aging. Here, we found that glomerular FFAR4 expression was abnormally decreased in patients and highly correlated with kidney function decline of glomerular diseases. Similarly, podocyte FFAR4 decreased in experimental focal segmental glomerulosclerosis and diabetic kidney disease mice. Both systemic and podocyte-specific FFAR4 deletion aggravated glomerular damage, whereas administration of FFAR4 agonist TUG891 and fish oil alleviated the severity of disease in adriamycin-induced nephropathy, diabetic, and aging mice, respectively. Mechanistically, FFAR4 reduction triggered cellular senescence and lipid metabolism disorder in injured podocytes and glomerulus. FFAR4 agonism exerted anti-senescent and anti-lipotoxic effects via activating CaMKK\u03b2-AMPK signaling to protect against podocyte damage. These findings provide insight into signaling pathways involved in podocyte injury and enhance the understanding of the mechanistic functions of FFAR4 to reveal promising therapeutic opportunities against glomerular diseases and aging.",
+      "pub_date": "2025-09-03",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Podocytes",
+        "Receptors, G-Protein-Coupled",
+        "Phenylpropionates",
+        "Biphenyl Compounds",
+        "Humans",
+        "Animals",
+        "Mice",
+        "Mice, Knockout",
+        "Cellular Senescence",
+        "Calcium-Calmodulin-Dependent Protein Kinase Kinase",
+        "AMP-Activated Protein Kinases",
+        "Mice, Inbred C57BL",
+        "Glomerulosclerosis, Focal Segmental",
+        "Diabetic Nephropathies",
+        "Disease Models, Animal",
+        "Aging"
+      ],
+      "chemicals": [
+        "FFAR4 protein, human",
+        "Receptors, G-Protein-Coupled",
+        "3-(4-((4-fluoro-4'-methyl-(1,1'-biphenyl)-2-yl)methoxy)phenyl)propanoic acid",
+        "Phenylpropionates",
+        "Biphenyl Compounds",
+        "FFAR4 protein, mouse",
+        "Calcium-Calmodulin-Dependent Protein Kinase Kinase",
+        "AMP-Activated Protein Kinases"
+      ],
+      "journal": "Molecular therapy : the journal of the American Society of Gene Therapy",
+      "authors": [
+        "Ting Yin",
+        "Letian Yang",
+        "Lei Tang",
+        "Jian Li",
+        "Dekai Liu",
+        "Fan Guo"
+      ]
+    },
+    {
+      "pmid": "40653265",
+      "title": "Direct pharmacological targeting of Piezo1 by Paeoniflorin: a novel therapeutic approach for renal fibrosis.",
+      "abstract": "Renal fibrosis-characterized by microcirculatory disturbances and endothelial-mesenchymal transition (EndMT)-is a major pathological feature of chronic kidney disease (CKD) and remains a significant therapeutic challenge. The mechanosensitive ion channel Piezo1 plays a pivotal role in endothelial mechanotransduction and has been implicated in fibrogenesis, yet specific pharmacological interventions targeting Piezo1 are lacking. We evaluated the renoprotective effects of paeoniflorin (PF), a bioactive monoterpene glycoside, in 5/6 nephrectomy-induced chronic renal failure (CRF) rats and diabetic kidney disease (DKD) db/db mice. PF-Piezo1 interactions were characterized using molecular docking, surface plasmon resonance (SPR), and functional assays. In vitro studies employing models of matrix stiffness, endothelial-fibroblast crosstalk, and HIF-1\u03b1 inhibition were performed to elucidate the underlying mechanisms. PF treatment preserved renal function, reduced glomerulosclerosis, and ameliorated microvascular rarefaction in both CRF and DKD. Molecular docking and SPR analyses revealed that PF binds Piezo1 with high affinity, thereby inhibiting Yoda1-induced Ca2 Our findings indicate that PF exerts renoprotective effects by targeting the Piezo1/Ca",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Glucosides",
+        "Fibrosis",
+        "Monoterpenes",
+        "Rats",
+        "Mice",
+        "Ion Channels",
+        "Male",
+        "Molecular Docking Simulation",
+        "Diabetic Nephropathies",
+        "Humans",
+        "Kidney",
+        "Renal Insufficiency, Chronic",
+        "Hypoxia-Inducible Factor 1, alpha Subunit",
+        "Rats, Sprague-Dawley",
+        "Disease Models, Animal",
+        "Mice, Inbred C57BL",
+        "Mechanotransduction, Cellular",
+        "Glycosides"
+      ],
+      "chemicals": [
+        "peoniflorin",
+        "Glucosides",
+        "Monoterpenes",
+        "Ion Channels",
+        "Hypoxia-Inducible Factor 1, alpha Subunit",
+        "Piezo1 protein, mouse",
+        "Piezo1 protein, rat",
+        "Glycosides"
+      ],
+      "journal": "Journal of advanced research",
+      "authors": [
+        "Run Li",
+        "Jikai Xia",
+        "Chunru Shi",
+        "Keying Zhang",
+        "Yilun Qu",
+        "Guosen He"
+      ]
+    },
+    {
+      "pmid": "40865719",
+      "title": "Protein UHRF1-mediated dual dysregulation of molecular chaperone GRP78 induces endoplasmic reticulum stress and aggravates diabetic nephropathy.",
+      "abstract": "Endoplasmic reticulum (ER) stress mediates kidney tubular epithelial cell injury in diabetic nephropathy (DN), although the underlying regulatory mechanisms remain poorly characterized. To examine this, human tubule epithelial cells (HK-2 cells), rat kidney tubular epithelial cells (NRK-52E cells), kidney tissues of patients with biopsy-proven DN and healthy controls along with db/db mice (spontaneous diabetic kidney injury) and their db/m littermates were subject to a variety of imaging and analytical techniques. Mechanistically, downregulation of protein UHRF1 induced by high glucose disrupts its regulatory functions on both promoter methylation and protein ubiquitination of GRP78. This dysregulation causes GRP78 accumulation in the cytoplasm subsequently facilitating its nuclear translocation via interactions with the nucleocytoplasmic transport machinery. Notably, GRP78 nuclear translocation enhances a gene network associated with ER stress and apoptosis, intensifying kidney tubular epithelial cell injury. Compound screening identified the phenolic glycoside Parishin as a specific inhibitor of GRP78 nuclear translocation, effectively mitigating ER stress and demonstrates kidney-protective efficacy in db/db mice. Overall, our findings establish the dual epigenetic regulatory mechanisms of GRP78 and demonstrate its role as a transcriptional regulator of ER stress-related gene expression, which drives tubular cells injury in DN. This suggests that targeting the nuclear translocation of GRP78 may serve as a novel therapeutic approach for DN.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Endoplasmic Reticulum Chaperone BiP",
+        "Humans",
+        "Endoplasmic Reticulum Stress",
+        "Heat-Shock Proteins",
+        "Diabetic Nephropathies",
+        "Ubiquitin-Protein Ligases",
+        "Mice",
+        "Rats",
+        "CCAAT-Enhancer-Binding Proteins",
+        "Cell Line",
+        "Apoptosis",
+        "Male",
+        "Epithelial Cells",
+        "Ubiquitination",
+        "Kidney Tubules",
+        "Epigenesis, Genetic",
+        "Down-Regulation",
+        "Promoter Regions, Genetic",
+        "DNA Methylation",
+        "Mice, Inbred C57BL",
+        "Active Transport, Cell Nucleus",
+        "Disease Models, Animal",
+        "Glucose"
+      ],
+      "chemicals": [
+        "Endoplasmic Reticulum Chaperone BiP",
+        "Heat-Shock Proteins",
+        "HSPA5 protein, human",
+        "Hspa5 protein, mouse",
+        "Ubiquitin-Protein Ligases",
+        "CCAAT-Enhancer-Binding Proteins",
+        "UHRF1 protein, human",
+        "GRP78 protein, rat",
+        "Glucose"
+      ],
+      "journal": "Kidney international",
+      "authors": [
+        "Ruixiang Yang",
+        "Qing Hou",
+        "Ruihan Chen",
+        "Zijian Ma",
+        "Song Jiang",
+        "Zhihong Liu"
+      ]
+    },
+    {
+      "pmid": "40521811",
+      "title": "Update on the pathophysiology and treatment of diabetic kidney disease: a narrative review.",
+      "abstract": "Diabetic kidney disease (DKD) is one of the most common causes of chronic kidney disease, leading to end-stage kidney disease (ESKD), and is one of the most significant complications associated with diabetes mellitus. Furthermore, the medical costs of dialysis therapy associated with ESKD are high, and financial strain is a major problem. This review first focuses on the mechanisms of DKD progression and exacerbation, and then describes the 'DKD fantastic four,' which we advocate as the latest DKD treatment. In DKD, increase in the extracellular matrix of mesangial cells is attributed to transforming growth factor-\u03b2/Smad1/type 4 collagen signaling, whose effects are enhanced by angiotensin II signaling.DKD activates protein kinase C (PKC)d, leading to dephosphorylation of vascular endothelial growth factor receptor-2 and reduction of its downstream effects, thereby inducing podocyte apoptosis. PKC\u03b2 inhibits insulin receptor substrate 1/Akt/endothelial NO synthase signaling in glomerular endothelial cells. Recently, sodium-glucose co-transporter 2 inhibitors have been shown to reduce the risk of progression of nephropathy. Additionally, glucagon-like peptide 1 and glucose-dependent insulinotropic polypeptides elicit vasoactive effects, reducing the risk of DKD. Finerenone, a non-steroidal mineralocorticoid receptor antagonist, reduces the composite renal endpoint without causing severe hyperkalemia.",
+      "pub_date": "2025-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diabetic Nephropathies",
+        "Animals",
+        "Signal Transduction",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Disease Progression",
+        "Kidney Failure, Chronic"
+      ],
+      "chemicals": [
+        "Sodium-Glucose Transporter 2 Inhibitors"
+      ],
+      "journal": "Expert review of clinical immunology",
+      "authors": [
+        "Akira Mima",
+        "Atsuo Nomura",
+        "Toshinori Yasuzawa"
+      ]
+    },
+    {
+      "pmid": "41811985",
+      "title": "Acarbose ameliorates podocyte injury and glomerular lesions in diabetic nephropathy through USP46 activation.",
+      "abstract": "The ubiquitin-proteasome system (UPS) is important for podocyte health, but the specific UPS proteins involved in podocyte injury of diabetic nephropathy (DN) are not well known. Patients with DN have lower expression of USP46 in podocytes, which is linked to higher proteinuria. Deleting the Usp46 gene in podocytes of mice (Usp46",
+      "pub_date": "2026-03-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Podocytes",
+        "Diabetic Nephropathies",
+        "Animals",
+        "Acarbose",
+        "Kidney Glomerulus",
+        "Endopeptidases",
+        "Mice",
+        "DNA-Binding Proteins",
+        "Diabetes Mellitus, Experimental",
+        "Mice, Knockout",
+        "Enzyme Activation",
+        "Humans",
+        "Albuminuria",
+        "Mice, Inbred C57BL",
+        "Male"
+      ],
+      "chemicals": [
+        "Acarbose",
+        "Endopeptidases",
+        "DNA-Binding Proteins"
+      ],
+      "journal": "Science translational medicine",
+      "authors": [
+        "Qing Hou",
+        "Guiqin Huang",
+        "Shuyan Kan",
+        "Ruixiang Yang",
+        "Zijian Ma",
+        "Xiaodong Zhu"
+      ]
+    },
+    {
+      "pmid": "40913984",
+      "title": "Integrated metabolomics and network pharmacology analysis of Yulan Jiangtang capsules in diabetic nephropathy.",
+      "abstract": "Diabetic nephropathy (DN), a serious diabetic complication, currently has limited treatment options. Yulan Jiangtang capsules (YL) are a clinically approved traditional Chinese medicine formula for glycemic control and diabetes-related complications. Nevertheless, the underlying mechanisms of their therapeutic effects remain incompletely elucidated. This study employed a comprehensive strategy involving network pharmacology, metabolomics, and experimental validation to investigate the potential mechanisms of YL in DN. Firstly, initial investigations combined UPLC-MS technology with network pharmacology to systematically identify the key components, core targets, and associated pathways of YL. Secondly, experimental rats were fed a high-fat/high-glucose diet for 4 weeks, followed by diabetes induction using STZ injection (35 mg/kg; success criteria: random glucose \u226516.7 mmol/l at 72 h). 2 weeks later, Diabetic nephropathy rats (confirmed by elevated urinary protein and microalbumin) were randomized into five groups (n = 16/group): Model, Met + Irb (150+15.75 mg/kg), and YL (189, 378, 756 mg/kg). YL and Met+Itb were orally administered for 10 weeks, twice a day. FBG, GHb, and some indicators reflecting renal function were determined. Kidney tissue pathology was evaluated using H&E staining, PAS staining, and TEM. Thirdly, the functional role of the AGEs-RAGE-NF-\u03baB signaling pathway was experimentally validated. Finally, non-targeted urinary metabolomics was performed using UHPLC-QE-MS. Network pharmacology results showed 119 active compounds identified from YL could effectively treat DN through multiple mechanisms, including blood sugar control, anti-inflammation, anti-oxidation, and angiogenesis. Animal experiments confirmed that YL demonstrated significant anti-diabetic and renoprotective effects in DN rats, notably improving glycemic control and ameliorating kidney damage. Among them, high-dose YL could significantly reduce blood glucose levels (p < 0.05), and improved kidney function by decreasing FBG, GHb, 24-hour urine protein, mALB, SCR, BUN and UACR (p < 0.05 or p < 0.01). It also decreased MDA, IL-1\u03b2, IL-6, and TNF-\u03b1, elevated SOD, and inhibited the expressions of AGEs, RAGE and NF-\u03baB in the kidney of DN rats (p < 0.05). Additionally, YL treatment could reverse the increase in five metabolites (including 2'-Deoxycytidine, octopine, palmitic acid, N-Carbobenzyloxy-glycine, and N-Acetylneuraminic acid) and the decrease in four metabolites (including \u03b1-Linolenic acid, l-Citrulline, l-tyrosine, and N-l-gamma-Glutamyl-l-leucine) in the urine of DN rats. These metabolites are involved in pathways such as phenylalanine/tyrosine/tryptophan biosynthesis, phenylalanine metabolism, \u03b1-linolenic acid metabolism, and arginine biosynthesis. YL treatment significantly mitigates kidney injury in DN rats by modulating the AGEs-RAGE axis and restoring metabolic homeostasis, thereby attenuating oxidative stress and inflammation. This research provides an experimental basis for the clinical application of YL in treating DN.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Diabetic Nephropathies",
+        "Drugs, Chinese Herbal",
+        "Network Pharmacology",
+        "Male",
+        "Metabolomics",
+        "Rats, Sprague-Dawley",
+        "Rats",
+        "Capsules",
+        "Diabetes Mellitus, Experimental",
+        "Kidney",
+        "Hypoglycemic Agents",
+        "Blood Glucose"
+      ],
+      "chemicals": [
+        "Drugs, Chinese Herbal",
+        "Capsules",
+        "Hypoglycemic Agents",
+        "Blood Glucose"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Xiaochun Zheng",
+        "Lan Xie",
+        "Haoran Xu",
+        "Jiayao Chen",
+        "Hanwen Xing",
+        "Yanping Yin"
+      ]
+    },
+    {
+      "pmid": "40768381",
+      "title": "Finerenone in Chronic Kidney Disease: A Comprehensive Review of Mechanisms, Efficacy and Safety.",
+      "abstract": "Chronic kidney disease (CKD) is a major global health issue that significantly impacts patients' quality of life and places a substantial burden on healthcare systems. Overactivation of the mineralocorticoid receptor (MR) plays a crucial role in kidney damage by promoting inflammation, fibrosis, and functional deterioration. Finerenone, a third-generation highly selective non-steroidal MR antagonist (MRA), has emerged as a promising therapeutic option for CKD. In this review, we discuss the mechanisms through which MR overactivation contributes to renal damage, the structural and pharmacokinetic characteristics of finerenone, and compare it with first- and second-generation MRAs. We also focus on the safety and efficacy of finerenone in clinical applications for CKD. Notably, finerenone demonstrated a reduction in the risk of hyperkalemia during treatment, with its high selectivity minimising treatment-related hormonal imbalances, offering a novel perspective. Furthermore, we explore the promising future of finerenone in both diabetic kidney disease (DKD) and non-diabetic CKD, presenting updates from recent clinical trials and new insights into its potential role in these populations. In clinical practice, combining finerenone with sodium-glucose cotransporter-2 (SGLT-2) inhibitors and renin-angiotensin system (RAS) inhibitors has demonstrated strong cardiorenal protective effects. However, further clinical evidence is needed regarding direct combinations of finerenone with RAS inhibitors. Future studies on their synergistic effects may provide valuable insights. Ultimately, we hope this review offers new perspectives on finerenone's clinical applications and its future therapeutic prospects.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Renal Insufficiency, Chronic",
+        "Mineralocorticoid Receptor Antagonists",
+        "Naphthyridines",
+        "Diabetic Nephropathies"
+      ],
+      "chemicals": [
+        "finerenone",
+        "Mineralocorticoid Receptor Antagonists",
+        "Naphthyridines"
+      ],
+      "journal": "Diabetes/metabolism research and reviews",
+      "authors": [
+        "Yonglu Hu",
+        "Chengqian Li",
+        "Shufa Li",
+        "Lili Xu",
+        "Yangang Wang",
+        "Bingzi Dong"
+      ]
+    },
+    {
+      "pmid": "40818186",
+      "title": "Reynoutrin activates Sirt1/Foxo3a and Nrf2 pathway via targeting Fyn to ameliorate diabetic nephropathy.",
+      "abstract": "Diabetic nephropathy (DN) is a major complication of diabetes, associated with high mortality and disability rates. Fyn kinase has emerged as a promising therapeutic target for DN due to its antioxidant properties. However, effective therapeutic agents specifically targeting Fyn are still lacking. This study aimed to identify a novel natural Fyn inhibitor and explore its therapeutic effects and mechanisms in DN. A structure-based virtual screening of 60,556 natural compounds was conducted to discover Fyn-targeting molecules. The interaction between the compound and Fyn was validated by drug affinity responsive target stability, differential scanning fluorimetry, surface plasmon resonance, molecular docking, and cellular thermal shift assay. Therapeutic efficacy was assessed in streptozotocin (STZ) combined high-fat-fed diabetic mice and high glucose-stimulated glomerular mesangial cells. Non-targeted metabolomics was used to explore potential mechanisms. We identified reynoutrin, a natural small molecule, as a potent inhibitor of Fyn from a library of 60,556 natural compounds. Reynoutrin directly interacted with the Fyn protein, forming five key hydrogen bonds that inhibited both the expression and phosphorylation of Fyn. Non-targeted metabolomics linked reynoutrin's effects to the Foxo signaling pathway and oxidative phosphorylation. Mechanistically, reynoutrin activated the downstream Sirt1/Foxo3a and Nrf2 antioxidant signaling pathways by inhibiting Fyn, thereby enhancing the activity of antioxidant enzymes and alleviating diabetic renal injury. Our results emphasize the efficacy of reynoutrin in treating DN and demonstrate its broader therapeutic potential through Fyn inhibition.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Diabetic Nephropathies",
+        "Proto-Oncogene Proteins c-fyn",
+        "NF-E2-Related Factor 2",
+        "Forkhead Box Protein O3",
+        "Mice",
+        "Diabetes Mellitus, Experimental",
+        "Sirtuin 1",
+        "Male",
+        "Signal Transduction",
+        "Mice, Inbred C57BL",
+        "Molecular Docking Simulation",
+        "Mesangial Cells",
+        "Humans"
+      ],
+      "chemicals": [
+        "Proto-Oncogene Proteins c-fyn",
+        "NF-E2-Related Factor 2",
+        "Forkhead Box Protein O3",
+        "Sirtuin 1",
+        "Fyn protein, mouse",
+        "Nfe2l2 protein, mouse",
+        "FoxO3 protein, mouse",
+        "Sirt1 protein, mouse"
+      ],
+      "journal": "Phytomedicine : international journal of phytotherapy and phytopharmacology",
+      "authors": [
+        "Shanshan Li",
+        "Haiming Xiao",
+        "Xuting Zhang",
+        "Linjie Pan",
+        "Min Wen",
+        "Liyin Liang"
+      ]
+    },
+    {
+      "pmid": "40237854",
+      "title": "SGLT2 inhibitor empagliflozin ameliorates tubulointerstitial fibrosis in DKD by downregulating renal tubular PKM2.",
+      "abstract": "Sodium-glucose cotransporter 2 (SGLT2) inhibitors have been shown to prevent the progression of diabetic kidney disease (DKD). However, their impact on renal fibrosis remains largely uninvestigated. This study aimed to explore the effect of SGLT2 inhibitor empagliflozin on renal fibrosis in DKD patients and DKD models, and the molecular mechanisms involved. Kidney samples of DKD patients and DKD models were used in this study. DKD mouse models included STZ-treated CD-1 mice and HFD-fed C57BL/6 mice were all treated with empagliflozin for 6 to 12\u00a0weeks. Kidney pathological changes were analysed and fibrotic factors were detected. HK-2 cells were treated with normal glucose (NG), high glucose (HG), or HG with empagliflozin. RNA sequencing was employed to identify the differentially expressed genes. Epithelial-mesenchymal transition (EMT) markers were detected. Binding of transcription factor and target gene was determined using a dual-luciferase reporter assay. Empagliflozin significantly ameliorated kidney fibrosis in DKD patients and DKD models. This was evidenced by tubulointerstitial fibrosis reduction observed through PAS and Masson staining, along with fibrotic factors downregulation. RNA sequencing and the subsequent in vitro and in vivo validation identified PKM2 as the most significantly upregulated glycolytic enzyme in DKD patients and models. Empagliflozin downregulated PKM2 and alleviated EMT and renal fibrosis. Importantly, empagliflozin improves fibrosis by downregulating PKM2. The downregulation of PKM2 by empagliflozin was achieved by inhibiting the binding of estrogen-related receptor \u03b1 at the promoter. Empagliflozin ameliorates kidney fibrosis via downregulating PKM2 in DKD.",
+      "pub_date": "2025-04-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Animals",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Humans",
+        "Fibrosis",
+        "Diabetic Nephropathies",
+        "Mice, Inbred C57BL",
+        "Mice",
+        "Male",
+        "Epithelial-Mesenchymal Transition",
+        "Down-Regulation",
+        "Membrane Proteins",
+        "Thyroid Hormone-Binding Proteins",
+        "Kidney Tubules",
+        "Carrier Proteins",
+        "Cell Line",
+        "Sodium-Glucose Transporter 2",
+        "Pyruvate Kinase",
+        "Diabetes Mellitus, Experimental",
+        "Disease Models, Animal"
+      ],
+      "chemicals": [
+        "empagliflozin",
+        "Benzhydryl Compounds",
+        "Glucosides",
+        "Sodium-Glucose Transporter 2 Inhibitors",
+        "Membrane Proteins",
+        "Thyroid Hormone-Binding Proteins",
+        "Carrier Proteins",
+        "Pkm protein, mouse",
+        "Sodium-Glucose Transporter 2",
+        "Pyruvate Kinase"
+      ],
+      "journal": "Cellular and molecular life sciences : CMLS",
+      "authors": [
+        "Xiang Cai",
+        "Huanyi Cao",
+        "Meijun Wang",
+        "Piaojian Yu",
+        "Xiaoqi Liang",
+        "Hua Liang"
+      ]
+    }
+  ]
+}

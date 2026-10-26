@@ -1,0 +1,32 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_systemic_lupus_erythematosus_treatment> a holon:ClinicalQuestionHolon ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Systemic Lupus Erythematosus?"^^xsd:string ;
+    oe:answerText "Telitacicept, a new dual inhibitor of the cytokines B-lymphocyte stimulator (BLyS) and APRIL (a proliferation-inducing ligand), showed efficacy in adults with active systemic lupus erythematosus (SLE) in a phase 2b trial when added to standard therapy. We conducted a phase 3 trial in China in which participants with active SLE were randomly assigned (in a 1:1 ratio) to receive telitacicept (160 mg) or placebo subcutaneously once weekly for 52 weeks, in addition to standard therapy."^^xsd:string ;
+    oe:belongsToSpecialty "Rheumatology" ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_systemic_lupus_erythematosus_treatment-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_systemic_lupus_erythematosus_treatment-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_systemic_lupus_erythematosus_treatment-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_systemic_lupus_erythematosus_treatment-con> ;
+    holon:evidenceQualityThreshold "0.50"^^xsd:decimal .
+
+<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/systemic_lupus_erythematosus> .
+<https://example.org/openevidence/generated/ev_q_systemic_lupus_erythematosus_treatment_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_systemic_lupus_erythematosus_treatment_0-tt> ;
+    holon:confidence "0.90"^^xsd:decimal ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/41092329> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_systemic_lupus_erythematosus_treatment> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_systemic_lupus_erythematosus_treatment_0-tt> rdf:subject <https://example.org/openevidence/drugs/prednisone> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/systemic_lupus_erythematosus> .
+

@@ -1,0 +1,32 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_rheumatoid_arthritis_efficacy> a holon:ClinicalQuestionHolon ;
+    oe:questionText "How effective is methotrexate compared with other agents for Rheumatoid Arthritis?"^^xsd:string ;
+    oe:answerText "Patients with rheumatoid (RA) or psoriatic (PsA) arthritis can experience debilitating pain. Post hoc analyses of phase 3, double-blind studies in patients with active disease despite treatment (SELECT-COMPARE, SELECT-PsA 1) assessed the effects of upadacitinib or adalimumab versus placebo on pain in patients with attenuation of inflammation (AoI) versus remaining inflammation at weeks 12 and 24/26 (PsA/RA)."^^xsd:string ;
+    oe:belongsToSpecialty "Rheumatology" ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_rheumatoid_arthritis_efficacy-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_rheumatoid_arthritis_efficacy-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_rheumatoid_arthritis_efficacy-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_rheumatoid_arthritis_efficacy-con> ;
+    holon:evidenceQualityThreshold "0.50"^^xsd:decimal .
+
+<https://example.org/openevidence/drugs/methotrexate> oe:treats <https://example.org/openevidence/diseases/rheumatoid_arthritis> .
+<https://example.org/openevidence/generated/ev_q_rheumatoid_arthritis_efficacy_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_rheumatoid_arthritis_efficacy_0-tt> ;
+    holon:confidence "0.87"^^xsd:decimal ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/41506743> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_rheumatoid_arthritis_efficacy> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_rheumatoid_arthritis_efficacy_0-tt> rdf:subject <https://example.org/openevidence/drugs/methotrexate> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/rheumatoid_arthritis> .
+

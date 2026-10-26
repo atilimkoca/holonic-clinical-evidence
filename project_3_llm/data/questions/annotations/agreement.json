@@ -1,0 +1,13 @@
+{
+  "annotators": [
+    "proxy",
+    "simulated_second_pass"
+  ],
+  "n_items": 110,
+  "cohens_kappa": 0.7828,
+  "interpretation": "substantial",
+  "label_distribution_annotator1": {
+    "grounded": 40,
+    "A": 70
+  }
+}

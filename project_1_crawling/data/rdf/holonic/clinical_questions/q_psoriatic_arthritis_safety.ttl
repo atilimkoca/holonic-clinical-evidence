@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_psoriatic_arthritis_safety a holon:EntityEntry ;
+    holon:entity oed:psoriatic_arthritis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_psoriatic_arthritis_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_psoriatic_arthritis_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.52 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_psoriatic_arthritis_safety ;
+    holon:recordedOn "2025-10-01"^^xsd:date ;
+    oe:cites oesrc:40875187 .
+
+oedrug:methotrexate oe:causesSideEffect oesym:joint_pain .
+
+oeevt:ev_q_psoriatic_arthritis_safety-tt rdf:object oesym:joint_pain ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:methotrexate .
+
+oeq:q_psoriatic_arthritis_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Psoriatic Arthritis wi"@en ;
+    prov:generatedAtTime "2025-10-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.33 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_psoriatic_arthritis_safety-bnd ;
+    holon:hasContextGraph oeq:q_psoriatic_arthritis_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_psoriatic_arthritis_safety-int ;
+    holon:hasProjectionGraph oeq:q_psoriatic_arthritis_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Psoriatic Arthritis with methotrexate."^^xsd:string ;
+    holon:recordedOn "2025-10-01"^^xsd:date ;
+    holon:summaryConfidence 0.52 ;
+    oe:aboutDisease oed:psoriatic_arthritis ;
+    oe:answerText "We report the long-term safety of upadacitinib (oral, selective, and reversible Janus kinase inhibitor) in rheumatoid arthritis (RA), psoriatic arthritis (PsA), ankylosing spondylitis (AS), non-radiographic axial spondyloarthritis (nr-axSpA), atopic dermatitis (AD), Crohn's disease (CD), and ulcerative colitis (UC). Data were analyzed from 16 studies (data cutoff August 15, 2024)."^^xsd:string ;
+    oe:belongsToSpecialty "Rheumatology" ;
+    oe:cites oesrc:39572047,
+        oesrc:40329069,
+        oesrc:40439953,
+        oesrc:40875187 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Psoriatic Arthritis with methotrexate?"^^xsd:string .
+

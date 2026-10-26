@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_sepsis_safety a holon:EntityEntry ;
+    holon:entity oed:sepsis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_sepsis_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_sepsis_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.95 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_sepsis_safety ;
+    holon:recordedOn "2026-06-01"^^xsd:date ;
+    oe:cites oesrc:41568715 .
+
+oedrug:ceftriaxone oe:causesSideEffect oesym:fever .
+
+oeevt:ev_q_sepsis_safety-tt rdf:object oesym:fever ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:ceftriaxone .
+
+oeq:q_sepsis_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Sepsis with ceftriaxon"@en ;
+    prov:generatedAtTime "2026-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.57 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_sepsis_safety-bnd ;
+    holon:hasContextGraph oeq:q_sepsis_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_sepsis_safety-int ;
+    holon:hasProjectionGraph oeq:q_sepsis_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Sepsis with ceftriaxone."^^xsd:string ;
+    holon:recordedOn "2026-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.95 ;
+    oe:aboutDisease oed:sepsis ;
+    oe:answerText "ImportanceThe role of anticoagulant therapy as an adjuvant treatment for sepsis remains controversial. Although observational studies have often suggested benefits, large-scale randomized controlled trials have yielded conflicting results, and the risk-to-benefit profile across different anticoagulant agents remains unclear.ObjectiveTo evaluate the efficacy and safety of anticoagulant therapy and its effect on all-cause mortality and major bleeding events in adult patients with sepsis as well as explore differences between study designs and anticoagulant types."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    oe:cites oesrc:41316366,
+        oesrc:41480318,
+        oesrc:41568715,
+        oesrc:42190090 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Sepsis with ceftriaxone?"^^xsd:string .
+

@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_type_1_diabetes_mellitus_efficacy a holon:EntityEntry ;
+    holon:entity oed:type_1_diabetes_mellitus ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_type_1_diabetes_mellitus_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_type_1_diabetes_mellitus_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.58 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_type_1_diabetes_mellitus_efficacy ;
+    holon:recordedOn "2025-09-26"^^xsd:date ;
+    oe:cites oesrc:40991712 ;
+    oe:effectiveness "effective" .
+
+oedrug:insulin_glargine oe:treats oed:type_1_diabetes_mellitus .
+
+oeevt:ev_q_type_1_diabetes_mellitus_efficacy-tt rdf:object oed:type_1_diabetes_mellitus ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:insulin_glargine .
+
+oeq:q_type_1_diabetes_mellitus_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is insulin glargine compared with other agents for Type 1 Diabetes Mellitus?"@en ;
+    prov:generatedAtTime "2025-09-26T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.48 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_type_1_diabetes_mellitus_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_type_1_diabetes_mellitus_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_type_1_diabetes_mellitus_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_type_1_diabetes_mellitus_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Type 1 Diabetes Mellitus with insulin glargine."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_type_1_diabetes_mellitus_safety ;
+    holon:recordedOn "2025-09-26"^^xsd:date ;
+    holon:summaryConfidence 0.58 ;
+    oe:aboutDisease oed:type_1_diabetes_mellitus ;
+    oe:answerText "Oral delivery of insulin holds great promise for improving patient compliance. However, the harsh gastrointestinal environment, the low permeability of the intestinal epithelium, and hepatic clearance of foreign particles remain key challenges in this area."^^xsd:string ;
+    oe:belongsToSpecialty "Endocrinology" ;
+    oe:cites oesrc:40473952,
+        oesrc:40765373,
+        oesrc:40930617,
+        oesrc:40991712 ;
+    oe:questionText "How effective is insulin glargine compared with other agents for Type 1 Diabetes Mellitus?"^^xsd:string .
+

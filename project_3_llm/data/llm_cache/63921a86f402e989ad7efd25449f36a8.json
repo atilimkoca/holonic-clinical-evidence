@@ -1,0 +1,11 @@
+{
+  "text": "@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated#> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_acute_kidney_injury_treatment> a oeq:clinical-question ;\n  oe:interior <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-int> ;\n  oe:boundary <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-bou> ;\n  oe:projection <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-pro> ;\n  oe:context <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment-con> ;\n  oe:hasAnswer <https://example.org/openevidence/drugs/furosemide> ;\n  oe:treats <https://example.org/openevidence/diseases/acute_kidney_injury> .\n\n<https://example.org/openevidence/drugs/furosemide> oe:treats <https://example.org/openevidence/diseases/acute_kidney_injury> .",
+  "provider": "ollama",
+  "model": "qwen3:8b",
+  "prompt_tokens": 965,
+  "completion_tokens": 359,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1324
+}

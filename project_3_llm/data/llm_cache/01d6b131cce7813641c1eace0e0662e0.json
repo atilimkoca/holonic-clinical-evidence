@@ -1,0 +1,11 @@
+{
+  "text": "Here is the corrected Turtle output:\n\n```turtle\n@prefix holon: <https://example.org/holon#> .\n@prefix oe: <https://example.org/openevidence#> .\n@prefix oeq: <https://example.org/openevidence/questions/> .\n@prefix oegen: <https://example.org/openevidence/generated/> .\n@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .\n\n<https://example.org/openevidence/questions/q_addison_disease_efficacy> a holon:ClinicalQuestionHolon .\n\n<https://example.org/openevidence/questions/q_addison_disease_efficacy-int> a holon:InteriorGraph .\n<https://example.org/openevidence/questions/q_addison_disease_efficacy-bou> a holon:BoundaryGraph .\n<https://example.org/openevidence/questions/q_addison_disease_efficacy-pro> a holon:ProjectionGraph .\n<https://example.org/openevidence/questions/q_addison_disease_efficacy-con> a holon:ContextGraph .\n\n<https://example.org/openevidence/questions/q_addison_disease_efficacy>\n  a holon:ClinicalQuestionHolon ;\n  holon:hasInteriorGraph <https://example.org/openevidence/questions/q_addison_disease_efficacy-int> ;\n  holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_addison_disease_efficacy-bou> ;\n  holon:hasProjectionGraph <https://example.org/openevidence/questions/q_addison_disease_efficacy-pro> ;\n  holon:hasContextGraph <https://example.org/openevidence/questions/q_addison_disease_efficacy-con> ;\n  oe:questionText \"How effective is prednisone compared with other agents for Addison Disease?\" ;\n  oe:answerText \"Prednisone is effective for Addison Disease.\" ;\n  oe:answerText \"Other agents are not effective for Addison Disease.\" .\n\n<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/addison_disease> .\n```\n\nNote that I added the `oe:answerText` property to provide an answer to the clinical question, and I also added the `holon:hasInteriorGraph`, `holon:hasBoundaryGraph`, `holon:hasProjectionGraph`, and `holon:hasContextGraph` properties to provide the required graphs for the holon.",
+  "provider": "ollama",
+  "model": "llama3.1:8b",
+  "prompt_tokens": 795,
+  "completion_tokens": 573,
+  "cached": false,
+  "iterations": 1,
+  "meta": {},
+  "total_tokens": 1368
+}

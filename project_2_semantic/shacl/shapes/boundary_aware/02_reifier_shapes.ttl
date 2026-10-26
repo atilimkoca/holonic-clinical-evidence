@@ -1,0 +1,115 @@
+@prefix rdf:    <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd:    <http://www.w3.org/2001/XMLSchema#> .
+@prefix sh:     <http://www.w3.org/ns/shacl#> .
+@prefix holon:  <https://example.org/holon#> .
+@prefix oe:     <https://example.org/openevidence#> .
+
+# =============================================================================
+# SET A — BOUNDARY-AWARE SHACL  ·  FILE 2/4: REIFIER SHAPES (RDF 1.2)
+#
+# These shapes validate the metadata attached to RDF 1.2 reifications.
+# The canonical RDF 1.2 form is:
+#     :Drug oe:treats :Disease ~ :ev {| holon:confidence 0.9 ; ... |} .
+# Because rdflib 7.6 / pyshacl 0.31 do not yet execute the Turtle-1.2
+# annotation syntax nor sh:reifierShape, the corpus MATERIALISES each
+# reification as a reifier node typed holon:EvidenceAssertion linked by
+# rdf:reifies. We therefore target reifier nodes two equivalent ways:
+#   (a) sh:targetClass holon:EvidenceAssertion   (materialised form, runnable)
+#   (b) sh:targetSubjectsOf rdf:reifies          (article-1 native pattern)
+# Both select exactly the reifier nodes. See README "Threats to Validity".
+# =============================================================================
+
+# --- Evidence reifier --------------------------------------------------------
+
+oe:EvidenceReifierShape a sh:NodeShape ;
+    sh:targetClass holon:EvidenceAssertion ;
+    sh:targetSubjectsOf rdf:reifies ;
+    sh:severity sh:Violation ;
+    rdfs:comment "Validates the annotation block on an evidence assertion (confidence, level, provenance)."@en ;
+
+    # Confidence in [0,1] — exactly one (T1).
+    sh:property [
+        sh:path holon:confidence ;
+        sh:datatype xsd:decimal ;
+        sh:minCount 1 ; sh:maxCount 1 ;
+        sh:minInclusive 0.0 ; sh:maxInclusive 1.0 ;
+        sh:severity sh:Violation ;
+        sh:message "Evidence reification needs exactly one confidence in [0.0,1.0] (T1)." ;
+        sh:resultAnnotation [
+            sh:annotationProperty oe:injectedDefect ;
+            sh:annotationValue "structural-confidence" ;
+        ] ;
+    ] ;
+
+    # Evidence level from the controlled vocabulary (T1).
+    sh:property [
+        sh:path holon:evidenceLevel ;
+        sh:minCount 1 ;
+        sh:in ( "Level-1A" "Level-1B" "Level-2A" "Level-2B" "Level-3" "Level-4" "Level-5" ) ;
+        sh:severity sh:Violation ;
+        sh:message "Evidence must declare a recognised evidence level (T1)." ;
+    ] ;
+
+    # Provenance: assessor + recording date (T1 / context layer).
+    sh:property [
+        sh:path holon:assessedBy ;
+        sh:minCount 1 ;
+        sh:severity sh:Warning ;
+        sh:message "Evidence reification should identify its assessor (provenance)." ;
+    ] ;
+    sh:property [
+        sh:path holon:recordedOn ;
+        sh:datatype xsd:date ;
+        sh:minCount 1 ;
+        sh:severity sh:Warning ;
+        sh:message "Evidence reification should carry a recording date." ;
+    ] ;
+
+    # Citation must resolve to a typed EvidenceSource (T2 referential).
+    sh:property [
+        sh:path oe:cites ;
+        sh:class oe:EvidenceSource ;
+        sh:minCount 1 ;
+        sh:severity sh:Violation ;
+        sh:message "Evidence reification must cite at least one typed source (T2)." ;
+        sh:reifierShape oe:CitationReifierShape ;
+    ] ;
+
+    # Boundary-aware extra: the reifier must declare which holon owns it, so
+    # cross-holon checks (file 04) can run. A flat model omits this link.
+    sh:property [
+        sh:path holon:inHolon ;
+        sh:class holon:Holon ;
+        sh:minCount 1 ;
+        sh:severity sh:Warning ;
+        sh:message "Evidence reifier should be attached to its owning holon (boundary-aware)." ;
+    ] .
+
+# --- Citation reifier (nested) ----------------------------------------------
+# Referenced via sh:reifierShape above; runnable on materialised citation nodes.
+
+oe:CitationReifierShape a sh:NodeShape ;
+    sh:severity sh:Info ;
+    sh:property [
+        sh:path oe:publicationDate ;
+        sh:datatype xsd:date ;
+        sh:maxCount 1 ;
+        sh:severity sh:Info ;
+        sh:message "Citation annotation date, if present, must be a date." ;
+    ] .
+
+# --- Causal-link reifier -----------------------------------------------------
+# Targets reifications of holon:inResponseTo / holon:influencedBy links.
+
+oe:CausalReifierShape a sh:NodeShape ;
+    sh:targetClass holon:StateTransition ;
+    sh:severity sh:Warning ;
+    sh:property [
+        sh:path holon:confidence ;
+        sh:datatype xsd:decimal ;
+        sh:minInclusive 0.0 ; sh:maxInclusive 1.0 ;
+        sh:maxCount 1 ;
+        sh:severity sh:Warning ;
+        sh:message "Causal reification confidence must be in [0.0,1.0]." ;
+    ] .

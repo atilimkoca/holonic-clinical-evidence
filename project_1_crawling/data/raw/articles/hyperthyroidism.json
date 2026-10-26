@@ -1,0 +1,384 @@
+{
+  "disease": "Hyperthyroidism",
+  "slug": "hyperthyroidism",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "38278171",
+      "title": "Hyperthyroidism.",
+      "abstract": "Thyrotoxicosis causes a variety of symptoms and adverse health outcomes. Hyperthyroidism refers to increased thyroid hormone synthesis and secretion, most commonly from Graves' disease or toxic nodular goitre, whereas thyroiditis (typically autoimmune, viral, or drug induced) causes thyrotoxicosis without hyperthyroidism. The diagnosis is based on suppressed serum concentrations of thyroid-stimulating hormone (TSH), accompanied by free thyroxine and total or free tri-iodothyronine concentrations, which are raised (overt hyperthyroidism) or within range (subclinical hyperthyroidism). The underlying cause is determined by clinical assessment, detection of TSH-receptor antibodies and, if necessary, radionuclide thyroid scintigraphy. Treatment options for hyperthyroidism include antithyroid drugs, radioactive iodine, and thyroidectomy, whereas thyroiditis is managed symptomatically or with glucocorticoid therapy. In Graves' disease, first-line treatment is a 12-18-month course of antithyroid drugs, whereas for goitre, radioactive iodine or surgery are preferred for toxic nodules or goitres. Evidence also supports long-term treatment with antithyroid drugs as an option for patients with Graves' disease and toxic nodular goitre.",
+      "pub_date": "2024-02-24",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antithyroid Agents",
+        "Goiter, Nodular",
+        "Iodine Radioisotopes",
+        "Thyroid Neoplasms",
+        "Hyperthyroidism",
+        "Graves Disease",
+        "Thyrotoxicosis",
+        "Thyroiditis"
+      ],
+      "chemicals": [
+        "Antithyroid Agents",
+        "Iodine Radioisotopes"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Layal Chaker",
+        "David S Cooper",
+        "John P Walsh",
+        "Robin P Peeters"
+      ]
+    },
+    {
+      "pmid": "39039206",
+      "title": "Graves disease: latest understanding of pathogenesis and treatment options.",
+      "abstract": "Graves disease is the most common cause of hyperthyroidism in iodine-sufficient areas. The main responsible mechanism is related to autoantibodies that bind and activate the thyrotropin receptor (TSHR). Although Graves hyperthyroidism is relatively common, no causal treatment options are available. Established treatment modalities are antithyroid drugs, which reduce thyroid hormone synthesis, radioactive iodine and surgery. However, emerging drugs that target the main autoantigen (monoclonal antibodies, small molecules, peptides) or block the immune pathway have been recently tested in clinical trials. Graves disease can involve the thyroid exclusively or it can be associated with extrathyroidal manifestations, among which Graves orbitopathy is the most common. The presence of Graves orbitopathy can change the management of the disease. An established treatment for moderate-to-severe Graves orbitopathy is intravenous glucocorticoids. However, recent advances in understanding the pathogenesis of Graves orbitopathy have allowed the development of new target-based therapies by blocking pro-inflammatory cytokine receptors, lymphocytic infiltration or the insulin-like growth factor 1 receptor (IGF1R), with several clinical trials providing promising results. This article reviews the new discoveries in the pathogenesis of Graves hyperthyroidism and Graves orbitopathy that offer several important tools in disease management.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Graves Disease",
+        "Graves Ophthalmopathy",
+        "Antithyroid Agents",
+        "Receptors, Thyrotropin",
+        "Glucocorticoids",
+        "Receptor, IGF Type 1",
+        "Autoantibodies"
+      ],
+      "chemicals": [
+        "Antithyroid Agents",
+        "Receptors, Thyrotropin",
+        "Glucocorticoids",
+        "Receptor, IGF Type 1",
+        "Autoantibodies"
+      ],
+      "journal": "Nature reviews. Endocrinology",
+      "authors": [
+        "Giulia Lanzolla",
+        "Michele Marin\u00f2",
+        "Francesca Menconi"
+      ]
+    },
+    {
+      "pmid": "39067967",
+      "title": "Thyroid Disorders.",
+      "abstract": "This article includes a review of information primary care physicians need to know direct their evaluation and treatment of thyroid disorders that include sick euthyroid, hyperthyroidism, hypothyroidism, and subclinical thyroid disorders.",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Thyroid Diseases",
+        "Primary Health Care",
+        "Hyperthyroidism",
+        "Hypothyroidism",
+        "Thyroid Function Tests"
+      ],
+      "chemicals": [],
+      "journal": "Primary care",
+      "authors": [
+        "Gauri Dhir",
+        "Vasudha Jain",
+        "Andrew Merritt"
+      ]
+    },
+    {
+      "pmid": "38165576",
+      "title": "Risk of recurrence at the time of withdrawal of short- or long-term methimazole therapy in patients with Graves' hyperthyroidism: a randomized trial and a risk-scoring model.",
+      "abstract": "In Graves' disease, administration of low-dose methimazole for more than 60 months induces higher remission rates compared with the conventional duration of 12-18 months. However, the risk of recurrence and its predictors beyond 48 months of drug withdrawal are not known. The aims of this study were to determine the risk of recurrence during 84 months after withdrawal of short- or long-term methimazole therapy and a risk stratification for recurrence of hyperthyroidism. A total of 258 patients were treated with methimazole for a median of 18 months and randomized to discontinuation of the drug(conventional short-term group; n\u2009=\u2009128) or continuation of the treatment up to 60-120 months(long-term group; n\u2009=\u2009130). Patients were followed for 84 months after methimazole withdrawal. Cox proportional hazards modeling was performed to identify factors associated with relapse and develop a risk-scoring model at the time of discontinuing the treatment. Hyperthyroidism recurred in 67 of 120(56%) of conventionally-treated patients versus 20 of 118(17%) of those who received long-term methimazole treatment, p\u2009<\u20090.001. Age, sex, goiter grade, triiodothyronine, thyrotropin, and thyrotropin receptor antibodies were significant predictors of recurrence in both \"conventional\" and \"long-term\" groups but free thyroxine just in the \"long-term\" group. The risk-scoring model had a good discrimination power (optimism corrected c-index\u2009=\u20090.78,95%CI\u2009=\u20090.73-0.82) with a range of 0-14 and sensitivity of 86% and specificity of 62% at the risk-score of eight. A relapse-free state was achieved in 83% of patients with Graves' hyperthyroidism 84 months after cessation of long-term methimazole treatment which could be predicted by some significant predictors in a simple risk-scoring system.",
+      "pub_date": "2024-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Methimazole",
+        "Graves Disease",
+        "Female",
+        "Male",
+        "Antithyroid Agents",
+        "Adult",
+        "Middle Aged",
+        "Recurrence",
+        "Risk Assessment",
+        "Withholding Treatment",
+        "Time Factors",
+        "Drug Administration Schedule"
+      ],
+      "chemicals": [
+        "Methimazole",
+        "Antithyroid Agents"
+      ],
+      "journal": "Endocrine",
+      "authors": [
+        "Fereidoun Azizi",
+        "Atieh Amouzegar",
+        "Davood Khalili",
+        "Hengameh Abdi",
+        "Maryam Tohidi",
+        "Mehdi Hedayati"
+      ]
+    },
+    {
+      "pmid": "38824618",
+      "title": "Long-Term Efficacy of Teprotumumab in Thyroid Eye Disease: Follow-Up Outcomes in Three Clinical Trials.",
+      "abstract": "",
+      "pub_date": "2024-07-01",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Diplopia",
+        "Exophthalmos",
+        "Follow-Up Studies",
+        "Graves Ophthalmopathy",
+        "Receptor, IGF Type 1",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Receptor, IGF Type 1",
+        "teprotumumab"
+      ],
+      "journal": "Thyroid : official journal of the American Thyroid Association",
+      "authors": [
+        "George J Kahaly",
+        "Prem S Subramanian",
+        "Elizabeth Conrad",
+        "Robert J Holt",
+        "Terry J Smith"
+      ]
+    },
+    {
+      "pmid": "40145088",
+      "title": "Targeted immunotherapies for Graves' thyroidal & orbital diseases.",
+      "abstract": "Graves' hyperthyroidism and its associated Graves' orbitopathy are common autoimmune disorders associated with significant adverse health impact. Current standard treatments have limitations regarding efficacy and safety, and most do not specifically target the pathogenic mechanisms. We aim to review the latest development of targeted immunotherapies in these two closely related disorders. Targeted immunotherapies of Graves' hyperthyroidism have recently demonstrated clinical efficacy in early phase clinical studies. They include rituximab, an anti-CD20 monoclonal antibody which causes rapid B cell depletion; ATX-GD-59, an antigen specific immunotherapy which restores immune tolerance to thyrotropin receptor; iscalimab, an anti-CD40 monoclonal antibody which blocks the CD40-CD154 co-stimulatory pathway in B-T cell interaction; and K1-70, a thyrotropin receptor blocking monoclonal antibody. Furthermore, there have been major therapeutic advances in the management of Graves' orbitopathy. Mycophenolate has a dual mechanism of action both inhibiting the proliferation of activated B & T cells as well as the mammalian target of rapamycin growth intracellular pathway. Rituximab appears to be effective in active disease of recent onset without impending dysthyroid optic neuropathy. Both tocilizumab (anti-interleukin 6 receptor monoclonal antibody) and sirolimus (mammalian target of rapamycin inhibitor) showed promise in glucocorticoid resistant active disease. Teprotumumab, an anti-insulin-like growth factor-1 receptor monoclonal antibody, demonstrated remarkable all-round efficacy across a wide disease spectrum. Linsitinib, a dual small molecule inhibitor of insulin-like growth factor-1 receptor and insulin receptor, displayed significant proptosis reduction in its phase 2b/3 study. Finally, Batoclimab, an anti-neonatal fragment crystallizable receptor monoclonal antibody, which blocks recycling of pathogenic thyrotropin receptor antibody, showed promising signals for significant proptosis reduction, disease inactivation, overall response, and improvement of quality of life. Therapeutic advances will continue to optimize our management of Graves' hyperthyroidism and its associated orbitopathy in an effective and safe manner.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Graves Ophthalmopathy",
+        "Immunotherapy",
+        "Graves Disease",
+        "Molecular Targeted Therapy",
+        "Animals",
+        "Antibodies, Monoclonal",
+        "Rituximab"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal",
+        "Rituximab"
+      ],
+      "journal": "Frontiers in immunology",
+      "authors": [
+        "Alan Chun Hong Lee",
+        "George J Kahaly"
+      ]
+    },
+    {
+      "pmid": "40376729",
+      "title": "Considerations in the Diagnosis and Management of Thyroid Dysfunction in Older Adults.",
+      "abstract": "",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Aged",
+        "Hypothyroidism",
+        "Hyperthyroidism",
+        "Thyroxine",
+        "Cardiovascular Diseases",
+        "Thyrotropin",
+        "Aged, 80 and over"
+      ],
+      "chemicals": [
+        "Thyroxine",
+        "Thyrotropin"
+      ],
+      "journal": "Thyroid : official journal of the American Thyroid Association",
+      "authors": [
+        "Sina Jasim",
+        "Maria Papaleontiou"
+      ]
+    },
+    {
+      "pmid": "37925673",
+      "title": "Efficacy and Safety of Teprotumumab in Patients With Thyroid Eye Disease of Long Duration and Low Disease Activity.",
+      "abstract": "Early inflammatory thyroid eye disease (TED) can lead to symptomatic chronic disease, including disabling proptosis. Teprotumumab, an insulin-like growth factor-1 receptor (IGF-1R) inhibitor, previously demonstrated efficacy in acute, high-inflammation TED trials. We present data from the first placebo-controlled trial with teprotumumab in chronic/low disease activity TED. This randomized double-masked, placebo-controlled trial, conducted at 11 US centers, enrolled adult participants with TED duration of 2 to 10 years, Clinical Activity Score (CAS) \u2264 1 or no additional inflammation or progression in proptosis/diplopia for \u22651 year, proptosis \u22653 mm from before TED and/or from normal, euthyroid/mildly hypo/hyperthyroid, no prior teprotumumab, and no steroids within 3 weeks of baseline. Patients received (2:1) intravenous teprotumumab or placebo once every 3 weeks (total 8 infusions). The primary endpoint was proptosis (mm) improvement at Week 24. Adverse events (AEs) were assessed. A total of 62 (42 teprotumumab and 20 placebo) patients were randomized. At Week 24, least squares mean (SE) proptosis improvement was greater with teprotumumab (-2.41 [0.228]) than with placebo (-0.92 [0.323]), difference -1.48 (95% CI -2.28, -0.69; P = .0004). Proportions of patients with AEs were similar between groups. Hyperglycemia was reported in 6 (15%) vs 2 (10%) and hearing impairment in 9 (22%) vs 2 (10%) with teprotumumab and placebo, respectively. AEs led to discontinuation in 1 teprotumumab (left ear conductive hearing loss with congenital anomaly) and 1 placebo patient (infusion-related). There were no deaths. Teprotumumab significantly improved proptosis vs placebo in longstanding/low inflammation TED, demonstrating efficacy regardless of disease duration/activity. The safety profile was comparable to that previously reported.",
+      "pub_date": "2023-12-21",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Antibodies, Monoclonal, Humanized",
+        "Exophthalmos",
+        "Graves Ophthalmopathy",
+        "Inflammation",
+        "Protein Kinase Inhibitors",
+        "Double-Blind Method"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Protein Kinase Inhibitors",
+        "teprotumumab"
+      ],
+      "journal": "The Journal of clinical endocrinology and metabolism",
+      "authors": [
+        "Raymond S Douglas",
+        "Steven Couch",
+        "Sara T Wester",
+        "Brian T Fowler",
+        "Catherine Y Liu",
+        "Prem S Subramanian"
+      ]
+    },
+    {
+      "pmid": "40832786",
+      "title": "Subclinical hyperthyroidism.",
+      "abstract": "Subclinical hyperthyroidism is a clinical condition where thyroid-stimulating hormone (TSH) is below the normal range along with normal levels of circulating thyroid hormones. It is associated with cardiovascular complications such as atrial fibrillation, but the effects on other organ systems is less certain. There are areas of uncertainty in the management of this condition, which this review seeks to address by reviewing relevant literature from the last 18 months. Data on prevalence from recent meta-analyses are in line with previous studies. Individual TSH reference ranges are influenced by genetic factors, which suggests that current reference ranges may be leading to misdiagnosis. Further research has increased the strength of evidence for the association with atrial fibrillation. A meta-analysis has shown increased risk of osteoporosis and fractures. Data support an association between subclinical hyperthyroidism and dementia. A randomised controlled trial has recently been conducted to investigate the effect of treatment on atrial fibrillation incidence, in which post hoc-analysis showed normalisation of TSH decreased risk of atrial fibrillation. Degree of TSH suppression is an important element of clinical assessment. Subclinical hyperthyroidism is associated with atrial fibrillation, osteoporosis and dementia. Further research in this field is warranted.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hyperthyroidism",
+        "Thyrotropin",
+        "Atrial Fibrillation",
+        "Osteoporosis",
+        "Risk Factors",
+        "Prevalence"
+      ],
+      "chemicals": [
+        "Thyrotropin"
+      ],
+      "journal": "Current opinion in endocrinology, diabetes, and obesity",
+      "authors": [
+        "Alasdair Cooper",
+        "Prakash Abraham"
+      ]
+    },
+    {
+      "pmid": "39701285",
+      "title": "Management Aspects of Medical Therapy in Graves Disease.",
+      "abstract": "Graves disease (GD) is the most common cause of hyperthyroidism. Treatment options include antithyroid drugs (ATDs), radioactive iodine, and surgery. In this review, we focus on the medical aspects of managing GD. The authors conducted a literature review of PubMed to include studies and review articles on GD management, ATDs, long-term safety of antithyroid drugs, hyperthyroidism in pregnancy, Graves ophthalmopathy, and special circumstances related to hyperthyroidism. In adjunction to ATDs, medical management for GD also includes beta-blockers, glucocorticoids, and iodine containing agents. ATDs are currently the preferred option for initial management of GD, reflecting a shift in practice observed in the United States over the past 2 decades. ATDs in appropriate doses are well-tolerated and safe when used for longer duration, during pregnancy, and other circumstances discussed in this article. Routine thyroid function tests are important for monitoring. Thyrotropin receptor antibody plays an essential role in determining duration of treatment and assessing the likelihood of recurrence. Medical management of GD with antithyroid drug is safe and effective. Long-term use beyond 24 months in patients with elevated thyrotropin receptor antibody is a reasonable alternative option to surgery and radioactive iodine due to higher rates of remission.",
+      "pub_date": "2025-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Graves Disease",
+        "Antithyroid Agents",
+        "Pregnancy",
+        "Female",
+        "Iodine Radioisotopes",
+        "Pregnancy Complications"
+      ],
+      "chemicals": [
+        "Antithyroid Agents",
+        "Iodine Radioisotopes"
+      ],
+      "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+      "authors": [
+        "Rutu Shah",
+        "Samantha E Adamson",
+        "Sina Jasim"
+      ]
+    },
+    {
+      "pmid": "37852417",
+      "title": "Teprotumumab-Related Adverse Events in Thyroid Eye Disease: A Multicenter Study.",
+      "abstract": "To assess the duration, incidence, reversibility, and severity of adverse events (AEs) in patients with thyroid eye disease (TED) treated with teprotumumab. Multicenter, retrospective, observational cohort study. Patients with TED of all stages and activity levels treated with at least 4 infusions of teprotumumab. Patients were treated with teprotumumab between February 2020 and October 2022 at 6 tertiary centers. Adverse event metrics were recorded at each visit. The primary outcomes measure was AE incidence and onset. Secondary outcome measures included AE severity, AE reversibility, AE duration, proptosis response, clinical activity score (CAS) reduction, and Gorman diplopia score improvement. The study evaluated 131 patients. Proptosis improved by 2 mm or more in 77% of patients (101/131), with average proptosis improvement of 3.0 \u00b1 2.1 mm and average CAS reduction of 3.2 points. Gorman diplopia score improved by at least 1 point for 50% of patients (36/72) with baseline diplopia. Adverse events occurred in 81.7% of patients (107/131). Patients experienced a median of 4 AEs. Most AEs were mild (74.0% [97/131]), 28.2% (37/131) were moderate, and 8.4% (11/131) were severe. Mean interval AE onset was 7.9\u00a0weeks after the first infusion. Mean resolved AE duration was 17.6 weeks. Forty-six percent of patients (60/131) demonstrated at least 1 persistent AE at last follow-up. Mean follow-up was 70.2 \u00b1 38.5 weeks after the first infusion. The most common type of AEs was musculoskeletal (58.0% [76/131]), followed by gastrointestinal (38.2% [50/131]), skin (38.2% [50/131]), ear and labyrinth (30.5% [40/131]), nervous system (20.6% [27/131]), metabolic (15.3% [20/131]), and reproductive system (12.2% [16/131]). Sixteen patients (12.2%) discontinued therapy because of AEs, including hearing loss (n\u00a0= 4), inflammatory bowel disease flare (n\u00a0= 2), hyperglycemia (n\u00a0= 1), muscle spasms (n\u00a0= 1), and multiple AEs (n\u00a0= 8). Adverse events are commonly reported while receiving teprotumumab treatment. Most are mild and reversible; however, serious AEs can occur and may warrant treatment cessation. Treating physicians should inform patients about AE risk, properly screen patients before treatment, monitor patients closely throughout therapy, and understand how to manage AEs should they develop. Proprietary or commercial disclosure may be found in the Footnotes and Disclosures at the end of this article.",
+      "pub_date": "2024-04-01",
+      "publication_types": [
+        "Observational Study",
+        "Multicenter Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Graves Ophthalmopathy",
+        "Retrospective Studies",
+        "Diplopia",
+        "Exophthalmos",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "chemicals": [
+        "teprotumumab",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "Ophthalmology",
+      "authors": [
+        "Shreya A Shah",
+        "Linus Amarikwa",
+        "Connie M Sears",
+        "Kevin D Clauss",
+        "Raneem D Rajjoub",
+        "Julia Y Kang"
+      ]
+    },
+    {
+      "pmid": "38552097",
+      "title": "Diagnostic criteria and scoring systems for thyroid storm: An evaluation of their utility - comparative review.",
+      "abstract": "A thyroid storm is a life-threatening endocrine emergency characterized by severe hyperthyroidism and many systemic manifestations. Prompt recognition and treatment are essential for patient survival. This study evaluates the utility of existing diagnostic criteria and scoring systems for thyroid storm. A comprehensive literature review encompassed articles published up to December 2023. Various diagnostic criteria and scoring systems, such as the Burch-Wartofsky Point Scale and the Japanese Thyroid Association criteria, were critically assessed based on their sensitivity, specificity, and clinical applicability. Our findings reveal that existing diagnostic criteria and scoring systems, although valuable tools, exhibit limitations. They may lack sensitivity in identifying milder cases of thyroid storm or fail to differentiate it from other critical conditions. Furthermore, some criteria rely heavily on subjective clinical Judgment, which can vary among healthcare providers. Future research should focus on refining existing criteria and developing more objective and universally applicable diagnostic tools to address these limitations. Incorporating advanced laboratory markers and modern imaging techniques may enhance diagnostic accuracy. Additionally, a standardized scoring system approach could improve clinical practice consistency. In conclusion, while current diagnostic criteria and scoring systems provide a foundation for identifying thyroid storm, their utility has shortcomings. Advancements in diagnostic methods and a collaborative effort to establish standardized criteria are imperative to enhance the accuracy and reliability of thyroid storm diagnosis, ultimately improving patient outcomes.",
+      "pub_date": "2024-03-29",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Thyroid Crisis",
+        "Reproducibility of Results"
+      ],
+      "chemicals": [],
+      "journal": "Medicine",
+      "authors": [
+        "Chukwuka Elendu",
+        "Dependable C Amaechi",
+        "Emmanuel C Amaechi",
+        "Nkechi L Chima-Ogbuiyi",
+        "Rechner N Afuh",
+        "Divine B Arrey Agbor"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,452 @@
+{
+  "disease": "Asthma",
+  "slug": "asthma",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41324154",
+      "title": "Allergic Rhinitis and Its Impact on Asthma (ARIA)-EAACI Guidelines-2024-2025 Revision: Part I-Guidelines on Intranasal Treatments.",
+      "abstract": "Allergic rhinitis (AR) impacts quality of life, work and school productivity. Over the last years, an important body of evidence resulting from mHealth data has led to a better understanding of AR. Such advances have motivated an EAACI-endorsed update of the Allergic Rhinitis and its Impact on Asthma (ARIA) guidelines (ARIA 2024-2025). This manuscript presents the ARIA 2024-2025 recommendations for intranasal treatments, one of the mainstays for AR management. The ARIA 2024-2025 guideline panel issued recommendations following the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) evidence-to-decision framework. Several sources of evidence were used to inform panel judgments and recommendations, including systematic reviews, evaluation of mHealth and pharmacovigilance data, as well as a survey of experts on costs. Eleven guideline questions concerning intranasal treatments for AR were prioritized, leading to recommendations. Overall, these questions concern the choice between different classes of intranasal medications-most notably, intranasal corticosteroids (INCS), antihistamines (INAH), fixed combinations of INAH+INCS and decongestants-or between different individual medications within each class. Four questions had not been evaluated in previous ARIA guidelines, while for the other three there was a change in the strength or directionality of recommendations. Overall, recommendations point to the suggested use of INAH+INCS over INAH or INCS and INCS over INAH. This ARIA 2024-2025 article supports patients, their caregivers, and healthcare professionals in choosing an intranasal treatment. However, decisions on AR treatment should consider the clinical variability of the disease, patients' values, and the affordability of medications.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Rhinitis, Allergic",
+        "Administration, Intranasal",
+        "Asthma",
+        "Practice Guidelines as Topic",
+        "Quality of Life",
+        "Disease Management",
+        "Anti-Allergic Agents"
+      ],
+      "chemicals": [
+        "Anti-Allergic Agents"
+      ],
+      "journal": "Allergy",
+      "authors": [
+        "Bernardo Sousa-Pinto",
+        "Jean Bousquet",
+        "Rafael Jos\u00e9 Vieira",
+        "Holger J Sch\u00fcnemann",
+        "Torsten Zuberbier",
+        "Antonio Bognanni"
+      ]
+    },
+    {
+      "pmid": "41038208",
+      "title": "Anti-cytokine biologics for asthma in adults.",
+      "abstract": "An estimated 3-10% of patients with asthma are unable to reach full control with currently available inhaled therapies. In a large proportion of these patients, asthma can be driven in whole or in part by type 2 (T2) inflammation, which is usually initiated by an immunological response to stimulation at mucosal surfaces. The introduction of monoclonal antibodies, which target T2 inflammatory processes, provides important options for this population. In the past decade, five anticytokine biologics (ACBs) that block specific T2 inflammatory cytokines have been introduced. Three biologics, mepolizumab, reslizumab, and benralizumab, inhibit the IL-5 or IL-5 receptor pathway; dupilumab blocks IL-4 and IL-13 through its activity on the IL-4 receptor-alpha; and tezepelumab prevents activation of the thymic stromal lymphopoietin cytokine production cascade. These drugs reduce exacerbations and improve lung function and patient-reported asthma quality of life in individuals with a history of asthma exacerbations and evidence of T2 inflammation. Some also allow oral corticosteroid reduction or elimination in patients dependent on these therapies for asthma control. The effect of ACBs varies by the degree of T2 inflammation, which is most easily assessed by blood eosinophil counts and exhaled nitric oxide. The use of ACBs guided by these biomarkers and phenotypic characteristics of patients with severe asthma allows a personalised medicine approach that increases the likelihood of improvement.",
+      "pub_date": "2025-11-08",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Asthma",
+        "Cytokines",
+        "Antibodies, Monoclonal, Humanized",
+        "Adult",
+        "Anti-Asthmatic Agents",
+        "Biological Products",
+        "Antibodies, Monoclonal",
+        "Interleukin-5"
+      ],
+      "chemicals": [
+        "Cytokines",
+        "Antibodies, Monoclonal, Humanized",
+        "Anti-Asthmatic Agents",
+        "Biological Products",
+        "benralizumab",
+        "mepolizumab",
+        "Antibodies, Monoclonal",
+        "reslizumab",
+        "dupilumab",
+        "tezepelumab",
+        "Interleukin-5"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Elliot Israel",
+        "Michael E Wechsler",
+        "David J Jackson",
+        "Wendy C Moore"
+      ]
+    },
+    {
+      "pmid": "41033334",
+      "title": "Dupilumab versus omalizumab in patients with chronic rhinosinusitis with nasal polyps and coexisting asthma (EVEREST): a multicentre, randomised, double-blind, head-to-head phase 4 trial.",
+      "abstract": "Chronic rhinosinusitis with nasal polyps (CRSwNP) is predominantly driven by type 2 inflammation. The biologics dupilumab and omalizumab, which target drivers and mediators of type 2 inflammation (interleukin [IL]-4/IL-13 signaling and immunoglobulin E [IgE], respectively), are efficacious in treating CRSwNP but direct comparisons are few. In EVEREST (EValuating trEatment RESponses of dupilumab versus omalizumab), the first head-to-head trial in respiratory biologics, we aimed to compare the efficacy and safety of dupilumab and omalizumab in patients with severe CRSwNP who had mild, moderate, or severe asthma. EVEREST was an international, randomised, double-blind, phase 4 trial, conducted at 100 hospitals or clinical centres in 17 countries. Sites were selected with otolaryngology, pneumologist, allergist, and immunologist practices; needed to have previously conducted double-blind studies; and were required have nasal endoscopy and electrocardiogram machines. Eligible patients aged 18 years or older with severe uncontrolled CRSwNP (with a nasal polyp score of 5 or more [and \u22652 for each nostril]), symptoms of nasal congestion and loss of smell for at least 8 weeks before screening, and physician-diagnosed asthma. Patients were randomly assigned (1:1) to subcutaneous dupilumab 300 mg every 2 weeks or omalizumab weight-tiered and IgE-tiered dosing every 2 weeks or 4 weeks for 24 weeks, with background mometasone furoate nasal spray. Patients and investigators were masked to the study drugs. Primary endpoints were change from baseline in endoscopic nasal polyp score and University of Pennsylvania Smell Identification Test (UPSIT) at 24 weeks. Efficacy was assessed in the intention-to-treat population and safety was assessed in patients who received at least one dose of study medication. The trial was registered at ClinicalTrials.gov, NCT04998604. Between Sept 27, 2021, and Dec 27, 2024, 819 individuals were screened for study inclusion, 459 were excluded (most common screen failures were: 167 did not meet nasal polyp score \u22655 or did not have ongoing symptoms of nasal congestion and loss of smell, 114 did not meet pre-bronchodilator FEV Dupilumab was superior to omalizumab in patients with severe CRSwNP and coexisting asthma. These findings support the efficacy of dupilumab in patients with type 2 respiratory diseases versus an active biologic comparator, the known safety profiles of dupilumab and omalizumab, and could enable better treatment targeting for patients with CRSwNP and asthma in clinical practice. Sanofi and Regeneron Pharmaceuticals.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Clinical Trial, Phase IV",
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Anti-Asthmatic Agents",
+        "Antibodies, Monoclonal, Humanized",
+        "Asthma",
+        "Chronic Disease",
+        "Double-Blind Method",
+        "Nasal Polyps",
+        "Omalizumab",
+        "Rhinitis",
+        "Rhinosinusitis",
+        "Sinusitis",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Anti-Asthmatic Agents",
+        "Antibodies, Monoclonal, Humanized",
+        "dupilumab",
+        "Omalizumab"
+      ],
+      "journal": "The Lancet. Respiratory medicine",
+      "authors": [
+        "Eugenio De Corso",
+        "G Walter Canonica",
+        "Enrico Heffler",
+        "Michal Springer",
+        "Tomasz Grzegorzek",
+        "Miguel Viana"
+      ]
+    },
+    {
+      "pmid": "41038212",
+      "title": "Reframing remission in severe asthma: a conceptual framework for distinguishing disease activity versus damage.",
+      "abstract": "Remission is emerging as a feasible treatment goal in moderate-to-severe asthma, driven by the success of biologic therapies in controlling inflammation and reducing exacerbations. Yet current definitions of remission-focused on symptom control, lung function, and corticosteroid reduction-lack precision, can only be ascertained retrospectively, and do not reflect the underlying mechanisms and pathology that drive disease progression. This gap limits the clinical applicability of these definitions and might obscure opportunities for early, disease-modifying intervention. In this Series paper, we propose a refined framework for understanding and reaching remission, centred on distinguishing modifiable disease activity from irreversible remodelling and comorbidity-related factors that contribute to disease burden. We introduce the concept of at-risk asthma as a crucial phase characterised by high disease activity and immune dysregulation, in which timely intervention might prevent irreversible airway and extrapulmonary damage and support long-term disease modification. We examine how symptoms, lung function impairment, and exacerbations can arise from distinct and overlapping mechanisms, underscoring the need for careful attribution in clinical assessment. We also outline four key pathophysiological domains-airway hyper-responsiveness, immune hyper-responsiveness, immune remodelling, and structural remodelling-and describe their temporal evolution and implications for treatment responsiveness. Finally, we present a domain-based strategy for assessment and intervention, linking targeted therapies to underlying mechanisms. This approach supports more personalised treatment decisions and redefines remission, not simply as the absence of symptoms, but as stabilisation of disease biology. As the field advances towards earlier intervention and more tailored application of biologics in at-risk asthma, such a framework could be essential to improve long-term outcomes and prevent overtreatment of irreversible disease.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Asthma",
+        "Remission Induction",
+        "Disease Progression",
+        "Severity of Illness Index",
+        "Anti-Asthmatic Agents",
+        "Airway Remodeling"
+      ],
+      "chemicals": [
+        "Anti-Asthmatic Agents"
+      ],
+      "journal": "The Lancet. Respiratory medicine",
+      "authors": [
+        "Celeste Porsbjerg",
+        "Hitasha Rupani",
+        "John D Brannan",
+        "Shigeharu Ueki",
+        "Martijn C Nawijn",
+        "Jonas S Erjef\u00e4lt"
+      ]
+    },
+    {
+      "pmid": "41033330",
+      "title": "Budesonide-formoterol versus salbutamol as reliever therapy in children with mild asthma (CARE): a 52-week, open-label, multicentre, superiority, randomised controlled trial.",
+      "abstract": "Combination inhaled corticosteroid-formoterol reliever monotherapy reduces the rate of asthma attacks compared to short-acting \u03b2 CARE was a 52-week, open-label, parallel-group, multicentre, superiority, randomised controlled trial in children aged 5-15 years with asthma using SABA reliever monotherapy at 15 clinical trials sites in New Zealand. Participants were randomly assigned (1:1) to either budesonide 50 \u03bcg-formoterol 3 \u03bcg, two actuations as needed, or salbutamol 100 \u03bcg, two actuations as needed. The primary outcome was asthma attacks as rate per participant per year. This trial was registered with the Australian New Zealand Clinical Trials Registry, ACTRN12620001091998. From Jan 28, 2021, to June 23, 2023, we assessed 382 participants for eligibility. We randomly assigned 360 (94%) participants to treatment (179 [50%] to the budesonide-formoterol group and 181 [50%] to the salbutamol group). The annualised rate of asthma attacks was lower in the budesonide-formoterol group than in the salbutamol group-cluster-adjusted rates 0\u00b723 versus 0\u00b741 per participant per year (relative rate 0\u00b755 [95% CI 0\u00b735-0\u00b786]; p=0\u00b7012). The number of participants with at least one adverse event was 162 (91%) in the budesonide-formoterol group and 167 (92%) in the salbutamol group (odds ratio 0\u00b779 [95% CI 0\u00b735-1\u00b779]). In children aged 5-15 years with mild asthma, budesonide-formoterol reliever monotherapy is superior to salbutamol for preventing asthma attacks, with a similar safety profile. Health Research Council of New Zealand, Cure Kids New Zealand, and the Barbara Basham Medical Charitable Trust (managed by Perpetual Guardian).",
+      "pub_date": "2025-10-04",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Comparative Study",
+        "Equivalence Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Child",
+        "Asthma",
+        "Female",
+        "Male",
+        "Albuterol",
+        "Adolescent",
+        "Child, Preschool",
+        "Administration, Inhalation",
+        "Bronchodilator Agents",
+        "Formoterol Fumarate",
+        "Treatment Outcome",
+        "Budesonide",
+        "Budesonide, Formoterol Fumarate Drug Combination",
+        "Anti-Asthmatic Agents",
+        "New Zealand",
+        "Adrenergic beta-2 Receptor Agonists"
+      ],
+      "chemicals": [
+        "Albuterol",
+        "Bronchodilator Agents",
+        "Formoterol Fumarate",
+        "Budesonide",
+        "Budesonide, Formoterol Fumarate Drug Combination",
+        "Anti-Asthmatic Agents",
+        "Adrenergic beta-2 Receptor Agonists"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Lee Hatter",
+        "Mark Holliday",
+        "Karen Oldfield",
+        "Cil\u00e9in Kearns",
+        "Tasmin Barry",
+        "Melissa Black"
+      ]
+    },
+    {
+      "pmid": "41005695",
+      "title": "Biologic Management in Severe Asthma for Adults: An American College of Chest Physicians Clinical Practice Guideline.",
+      "abstract": "Severe asthma affects 5% to 10% of patients with asthma but constitutes close to one-half of the medical costs related to asthma due to higher morbidity and health care utilization. Biologic agents have become a standard of care in those unresponsive to standard treatments yet the choice of biologic agent is complex due to the varying mechanisms of action, efficacies, and lack of head-to-head comparisons. Therefore, clinicians need further clinical guidance to optimize their use. Panelists developed key clinical questions utilizing the population, intervention, comparator, and outcome (PICO) format to address choice of a biologic agent in severe asthma for adult patients aged \u2265 18 years. A comprehensive systematic search was performed using MEDLINE (via OVID), EMBASE, Web of Science, and CINAHL to identify relevant articles, which were then screened for inclusion using document evaluation tools. Each included article underwent quality assessment, data extraction, and pooled analysis to support grade level recommendation for each of the PICO questions. Our systematic review and critical analysis of the literature on the 7 PICO questions related to choice of biologic agent in severe asthma patients resulted in 7 evidence-based recommendations. Characteristics such as quality of life impairment, baseline lung function, frequency of exacerbation, baseline oral corticosteroid use, asthma endotype, biomarkers, and comorbid conditions can impact the biologic choice. Evidence for selecting biologic agents in severe asthma is limited by the absence of comparative effectiveness trials. Additional high-quality evidence is needed to inform choice of biologic agents in these patients.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Practice Guideline"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Asthma",
+        "Adult",
+        "Anti-Asthmatic Agents",
+        "Severity of Illness Index",
+        "United States",
+        "Biological Products"
+      ],
+      "chemicals": [
+        "Anti-Asthmatic Agents",
+        "Biological Products"
+      ],
+      "journal": "Chest",
+      "authors": [
+        "Amber J Oberle",
+        "Farrukh Abbas",
+        "Muhammad Adrish",
+        "Ioana Agache",
+        "Megan Conroy",
+        "Angel O Coz Yataco"
+      ]
+    },
+    {
+      "pmid": "41882474",
+      "title": "Depemokimab: First Approval.",
+      "abstract": "Depemokimab (depemokimab-ulaa; EXDENSUR) is an anti-IL-5 antibody being developed by GSK for the treatment of asthma, chronic rhinosinusitis with nasal polyps (CRSwNP), chronic obstructive pulmonary disease, eosinophilic granulomatosis with polyangiitis and hypereosinophilic syndrome. Add-on treatment with depemokimab reduced asthma-related exacerbations in patients with severe asthma with an eosinophilic phenotype, in addition to reducing the severity of nasal polyps and nasal obstruction in patients with CRSwNP. This article summarizes the milestones in the development of depemokimab leading to this first approval in the UK as an add-on maintenance treatment of asthma in adult and adolescent patients aged \u2265 12 years with type 2 inflammation characterised by an eosinophilic phenotype who are inadequately controlled on maximum moderate-dose or high-dose inhaled corticosteroids plus another asthma controller; and as add-on therapy with intranasal corticosteroids for the treatment of adults with severe CRSwNP for whom therapy with systemic corticosteroids and/or surgery do not provide adequate control.",
+      "pub_date": "2026-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Antibodies, Monoclonal, Humanized",
+        "Asthma",
+        "Nasal Polyps",
+        "Sinusitis",
+        "Drug Approval",
+        "Rhinitis",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Anti-Asthmatic Agents",
+        "Interleukin-5",
+        "Adult"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Anti-Asthmatic Agents",
+        "Interleukin-5"
+      ],
+      "journal": "Drugs",
+      "authors": [
+        "Arnold Lee"
+      ]
+    },
+    {
+      "pmid": "41354402",
+      "title": "Impact of Mepolizumab on Airway Remodeling and Inflammation in Severe Eosinophilic Asthma.",
+      "abstract": "IL-5 is a key mediator of severe eosinophilic asthma (SEA) and also may contribute to airway remodeling. Can mepolizumab, an anti-IL-5 antibody, modify airway remodelling in adult patients with SEA? Thirty-seven patients who were eligible for mepolizumab were included prospectively. Mepolizumab 100 mg was administered subcutaneously every 4 weeks for 12 months. Bronchial biopsies and bronchoalveolar lavage (BAL) were performed at baseline, 6 months, and 12 months. Clinical and functional outcomes, airway remodeling, and inflammatory markers were assessed at each time point. At 12 months, mepolizumab was shown to improve asthma control and FVC before bronchodilation and reduce the number of exacerbations, oral corticosteroid courses, and hospitalizations. These clinical and functional improvements were associated with a reduction in reticular basement membrane thickness (P < 0.0001), airway smooth muscle (ASM) mass (P = .0066), and proliferating cell nuclear antigen-positive ASM cells (P < .0001) in the bronchial mucosa at both 6 and 12 months. BAL fluid showed reduced levels of tenascin-C at 6 and 12 months and of fibulin-1 at 12 months. Blood eosinophil counts decreased significantly (P < .0001), and eosinophils were almost completely depleted in BAL fluid (P = .023) at 12 months. Submucosal eosinophilia was reduced to a lesser extent (P = .063). In addition to its antiinflammatory effects, mepolizumab also may attenuate structural airway changes in SEA, which could contribute to its clinical benefits. ClinicalTrials.gov; No.: NCT03797404; URL: www. gov.",
+      "pub_date": "2026-04-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Asthma",
+        "Female",
+        "Airway Remodeling",
+        "Male",
+        "Adult",
+        "Prospective Studies",
+        "Middle Aged",
+        "Antibodies, Monoclonal, Humanized",
+        "Bronchoalveolar Lavage Fluid",
+        "Treatment Outcome",
+        "Interleukin-5",
+        "Pulmonary Eosinophilia",
+        "Bronchi",
+        "Eosinophils",
+        "Inflammation",
+        "Severity of Illness Index"
+      ],
+      "chemicals": [
+        "mepolizumab",
+        "Antibodies, Monoclonal, Humanized",
+        "Interleukin-5"
+      ],
+      "journal": "Chest",
+      "authors": [
+        "Camille Taill\u00e9",
+        "Fatima Hamidi",
+        "Nicolas Heddebaut",
+        "Nicolas Pot\u00e9",
+        "Pierre Le Guen",
+        "Mathilde Le Brun"
+      ]
+    },
+    {
+      "pmid": "41160665",
+      "title": "The IL-33 and IL-4R\u03b1 blocking antibodies itepekimab and dupilumab modulate both distinct and common inflammatory mediators in asthma.",
+      "abstract": "Biologics targeting interleukin-4 receptor subunit \u03b1 (IL-4R\u03b1) and interleukin-33 (IL-33) have demonstrated clinical efficacy in asthma, highlighting the importance of IL-4, IL-13, and IL-33 in respiratory diseases. Despite this, few studies have linked preclinical models to human diseases or evaluated disease biology in clinical trials. To address these gaps, we evaluated transcriptional, cellular, and pathophysiological processes driven by IL-4/IL-13 and IL-33 using human innate cells in vitro, a mouse model of airway inflammation, and a bronchial allergen challenge (BAC) in house dust mite (HDM)-sensitized individuals with mild asthma. Our findings in mice revealed that the prophylactic blockade of IL-4/IL-13, but not IL-33, prevented the initiation of HDM-induced type 2 inflammation, whereas blocking IL-4R\u03b1 or IL-33 during peak inflammation ameliorated airway inflammation and remodeling. Each pathway had unique and overlapping effects on airway inflammation and remodeling, with combination blockade showing no additional benefit. Initiating either monotherapy during severe, mixed inflammation resulted in partial efficacy, whereas a combination of these two treatments led to a substantial reduction in airway inflammation and remodeling in sensitized mice. Some of these mechanistic observations translated to a human BAC model, where blocking IL-4R\u03b1 or IL-33 alone suppressed gene expression in sputum and circulating biomarkers. As observed in mice, combination treatment in individuals with allergic asthma did not provide additional benefit compared to monotherapy. Overall, these results provide insight into the differences in targeting IL-4R\u03b1 or IL-33 pathways in asthma independently or in combination.",
+      "pub_date": "2025-10-29",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Asthma",
+        "Animals",
+        "Antibodies, Monoclonal, Humanized",
+        "Interleukin-33",
+        "Humans",
+        "Interleukin-4 Receptor alpha Subunit",
+        "Inflammation Mediators",
+        "Mice",
+        "Inflammation",
+        "Female",
+        "Pyroglyphidae",
+        "Male"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized",
+        "Interleukin-33",
+        "dupilumab",
+        "Interleukin-4 Receptor alpha Subunit",
+        "Inflammation Mediators"
+      ],
+      "journal": "Science translational medicine",
+      "authors": [
+        "Seblewongel Asrat",
+        "Wei Keat Lim",
+        "Subhashini Srivatsan",
+        "Sivan Harel",
+        "Kaitlyn Gayvert",
+        "Dylan Birchard"
+      ]
+    },
+    {
+      "pmid": "41106877",
+      "title": "Asthma-Beyond Albuterol.",
+      "abstract": "Asthma is the most common respiratory disorder in children with a continued significant morbidity and mortality rate despite advancements made in the care of these patients. This review looks at the evidence-based literature to provide those treatments which will provide the best possible response from these patients.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Asthma",
+        "Albuterol",
+        "Bronchodilator Agents",
+        "Child"
+      ],
+      "chemicals": [
+        "Albuterol",
+        "Bronchodilator Agents"
+      ],
+      "journal": "Emergency medicine clinics of North America",
+      "authors": [
+        "Christopher S Amato",
+        "Mahsa Akhavan-Pajoohi"
+      ]
+    },
+    {
+      "pmid": "41461999",
+      "title": "Safety and Tolerability of Twice-Yearly Depemokimab in Patients with Asthma and Chronic Rhinosinusitis with Nasal Polyps: Pooled Results from SWIFT-1/-2 and ANCHOR-1/-2.",
+      "abstract": "Depemokimab, the first ultra-long-acting respiratory biologic, is under investigation for diseases with underlying type 2 (T2) inflammation. Subcutaneous depemokimab 100\u00a0mg was efficacious in patients with T2 asthma characterized by blood eosinophil count and in chronic rhinosinusitis with nasal polyps (CRSwNP) when administered twice-yearly in four Phase III randomized, double-blind, placebo-controlled studies (SWIFT-1/-2 and ANCHOR-1/-2, respectively). This pooled analysis examined the safety and tolerability of subcutaneous depemokimab 100\u00a0mg versus placebo in patients with T2 asthma and in CRSwNP. Adverse event (AE) frequency, severity, time-to-onset, duration, and relative risk (RR) were evaluated for depemokimab 100\u00a0mg and placebo administered subcutaneously every 26\u00a0weeks for 52\u00a0weeks using pooled SWIFT-1/-2 and ANCHOR-1/-2 data. The impact of immunogenicity on safety was also evaluated. Overall, 1290 patients from the four studies were included in the safety analysis population (773 [60%] received depemokimab; 517 [40%] received placebo). On-treatment AEs were reported by 73% and 78% of patients in the depemokimab and placebo groups, respectively; the majority were mild or moderate in intensity and transient, with similar durations between treatment groups. Serious AEs (SAEs; 5% and 10%, with depemokimab and placebo, respectively), and discontinuations due to AEs (<\u00a01% and 1%, respectively) were infrequent. No fatal AEs or treatment-related SAEs (per investigator assessment) were reported. RRs (vs. placebo) were similar for all common on-treatment AEs except asthma and back pain, which occurred less frequently in the depemokimab group compared with the placebo group. Antidrug antibodies and neutralizing antibodies occurred infrequently, and no association between antidrug antibody status and depemokimab efficacy was identified. In these studies, twice-yearly depemokimab 100\u00a0mg was generally well tolerated by patients with T2 asthma or CRSwNP over the 52-week treatment period, supporting the safety of the first ultra-long-acting biologic for these diseases. NCT04719832/NCT04718103/NCT05274750/NCT05281523.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase III",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Sinusitis",
+        "Nasal Polyps",
+        "Rhinitis",
+        "Antibodies, Monoclonal, Humanized",
+        "Asthma",
+        "Male",
+        "Female",
+        "Chronic Disease",
+        "Adult",
+        "Middle Aged",
+        "Double-Blind Method",
+        "Treatment Outcome",
+        "Drug Administration Schedule",
+        "Aged",
+        "Injections, Subcutaneous",
+        "Randomized Controlled Trials as Topic",
+        "Rhinosinusitis"
+      ],
+      "chemicals": [
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "Advances in therapy",
+      "authors": [
+        "Daniel J Jackson",
+        "Arnaud Bourdin",
+        "Allison Blackorby",
+        "Anna Leslie",
+        "Anna Vichiendilokkul",
+        "Peter Howarth"
+      ]
+    },
+    {
+      "pmid": "41060060",
+      "title": "Maintenance and Reliever Therapy in Pediatric Asthma: A Concise Review of Recent Evidence-Part I.",
+      "abstract": "Pediatric asthma is a chronic inflammatory respiratory condition characterized by recurrent wheezing, chest tightness, breathlessness, and coughing, which can significantly impact quality of life and lead to hospitalization or long-term lung impairment. The prevalence of asthma has increased globally, with higher rates in urban areas and developing countries. Current management strategies emphasize inhaled corticosteroids (ICS) as the cornerstone of treatment, with long-acting beta 2-agonists (LABAs) introduced for patients requiring additional symptom control. ICS-LABA combinations have demonstrated efficacy in reducing exacerbations, improving lung function, and lowering health care utilization. However, concerns persist regarding adherence, potential masking of airway inflammation, and optimal dosing. The emerging maintenance and reliever therapy (MART) approach integrates ICS and formoterol into a single inhaler for both maintenance and symptom relief, aiming to enhance adherence and optimize treatment outcomes. This review examines the current evidence supporting ICS-LABA therapy and introduces MART as a potential alternative for pediatric asthma management.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Asthma",
+        "Child",
+        "Anti-Asthmatic Agents",
+        "Adrenal Cortex Hormones",
+        "Administration, Inhalation",
+        "Adrenergic beta-2 Receptor Agonists"
+      ],
+      "chemicals": [
+        "Anti-Asthmatic Agents",
+        "Adrenal Cortex Hormones",
+        "Adrenergic beta-2 Receptor Agonists"
+      ],
+      "journal": "Pediatric annals",
+      "authors": [
+        "Rahaf Alharbi",
+        "Adel S Alharbi"
+      ]
+    }
+  ]
+}

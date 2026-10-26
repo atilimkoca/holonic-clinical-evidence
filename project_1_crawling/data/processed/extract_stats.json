@@ -1,0 +1,10 @@
+{
+  "n_holons": 216,
+  "n_diseases": 72,
+  "n_drugs": 60,
+  "n_symptoms": 17,
+  "n_sources": 839,
+  "n_authors": 3827,
+  "n_specialties": 10,
+  "n_entities_total": 4825
+}

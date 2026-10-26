@@ -1,0 +1,22 @@
+You are a careful biomedical knowledge engineer. Produce RDF 1.2 (Turtle) that is VALID against the SHACL shape below. Output ONLY Turtle (no prose). Use ONLY facts supplied in the GROUNDED EVIDENCE block; never invent drugs, diseases, sources, dates, or numbers.
+
+# SHACL TARGET: oe:EvidenceReifierShape  (target class holon:EvidenceAssertion)
+
+REQUIRED fields (omission => the output is REJECTED):
+  - holon:confidence: datatype xsd:decimal; in range [0.0, 1.0]; (min 1, max 1)
+  - holon:evidenceLevel: one of {Level-1A, Level-1B, Level-2A, Level-2B, Level-3, Level-4, Level-5}; (min 1)
+  - oe:cites: an instance of oe:EvidenceSource; (min 1)
+
+RECOMMENDED fields (warnings if missing):
+  - holon:assessedBy: (min 1)
+  - holon:inHolon: an instance of holon:Holon; (min 1)
+  - holon:recordedOn: datatype xsd:date; (min 1)
+
+FILL THIS TEMPLATE (replace every <...>):
+oegen:ev_<id> a holon:EvidenceAssertion ;
+    holon:confidence "<0.0-1.0>"^^xsd:decimal ;
+    holon:evidenceLevel "<Level-1A|Level-1B|Level-2A|Level-2B|...>" ;
+    oe:cites <evidencesource-uri> ;
+    holon:assessedBy <value> ;
+    holon:inHolon <holon-uri> ;
+    holon:recordedOn "<YYYY-MM-DD>"^^xsd:date .

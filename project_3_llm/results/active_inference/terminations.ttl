@@ -1,0 +1,61 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oegen:transition_q_acute_kidney_injury_treatment_3 a holon:StateTransition ;
+    holon:terminates oegen:ev_q_acute_kidney_injury_treatment_0 ;
+    holon:inHolon <https://example.org/openevidence/questions/q_acute_kidney_injury_treatment> ;
+    holon:confidence "0.38"^^xsd:decimal ;
+    holon:recordedOn "2026-12-27"^^xsd:date ;
+    oe:effectiveness "ineffective" ;
+    holon:rationale "Superseded by Level-1A contradicting evidence (KL surprise 0.55)." .
+
+oegen:transition_q_addison_disease_efficacy_0 a holon:StateTransition ;
+    holon:terminates oegen:ev_q_addison_disease_efficacy_0 ;
+    holon:inHolon <https://example.org/openevidence/questions/q_addison_disease_efficacy> ;
+    holon:confidence "0.55"^^xsd:decimal ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    oe:effectiveness "effective" ;
+    holon:rationale "Superseded by Level-1A contradicting evidence (KL surprise 0.54)." .
+
+oegen:transition_q_angina_pectoris_treatment_4 a holon:StateTransition ;
+    holon:terminates oegen:ev_q_angina_pectoris_treatment_0 ;
+    holon:inHolon <https://example.org/openevidence/questions/q_angina_pectoris_treatment> ;
+    holon:confidence "0.46"^^xsd:decimal ;
+    holon:recordedOn "2027-03-27"^^xsd:date ;
+    oe:effectiveness "ineffective" ;
+    holon:rationale "Superseded by Level-1A contradicting evidence (KL surprise 0.47)." .
+
+oegen:transition_q_aortic_stenosis_efficacy_0 a holon:StateTransition ;
+    holon:terminates oegen:ev_q_aortic_stenosis_efficacy_0 ;
+    holon:inHolon <https://example.org/openevidence/questions/q_aortic_stenosis_efficacy> ;
+    holon:confidence "0.50"^^xsd:decimal ;
+    holon:recordedOn "2026-04-01"^^xsd:date ;
+    oe:effectiveness "ineffective" ;
+    holon:rationale "Superseded by Level-1A contradicting evidence (KL surprise 0.07)." .
+
+oegen:transition_q_aortic_stenosis_efficacy_1 a holon:StateTransition ;
+    holon:terminates oegen:ev_q_aortic_stenosis_efficacy_0 ;
+    holon:inHolon <https://example.org/openevidence/questions/q_aortic_stenosis_efficacy> ;
+    holon:confidence "0.59"^^xsd:decimal ;
+    holon:recordedOn "2026-06-30"^^xsd:date ;
+    oe:effectiveness "effective" ;
+    holon:rationale "Superseded by Level-1A contradicting evidence (KL surprise 0.17)." .
+
+oegen:transition_q_aortic_stenosis_efficacy_4 a holon:StateTransition ;
+    holon:terminates oegen:ev_q_aortic_stenosis_efficacy_0 ;
+    holon:inHolon <https://example.org/openevidence/questions/q_aortic_stenosis_efficacy> ;
+    holon:confidence "0.44"^^xsd:decimal ;
+    holon:recordedOn "2027-03-27"^^xsd:date ;
+    oe:effectiveness "ineffective" ;
+    holon:rationale "Superseded by Level-1A contradicting evidence (KL surprise 0.50)." .
+
+oegen:transition_q_atrial_fibrillation_efficacy_3 a holon:StateTransition ;
+    holon:terminates oegen:ev_q_atrial_fibrillation_efficacy_0 ;
+    holon:inHolon <https://example.org/openevidence/questions/q_atrial_fibrillation_efficacy> ;
+    holon:confidence "0.49"^^xsd:decimal ;
+    holon:recordedOn "2026-12-27"^^xsd:date ;
+    oe:effectiveness "ineffective" ;
+    holon:rationale "Superseded by Level-1A contradicting evidence (KL surprise 1.28)." .

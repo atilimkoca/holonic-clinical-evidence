@@ -1,0 +1,379 @@
+{
+  "disease": "Status Epilepticus",
+  "slug": "status_epilepticus",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "37921621",
+      "title": "ACVIM Consensus Statement on the management of status epilepticus and cluster seizures in dogs and cats.",
+      "abstract": "Seizure emergencies (ie, status epilepticus [SE] and cluster seizures [CS]), are common challenging disorders with complex pathophysiology, rapidly progressive drug-resistant and self-sustaining character, and high morbidity and mortality. Current treatment approaches are characterized by considerable variations, but official guidelines are lacking. To establish evidence-based guidelines and an agreement among board-certified specialists for the appropriate management of SE and CS in dogs and cats. None. A panel of 5 specialists was formed to assess and summarize evidence in the peer-reviewed literature with the aim to establish consensus clinical recommendations. Evidence from veterinary pharmacokinetic studies, basic research, and human medicine also was used to support the panel's recommendations, especially for the interventions where veterinary clinical evidence was lacking. The majority of the evidence was on the first-line management (ie, benzodiazepines and their various administration routes) in both species. Overall, there was less evidence available on the management of emergency seizure disorders in cats in contrast to dogs. Most recommendations made by the panel were supported by a combination of a moderate level of veterinary clinical evidence and pharmacokinetic data as well as studies in humans and basic research studies. Successful management of seizure emergencies should include an early, rapid, and stage-based treatment approach consisting of interventions with moderate to preferably high ACVIM recommendations; management of complications and underlying causes related to seizure emergencies should accompany antiseizure medications.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Consensus Statement"
+      ],
+      "mesh_descriptors": [
+        "Cats",
+        "Dogs",
+        "Animals",
+        "Humans",
+        "Emergencies",
+        "Cat Diseases",
+        "Dog Diseases",
+        "Status Epilepticus",
+        "Epilepsy",
+        "Anticonvulsants"
+      ],
+      "chemicals": [
+        "Anticonvulsants"
+      ],
+      "journal": "Journal of veterinary internal medicine",
+      "authors": [
+        "Marios Charalambous",
+        "Karen Mu\u00f1ana",
+        "Edward E Patterson",
+        "Simon R Platt",
+        "Holger A Volk"
+      ]
+    },
+    {
+      "pmid": "39637874",
+      "title": "Diagnosis and management of status epilepticus: improving the status quo.",
+      "abstract": "Status epilepticus is a common neurological emergency that is characterised by prolonged or recurrent seizures without recovery between episodes and associated with substantial morbidity and mortality. Prompt recognition and targeted therapy can reduce the risk of complications and death associated with status epilepticus, thereby improving outcomes. The most recent International League Against Epilepsy definition considers two important timepoints in status epilepticus: first, when the seizure does not self-terminate; and second, when the seizure can have long-term consequences, including neuronal injury. Recent advances in our understanding of the pathophysiology of status epilepticus indicate that changes in neurotransmission as status epilepticus progresses can increase excitatory seizure-facilitating and decrease inhibitory seizure-terminating mechanisms at a cellular level. Effective clinical management requires rapid initiation of supportive measures, assessment of the cause of the seizure, and first-line treatment with benzodiazepines. If status epilepticus continues, management should entail second-line and third-line treatment agents, supportive EEG monitoring, and admission to an intensive care unit. Future research to study early seizure detection, rescue protocols and medications, rapid treatment escalation, and integration of fundamental scientific and clinical evidence into clinical practice could shorten seizure duration and reduce associated complications. Furthermore, improved recognition, education, and treatment in patients who are at risk might help to prevent status epilepticus, particularly for patients living in low-income and middle-income countries.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Status Epilepticus",
+        "Humans",
+        "Anticonvulsants",
+        "Disease Management",
+        "Electroencephalography"
+      ],
+      "chemicals": [
+        "Anticonvulsants"
+      ],
+      "journal": "The Lancet. Neurology",
+      "authors": [
+        "Jennifer V Gettings",
+        "Fatemeh Mohammad Alizadeh Chafjiri",
+        "Archana A Patel",
+        "Simon Shorvon",
+        "Howard P Goodkin",
+        "Tobias Loddenkemper"
+      ]
+    },
+    {
+      "pmid": "38117319",
+      "title": "Status epilepticus in the ICU.",
+      "abstract": "Status epilepticus (SE) is a common medical emergency associated with significant morbidity and mortality. Management that follows published guidelines is best suited to improve outcomes, with the most severe cases frequently being managed in the intensive care unit (ICU). Diagnosis of convulsive SE can be made without electroencephalography (EEG), but EEG is required to reliably diagnose nonconvulsive SE. Rapidly narrowing down underlying causes for SE is crucial, as this may guide additional management steps. Causes may range from underlying epilepsy to acute brain injuries such as trauma, cardiac arrest, stroke, and infections. Initial management consists of rapid administration of benzodiazepines and one of the following non-sedating intravenous antiseizure medications (ASM): (fos-)phenytoin, levetiracetam, or valproate; other ASM are increasingly used, such as lacosamide or brivaracetam. SE that continues despite these medications is called refractory, and most commonly treated with continuous infusions of midazolam or propofol. Alternatives include further non-sedating ASM and non-pharmacologic approaches. SE that reemerges after weaning or continues despite management with propofol or midazolam is labeled super-refractory SE. At this step, management may include non-sedating or sedating compounds including ketamine and barbiturates. Continuous video EEG is necessary for the management of refractory and super-refractory SE, as these are almost always nonconvulsive. If possible, management of the underlying cause of seizures is crucial particularly for patients with autoimmune encephalitis. Short-term mortality ranges from 10 to 15% after SE and is primarily related to increasing age, underlying etiology, and medical comorbidities. Refractoriness of treatment is clearly related to outcome with mortality rising from 10% in responsive cases, to 25% in refractory, and nearly 40% in super-refractory SE.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anticonvulsants",
+        "Midazolam",
+        "Propofol",
+        "Status Epilepticus",
+        "Intensive Care Units"
+      ],
+      "chemicals": [
+        "Anticonvulsants",
+        "Midazolam",
+        "Propofol"
+      ],
+      "journal": "Intensive care medicine",
+      "authors": [
+        "Andrea O Rossetti",
+        "Jan Claassen",
+        "Nicolas Gaspard"
+      ]
+    },
+    {
+      "pmid": "36333039",
+      "title": "Status Epilepticus: A Neurologic Emergency.",
+      "abstract": "In this review, we discuss treatment and considerations for status epilepticus in general intensive care unit patients, acquired brain injury, autoimmune conditions, toxidromes, pediatrics, and pregnancy.",
+      "pub_date": "2023-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Child",
+        "Electroencephalography",
+        "Status Epilepticus",
+        "Critical Care",
+        "Anticonvulsants"
+      ],
+      "chemicals": [
+        "Anticonvulsants"
+      ],
+      "journal": "Critical care clinics",
+      "authors": [
+        "Patrick J Coppler",
+        "Jonathan Elmer"
+      ]
+    },
+    {
+      "pmid": "37391637",
+      "title": "Status Epilepticus.",
+      "abstract": "Status epilepticus is a neurologic emergency defined as a seizure that lasts longer than 5 minutes. This is the most common neurologic emergency in children, and it is associated with significant morbidity and mortality. Initial seizure management focuses on stabilization of the patient, followed by medication to terminate the seizure. Benzodiazepines, levetiracetam, fosphenytoin, valproic acid and other antiseizure medications can effectively halt status epilepticus. There is a narrow but important differential diagnosis, including prolonged psychogenic nonepileptic seizure, status dystonicus, and nonconvulsive status epilepticus. Focused laboratory testing, neuroimaging, and electroencephalography can be useful in the evaluation of status epilepticus. Sequelae include focal neurologic deficits, cognitive impairment, and behavioral problems. Pediatricians play an important role in the early recognition and treatment of status epilepticus, thereby preventing the acute and chronic harm that can be associated with status epilepticus.",
+      "pub_date": "2023-07-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Child",
+        "Humans",
+        "Status Epilepticus",
+        "Seizures",
+        "Conversion Disorder",
+        "Death",
+        "Diagnosis, Differential"
+      ],
+      "chemicals": [],
+      "journal": "Pediatrics in review",
+      "authors": [
+        "Daniel A Freedman",
+        "E Steve Roach"
+      ]
+    },
+    {
+      "pmid": "38830068",
+      "title": "Emergent Management of Status Epilepticus.",
+      "abstract": "Status epilepticus is a neurologic emergency that can be life- threatening. The key to effective management is recognition and prompt initiation of treatment. Management of status epilepticus requires a patient-specific-approach framework, consisting of four axes: (1) semiology, (2) etiology, (3) EEG correlate, and (4) age. This article provides a comprehensive overview of status epilepticus, highlighting the current treatment approaches and strategies for management and control. Administering appropriate doses of antiseizure medication in a timely manner is vital for halting seizure activity. Benzodiazepines are the first-line treatment, as demonstrated by three randomized controlled trials in the hospital and prehospital settings. Benzodiazepines can be administered through IV, intramuscular, rectal, or intranasal routes. If seizures persist, second-line treatments such as phenytoin and fosphenytoin, valproate, or levetiracetam are warranted. The recently published Established Status Epilepticus Treatment Trial found that all three of these drugs are similarly effective in achieving seizure cessation in approximately half of patients. For cases of refractory and super-refractory status epilepticus, IV anesthetics, including ketamine and \u03b3-aminobutyric acid-mediated (GABA-ergic) medications, are necessary. There is an increasing body of evidence supporting the use of ketamine, not only in the early phases of stage 3 status epilepticus but also as a second-line treatment option. As with other neurologic emergencies, \"time is brain\" when treating status epilepticus. Antiseizure medication should be initiated quickly to achieve seizure cessation. There is a need to explore newer generations of antiseizure medications and nonpharmacologic modalities to treat status epilepticus.",
+      "pub_date": "2024-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Case Reports"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Status Epilepticus",
+        "Anticonvulsants",
+        "Male",
+        "Female",
+        "Disease Management",
+        "Electroencephalography"
+      ],
+      "chemicals": [
+        "Anticonvulsants"
+      ],
+      "journal": "Continuum (Minneapolis, Minn.)",
+      "authors": [
+        "Clio Rubinos"
+      ]
+    },
+    {
+      "pmid": "38441162",
+      "title": "Status epilepticus: what's new for the intensivist.",
+      "abstract": "Status epilepticus (SE) is a common neurologic emergency affecting about 36.1/100 000 person-years that frequently requires intensive care unit (ICU) admission. There have been advances in our understanding of epidemiology, pathophysiology, and EEG monitoring of SE, and there have been large-scale treatment trials, discussed in this review. Recent changes in the definitions of SE have helped guide management protocols and we have much better predictors of outcome. Observational studies have confirmed the efficacy of benzodiazepines and large treatment trials indicate that all routinely used second line treatments (i.e., levetiracetam, valproate and fosphenytoin) are equally effective. Better understanding of the pathophysiology has indicated that nonanti-seizure medications aimed at underlying pathological processes should perhaps be considered in the treatment of SE; already immunosuppressant treatments are being more widely used in particular for new onset refractory status epilepticus (NORSE) and Febrile infection-related epilepsy syndrome (FIRES) that sometimes revealed autoimmune or paraneoplastic encephalitis. Growing evidence for ICU EEG monitoring and major advances in automated analysis of the EEG could help intensivist to assess the control of electrographic seizures. Research into the morbi-mortality of SE has highlighted the potential devastating effects of this condition, emphasizing the need for rapid and aggressive treatment, with particular attention to cardiorespiratory and neurological complications. Although we now have a good evidence-base for the initial status epilepticus management, the best treatments for the later stages are still unclear and clinical trials of potentially disease-modifying therapies are long overdue.",
+      "pub_date": "2024-04-01",
+      "publication_types": [
+        "Review",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Status Epilepticus",
+        "Seizures",
+        "Valproic Acid",
+        "Levetiracetam",
+        "Benzodiazepines",
+        "Encephalitis",
+        "Anticonvulsants"
+      ],
+      "chemicals": [
+        "Valproic Acid",
+        "Levetiracetam",
+        "Benzodiazepines",
+        "Anticonvulsants"
+      ],
+      "journal": "Current opinion in critical care",
+      "authors": [
+        "Sarah Benghanem",
+        "Estelle Pruvost-Robieux",
+        "Aidan Neligan",
+        "Matthew C Walker"
+      ]
+    },
+    {
+      "pmid": "38430119",
+      "title": "Second-line immunotherapy in new onset refractory status epilepticus.",
+      "abstract": "Several pieces of evidence suggest immune dysregulation could trigger the onset and modulate sequelae of new onset refractory status epilepticus (NORSE), including its subtype with prior fever known as febrile infection-related epilepsy syndrome (FIRES). Consensus-driven recommendations have been established to guide the initiation of first- and second-line immunotherapies in these patients. Here, we review the literature to date on second-line immunotherapy for NORSE/FIRES, presenting results from 28 case reports and series describing the use of anakinra, tocilizumab, or intrathecal dexamethasone in 75 patients with NORSE. Among them, 52 patients were managed with anakinra, 21 with tocilizumab, and eight with intrathecal dexamethasone. Most had elevated serum or cerebrospinal fluid cytokine levels at treatment initiation. Treatments were predominantly initiated during the acute phase of the disease (92%) and resulted, within the first 2\u2009weeks, in seizure control for up to 73% of patients with anakinra, 70% with tocilizumab, and 50% with intrathecal dexamethasone. Cytokine levels decreased after treatment for most patients. Anakinra and intrathecal dexamethasone were mainly initiated in children with FIRES, whereas tocilizumab was more frequently prescribed for adults, with or without a prior febrile infection. There was no clear correlation between the response to treatment and the time to initiate the treatment. Most patients experienced long-term disability and drug-resistant post-NORSE epilepsy. Initiation of second-line immunotherapies during status epilepticus (SE) had no clear effect on the emergence of post-NORSE epilepsy or long-term functional outcomes. In a small number of cases, the initiation of anakinra or tocilizumab several years after SE onset resulted in a reduction of seizure frequency for 67% of patients. These data highlight the potential utility of anakinra, tocilizumab, and intrathecal dexamethasone in patients with NORSE. There continues to be interest in the utilization of early cytokine measurements to guide treatment selection and response. Prospective studies are necessary to understand the role of early immunomodulation and its associations with epilepsy and functional outcomes.",
+      "pub_date": "2024-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Status Epilepticus",
+        "Immunotherapy",
+        "Interleukin 1 Receptor Antagonist Protein",
+        "Dexamethasone",
+        "Antibodies, Monoclonal, Humanized",
+        "Drug Resistant Epilepsy",
+        "Adult",
+        "Female",
+        "Male",
+        "Child"
+      ],
+      "chemicals": [
+        "Interleukin 1 Receptor Antagonist Protein",
+        "Dexamethasone",
+        "Antibodies, Monoclonal, Humanized",
+        "tocilizumab"
+      ],
+      "journal": "Epilepsia",
+      "authors": [
+        "Aur\u00e9lie Hanin",
+        "Eyal Muscal",
+        "Lawrence J Hirsch"
+      ]
+    },
+    {
+      "pmid": "38580318",
+      "title": "Status Epilepticus: An Update on Pharmacological Management.",
+      "abstract": "Status epilepticus (SE) is a neurological emergency that requires timely pharmacological therapy to cease seizure activity. The treatment approach varies based on the time and the treatment stage of SE. Benzodiazepines are considered the first-line therapy during the emergent treatment phase of SE. Antiseizure medicines such as phenytoin, valproic acid, and levetiracetam are recommended during the urgent treatment phase. These drugs appear to have a similar safety and efficacy profile, and individualized therapy should be chosen based on patient characteristics. Midazolam, propofol, pentobarbital, and ketamine are continuous intravenous infusions of anesthetic medications utilized in the refractory SE (RSE) period. The most efficacious pharmacotherapeutic treatments for RSE and superrefractory status epilepticus are not clearly defined.",
+      "pub_date": "2024-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Status Epilepticus",
+        "Humans",
+        "Anticonvulsants"
+      ],
+      "chemicals": [
+        "Anticonvulsants"
+      ],
+      "journal": "Seminars in neurology",
+      "authors": [
+        "Sulaiman Almohaish",
+        "Eljim P Tesoro",
+        "Gretchen M Brophy"
+      ]
+    },
+    {
+      "pmid": "37350392",
+      "title": "Diagnosing nonconvulsive status epilepticus: Defining electroencephalographic and clinical response to diagnostic intravenous antiseizure medication trials.",
+      "abstract": "The Salzburg criteria for nonconvulsive status epilepticus (NCSE) and the American Clinical Neurophysiology Society (ACNS) Standardized Critical Care EEG Terminology 2021 include a diagnostic trial with intravenous (IV) antiseizure medications (ASMs) to assess electroencephalographic (EEG) and clinical response as a diagnostic criterion for definite NCSE and possible NCSE. However, how to perform this diagnostic test and assessing the EEG and clinical responses have not been operationally defined. We performed a Delphi process involving six experts to standardize the diagnostic administration of IV ASM and propose operational criteria for EEG and clinical response. Either benzodiazepines (BZDs) or non-BZD ASMs can be used as first choice for a diagnostic IV ASM trial. However, non-BZDs should be considered in patients who already have impaired alertness or are at risk of respiratory depression. Levetiracetam, valproate, lacosamide, brivaracetam, or (if the only feasible drug) fosphenytoin or phenobarbital were deemed appropriate for a diagnostic IV trial. The starting dose should be approximately two thirds to three quarters of the full loading dose recommended for treatment of status epilepticus, with an additional smaller dose if needed. ASMs should be administered during EEG recording under supervision. A monitoring time of at least 15\u2009min is recommended. If there is no response, a second trial with another non-BDZ or BDZs may be considered. A positive EEG response is defined as the resolution of the ictal-interictal continuum pattern for at least three times the longest previously observed spontaneous interval of resolution (if any), but minimum of one continuous minute. For a clinical response, physicians should use a standardized examination before and after IV ASM administration. We suggest a definite time-locked improvement in a focal deficit or at least one-step improvement on a new dedicated one-domain 10-level NCSE response scale. The proposed standardized approach of a diagnostic IV ASM trial further refines the ACNS and Salzburg diagnostic criteria for NCSE.",
+      "pub_date": "2023-09-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Administration, Intravenous",
+        "Benzodiazepines",
+        "Electroencephalography",
+        "Phenobarbital",
+        "Status Epilepticus",
+        "Clinical Trials as Topic"
+      ],
+      "chemicals": [
+        "Benzodiazepines",
+        "Phenobarbital"
+      ],
+      "journal": "Epilepsia",
+      "authors": [
+        "Markus Leitinger",
+        "Nicolas Gaspard",
+        "Lawrence J Hirsch",
+        "S\u00e1ndor Beniczky",
+        "Peter W Kaplan",
+        "Khalil Husari"
+      ]
+    },
+    {
+      "pmid": "40186980",
+      "title": "Combined Ketamine and Midazolam Versus Midazolam Alone for Initial Treatment of Pediatric Generalized Convulsive Status Epilepticus (Ket-Mid Study): A Randomized Controlled Trial.",
+      "abstract": "Approximately one third of children with generalized convulsive status epilepticus (GCSE) are not controlled by initial benzodiazepine therapy. We investigated the efficacy of adding ketamine to midazolam for first-line treatment of pediatric GCSE. This randomized controlled trial included 144 children with GCSE aged between six months and 16\u00a0years, who were equally randomized to receive ketamine plus midazolam (Ket-Mid group) or placebo plus midazolam (Pla-Mid group). Primary outcome was cessation of clinical seizures at five-minute study timepoint. Secondary outcomes were the need for a second midazolam bolus; cessation of clinical seizures at 15-, 35-, and 55-minute timepoints; 24-hour seizure control; and adverse effects. Cessation of clinical seizures at five-minute occurred in 76% of children in the Ket-Mid group compared with 21% in the Pla-Mid group (risk ratio [RR] 3.7; 95% confidence interval [CI] 2.3-5.9; P\u00a0<\u00a00.001). Compared with the Pla-Mid group, the Ket-Mid group had higher percentages of seizure cessation at 15-minute (76.4% vs 23.6%; RR, 3.2; 95% CI, 2.1-5.0), 35-minute (83.3% vs 45.8%; RR, 1.8; 95% CI, 1.4-2.4), and 55-minute (88.9% vs 72.2%; RR, 1.2; 95% CI, 1.04-1.45) study timepoints as well as lower percentages of repeating midazolam (23.6% vs 79.2%; RR, 0.3; 95% CI, 0.19-0.46) and endotracheal intubation (4.2% vs 20.8%; RR, 0.2; 95% CI, 0.06-0.66). Both groups showed no significant differences in other outcome measures. Ketamine-midazolam combination may be more effective than midazolam alone for the initial treatment of pediatric GCSE, but this should be confirmed in future research.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Midazolam",
+        "Ketamine",
+        "Status Epilepticus",
+        "Child",
+        "Male",
+        "Female",
+        "Child, Preschool",
+        "Adolescent",
+        "Infant",
+        "Drug Therapy, Combination",
+        "Anticonvulsants",
+        "Double-Blind Method",
+        "Treatment Outcome",
+        "Outcome Assessment, Health Care"
+      ],
+      "chemicals": [
+        "Midazolam",
+        "Ketamine",
+        "Anticonvulsants"
+      ],
+      "journal": "Pediatric neurology",
+      "authors": [
+        "Amr A Othman",
+        "Abdelrahim A Sadek",
+        "Esraa A Ahmed",
+        "Elsayed Abdelkreem"
+      ]
+    },
+    {
+      "pmid": "38358613",
+      "title": "Benzodiazepines for the Treatment of Seizure Clusters.",
+      "abstract": "Patients with epilepsy may experience seizure clusters, which are described by the US Food and Drug Administration (FDA) as intermittent, stereotypic episodes of frequent seizure activity that are distinct from a patient's usual seizure pattern. Untreated seizure clusters may increase the risk for status epilepticus, as well as decrease quality of life and increase burden on patients and care partners. Benzodiazepine therapies are the mainstay for acute treatment of seizure clusters and are often administered by nonmedical care partners outside a healthcare facility. Three rescue therapies are currently FDA-approved for this indication, with diazepam rectal gel being the first in 1997, for patients aged \u2265 \u00a02 years. Limitations of rectal administration (e.g., positioning and disrobing the patient, which may affect ease of use and social acceptability; interpatient variation in bioavailability) led to the investigation of the potential for nasal administration as an alternative. Midazolam nasal spray (MDS) was approved by the FDA in 2019 for patients aged \u2265 \u00a012 years and diazepam nasal spray (DNS) in 2020 for patients aged \u2265 \u00a06 years; these two intranasal therapies have differences in their formulations [e.g., organic solvents (MDS) vs. Intravail and vitamin E for absorption and solubility (DNS)], effectiveness (e.g., proportion of seizure clusters requiring only one dose), and safety profiles. In clinical studies, the proportion of seizure clusters for which only one dose of medication was used varied between the three approved rescue therapies with the highest single-dose rate for any time period for DNS; however, although studies for all three preparations enrolled patients with highly intractable epilepsy, inclusion and exclusion criteria varied, so the three cannot be directly compared. Treatments that have been used off-label for seizure clusters in the USA include midazolam for injection as an intranasal spray (indicated for sedation/anxiolysis/amnesia and anesthesia) and tablet forms of clonazepam (indicated for treatment for seizure disorders) and lorazepam (indicated for anxiety). In the European Union, buccal and intranasal midazolam are used for treating the indication of prolonged, acute convulsive seizures and rectal diazepam solution for the indication of epileptic and febrile convulsions; duration of effectiveness for these medications for the treatment of seizure clusters has not been established. This paper examines the literature context for understanding seizure clusters and their treatment and provides effectiveness, safety, and administration details for the three FDA-approved rescue therapies. Additionally, other medications that are used for rescue therapy in the USA and globally are discussed. Finally, the potential benefits of seizure action plans and candidates for their use are addressed. This paper is intended to provide details about the unique characteristics of rescue therapies for seizure clusters to help clarify appropriate treatment for individual patients.",
+      "pub_date": "2024-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Benzodiazepines",
+        "Midazolam",
+        "Anticonvulsants",
+        "Nasal Sprays",
+        "Quality of Life",
+        "Diazepam",
+        "Status Epilepticus",
+        "Epilepsy",
+        "Epilepsy, Generalized",
+        "Administration, Intranasal"
+      ],
+      "chemicals": [
+        "Benzodiazepines",
+        "Midazolam",
+        "Anticonvulsants",
+        "Nasal Sprays",
+        "Diazepam"
+      ],
+      "journal": "CNS drugs",
+      "authors": [
+        "Patricia E Penovich",
+        "Vikram R Rao",
+        "Lucretia Long",
+        "Enrique Carrazana",
+        "Adrian L Rabinowicz"
+      ]
+    }
+  ]
+}

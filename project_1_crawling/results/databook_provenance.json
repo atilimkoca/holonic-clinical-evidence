@@ -1,0 +1,778 @@
+{
+  "pipeline": "BIL930 Project 1 \u2014 Holonic Data Layer DataBook",
+  "generated": "2026-06-07T18:47:50.123558+00:00",
+  "offline": true,
+  "seed": 42,
+  "stages": [
+    {
+      "step": "1_crawl",
+      "started": "2026-06-07T18:46:05.751160+00:00",
+      "duration_s": 0.04,
+      "status": "ok",
+      "error": "",
+      "outputs": [
+        {
+          "path": "data\\raw\\crawl_summary.json",
+          "sha1": "f9b7a18b00a6",
+          "exists": true
+        }
+      ],
+      "metrics": {
+        "diseases": 72,
+        "real_pools": 72,
+        "synthetic_pools": 0,
+        "total_articles": 864,
+        "real_articles": 864,
+        "synthetic_articles": 0,
+        "network_calls": 0,
+        "cache_hits": 0,
+        "per_disease": {
+          "hypertension": {
+            "n": 12,
+            "synthetic": false
+          },
+          "heart_failure": {
+            "n": 12,
+            "synthetic": false
+          },
+          "atrial_fibrillation": {
+            "n": 12,
+            "synthetic": false
+          },
+          "coronary_artery_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "hyperlipidemia": {
+            "n": 12,
+            "synthetic": false
+          },
+          "angina_pectoris": {
+            "n": 12,
+            "synthetic": false
+          },
+          "deep_vein_thrombosis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "type_2_diabetes_mellitus": {
+            "n": 12,
+            "synthetic": false
+          },
+          "hypothyroidism": {
+            "n": 12,
+            "synthetic": false
+          },
+          "type_1_diabetes_mellitus": {
+            "n": 12,
+            "synthetic": false
+          },
+          "hyperthyroidism": {
+            "n": 12,
+            "synthetic": false
+          },
+          "osteoporosis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "epilepsy": {
+            "n": 12,
+            "synthetic": false
+          },
+          "migraine": {
+            "n": 12,
+            "synthetic": false
+          },
+          "parkinson_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "alzheimer_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "multiple_sclerosis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "neuropathic_pain": {
+            "n": 12,
+            "synthetic": false
+          },
+          "stroke": {
+            "n": 12,
+            "synthetic": false
+          },
+          "major_depressive_disorder": {
+            "n": 12,
+            "synthetic": false
+          },
+          "generalized_anxiety_disorder": {
+            "n": 12,
+            "synthetic": false
+          },
+          "bipolar_disorder": {
+            "n": 12,
+            "synthetic": false
+          },
+          "schizophrenia": {
+            "n": 12,
+            "synthetic": false
+          },
+          "community_acquired_pneumonia": {
+            "n": 12,
+            "synthetic": false
+          },
+          "urinary_tract_infection": {
+            "n": 12,
+            "synthetic": false
+          },
+          "tuberculosis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "hiv_infection": {
+            "n": 12,
+            "synthetic": false
+          },
+          "influenza": {
+            "n": 12,
+            "synthetic": false
+          },
+          "asthma": {
+            "n": 12,
+            "synthetic": false
+          },
+          "chronic_obstructive_pulmonary_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "pulmonary_embolism": {
+            "n": 12,
+            "synthetic": false
+          },
+          "gastroesophageal_reflux_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "peptic_ulcer_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "ulcerative_colitis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "crohn_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "rheumatoid_arthritis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "gout": {
+            "n": 12,
+            "synthetic": false
+          },
+          "systemic_lupus_erythematosus": {
+            "n": 12,
+            "synthetic": false
+          },
+          "osteoarthritis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "chronic_kidney_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "nephrotic_syndrome": {
+            "n": 12,
+            "synthetic": false
+          },
+          "breast_cancer": {
+            "n": 12,
+            "synthetic": false
+          },
+          "non_small_cell_lung_cancer": {
+            "n": 12,
+            "synthetic": false
+          },
+          "chronic_myeloid_leukemia": {
+            "n": 12,
+            "synthetic": false
+          },
+          "non_hodgkin_lymphoma": {
+            "n": 12,
+            "synthetic": false
+          },
+          "colorectal_cancer": {
+            "n": 12,
+            "synthetic": false
+          },
+          "prostate_cancer": {
+            "n": 12,
+            "synthetic": false
+          },
+          "cardiomyopathy": {
+            "n": 12,
+            "synthetic": false
+          },
+          "peripheral_artery_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "aortic_stenosis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "cushing_syndrome": {
+            "n": 12,
+            "synthetic": false
+          },
+          "addison_disease": {
+            "n": 12,
+            "synthetic": false
+          },
+          "polycystic_ovary_syndrome": {
+            "n": 12,
+            "synthetic": false
+          },
+          "status_epilepticus": {
+            "n": 12,
+            "synthetic": false
+          },
+          "trigeminal_neuralgia": {
+            "n": 12,
+            "synthetic": false
+          },
+          "myasthenia_gravis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "obsessive_compulsive_disorder": {
+            "n": 12,
+            "synthetic": false
+          },
+          "post_traumatic_stress_disorder": {
+            "n": 12,
+            "synthetic": false
+          },
+          "attention_deficit_hyperactivity_disorder": {
+            "n": 12,
+            "synthetic": false
+          },
+          "sepsis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "cellulitis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "helicobacter_pylori_infection": {
+            "n": 12,
+            "synthetic": false
+          },
+          "hepatitis_c": {
+            "n": 12,
+            "synthetic": false
+          },
+          "idiopathic_pulmonary_fibrosis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "obstructive_sleep_apnea": {
+            "n": 12,
+            "synthetic": false
+          },
+          "irritable_bowel_syndrome": {
+            "n": 12,
+            "synthetic": false
+          },
+          "cirrhosis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "pancreatitis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "ankylosing_spondylitis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "psoriatic_arthritis": {
+            "n": 12,
+            "synthetic": false
+          },
+          "acute_kidney_injury": {
+            "n": 12,
+            "synthetic": false
+          },
+          "diabetic_nephropathy": {
+            "n": 12,
+            "synthetic": false
+          }
+        }
+      }
+    },
+    {
+      "step": "2_extract",
+      "started": "2026-06-07T18:46:05.789911+00:00",
+      "duration_s": 0.04,
+      "status": "ok",
+      "error": "",
+      "outputs": [
+        {
+          "path": "data\\processed\\holons.json",
+          "sha1": "af5ad909257f",
+          "exists": true
+        },
+        {
+          "path": "data\\processed\\entities.json",
+          "sha1": "3436cd7304dc",
+          "exists": true
+        }
+      ],
+      "metrics": {
+        "n_holons": 216,
+        "n_diseases": 72,
+        "n_drugs": 60,
+        "n_symptoms": 17,
+        "n_sources": 839,
+        "n_authors": 3827,
+        "n_specialties": 10,
+        "n_entities_total": 4825
+      }
+    },
+    {
+      "step": "3_transform",
+      "started": "2026-06-07T18:46:07.447643+00:00",
+      "duration_s": 1.66,
+      "status": "ok",
+      "error": "",
+      "outputs": [
+        {
+          "path": "data\\rdf\\holonic\\model_a.trig",
+          "sha1": "057ea05b9634",
+          "exists": true
+        },
+        {
+          "path": "data\\rdf\\flat\\model_b.ttl",
+          "sha1": "ffc2b32cdc78",
+          "exists": true
+        }
+      ],
+      "metrics": {
+        "model_a": {
+          "triples": 14573,
+          "named_graphs": 866,
+          "reified_assertions": 204,
+          "cross_relations": 152
+        },
+        "model_b": {
+          "triples": 13505,
+          "named_graphs": 0,
+          "reified_assertions": 204,
+          "cross_relations": 152
+        },
+        "reification_ratio": 0.573
+      }
+    },
+    {
+      "step": "4_validate_handoff_project2",
+      "started": "2026-06-07T18:46:39.987930+00:00",
+      "duration_s": 32.54,
+      "status": "ok",
+      "error": "",
+      "outputs": [
+        {
+          "path": "data\\rdf\\validation_reports\\example_setA_report.ttl",
+          "sha1": "1455edcb1840",
+          "exists": true
+        }
+      ],
+      "metrics": {
+        "status": "ok",
+        "sampled": 15,
+        "setA_conforming": 15,
+        "setB_conforming": 15,
+        "setA_conformance_rate": 1.0,
+        "setB_conformance_rate": 1.0
+      }
+    },
+    {
+      "step": "5_benchmark_expressiveness",
+      "started": "2026-06-07T18:47:29.760301+00:00",
+      "duration_s": 49.77,
+      "status": "ok",
+      "error": "",
+      "outputs": [
+        {
+          "path": "results\\expressiveness.csv",
+          "sha1": "dea06044e776",
+          "exists": true
+        },
+        {
+          "path": "results\\benchmark_summary.md",
+          "sha1": "721b4b5e12bc",
+          "exists": true
+        }
+      ],
+      "metrics": {
+        "total_queries": 50,
+        "answerable_A": 50,
+        "answerable_B": 40,
+        "expressiveness_gain": 0.2,
+        "expressiveness_gain_pct": 20.0,
+        "H1_threshold_pct": 15.0,
+        "H1_supported": true,
+        "result_mismatches": [],
+        "shared_answerable_identical": 40,
+        "A_only_query_ids": [
+          "H01",
+          "H02",
+          "H03",
+          "H04",
+          "H05",
+          "H06",
+          "H07",
+          "H08",
+          "H09",
+          "H10"
+        ],
+        "by_category": {
+          "simple": {
+            "n": 15,
+            "A": 15,
+            "B": 15
+          },
+          "medium": {
+            "n": 15,
+            "A": 15,
+            "B": 15
+          },
+          "complex": {
+            "n": 10,
+            "A": 10,
+            "B": 10
+          },
+          "hard": {
+            "n": 10,
+            "A": 10,
+            "B": 0
+          }
+        },
+        "info_preservation": {
+          "core_facts_A": 11329,
+          "core_facts_B": 11329,
+          "core_equal": true,
+          "assertions_A": 204,
+          "assertions_B": 204,
+          "assertions_equal": true,
+          "bijection_holds": true,
+          "core_only_in_A": 0,
+          "core_only_in_B": 0,
+          "assertions_only_in_A": 0,
+          "assertions_only_in_B": 0
+        }
+      }
+    },
+    {
+      "step": "6_graph_topology",
+      "started": "2026-06-07T18:47:30.167353+00:00",
+      "duration_s": 0.41,
+      "status": "ok",
+      "error": "",
+      "outputs": [
+        {
+          "path": "results\\graph_metrics.json",
+          "sha1": "ff5bfcb0cecd",
+          "exists": true
+        }
+      ],
+      "metrics": {
+        "n_nodes": 216,
+        "n_edges": 639,
+        "density": 0.0275,
+        "avg_degree": 5.92,
+        "max_degree": 17,
+        "avg_clustering_coefficient": 1.0,
+        "n_connected_components": 43,
+        "largest_component_size": 18,
+        "community_detection": {
+          "n_communities": 43,
+          "modularity": 0.9194,
+          "purity_vs_specialty": 0.8333,
+          "NMI_vs_specialty": 0.6827,
+          "ARI_vs_specialty": 0.2338,
+          "n_specialties": 10
+        },
+        "cross_level": {
+          "spearman_betweenness_vs_aggregate_confidence": 0.0335,
+          "p_value": 0.6249,
+          "most_divergent_holons": [
+            "q_acute_kidney_injury_treatment",
+            "q_obsessive_compulsive_disorder_treatment",
+            "q_idiopathic_pulmonary_fibrosis_efficacy",
+            "q_ankylosing_spondylitis_efficacy",
+            "q_irritable_bowel_syndrome_safety"
+          ]
+        },
+        "top_betweenness": [
+          {
+            "holon": "q_generalized_anxiety_disorder_treatment",
+            "betweenness": 0.0001,
+            "specialty": "Psychiatry"
+          },
+          {
+            "holon": "q_generalized_anxiety_disorder_efficacy",
+            "betweenness": 0.0001,
+            "specialty": "Psychiatry"
+          },
+          {
+            "holon": "q_generalized_anxiety_disorder_safety",
+            "betweenness": 0.0001,
+            "specialty": "Psychiatry"
+          },
+          {
+            "holon": "q_obsessive_compulsive_disorder_treatment",
+            "betweenness": 0.0001,
+            "specialty": "Psychiatry"
+          },
+          {
+            "holon": "q_obsessive_compulsive_disorder_efficacy",
+            "betweenness": 0.0001,
+            "specialty": "Psychiatry"
+          },
+          {
+            "holon": "q_obsessive_compulsive_disorder_safety",
+            "betweenness": 0.0001,
+            "specialty": "Psychiatry"
+          },
+          {
+            "holon": "q_hypertension_treatment",
+            "betweenness": 0.0,
+            "specialty": "Cardiology"
+          },
+          {
+            "holon": "q_hypertension_efficacy",
+            "betweenness": 0.0,
+            "specialty": "Cardiology"
+          }
+        ],
+        "homomorphism_patterns": {
+          "P1_high_conf_treatment": 36,
+          "P2_effective_with_1A": 28,
+          "P3_side_effect": 68,
+          "P4_cardiology_treatment": 20
+        },
+        "homomorphism_pattern_examples": {
+          "P1_high_conf_treatment": [
+            "q_heart_failure_treatment",
+            "q_atrial_fibrillation_treatment",
+            "q_coronary_artery_disease_treatment"
+          ],
+          "P2_effective_with_1A": [
+            "q_heart_failure_treatment",
+            "q_atrial_fibrillation_efficacy",
+            "q_coronary_artery_disease_treatment"
+          ],
+          "P3_side_effect": [
+            "q_hypertension_safety",
+            "q_heart_failure_safety",
+            "q_atrial_fibrillation_safety"
+          ],
+          "P4_cardiology_treatment": [
+            "q_hypertension_treatment",
+            "q_hypertension_efficacy",
+            "q_heart_failure_treatment"
+          ]
+        },
+        "subsumption_pairs": [
+          {
+            "specific": "q_atrial_fibrillation_treatment",
+            "general": "q_deep_vein_thrombosis_treatment",
+            "phi": [
+              "class:DOAC",
+              "effective",
+              "evidence:Level-1B",
+              "facet:treatment",
+              "relation:treats",
+              "specialty:Cardiology"
+            ],
+            "extra_in_specific": [
+              "high-confidence"
+            ]
+          },
+          {
+            "specific": "q_angina_pectoris_treatment",
+            "general": "q_cardiomyopathy_treatment",
+            "phi": [
+              "class:Beta blocker",
+              "effective",
+              "evidence:Level-1B",
+              "facet:treatment",
+              "relation:treats",
+              "specialty:Cardiology"
+            ],
+            "extra_in_specific": [
+              "high-confidence"
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "step": "7_governance",
+      "started": "2026-06-07T18:47:50.123558+00:00",
+      "duration_s": 19.96,
+      "status": "ok",
+      "error": "",
+      "outputs": [
+        {
+          "path": "results\\governance.json",
+          "sha1": "ea2a5a1c0be0",
+          "exists": true
+        }
+      ],
+      "metrics": {
+        "governance": {
+          "workload": {
+            "local_treatment": {
+              "centralized": {
+                "ms": 2.02,
+                "rows": 1,
+                "answerable": true
+              },
+              "federated": {
+                "ms": 21.41,
+                "rows": 1,
+                "answerable": true
+              },
+              "autonomous": {
+                "ms": 462.37,
+                "rows": 0,
+                "answerable": true
+              }
+            },
+            "projection_read": {
+              "centralized": {
+                "ms": 4.5,
+                "rows": 216,
+                "answerable": true
+              },
+              "federated": {
+                "ms": 25.0,
+                "rows": 216,
+                "answerable": true
+              },
+              "autonomous": {
+                "ms": 476.74,
+                "rows": 216,
+                "answerable": true
+              }
+            },
+            "cross_domain": {
+              "centralized": {
+                "ms": 11.36,
+                "rows": 5,
+                "answerable": true
+              },
+              "federated": {
+                "ms": 93.32,
+                "rows": 41,
+                "answerable": true
+              },
+              "autonomous": {
+                "ms": 2308.87,
+                "rows": 0,
+                "answerable": true
+              }
+            },
+            "interior_read": {
+              "centralized": {
+                "ms": 4.66,
+                "rows": 216,
+                "answerable": true
+              },
+              "federated": {
+                "ms": 24.72,
+                "rows": 216,
+                "answerable": true
+              },
+              "autonomous": {
+                "ms": 0.0,
+                "rows": 0,
+                "answerable": false
+              }
+            }
+          },
+          "completeness": {
+            "centralized": 1.0,
+            "federated": 1.0,
+            "autonomous": 0.75
+          }
+        },
+        "schema_evolution": {
+          "n_holons": 216,
+          "n_domains": 10,
+          "centralized_revalidations": 216,
+          "federated_revalidations_serial": 216,
+          "federated_wall_parallel_across_domains": 21.6,
+          "autonomous_local_revalidations": 216,
+          "autonomous_alignment_pairs_On2": 23220
+        },
+        "scalability": {
+          "curve": [
+            {
+              "holons": 50,
+              "triples": 9137,
+              "ms": 6.55,
+              "rows": 17
+            },
+            {
+              "holons": 100,
+              "triples": 10008,
+              "ms": 7.22,
+              "rows": 26
+            },
+            {
+              "holons": 150,
+              "triples": 10886,
+              "ms": 7.79,
+              "rows": 37
+            },
+            {
+              "holons": 216,
+              "triples": 12053,
+              "ms": 7.83,
+              "rows": 41
+            }
+          ]
+        }
+      }
+    },
+    {
+      "step": "8_neo4j_scripts",
+      "started": "2026-06-07T18:47:50.123558+00:00",
+      "duration_s": 0.01,
+      "status": "ok",
+      "error": "",
+      "outputs": [
+        {
+          "path": "results\\neo4j\\import_holonic.cypher",
+          "sha1": "ba3bfa81611b",
+          "exists": true
+        }
+      ],
+      "metrics": {
+        "status": "scripts_only",
+        "note": "Neo4J driver/server unavailable in this environment. Generated import + query Cypher under results/neo4j/. To run the live comparison: start Neo4J, set NEO4J_URI/USER/PASS, then `cypher-shell -f results/neo4j/import_holonic.cypher` and re-run this module. Per-query SPARQL timings (rdflib) are in results/expressiveness.csv as the available store comparison."
+      }
+    }
+  ],
+  "ok": true
+}

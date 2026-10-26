@@ -1,0 +1,460 @@
+{
+  "disease": "Polycystic Ovary Syndrome",
+  "slug": "polycystic_ovary_syndrome",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40329601",
+      "title": "Metformin use in women with polycystic ovary syndrome (PCOS): Opportunities, benefits, and clinical challenges.",
+      "abstract": "Metformin, a synthetic biguanide, is widely used to manage type 2 diabetes, and is commonly prescribed in polycystic ovary syndrome (PCOS) to address insulin resistance and associated metabolic and reproductive disturbances. PCOS is characterised by hormonal imbalances such as hyperandrogenism and anovulation, metabolic abnormalities including insulin resistance and increased cardiometabolic risk, and higher rates of pregnancy complications. However, the role of metformin in the multifaceted nature of PCOS remains debated. This review synthesises the mechanisms of action of metformin and its effects on metabolic, hormonal, reproductive, and pregnancy-related outcomes in PCOS. In non-pregnant women, metformin improves insulin resistance, menstrual regularity, and androgen levels, particularly in those with obesity or insulin resistance, and may enhance fertility when combined with other treatments. However, it is not effective as a first-line therapy for weight loss, ovulation induction, or treatment of clinical hyperandrogenic features, including hirsutism or acne. In pregnancy, metformin may reduce early pregnancy loss, miscarriage, and preterm birth, though findings for gestational diabetes and preeclampsia are inconsistent. Evidence is limited by study heterogeneity, varying diagnostic criteria, and the use of aggregate data in meta-analyses, all of which make interpretation challenging. Future research should prioritise well-powered clinical trials, individual patient data meta-analyses, and longer-term follow-up studies, particularly in pregnancy, to better define the populations most likely to benefit from metformin use across the PCOS spectrum. PLAIN LANGUAGE SUMMARY: Polycystic ovary syndrome (PCOS) is a common condition that affects up to 1 in 10 women of reproductive age. It is characterised by irregular or absent periods, signs of elevated male hormones (high androgens or excess hair growth), and/or polycystic ovaries seen on ultrasound. These features can lead to fertility problems, acne, psychological distress, and an increased risk of various disorders such as depression, type 2 diabetes and heart disease. Many women with PCOS also experience challenges during pregnancy, including a higher risk of miscarriage, preterm birth, and gestational diabetes. Metformin is a medication most often used to manage diabetes. In women with PCOS, it can help improve how the body responds to insulin, which may also reduce male hormone levels, improve menstrual cycles, and support fertility. This review examines the role of metformin in treating PCOS-both before and during pregnancy-by summarising key findings from the available evidence. In women who are not pregnant, metformin can help improve insulin resistance, hormone levels, and menstrual regularity, particularly among those who are overweight or have signs of insulin resistance. However, metformin alone is not a first-choice treatment for weight loss, ovulation problems, or symptoms such as acne and unwanted hair growth. When combined with other treatments, such as hormone therapy or fertility medications, it may offer additional benefits. During pregnancy, metformin is considered safe for use in women with PCOS and may lower the risk of early pregnancy loss and preterm birth. However, its effects on preventing gestational diabetes or high blood pressure are less clear, with mixed results across studies. Some research suggests that babies exposed to metformin in the womb may have slightly larger head sizes or a higher risk of being overweight in early childhood, but the long-term health effects remain unknown. Overall, metformin can be a helpful part of treatment for some women with PCOS, especially those with insulin resistance or certain pregnancy risks. Still, it is not a one-size-fits-all solution. More high-quality research is needed to better understand which women benefit most and to assess any long-term effects on children exposed to metformin during pregnancy.",
+      "pub_date": "2025-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Metformin",
+        "Polycystic Ovary Syndrome",
+        "Pregnancy",
+        "Hypoglycemic Agents",
+        "Insulin Resistance",
+        "Hyperandrogenism",
+        "Diabetes Mellitus, Type 2",
+        "Pregnancy Outcome",
+        "Pregnancy Complications"
+      ],
+      "chemicals": [
+        "Metformin",
+        "Hypoglycemic Agents"
+      ],
+      "journal": "Diabetes, obesity & metabolism",
+      "authors": [
+        "Saeede Saadati",
+        "Taitum Mason",
+        "Rasoul Godini",
+        "Eszter Vanky",
+        "Helena Teede",
+        "Aya Mousa"
+      ]
+    },
+    {
+      "pmid": "38870290",
+      "title": "Artemisinins ameliorate polycystic ovarian syndrome by mediating LONP1-CYP11A1 interaction.",
+      "abstract": "Polycystic ovary syndrome (PCOS), a prevalent reproductive disorder in women of reproductive age, features androgen excess, ovulatory dysfunction, and polycystic ovaries. Despite its high prevalence, specific pharmacologic intervention for PCOS is challenging. In this study, we identified artemisinins as anti-PCOS agents. Our finding demonstrated the efficacy of artemisinin derivatives in alleviating PCOS symptoms in both rodent models and human patients, curbing hyperandrogenemia through suppression of ovarian androgen synthesis. Artemisinins promoted cytochrome P450 family 11 subfamily A member 1 (CYP11A1) protein degradation to block androgen overproduction. Mechanistically, artemisinins directly targeted lon peptidase 1 (LONP1), enhanced LONP1-CYP11A1 interaction, and facilitated LONP1-catalyzed CYP11A1 degradation. Overexpression of LONP1 replicated the androgen-lowering effect of artemisinins. Our data suggest that artemisinin application is a promising approach for treating PCOS and highlight the crucial role of the LONP1-CYP11A1 interaction in controlling hyperandrogenism and PCOS occurrence.",
+      "pub_date": "2024-06-14",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Female",
+        "Humans",
+        "Mice",
+        "Rats",
+        "Androgens",
+        "Artemisinins",
+        "Cholesterol Side-Chain Cleavage Enzyme",
+        "Disease Models, Animal",
+        "Hyperandrogenism",
+        "Mitochondrial Proteins",
+        "Ovary",
+        "Polycystic Ovary Syndrome",
+        "Proteolysis",
+        "Mice, Inbred C57BL",
+        "Young Adult",
+        "Adult",
+        "Rats, Sprague-Dawley",
+        "ATP-Dependent Proteases"
+      ],
+      "chemicals": [
+        "Androgens",
+        "Artemisinins",
+        "Cholesterol Side-Chain Cleavage Enzyme",
+        "Mitochondrial Proteins",
+        "LONP1 protein, human",
+        "ATP-Dependent Proteases"
+      ],
+      "journal": "Science (New York, N.Y.)",
+      "authors": [
+        "Yang Liu",
+        "Jing-Jing Jiang",
+        "Shao-Yue Du",
+        "Liang-Shan Mu",
+        "Jian-Jun Fan",
+        "Jun-Chi Hu"
+      ]
+    },
+    {
+      "pmid": "39765297",
+      "title": "Integrating network pharmacology to investigate the mechanism of quercetin's action through AKT inhibition in co-expressed genes associated with polycystic ovary syndrome and endometrial cancer.",
+      "abstract": "Endometrial cancer (EC) is a common gynecological malignancy for which polycystic ovarian syndrome (PCOS) has been identified as a significant risk factor. Quercetin, a widely distributed natural flavonoid, has demonstrated potential therapeutic effects in managing both PCOS and EC. However, the specific molecular targets of quercetin in the context of PCOS comorbid with EC (PCOS-EC) remain poorly defined. This study aims to elucidate the therapeutic potential of quercetin for treating PCOS-EC using network pharmacology, molecular dynamics simulations, and in vitro assays. The intersection of 379 PCOS-EC-associated targets with 361 quercetin targets identified 47 potential therapeutic targets of quercetin for PCOS-EC. Gene Ontology enrichment analysis revealed the biological functions, while Kyoto Encyclopedia of Genes and Genomes identified the pathways potentially involved in quercetin's effects against PCOS-EC. Protein-protein interaction network analysis highlighted six overlapping targets, namely, ACTB, AKT1, EGFR, ESR1, PTGS2, and TP53. Molecular docking and molecular dynamics simulations indicated that quercetin bound with high affinity to the hub genes, with AKT1 emerging as a central target. In vitro experiments confirmed that quercetin treatment significantly downregulated AKT expression in EC cells. These findings elucidate potential targets and molecular mechanisms through which quercetin exerts its therapeutic effects.",
+      "pub_date": "2025-03-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Quercetin",
+        "Humans",
+        "Female",
+        "Polycystic Ovary Syndrome",
+        "Proto-Oncogene Proteins c-akt",
+        "Network Pharmacology",
+        "Molecular Docking Simulation",
+        "Molecular Dynamics Simulation",
+        "Endometrial Neoplasms",
+        "Protein Interaction Maps",
+        "Gene Expression Regulation, Neoplastic",
+        "Cell Line, Tumor",
+        "Gene Regulatory Networks"
+      ],
+      "chemicals": [
+        "Quercetin",
+        "Proto-Oncogene Proteins c-akt"
+      ],
+      "journal": "International journal of biological macromolecules",
+      "authors": [
+        "Mengyuan Li",
+        "Yewei Cui",
+        "Xingfan Wu",
+        "Xunmei Yang",
+        "Chenglong Huang",
+        "Lili Yu"
+      ]
+    },
+    {
+      "pmid": "40192074",
+      "title": "Gut Microbiota Modulation by Inulin Improves Metabolism and Ovarian Function in Polycystic Ovary Syndrome.",
+      "abstract": "The management of metabolic disorder associated with polycystic ovary syndrome (PCOS) has been suggested as an effective approach to improve PCOS which is highly involved with gut microbiota, while the underlying mechanism is unclear. Here, we investigated the role of inulin, a gut microbiota regulator, in the alleviation of PCOS. Our findings showed that inulin treatment significantly improved hyperandrogenism and glucolipid metabolism in both PCOS cohort and mice. Consistent with the cohort, inulin increased the abundance of microbial co-abundance group (CAG) 12 in PCOS mice, including Bifidobacterium species and other short-chain fatty acids (SCFAs)-producers. We further verified the enhancement of SCFAs biosynthesis capacity and fecal SCFAs content by inulin. Moreover, inulin decreased lipopolysaccharide-binding protein (LBP) and ameliorated ovarian inflammation in PCOS mice, whereas intraperitoneal lipopolysaccharide (LPS) administration reversed the protective effects of inulin. Furthermore, fecal microbiota transplantation (FMT) from inulin-treated patients with PCOS enhanced insulin sensitivity, improved lipid accumulation and thermogenesis, reduced hyperandrogenism and ovarian inflammatory response in antibiotic-treated mice. Collectively, these findings revealed that gut microbiota mediates the beneficial effects of inulin on metabolic disorder and ovarian dysfunction in PCOS. Therefore, modulating gut microbiota represents a promising therapeutic strategy for PCOS.",
+      "pub_date": "2025-05-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Polycystic Ovary Syndrome",
+        "Female",
+        "Gastrointestinal Microbiome",
+        "Animals",
+        "Inulin",
+        "Mice",
+        "Fecal Microbiota Transplantation",
+        "Humans",
+        "Ovary",
+        "Disease Models, Animal",
+        "Fatty Acids, Volatile"
+      ],
+      "chemicals": [
+        "Inulin",
+        "Fatty Acids, Volatile"
+      ],
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Lulu Geng",
+        "Xin Yang",
+        "Jiani Sun",
+        "Ximing Ran",
+        "Dan Zhou",
+        "Mingming Ye"
+      ]
+    },
+    {
+      "pmid": "39201722",
+      "title": "The Pathophysiological Mechanism and Clinical Treatment of Polycystic Ovary Syndrome: A Molecular and Cellular Review of the Literature.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is a prevalent metabolic disorder among women of reproductive age, characterized by hyperandrogenism, ovulatory dysfunction, and polycystic ovaries. The pathogenesis of PCOS involves a complex interplay of genetic and environmental factors, including insulin resistance (IR) and resultant hyperinsulinemia. Insulin receptors, primarily in skeletal muscle, liver, and adipose tissue, activate downstream signaling pathways like PI3K-AKT and MAPK-ERK upon binding. These pathways regulate glucose uptake, storage, and lipid metabolism. Genome-wide association studies (GWASs) have identified several candidate genes related to steroidogenesis and insulin signaling. Environmental factors such as endocrine-disrupting chemicals and lifestyle choices also exacerbate PCOS traits. Other than lifestyle modification and surgical intervention, management strategies for PCOS can be achieved by using pharmacological treatments like antiandrogens, metformin, thiazolidinediones, aromatase inhibitor, and ovulation drugs to improve insulin sensitivity and ovulatory function, as well as combined oral contraceptives with or without cyproterone to resume menstrual regularity. Despite the complex pathophysiology and significant economic burden of PCOS, a comprehensive understanding of its molecular and cellular mechanisms is crucial for developing effective public health policies and treatment strategies. Nevertheless, many unknown aspects of PCOS, including detailed mechanisms of actions, along with the safety and effectiveness for the treatment, warrant further investigation.",
+      "pub_date": "2024-08-20",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Polycystic Ovary Syndrome",
+        "Humans",
+        "Female",
+        "Insulin Resistance",
+        "Signal Transduction",
+        "Animals"
+      ],
+      "chemicals": [],
+      "journal": "International journal of molecular sciences",
+      "authors": [
+        "Kai-Jung Chang",
+        "Jie-Hong Chen",
+        "Kuo-Hu Chen"
+      ]
+    },
+    {
+      "pmid": "40713699",
+      "title": "Effects of combined metformin and semaglutide therapy on body weight, metabolic parameters, and reproductive outcomes in overweight/obese women with polycystic ovary syndrome: a prospective, randomized, controlled, open-label clinical trial.",
+      "abstract": "This study aimed to assess the effects of metformin (MET) monotherapy versus a combination of semaglutide and MET on weight, metabolism, reproductive function, and inflammatory markers in women with polycystic ovary syndrome (PCOS). A total of 100 overweight or obese women with PCOS diagnosed according to the Rotterdam criteria were randomly assigned to two groups: MET (1000\u00a0mg twice daily [BID] for 16 weeks) and combination therapy (COM) (1000 \u200amg MET BID plus 1-\u200amg semaglutide once weekly [QW] for 16 weeks). Primary outcomes, assessed at Week 0 and Week 16, included changes in anthropometric measures related to obesity, while the secondary outcomes included alterations in reproductive hormone levels, glucose and lipid metabolism, and C-reactive protein (CRP) levels, Between Weeks 16 and 40, all participants received metformin monotherapy (1000\u00a0mg BID) to evaluate pregnancy outcomes. A total of 80 participants (80%) completed the study. After 16 weeks of intervention, the COM group exhibited significantly greater reductions in body weight, BMI, and waist-to-hip ratio (WHR) compared to the MET group (all P\u2009<\u20090.01). The COM group experienced an average weight loss of 6.09\u2009\u00b1\u20093.34\u00a0kg, while the MET group lost only 2.25\u2009\u00b1\u20094.27\u00a0kg. The COM group also demonstrated greater improvements in testosterone (TEST), Chinese visceral adiposity index (CVAI), and CRP levels compared to the MET group. Additionally, the COM group showed higher rates of menstrual cycle recovery than the MET group. From weeks 16 to 40, the COM group demonstrated a significantly higher natural pregnancy rate than the MET group (35% vs. 15%, P\u2009<\u20090.05). Compared to MET monotherapy, combination therapy with semaglutide and MET significantly reduced body weight, improved insulin resistance, decreased inflammatory markers, alleviated and menstrual irregularities and increased natural pregnancy rates in overweight/obese women with PCOS. chictr.org.cn ID: ChiCTR2400090908 (Registration time: 2024-10-15).",
+      "pub_date": "2025-07-26",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Metformin",
+        "Polycystic Ovary Syndrome",
+        "Adult",
+        "Obesity",
+        "Drug Therapy, Combination",
+        "Overweight",
+        "Pregnancy",
+        "Glucagon-Like Peptides",
+        "Body Weight",
+        "Prospective Studies",
+        "Young Adult",
+        "Hypoglycemic Agents",
+        "Treatment Outcome",
+        "Pregnancy Outcome",
+        "Reproduction",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Metformin",
+        "Glucagon-Like Peptides",
+        "Hypoglycemic Agents",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "journal": "Reproductive biology and endocrinology : RB&E",
+      "authors": [
+        "Haiyan Chen",
+        "Xiaohui Lei",
+        "Zhuoran Yang",
+        "Yuxin Xu",
+        "Dongfang Liu",
+        "Cong Wang"
+      ]
+    },
+    {
+      "pmid": "38725974",
+      "title": "Alternative treatment of polycystic ovary syndrome: pre-clinical and clinical basis for using plant-based drugs.",
+      "abstract": "The most common cause of infertility and metabolic problems among women of reproductive age is polycystic ovary syndrome (PCOS), a multifaceted disorder. It is an endocrine disorder that occurs in approximately one in seven women. Among these PCOS patients, two thirds will not ovulate on a regular basis and seek treatment for ovulation induction. The symptoms vary in their severity, namely ovulation disorders, excessive androgen levels, or polycystic ovarian morphology. All these symptoms require a therapeutic approach. Many drugs are used to eradicate PCOS symptoms, like metformin, clomiphene citrate, spironolactone, and pioglitazone. Long-term treatment is required to achieve the desired outcome, which is often accompanied by significant adverse reactions. Some herbs and phytochemicals are equally effective for treating PCOS and produce minimal side effects. Recently, herbal products are gaining popularity due to their wide biological activities, safety, availability, and efficacy. The present review covers aetiology, current treatment, pathophysiology, and detailed pre-clinical and clinical studies on plants and phytochemicals that are proven to be useful for the treatment of symptoms associated with PCOS.",
+      "pub_date": "2023-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Polycystic Ovary Syndrome",
+        "Humans",
+        "Female",
+        "Phytotherapy",
+        "Phytochemicals",
+        "Animals",
+        "Plant Extracts"
+      ],
+      "chemicals": [
+        "Phytochemicals",
+        "Plant Extracts"
+      ],
+      "journal": "Frontiers in endocrinology",
+      "authors": [
+        "Sidra Malik",
+        "Saira Saeed",
+        "Ammara Saleem",
+        "Muhammad Imran Khan",
+        "Aslam Khan",
+        "Muhammad Furqan Akhtar"
+      ]
+    },
+    {
+      "pmid": "39353946",
+      "title": "Superior metabolic improvement of polycystic ovary syndrome traits after GLP1-based multi-agonist therapy.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is a heterogeneous condition, defined by oligo-/anovulation, hyper-androgenism and/or polycystic ovaries. Metabolic complications are common in patients suffering PCOS, including obesity, insulin resistance and type-2 diabetes, which severely compromise the clinical course of affected women. Yet, therapeutic options remain mostly symptomatic and of limited efficacy for the metabolic and reproductive alterations of PCOS. We report here the hormonal, metabolic and gonadal responses to the glucagon-like peptide-1 (GLP1)-based multi-agonists, GLP1/Estrogen (GLP1/E), GLP1/gastric inhibitory peptide (GLP1/GIP) and GLP1/GIP/Glucagon, in two mouse PCOS models, with variable penetrance of metabolic and reproductive traits, and their comparison with metformin. Our data illustrate the superior efficacy of GLP1/E vs. other multi-agonists and metformin in the management of metabolic complications of PCOS; GLP1/E ameliorates also ovarian cyclicity in an ovulatory model of PCOS, without direct estrogenic uterotrophic effects. In keeping with GLP1-mediated brain targeting, quantitative proteomics reveals changes in common and distinct hypothalamic pathways in response to GLP1/E between the two PCOS models, as basis for differential efficiency. Altogether, our data set the basis for the use of GLP1-based multi-agonists, and particularly GLP1/E, in the personalized management of PCOS.",
+      "pub_date": "2024-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Polycystic Ovary Syndrome",
+        "Female",
+        "Animals",
+        "Glucagon-Like Peptide 1",
+        "Metformin",
+        "Mice",
+        "Disease Models, Animal",
+        "Humans",
+        "Gastric Inhibitory Polypeptide",
+        "Estrogens",
+        "Ovary",
+        "Insulin Resistance",
+        "Mice, Inbred C57BL"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptide 1",
+        "Metformin",
+        "Gastric Inhibitory Polypeptide",
+        "Estrogens"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Miguel A S\u00e1nchez-Garrido",
+        "V\u00edctor Serrano-L\u00f3pez",
+        "Francisco Ruiz-Pino",
+        "Mar\u00eda Jes\u00fas V\u00e1zquez",
+        "Andrea Rodr\u00edguez-Mart\u00edn",
+        "Encarnaci\u00f3n Torres"
+      ]
+    },
+    {
+      "pmid": "39861414",
+      "title": "Efficacy of",
+      "abstract": "Polycystic ovary syndrome (PCOS) is a common endocrine disorder that affects women of reproductive age and requires better treatment. In accordance with PRISMA standards, this meta-analysis included studies that compared Twenty-two studies ( NAC had a major effect on progesterone, endometrial thickness, and LH levels in women with PCOS. Therefore, it may be a potential treatment option.",
+      "pub_date": "2025-01-14",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Polycystic Ovary Syndrome",
+        "Acetylcysteine",
+        "Female",
+        "Metformin",
+        "Treatment Outcome",
+        "Endometrium",
+        "Clomiphene",
+        "Progesterone",
+        "Luteinizing Hormone",
+        "Adult",
+        "Antioxidants"
+      ],
+      "chemicals": [
+        "Acetylcysteine",
+        "Metformin",
+        "Clomiphene",
+        "Progesterone",
+        "Luteinizing Hormone",
+        "Antioxidants"
+      ],
+      "journal": "Nutrients",
+      "authors": [
+        "Isabel Vi\u00f1a",
+        "Juan R Vi\u00f1a",
+        "Macarena Carranza",
+        "Gonzalo Mariscal"
+      ]
+    },
+    {
+      "pmid": "39489338",
+      "title": "Genetic associations of metabolic factors and therapeutic drug targets with polycystic ovary syndrome.",
+      "abstract": "Polycystic ovary syndrome (PCOS) is frequently accompanied with metabolic dysfunctions, yet the causal relationships between metabolic factors and PCOS remain to be conclusively established and etiology-based therapies are lacking. To comprehensively identify the metabolic causal factors and potential drug targets for PCOS. This genetic association study was conducted using bidirectional two-sample Mendelian Randomization (MR), multivariable MR (MVMR) and drug-target MR. Considering metabolic sexual dimorphism, female-specific genome-wide association studies (GWASs) for metabolic factors were obtained. To ensure the robustness of the findings, an additional independent PCOS GWAS dataset was utilized for replication. The PCOS cohort included 10,074 PCOS cases (mean age 28 to 45\u00a0years) and 103,164 controls (mean age 27 to 60\u00a0years) of European ancestry. All participants were female. Employing two-sample MR analysis, we found that genetically proxied body mass index (BMI) (OR = 3.40 [95\u00a0% CI, 2.65-4.36]), triglyceride (TG) (OR = 1.54 [95\u00a0% CI, 1.17-2.04]), low-density lipoprotein cholesterol (LDL-c) (OR = 1.37 [95\u00a0% CI, 1.07-1.76]), and type 2 diabetes (T2D) (OR = 1.24 [95\u00a0% CI, 1.09-1.41]) were significantly associated with an increased risk of PCOS, whereas genetically predicted high-density lipoprotein cholesterol (HDL-c) (OR = 0.61 [95\u00a0% CI, 0.47-0.80]) decreased the odds of PCOS. Stepwise MVMR established a hierarchy of interactions among these metabolic factors, identifying BMI and HDL-c as the most prominent causal factors. Notably, drug-target MR analysis identified incretin-based therapeutics, PCSK9 inhibitors, LPL gene therapy, sulfonylureas, and thiazolidinediones as potential therapeutics for PCOS. All these findings were validated in an independent dataset. This study offered insights into the roles of obesity, diabetes, and dyslipidemia in PCOS etiology and therapeutics, underscoring the necessity for managing metabolic health in women and paving the way for tailored therapeutic strategies for PCOS based on its metabolic underpinnings.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Polycystic Ovary Syndrome",
+        "Female",
+        "Adult",
+        "Genome-Wide Association Study",
+        "Mendelian Randomization Analysis",
+        "Middle Aged",
+        "Body Mass Index",
+        "Polymorphism, Single Nucleotide",
+        "Triglycerides",
+        "Genetic Predisposition to Disease",
+        "Cholesterol, LDL"
+      ],
+      "chemicals": [
+        "Triglycerides",
+        "Cholesterol, LDL"
+      ],
+      "journal": "Journal of advanced research",
+      "authors": [
+        "Changlong Zhang",
+        "Yuxuan Li",
+        "Yang Wang",
+        "Shourui Hu",
+        "Yue Liu",
+        "Xiaofan Liang"
+      ]
+    },
+    {
+      "pmid": "39683590",
+      "title": "Butyrate as a Potential Modulator in Gynecological Disease Progression.",
+      "abstract": "This review investigates the therapeutic potential of butyrate, a short-chain fatty acid (SCFA) produced by gut microbiota, in the prevention and treatment of various gynecological diseases, including polycystic ovary syndrome (PCOS), endometriosis, and gynecologic cancers like cervical and ovarian cancer. These conditions often pose treatment challenges, with conventional therapies offering limited and temporary relief, significant side effects, and a risk of recurrence. Emerging evidence highlights butyrate's unique biological activities, particularly its role as a histone deacetylase (HDAC) inhibitor, which allows it to modulate gene expression, immune responses, and inflammation. In PCOS, butyrate aids in restoring hormonal balance, enhancing insulin sensitivity, and reducing chronic inflammation. For endometriosis, butyrate appears to suppress immune dysregulation and minimize lesion proliferation. Additionally, in cervical and ovarian cancers, butyrate demonstrates anticancer effects through mechanisms such as cell cycle arrest, apoptosis induction, and suppression of tumor progression. Dietary interventions, particularly high-fiber and Mediterranean diets, that increase butyrate production are proposed as complementary approaches, supporting natural microbiota modulation to enhance therapeutic outcomes. However, butyrate's short half-life limits its clinical application, spurring interest in butyrate analogs and probiotics to maintain stable levels and extend its benefits. This review consolidates current findings on butyrate's multifaceted impact across gynecological health, highlighting the potential for microbiota-centered therapies in advancing treatment strategies and improving women's reproductive health.",
+      "pub_date": "2024-12-04",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Butyrates",
+        "Polycystic Ovary Syndrome",
+        "Disease Progression",
+        "Endometriosis",
+        "Gastrointestinal Microbiome",
+        "Genital Diseases, Female",
+        "Ovarian Neoplasms",
+        "Uterine Cervical Neoplasms",
+        "Histone Deacetylase Inhibitors"
+      ],
+      "chemicals": [
+        "Butyrates",
+        "Histone Deacetylase Inhibitors"
+      ],
+      "journal": "Nutrients",
+      "authors": [
+        "Nayeon Kim",
+        "Changwon Yang"
+      ]
+    },
+    {
+      "pmid": "39415242",
+      "title": "N-acetylcysteine supplementation improves endocrine-metabolism profiles and ovulation induction efficacy in polycystic ovary syndrome.",
+      "abstract": "Polycystic ovary syndrome (PCOS) affects 6-20% of women worldwide, with insulin resistance and hyperinsulinemia occurring in 50-70% of patients. Hyperinsulinemia exacerbates oxidative stress, contributing to PCOS pathogenesis. N-acetylcysteine (NAC) is an antioxidant and insulin sensitizer that shows promise as a therapeutic for PCOS. Our current study aimed to investigate the effects of NAC supplementation on endocrine-metabolic parameters in PCOS mice and its effect on ovulation induction (OI) efficacy in women with PCOS. Female C57BL/6 mice were orally administered letrozole (LE) to induce PCOS and then randomly divided into groups receiving daily oral administration of 160\u00a0mg/kg NAC (PCOS\u2009+\u2009NAC group), 200\u00a0mg/kg metformin (PCOS\u2009+\u2009Met group), or 0.5% carboxymethyl cellulose (drug solvent) (pure PCOS group) for 12 days. Healthy female mice served as pure controls. Estrous cycles were monitored during the intervention. Metabolic and hormone levels, ovarian phenotypes, antioxidant activity in ovarian tissues, and oxidative stress levels in oocytes were assessed post-intervention. Furthermore, a pragmatic, randomized, controlled clinical study was conducted with 230 PCOS women, randomly assigned to the NAC group (1.8\u00a0g/day oral NAC, n\u2009=\u2009115) or the control group (n\u2009=\u2009115). Patients in both groups underwent\u2009\u2264\u20093 cycles of OI with sequential LE and urinary follicle-stimulating hormone (uFSH). Cycle characteristics and pregnancy outcomes were compared between groups. Similar to metformin, NAC supplementation significantly improved the estrous cycles and ovarian phenotypes of PCOS mice; reduced the LH concentration, LH/FSH ratio, and T level; and increased glucose clearance and insulin sensitivity. Notably, NAC significantly reduced oocyte ROS levels and increased the mitochondrial membrane potential in PCOS mice. Additionally, NAC significantly enhanced enzymatic and nonenzymatic antioxidant activities in PCOS mouse ovaries, whereas metformin had no such effect. In the clinical trial, compared to women in the control group, women receiving NAC had significantly lower average uFSH dosage and duration (p\u2009<\u20090.005) and significantly greater clinical pregnancy rates per OI cycle and cumulative clinical pregnancy rates per patient (p\u2009<\u20090.005). NAC supplementation improved endocrine-metabolic parameters in PCOS mice and significantly enhanced OI efficacy with sequential LE and uFSH in women with PCOS. Therefore, NAC could be a valuable adjuvant in OI for women with PCOS.",
+      "pub_date": "2024-10-16",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Pragmatic Clinical Trial"
+      ],
+      "mesh_descriptors": [
+        "Polycystic Ovary Syndrome",
+        "Female",
+        "Acetylcysteine",
+        "Animals",
+        "Mice",
+        "Humans",
+        "Ovulation Induction",
+        "Adult",
+        "Oxidative Stress",
+        "Mice, Inbred C57BL",
+        "Pregnancy",
+        "Dietary Supplements",
+        "Antioxidants",
+        "Ovary",
+        "Metformin",
+        "Insulin Resistance",
+        "Letrozole"
+      ],
+      "chemicals": [
+        "Acetylcysteine",
+        "Antioxidants",
+        "Metformin",
+        "Letrozole"
+      ],
+      "journal": "Journal of ovarian research",
+      "authors": [
+        "Yu-Qing Fang",
+        "Hui Ding",
+        "Tao Li",
+        "Xiao-Jie Zhao",
+        "Dan Luo",
+        "Yi Liu"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+holon_id,fp_A,fp_B,conv_A,conv_B,iters_A,iters_B
+q_acute_kidney_injury_treatment,True,False,True,False,1,3
+q_addison_disease_efficacy,True,False,True,False,1,3
+q_alzheimer_disease_treatment,True,False,True,True,1,3
+q_angina_pectoris_treatment,True,False,True,True,1,2
+q_ankylosing_spondylitis_efficacy,True,False,True,True,1,2
+q_asthma_efficacy,True,False,True,False,1,3
+q_bipolar_disorder_efficacy,True,False,True,True,1,2
+q_breast_cancer_efficacy,True,False,True,False,1,3
+q_cellulitis_treatment,False,False,True,False,2,3
+q_cirrhosis_efficacy,True,False,True,False,1,3

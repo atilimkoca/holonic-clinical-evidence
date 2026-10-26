@@ -1,0 +1,388 @@
+{
+  "disease": "Peptic Ulcer Disease",
+  "slug": "peptic_ulcer_disease",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "39466269",
+      "title": "Peptic Ulcer Disease: A Review.",
+      "abstract": "In the US, peptic ulcer disease affects 1% of the population and approximately 54\u202f000 patients are admitted to the hospital annually for bleeding peptic ulcers. Approximately 10% of patients presenting with upper abdominal pain in a primary care setting have a peptic ulcer as the cause of their symptoms. The principal causes of peptic ulcer disease are Helicobacter pylori infection, which affects approximately 42% of patients with peptic ulcer disease, and aspirin or nonsteroidal anti-inflammatory drug (NSAID) use, which are etiologic factors in approximately 36% of people with peptic ulcer disease. Complications of peptic ulcer include bleeding (73% of patients), perforation (9% of patients), and pyloric obstruction (3% of patients). Annually, 10\u202f000 people die of peptic ulcer disease in the US. Endoscopy definitively diagnoses peptic ulcer disease. Acid blockers, such as omeprazole, can heal peptic ulcers in approximately 80% to 100% of patients within 4 weeks, but gastric ulcers larger than 2 cm may require 8 weeks of treatment. Eradication of H pylori decreases peptic ulcer recurrence rates from approximately 50% to 60% to 0% to 2%. Discontinuing NSAIDs heals 95% of ulcers identified on endoscopy and reduces recurrence from 40% to 9%. When discontinuing an NSAID is not desirable, changing the NSAID (eg, from ketorolac to ibuprofen), adding a proton pump inhibitor such as omeprazole or lansoprazole, and eradicating H pylori with treatment such as bismuth, metronidazole, and tetracycline combined with omeprazole can reduce recurrence rates. Peptic ulcer disease is associated with increased hospitalization rates and mortality. Acid blocking with proton pump inhibitors, such as omeprazole or lansoprazole, is the primary treatment. Recurrence of ulcers can be prevented by eradicating H pylori if present and discontinuing aspirin or NSAIDs if applicable.",
+      "pub_date": "2024-12-03",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Anti-Ulcer Agents",
+        "Aspirin",
+        "Helicobacter Infections",
+        "Helicobacter pylori",
+        "Peptic Ulcer",
+        "Proton Pump Inhibitors",
+        "Recurrence",
+        "Abdominal Pain",
+        "Endoscopy, Gastrointestinal",
+        "Metronidazole",
+        "Bismuth",
+        "Drug Therapy, Combination"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Anti-Ulcer Agents",
+        "Aspirin",
+        "Proton Pump Inhibitors",
+        "Metronidazole",
+        "Bismuth"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Nimish Vakil"
+      ]
+    },
+    {
+      "pmid": "38885678",
+      "title": "Peptic ulcer disease.",
+      "abstract": "Annual prevalence estimates of peptic ulcer disease range between 0\u00b712% and 1\u00b75%. Peptic ulcer disease is usually attributable to Helicobacter pylori infection, intake of some medications (such as aspirin and non-steroidal anti-inflammatory medications), or being critically ill (stress-related), or it can be idiopathic. The clinical presentation is usually uncomplicated, with peptic ulcer disease management based on eradicating H pylori if present, the use of acid-suppressing medications-most often proton pump inhibitors (PPIs)-or addressing complications, such as with early endoscopy and high-dose PPIs for peptic ulcer bleeding. Special considerations apply to patients on antiplatelet and antithrombotic agents. H pylori treatment has evolved, with the choice of regimen dictated by local antibiotic resistance patterns. Indications for primary and secondary prophylaxis vary across societies; most suggest PPIs for patients at highest risk of developing a peptic ulcer, its complications, or its recurrence. Additional research areas include the use of potassium-competitive acid blockers and H pylori vaccination; the optimal approach for patients at risk of stress ulcer bleeding requires more robust determinations of optimal patient selection and treatment selection, if any. Appropriate continuation of PPI use outweighs most possible side-effects if given for approved indications, while de-prescribing should be trialled when a definitive indication is no longer present.",
+      "pub_date": "2024-07-06",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Anti-Bacterial Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Helicobacter Infections",
+        "Peptic Ulcer",
+        "Proton Pump Inhibitors"
+      ],
+      "chemicals": [
+        "Anti-Bacterial Agents",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Proton Pump Inhibitors"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Majid A Almadi",
+        "Yidan Lu",
+        "Ali A Alali",
+        "Alan N Barkun"
+      ]
+    },
+    {
+      "pmid": "37365037",
+      "title": "Peptic ulcer.",
+      "abstract": "Peptic ulcer disease is a frequent pathology; although the incidence has decreased in recent years, it continues to be an important cause of morbidity and mortality associated with high healthcare costs. The most important risk factors are Helicobacter pylori(H. pylori) infection and the use of non-steroidal anti-inflammatory drugs. Most patients with peptic ulcer disease remain asymptomatic, with dyspepsia being the most frequent and often characteristic symptom. It can also debut with complications such as upper gastrointestinal bleeding, perforation or stenosis. The diagnostic technique of choice is upper gastrointestinal endoscopy. Treatment with proton pump inhibitors, eradication of H. pylori and avoiding the use of non-steroidal anti-inflammatory drugs are the basis of treatment. However, prevention is the best strategy, it includes an adequate indication of proton pump inhibitors, investigation and treatment of H. pylori, avoiding non-steroidal anti-inflammatory drugs or using those that are less gastrolesive.",
+      "pub_date": "2023-09-29",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Proton Pump Inhibitors",
+        "Helicobacter Infections",
+        "Peptic Ulcer",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Endoscopy, Digestive System",
+        "Helicobacter pylori"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "Anti-Inflammatory Agents, Non-Steroidal"
+      ],
+      "journal": "Medicina clinica",
+      "authors": [
+        "Isabel Laucirica",
+        "Pilar Garc\u00eda Iglesias",
+        "Xavier Calvet"
+      ]
+    },
+    {
+      "pmid": "37516507",
+      "title": "Peptic Ulcer Disease.",
+      "abstract": "Peptic ulcer disease is a common cause of epigastric pain typically related to Helicobacter pylori infection or NSAID use that can lead to serious consequences including upper GI bleed or perforation if undiagnosed. Diagnostic strategies vary depending on age and treatment is dependent on etiology.",
+      "pub_date": "2023-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Helicobacter Infections",
+        "Helicobacter pylori",
+        "Peptic Ulcer",
+        "Anti-Inflammatory Agents, Non-Steroidal",
+        "Gastrointestinal Hemorrhage"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents, Non-Steroidal"
+      ],
+      "journal": "Primary care",
+      "authors": [
+        "Emily Tuerk",
+        "Sara Doss",
+        "Kevin Polsley"
+      ]
+    },
+    {
+      "pmid": "38755116",
+      "title": "A Comprehensive Review on Ulcer and Their Treatment.",
+      "abstract": "A peptic ulcer is a lesion (sore) on the stomach lining, or duodenum. Peptic ulcers are probably a twentieth-century condition. The ulcer disease continues to be a significant source of worldwide morbidity and mortality. The Gastrointestinal ulcers and duodenal ulcers are considered the two most extreme types of peptic ulcers. Peptic ulcers are found to be caused by an excess of violent factors including Hydrochloric acid (HCL) pepsin, refluxed bile leukotrienes (LT), reactive oxygen species (ROS) and protective factors, these include mucus-bicarbonate barrier functions, prostaglandins (PGs), mucosal blood flow, cell regeneration and migration, non-enzymatic and enzymatic and certain growth factors. The primary cause of peptic ulcer disease is pylori infection and the use of NSAIDs. This review article underscores the importance of a multidisciplinary approach in the management of ulcers to improve patient outcomes and quality of life.",
+      "pub_date": "2023-12-21",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Peptic Ulcer"
+      ],
+      "chemicals": [],
+      "journal": "Zhongguo ying yong sheng li xue za zhi = Zhongguo yingyong shenglixue zazhi = Chinese journal of applied physiology",
+      "authors": [
+        "V R RaviKKumar",
+        "Sanjesh Rathi",
+        "Shubham Singh",
+        "Bhoomi Patel",
+        "Sakshi Singh",
+        "Kumkum Chaturvedi"
+      ]
+    },
+    {
+      "pmid": "39145848",
+      "title": "Potassium-competitive Acid Blockers: Current Clinical Use and Future Developments.",
+      "abstract": "Acid suppression with proton pump inhibitors (PPIs) represents the standard of care in the treatment of acid-related diseases. However, despite their effectiveness, PPIs display some intrinsic limitations, which underlie the unmet clinical needs that have been identified over the past decades. The aims of this review are to summarize the current status and future development of the new class of antisecretory drugs (potassium-competitive acid blockers, P-CABs) that have recently been introduced into medical practice. Over the past decades, clinical needs unmet by the current acid suppressants have been recognized, especially in the management of patients with GERD, Helicobacter pylori infection and NSAID-related peptic ulcer. The failure to address these needs is mainly due to their inability to achieve a consistent acid suppression in all patients and, particularly, to control nighttime acidity. It was then realized that an extended duration of acid suppression would exert additional benefits. The available data with P-CABs show that they are able to address these unmet clinical needs. Four different P-CABs (vonoprazan, tegoprazan, fexuprazan and keverprazan) are currently available. However, only two of them are approved outside Asia. Vonoprazan is available in North, Central and South America while tegoprazan is marketed only in Latin American countries. Two other compounds (namely linazapran glurate and zestaprazan) are presently under clinical development. While clinical trials on GERD have been performed with all P-CABs, only vonoprazan and tegoprazan have been investigated as components of Helicobacter pylori eradication regimens. The available data show that-in the above two clinical indications-P-CABs provide similar or better efficacy in comparison with PPIs. Their safety in the short-term overlaps that of PPIs, but data from long-term treatment are needed.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Proton Pump Inhibitors",
+        "Gastroesophageal Reflux",
+        "Helicobacter Infections",
+        "Peptic Ulcer",
+        "Gastric Acid",
+        "Helicobacter pylori",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "journal": "Current gastroenterology reports",
+      "authors": [
+        "Carmelo Scarpignato",
+        "Richard H Hunt"
+      ]
+    },
+    {
+      "pmid": "39269391",
+      "title": "AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice: Expert Review.",
+      "abstract": "The purpose of this American Gastroenterological Association (AGA) Institute Clinical Practice Update (CPU) is to summarize the available evidence and offer expert Best Practice Advice on the integration of potassium-competitive acid blockers (P-CABs) in the clinical management of foregut disorders, specifically including gastroesophageal reflux disease, Helicobacter pylori infection, and peptic ulcer disease. This expert review was commissioned and approved by the AGA Institute Governing Board and CPU Committee to provide timely guidance on a topic of high clinical importance to the AGA membership. This CPU expert review underwent internal peer review by the CPU Committee and external peer review through the standard procedures of Gastroenterology. These Best Practice Advice statements were developed based on review of the published literature and expert consensus opinion. Because formal systematic reviews were not performed, these Best Practice Advice statements do not carry formal ratings of the quality of evidence or strength of the presented considerations. Best Practice Advice Statements BEST PRACTICE ADVICE 1: Based on nonclinical factors (including cost, greater obstacles to obtaining medication, and fewer long-term safety data), clinicians should generally not use P-CABs as initial therapy for acid-related conditions in which clinical superiority has not been shown. BEST PRACTICE ADVICE 2: Based on current costs in the United States, even modest clinical superiority of P-CABs over double-dose proton pump inhibitors (PPIs) may not make P-CABs cost-effective as first-line therapy. BEST PRACTICE ADVICE 3: Clinicians should generally not use P-CABs as first-line therapy for patients with uninvestigated heartburn symptoms or nonerosive reflux disease. Clinicians may use P-CABs in selected patients with documented acid-related reflux who fail therapy with twice-daily PPIs. BEST PRACTICE ADVICE 4: Although there is currently insufficient evidence for clinicians to use P-CABs as first-line on-demand therapy for patients with heartburn symptoms who have previously responded to antisecretory therapy, their rapid onset of acid inhibition raises the possibility of their utility in this population. BEST PRACTICE ADVICE 5: Clinicians should generally not use P-CABs as first-line therapy in patients with milder erosive esophagitis (EE) (Los Angeles classification of erosive esophagitis grade A/B EE). Clinicians may use P-CABs in selected patients with documented acid-related reflux who fail therapy with twice-daily PPIs. BEST PRACTICE ADVICE 6: Clinicians may use P-CABs as a therapeutic option for the healing and maintenance of healing in patients with more severe EE (Los Angeles classification of erosive esophagitis grade C/D EE). However, given the markedly higher costs of the P-CAB presently available in the United States and the lack of randomized comparisons with double-dose PPIs, it is not clear that the benefits in endoscopic outcomes over standard-dose PPIs justify the routine use of P-CABs as first-line therapy. BEST PRACTICE ADVICE 7: Clinicians should use P-CABs in place of PPIs in eradication regimens for most patients with H pylori infection. BEST PRACTICE ADVICE 8: Clinicians should generally not use P-CABs as first-line therapy in the treatment or prophylaxis of peptic ulcer disease. BEST PRACTICE ADVICE 9: Although there is currently insufficient evidence for clinicians to use P-CABs as first-line therapy in patients with bleeding gastroduodenal ulcers and high-risk stigmata, their rapid and potent acid inhibition raises the possibility of their utility in this population.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gastroesophageal Reflux",
+        "Proton Pump Inhibitors",
+        "Peptic Ulcer",
+        "Gastroenterology",
+        "Helicobacter Infections",
+        "Evidence-Based Medicine",
+        "Societies, Medical",
+        "Treatment Outcome",
+        "United States",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "journal": "Gastroenterology",
+      "authors": [
+        "Amit Patel",
+        "Loren Laine",
+        "Paul Moayyedi",
+        "Justin Wu"
+      ]
+    },
+    {
+      "pmid": "39105658",
+      "title": "Rational use of gastroprotectants in cats: An evidence-based approach.",
+      "abstract": "Acid-related disorders including esophagitis and gastroduodenal ulceration are uncommon in the cat. However, when they occur, they can have devastating consequences and require targeted intervention, including the use of gastroprotectants. Careful consideration of the causes of esophagitis and gastroduodenal ulceration can help the clinician to determine which gastroprotectant to use, and when to begin and end gastroprotective therapy. Gastroprotectants remain one of the most misused classes of drugs in veterinary and human medicine. There are very few studies evaluating the efficacy of gastroprotective agents in cats. Furthermore, goals for the degree of gastric acid suppression are extrapolated from studies performed in dogs and humans. This review provides a foundation for the logical approach to the choice of gastroprotectant as indicated by the disease process, and is aimed at all veterinarians who prescribe gastroprotectants for use in cats. The guidance provided in this review is supported by current literature, including consensus opinion from the American College of Veterinary Internal Medicine. Gaps in evidence for use of gastroprotectants in cats are filled by extrapolations from studies performed in dogs and humans.",
+      "pub_date": "2024-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Cats",
+        "Animals",
+        "Cat Diseases",
+        "Evidence-Based Medicine",
+        "Anti-Ulcer Agents",
+        "Peptic Ulcer",
+        "Esophagitis"
+      ],
+      "chemicals": [
+        "Anti-Ulcer Agents"
+      ],
+      "journal": "Journal of feline medicine and surgery",
+      "authors": [
+        "Katie Tolbert",
+        "Eric Stubbs"
+      ]
+    },
+    {
+      "pmid": "39466255",
+      "title": "The Role of P-CABs in GERD.",
+      "abstract": "Potassium-competitive acid blockers (P-CABs) constitute a relatively new class of gastric acid-suppressing drugs. Among this class, vonoprazan is the first to have been approved in the United States. However, some P-CABs including vonoprazan, tegoprazan, and fexuprazan have been available in other countries since at least 2014. The first aim of this article is to review pharmacological differences between P-CABs that are currently approved or in development with proton pump inhibitors. The specific focus thereafter is on the likely role of P-CABs in the treatment of different manifestations of gastroesophageal reflux disease. Multiple clinical trials have compared P-CABs with proton pump inhibitors in erosive esophagitis. Additional trials have compared P-CABs with placebo in nonerosive reflux disease. Relevant results are reviewed, and inferences are drawn for their use in the United States. Finally, consideration is given to additional, potential uses of P-CABs in the broader spectrum of gastroesophageal reflux disease, and some suggestions are made for future research initiatives.",
+      "pub_date": "2025-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gastroesophageal Reflux",
+        "Proton Pump Inhibitors",
+        "Sulfonamides",
+        "Pyrroles",
+        "Esophagitis, Peptic"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Sulfonamides",
+        "Pyrroles"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "authors": [
+        "Colin W Howden"
+      ]
+    },
+    {
+      "pmid": "38345252",
+      "title": "Comparative Efficacy of P-CAB vs Proton Pump Inhibitors for Grade C/D Esophagitis: A Systematic Review and Network Meta-analysis.",
+      "abstract": "Los Angeles grade C/D esophagitis is a severe manifestation of gastroesophageal reflux disease that require active treatment and close follow-up. Potassium competitive acid blockers (P-CAB) are promising alternatives to proton pump inhibitors (PPI). We aimed to compare the efficacy and safety of P-CAB and PPI in healing grade C/D esophagitis to aid clinical decision-making. A systematic literature search was performed using PubMed, MEDLINE, and Cochrane Central Register of Controlled Trials. Randomized controlled trials were eligible for inclusion if efficacy of P-CAB and PPI in healing grade C/D esophagitis was reported. Pooled risk ratios and risk difference with 95% credible intervals were used to summarize estimated effect of each comparison. The benefit of treatments was ranked using the surface under the cumulative probability ranking score. Of 5,876 articles identified in the database, 24 studies were eligible. Studies included incorporated 3 P-CAB (vonoprazan, tegoprazan, and keverprazan) and 6 PPI (lansoprazole, esomeprazole, omeprazole, rabeprazole extended-release (ER), pantoprazole, and dexlansoprazole). Based on the failure to achieve mucosal healing, 20 mg of vonoprazan q.d. ranked the first among PPI in initial and maintained healing of grade C/D esophagitis (surface under the cumulative probability ranking score = 0.89 and 0.87, respectively). Vonoprazan had similar risk of incurring adverse events, severe adverse events, and withdrawal to drug when compared with PPI. For those who attempted lower maintenance treatment dose, 10 mg of vonoprazan q.d. was a reasonable choice, considering its moderate efficacy and safety. Vonoprazan has considerable efficacy in initial and maintained healing of grade C/D esophagitis compared with PPI, with moderate short-term and long-term safety.",
+      "pub_date": "2024-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "Network Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Esophagitis",
+        "Esophagitis, Peptic",
+        "Gastroesophageal Reflux",
+        "Proton Pump Inhibitors",
+        "Pyrroles",
+        "Randomized Controlled Trials as Topic",
+        "Sulfonamides",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Proton Pump Inhibitors",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "authors": [
+        "Qianjun Zhuang",
+        "Songfeng Chen",
+        "Xuyu Zhou",
+        "Xingyu Jia",
+        "Mengyu Zhang",
+        "Niandi Tan"
+      ]
+    },
+    {
+      "pmid": "40923937",
+      "title": "Potassium-competitive acid blockers.",
+      "abstract": "Acid suppression is the mainstay of management of common foregut disorders, including gastroesophageal reflux disease (GERD), peptic ulcer disease and Helicobacter pylori infection. Drawbacks of standard management with proton pump inhibitors (PPIs) include acid lability requiring enteric coating, slow onset of effect, lack of suppression of nocturnal acid breakthrough, and need for administration before meals. Potassium-competitive acid blockers (PCABs) are a novel class of acid suppressants that are effective in the management of symptomatic and erosive GERD, peptic ulcer disease and H. pylori infection. Administration before meals is not needed, and these agents achieve profound acid suppression right from the first dose, with control of daytime as well as nocturnal acid. In randomized controlled trials, PCABs are noninferior and often superior to PPIs, especially in healing of advanced grade esophagitis and eradication of treatment-naive as well as refractory H. pylori. The safety profile of PCABs over 10\u200ayears of use is reassuring, although profound acid suppression may contribute to hypergastrinemia and increased risk of gastrointestinal infections. As PCABs become available in many countries around the globe, real-world use will allow further research to determine the clinical niche of these acid-suppressive agents.",
+      "pub_date": "2025-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gastroesophageal Reflux",
+        "Helicobacter Infections",
+        "Proton Pump Inhibitors",
+        "Peptic Ulcer",
+        "Helicobacter pylori",
+        "Gastric Acid",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "journal": "Current opinion in gastroenterology",
+      "authors": [
+        "Trevor A Davis",
+        "C Prakash Gyawali"
+      ]
+    },
+    {
+      "pmid": "39294424",
+      "title": "Vonoprazan vs. Proton Pump Inhibitors for Treatment and Prevention of Gastric and/or Duodenal Ulcers: A Systematic Review with Meta-Analysis.",
+      "abstract": "Although Vonoprazan, a potassium-competitive acid blocker, is superior to proton pump inhibitors (PPIs) in treating Helicobacter pylori and erosive esophagitis, its efficacy for treating gastric and/or duodenal ulcers remains controversial. This meta-analysis summarizes the efficacy and safety of Vonoprazan vs. PPI for treating and preventing gastric and/or duodenal ulcers. Only randomized controlled trials randomizing gastric and/or duodenal ulcer patients, regardless of etiology, into Vonoprazan or any PPI and indexed in Embase, Medline, and CENTRAL until March 2, 2024 were searched. Primary outcomes were ulcer healing rates at Weeks 2, 4, 6, and 8 and recurrence rates at Week 24. Other outcomes included shrinkage rates, any adverse events (AEs), serious AEs (SAEs), and risks of delayed bleeding and perforation. The overall risk ratio (RR) and mean difference were pooled using the random-effects model. The risk of bias was assessed using the Cochrane Risk of Bias 2 (RoB2) Tool. Fifteen studies comprising 43 reports were included in the analysis. Healing rates of gastric and/or duodenal ulcers were similar in both Vonoprazan and PPI groups at all weeks (Week 2 RR 1.02 [95%\u00a0CI 0.89-1.16]; Week 4 0.99 [95% CI 0.95-1.04]; Week 6 1.00 [95% CI 0.96-1.03]; Week 8 0.99 [95% CI 0.95-1.03]). The recurrence prevention of peptic ulcers was not different in Vonoprazan 10\u00a0mg (RR 0.48; 95% CI 0.18-1.27) or 20\u00a0mg (0.60; 95% CI 0.28-1.30) to PPI. Shrinkage rates, any AEs, SAEs, and risks of delayed bleeding and perforation were similar in both groups. Vonoprazan is not significantly better than PPI in treating and preventing gastric and/or duodenal ulcers.",
+      "pub_date": "2024-10-01",
+      "publication_types": [
+        "Systematic Review",
+        "Journal Article",
+        "Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Duodenal Ulcer",
+        "Proton Pump Inhibitors",
+        "Pyrroles",
+        "Randomized Controlled Trials as Topic",
+        "Stomach Ulcer",
+        "Sulfonamides",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Proton Pump Inhibitors",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "journal": "Digestive diseases and sciences",
+      "authors": [
+        "Daniel Martin Simadibrata",
+        "Elvira Lesmana",
+        "Muhammad Iqbal Adi Pratama",
+        "Adrianus Jonathan Sugiharta",
+        "Ayers Gilberth Ivano Kalaij",
+        "Arzita Diandra Diva Fadhilla"
+      ]
+    }
+  ]
+}

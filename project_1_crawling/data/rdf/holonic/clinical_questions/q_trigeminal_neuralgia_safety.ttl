@@ -1,0 +1,55 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix oesym: <https://example.org/openevidence/symptoms/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_trigeminal_neuralgia_safety a holon:EntityEntry ;
+    holon:entity oed:trigeminal_neuralgia ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_trigeminal_neuralgia_safety a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_trigeminal_neuralgia_safety-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.93 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_trigeminal_neuralgia_safety ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:25299564 .
+
+oedrug:gabapentin oe:causesSideEffect oesym:headache .
+
+oeevt:ev_q_trigeminal_neuralgia_safety-tt rdf:object oesym:headache ;
+    rdf:predicate oe:causesSideEffect ;
+    rdf:subject oedrug:gabapentin .
+
+oeq:q_trigeminal_neuralgia_safety a holon:ClinicalQuestionHolon ;
+    rdfs:label "What are the main adverse effects and contraindications of treating Trigeminal Neuralgia w"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.76 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_trigeminal_neuralgia_safety-bnd ;
+    holon:hasContextGraph oeq:q_trigeminal_neuralgia_safety-ctx ;
+    holon:hasInteriorGraph oeq:q_trigeminal_neuralgia_safety-int ;
+    holon:hasProjectionGraph oeq:q_trigeminal_neuralgia_safety-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Trigeminal Neuralgia with gabapentin."^^xsd:string ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.93 ;
+    oe:aboutDisease oed:trigeminal_neuralgia ;
+    oe:answerText "Trigeminal neuralgia is a sudden, unilateral, brief, stabbing, recurrent pain in the distribution of one or more branches of the fifth cranial nerve. Pain occurs in paroxysms, which can last from a few seconds to several minutes."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    oe:cites oesrc:19445753,
+        oesrc:25299564,
+        oesrc:38421578,
+        oesrc:38816482 ;
+    oe:questionText "What are the main adverse effects and contraindications of treating Trigeminal Neuralgia with gabapentin?"^^xsd:string .
+

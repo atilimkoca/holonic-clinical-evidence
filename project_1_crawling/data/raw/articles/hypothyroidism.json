@@ -1,0 +1,380 @@
+{
+  "disease": "Hypothyroidism",
+  "slug": "hypothyroidism",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "39368843",
+      "title": "Hypothyroidism.",
+      "abstract": "Hypothyroidism, the deficiency of thyroid hormone, is a common condition worldwide. It affects almost all body systems and has a wide variety of clinical presentations from being asymptomatic to, in rare cases, life threatening. The classic symptoms of hypothyroidism include fatigue, lethargy, weight gain, and cold intolerance; however, these symptoms are non-specific and the diagnosis is typically made on biochemical grounds through serum thyroid function tests. The most common cause of hypothyroidism is chronic autoimmune thyroiditis (Hashimoto's thyroiditis), although other causes, including drugs (such as amiodarone, lithium, and immune checkpoint inhibitors), radioactive-iodine treatment, and thyroid surgery, are frequent. Historically, severe iodine deficiency was the most common cause. Reference ranges for thyroid function tests are based on fixed percentiles of the population distribution, but there is increasing awareness of the need for more individualised reference intervals based on key factors such as age, sex, and special circumstances such as pregnancy. Levothyroxine monotherapy is the standard treatment for hypothyroidism; it is safe and inexpensive, restores thyroid function tests to within the reference range, and improves symptoms in the majority of patients. However, 10% of patients have persistent symptoms of ill health despite normalisation of thyroid function tests biochemically and a substantial proportion of patients on levothyroxine have thyroid-stimulating hormone concentrations outside the reference range. Ongoing symptoms despite levothyroxine treatment has led to some patients using liothyronine or desiccated thyroid extract. Taken together, these factors have led to intense debate around the treatment thresholds and treatment strategies for hypothyroidism. In this Seminar, we review the epidemiology, genetic determinants, causes, and presentation of hypothyroidism; highlight key considerations and controversies in its diagnosis and management; and provide future directions for research.",
+      "pub_date": "2024-10-05",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hypothyroidism",
+        "Thyroid Function Tests",
+        "Thyroxine",
+        "Thyrotropin",
+        "Female",
+        "Pregnancy"
+      ],
+      "chemicals": [
+        "Thyroxine",
+        "Thyrotropin"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Peter N Taylor",
+        "Marco M Medici",
+        "Alicja Hubalewska-Dydejczyk",
+        "Kristien Boelaert"
+      ]
+    },
+    {
+      "pmid": "37648141",
+      "title": "Interventions to prevent miscarriage.",
+      "abstract": "The physical and psychological impact of miscarriage can be devastating. There are many lifestyle and therapeutic interventions that may prevent a miscarriage. In this review, we have outlined the key areas for health optimization to prevent pregnancy loss, drawing on the most up-to-date evidence available. The 3 key areas identified are lifestyle optimization in women, lifestyle optimization in men, and therapeutic interventions. The evidence demonstrates that the treatments to consider are first-trimester progesterone administration, levothyroxine in women with subclinical hypothyroidism, and the combination of aspirin and heparin in women with antiphospholipid antibodies.",
+      "pub_date": "2023-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Pregnancy",
+        "Female",
+        "Humans",
+        "Abortion, Spontaneous",
+        "Abortion, Habitual",
+        "Aspirin",
+        "Heparin",
+        "Thyroxine",
+        "Hypothyroidism"
+      ],
+      "chemicals": [
+        "Aspirin",
+        "Heparin",
+        "Thyroxine"
+      ],
+      "journal": "Fertility and sterility",
+      "authors": [
+        "Rima K Dhillon-Smith",
+        "Pedro Melo",
+        "Rosinder Kaur",
+        "Emily Fox",
+        "Adam Devall",
+        "Natalie Woodhead"
+      ]
+    },
+    {
+      "pmid": "39067967",
+      "title": "Thyroid Disorders.",
+      "abstract": "This article includes a review of information primary care physicians need to know direct their evaluation and treatment of thyroid disorders that include sick euthyroid, hyperthyroidism, hypothyroidism, and subclinical thyroid disorders.",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Thyroid Diseases",
+        "Primary Health Care",
+        "Hyperthyroidism",
+        "Hypothyroidism",
+        "Thyroid Function Tests"
+      ],
+      "chemicals": [],
+      "journal": "Primary care",
+      "authors": [
+        "Gauri Dhir",
+        "Vasudha Jain",
+        "Andrew Merritt"
+      ]
+    },
+    {
+      "pmid": "39084813",
+      "title": "Subclinical Hypothyroidism and Thyroid Autoimmunity in Pregnancy: To Treat or Not to Treat.",
+      "abstract": "Subclinical hypothyroidism and thyroid autoimmunity in pregnancy are common conditions. They are both associated with adverse maternal and offspring outcomes. Women with thyroid autoimmunity should be monitored with regular thyroid function tests preconception and during gestation to identify women who develop hypothyroidism. The effectiveness of thyroid hormone treatment in reducing adverse outcomes in pregnancy has been studied in a number of randomized controlled trials. Current evidence shows obstetrical benefits of levothyroxine treatment in pregnant women with a thyroid-stimulating hormone level greater than 4 mU/L.",
+      "pub_date": "2024-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pregnancy",
+        "Female",
+        "Hypothyroidism",
+        "Pregnancy Complications",
+        "Thyroxine",
+        "Thyroiditis, Autoimmune",
+        "Autoimmunity"
+      ],
+      "chemicals": [
+        "Thyroxine"
+      ],
+      "journal": "Endocrinology and metabolism clinics of North America",
+      "authors": [
+        "Spyridoula Maraka",
+        "Chrysoula Dosiou"
+      ]
+    },
+    {
+      "pmid": "37738506",
+      "title": "Emerging Therapies in Hypothyroidism.",
+      "abstract": "Levothyroxine (LT4) is effective for most patients with hypothyroidism. However, a minority of the patients remain symptomatic despite the normalization of serum thyrotropin levels. Randomized clinical trials including all types of patients with hypothyroidism revealed that combination levothyroxine and liothyronine (LT4+LT3) therapy is safe and is the preferred choice of patients versus LT4 alone. Many patients who do not fully benefit from LT4 experience improved quality of life and cognition after switching to LT4+LT3. For these patients, new slow-release LT3 formulations that provide stable serum T3 levels are being tested. In addition, progress in regenerative technology has led to the development of human thyroid organoids that restore euthyroidism after being transplanted into hypothyroid mice. Finally, there is a new understanding that, under certain conditions, T3 signaling may be compromised in a tissue-specific fashion while systemic thyroid function is preserved. This is seen, for example, in patients with metabolic (dysfunction)-associated fatty liver disease, for whom liver-selective T3-like molecules have been utilized successfully in clinical trials.",
+      "pub_date": "2024-01-29",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Mice",
+        "Animals",
+        "Thyroxine",
+        "Quality of Life",
+        "Thyrotropin",
+        "Hypothyroidism",
+        "Triiodothyronine"
+      ],
+      "chemicals": [
+        "Thyroxine",
+        "Thyrotropin",
+        "Triiodothyronine"
+      ],
+      "journal": "Annual review of medicine",
+      "authors": [
+        "Antonio C Bianco"
+      ]
+    },
+    {
+      "pmid": "40066580",
+      "title": "Comorbidities of hypothyroidism.",
+      "abstract": "Hypothyroidism is a relatively common condition that may affect as many as 10% of the population worldwide when its overt and subclinical presentations are considered. Important clinical comorbidities are highly prevalent in people with hypothyroidism and diminish quality of life and functional status in a manner that is proportional to the number of comorbidities present and their severity. This article reviews the common comorbidities of hypothyroidism, as reported in the literature. The comorbidities of hypothyroidism include clinical conditions commonly associated with hypothyroidism, such as dyslipidaemia, hypertension, fatigue or (possibly) cardiovascular disease, and can appear whether or not intervention with LT4 is applied appropriately to ensure biochemical euthyroidism. Other comorbidities may share some pathogenetic background with hypothyroidism, including depression or anxiety, or autoimmune conditions. Hypothyroidism may arise as a comorbidity of some other conditions, e.g. following the application of targeted cancer therapies or some disease-modfying treatments for multiple sclerosis. Other common treatments, including metformin, glucocorticoids or proton pump inhibitors, among others, may alter levels of thyrotropin, thus impacting on the monitoring of thyroid dysfunction and the diagnosis of thyroid dysfunction. Ensuring good control of hypothyroidism is a necessary first step in managing any patient with hypothyroidism. Then, physicians should be aware of the possibility of other comorbid conditions that must be addressed to achieve an optimal patient outcome.",
+      "pub_date": "2025-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Hypothyroidism",
+        "Comorbidity",
+        "Cardiovascular Diseases",
+        "Hypertension",
+        "Dyslipidemias",
+        "Fatigue"
+      ],
+      "chemicals": [],
+      "journal": "Current medical research and opinion",
+      "authors": [
+        "Gabriela Brenta",
+        "Ulrike Gottwald-Hostalek"
+      ]
+    },
+    {
+      "pmid": "37256446",
+      "title": "Acquired Hypothyroidism in Children.",
+      "abstract": "Acquired hypothyroidism is generally also referred to as juvenile hypothyroidism. Hypothyroidism is due to the deficient secretion of thyroid hormones causing metabolic and neurological sequelae at the cellular level. It can present as overt hypothyroidism wherein the thyroid hormones (T4 and T3) secretion fall and thyrotropin (TSH) rises. Acquired hypothyroidism frequently presents between 9 and 11 y of age and is rarely seen before 4 y of age. Approximately 80% of the children and adolescents are asymptomatic at the time of diagnosis. Children with moderate to severe hypothyroidism often present for evaluation of poor growth, constipation, lethargy and/or dry skin. A detailed history and examination will provide us with enough clues for diagnosing hypothyroidism. Primary hypothyroidism can be diagnosed with raised TSH with subnormal levels of T3 and T4. Titres of thyroid antibodies - Anti-thyroperoxidase (TPO) and anti-thyroglobulin (ATG) antibodies, will be high in autoimmune hypothyroidism. Subclinical hypothyroidism is diagnosed with mildly elevated or high normal levels of TSH with free T4 being in the normal range. Insufficient secretion of thyrotropin from the pituitary causes central hypothyroidism. Acquired hypothyroidism is treated by replacement with levothyroxine. Regular monitoring of thyroid profile is necessary for adjusting doses of levothyroxine. Close monitoring and individualization of levothyroxine therapy is essential for normal growth and development of the child.",
+      "pub_date": "2023-10-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Adolescent",
+        "Child",
+        "Humans",
+        "Thyroxine",
+        "Hypothyroidism",
+        "Thyroid Hormones",
+        "Thyrotropin"
+      ],
+      "chemicals": [
+        "Thyroxine",
+        "Thyroid Hormones",
+        "Thyrotropin"
+      ],
+      "journal": "Indian journal of pediatrics",
+      "authors": [
+        "Shaila S Bhattacharyya",
+        "Anshika Singh"
+      ]
+    },
+    {
+      "pmid": "39699315",
+      "title": "Thyroid hormone and the Liver.",
+      "abstract": "It is known that thyroid hormone can regulate hepatic metabolic pathways including cholesterol, de novo lipogenesis, fatty acid oxidation, lipophagy, and carbohydrate metabolism. Thyroid hormone action is mediated by the thyroid hormone receptor (THR) isoforms and their coregulators, and THR\u03b2 is the main isoform expressed in the liver. Dysregulation of thyroid hormone levels, as seen in hypothyroidism, has been associated with dyslipidemia and metabolic dysfunction-associated fatty liver disease. Given the beneficial effects of thyroid hormone in liver metabolism and the advances illuminating the use of thyroid hormone analogs such as resmetirom as therapeutic agents in the treatment of metabolic dysfunction-associated fatty liver disease, this review aims to further explore the relationship between TH, the liver, and metabolic dysfunction-associated fatty liver disease. Herein, we summarize the current clinical therapies and highlight future areas of research.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Liver",
+        "Thyroid Hormones",
+        "Hypothyroidism",
+        "Receptors, Thyroid Hormone",
+        "Animals",
+        "Lipid Metabolism",
+        "Lipogenesis",
+        "Non-alcoholic Fatty Liver Disease",
+        "Pyridazines",
+        "Uracil"
+      ],
+      "chemicals": [
+        "Thyroid Hormones",
+        "Receptors, Thyroid Hormone",
+        "resmetirom",
+        "Pyridazines",
+        "Uracil"
+      ],
+      "journal": "Hepatology communications",
+      "authors": [
+        "Lorraine Soares De Oliveira",
+        "Megan J Ritter"
+      ]
+    },
+    {
+      "pmid": "38368537",
+      "title": "Effects of Levothyroxine Treatment on Fertility and Pregnancy Outcomes in Subclinical Hypothyroidism: A Systematic Review and Meta-Analysis of Randomized Controlled Trials.",
+      "abstract": "",
+      "pub_date": "2024-04-01",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pregnancy",
+        "Female",
+        "Hypothyroidism",
+        "Thyroxine",
+        "Randomized Controlled Trials as Topic",
+        "Pregnancy Outcome",
+        "Pregnancy Complications",
+        "Thyrotropin",
+        "Fertility",
+        "Abortion, Spontaneous",
+        "Premature Birth"
+      ],
+      "chemicals": [
+        "Thyroxine",
+        "Thyrotropin"
+      ],
+      "journal": "Thyroid : official journal of the American Thyroid Association",
+      "authors": [
+        "Akiko Sankoda",
+        "Hitomi Suzuki",
+        "Misa Imaizumi",
+        "Ai Yoshihara",
+        "Sakiko Kobayashi",
+        "Miyuki Katai"
+      ]
+    },
+    {
+      "pmid": "37109715",
+      "title": "Autoimmune Thyroiditis Shifting from Hashimoto's Thyroiditis to Graves' Disease.",
+      "abstract": "In 15-20% of cases, Graves' disease (GD) shifts to Hashimoto's thyroiditis (HT), while the shift from HT to GD is rare. We present a case of a patient in whom HT shifted to GD, along with a literature review. A 50-year-old woman with myxedema was diagnosed with Hashimoto's disease due to hypothyroidism and the presence of antibodies against thyroid peroxidase (TPOAb) and thyroglobulin (TgAb); she also had thyroid stimulating antibodies (TSAb) without any signs of GD. Although thyroid hormone replacement therapy improved her thyroid function, 2 months later, hyperthyroidism appeared and did not improve after discontinuation of the replacement therapy. The patient was diagnosed with GD, which improved with antithyroid agent administration. To date, only 50 cases regarding conversion from HT to GD have been reported. The median age is 44 years (range, 23-82 years), and the median time of conversion is 7 years (range, 0.1-27 years). The male-to-female ratio of HT conversion to GD is 1:9, closer to that of regular GD (1:10) than that of general HT (1:18). All patients received thyroid hormone replacement therapy for hypothyroidism due to HT. Continuous evaluation of TSAb levels is recommended in HT, particularly in cases of TSAb-positive and those under replacement, since it may help predict conversion to GD. Evaluating the clinical characteristics of patients with HT preceding GD is crucial to ensure appropriate treatment and reduce the risk of adverse events.",
+      "pub_date": "2023-04-13",
+      "publication_types": [
+        "Review",
+        "Case Reports",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Female",
+        "Young Adult",
+        "Adult",
+        "Middle Aged",
+        "Aged",
+        "Aged, 80 and over",
+        "Hashimoto Disease",
+        "Thyroiditis, Autoimmune",
+        "Graves Disease",
+        "Hypothyroidism",
+        "Hyperthyroidism"
+      ],
+      "chemicals": [],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "authors": [
+        "Narantsatsral Daramjav",
+        "Junko Takagi",
+        "Hideyuki Iwayama",
+        "Kaori Uchino",
+        "Daisuke Inukai",
+        "Kazuo Otake"
+      ]
+    },
+    {
+      "pmid": "37498128",
+      "title": "Influence of medications on thyroid function in dogs: An update.",
+      "abstract": "Erroneous thyroid function test results can occur because of drugs that alter thyroid hormone physiology in one or more aspects, including synthesis, secretion, distribution, and metabolism. Research since publication of the last review in the Journal of Veterinary Internal Medicine (JVIM) 20\u2009years ago has evaluated the effects of amiodarone, zonisamide, inhalant anesthetics, clomipramine, trilostane, and toceranib on thyroid function tests in the dog. In addition, recent work on the effects of glucocorticoids, sulfonamides, phenobarbital, and nonsteroidal anti-inflammatory drugs will be reviewed. Awareness of these effects is necessary to avoid misdiagnosis of hypothyroidism and unnecessary treatment.",
+      "pub_date": "2023-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Dogs",
+        "Animals",
+        "Thyroid Function Tests",
+        "Hypothyroidism",
+        "Thyroid Hormones",
+        "Amiodarone",
+        "Anti-Arrhythmia Agents",
+        "Dog Diseases"
+      ],
+      "chemicals": [
+        "Thyroid Hormones",
+        "Amiodarone",
+        "Anti-Arrhythmia Agents"
+      ],
+      "journal": "Journal of veterinary internal medicine",
+      "authors": [
+        "Timothy A Bolton",
+        "David L Panciera"
+      ]
+    },
+    {
+      "pmid": "37866272",
+      "title": "Thyroid dysfunction and female infertility. A comprehensive review.",
+      "abstract": "Female infertility is defined as the inability to achieve pregnancy following one year of consistent, unprotected sexual intercourse. Among the various endocrine factors contributing to this complex issue, thyroid dysfunction assumes a pivotal and noteworthy role. A narrative review, encompassing 134 articles up to 2023, was conducted utilizing the PubMed/Medline, EMBASE, and Scielo databases. The primary focus of this review was to investigate the effects of thyroid dysfunction on female infertility. Thyroid disorders exert a significant influence on folliculogenesis, fertilization, and implantation processes. Thyroid autoimmunity, although associated with diminished ovarian reserve, does not typically necessitate levothyroxine therapy. On the other hand, both subclinical and overt hypothyroidism often require levothyroxine treatment to enhance fertility and optimize obstetric outcomes. Hyperthyroidism warrants prompt intervention due to its heightened risk of miscarriage. Furthermore, thyroid dysfunction exerts notable effects on assisted reproductive technologies, underscoring the importance of achieving euthyroidism prior to ovarian stimulation. Women presenting with thyroid dysfunction must undergo meticulous and individualized assessments since fertility outcomes, whether achieved through natural conception or assisted reproductive technologies, can be significantly influenced by thyroid-related factors.",
+      "pub_date": "2023-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Pregnancy",
+        "Female",
+        "Humans",
+        "Thyroxine",
+        "Infertility, Female",
+        "Thyroid Diseases",
+        "Hypothyroidism"
+      ],
+      "chemicals": [
+        "Thyroxine"
+      ],
+      "journal": "Diabetes & metabolic syndrome",
+      "authors": [
+        "Marcio Jos\u00e9 Concepci\u00f3n-Zavaleta",
+        "Julia Cristina Coronado-Arroyo",
+        "Juan Eduardo Quiroz-Aldave",
+        "Luis Alberto Concepci\u00f3n-Urteaga",
+        "Jos\u00e9 Paz-Ibarra"
+      ]
+    }
+  ]
+}

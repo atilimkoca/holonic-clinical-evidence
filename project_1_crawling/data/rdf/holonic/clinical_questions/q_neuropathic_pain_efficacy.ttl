@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_neuropathic_pain_efficacy a holon:EntityEntry ;
+    holon:entity oed:neuropathic_pain ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_neuropathic_pain_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_neuropathic_pain_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.56 ;
+    holon:evidenceLevel "Level-3" ;
+    holon:inHolon oeq:q_neuropathic_pain_efficacy ;
+    holon:recordedOn "2025-09-01"^^xsd:date ;
+    oe:cites oesrc:39594606 ;
+    oe:effectiveness "effective" .
+
+oedrug:gabapentin oe:treats oed:neuropathic_pain .
+
+oeevt:ev_q_neuropathic_pain_efficacy-tt rdf:object oed:neuropathic_pain ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:gabapentin .
+
+oeq:q_neuropathic_pain_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is gabapentin compared with other agents for Neuropathic Pain?"@en ;
+    prov:generatedAtTime "2025-09-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.33 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_neuropathic_pain_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_neuropathic_pain_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_neuropathic_pain_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_neuropathic_pain_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Neuropathic Pain with gabapentin."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_neuropathic_pain_safety ;
+    holon:recordedOn "2025-09-01"^^xsd:date ;
+    holon:summaryConfidence 0.56 ;
+    oe:aboutDisease oed:neuropathic_pain ;
+    oe:answerText "Glucagon-like peptide 1 (GLP-1) receptor agonists are frequently used to treat type 2 diabetes and obesity. Despite the development of several drugs for neuropathic pain management, their poor efficacy, tolerance, addiction potential, and side effects limit their usage."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    oe:cites oesrc:39594606,
+        oesrc:39730257,
+        oesrc:40540434,
+        oesrc:40572751 ;
+    oe:questionText "How effective is gabapentin compared with other agents for Neuropathic Pain?"^^xsd:string .
+

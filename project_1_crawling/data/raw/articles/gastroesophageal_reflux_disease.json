@@ -1,0 +1,388 @@
+{
+  "disease": "Gastroesophageal Reflux Disease",
+  "slug": "gastroesophageal_reflux_disease",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "35226174",
+      "title": "Evidence-based clinical practice guidelines for gastroesophageal reflux disease 2021.",
+      "abstract": "In Japan, with the increasing prevalence of gastroesophageal reflux disease (GERD) and growing public interest, the Japanese Society of Gastroenterology issued Evidence-based Clinical Practice Guidelines for GERD (1st edition) in 2009 and a revised 2nd edition in 2015. A number of studies on GERD were subsequently conducted in Japan and abroad, and vonoprazan, a potassium-competitive acid blocker (P-CAB), became available for the first time in Japan in February 2015. The revised 3rd edition (Japanese edition), which incorporates new findings and information, was published in April 2021. These guidelines are summarized herein, particularly sections related to the treatment of GERD. The important clinical issues addressed in the present revision are (i) the introduction of treatment algorithms that classify GERD into reflux esophagitis and non-erosive reflux disease, (ii) the clarification of treatment algorithms based on to the severity of reflux esophagitis, and (iii) the positioning of vonoprazan in the treatment for GERD. The present guidelines propose vonoprazan as the initial/maintenance treatment for severe reflux esophagitis. They also recommend vonoprazan or PPI as an initial treatment for mild reflux esophagitis and recommended PPI and proposed vonoprazan as maintenance treatment. These updated guidelines offer the best clinical strategies for GERD patients in Japan and hope that they will be of global use for the diagnosis and treatment for GERD.",
+      "pub_date": "2022-04-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Esophagitis, Peptic",
+        "Evidence-Based Practice",
+        "Gastroenterology",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Proton Pump Inhibitors"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors"
+      ],
+      "journal": "Journal of gastroenterology",
+      "authors": [
+        "Katsuhiko Iwakiri",
+        "Yasuhiro Fujiwara",
+        "Noriaki Manabe",
+        "Eikichi Ihara",
+        "Shiko Kuribayashi",
+        "Junichi Akiyama"
+      ]
+    },
+    {
+      "pmid": "35972481",
+      "title": "Barrett Esophagus: A Review.",
+      "abstract": "Barrett esophagus is characterized by the replacement of normal esophageal squamous cell epithelium with columnar metaplasia and affects approximately 5% of people in the US and approximately 1% worldwide. Approximately 3% to 5% of patients with Barrett esophagus will be diagnosed with esophageal adenocarcinoma in their lifetime. Barrett esophagus affects approximately 2.3% to 8.3% of people with gastroesophageal reflux disease (GERD) and approximately 1.2% to 5.6% of people without GERD. Characteristics associated with Barrett esophagus include older age (prevalence of approximately 1.1% in individuals older than 50 years compared with 0.3% in those\u200950 years or younger), male sex, and smoking (prevalence of approximately 12% in people who smoke cigarettes compared with 1.1% in those who do not smoke cigarettes). The histopathology of Barrett esophagus progresses from metaplasia to dysplasia and, without treatment, can progress to adenocarcinoma. People with Barrett esophagus have approximately a 0.2% to 0.5% annual rate of developing esophageal adenocarcinoma. Management of Barrett esophagus primarily consists of acid-suppressive medications to reduce underlying GERD symptoms and surveillance endoscopy every 3 to 5 years. In patients with Barrett esophagus and dysplasia or early cancer, endoscopic therapy consisting of resection and ablation successfully treats 80% to 90% of patients. Barrett esophagus affects approximately 5% of people in the US and approximately 1% worldwide and is associated with an increased risk of esophageal adenocarcinoma. First-line therapy for Barrett esophagus consists of proton-pump inhibitors for control of reflux symptoms, but their role in chemoprevention is unclear. Surveillance with upper endoscopy is recommended by practice guidelines to monitor for progression to esophageal adenocarcinoma, but randomized clinical trials are lacking.",
+      "pub_date": "2022-08-16",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Adenocarcinoma",
+        "Barrett Esophagus",
+        "Esophageal Neoplasms",
+        "Esophagoscopy",
+        "Gastroesophageal Reflux",
+        "Humans",
+        "Male",
+        "Metaplasia",
+        "Precancerous Conditions",
+        "Proton Pump Inhibitors"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Prateek Sharma"
+      ]
+    },
+    {
+      "pmid": "39466255",
+      "title": "The Role of P-CABs in GERD.",
+      "abstract": "Potassium-competitive acid blockers (P-CABs) constitute a relatively new class of gastric acid-suppressing drugs. Among this class, vonoprazan is the first to have been approved in the United States. However, some P-CABs including vonoprazan, tegoprazan, and fexuprazan have been available in other countries since at least 2014. The first aim of this article is to review pharmacological differences between P-CABs that are currently approved or in development with proton pump inhibitors. The specific focus thereafter is on the likely role of P-CABs in the treatment of different manifestations of gastroesophageal reflux disease. Multiple clinical trials have compared P-CABs with proton pump inhibitors in erosive esophagitis. Additional trials have compared P-CABs with placebo in nonerosive reflux disease. Relevant results are reviewed, and inferences are drawn for their use in the United States. Finally, consideration is given to additional, potential uses of P-CABs in the broader spectrum of gastroesophageal reflux disease, and some suggestions are made for future research initiatives.",
+      "pub_date": "2025-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gastroesophageal Reflux",
+        "Proton Pump Inhibitors",
+        "Sulfonamides",
+        "Pyrroles",
+        "Esophagitis, Peptic"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Sulfonamides",
+        "Pyrroles"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "authors": [
+        "Colin W Howden"
+      ]
+    },
+    {
+      "pmid": "36927966",
+      "title": "Gastroesophageal Reflux Disease: Pathophysiology and New Treatment Trends.",
+      "abstract": "Gastroesophageal reflux disease (GERD) is caused by the reflux of gastric contents into the esophagus due to a decline in esophageal clearance and anti-reflux barrier mechanisms. Mucosal injury is caused by a combination of gastric juice directly damaging the esophageal mucosa and the immune and inflammatory mechanism in which inflammatory cytokines released from the esophageal mucosal epithelium cause neutrophil migration, triggering inflammation. Gastric secretion inhibitors are the first-line treatment for GERD, but they can be combined with prokinetic agents and Chinese herbal remedies. However, pharmacotherapy cannot improve anatomical problems or prevent physical causes of GERD, such as reflux of non-acidic contents. Therefore, surgery can be warranted, depending on the pathology. Intraluminal endoscopic therapy, which is both less invasive and more effective than surgery, was recently developed and applied in Europe and the United States. In Japan, intraluminal endoscopic therapies, such as anti-reflux mucosectomy, anti-reflux mucosal ablation, and endoscopic submucosal dissection, for GERD have been independently developed.",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Proton Pump Inhibitors",
+        "Gastroesophageal Reflux",
+        "Endoscopy",
+        "Europe"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors"
+      ],
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "authors": [
+        "Kunio Kasugai",
+        "Naotaka Ogasawara"
+      ]
+    },
+    {
+      "pmid": "37061897",
+      "title": "AGA Clinical Practice Update on the Diagnosis and Management of Extraesophageal Gastroesophageal Reflux Disease: Expert Review.",
+      "abstract": "The purpose of this American Gastroenterological Association (AGA) Institute Clinical Practice Update is to review the available evidence and expert advice regarding the clinical management of patients with suspected extraesophageal gastroesophageal reflux disease. This article provides practical advice based on the available published evidence including that identified from recently published reviews from leading investigators in the field, prospective and population studies, clinical trials, and recent clinical guidelines and technical reviews. This best practice document is not based on a formal systematic review. The best practice advice as presented in this document applies to patients with symptoms or conditions suspected to be related to extraesophageal reflux (EER). This expert review was commissioned and approved by the AGA Institute Clinical Practice Updates Committee (CPUC) and the AGA Governing Board to provide timely guidance on a topic of high clinical importance to the AGA membership and underwent internal peer review by the CPUC and external peer review through standard procedures of Clinical Gastroenterology and Hepatology. These Best Practice Advice (BPA) statements were drawn from a review of the published literature and from expert opinion. Because systematic reviews were not performed, these BPA statements do not carry formal ratings of the quality of evidence or strength of the presented considerations. BEST PRACTICE ADVICE 1: Gastroenterologists should be aware of potential extraesophageal manifestations of gastroesophageal reflux disease (GERD) and should inquire about such disorders including laryngitis, chronic cough, asthma, and dental erosions in GERD patients to determine whether GERD may be a contributing factor to these conditions. BEST PRACTICE ADVICE 2: Development of a multidisciplinary approach to extraesophageal (EER) manifestations is an important consideration because the conditions are often multifactorial, requiring input from non-gastroenterology (GI) specialties. Results from diagnostic testing (ie, bronchoscopy, thoracic imaging, laryngoscopy, etc) from non-GI disciplines should be taken into consideration when gastroesophageal reflux (GER) is considered as a cause for extraesophageal symptoms. BEST PRACTICE ADVICE 3: Currently, there is no single diagnostic tool that can conclusively identify GER as the cause of EER symptoms. Determination of the contribution of GER to EER symptoms should be based on the global clinical impression derived from patients' symptoms, response to GER therapy, and results of endoscopy and reflux testing. BEST PRACTICE ADVICE 4: Consideration should be given toward diagnostic testing for reflux before initiation of proton pump inhibitor (PPI) therapy in patients with potential extraesophageal manifestations of GERD, but without typical GERD symptoms. Initial single-dose PPI trial, titrating up to twice daily in those with typical GERD symptoms, is reasonable. BEST PRACTICE ADVICE 5: Symptom improvement of EER manifestations while on PPI therapy may result from mechanisms of action other than acid suppression and should not be regarded as confirmation for GERD. BEST PRACTICE ADVICE 6: In patients with suspected extraesophageal manifestation of GERD who have failed one trial (up to 12 weeks) of PPI therapy, one should consider objective testing for pathologic GER, because additional trials of different PPIs are low yield. BEST PRACTICE ADVICE 7: Initial testing to evaluate for reflux should be tailored to patients' clinical presentation and can include upper endoscopy and ambulatory reflux monitoring studies of acid suppressive therapy. BEST PRACTICE ADVICE 8: Testing can be considered for those with an established objective diagnosis of GERD who do not respond to high doses of acid suppression. Testing can include pH-impedance monitoring while on acid suppression to evaluate the role of ongoing acid or non-acid reflux. BEST PRACTICE ADVICE 9: Alternative treatment methods to acid suppressive therapy (eg, lifestyle modifications, alginate-containing antacids, external upper esophageal sphincter compression device, cognitive-behavioral therapy, neuromodulators) may serve a role in management of EER symptoms. BEST PRACTICE ADVICE 10: Shared decision-making should be performed before referral for anti-reflux surgery for EER when the patient has clear, objectively defined evidence of GERD. However, a lack of response to PPI therapy predicts lack of response to anti-reflux surgery and should be incorporated into the decision process.",
+      "pub_date": "2023-06-01",
+      "publication_types": [
+        "Practice Guideline",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Endoscopy",
+        "Gastroenterology",
+        "Gastroesophageal Reflux",
+        "Laryngoscopy",
+        "Prospective Studies",
+        "United States"
+      ],
+      "chemicals": [],
+      "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+      "authors": [
+        "Joan W Chen",
+        "Marcelo F Vela",
+        "Kathryn A Peterson",
+        "Dustin A Carlson"
+      ]
+    },
+    {
+      "pmid": "39269391",
+      "title": "AGA Clinical Practice Update on Integrating Potassium-Competitive Acid Blockers Into Clinical Practice: Expert Review.",
+      "abstract": "The purpose of this American Gastroenterological Association (AGA) Institute Clinical Practice Update (CPU) is to summarize the available evidence and offer expert Best Practice Advice on the integration of potassium-competitive acid blockers (P-CABs) in the clinical management of foregut disorders, specifically including gastroesophageal reflux disease, Helicobacter pylori infection, and peptic ulcer disease. This expert review was commissioned and approved by the AGA Institute Governing Board and CPU Committee to provide timely guidance on a topic of high clinical importance to the AGA membership. This CPU expert review underwent internal peer review by the CPU Committee and external peer review through the standard procedures of Gastroenterology. These Best Practice Advice statements were developed based on review of the published literature and expert consensus opinion. Because formal systematic reviews were not performed, these Best Practice Advice statements do not carry formal ratings of the quality of evidence or strength of the presented considerations. Best Practice Advice Statements BEST PRACTICE ADVICE 1: Based on nonclinical factors (including cost, greater obstacles to obtaining medication, and fewer long-term safety data), clinicians should generally not use P-CABs as initial therapy for acid-related conditions in which clinical superiority has not been shown. BEST PRACTICE ADVICE 2: Based on current costs in the United States, even modest clinical superiority of P-CABs over double-dose proton pump inhibitors (PPIs) may not make P-CABs cost-effective as first-line therapy. BEST PRACTICE ADVICE 3: Clinicians should generally not use P-CABs as first-line therapy for patients with uninvestigated heartburn symptoms or nonerosive reflux disease. Clinicians may use P-CABs in selected patients with documented acid-related reflux who fail therapy with twice-daily PPIs. BEST PRACTICE ADVICE 4: Although there is currently insufficient evidence for clinicians to use P-CABs as first-line on-demand therapy for patients with heartburn symptoms who have previously responded to antisecretory therapy, their rapid onset of acid inhibition raises the possibility of their utility in this population. BEST PRACTICE ADVICE 5: Clinicians should generally not use P-CABs as first-line therapy in patients with milder erosive esophagitis (EE) (Los Angeles classification of erosive esophagitis grade A/B EE). Clinicians may use P-CABs in selected patients with documented acid-related reflux who fail therapy with twice-daily PPIs. BEST PRACTICE ADVICE 6: Clinicians may use P-CABs as a therapeutic option for the healing and maintenance of healing in patients with more severe EE (Los Angeles classification of erosive esophagitis grade C/D EE). However, given the markedly higher costs of the P-CAB presently available in the United States and the lack of randomized comparisons with double-dose PPIs, it is not clear that the benefits in endoscopic outcomes over standard-dose PPIs justify the routine use of P-CABs as first-line therapy. BEST PRACTICE ADVICE 7: Clinicians should use P-CABs in place of PPIs in eradication regimens for most patients with H pylori infection. BEST PRACTICE ADVICE 8: Clinicians should generally not use P-CABs as first-line therapy in the treatment or prophylaxis of peptic ulcer disease. BEST PRACTICE ADVICE 9: Although there is currently insufficient evidence for clinicians to use P-CABs as first-line therapy in patients with bleeding gastroduodenal ulcers and high-risk stigmata, their rapid and potent acid inhibition raises the possibility of their utility in this population.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gastroesophageal Reflux",
+        "Proton Pump Inhibitors",
+        "Peptic Ulcer",
+        "Gastroenterology",
+        "Helicobacter Infections",
+        "Evidence-Based Medicine",
+        "Societies, Medical",
+        "Treatment Outcome",
+        "United States",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "journal": "Gastroenterology",
+      "authors": [
+        "Amit Patel",
+        "Loren Laine",
+        "Paul Moayyedi",
+        "Justin Wu"
+      ]
+    },
+    {
+      "pmid": "39145848",
+      "title": "Potassium-competitive Acid Blockers: Current Clinical Use and Future Developments.",
+      "abstract": "Acid suppression with proton pump inhibitors (PPIs) represents the standard of care in the treatment of acid-related diseases. However, despite their effectiveness, PPIs display some intrinsic limitations, which underlie the unmet clinical needs that have been identified over the past decades. The aims of this review are to summarize the current status and future development of the new class of antisecretory drugs (potassium-competitive acid blockers, P-CABs) that have recently been introduced into medical practice. Over the past decades, clinical needs unmet by the current acid suppressants have been recognized, especially in the management of patients with GERD, Helicobacter pylori infection and NSAID-related peptic ulcer. The failure to address these needs is mainly due to their inability to achieve a consistent acid suppression in all patients and, particularly, to control nighttime acidity. It was then realized that an extended duration of acid suppression would exert additional benefits. The available data with P-CABs show that they are able to address these unmet clinical needs. Four different P-CABs (vonoprazan, tegoprazan, fexuprazan and keverprazan) are currently available. However, only two of them are approved outside Asia. Vonoprazan is available in North, Central and South America while tegoprazan is marketed only in Latin American countries. Two other compounds (namely linazapran glurate and zestaprazan) are presently under clinical development. While clinical trials on GERD have been performed with all P-CABs, only vonoprazan and tegoprazan have been investigated as components of Helicobacter pylori eradication regimens. The available data show that-in the above two clinical indications-P-CABs provide similar or better efficacy in comparison with PPIs. Their safety in the short-term overlaps that of PPIs, but data from long-term treatment are needed.",
+      "pub_date": "2024-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Proton Pump Inhibitors",
+        "Gastroesophageal Reflux",
+        "Helicobacter Infections",
+        "Peptic Ulcer",
+        "Gastric Acid",
+        "Helicobacter pylori",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors",
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "journal": "Current gastroenterology reports",
+      "authors": [
+        "Carmelo Scarpignato",
+        "Richard H Hunt"
+      ]
+    },
+    {
+      "pmid": "36107559",
+      "title": "Evidence-based treatment recommendations for gastroesophageal reflux disease during pregnancy: A review.",
+      "abstract": "Gastroesophageal reflux disease (GERD) occurs in approximately two-thirds of all pregnancies. Around 25% of pregnant women experience heartburn daily. Symptomatic GERD usually presents in the first trimester and progresses throughout pregnancy. The treatment goal is to alleviate heartburn and regurgitation without jeopardizing the pregnancy or its outcome. An English language electronic literature search of MEDLINE, EMBASE, and Cochrane Reviews was undertaken to identify randomized controlled trials, observational studies, management recommendations and reviews of GERD and its treatment during pregnancy. The search period was defined by the date of inception of each database. The treatment in a pregnant GERD patient should follow the step-up approach, starting with lifestyle modification as the first step. If heartburn is severe, medication should be started after consultation with a physician (Recommendation Grade C). The preferred choice of antacids is calcium-containing antacids (Recommendation Grade A). If symptoms persist with antacids Sucralfate can be introduced at a 1g oral tablet, 3 times daily (Recommendation Grade C). Followed by histamine-2 receptor antagonist (Recommendation Grade B). Inadequate control while on histamine-2 receptor antagonist and antacid may mandate a step-up to proton pump inhibitors along with antacids as rescue medication for breakthrough GERD (Recommendation Grade C). This article presented the treatment recommendations for pregnant women with typical GERD, based on the best available evidence.",
+      "pub_date": "2022-09-02",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Antacids",
+        "Calcium",
+        "Female",
+        "Gastroesophageal Reflux",
+        "Heartburn",
+        "Histamine",
+        "Histamine H2 Antagonists",
+        "Humans",
+        "Pregnancy",
+        "Proton Pump Inhibitors",
+        "Sucralfate"
+      ],
+      "chemicals": [
+        "Antacids",
+        "Histamine H2 Antagonists",
+        "Proton Pump Inhibitors",
+        "Sucralfate",
+        "Histamine",
+        "Calcium"
+      ],
+      "journal": "Medicine",
+      "authors": [
+        "Mansour Altuwaijri"
+      ]
+    },
+    {
+      "pmid": "40450492",
+      "title": "Italian guidelines for the diagnosis and management of gastro-esophageal reflux disease: Joint consensus from the Italian Societies of: Gastroenterology and Endoscopy (SIGE), Neurogastroenterology and Motility (SINGEM), Hospital Gastroenterologists and Endoscopists (AIGO), Digestive Endoscopy (SIED), and General Medicine (SIMG).",
+      "abstract": "Gastroesophageal reflux disease (GERD) is one of the most common conditions encountered in outpatient general medicine and gastroenterology clinics. However, uncertainties remain, particularly concerning the optimal diagnostic work-up and the most effective management. To address this issue, experts from 5 Italian Societies conducted a Delphi consensus process, which included a review of the current literature and voting process on 27 key statements. Recommendations and quality of evidence were evaluated using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) criteria. Consensus for each statement was defined as \u2265 80 % agreement. Diagnostic Approach: The consensus supports a symptom-based diagnostic strategy for GERD, focusing on the exclusion of alarm symptoms and/or multiple risk factors for Barrett's esophagus or eosinophilic esophagitis (EoE) as well as non-GERD causes in cases of extra-esophageal symptoms. Esophago-gastro-duodenoscopy (EGD) is recommended in patients with alarm features or in patients unresponsive to proton pump inhibitors (PPIs). In addition, the consensus recommends esophageal pH-metry or impedance-pH recording in patients with reflux-like symptoms not responding to medical treatments, in those with extra-oesophageal symptoms, prior to anti-reflux endoscopic or surgical procedures, in patients with belching disorders and to diagnose functional heartburn (FH) and reflux hypersensitivity (RH) in PPI-refractory patients. Treatment Approach: The consensus strongly supports a standard 4-8 weeks course of PPIs for patients with heartburn and regurgitation but without alarm symptoms and an 8 weeks treatment for those with erosive oesophagitis. Twice daily dose PPIs is recommended only if a concomitant Barrett oesophagus is present, in patients with laryngopharyngeal reflux disease (LPRD) or when there is no response or an incomplete response to once daily dose. Bedtime histamine-2 receptor antagonists (H",
+      "pub_date": "2025-08-01",
+      "publication_types": [
+        "Journal Article",
+        "Practice Guideline",
+        "Consensus Statement"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Gastroesophageal Reflux",
+        "Italy",
+        "Proton Pump Inhibitors",
+        "Gastroenterology",
+        "Societies, Medical",
+        "Delphi Technique",
+        "Esophageal pH Monitoring",
+        "Barrett Esophagus",
+        "Endoscopy, Gastrointestinal"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors"
+      ],
+      "journal": "Digestive and liver disease : official journal of the Italian Society of Gastroenterology and the Italian Association for the Study of the Liver",
+      "authors": [
+        "Edoardo Vincenzo Savarino",
+        "Brigida Barberio",
+        "Carmelo Scarpignato",
+        "Vincenzo Savarino",
+        "Giovanni Barbara",
+        "Luisa Bertin"
+      ]
+    },
+    {
+      "pmid": "41010960",
+      "title": "Proton Pump Inhibitors (PPIs)-An Evidence-Based Review of Indications, Efficacy, Harms, and Deprescribing.",
+      "abstract": "Proton pump inhibitors (PPIs) are among the most prescribed drugs worldwide owing to their proven efficacy in symptom control and mucosal healing for acid-related disorders including gastroesophageal reflux disease (GORD), peptic ulcer disease, Helicobacter pylori eradication, functional dyspepsia, and gastroprotection in high-risk patients. However, long-term use beyond approved indications is increasingly common and has raised safety concerns. Observational studies link chronic PPI use to a myriad of adverse outcomes such as enteric infections (e.g., Clostridioides difficile), nutrient deficiencies (magnesium, vitamin B12), osteoporotic fractures, chronic kidney disease, dementia, and gastric and colorectal cancer. While causality is not always established, these associations warrant cautious risk-benefit assessment in patients receiving prolonged therapy. Current guidelines advocate periodic review of ongoing PPI use and emphasise deprescribing where appropriate. Strategies include dose reduction, on-demand or intermittent use, and switching to H2-receptor antagonists, particularly in patients with non-erosive reflux disease or functional dyspepsia. Tools from the National Institute for Health and Clinical Excellence, American College of Gastroenterology, and the Canadian Deprescribing Network assist clinicians in identifying candidates for tapering or discontinuation. This narrative review focuses on the concept of \"PPI stewardship\" by providing an evidence-based overview of PPI indications, risks, and deprescribing strategies to promote appropriate, safer, and patient-centred use of acid-suppressive therapy.",
+      "pub_date": "2025-08-31",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Proton Pump Inhibitors",
+        "Deprescriptions",
+        "Gastroesophageal Reflux"
+      ],
+      "chemicals": [
+        "Proton Pump Inhibitors"
+      ],
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "authors": [
+        "Monica Andrawes",
+        "Wessam Andrawes",
+        "Abhishek Das",
+        "Keith Siau"
+      ]
+    },
+    {
+      "pmid": "37507070",
+      "title": "Mepolizumab in Patients With Severe Asthma and Comorbidities: 1-Year REALITI-A Analysis.",
+      "abstract": "Severe asthma is complex; comorbidities may influence disease outcomes. To assess mepolizumab effectiveness in patients with severe asthma and comorbidities. REALITI-A was a 2-year international, prospective study enrolling adults with asthma newly prescribed mepolizumab (100 mg subcutaneously) at physician's discretion. This post hoc analysis assessed 1-year outcomes stratified by comorbidities at enrollment: chronic rhinosinusitis with nasal polyps (CRSwNP), gastroesophageal reflux disease (GERD), depression/anxiety, and chronic obstructive pulmonary disease (COPD). Outcomes included the rate of clinically significant asthma exacerbations (CSEs; requiring systemic corticosteroids and/or hospital/emergency room admission) between the 12 months pre- and post-mepolizumab treatment and changes from baseline in daily maintenance oral corticosteroid dose (mo 12), Asthma Control Questionnaire-5 score (mo 12) and forced expiratory volume in 1 second (FEV At enrollment (n\u00a0= 822), 321 of 822 (39%), 309 of 801 (39%), 203 of 785 (26%), and 81 of 808 (10%) patients had comorbid CRSwNP, GERD, depression/anxiety, and COPD, respectively. Post- versus pre-treatment across all comorbidity subgroups: the rate of CSEs decreased by 63% or more; among 298 (39%) patients on maintenance oral corticosteroids at baseline, median dose decreased by 50% or more; Asthma Control Questionnaire-5 score decreased by 0.63 or more points; FEV Mepolizumab improved disease outcomes in patients with severe asthma irrespective of comorbidities, with additional benefit for patients with CRSwNP.",
+      "pub_date": "2023-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Anti-Asthmatic Agents",
+        "Prospective Studies",
+        "Asthma",
+        "Comorbidity",
+        "Adrenal Cortex Hormones",
+        "Pulmonary Disease, Chronic Obstructive",
+        "Gastroesophageal Reflux",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "chemicals": [
+        "Anti-Asthmatic Agents",
+        "Adrenal Cortex Hormones",
+        "mepolizumab",
+        "Antibodies, Monoclonal, Humanized"
+      ],
+      "journal": "The journal of allergy and clinical immunology. In practice",
+      "authors": [
+        "Mark C Liu",
+        "Diego Bagnasco",
+        "Andrea Matucci",
+        "Charles Pilette",
+        "Robert G Price",
+        "Aoife C Maxwell"
+      ]
+    },
+    {
+      "pmid": "38345252",
+      "title": "Comparative Efficacy of P-CAB vs Proton Pump Inhibitors for Grade C/D Esophagitis: A Systematic Review and Network Meta-analysis.",
+      "abstract": "Los Angeles grade C/D esophagitis is a severe manifestation of gastroesophageal reflux disease that require active treatment and close follow-up. Potassium competitive acid blockers (P-CAB) are promising alternatives to proton pump inhibitors (PPI). We aimed to compare the efficacy and safety of P-CAB and PPI in healing grade C/D esophagitis to aid clinical decision-making. A systematic literature search was performed using PubMed, MEDLINE, and Cochrane Central Register of Controlled Trials. Randomized controlled trials were eligible for inclusion if efficacy of P-CAB and PPI in healing grade C/D esophagitis was reported. Pooled risk ratios and risk difference with 95% credible intervals were used to summarize estimated effect of each comparison. The benefit of treatments was ranked using the surface under the cumulative probability ranking score. Of 5,876 articles identified in the database, 24 studies were eligible. Studies included incorporated 3 P-CAB (vonoprazan, tegoprazan, and keverprazan) and 6 PPI (lansoprazole, esomeprazole, omeprazole, rabeprazole extended-release (ER), pantoprazole, and dexlansoprazole). Based on the failure to achieve mucosal healing, 20 mg of vonoprazan q.d. ranked the first among PPI in initial and maintained healing of grade C/D esophagitis (surface under the cumulative probability ranking score = 0.89 and 0.87, respectively). Vonoprazan had similar risk of incurring adverse events, severe adverse events, and withdrawal to drug when compared with PPI. For those who attempted lower maintenance treatment dose, 10 mg of vonoprazan q.d. was a reasonable choice, considering its moderate efficacy and safety. Vonoprazan has considerable efficacy in initial and maintained healing of grade C/D esophagitis compared with PPI, with moderate short-term and long-term safety.",
+      "pub_date": "2024-05-01",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review",
+        "Comparative Study",
+        "Research Support, Non-U.S. Gov't",
+        "Network Meta-Analysis"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Esophagitis",
+        "Esophagitis, Peptic",
+        "Gastroesophageal Reflux",
+        "Proton Pump Inhibitors",
+        "Pyrroles",
+        "Randomized Controlled Trials as Topic",
+        "Sulfonamides",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "1-(5-(2-fluorophenyl)-1-(pyridin-3-ylsulfonyl)-1H-pyrrol-3-yl)-N-methylmethanamine",
+        "Proton Pump Inhibitors",
+        "Pyrroles",
+        "Sulfonamides"
+      ],
+      "journal": "The American journal of gastroenterology",
+      "authors": [
+        "Qianjun Zhuang",
+        "Songfeng Chen",
+        "Xuyu Zhou",
+        "Xingyu Jia",
+        "Mengyu Zhang",
+        "Niandi Tan"
+      ]
+    }
+  ]
+}

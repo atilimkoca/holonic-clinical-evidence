@@ -1,0 +1,482 @@
+{
+  "disease": "Colorectal Cancer",
+  "slug": "colorectal_cancer",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "41714703",
+      "title": "Peritumoural adipose tissue drives immune evasion in colorectal cancer via adipose-mesenchymal transformation.",
+      "abstract": "Although peritumoural visceral adipose tissue (tVAT) is anatomically close to tumours such as colorectal cancer, the immune landscape of this tissue and its functional contribution to tumour immunity remain poorly defined. Here, we performed single-cell RNA analysis on the tVAT from patients with colorectal cancer to map its immune landscape and observed that tVAT exhibited a highly immune-infiltrated microenvironment enriched with lymphocytes, especially tumour-specific CD8\u207a T cells. Mechanistically, tVAT competes with the tumour for these immunocytes by activating the CXCL12-CXCR4 axis to promote tumour immune escape. Moreover, tumour-derived factors induce an adipose-mesenchymal transformation process where the adipose stromal cells trans-differentiated into adipose-derived cancer-associated fibroblasts, which secrete large amounts of CXCL12 in tVAT. Clinically, targeting adipose-tumour interaction substantially enhances diagnostic and therapeutic efficacy of anti-PD-1 therapy. These findings offer an understanding of the dynamic crosstalk between tVAT and tumour immune escape, highlighting the tVAT as a potential target for cancer immunotherapy.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colorectal Neoplasms",
+        "Tumor Microenvironment",
+        "Chemokine CXCL12",
+        "Receptors, CXCR4",
+        "CD8-Positive T-Lymphocytes",
+        "Animals",
+        "Tumor Escape",
+        "Cancer-Associated Fibroblasts",
+        "Lymphocytes, Tumor-Infiltrating",
+        "Mice",
+        "Intra-Abdominal Fat",
+        "Female",
+        "Male",
+        "Programmed Cell Death 1 Receptor",
+        "Cell Line, Tumor",
+        "Adipose Tissue",
+        "Epithelial-Mesenchymal Transition"
+      ],
+      "chemicals": [
+        "Chemokine CXCL12",
+        "Receptors, CXCR4",
+        "CXCL12 protein, human",
+        "CXCR4 protein, human",
+        "Programmed Cell Death 1 Receptor"
+      ],
+      "journal": "Nature cell biology",
+      "authors": [
+        "Jin-Hong Wang",
+        "Yong-Qiang Zheng",
+        "Zheng-Yu Qian",
+        "Yi-Qian Pan",
+        "Tian Tian",
+        "Xiao-Tong Duan"
+      ]
+    },
+    {
+      "pmid": "41478275",
+      "title": "Adaptive plasticity in targeted therapy.",
+      "abstract": "In this issue of Cancer Cell, Zhang et al. show that dual KRAS-EGFR inhibition induces a reversible Paneth-like transition in colorectal cancer, sustaining mitogen-activated protein kinase (MAPK) reactivation through a SMAD1-FGFR3 axis. This reinforces emerging evidence that lineage remodeling underlies early adaptive escape from targeted therapy and carries potential clinical relevance.",
+      "pub_date": "2026-01-12",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colorectal Neoplasms",
+        "Molecular Targeted Therapy",
+        "ErbB Receptors",
+        "Proto-Oncogene Proteins p21(ras)",
+        "ras Proteins",
+        "Animals"
+      ],
+      "chemicals": [
+        "ErbB Receptors",
+        "Proto-Oncogene Proteins p21(ras)",
+        "ras Proteins"
+      ],
+      "journal": "Cancer cell",
+      "authors": [
+        "Vito Amodio",
+        "Giorgio Patelli",
+        "Alberto Bardelli"
+      ]
+    },
+    {
+      "pmid": "41423446",
+      "title": "YTHDF1 targets the chemotherapy response by suppressing NOTCH1-induced stemness in colorectal cancer.",
+      "abstract": "N",
+      "pub_date": "2025-12-22",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Colorectal Neoplasms",
+        "Humans",
+        "RNA-Binding Proteins",
+        "Animals",
+        "Mice",
+        "Neoplastic Stem Cells",
+        "Receptor, Notch1",
+        "Drug Resistance, Neoplasm",
+        "Gene Expression Regulation, Neoplastic",
+        "Fluorouracil",
+        "Cell Line, Tumor",
+        "Oxaliplatin"
+      ],
+      "chemicals": [
+        "RNA-Binding Proteins",
+        "Receptor, Notch1",
+        "NOTCH1 protein, human",
+        "YTHDF1 protein, human",
+        "Ythdf1 protein, mouse",
+        "Fluorouracil",
+        "Oxaliplatin"
+      ],
+      "journal": "Signal transduction and targeted therapy",
+      "authors": [
+        "Henley Cheung",
+        "Huarong Chen",
+        "Danyu Chen",
+        "Heming Zhou",
+        "Cong Liang",
+        "Weixin Liu"
+      ]
+    },
+    {
+      "pmid": "41486293",
+      "title": "Targeting PTPN13 with 11-amino-acid peptides of C-terminal APC prevents immune evasion of colorectal cancer.",
+      "abstract": "Colorectal cancer (CRC) remains largely refractory to immune-checkpoint blockade, with adenomatous polyposis coli (APC) mutations present in 80%-90% of cases. Loss of APC was previously thought to promote tumor progression mainly through deregulated Wnt/\u03b2-catenin signaling. Here, we report that APC loss leads to inhibition of CD8",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Colorectal Neoplasms",
+        "Humans",
+        "STAT1 Transcription Factor",
+        "Animals",
+        "Adenomatous Polyposis Coli Protein",
+        "Mice",
+        "Peptides",
+        "CD8-Positive T-Lymphocytes",
+        "Phosphorylation",
+        "Mice, Inbred C57BL",
+        "Tumor Escape",
+        "Immune Evasion",
+        "Cell Line, Tumor"
+      ],
+      "chemicals": [
+        "STAT1 Transcription Factor",
+        "Adenomatous Polyposis Coli Protein",
+        "Peptides",
+        "STAT1 protein, human"
+      ],
+      "journal": "Cell research",
+      "authors": [
+        "Wen-Hui Ma",
+        "Wen-Yi Li",
+        "Tao Chen",
+        "Linqian Jing",
+        "Yue-Hong Chen",
+        "Kejun Li"
+      ]
+    },
+    {
+      "pmid": "41397968",
+      "title": "Chemotherapy-driven intestinal dysbiosis and indole-3-propionic acid rewire myelopoiesis to promote a metastasis-refractory state.",
+      "abstract": "The contribution of chemotherapy-induced tissue injury to individual susceptibility to metastasis remains largely unexplored. We report that chemotherapy indirectly prevents colorectal cancer (CRC) liver metastases by inducing a lasting systemic \"chemomemory\". Chemotherapy-induced intestinal mucositis alters nutrient availability, promoting the expansion of tryptophan-metabolizing bacteria and production of the microbial metabolite indole-3-propionic acid (IPA). IPA reprograms bone marrow myelopoiesis by redirecting common myeloid progenitor fate toward the macrophage lineage, limiting generation of immunosuppressive Ly6C",
+      "pub_date": "2025-12-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Animals",
+        "Mice",
+        "Mice, Inbred C57BL",
+        "Neoplasm Metastasis",
+        "Dysbiosis",
+        "Myelopoiesis",
+        "Indoles",
+        "Fluorouracil",
+        "Antimetabolites, Antineoplastic",
+        "Gastrointestinal Microbiome",
+        "Intestines",
+        "Colorectal Neoplasms",
+        "Liver Neoplasms",
+        "CD4-Positive T-Lymphocytes",
+        "Monocytes",
+        "Male"
+      ],
+      "chemicals": [
+        "indolepropionic acid",
+        "Indoles",
+        "Fluorouracil",
+        "Antimetabolites, Antineoplastic"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Ludivine Bersier",
+        "L Francisco Lorenzo-Martin",
+        "Yi-Hsuan Chiang",
+        "Stephan Durot",
+        "Aleksander Czauderna",
+        "Tural Yarahmadov"
+      ]
+    },
+    {
+      "pmid": "42151151",
+      "title": "DKC1 promotes colorectal cancer progression and therapy resistance by dysregulating sphingolipid biosynthesis.",
+      "abstract": "DKC1, a key coordinator of RNA modification and telomerase activity, has been implicated in colorectal cancer (CRC), yet its role in disease pathogenesis remains incompletely understood. We show that DKC1 drives CRC by promoting cell cycle progression, suppressing apoptosis, conferring stemness and drug resistance. Elevated DKC1 in CRC associates with poor prognosis and WNT-enriched Consensus Molecular Subtype 2 gene signature. Mechanistically, canonical WNT-signaling forms a feedback loop with DKC1, driving its expression and oncogenic activity. Comprehensive transcriptomic and lipidomic analyses reveal perturbed sphingolipid metabolism and abundance of specific very-long-chain fatty acid ceramides. Further, a regulatory axis involving DKC1 and SOX2 drives the expression of SGPP2, a critical sphingolipid metabolism mediator. Importantly, DKC1-mediated sphingolipid dysregulation promotes first-line chemoresistance, and FOLFOX-resistant patient-derived organoids effectively respond to DKC1 and WNT signaling inhibitors. Conclusively, we identify the DKC1/WNT axis as a therapeutic target in therapy-resistant CRC and underscore complex sphingolipids as promising plasma-based biomarkers.",
+      "pub_date": "2026-05-18",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colorectal Neoplasms",
+        "Sphingolipids",
+        "Drug Resistance, Neoplasm",
+        "Wnt Signaling Pathway",
+        "Cell Cycle Proteins",
+        "Animals",
+        "Disease Progression",
+        "Cell Line, Tumor",
+        "Gene Expression Regulation, Neoplastic",
+        "Mice",
+        "Apoptosis",
+        "Organoids",
+        "Female",
+        "Nuclear Proteins"
+      ],
+      "chemicals": [
+        "Sphingolipids",
+        "Cell Cycle Proteins",
+        "DKC1 protein, human",
+        "Nuclear Proteins"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Umar K Khan",
+        "Ayush Goel",
+        "Shivansh Nigam",
+        "Nazia Chaudhary",
+        "Ayush Praveen",
+        "Anjan Roy"
+      ]
+    },
+    {
+      "pmid": "41455700",
+      "title": "Ribosome biogenesis as a potential therapeutic target in KRAS mutant colorectal cancer.",
+      "abstract": "Molecular targeted therapies targeting KRAS signaling have significantly improved patient outcomes, but they have not achieved sufficient therapeutic efficacy in colorectal cancer (CRC). Here, we demonstrate that a subset of KRAS-mutant CRC cells transitions to a cellular state characterized by enhanced ribosome biogenesis upon KRAS signaling inhibition. The mitogen-activated protein kinase kinase inhibitor, trametinib, and AMG510 induce a cellular state characterized by a gene expression profile highly enriched for ribosome biogenesis. We find that they are vulnerable to the inhibition of RNA polymerase I, and they exhibit synergistic anti-tumor effects with trametinib in an autochthonous mouse model of intestinal tumors and human patient-derived organoids (PDOs). These observations demonstrate that high ribosome biogenesis induced by KRAS inhibition is indispensable to maintain this cellular state and is a potential therapeutic target. Overall, this study reveals novel mechanisms of drug tolerance to KRAS inhibition, thereby facilitating the development of new therapeutic strategies.",
+      "pub_date": "2025-12-27",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Colorectal Neoplasms",
+        "Proto-Oncogene Proteins p21(ras)",
+        "Humans",
+        "Animals",
+        "Ribosomes",
+        "Pyridones",
+        "Mice",
+        "Pyrimidinones",
+        "Cell Line, Tumor",
+        "Mutation",
+        "Organoids",
+        "Xenograft Model Antitumor Assays",
+        "Molecular Targeted Therapy",
+        "Signal Transduction",
+        "Protein Kinase Inhibitors",
+        "RNA Polymerase I"
+      ],
+      "chemicals": [
+        "Proto-Oncogene Proteins p21(ras)",
+        "trametinib",
+        "Pyridones",
+        "Pyrimidinones",
+        "KRAS protein, human",
+        "Protein Kinase Inhibitors",
+        "RNA Polymerase I"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Yui Tanaka",
+        "Mizuho Sakahara",
+        "Hitomi Yamanaka",
+        "Yasuko Natsume",
+        "Daisuke Kusama",
+        "Kohei Kumegawa"
+      ]
+    },
+    {
+      "pmid": "41423272",
+      "title": "Clinical and molecular characterization of",
+      "abstract": "This study integrated real-world molecular profiling (Caris cohort; n=24,257) and randomized clinical trial data (phase III Cancer and Leukemia Group B/Southwest Oncology Group (CALGB/SWOG) 80405; n=433) to assess Elevated Elevated",
+      "pub_date": "2025-12-21",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Colorectal Neoplasms",
+        "Receptor Protein-Tyrosine Kinases",
+        "Proto-Oncogene Proteins",
+        "Axl Receptor Tyrosine Kinase",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Biomarkers, Tumor",
+        "Tumor Microenvironment",
+        "Adult"
+      ],
+      "chemicals": [
+        "Receptor Protein-Tyrosine Kinases",
+        "Proto-Oncogene Proteins",
+        "Axl Receptor Tyrosine Kinase",
+        "Biomarkers, Tumor",
+        "AXL protein, human"
+      ],
+      "journal": "Journal for immunotherapy of cancer",
+      "authors": [
+        "Karam Ashouri",
+        "Joshua Millstein",
+        "Yan Yang",
+        "Joanne Xiu",
+        "Shivani Soni",
+        "Pooja Mittal"
+      ]
+    },
+    {
+      "pmid": "41551531",
+      "title": "Peroxiredoxin 1, pyroptosis, and the emerging frontier in colorectal cancer therapy.",
+      "abstract": "Colorectal cancer (CRC) remains a major global health challenge, with high recurrence and mortality despite advances in surgery, chemotherapy, and immunotherapy. The study by He",
+      "pub_date": "2026-01-07",
+      "publication_types": [
+        "Editorial"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Humans",
+        "Mice",
+        "Antineoplastic Agents",
+        "Caspase 1",
+        "Colorectal Neoplasms",
+        "Inflammasomes",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Peroxiredoxins",
+        "Pyroptosis",
+        "Signal Transduction"
+      ],
+      "chemicals": [
+        "Antineoplastic Agents",
+        "Caspase 1",
+        "Inflammasomes",
+        "NLR Family, Pyrin Domain-Containing 3 Protein",
+        "Peroxiredoxins",
+        "PRDX1 protein, human"
+      ],
+      "journal": "World journal of gastroenterology",
+      "authors": [
+        "Dharmendra Kumar Maurya"
+      ]
+    },
+    {
+      "pmid": "41433099",
+      "title": "Mismatch repair deficiency drives malignant progression and alters the tumor immune microenvironment in glioblastoma models.",
+      "abstract": "Mutations in DNA mismatch repair (MMR) pathway genes (MSH2, MSH6, MLH1, and PMS2) are linked to acquired resistance to temozolomide (TMZ) and high tumor mutation burden (TMB) in high-grade gliomas (HGGs), including glioblastomas (GBMs). However, the specific roles of individual MMR genes in the initiation, progression, TMB, microsatellite instability (MSI), and resistance to TMZ in gliomas remain unclear. Here, we developed de novo mouse models of germline and somatic MMR-deficient (MMRd) HGGs. Surprisingly, loss of Msh2 or Msh6 did not lead to high TMB, MSI, nor did it confer a response to anti-programmed cell death 1 (anti-PD-1) in GBM. Similarly, human GBM showed discordance between MMR gene mutations and the TMB and MSI. Germline MMRd promoted the progression from low-grade to HGG and reduced survival compared with MMR-proficient (MMRp) tumor-bearing mice. This effect was not tumor cell intrinsic but was associated with MMRd in the tumor immune microenvironment, driving immunosuppressive myeloid programs, reduced lymphoid infiltration, and CD8+ T cell exhaustion. Both MMR-reduced (MMRr) and MMRd GBM were resistant to TMZ, unlike MMRp tumors. Our study shows that N3-(2-fluoroethyl) imidazotetrazine (KL-50), an imidazotetrazine-based DNA targeting agent that induces MMR-independent cross-link-mediated cytotoxicity, was effective against germline and somatic MMRr and MMRd GBMs, offering a potential therapy for TMZ-resistant HGG with MMR alterations.",
+      "pub_date": "2026-03-16",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Glioblastoma",
+        "Tumor Microenvironment",
+        "Mice",
+        "DNA Mismatch Repair",
+        "Humans",
+        "MutS Homolog 2 Protein",
+        "Brain Neoplasms",
+        "Disease Models, Animal",
+        "Disease Progression",
+        "DNA-Binding Proteins",
+        "Temozolomide",
+        "Drug Resistance, Neoplasm",
+        "Mice, Knockout",
+        "Female",
+        "Neoplastic Syndromes, Hereditary",
+        "Colorectal Neoplasms"
+      ],
+      "chemicals": [
+        "MutS Homolog 2 Protein",
+        "DNA-Binding Proteins",
+        "Temozolomide",
+        "G-T mismatch-binding protein",
+        "MSH2 protein, human",
+        "Msh2 protein, mouse"
+      ],
+      "journal": "The Journal of clinical investigation",
+      "authors": [
+        "Montserrat Puigdelloses Vallcorba",
+        "Nishant Soni",
+        "Seung-Won Choi",
+        "Kavita Rawat",
+        "Tanvi Joshi",
+        "Sam Friedman"
+      ]
+    },
+    {
+      "pmid": "41405367",
+      "title": "A20 Facilitates Oxaliplatin Sensitivity in Colorectal Cancer Through Monoubiquitylation of IKK-\u03b2.",
+      "abstract": "The ubiquitin-editing enzyme A20 is essential for maintaining inflammatory homeostasis, yet its role in chemoresistance remains unclear. To investigate how A20 regulates oxaliplatin resistance in colorectal cancer (CRC), with a focus on A20-mediated IKK-\u03b2 monoubiquitylation at K163. A prospective, randomized Phase III study is conducted in patients with locally advanced CRC who received either oxaliplatin+capecitabine neoadjuvant chemoradiotherapy (oxaliplatin-NACRT) or capecitabine-only neoadjuvant chemoradiotherapy (non-oxaliplatin-NACRT). Preoperative biopsy and matched surgical specimens are evaluated by immunohistochemistry to determine A20's association with oxaliplatin response. In oxaliplatin-NACRT group, patients achieving pathological complete response (pCR) displayed lower A20 expression than non-pCR patients, whereas no difference is observed in non-oxaliplatin-NACRT group. Two additional independent cohorts confirmed A20 downregulation in human CRC tissues, and reduced A20 expression correlated with poorer survival and oxaliplatin resistance. Mechanistically, A20 monoubiquitylates IKK-\u03b2 via its fourth zinc-finger domain, promoting IKK-\u03b2 degradation and suppressing NF-\u03baB nuclear translocation. A20 knockdown or expression of the IKK-\u03b2 K163R mutant induced oxaliplatin resistance in mouse xenografts. Clinically, A20 expression are negatively associated with IKK-\u03b2 and its downstream targets. A20 depletion promotes oxaliplatin resistance in CRC by stabilizing IKK-\u03b2. the results uncover an essential role of the A20-IKK-\u03b2 axis in oxaliplatin resistance of CRC.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Oxaliplatin",
+        "Humans",
+        "Colorectal Neoplasms",
+        "I-kappa B Kinase",
+        "Tumor Necrosis Factor alpha-Induced Protein 3",
+        "Drug Resistance, Neoplasm",
+        "Male",
+        "Animals",
+        "Female",
+        "Ubiquitination",
+        "Mice",
+        "Antineoplastic Agents",
+        "Middle Aged"
+      ],
+      "chemicals": [
+        "Oxaliplatin",
+        "I-kappa B Kinase",
+        "Tumor Necrosis Factor alpha-Induced Protein 3",
+        "TNFAIP3 protein, human",
+        "Antineoplastic Agents",
+        "IKBKB protein, human"
+      ],
+      "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+      "authors": [
+        "Fan Luo",
+        "Ting Yang",
+        "Jiaxin Cao",
+        "Qun Chen",
+        "Zhenhai Lu",
+        "Feiteng Lu"
+      ]
+    },
+    {
+      "pmid": "41439989",
+      "title": "Targeting Cancer Cell Energy Metabolism in Colorectal Cancer: Opportunities and Challenges from Drug Repositioning.",
+      "abstract": "Drug repositioning, also known as drug repurposing, represents a cost-effective and time-efficient approach to accelerate the development of novel therapies for colorectal cancer (CRC), the third most common cancer worldwide, with an estimated two million new cases and nearly one million deaths annually. This review aims to critically evaluate how existing non-oncologic drugs can be repositioned to exploit key metabolic vulnerabilities of CRC cells. Targeting cancer cell metabolism offers a unique therapeutic advantage, as it disrupts the bioenergetic and biosynthetic processes that sustain tumor growth, adaptation, and resistance to therapy. Specifically, we examine the mechanisms through which antidiabetic, cardiovascular, anti-inflammatory, antidepressant, and anthelmintic agents interfere with glycolysis, oxidative phosphorylation (OxPhos), and mitochondrial bioenergetics-metabolic circuits central to CRC progression and recurrence. By integrating recent mechanistic, preclinical, and clinical findings, we highlight how these repurposed drugs converge on major metabolic regulators, including the AMPK/mTOR signaling pathways, and how they can potentiate the efficacy of standard chemotherapies and immunotherapies. Furthermore, we discuss the translational challenges that must be addressed to move these compounds into clinical use. Collectively, this review underscores the therapeutic potential of targeting CRC metabolism through drug repositioning as a promising avenue toward more effective and personalized treatment strategies.",
+      "pub_date": "2025-12-11",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Drug Repositioning",
+        "Colorectal Neoplasms",
+        "Energy Metabolism",
+        "Animals",
+        "Antineoplastic Agents",
+        "Signal Transduction",
+        "Oxidative Phosphorylation"
+      ],
+      "chemicals": [
+        "Antineoplastic Agents"
+      ],
+      "journal": "Cells",
+      "authors": [
+        "Lorenzo Tomassini",
+        "Teresa Pacifico",
+        "Giovanni Monteleone",
+        "Carmine Stolfi",
+        "Federica Laudisi"
+      ]
+    }
+  ]
+}

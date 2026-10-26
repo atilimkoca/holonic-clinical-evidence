@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_pancreatitis_treatment a holon:EntityEntry ;
+    holon:entity oed:pancreatitis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_pancreatitis_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_pancreatitis_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.97 ;
+    holon:evidenceLevel "Level-1A" ;
+    holon:inHolon oeq:q_pancreatitis_treatment ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:37908750 ;
+    oe:effectiveness "effective" .
+
+oedrug:morphine oe:treats oed:pancreatitis .
+
+oeevt:ev_q_pancreatitis_treatment-tt rdf:object oed:pancreatitis ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:morphine .
+
+oeq:q_pancreatitis_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Pancreatitis?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.66 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_pancreatitis_treatment-bnd ;
+    holon:hasContextGraph oeq:q_pancreatitis_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_pancreatitis_treatment-int ;
+    holon:hasProjectionGraph oeq:q_pancreatitis_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Pancreatitis with morphine."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_pancreatitis_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.97 ;
+    oe:aboutDisease oed:pancreatitis ;
+    oe:answerText "A systematic review and meta-analysis was conducted to synthesize the available data from clinical trials and assess the safety issues of tirzepatide (pancreatitis and gallbladder or biliary disease) in type 2 diabetes (T2D) and obesity. A systematic search was conducted in three electronic databases, namely Embase, PubMed, and the Cochrane Library, up until March 1, 2023, to identify randomized controlled trials (RCTs) comparing tirzepatide to either placebo or active hypoglycemic drugs in individuals with T2D and obesity."^^xsd:string ;
+    oe:belongsToSpecialty "Gastroenterology" ;
+    oe:cites oesrc:37908750,
+        oesrc:38587247,
+        oesrc:39707927,
+        oesrc:39961335 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Pancreatitis?"^^xsd:string .
+

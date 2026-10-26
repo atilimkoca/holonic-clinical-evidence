@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_cellulitis_treatment a holon:EntityEntry ;
+    holon:entity oed:cellulitis ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_cellulitis_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_cellulitis_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.91 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_cellulitis_treatment ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:36402160 ;
+    oe:effectiveness "effective" .
+
+oedrug:amoxicillin oe:treats oed:cellulitis .
+
+oeevt:ev_q_cellulitis_treatment-tt rdf:object oed:cellulitis ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:amoxicillin .
+
+oeq:q_cellulitis_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Cellulitis?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.41 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_cellulitis_treatment-bnd ;
+    holon:hasContextGraph oeq:q_cellulitis_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_cellulitis_treatment-int ;
+    holon:hasProjectionGraph oeq:q_cellulitis_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Cellulitis with amoxicillin."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_cellulitis_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.91 ;
+    oe:aboutDisease oed:cellulitis ;
+    oe:answerText "Levodopa is the most effective symptomatic therapy for Parkinson's disease, but patients with advanced Parkinson's disease develop motor fluctuations with chronic oral levodopa therapy. Foslevodopa-foscarbidopa is a soluble formulation of levodopa and carbidopa prodrugs that is delivered as a 24-h/day continuous subcutaneous infusion, and we aimed to assess the safety and efficacy of this formulation in patients with advanced Parkinson's disease."^^xsd:string ;
+    oe:belongsToSpecialty "Infectious Disease" ;
+    oe:cites oesrc:33494874,
+        oesrc:34059247,
+        oesrc:34902109,
+        oesrc:36402160 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Cellulitis?"^^xsd:string .
+

@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_nephrotic_syndrome_efficacy a holon:EntityEntry ;
+    holon:entity oed:nephrotic_syndrome ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_nephrotic_syndrome_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_nephrotic_syndrome_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.92 ;
+    holon:evidenceLevel "Level-1B" ;
+    holon:inHolon oeq:q_nephrotic_syndrome_efficacy ;
+    holon:recordedOn "2025-12-09"^^xsd:date ;
+    oe:cites oesrc:41191364 ;
+    oe:effectiveness "effective" .
+
+oedrug:prednisone oe:treats oed:nephrotic_syndrome .
+
+oeevt:ev_q_nephrotic_syndrome_efficacy-tt rdf:object oed:nephrotic_syndrome ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:prednisone .
+
+oeq:q_nephrotic_syndrome_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label "How effective is prednisone compared with other agents for Nephrotic Syndrome?"@en ;
+    prov:generatedAtTime "2025-12-09T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.49 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_nephrotic_syndrome_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_nephrotic_syndrome_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_nephrotic_syndrome_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_nephrotic_syndrome_efficacy-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Nephrotic Syndrome with prednisone."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_nephrotic_syndrome_safety ;
+    holon:recordedOn "2025-12-09"^^xsd:date ;
+    holon:summaryConfidence 0.92 ;
+    oe:aboutDisease oed:nephrotic_syndrome ;
+    oe:answerText "The effects of rituximab on relapse of nephrotic syndrome in patients with adult-onset frequently relapsing nephrotic syndrome (FRNS) or steroid-dependent nephrotic syndrome (SDNS) remain uncertain. To evaluate the effects of rituximab for patients with FRNS or SDNS."^^xsd:string ;
+    oe:belongsToSpecialty "Nephrology" ;
+    oe:cites oesrc:36657752,
+        oesrc:36880923,
+        oesrc:39571906,
+        oesrc:41191364 ;
+    oe:questionText "How effective is prednisone compared with other agents for Nephrotic Syndrome?"^^xsd:string .
+

@@ -1,0 +1,11 @@
+holon_id,ctxTok_A,ctxTok_B,genTok_A,genTok_B,tokEff_A,tokEff_B
+q_acute_kidney_injury_treatment,136,531,1435,4620,0.00070,0.00022
+q_addison_disease_efficacy,54,463,1409,4643,0.00071,0.00000
+q_alzheimer_disease_treatment,91,530,1387,4500,0.00072,0.00022
+q_angina_pectoris_treatment,112,447,1413,3111,0.00071,0.00032
+q_ankylosing_spondylitis_efficacy,164,533,1454,3327,0.00069,0.00030
+q_asthma_efficacy,147,445,1380,4300,0.00072,0.00023
+q_bipolar_disorder_efficacy,169,562,1406,2638,0.00071,0.00038
+q_breast_cancer_efficacy,116,461,1408,5119,0.00071,0.00000
+q_cellulitis_treatment,161,523,2759,4308,0.00036,0.00023
+q_cirrhosis_efficacy,130,444,1405,4128,0.00071,0.00024

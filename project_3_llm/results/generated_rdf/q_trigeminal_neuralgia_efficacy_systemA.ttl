@@ -1,0 +1,32 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_trigeminal_neuralgia_efficacy> a holon:ClinicalQuestionHolon ;
+    oe:questionText "How effective is gabapentin compared with other agents for Trigeminal Neuralgia?"^^xsd:string ;
+    oe:answerText "Although trigeminal neuralgia is well known to neurologists, recent developments in classification and clinical diagnosis, new MRI methods, and a debate about surgical options necessitate an update on the topic. Currently, a worldwide controversy exists regarding the classification, diagnostic process, and surgical treatment of trigeminal neuralgia."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_trigeminal_neuralgia_efficacy-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_trigeminal_neuralgia_efficacy-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_trigeminal_neuralgia_efficacy-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_trigeminal_neuralgia_efficacy-con> ;
+    holon:evidenceQualityThreshold "0.40"^^xsd:decimal .
+
+<https://example.org/openevidence/drugs/gabapentin> oe:treats <https://example.org/openevidence/diseases/trigeminal_neuralgia> .
+<https://example.org/openevidence/generated/ev_q_trigeminal_neuralgia_efficacy_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_trigeminal_neuralgia_efficacy_0-tt> ;
+    holon:confidence "0.40"^^xsd:decimal ;
+    holon:evidenceLevel "Level-4" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/28375911> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_trigeminal_neuralgia_efficacy> ;
+    oe:effectiveness "inconclusive" .
+<https://example.org/openevidence/generated/ev_q_trigeminal_neuralgia_efficacy_0-tt> rdf:subject <https://example.org/openevidence/drugs/gabapentin> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/trigeminal_neuralgia> .
+

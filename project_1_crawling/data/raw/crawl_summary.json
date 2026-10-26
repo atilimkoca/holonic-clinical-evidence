@@ -1,0 +1,300 @@
+{
+  "diseases": 72,
+  "real_pools": 72,
+  "synthetic_pools": 0,
+  "total_articles": 864,
+  "real_articles": 864,
+  "synthetic_articles": 0,
+  "network_calls": 0,
+  "cache_hits": 0,
+  "per_disease": {
+    "hypertension": {
+      "n": 12,
+      "synthetic": false
+    },
+    "heart_failure": {
+      "n": 12,
+      "synthetic": false
+    },
+    "atrial_fibrillation": {
+      "n": 12,
+      "synthetic": false
+    },
+    "coronary_artery_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "hyperlipidemia": {
+      "n": 12,
+      "synthetic": false
+    },
+    "angina_pectoris": {
+      "n": 12,
+      "synthetic": false
+    },
+    "deep_vein_thrombosis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "type_2_diabetes_mellitus": {
+      "n": 12,
+      "synthetic": false
+    },
+    "hypothyroidism": {
+      "n": 12,
+      "synthetic": false
+    },
+    "type_1_diabetes_mellitus": {
+      "n": 12,
+      "synthetic": false
+    },
+    "hyperthyroidism": {
+      "n": 12,
+      "synthetic": false
+    },
+    "osteoporosis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "epilepsy": {
+      "n": 12,
+      "synthetic": false
+    },
+    "migraine": {
+      "n": 12,
+      "synthetic": false
+    },
+    "parkinson_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "alzheimer_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "multiple_sclerosis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "neuropathic_pain": {
+      "n": 12,
+      "synthetic": false
+    },
+    "stroke": {
+      "n": 12,
+      "synthetic": false
+    },
+    "major_depressive_disorder": {
+      "n": 12,
+      "synthetic": false
+    },
+    "generalized_anxiety_disorder": {
+      "n": 12,
+      "synthetic": false
+    },
+    "bipolar_disorder": {
+      "n": 12,
+      "synthetic": false
+    },
+    "schizophrenia": {
+      "n": 12,
+      "synthetic": false
+    },
+    "community_acquired_pneumonia": {
+      "n": 12,
+      "synthetic": false
+    },
+    "urinary_tract_infection": {
+      "n": 12,
+      "synthetic": false
+    },
+    "tuberculosis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "hiv_infection": {
+      "n": 12,
+      "synthetic": false
+    },
+    "influenza": {
+      "n": 12,
+      "synthetic": false
+    },
+    "asthma": {
+      "n": 12,
+      "synthetic": false
+    },
+    "chronic_obstructive_pulmonary_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "pulmonary_embolism": {
+      "n": 12,
+      "synthetic": false
+    },
+    "gastroesophageal_reflux_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "peptic_ulcer_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "ulcerative_colitis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "crohn_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "rheumatoid_arthritis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "gout": {
+      "n": 12,
+      "synthetic": false
+    },
+    "systemic_lupus_erythematosus": {
+      "n": 12,
+      "synthetic": false
+    },
+    "osteoarthritis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "chronic_kidney_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "nephrotic_syndrome": {
+      "n": 12,
+      "synthetic": false
+    },
+    "breast_cancer": {
+      "n": 12,
+      "synthetic": false
+    },
+    "non_small_cell_lung_cancer": {
+      "n": 12,
+      "synthetic": false
+    },
+    "chronic_myeloid_leukemia": {
+      "n": 12,
+      "synthetic": false
+    },
+    "non_hodgkin_lymphoma": {
+      "n": 12,
+      "synthetic": false
+    },
+    "colorectal_cancer": {
+      "n": 12,
+      "synthetic": false
+    },
+    "prostate_cancer": {
+      "n": 12,
+      "synthetic": false
+    },
+    "cardiomyopathy": {
+      "n": 12,
+      "synthetic": false
+    },
+    "peripheral_artery_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "aortic_stenosis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "cushing_syndrome": {
+      "n": 12,
+      "synthetic": false
+    },
+    "addison_disease": {
+      "n": 12,
+      "synthetic": false
+    },
+    "polycystic_ovary_syndrome": {
+      "n": 12,
+      "synthetic": false
+    },
+    "status_epilepticus": {
+      "n": 12,
+      "synthetic": false
+    },
+    "trigeminal_neuralgia": {
+      "n": 12,
+      "synthetic": false
+    },
+    "myasthenia_gravis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "obsessive_compulsive_disorder": {
+      "n": 12,
+      "synthetic": false
+    },
+    "post_traumatic_stress_disorder": {
+      "n": 12,
+      "synthetic": false
+    },
+    "attention_deficit_hyperactivity_disorder": {
+      "n": 12,
+      "synthetic": false
+    },
+    "sepsis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "cellulitis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "helicobacter_pylori_infection": {
+      "n": 12,
+      "synthetic": false
+    },
+    "hepatitis_c": {
+      "n": 12,
+      "synthetic": false
+    },
+    "idiopathic_pulmonary_fibrosis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "obstructive_sleep_apnea": {
+      "n": 12,
+      "synthetic": false
+    },
+    "irritable_bowel_syndrome": {
+      "n": 12,
+      "synthetic": false
+    },
+    "cirrhosis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "pancreatitis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "ankylosing_spondylitis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "psoriatic_arthritis": {
+      "n": 12,
+      "synthetic": false
+    },
+    "acute_kidney_injury": {
+      "n": 12,
+      "synthetic": false
+    },
+    "diabetic_nephropathy": {
+      "n": 12,
+      "synthetic": false
+    }
+  }
+}

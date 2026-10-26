@@ -1,0 +1,475 @@
+{
+  "disease": "Cardiomyopathy",
+  "slug": "cardiomyopathy",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40888697",
+      "title": "Aficamten or Metoprolol Monotherapy for Obstructive Hypertrophic Cardiomyopathy.",
+      "abstract": "Beta-blockers have been the initial treatment for symptomatic obstructive hypertrophic cardiomyopathy (HCM) despite limited evidence of their efficacy. Aficamten is a cardiac myosin inhibitor that reduces left ventricular outflow tract gradients, improves exercise capacity, and decreases HCM symptoms when added to standard medications. Whether aficamten as monotherapy provides greater clinical benefit than beta-blockers as monotherapy remains unknown. We conducted an international, double-blind, double-dummy trial in which adults with symptomatic obstructive HCM were randomly assigned in a 1:1 ratio to receive aficamten (at a daily dose of 5 mg to 20 mg) plus placebo or metoprolol (at a daily dose of 50 mg to 200 mg) plus placebo. The primary end point was the change in peak oxygen uptake at week 24; secondary end points were improvement at week 24 in New York Heart Association (NYHA) functional class and changes at week 24 in Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ-CSS), left ventricular outflow tract gradient after the Valsalva maneuver, N-terminal pro-B-type natriuretic peptide (NT-proBNP) level, left atrial volume index, and left ventricular mass index. A total of 88 patients were assigned to the aficamten group and 87 to the metoprolol group. The mean age of the patients was 58 years, 58.3% were men, and the mean left ventricular outflow tract gradient was 47 mm Hg at rest and 74 mm Hg after the Valsalva maneuver. At 24 weeks, the change in the peak oxygen uptake was 1.1 ml per kilogram of body weight per minute (95% confidence interval [CI], 0.5 to 1.7) in the aficamten group and -1.2 ml per kilogram per minute (95% CI, -1.7 to -0.8) in the metoprolol group (least-squares mean between-group difference, 2.3 ml per kilogram per minute; 95% CI, 1.5 to 3.1; P<0.001). Patients who received aficamten had significantly greater improvements in NYHA class, KCCQ-CSS, left ventricular outflow tract gradient, NT-proBNP level, and left atrial volume index than patients who received metoprolol. No significant difference in left ventricular mass index was observed. Adverse events appeared to be similar in the two treatment groups. Among patients with symptomatic obstructive HCM, aficamten monotherapy was superior to metoprolol monotherapy in improving peak oxygen uptake and hemodynamics and decreasing symptoms. (Funded by Cytokinetics; MAPLE-HCM ClinicalTrials.gov number, NCT05767346.).",
+      "pub_date": "2025-09-11",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Equivalence Trial",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Adrenergic beta-1 Receptor Antagonists",
+        "Cardiomyopathy, Hypertrophic",
+        "Double-Blind Method",
+        "Exercise Tolerance",
+        "Metoprolol",
+        "Natriuretic Peptide, Brain",
+        "Oxygen Consumption",
+        "Peptide Fragments",
+        "Pyrazoles",
+        "Cardiac Myosins",
+        "Exercise Test",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Adrenergic beta-1 Receptor Antagonists",
+        "Metoprolol",
+        "Natriuretic Peptide, Brain",
+        "Peptide Fragments",
+        "pro-brain natriuretic peptide (1-76)",
+        "aficamten",
+        "Pyrazoles",
+        "Cardiac Myosins"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Pablo Garcia-Pavia",
+        "Martin S Maron",
+        "Ahmad Masri",
+        "Bela Merkely",
+        "Michael E Nassif",
+        "Maria Luisa Pe\u00f1a-Pe\u00f1a"
+      ]
+    },
+    {
+      "pmid": "40888717",
+      "title": "Mavacamten in Symptomatic Nonobstructive Hypertrophic Cardiomyopathy.",
+      "abstract": "Mavacamten is approved to treat adults with symptomatic obstructive hypertrophic cardiomyopathy (HCM). However, its effects in nonobstructive HCM remain uncertain. We conducted a phase 3, international, double-blind, placebo-controlled, clinical trial to determine whether mavacamten improves functional capacity and patient-reported health status among adults with symptomatic nonobstructive HCM. Patients were randomly assigned in a 1:1 ratio to receive mavacamten (starting at 5 mg per day and adjusted up to a maximum of 15 mg per day on the basis of left ventricular ejection fraction) or placebo (with sham dose adjustment) for 48 weeks. The two primary end points were the change from baseline to week 48 in peak oxygen uptake and in the 23-item Kansas City Cardiomyopathy Questionnaire clinical summary score (KCCQ-CSS; scores range from 0 to 100, with higher scores indicating better health status). We randomly assigned 289 patients to receive mavacamten and 291 to receive placebo. The mean (\u00b1SD) age of the patients was 56\u00b115 years, and 46% were women. From baseline to week 48, the least-squares mean change in peak oxygen uptake was 0.52 ml per kilogram of body weight per minute (95% confidence interval [CI], 0.09 to 0.95) in the mavacamten group and 0.05 ml per kilogram per minute (95% CI, -0.38 to 0.47) in the placebo group (between-group difference, 0.47 ml per kilogram per minute; 95% CI, -0.03 to 0.98; P\u2009=\u20090.07). The least-squares mean change in the KCCQ-CSS was 13.1 points (95% CI, 10.7 to 15.5) in the mavacamten group and 10.4 points (95% CI, 8.0 to 12.8) in the placebo group (between-group difference, 2.7 points; 95% CI, -0.1 to 5.6; P\u2009=\u20090.06). Reductions in ejection fraction and interruptions in the trial regimen were more common with mavacamten than with placebo. Among patients with nonobstructive HCM, mavacamten did not result in a significantly greater improvement in peak oxygen uptake or decrease in symptoms than placebo. (Funded by Bristol Myers Squibb; ODYSSEY-HCM ClinicalTrials.gov number, NCT05582395.).",
+      "pub_date": "2025-09-11",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase III"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Cardiomyopathy, Hypertrophic",
+        "Double-Blind Method",
+        "Oxygen Consumption",
+        "Stroke Volume",
+        "Uracil",
+        "Benzylamines",
+        "Treatment Outcome",
+        "Echocardiography",
+        "Exercise Test"
+      ],
+      "chemicals": [
+        "MYK-461",
+        "Uracil",
+        "Benzylamines"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Milind Y Desai",
+        "Anjali T Owens",
+        "Theodore Abraham",
+        "Iacopo Olivotto",
+        "Pablo Garcia-Pavia",
+        "Renato D Lopes"
+      ]
+    },
+    {
+      "pmid": "41384556",
+      "title": "Use of pimobendan in cats: a practical evidence-based review.",
+      "abstract": "Cardiomyopathies are a common condition and the leading cause of congestive heart failure (CHF) in cats; however, to date there have been limited therapeutic options available. Commonly used therapeutics include diuretics for CHF and antithrombotics 2 to reduce the risk of arterial thromboembolism (ATE), which do not directly affect myocardial function. This review summarizes the evidence for the use of pimobendan, a phosphodiesterase III inhibitor and calcium channel sensitizer, in feline cardiomyopathies. Potential benefits of pimobendan in cats include improved left ventricular systolic and diastolic function, reduced platelet aggregation, reduction in left atrial size, and improved left atrial and auricular systolic function.Drug details:Pimobendan is indicated for the treatment of CHF in conditions associated with systolic dysfunction (including dilated cardiomyopathy, restrictive cardiomyopathy, arrhythmogenic right ventricular cardiomyopathy and some cases with non-specific phenotypes) and has been used in the treatment of CHF secondary to hypertrophic cardiomyopathy. A dosage of pimobendan of 0.25 mg/kg PO q12h is generally well tolerated, and an approved oral solution is now available in the UK, EU, USA, Japan and Australia, which may facilitate administration in some cats; it should be noted, however, that pimobendan is not licensed for use in cats and marketing authorizations may vary between countries. Adverse events are uncommon with pimobendan but include gastrointestinal upset (anorexia, vomiting), transient changes in heart rate and possible worsening arrhythmias at higher doses. The use of pimobendan is contraindicated in cats with fixed obstructions of the left or right ventricular outflow tract (ie, congenital heart disease - pulmonic or aortic valvular stenosis). This article reviews the use of pimobendan in cats for primary care veterinarians and includes practical case examples that reflect the typical use and recommendations for usage of pimobendan by the authors.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Cats",
+        "Pyridazines",
+        "Cat Diseases",
+        "Heart Failure",
+        "Cardiomyopathies",
+        "Cardiotonic Agents"
+      ],
+      "chemicals": [
+        "pimobendan",
+        "Pyridazines",
+        "Cardiotonic Agents"
+      ],
+      "journal": "Journal of feline medicine and surgery",
+      "authors": [
+        "Sonya G Gordon",
+        "Ashley B Saunders",
+        "Sonya Wesselowski",
+        "Elizabeth L Malcolm",
+        "Alice Watson"
+      ]
+    },
+    {
+      "pmid": "41231466",
+      "title": "Immune Checkpoint Inhibitor-Associated Cardiovascular Toxic Effects: International Cardio-Oncology Society Position Statement.",
+      "abstract": "The introduction of immune checkpoint inhibitor (ICI) therapy has improved cancer outcomes but at the cost of adverse events, mainly related to the immune system. Cardiovascular (CV) toxic effects, and especially myocarditis, are of particular concern and are the subject of this position statement by the International Cardio-Oncology Society with representation of experts from oncology, hematology, and cardiology. CV toxic effects of ICI therapies include inflammation-associated diseases, such as myocarditis, pericarditis, and vasculitis, as well as the aggravation of chronic inflammatory conditions, such as atherosclerosis with acute ischemic complications (myocardial infarction and stroke). Patients taking ICI therapies can also develop cardiac dysfunction, stress-induced cardiomyopathy (Takotsubo or apical ballooning syndrome), and heart failure without inflammatory cell infiltration of the myocardium. Atrial and ventricular arrhythmias can emerge in the setting of a systemic inflammatory milieu, myocarditis, or ischemia. Of all potential CV adverse effects, myocarditis remains of highest concern, although fatality rates have declined over time with a broadening spectrum of presentations ranging from troponin elevation of uncertain significance to smoldering, nonsevere, and severe or fulminant myocarditis. Concerns for myocarditis continue to dominate the spectrum of CV toxic effects in patients receiving ICI therapy. Recommendations for management vary according to severity. Multidisciplinary collaborations remain key for managing acute toxic effects and future cancer treatment decisions, including ICI rechallenge. Ischemic heart disease constitutes the main differential diagnosis in these patients, while pericarditis can be concomitantly present, and atrial and ventricular arrhythmias can also complicate the clinical picture. Several gaps in knowledge are identified and require further research.",
+      "pub_date": "2026-01-01",
+      "publication_types": [
+        "Consensus Statement",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cardio-Oncology",
+        "Cardiotoxicity",
+        "Cardiovascular Diseases",
+        "Immune Checkpoint Inhibitors",
+        "Myocarditis",
+        "Neoplasms"
+      ],
+      "chemicals": [
+        "Immune Checkpoint Inhibitors"
+      ],
+      "journal": "JAMA oncology",
+      "authors": [
+        "Joerg Herrmann",
+        "Ana Barac",
+        "Joseph Carver",
+        "Richard K Cheng",
+        "Andres Daniele",
+        "Susan Dent"
+      ]
+    },
+    {
+      "pmid": "40722060",
+      "title": "Xanthosine alleviates myocardial ischemia-reperfusion injury through attenuation of cardiomyocyte ferroptosis.",
+      "abstract": "Ischemic heart disease remains a leading cause of morbidity and mortality worldwide, with myocardial ischemia-reperfusion (I/R) injury significantly contributing to cardiomyocyte death and poor outcomes post-acute myocardial infarction (AMI). Emerging evidence highlights metabolic changes during myocardial injury, particularly in purine metabolism. This study investigates the protective role of xanthosine (XTS), a purine metabolism intermediate, in alleviating I/R injury. Neonatal and adult mouse myocardial tissues post-myocardial infarction (MI) were analyzed using untargeted and targeted metabolomics to explore metabolic profiles. The effects of XTS on I/R injury were evaluated in vivo using a murine I/R model and in vitro with hypoxia/reoxygenation-treated neonatal rat cardiomyocytes (NRCMs). Cardiac function, fibrosis, apoptosis, oxidative stress markers, and ferroptosis-related pathways were assessed via echocardiography, biochemical assays, western blotting, and electron microscopy. Integrated drug affinity responsive target stability (DARTS)-based drug target screening and RNA-seq transcriptomic profiling elucidate XTS-mediated mechanisms against I/R injury. Metabolomics revealed distinct differences in purine metabolism between neonatal and adult mice post-MI, with significant XTS accumulation observed in neonatal hearts. In vivo, XTS treatment in adult mice enhanced left ventricular function, reduced fibrosis, and alleviated lipid peroxidation and mitochondrial damage post-I/R injury. In vitro, XTS significantly improved cardiomyocyte viability, reduced oxidative stress, and mitigated ferroptosis by restoring glutathione peroxidase 4 (GPX4) levels and reducing acyl-coenzyme A synthetase long-chain family member 4 (ACSL4) expression. Mechanistically, XTS stabilized metabolic enzymes, upregulated L-arginine and glutathione (GSH) to mitigate reactive oxygen species(ROS), and inhibited ferroptosis. XTS, a key purine metabolism intermediate, improves cardiac remodeling and function following I/R injury by suppressing ferroptosis and reducing mitochondrial ROS production. These findings provide novel insights into the therapeutic potential of XTS as an adjunctive treatment for patients with AMI undergoing revascularization.",
+      "pub_date": "2025-07-28",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Myocytes, Cardiac",
+        "Ferroptosis",
+        "Myocardial Reperfusion Injury",
+        "Mice",
+        "Rats",
+        "Mice, Inbred C57BL",
+        "Male",
+        "Ribonucleosides",
+        "Myocardial Infarction",
+        "Oxidative Stress",
+        "Metabolomics"
+      ],
+      "chemicals": [
+        "Ribonucleosides"
+      ],
+      "journal": "Cellular & molecular biology letters",
+      "authors": [
+        "Yang Xu",
+        "Wenfeng Zhou",
+        "Zhongguo Fan",
+        "Yiwei Cheng",
+        "Yujia Xiao",
+        "Yu Liu"
+      ]
+    },
+    {
+      "pmid": "40769675",
+      "title": "Impact of Vutrisiran on Cardiac Biomarkers in Patients With Transthyretin Amyloidosis With Cardiomyopathy From HELIOS-B.",
+      "abstract": "Before the development of disease-modifying therapies for transthyretin amyloidosis cardiomyopathy (ATTR-CM), N-terminal prohormone of B-type natriuretic peptide (NT-proBNP) and troponin I/T were recognized as independent prognostic biomarkers of mortality. This study evaluated the prognostic value of these biomarkers in a contemporary patient population and the impact of vutrisiran, an RNA interference therapeutic that rapidly knocks down circulating transthyretin, on biomarker levels. This study sought to evaluate the association between risk of cardiovascular events and all-cause mortality with baseline NT-proBNP and troponin I levels and changes from baseline at month 6 in patients from HELIOS-B and explore how vutrisiran impacts biomarkers over time. In HELIOS-B, a double-blind, placebo-controlled study, 655 patients with ATTR-CM were randomized 1:1 to receive vutrisiran or placebo for up to 36 months. The primary endpoint was a composite outcome of all-cause mortality and recurrent cardiovascular events. All-cause mortality through 42 months was a secondary endpoint. NT-proBNP and troponin I were assessed as prespecified exploratory endpoints. Baseline NT-proBNP and troponin I levels were independently associated with risks of the composite outcome and all-cause mortality (P < 0.0001 for both biomarkers and endpoints). At month 6, increases in NT-proBNP from baseline were associated with higher risk of the composite outcome and all-cause mortality, and decreases in troponin I were associated with a lower risk of the composite outcome. At month 30, the median changes from baseline of NT-proBNP and troponin I were 753 pg/mL (Q1-Q3: -8 to 2,573 pg/mL) and 9.7 pg/mL (Q1-Q3: -6.3 to 41.2 pg/mL) in the placebo arm and 118 pg/mL (Q1-Q3: -419 to 911 pg/mL) and -5.8 pg/mL (Q1-Q3: -25.0 to 10.0 pg/mL) in the vutrisiran arm. The geometric mean fold-change ratios (vutrisiran/placebo) were 0.68 (95% CI: 0.61-0.76) for NT-proBNP and 0.68 (95% CI: 0.62-0.75) for troponin I (P < 0.0001 for both). Patterns of associations between biomarkers and adverse outcomes support the importance of early treatment initiation and the potential for risk reduction in patients with ATTR-CM. Vutrisiran maintained stable or reduced levels of both biomarkers consistent with the benefit of treatment in reducing the risk of cardiovascular events and all-cause mortality. (HELIOS-B: A Study to Evaluate Vutrisiran in Patients With Transthyretin Amyloidosis With Cardiomyopathy; NCT04153149).",
+      "pub_date": "2025-08-12",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Amyloid Neuropathies, Familial",
+        "Biomarkers",
+        "Cardiomyopathies",
+        "Double-Blind Method",
+        "Natriuretic Peptide, Brain",
+        "Peptide Fragments",
+        "Prealbumin",
+        "Prognosis",
+        "RNAi Therapeutics",
+        "Troponin I",
+        "Troponin T"
+      ],
+      "chemicals": [
+        "Biomarkers",
+        "Natriuretic Peptide, Brain",
+        "Peptide Fragments",
+        "Prealbumin",
+        "pro-brain natriuretic peptide (1-76)",
+        "Troponin I",
+        "Troponin T"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Mathew S Maurer",
+        "John L Berk",
+        "Thibaud Damy",
+        "Farooq H Sheikh",
+        "Jos\u00e9 Gonz\u00e1lez-Costello",
+        "Caroline Morbach"
+      ]
+    },
+    {
+      "pmid": "40864019",
+      "title": "Echocardiographic Changes With Mavacamten in Nonobstructive Hypertrophic Cardiomyopathy: Exploratory Insights From the ODYSSEY-HCM Trial.",
+      "abstract": "Symptomatic nonobstructive hypertrophic cardiomyopathy (nHCM) lacks approved therapies. The ODYSSEY-HCM trial (A Study of Mavacamten in Non-Obstructive Hypertrophic Cardiomyopathy; NCT05582395), the largest to date in HCM patients, evaluating the efficacy of mavacamten in symptomatic adults with nHCM, did not demonstrate improvements in its primary endpoints (functional capacity and patient-reported health status). This exploratory analysis of the phase 3, randomized, placebo-controlled trial evaluated echocardiographic changes in nHCM patients from baseline to week 48. Symptomatic nHCM patients were randomized to placebo or mavacamten (5 mg/d, titrated between 1 and 15 mg based on left ventricular ejection fraction [LVEF]). Echocardiographic assessments of LV systolic/diastolic function and left atrial (LA) function were performed at baseline and week 48. Among 580 randomized patients (mean age 56 \u00b1 15 years, 45.9% women), baseline measures included LVEF (65.8 \u00b1 4%), maximal LV wall thickness (20.8 \u00b1 4 mm), LV mass index (122.3 \u00b1 31 g/m Symptomatic nHCM patients treated with mavacamten demonstrated directional improvements in markers of LV diastolic and LA function, modest regression in LV hypertrophy-related parameters, but 1 in 5 demonstrated an LVEF <50%, which reversed following therapy interruption.",
+      "pub_date": "2025-12-16",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cardiomyopathy, Hypertrophic",
+        "Female",
+        "Male",
+        "Middle Aged",
+        "Echocardiography",
+        "Benzylamines",
+        "Double-Blind Method",
+        "Uracil",
+        "Aged",
+        "Adult",
+        "Stroke Volume",
+        "Ventricular Function, Left",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Benzylamines",
+        "Uracil",
+        "MYK-461"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Milind Y Desai",
+        "Yuichiro Okushi",
+        "Shada Jadam",
+        "Iacopo Olivotto",
+        "Anjali Owens",
+        "Steven E Nissen"
+      ]
+    },
+    {
+      "pmid": "41311138",
+      "title": "[Transthyretin amyloid cardiomyopathy].",
+      "abstract": "Transthyretin amyloidosis (ATTR-CM) is an infiltrative cardiomyopathy caused by the deposition of amyloid fibrils, leading to heart failure, arrhythmias, and increased mortality. ATTR-CM prevalence is rising. The first disease-modifying drugs have been approved and implemented in Denmark. Additional treatments slowing ATTR-CM progression are pending introduction into clinical practice. Treatments halting or even reversing progression are currently being investigated in clinical trials. The new therapies will significantly improve ATTR-CM-associated morbidity and mortality, as argued in this review.",
+      "pub_date": "2025-11-17",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Amyloid Neuropathies, Familial",
+        "Cardiomyopathies",
+        "Prealbumin",
+        "Heart Failure"
+      ],
+      "chemicals": [
+        "Prealbumin"
+      ],
+      "journal": "Ugeskrift for laeger",
+      "authors": [
+        "Sie Kronborg Fensman",
+        "Ale Hussein Jaber Mejren",
+        "Tor Skibsted Clemmensen",
+        "Steen Hvitfeldt Poulsen"
+      ]
+    },
+    {
+      "pmid": "40769673",
+      "title": "Effects of Vutrisiran on Cardiac Function and Outcomes in Patients With Transthyretin Amyloidosis With Cardiomyopathy.",
+      "abstract": "Transthyretin amyloid cardiomyopathy (ATTR-CM), caused by deposition of transthyretin amyloid fibrils in the heart, is associated with high morbidity and mortality. In HELIOS-B (A Study to Evaluate Vutrisiran in Patients With Transthyretin Amyloidosis With Cardiomyopathy), the RNA interference therapeutic agent vutrisiran reduced rates of the primary composite outcome of all-cause death and recurrent cardiovascular events among patients with ATTR-CM and had beneficial effects on cardiac structure and function over 30 months. The purpose of this study was to investigate associations of echocardiographic measures of cardiac structure and function with the primary outcome and to assess whether favorable changes in cardiac structure and function with vutrisiran were associated with improvements in outcomes. HELIOS-B randomized 655 patients with ATTR-CM to vutrisiran (25 mg subcutaneously every 12 weeks) or placebo. Echocardiograms were performed at baseline and months 12, 18, 24, and 30. Associations of baseline echocardiographic parameters with the primary outcome were analyzed using modified Andersen-Gill models adjusted for age, sex, ATTR disease type, and National Amyloidosis Centre stage, and stratified by baseline tafamidis use and treatment assignment. Changes in cardiac function from baseline to month 18 were compared between treatment arms and related to outcomes in landmark analyses. Among the 654 participants with available echocardiographic data (median age 77 years, 93% male, 88% wild-type transthyretin), baseline left and right ventricular systolic and diastolic function were independently associated with the primary outcome (HR per unit increase, left ventricular ejection fraction, 0.90 per 5% increase, 95% CI: 0.86-0.95; absolute global longitudinal strain, 0.92 per 1% increase, 95% CI: 0.89-0.96; tricuspid annular systolic myocardial velocity, 0.94 per 1-cm/s increase, 95% CI: 0.90-0.98; average E/e', 1.03 per 1-U increase, 95% CI: 1.01-1.04). At 18 months, vutrisiran attenuated declines in left ventricular and right ventricular systolic function (least squares mean difference: left ventricular ejection fraction, 1.6%, 95% CI: 0.1-3.2; absolute global longitudinal strain, 0.7%, 95% CI: 0.3-1.2; tricuspid annular systolic myocardial velocity, 0.5 cm/s, 95% CI: 0.1-0.9). Worsening in these parameters at 18 months was associated with a heightened risk of the primary outcome. Echocardiographic measures of biventricular systolic and diastolic function provide important prognostic information beyond National Amyloidosis Centre stage in patients with ATTR-CM. Vutrisiran improved diastolic function and attenuated declines in left ventricular and right ventricular systolic function over 18 months. The benefits on cardiac function with vutrisiran may partly underlie its beneficial effects on clinical outcomes.",
+      "pub_date": "2025-08-12",
+      "publication_types": [
+        "Clinical Trial, Phase III",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Amyloid Neuropathies, Familial",
+        "Cardiomyopathies",
+        "Double-Blind Method",
+        "Echocardiography",
+        "Prealbumin",
+        "Stroke Volume",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Prealbumin"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Karola S Jering",
+        "Marianna Fontana",
+        "Hicham Skali",
+        "Bernard E Bulwer",
+        "Narayana Prasad",
+        "Farideh Roshanali"
+      ]
+    },
+    {
+      "pmid": "41412038",
+      "title": "Rapamycin preserves cardiac function in autoimmune myocarditis by reprogramming Cxcl9",
+      "abstract": "Myocarditis is an inflammatory disease of the myocardium that can progress to chronic inflammatory cardiomyopathy and heart failure. Aberrant activation and metabolic reprogramming of macrophages drive myocardial inflammation and injury, yet effective targeted therapies remain limited. Experimental autoimmune myocarditis (EAM) was induced in BALB/c mice by \u03b1-myosin heavy chain immunization. Rapamycin was administered during the inflammatory phase. Cardiac function and injury were evaluated by echocardiography, Millar catheterization, histology, qPCR, and ELISA. Single-cell RNA sequencing (scRNA-seq) of cardiac CD45 Rapamycin preserved cardiac function and alleviated myocardial inflammation and fibrosis in EAM mice, accompanied by reduced cytokine release and cardiac injury markers. scRNA-seq revealed that rapamycin reprogrammed cardiac monocyte-macrophages by inhibiting mTOR signaling, restoring mitochondrial metabolism, and suppressing inflammatory, glycolytic, and senescence pathways. It specifically targeted pathogenic Cxcl9 Rapamycin preserves cardiac function in autoimmune myocarditis by reprogramming Cxcl9",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Myocarditis",
+        "Mice",
+        "Macrophages",
+        "Mechanistic Target of Rapamycin Complex 1",
+        "Sirolimus",
+        "CCAAT-Enhancer-Binding Protein-beta",
+        "Autoimmune Diseases",
+        "Signal Transduction",
+        "Disease Models, Animal",
+        "Male",
+        "Mice, Inbred BALB C",
+        "Myocytes, Cardiac"
+      ],
+      "chemicals": [
+        "Mechanistic Target of Rapamycin Complex 1",
+        "Sirolimus",
+        "CCAAT-Enhancer-Binding Protein-beta",
+        "Cebpb protein, mouse"
+      ],
+      "journal": "Redox biology",
+      "authors": [
+        "Yan Zhuang",
+        "Yongcui Yan",
+        "Zheng Wen",
+        "Xiaoquan Rao",
+        "Jiangang Jiang",
+        "Huihui Li"
+      ]
+    },
+    {
+      "pmid": "41099677",
+      "title": "Clinical Outcomes With Mavacamten Use in Patients With Obstructive Hypertrophic Cardiomyopathy Using Real-World Data.",
+      "abstract": "To examine the association of mavacamten therapy with cardiovascular outcomes compared with standard medical management in patients with obstructive hypertrophic cardiomyopathy (oHCM). The study population was identified using retrospective electronic health record data from the TriNetX network between April, 28th 2022 and August, 31st 2024. Appropriate International Classification of Diseases, Tenth Revision diagnosis codes and medication records were used to distinguish patients with oHCM receiving mavacamten from those receiving standard medical management. The primary outcome was a composite cardiovascular outcome, defined as the first occurrence of ventricular tachycardia, ventricular fibrillation, cardiac arrest, or all-cause mortality. The risk of the composite outcome with mavacamten therapy compared with standard medical management was estimated using a Cox model with inverse probability weighting. Among 12,784 patients with oHCM (6810 [53.3%] females; median age, 66 years [IQR, 55 to 74 years]), 550 and 12,234 patients were included in the mavacamten and standard medical management groups, respectively. There were 13 (2.4%) and 560 (4.6%) events of the composite outcome in the mavacamten and standard medical management groups, respectively. In the multivariable Cox proportional analysis utilizing inverse probability weighting, mavacamten therapy was associated with a significantly lower risk of composite outcome (hazard ratio, 0.51; 95% CI, 0.28 to 0.93; P=.026) compared with medical management. Additional analysis including individuals taking glucagon-like peptide 1 agonists and sodium-glucose cotransporter 2 inhibitors found that the use of mavacamten was associated with a lower risk of the composite outcome compared with standard medical management (hazard ratio, 0.52; 95% CI, 0.28 to 0.94; P=.032). The event rate of heart failure with reduced ejection fraction (HFrEF) remained low at less than 1% in both groups. In this nationwide study leveraging real-world data, mavacamten therapy was associated with a lower risk of adverse cardiovascular outcomes in patients with oHCM. The low rate of HFrEF in the mavacamten group highlights the efficacy of the Risk Evaluation and Mitigation Strategy program in maintaining patient safety and offsetting any potential excess risk of HFrEF. Given the observational nature of the study and low event rates, further research is needed to confirm these results.",
+      "pub_date": "2026-02-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Cardiomyopathy, Hypertrophic",
+        "Male",
+        "Middle Aged",
+        "Aged",
+        "Retrospective Studies",
+        "Treatment Outcome",
+        "Benzylamines",
+        "Uracil"
+      ],
+      "chemicals": [
+        "MYK-461",
+        "Benzylamines",
+        "Uracil"
+      ],
+      "journal": "Mayo Clinic proceedings",
+      "authors": [
+        "Nirav Patel",
+        "Mokshad Gaonkar",
+        "Akhil Pampana",
+        "Naman S Shetty",
+        "Nehal Vekariya",
+        "Peng Li"
+      ]
+    },
+    {
+      "pmid": "40864018",
+      "title": "Effects of Mavacamten on Cardiac Biomarkers in Nonobstructive Hypertrophic Cardiomyopathy: Insights From the ODYSSEY-HCM Trial.",
+      "abstract": "No therapy is approved for patients with symptomatic nonobstructive hypertrophic cardiomyopathy (nHCM). The ODYSSEY-HCM (A Study of Mavacamten in Non-Obstructive Hypertrophic Cardiomyopathy [ODYSSEY-HCM]; NCT05582395) trial, the largest to date in patients with hypertrophic cardiomyopathy (HCM), evaluating the efficacy of mavacamten in symptomatic adults with nHCM, did not demonstrate improvements in its primary endpoints (functional capacity and patient-reported health status). The current exploratory analysis from the ODYSSEY-HCM trial reports the associations between: 1) baseline biomarkers (N-terminal pro-B-type natriuretic peptide [NT-proBNP] and high-sensitivity cardiac troponin I [cTnI]) with clinical, exercise, and echocardiographic characteristics; and 2) comparing changes in these biomarkers from baseline to week 48 between mavacamten and placebo groups. Symptomatic nHCM patients were randomized to placebo or mavacamten (starting at 5 mg/d, with titration ranging from 1 to 15 mg, based on left ventricular [LV] ejection fraction). Along with clinical and echocardiographic parameters, NT-proBNP and hs-cTnI were measured for changes from baseline to week 48. Among 580 randomized patients (mean age 56 \u00b1 15 years, 266 [45.9%] women), baseline biomarkers were elevated with median NT-proBNP 917.5 ng/L (IQR: 463-1,725 ng/L) and hs-cTnI of 29.1 ng/L (IQR: 14.4-91.7 ng/L). On multivariable analysis, female sex, body mass index, NYHA functional class, maximal LV wall thickness, left atrial volume index, and E/e' were associated with higher baseline NT-proBNP. Only younger age and LV mass index were associated with higher baseline hs-cTnI level. At week 48, the mavacamten group had a 58% reduction in NT-proBNP (geometric mean ratio: 0.42; 95% CI: 0.37-0.47; P < 0.001) and a 51% reduction in hs-cTnI (geometric mean ratio: 0.49; 95% CI: 0.45-0.53; P < 0.001). No significant change in either biomarker was seen in the placebo group. These reductions occurred early and were maintained through week 48. Treatment with mavacamten for 48 weeks in nHCM patients was associated with marked biomarker improvements compared with placebo. Whether these changes translate into longer-term adaptive remodeling and improvements in patient-reported health status, exercise capacity, and outcomes remain to be ascertained. (A Study of Mavacamten in Non-Obstructive Hypertrophic Cardiomyopathy [ODYSSEY-HCM]; NCT05582395).",
+      "pub_date": "2025-12-16",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Male",
+        "Cardiomyopathy, Hypertrophic",
+        "Biomarkers",
+        "Middle Aged",
+        "Peptide Fragments",
+        "Troponin I",
+        "Natriuretic Peptide, Brain",
+        "Uracil",
+        "Echocardiography",
+        "Aged",
+        "Double-Blind Method",
+        "Adult",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Biomarkers",
+        "Peptide Fragments",
+        "Troponin I",
+        "Natriuretic Peptide, Brain",
+        "pro-brain natriuretic peptide (1-76)",
+        "Uracil"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Milind Y Desai",
+        "Iacopo Olivotto",
+        "Theodore Abraham",
+        "Steven E Nissen",
+        "Pablo Garcia-Pavia",
+        "Renato D Lopes"
+      ]
+    }
+  ]
+}

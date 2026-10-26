@@ -1,0 +1,33 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oegen: <https://example.org/openevidence/generated/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://example.org/openevidence/questions/q_non_hodgkin_lymphoma_efficacy> a holon:ClinicalQuestionHolon ;
+    oe:questionText "How effective is rituximab compared with other agents for Non-Hodgkin Lymphoma?"^^xsd:string ;
+    oe:answerText "Relapsed/refractory diffuse large B-cell lymphoma (R/R DLBCL) remains challenging to treat, especially in patients ineligible for intensive therapy or chimeric antigen receptor T cells. Tafasitamab plus lenalidomide (T/L) is an effective option based on the phase 2 L-MIND trial findings, although real-world evidence studies have not consistently confirmed these results."^^xsd:string ;
+    holon:hasInteriorGraph <https://example.org/openevidence/questions/q_non_hodgkin_lymphoma_efficacy-int> ;
+    holon:hasBoundaryGraph <https://example.org/openevidence/questions/q_non_hodgkin_lymphoma_efficacy-bou> ;
+    holon:hasProjectionGraph <https://example.org/openevidence/questions/q_non_hodgkin_lymphoma_efficacy-pro> ;
+    holon:hasContextGraph <https://example.org/openevidence/questions/q_non_hodgkin_lymphoma_efficacy-con> .
+
+<https://example.org/openevidence/drugs/rituximab> oe:treats <https://example.org/openevidence/diseases/non_hodgkin_lymphoma> .
+<https://example.org/openevidence/generated/ev_q_non_hodgkin_lymphoma_efficacy_0> a holon:EvidenceAssertion ;
+    rdf:reifies <https://example.org/openevidence/generated/ev_q_non_hodgkin_lymphoma_efficacy_0-tt> ;
+    holon:confidence "0.73"^^xsd:decimal ;
+    holon:evidenceLevel "Level-2B" ;
+    holon:assessedBy <https://example.org/openevidence/questions/openevidence_ai> ;
+    holon:recordedOn "2026-12-31"^^xsd:date ;
+    oe:cites <https://example.org/openevidence/sources/40668613> ;
+    holon:inHolon <https://example.org/openevidence/questions/q_non_hodgkin_lymphoma_efficacy> ;
+    oe:effectiveness "effective" .
+<https://example.org/openevidence/generated/ev_q_non_hodgkin_lymphoma_efficacy_0-tt> rdf:subject <https://example.org/openevidence/drugs/rituximab> ;
+    rdf:predicate oe:treats ;
+    rdf:object <https://example.org/openevidence/diseases/non_hodgkin_lymphoma> .
+
+<https://example.org/openevidence/drugs/isoniazid> oe:treats <https://example.org/openevidence/diseases/tuberculosis> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/addison_disease> .   # ungrounded (naive)
+<https://example.org/openevidence/drugs/prednisone> oe:treats <https://example.org/openevidence/diseases/nephrotic_syndrome> .   # ungrounded (naive)

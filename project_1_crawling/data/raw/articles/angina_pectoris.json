@@ -1,0 +1,451 @@
+{
+  "disease": "Angina Pectoris",
+  "slug": "angina_pectoris",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "31733140",
+      "title": "Efficacy and Safety of Low-Dose Colchicine after Myocardial Infarction.",
+      "abstract": "Experimental and clinical evidence supports the role of inflammation in atherosclerosis and its complications. Colchicine is an orally administered, potent antiinflammatory medication that is indicated for the treatment of gout and pericarditis. We performed a randomized, double-blind trial involving patients recruited within 30 days after a myocardial infarction. The patients were randomly assigned to receive either low-dose colchicine (0.5 mg once daily) or placebo. The primary efficacy end point was a composite of death from cardiovascular causes, resuscitated cardiac arrest, myocardial infarction, stroke, or urgent hospitalization for angina leading to coronary revascularization. The components of the primary end point and safety were also assessed. A total of 4745 patients were enrolled; 2366 patients were assigned to the colchicine group, and 2379 to the placebo group. Patients were followed for a median of 22.6 months. The primary end point occurred in 5.5% of the patients in the colchicine group, as compared with 7.1% of those in the placebo group (hazard ratio, 0.77; 95% confidence interval [CI], 0.61 to 0.96; P\u2009=\u20090.02). The hazard ratios were 0.84 (95% CI, 0.46 to 1.52) for death from cardiovascular causes, 0.83 (95% CI, 0.25 to 2.73) for resuscitated cardiac arrest, 0.91 (95% CI, 0.68 to 1.21) for myocardial infarction, 0.26 (95% CI, 0.10 to 0.70) for stroke, and 0.50 (95% CI, 0.31 to 0.81) for urgent hospitalization for angina leading to coronary revascularization. Diarrhea was reported in 9.7% of the patients in the colchicine group and in 8.9% of those in the placebo group (P\u2009=\u20090.35). Pneumonia was reported as a serious adverse event in 0.9% of the patients in the colchicine group and in 0.4% of those in the placebo group (P\u2009=\u20090.03). Among patients with a recent myocardial infarction, colchicine at a dose of 0.5 mg daily led to a significantly lower risk of ischemic cardiovascular events than placebo. (Funded by the Government of Quebec and others; COLCOT ClinicalTrials.gov number, NCT02551094.).",
+      "pub_date": "2019-12-26",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Angina Pectoris",
+        "Anti-Inflammatory Agents",
+        "Biomarkers",
+        "C-Reactive Protein",
+        "Cardiovascular Diseases",
+        "Colchicine",
+        "Double-Blind Method",
+        "Female",
+        "Humans",
+        "Incidence",
+        "Intention to Treat Analysis",
+        "Kaplan-Meier Estimate",
+        "Male",
+        "Middle Aged",
+        "Myocardial Infarction",
+        "Percutaneous Coronary Intervention",
+        "Proportional Hazards Models",
+        "Recurrence",
+        "Stroke"
+      ],
+      "chemicals": [
+        "Anti-Inflammatory Agents",
+        "Biomarkers",
+        "C-Reactive Protein",
+        "Colchicine"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Jean-Claude Tardif",
+        "Simon Kouz",
+        "David D Waters",
+        "Olivier F Bertrand",
+        "Rafael Diaz",
+        "Aldo P Maggioni"
+      ]
+    },
+    {
+      "pmid": "32227755",
+      "title": "Initial Invasive or Conservative Strategy for Stable Coronary Disease.",
+      "abstract": "Among patients with stable coronary disease and moderate or severe ischemia, whether clinical outcomes are better in those who receive an invasive intervention plus medical therapy than in those who receive medical therapy alone is uncertain. We randomly assigned 5179 patients with moderate or severe ischemia to an initial invasive strategy (angiography and revascularization when feasible) and medical therapy or to an initial conservative strategy of medical therapy alone and angiography if medical therapy failed. The primary outcome was a composite of death from cardiovascular causes, myocardial infarction, or hospitalization for unstable angina, heart failure, or resuscitated cardiac arrest. A key secondary outcome was death from cardiovascular causes or myocardial infarction. Over a median of 3.2 years, 318 primary outcome events occurred in the invasive-strategy group and 352 occurred in the conservative-strategy group. At 6 months, the cumulative event rate was 5.3% in the invasive-strategy group and 3.4% in the conservative-strategy group (difference, 1.9 percentage points; 95% confidence interval [CI], 0.8 to 3.0); at 5 years, the cumulative event rate was 16.4% and 18.2%, respectively (difference, -1.8 percentage points; 95% CI, -4.7 to 1.0). Results were similar with respect to the key secondary outcome. The incidence of the primary outcome was sensitive to the definition of myocardial infarction; a secondary analysis yielded more procedural myocardial infarctions of uncertain clinical importance. There were 145 deaths in the invasive-strategy group and 144 deaths in the conservative-strategy group (hazard ratio, 1.05; 95% CI, 0.83 to 1.32). Among patients with stable coronary disease and moderate or severe ischemia, we did not find evidence that an initial invasive strategy, as compared with an initial conservative strategy, reduced the risk of ischemic cardiovascular events or death from any cause over a median of 3.2 years. The trial findings were sensitive to the definition of myocardial infarction that was used. (Funded by the National Heart, Lung, and Blood Institute and others; ISCHEMIA ClinicalTrials.gov number, NCT01471522.).",
+      "pub_date": "2020-04-09",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Angina, Unstable",
+        "Bayes Theorem",
+        "Cardiac Catheterization",
+        "Cardiovascular Diseases",
+        "Computed Tomography Angiography",
+        "Coronary Angiography",
+        "Coronary Artery Bypass",
+        "Coronary Disease",
+        "Female",
+        "Humans",
+        "Kaplan-Meier Estimate",
+        "Male",
+        "Middle Aged",
+        "Myocardial Ischemia",
+        "Myocardial Revascularization",
+        "Percutaneous Coronary Intervention",
+        "Quality of Life"
+      ],
+      "chemicals": [],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "David J Maron",
+        "Judith S Hochman",
+        "Harmony R Reynolds",
+        "Sripal Bangalore",
+        "Sean M O'Brien",
+        "William E Boden"
+      ]
+    },
+    {
+      "pmid": "33944871",
+      "title": "Diagnosis and Management of Stable Angina: A Review.",
+      "abstract": "Nearly 10 million US adults experience stable angina, which occurs when myocardial oxygen supply does not meet demand, resulting in myocardial ischemia. Stable angina is associated with an average annual risk of 3% to 4% for myocardial infarction or death. Diagnostic tests and medical therapies for stable angina have evolved over the last decade with a better understanding of the optimal use of coronary revascularization. Coronary computed tomographic angiography is a first-line diagnostic test in the evaluation of patients with stable angina due to higher sensitivity and comparable specificity compared with imaging-based stress testing. Moreover, coronary computed tomographic angiography allows detection of nonobstructive atherosclerosis that would not be identified with other noninvasive imaging modalities, improving risk assessment and potentially triggering more appropriate allocation of preventive therapies. Novel therapies treating lipids (proprotein convertase subtilisin/kexin type 9 inhibitors, ezetimibe, and icosapent ethyl) and type 2 diabetes (sodium-glucose cotransporter 2 inhibitors, glucagon-like peptide 1 receptor agonists) have improved cardiovascular outcomes in patients with stable ischemic heart disease when added to usual care. Randomized clinical trials showed no improvement in the rates of mortality or myocardial infarction with revascularization (largely by percutaneous coronary intervention) compared with optimal medical therapy alone, even in the setting of moderate to severe ischemia. In contrast, revascularization provides a meaningful benefit on angina and quality of life compared with antianginal therapies. Measures of the effect of angina on a patient's quality of life should be integrated into the clinic encounter to assist with the decision to proceed with revascularization. For patients with stable angina, emphasis should be placed on optimizing lifestyle factors and preventive medications such as lipid-lowering and antiplatelet agents to reduce the risk for cardiovascular events and death. Antianginal medications, such as \u03b2-blockers, nitrates, or calcium channel blockers, should be initiated to improve angina symptoms. Revascularization with percutaneous coronary intervention should be reserved for patients in whom angina symptoms negatively influence quality of life, generally after a trial of antianginal medical therapy. Shared decision-making with an informed patient is important for effective treatment of stable angina.",
+      "pub_date": "2021-05-04",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Angina, Stable",
+        "Cardiovascular Agents",
+        "Computed Tomography Angiography",
+        "Electrocardiography",
+        "Healthy Lifestyle",
+        "Humans",
+        "Hypolipidemic Agents",
+        "Myocardial Infarction",
+        "Percutaneous Coronary Intervention",
+        "Quality of Life"
+      ],
+      "chemicals": [
+        "Cardiovascular Agents",
+        "Hypolipidemic Agents"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Parag H Joshi",
+        "James A de Lemos"
+      ]
+    },
+    {
+      "pmid": "33036723",
+      "title": "Refractory Angina-Unsolved Problem.",
+      "abstract": "The article discusses pharmacologic and interventional therapeutic options for patients with refractory angina. Refractory angina refers to long-lasting symptoms (\u22653\u00a0months) due to established reversible ischemia in the presence of obstructive coronary artery disease, which cannot be controlled by escalating medical therapy with second-line and third-line pharmacologic agents, bypass grafting, or stenting. Due to an aging population, increased number of comorbidities, and advances in coronary artery disease treatment, incidence of refractory angina is growing. Although the number of therapeutic options is increasing, there is a lack of randomized clinical trials that could help create recommendations for this group of patients.",
+      "pub_date": "2020-11-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Angina Pectoris",
+        "Cardiac Rehabilitation",
+        "Extracorporeal Shockwave Therapy",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Platelet Aggregation Inhibitors",
+        "Transcutaneous Electric Nerve Stimulation"
+      ],
+      "chemicals": [
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "journal": "Cardiology clinics",
+      "authors": [
+        "Marcin Makowski",
+        "Joanna Samanta Makowska",
+        "Marzenna Zieli\u0144ska"
+      ]
+    },
+    {
+      "pmid": "38015442",
+      "title": "A Placebo-Controlled Trial of Percutaneous Coronary Intervention for Stable Angina.",
+      "abstract": "Percutaneous coronary intervention (PCI) is frequently performed to reduce the symptoms of stable angina. Whether PCI relieves angina more than a placebo procedure in patients who are not receiving antianginal medication remains unknown. We conducted a double-blind, randomized, placebo-controlled trial of PCI in patients with stable angina. Patients stopped all antianginal medications and underwent a 2-week symptom assessment phase before randomization. Patients were then randomly assigned in a 1:1 ratio to undergo PCI or a placebo procedure and were followed for 12 weeks. The primary end point was the angina symptom score, which was calculated daily on the basis of the number of angina episodes that occurred on a given day, the number of antianginal medications prescribed on that day, and clinical events, including the occurrence of unblinding owing to unacceptable angina or acute coronary syndrome or death. Scores range from 0 to 79, with higher scores indicating worse health status with respect to angina. A total of 301 patients underwent randomization: 151 to the PCI group and 150 to the placebo group. The mean (\u00b1SD) age was 64\u00b19 years, and 79% were men. Ischemia was present in one cardiac territory in 242 patients (80%), in two territories in 52 patients (17%), and in three territories in 7 patients (2%). In the target vessels, the median fractional flow reserve was 0.63 (interquartile range, 0.49 to 0.75), and the median instantaneous wave-free ratio was 0.78 (interquartile range, 0.55 to 0.87). At the 12-week follow-up, the mean angina symptom score was 2.9 in the PCI group and 5.6 in the placebo group (odds ratio, 2.21; 95% confidence interval, 1.41 to 3.47; P<0.001). One patient in the placebo group had unacceptable angina leading to unblinding. Acute coronary syndromes occurred in 4 patients in the PCI group and in 6 patients in the placebo group. Among patients with stable angina who were receiving little or no antianginal medication and had objective evidence of ischemia, PCI resulted in a lower angina symptom score than a placebo procedure, indicating a better health status with respect to angina. (Funded by the National Institute for Health and Care Research Imperial Biomedical Research Centre and others; ORBITA-2 ClinicalTrials.gov number, NCT03742050.).",
+      "pub_date": "2023-12-21",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Acute Coronary Syndrome",
+        "Angina, Stable",
+        "Cardiovascular Agents",
+        "Fractional Flow Reserve, Myocardial",
+        "Health Status",
+        "Percutaneous Coronary Intervention",
+        "Treatment Outcome",
+        "Double-Blind Method",
+        "Myocardial Ischemia"
+      ],
+      "chemicals": [
+        "Cardiovascular Agents"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Christopher A Rajkumar",
+        "Michael J Foley",
+        "Fiyyaz Ahmed-Jushuf",
+        "Alexandra N Nowbar",
+        "Florentina A Simader",
+        "John R Davies"
+      ]
+    },
+    {
+      "pmid": "40999181",
+      "title": "Contemporary Antianginal Therapy.",
+      "abstract": "Stable angina management and pharmacotherapy varies widely despite the longstanding availability of several drug classes. We herein review current angina management strategies through the lens of optimal medical therapy (OMT), while highlighting emerging therapies and the growing clinical significance of coronary microvascular dysfunction (CMD). This narrative review synthesizes findings from existing research and key clinical trials to outline both established and evolving treatment approaches for chronic stable angina. Beta-blockers and calcium channel blockers remain the foundation of symptom management, while nitrates, ranolazine, ivabradine, and trimetazidine may be considered for refractory symptoms. Few novel pharmacologic therapies have emerged in recent decades, underscoring a critical need for innovation-particularly in the treatment of CMD, which is increasingly recognized as a distinct pathophysiologic entity requiring targeted therapy. Advances in invasive coronary function testing have improved diagnostic accuracy for CMD, yet consensus on optimal treatment remains elusive. Emerging interventional strategies and stem cell-based interventions show promise for patients with refractory angina who lack further revascularization options. The limited progress in novel pharmacologic development reinforces the need for ongoing research to refine therapeutic strategies for CMD and expand treatment options for patients with treatment-resistant angina.",
+      "pub_date": "2026-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cardiovascular Agents",
+        "Angina, Stable",
+        "Calcium Channel Blockers",
+        "Adrenergic beta-Antagonists"
+      ],
+      "chemicals": [
+        "Cardiovascular Agents",
+        "Calcium Channel Blockers",
+        "Adrenergic beta-Antagonists"
+      ],
+      "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+      "authors": [
+        "Sagar Patel",
+        "Vishal Patel",
+        "Mohammed Ayyad",
+        "Arthi Palani",
+        "Joseph Allencherril"
+      ]
+    },
+    {
+      "pmid": "36371661",
+      "title": "Management of vasospastic angina.",
+      "abstract": "Vasospastic angina is a well-established cause of chest pain that is caused by coronary artery spasm. It can be clinically diagnosed during a spontaneous episode by documenting nitrate-responsive rest angina with associated transient ischaemic ECG changes but more often requires provocative coronary spasm testing with acetylcholine during coronary angiography. Vasospastic angina may result in recurrent episodes of angina (including nocturnal angina), which can progress on to major adverse cardiac events. Calcium channel blockers are first-line therapy for this condition, given their anti-anginal and cardioprotective benefits. Despite an established diagnostic and therapeutic management pathway for vasospastic angina, this diagnosis is often overlooked in patients presenting with chest pain. Thus, there is need for increased clinical awareness of vasospastic angina to improve outcomes in affected patients.",
+      "pub_date": "2022-12-13",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Coronary Vasospasm",
+        "Angina Pectoris",
+        "Angina, Unstable",
+        "Acetylcholine",
+        "Coronary Angiography"
+      ],
+      "chemicals": [
+        "Acetylcholine"
+      ],
+      "journal": "Heart (British Cardiac Society)",
+      "authors": [
+        "John F Beltrame"
+      ]
+    },
+    {
+      "pmid": "37905403",
+      "title": "ChaMP-CMD: A Phenotype-Blinded, Randomized Controlled, Cross-Over Trial.",
+      "abstract": "Angina with nonobstructive coronary arteries is a common condition for which no effective treatment has been established. We hypothesized that the measurement of coronary flow reserve (CFR) allows identification of patients with angina with nonobstructive coronary arteries who would benefit from anti-ischemic therapy. Patients with angina with nonobstructive coronary arteries underwent blinded invasive CFR measurement and were randomly assigned to receive 4 weeks of amlodipine or ranolazine. After a 1-week washout, they crossed over to the other drug for 4 weeks; final assessment was after the cessation of study medication for another 4 weeks. The primary outcome was change in treadmill exercise time, and the secondary outcome was change in Seattle Angina Questionnaire summary score in response to anti-ischemic therapy. Analysis was on a per protocol basis according to the following classification: coronary microvascular disease (CMD group) if CFR<2.5 and reference group if CFR\u22652.5. The study protocol was registered before the first patient was enrolled (International Standard Randomised Controlled Trial Number: ISRCTN94728379). Eighty-seven patients (61\u00b18 years of age; 62% women) underwent random assignment (57 CMD group and 30 reference group). Baseline exercise time and Seattle Angina Questionnaire summary scores were similar between groups. The CMD group had a greater increment (delta) in exercise time than the reference group in response to both amlodipine (difference in delta, 82 s [95% CI, 37-126 s]; Among phenotypically similar patients with angina with nonobstructive coronary arteries, only those with an impaired CFR derive benefit from anti-ischemic therapy. These findings support measurement of CFR to diagnose and guide management of this otherwise heterogeneous patient group.",
+      "pub_date": "2024-01-02",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Female",
+        "Humans",
+        "Male",
+        "Amlodipine",
+        "Coronary Artery Disease",
+        "Coronary Circulation",
+        "Cross-Over Studies",
+        "Microcirculation",
+        "Microvascular Angina",
+        "Myocardial Ischemia",
+        "Phenotype",
+        "Ranolazine",
+        "Middle Aged",
+        "Aged"
+      ],
+      "chemicals": [
+        "Amlodipine",
+        "Ranolazine"
+      ],
+      "journal": "Circulation",
+      "authors": [
+        "Aish Sinha",
+        "Haseeb Rahman",
+        "Abdel Douiri",
+        "Ozan M Demir",
+        "Kalpa De Silva",
+        "Brian Clapp"
+      ]
+    },
+    {
+      "pmid": "29874661",
+      "title": "Treatment of Angina: Where Are We?",
+      "abstract": "Ischaemic heart disease is a major cause of death and disability worldwide, while angina represents its most common symptom. It is estimated that approximately 9 million patients in the USA suffer from angina and its treatment is challenging, thus the strategy to improve the management of chronic stable angina is a priority. Angina might be the result of different pathologies, ranging from the \"classical\" obstruction of a large coronary artery to alteration of the microcirculation or coronary artery spasm. Current clinical guidelines recommend antianginal therapy to control symptoms, before considering coronary artery revascularization. In the current guidelines, drugs are classified as being first-choice (beta-blockers, calcium channel blockers, and short-acting nitrates) or second-choice (ivabradine, nicorandil, ranolazine, trimetazidine) treatment, with the recommendation to reserve second-line modifications for patients who have contraindications to first-choice agents, do not tolerate them, or remain symptomatic. However, such a categorical approach is currently questioned. In addition, current guidelines provide few suggestions to guide the choice of drugs more suitable according to the underlying pathology or the patient comorbidities. Several other questions have recently emerged, such as: is there evidence-based data between first- and second-line treatments in terms of prognosis or symptom relief? Actually, it seems that newer antianginal drugs, which are classified as second choice, have more evidence-based clinical data that are more contemporary to support their use than what is available for the first-choice drugs. It follows that actual guidelines are based more on tradition than on evidence and there is a need for new algorithms that are more individualized to patients, their comorbidities, and pathophysiological mechanism of chronic stable angina.",
+      "pub_date": "2018-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Adrenergic beta-Antagonists",
+        "Angina, Stable",
+        "Calcium Channel Blockers",
+        "Cardiovascular Agents",
+        "Chest Pain",
+        "Humans",
+        "Ivabradine",
+        "Nicorandil",
+        "Patient Selection",
+        "Practice Guidelines as Topic",
+        "Ranolazine",
+        "Treatment Outcome",
+        "Trimetazidine"
+      ],
+      "chemicals": [
+        "Adrenergic beta-Antagonists",
+        "Calcium Channel Blockers",
+        "Cardiovascular Agents",
+        "Nicorandil",
+        "Ivabradine",
+        "Ranolazine",
+        "Trimetazidine"
+      ],
+      "journal": "Cardiology",
+      "authors": [
+        "Cristina Balla",
+        "Rita Pavasini",
+        "Roberto Ferrari"
+      ]
+    },
+    {
+      "pmid": "32227753",
+      "title": "Health-Status Outcomes with Invasive or Conservative Care in Coronary Disease.",
+      "abstract": "In the ISCHEMIA trial, an invasive strategy with angiographic assessment and revascularization did not reduce clinical events among patients with stable ischemic heart disease and moderate or severe ischemia. A secondary objective of the trial was to assess angina-related health status among these patients. We assessed angina-related symptoms, function, and quality of life with the Seattle Angina Questionnaire (SAQ) at randomization, at months 1.5, 3, and 6, and every 6 months thereafter in participants who had been randomly assigned to an invasive treatment strategy (2295 participants) or a conservative strategy (2322). Mixed-effects cumulative probability models within a Bayesian framework were used to estimate differences between the treatment groups. The primary outcome of this health-status analysis was the SAQ summary score (scores range from 0 to 100, with higher scores indicating better health status). All analyses were performed in the overall population and according to baseline angina frequency. At baseline, 35% of patients reported having no angina in the previous month. SAQ summary scores increased in both treatment groups, with increases at 3, 12, and 36 months that were 4.1 points (95% credible interval, 3.2 to 5.0), 4.2 points (95% credible interval, 3.3 to 5.1), and 2.9 points (95% credible interval, 2.2 to 3.7) higher with the invasive strategy than with the conservative strategy. Differences were larger among participants who had more frequent angina at baseline (8.5 vs. 0.1 points at 3 months and 5.3 vs. 1.2 points at 36 months among participants with daily or weekly angina as compared with no angina). In the overall trial population with moderate or severe ischemia, which included 35% of participants without angina at baseline, patients randomly assigned to the invasive strategy had greater improvement in angina-related health status than those assigned to the conservative strategy. The modest mean differences favoring the invasive strategy in the overall group reflected minimal differences among asymptomatic patients and larger differences among patients who had had angina at baseline. (Funded by the National Heart, Lung, and Blood Institute and others; ISCHEMIA ClinicalTrials.gov number, NCT01471522.).",
+      "pub_date": "2020-04-09",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Angina Pectoris",
+        "Coronary Angiography",
+        "Coronary Artery Bypass",
+        "Coronary Disease",
+        "Female",
+        "Health Status",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Myocardial Ischemia",
+        "Myocardial Revascularization",
+        "Quality of Life",
+        "Severity of Illness Index",
+        "Surveys and Questionnaires",
+        "Treatment Outcome"
+      ],
+      "chemicals": [],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "John A Spertus",
+        "Philip G Jones",
+        "David J Maron",
+        "Sean M O'Brien",
+        "Harmony R Reynolds",
+        "Yves Rosenberg"
+      ]
+    },
+    {
+      "pmid": "29785878",
+      "title": "Five-Year Outcomes with PCI Guided by Fractional Flow Reserve.",
+      "abstract": "We hypothesized that fractional flow reserve (FFR)-guided percutaneous coronary intervention (PCI) would be superior to medical therapy as initial treatment in patients with stable coronary artery disease. Among 1220 patients with angiographically significant stenoses, those in whom at least one stenosis was hemodynamically significant (FFR, \u22640.80) were randomly assigned to FFR-guided PCI plus medical therapy or to medical therapy alone. Patients in whom all stenoses had an FFR of more than 0.80 received medical therapy and were entered into a registry. The primary end point was a composite of death, myocardial infarction, or urgent revascularization. A total of 888 patients underwent randomization (447 patients in the PCI group and 441 in the medical-therapy group). At 5 years, the rate of the primary end point was lower in the PCI group than in the medical-therapy group (13.9% vs. 27.0%; hazard ratio, 0.46; 95% confidence interval [CI], 0.34 to 0.63; P<0.001). The difference was driven by urgent revascularizations, which occurred in 6.3% of the patients in the PCI group as compared with 21.1% of those in the medical-therapy group (hazard ratio, 0.27; 95% CI, 0.18 to 0.41). There were no significant differences between the PCI group and the medical-therapy group in the rates of death (5.1% and 5.2%, respectively; hazard ratio, 0.98; 95% CI, 0.55 to 1.75) or myocardial infarction (8.1% and 12.0%; hazard ratio, 0.66; 95% CI, 0.43 to 1.00). There was no significant difference in the rate of the primary end point between the PCI group and the registry cohort (13.9% and 15.7%, respectively; hazard ratio, 0.88; 95% CI, 0.55 to 1.39). Relief from angina was more pronounced after PCI than after medical therapy. In patients with stable coronary artery disease, an initial FFR-guided PCI strategy was associated with a significantly lower rate of the primary composite end point of death, myocardial infarction, or urgent revascularization at 5 years than medical therapy alone. Patients without hemodynamically significant stenoses had a favorable long-term outcome with medical therapy alone. (Funded by St. Jude Medical and others; FAME 2 ClinicalTrials.gov number, NCT01132495 .).",
+      "pub_date": "2018-07-19",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Angina Pectoris",
+        "Antihypertensive Agents",
+        "Coronary Disease",
+        "Coronary Stenosis",
+        "Drug-Eluting Stents",
+        "Female",
+        "Follow-Up Studies",
+        "Fractional Flow Reserve, Myocardial",
+        "Humans",
+        "Kaplan-Meier Estimate",
+        "Male",
+        "Middle Aged",
+        "Myocardial Infarction",
+        "Percutaneous Coronary Intervention",
+        "Platelet Aggregation Inhibitors",
+        "Retreatment"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Panagiotis Xaplanteris",
+        "Stephane Fournier",
+        "Nico H J Pijls",
+        "William F Fearon",
+        "Emanuele Barbato",
+        "Pim A L Tonino"
+      ]
+    },
+    {
+      "pmid": "37482097",
+      "title": "Vasospastic angina: Past, present, and future.",
+      "abstract": "Vasospastic angina (VSA) is characterized by episodes of rest angina that are responsive to short-acting nitrates and are attributable to coronary artery vasospasm. The condition is underdiagnosed as the provocation test is rarely performed. VSA, the most important component of non-obstructive coronary artery disease, can present with angina, be asymptomatic, or can even present with fatal arrhythmias and cardiac arrest. Although most patients with VSA respond well to vasodilating medications, prognosis does not improve as expected in most patients, suggesting the existence elusive prognostic factors and pathogenesis that warrant further exploration. Moreover, patients with either severe or refractory VSA barely respond to conventional treatment and may develop life-threatening arrhythmias or suffer sudden cardiac death during ischemic attacks, which are associated with immune-inflammatory responses and have been shown to achieve remission following glucocorticoid and immunoglobulin treatments. Our recent work revealed that inflammation plays a key role in the initiation and development of coronary spasms, and that inflammatory cytokines have predictive value for diagnosis. In contrast to the existing literature, this review both summarizes the theoretical and clinical aspects of VSA, and also discusses the relationship between inflammation, especially myocarditis and VSA, in order to provide novel insights into the etiology, diagnosis, and treatment of VSA.",
+      "pub_date": "2023-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Coronary Vasospasm",
+        "Angina Pectoris",
+        "Coronary Artery Disease",
+        "Prognosis",
+        "Arrhythmias, Cardiac",
+        "Inflammation"
+      ],
+      "chemicals": [],
+      "journal": "Pharmacology & therapeutics",
+      "authors": [
+        "Zuowen He",
+        "Xin Xu",
+        "Qu Zhao",
+        "Hu Ding",
+        "Dao Wen Wang"
+      ]
+    }
+  ]
+}

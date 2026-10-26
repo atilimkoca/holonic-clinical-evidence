@@ -1,0 +1,393 @@
+{
+  "disease": "Peripheral Artery Disease",
+  "slug": "peripheral_artery_disease",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40169145",
+      "title": "Semaglutide and walking capacity in people with symptomatic peripheral artery disease and type 2 diabetes (STRIDE): a phase 3b, double-blind, randomised, placebo-controlled trial.",
+      "abstract": "Peripheral artery disease is a highly morbid type of atherosclerotic vascular disease involving the legs and is estimated to affect over 230 million individuals globally. Few therapies improve functional capacity and health-related quality of life in people with lower limb peripheral artery disease. We aimed to evaluate whether semaglutide improves function as measured by walking ability as well as symptoms, quality of life, and outcomes in people with peripheral artery disease and type 2 diabetes. STRIDE was a double-blind, randomised, placebo-controlled trial done at 112 outpatient clinical trial sites in 20 countries in North America, Asia, and Europe. Participants were aged 18 years and older, with type 2 diabetes and peripheral artery disease with intermittent claudication (Fontaine stage IIa, able to walk >200 m) and an ankle-brachial index of less than or equal to 0\u00b790 or toe-brachial index of less than or equal to 0\u00b770. Participants were randomly assigned (1:1) using an interactive web response system to receive subcutaneous semaglutide 1\u00b70 mg once per week for 52 weeks or placebo. The primary endpoint was the ratio to baseline of the maximum walking distance at week 52 measured on a constant load treadmill in the full analysis set. Safety was evaluated in the safety analysis set. This trial is registered with ClinicalTrials.gov, NCT04560998 and is now completed. From Oct 1, 2020, to July 12, 2024, 1363 patients were screened for eligibility, of whom 792 were randomly assigned to semaglutide (n=396) or placebo (n=396). 195 (25%) participants were female and 597 (75%) were male. Median age was 68\u00b70 years (IQR 61\u00b70-73\u00b70). The estimated median ratio to baseline in maximum walking distance at week 52 was significantly greater in the semaglutide group than the placebo group (1\u00b721 [IQR 0\u00b795-1\u00b755] vs 1\u00b708 [0\u00b786-1\u00b736]; estimated treatment ratio 1\u00b713 [95% CI 1\u00b706-1\u00b721]; p=0\u00b70004). Six serious adverse events in five (1%) participants in the semaglutide group and nine serious adverse events in six (2%) participants in the placebo group were possibly or probably treatment related, with the most frequent being serious gastrointestinal events (two events reports by two [1%] in the semaglutide group and five events reported by three [1%] in the placebo group). There were no treatment-related deaths. Semaglutide increased walking distance in patients with symptomatic peripheral artery disease and type 2 diabetes. Research implications include the need for future studies to further elucidate mechanisms of benefit and to assess the efficacy and safety in patients with peripheral artery disease who do not have type 2 diabetes. Novo Nordisk.",
+      "pub_date": "2025-05-03",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Clinical Trial, Phase III",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Aged",
+        "Female",
+        "Humans",
+        "Male",
+        "Middle Aged",
+        "Ankle Brachial Index",
+        "Diabetes Mellitus, Type 2",
+        "Double-Blind Method",
+        "Intermittent Claudication",
+        "Peripheral Arterial Disease",
+        "Quality of Life",
+        "Treatment Outcome",
+        "Walking",
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "chemicals": [
+        "Glucagon-Like Peptide-1 Receptor Agonists",
+        "Glucagon-Like Peptide 1",
+        "Semaglutide"
+      ],
+      "journal": "Lancet (London, England)",
+      "authors": [
+        "Marc P Bonaca",
+        "Andrei-Mircea Catarig",
+        "Kim Houlind",
+        "Bernhard Ludvik",
+        "Joakim Nordanstig",
+        "Chethana Kalmady Ramesh"
+      ]
+    },
+    {
+      "pmid": "37517924",
+      "title": "Peripheral artery disease: Update on etiology, pathophysiology, diagnosis and treatment.",
+      "abstract": "Peripheral artery disease (PAD) is a condition related to atherosclerosis affecting >200 million people worldwide, and it increases cardiovascular morbidity (mainly from myocardial infarction and stroke) and mortality. Indeed, PAD patients are classified as patients at very high cardiovascular risk. The most common manifestation of PAD is intermittent claudication, which is associated with reduced mobility and leg pain. Nevertheless, asymptomatic PAD is the most frequent form of PAD worldwide; therefore, it remains underdiagnosed and undertreated. The major risk factors for PAD are smoking, diabetes mellitus, hyperlipidemia, hypertension, overweight/obesity, age, male sex, and black race. Hence, the first and most relevant approach in PAD treatment is lifestyle management, with measures such as smoking cessation, healthy diet, weight loss, and regular physical exercise. This should also be supported by an optimal pharmacological approach including lipid-lowering drugs, antihypertensive drugs, antidiabetic agents, and antithrombotics.",
+      "pub_date": "2023-10-27",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Male",
+        "Peripheral Arterial Disease",
+        "Intermittent Claudication",
+        "Antihypertensive Agents",
+        "Atherosclerosis",
+        "Risk Factors"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents"
+      ],
+      "journal": "Medicina clinica",
+      "authors": [
+        "Dar\u00edo Mandaglio-Collados",
+        "Francisco Mar\u00edn",
+        "Jos\u00e9 Miguel Rivera-Caravaca"
+      ]
+    },
+    {
+      "pmid": "34997200",
+      "title": "Update on the pathophysiology and medical treatment of peripheral artery disease.",
+      "abstract": "Approximately 6% of adults worldwide have atherosclerosis and thrombosis of the lower limb arteries (peripheral artery disease (PAD)) and the prevalence is rising. PAD causes leg pain, impaired health-related quality of life, immobility, tissue loss and a high risk of major adverse events, including myocardial infarction, stroke, revascularization, amputation and death. In this Review, I describe the pathophysiology, presentation, outcome, preclinical research and medical management of PAD. Established treatments for PAD include antithrombotic drugs, such as aspirin and clopidogrel, and medications to treat dyslipidaemia, hypertension and diabetes mellitus. Randomized controlled trials have demonstrated that these treatments reduce the risk of major adverse events. The drug cilostazol, exercise therapy and revascularization are the current treatment options for the limb symptoms of PAD, but each has limitations. Novel therapies to promote collateral and new capillary growth and treat PAD-related myopathy are under investigation. Methods to improve the implementation of evidence-based medical management, novel drug therapies and rehabilitation programmes for PAD-related pain, functional impairment and ischaemic foot disease are important areas for future research.",
+      "pub_date": "2022-07-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "mesh_descriptors": [
+        "Aspirin",
+        "Humans",
+        "Pain",
+        "Peripheral Arterial Disease",
+        "Platelet Aggregation Inhibitors",
+        "Quality of Life"
+      ],
+      "chemicals": [
+        "Platelet Aggregation Inhibitors",
+        "Aspirin"
+      ],
+      "journal": "Nature reviews. Cardiology",
+      "authors": [
+        "Jonathan Golledge"
+      ]
+    },
+    {
+      "pmid": "34061140",
+      "title": "Lower Extremity Peripheral Artery Disease Without Chronic Limb-Threatening Ischemia: A Review.",
+      "abstract": "Lower extremity peripheral artery disease (PAD) affects approximately 8.5 million people in the US and approximately 230 million worldwide. Peripheral artery disease is uncommon before aged 50 years but affects up to 20% of people aged 80 years and older. It can be noninvasively diagnosed with the ankle-brachial index (ABI), a ratio of Doppler-recorded pressures in the dorsalis pedis and/or posterior tibial artery in each leg to brachial artery pressures. An ABI value less than 0.90 is 57% to 79% sensitive and 83% to 99% specific for arterial stenosis of at least 50%. Intermittent claudication, consisting of exertional calf pain that does not begin at rest and that resolves within 10 minutes of rest, is considered the classic symptom of PAD. However, 70% to 90% of people with an ABI value less than 0.90 either report no exertional leg symptoms (ie, asymptomatic) or report leg symptoms with walking that are not consistent with classic claudication. Over time, people with PAD restrict walking activity or slow walking speed to avoid leg symptoms. Thus, although approximately 75% of people with PAD report no change in leg symptoms over time, those with PAD have significantly greater annual declines in 6-minute walk performance compared with those without it. Approximately 11% of people with PAD develop chronic limb-threatening ischemia, the most severe form of PAD. Compared with people without PAD, those with the disease have approximately twice the rate of all-cause mortality, cardiovascular mortality, and major coronary events at 10-year follow-up. High-dose statins and antiplatelet therapy with or without antithrombotic therapy reduced rates of coronary events and stroke in people with PAD. Supervised treadmill exercise improved 6-minute walk distance by 30 to 35 m, consistent with a clinically meaningful change, whereas effective home-based walking exercise interventions improved 6-minute walk by 42 to 53 m. Effective home-based exercise programs require behavioral methods, including monitoring by a coach. Peripheral artery disease affects approximately 230 million people worldwide and is associated with increased rates of cardiovascular events, lower extremity events, and functional decline compared with that of people without PAD. People with PAD should be treated with the highest dose of statin tolerated, antithrombotic and/or antiplatelet therapy, and exercise.",
+      "pub_date": "2021-06-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Ankle Brachial Index",
+        "Anti-Infective Agents",
+        "Combined Modality Therapy",
+        "Exercise",
+        "Fibrinolytic Agents",
+        "Humans",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Lower Extremity",
+        "Peripheral Arterial Disease",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "chemicals": [
+        "Anti-Infective Agents",
+        "Fibrinolytic Agents",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "journal": "JAMA",
+      "authors": [
+        "Tamar S Polonsky",
+        "Mary M McDermott"
+      ]
+    },
+    {
+      "pmid": "39197984",
+      "title": "Antithrombotic Strategies for Patients With Peripheral Artery Disease: JACC Scientific Statement.",
+      "abstract": "Patients with peripheral artery disease (PAD) experience major cardiovascular and limb events. Antithrombotic strategies including antiplatelets and anticoagulants remain a cornerstone of treatment and prevention. Recent trials have shown heterogeneity in the response to antithrombotic therapies in patients presenting primarily with PAD when compared to those presenting primarily with coronary artery disease. In addition, there is observed heterogeneity with regards to the effects of antiplatelets and anticoagulants with respect to different outcomes including cardiovascular and major adverse limb events. This, coupled with risks of bleeding, requires a patient-centered and holistic assessment of benefit-risk when selecting antithrombotic strategies for patients with PAD. A global multidisciplinary work group was convened to evaluate antithrombotic strategies in PAD and to summarize the current state of the art. Common clinical scenarios around antithrombotic decision making were provided. Finally, insights with regard to implementation future investigation were described.",
+      "pub_date": "2024-09-03",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Peripheral Arterial Disease",
+        "Fibrinolytic Agents",
+        "Anticoagulants",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "chemicals": [
+        "Fibrinolytic Agents",
+        "Anticoagulants",
+        "Platelet Aggregation Inhibitors"
+      ],
+      "journal": "Journal of the American College of Cardiology",
+      "authors": [
+        "Marc P Bonaca",
+        "Geoffrey D Barnes",
+        "Rupert Bauersachs",
+        "Youssef Bessada",
+        "Michael S Conte",
+        "Anahita Dua"
+      ]
+    },
+    {
+      "pmid": "38224837",
+      "title": "Dyslipidemia and peripheral arterial disease.",
+      "abstract": "Peripheral arterial disease (PAD) affects 12\u00a0% of adult population and is increasing globally and in India. Peripheral arterial disease when associated with atherosclerosis in two or more other arterial beds such as coronary artery disease (CAD), mesenteric/renal artery and cerebrovascular disease (CVD), is known as polyvascular disease. The Reduction of Atherothrombosis for Continued Health (REACH) registry reported that 1 out of 6 patients had multi-vascular bed involvement. Progression of PAD to critical limb ischaemia (CLI) is seen in 1\u00a0% of affected patients per year, but patients who progress to CLI may have a 10- to 15-fold increased risk of cardiovascular death. The 2019 ECS/EAS guidelines for the management of dyslipidaemias have suggested that for primary or secondary prevention in very high risk, patients should follow a therapeutic regimen that achieves >50\u00a0% LDL-C reduction from baseline and an LDL-C goal of <55\u00a0mg/dl. High Intensity Statin is mainstay of treatment but optimal management is inadequate. Statin treatment reduces all-cause mortality by 39\u00a0%, CV death by 41\u00a0%, CV outcomes by 34\u00a0%, ischaemic stroke by 28\u00a0%, acute limb ischaemia by 30\u00a0% and amputations by 35\u00a0%. Ezetimibe when added to statins in IMPROVE-IT trial, showed significant reduction of MACE. PCSK9 inhibitor (FOURIER TRIAL) showed reduction in primary end point in PAD vs Non PAD patients (3.5\u00a0% vs 1.6\u00a0%). There is a critical need for an Indian multi-disciplinary task force for research on the direct impact of lipid-lowering agents on limb salvage rates and major limb-related events in PAD patients.",
+      "pub_date": "2024-03-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Humans",
+        "Proprotein Convertase 9",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Cholesterol, LDL",
+        "Brain Ischemia",
+        "Stroke",
+        "Risk Factors",
+        "Peripheral Arterial Disease",
+        "Dyslipidemias"
+      ],
+      "chemicals": [
+        "PCSK9 protein, human",
+        "Proprotein Convertase 9",
+        "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+        "Cholesterol, LDL"
+      ],
+      "journal": "Indian heart journal",
+      "authors": [
+        "Ajay Yadav",
+        "Vivek Sawant",
+        "Varinder Singh Bedi",
+        "Kanupriya Yadav"
+      ]
+    },
+    {
+      "pmid": "37559242",
+      "title": "Testosterone and Peripheral Arterial Disease.",
+      "abstract": "Testosterone levels in men begin declining in the early years of adulthood, with a 1-2% reduction/year. Low testosterone levels in men are associated with obesity, metabolic syndrome, diabetes mellitus, dyslipidaemia, hypertension and increased cardiovascular mortality. However, observational studies of testosterone levels in males and their relationship with peripheral arterial disease (PAD) have yielded mixed results; only some cohorts show a clear association with low free testosterone levels. This discrepancy may, in part, be due to methodological issues with estimating free testosterone but also to different effects of testosterone on the vessel wall and metabolism. While testosterone improves glycaemic control, has anti-obesity effects and induces vasodilation, it also stimulates platelet aggregation and increases the haematocrit. Androgen deprivation treatment for advanced prostate cancer may be associated with elevated cardiovascular risk, as is testosterone abuse for performance enhancement. On the other hand, judicious treatment of male hypogonadism or testosterone treatment of trans-men appears to be safe.",
+      "pub_date": "2023-01-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Male",
+        "Humans",
+        "Adult",
+        "Testosterone",
+        "Androgen Antagonists",
+        "Hypogonadism",
+        "Prostatic Neoplasms",
+        "Obesity",
+        "Peripheral Arterial Disease"
+      ],
+      "chemicals": [
+        "Testosterone",
+        "Androgen Antagonists"
+      ],
+      "journal": "Current vascular pharmacology",
+      "authors": [
+        "Ale\u0161 Blinc",
+        "Gerit Holger Schernthaner",
+        "Pavel Poredo\u0161",
+        "Panagiotis Anagnostis",
+        "Mojca Jensterle",
+        "Katica Bajuk Studen"
+      ]
+    },
+    {
+      "pmid": "35880444",
+      "title": "Peripheral arterial disease and hypertension.",
+      "abstract": "Hypertension (HTN) is a well known risk factor for atherosclerosis and peripheral arterial disease (PAD). PAD affects more than 250 million people globally and is associated with worse clinical outcomes. Although multiple studies have been performed to evaluate treatment of HTN in patients with PAD, blood pressure management in this high-risk cohort remains poor. There has been conflicting evidence regarding blood pressure goals in PAD with some recent studies showing adverse outcomes with low blood pressure in this patient population. Current guidelines, however, continue to recommend treatment goals in PAD patients similar to patients without PAD. To date, no single antihypertensive drug class has shown a clear benefit in PAD population over other antihypertensive drug classes. Prospective randomized trials enrolling PAD patients are required that can shed light on optimum blood pressure target and also distinguish between different antihypertensive drugs in terms of reducing adverse outcomes.",
+      "pub_date": "2022-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Antihypertensive Agents",
+        "Blood Pressure",
+        "Humans",
+        "Hypertension",
+        "Peripheral Arterial Disease",
+        "Prospective Studies"
+      ],
+      "chemicals": [
+        "Antihypertensive Agents"
+      ],
+      "journal": "Current opinion in cardiology",
+      "authors": [
+        "Aashish Gupta",
+        "Rajan A G Patel"
+      ]
+    },
+    {
+      "pmid": "37888915",
+      "title": "Drug-Eluting Resorbable Scaffold versus Angioplasty for Infrapopliteal Artery Disease.",
+      "abstract": "Among patients with chronic limb-threatening ischemia (CLTI) and infrapopliteal artery disease, angioplasty has been associated with frequent reintervention and adverse limb outcomes from restenosis. The effect of the use of drug-eluting resorbable scaffolds on these outcomes remains unknown. In this multicenter, randomized, controlled trial, 261 patients with CLTI and infrapopliteal artery disease were randomly assigned in a 2:1 ratio to receive treatment with an everolimus-eluting resorbable scaffold or angioplasty. The primary efficacy end point was freedom from the following events at 1 year: amputation above the ankle of the target limb, occlusion of the target vessel, clinically driven revascularization of the target lesion, and binary restenosis of the target lesion. The primary safety end point was freedom from major adverse limb events at 6 months and from perioperative death. The primary efficacy end point was observed (i.e., no events occurred) in 135 of 173 patients in the scaffold group and 48 of 88 patients in the angioplasty group (Kaplan-Meier estimate, 74% vs. 44%; absolute difference, 30 percentage points; 95% confidence interval [CI], 15 to 46; one-sided P<0.001 for superiority). The primary safety end point was observed in 165 of 170 patients in the scaffold group and 90 of 90 patients in the angioplasty group (absolute difference, -3 percentage points; 95% CI, -6 to 0; one-sided P<0.001 for noninferiority). Serious adverse events related to the index procedure occurred in 2% of the patients in the scaffold group and 3% of those in the angioplasty group. Among patients with CLTI due to infrapopliteal artery disease, the use of an everolimus-eluting resorbable scaffold was superior to angioplasty with respect to the primary efficacy end point. (Funded by Abbott; LIFE-BTK ClinicalTrials.gov number, NCT04227899.).",
+      "pub_date": "2024-01-04",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Absorbable Implants",
+        "Angioplasty",
+        "Angioplasty, Balloon",
+        "Blood Vessel Prosthesis Implantation",
+        "Chronic Disease",
+        "Chronic Limb-Threatening Ischemia",
+        "Drug-Eluting Stents",
+        "Everolimus",
+        "Immunosuppressive Agents",
+        "Ischemia",
+        "Peripheral Arterial Disease",
+        "Popliteal Artery",
+        "Tissue Scaffolds",
+        "Treatment Outcome"
+      ],
+      "chemicals": [
+        "Everolimus",
+        "Immunosuppressive Agents"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Ramon L Varcoe",
+        "Brian G DeRubertis",
+        "Raghu Kolluri",
+        "Prakash Krishnan",
+        "David C Metzger",
+        "Marc P Bonaca"
+      ]
+    },
+    {
+      "pmid": "36265943",
+      "title": "Paclitaxel Therapy in Peripheral Arterial\u00a0Disease: Back to the Future?",
+      "abstract": "",
+      "pub_date": "2022-10-24",
+      "publication_types": [
+        "Editorial",
+        "Comment"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Paclitaxel",
+        "Treatment Outcome",
+        "Peripheral Arterial Disease",
+        "Popliteal Artery",
+        "Angioplasty, Balloon",
+        "Coated Materials, Biocompatible",
+        "Femoral Artery",
+        "Cardiovascular Agents"
+      ],
+      "chemicals": [
+        "Paclitaxel",
+        "Coated Materials, Biocompatible",
+        "Cardiovascular Agents"
+      ],
+      "journal": "JACC. Cardiovascular interventions",
+      "authors": [
+        "Javier A Valle",
+        "Justin T Morrison"
+      ]
+    },
+    {
+      "pmid": "36208009",
+      "title": "Pentoxifylline in dermatology.",
+      "abstract": "Pentoxifylline was initially marketed for use in patients with intermittent claudication due to chronic occlusive arterial disease of the extremities but has since been shown to have several off-label uses in dermatology. The aim of this review is to increase awareness of the several applications of pentoxifylline in the field of dermatology. A comprehensive PubMed search was conducted in May 2022 using the following phrases \"dermatology\" AND \"pentoxifylline.\" Our search period spanned 34\u2009years from 1988 to 2022. All available literature was reviewed. Reference lists of identified articles were included. Studies were excluded if they were not in English and if the study was out of scope. Eighty-one articles were included in this review. Pentoxifylline has been used to treat various dermatological conditions including peripheral vascular disease, vasculitis and vasculopathies, chilblains, pigmented purpuric dermatosis, granuloma annulare, necrobiosis, keloids, lichen sclerosis et atrophicus, scars, radiation-induced fibrosis, vitiligo, alopecia areata, leishmaniasis, and leprosy. Pentoxifylline's use in dermatology is growing. However, there are limited larger studies and randomized control trials on the use of pentoxifylline in dermatology and more investigation is needed to evaluate its use for many dermatologic conditions. Pentoxifylline's unique mechanism of action as well as its good tolerability, cost-effectiveness, and minimal drug interactions make it a convenient primary or adjunctive option in many dermatological conditions.",
+      "pub_date": "2023-02-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Pentoxifylline",
+        "Intermittent Claudication",
+        "Granuloma Annulare",
+        "Vasculitis",
+        "Cicatrix"
+      ],
+      "chemicals": [
+        "Pentoxifylline"
+      ],
+      "journal": "Journal of cosmetic dermatology",
+      "authors": [
+        "Eliza Balazic",
+        "Eden Axler",
+        "Hailey Konisky",
+        "Urmi Khanna",
+        "Kseniya Kobets"
+      ]
+    },
+    {
+      "pmid": "38151850",
+      "title": "Management of Peripheral Arterial Disease after Menopause.",
+      "abstract": "",
+      "pub_date": "2024-01-01",
+      "publication_types": [
+        "Editorial",
+        "Introductory Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Female",
+        "Peripheral Arterial Disease",
+        "Risk Factors",
+        "Treatment Outcome",
+        "Estrogen Replacement Therapy",
+        "Postmenopause",
+        "Menopause",
+        "Age Factors"
+      ],
+      "chemicals": [],
+      "journal": "Current vascular pharmacology",
+      "authors": [
+        "Theofanis Papas"
+      ]
+    }
+  ]
+}

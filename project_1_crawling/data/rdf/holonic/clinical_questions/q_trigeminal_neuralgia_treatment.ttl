@@ -1,0 +1,56 @@
+@prefix holon: <https://example.org/holon#> .
+@prefix oe: <https://example.org/openevidence#> .
+@prefix oed: <https://example.org/openevidence/diseases/> .
+@prefix oedrug: <https://example.org/openevidence/drugs/> .
+@prefix oeevt: <https://example.org/openevidence/events/> .
+@prefix oeq: <https://example.org/openevidence/questions/> .
+@prefix oesrc: <https://example.org/openevidence/sources/> .
+@prefix prov: <http://www.w3.org/ns/prov#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+oeevt:entry_q_trigeminal_neuralgia_treatment a holon:EntityEntry ;
+    holon:entity oed:trigeminal_neuralgia ;
+    holon:entryMode "topic-match" .
+
+oeevt:ev_q_trigeminal_neuralgia_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_trigeminal_neuralgia_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.23 ;
+    holon:evidenceLevel "Level-5" ;
+    holon:inHolon oeq:q_trigeminal_neuralgia_treatment ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    oe:cites oesrc:36400550 ;
+    oe:effectiveness "inconclusive" .
+
+oedrug:gabapentin oe:treats oed:trigeminal_neuralgia .
+
+oeevt:ev_q_trigeminal_neuralgia_treatment-tt rdf:object oed:trigeminal_neuralgia ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:gabapentin .
+
+oeq:q_trigeminal_neuralgia_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label "What is the recommended first-line pharmacological treatment for Trigeminal Neuralgia?"@en ;
+    prov:generatedAtTime "2025-06-01T10:00:00+00:00"^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom <https://pubmed.ncbi.nlm.nih.gov/> ;
+    holon:aggregateConfidence 0.25 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_trigeminal_neuralgia_treatment-bnd ;
+    holon:hasContextGraph oeq:q_trigeminal_neuralgia_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_trigeminal_neuralgia_treatment-int ;
+    holon:hasProjectionGraph oeq:q_trigeminal_neuralgia_treatment-prj ;
+    holon:narrativeFunction "Summarises evidence on managing Trigeminal Neuralgia with gabapentin."^^xsd:string ;
+    holon:prerequisiteFor oeq:q_trigeminal_neuralgia_efficacy ;
+    holon:recordedOn "2025-06-01"^^xsd:date ;
+    holon:summaryConfidence 0.23 ;
+    oe:aboutDisease oed:trigeminal_neuralgia ;
+    oe:answerText "Trigeminal neuralgia is characterized classically by recurrent, evocable, unilateral brief, electric, shocklike pains with an abrupt onset and cessation that affects one or more divisions of the trigeminal nerve. In recent years, the classification of trigeminal neuralgia has been updated based on further understanding."^^xsd:string ;
+    oe:belongsToSpecialty "Neurology" ;
+    oe:cites oesrc:31608834,
+        oesrc:32813951,
+        oesrc:34108244,
+        oesrc:36400550 ;
+    oe:questionText "What is the recommended first-line pharmacological treatment for Trigeminal Neuralgia?"^^xsd:string .
+

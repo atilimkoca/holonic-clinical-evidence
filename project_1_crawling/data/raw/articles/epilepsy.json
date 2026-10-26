@@ -1,0 +1,430 @@
+{
+  "disease": "Epilepsy",
+  "slug": "epilepsy",
+  "synthetic": false,
+  "articles": [
+    {
+      "pmid": "40836583",
+      "title": "State-of-the-art management of Dravet syndrome.",
+      "abstract": "Dravet syndrome is a severe developmental and epileptic encephalopathy caused by heterozygous, loss-of-function, pathogenic variants in the SCN1A gene. It is characterized by frequent, often prolonged convulsive seizures. Dravet syndrome is associated with diverse comorbid conditions, including developmental impairment, intellectual disability, and behavioral disturbances, in addition to high mortality rates. Prompt diagnosis and treatment initiation are essential to reduce seizure frequency, status epilepticus, and potentially improve neurodevelopmental outcomes. Currently available therapies such as fenfluramine, stiripentol, and cannabidiol have demonstrated significant reduction in convulsive seizure frequency, based on randomized controlled trials and real-world studies; however, they have not markedly affected non-seizure symptoms. Emerging therapies such as genetic modulation are promising given their potential for disease modification, seizure frequency reduction, and improvement of non-seizure outcomes. This review of observational studies and randomized clinical trials provides an overview of the natural history of Dravet syndrome, current treatment guidelines with recently approved medications, addressing both safety and efficacy, and new therapeutic approaches, including disease-modifying therapies. The therapeutic landscape in Dravet syndrome is evolving, with the use of new antiseizure agents and precision therapies that target the SCN1A variant. Goals of treatment include improvement of seizure burden, neurodevelopment, comorbidities, and quality of life in individuals with Dravet syndrome.",
+      "pub_date": "2025-12-01",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Epilepsies, Myoclonic",
+        "Anticonvulsants",
+        "NAV1.1 Voltage-Gated Sodium Channel"
+      ],
+      "chemicals": [
+        "Anticonvulsants",
+        "NAV1.1 Voltage-Gated Sodium Channel"
+      ],
+      "journal": "Developmental medicine and child neurology",
+      "authors": [
+        "Alejandra Vasquez",
+        "Elaine C Wirrell"
+      ]
+    },
+    {
+      "pmid": "41047651",
+      "title": "[Epilepsy and Dementia].",
+      "abstract": "Older adults have a higher prevalence of both dementia and epilepsy. Epilepsy and dementia have a bidirectional relationship. Epidemiological studies have shown that elderly patients with epilepsy have approximately twice the risk of developing dementia compared to controls. Conversely, patients with dementia have twice the risk of developing epilepsy compared to controls. Seizure types in older adults with newly diagnosed epilepsy include focal-onset generalized tonic-clonic seizures and focal impaired awareness seizures without convulsions. The differential diagnosis between epilepsy and dementia can be challenging. Temporal lobe epilepsy may be overlooked in patients visiting dementia clinics. In some cases, temporal lobe epilepsy with frequent seizures may be misdiagnosed as dementia. Additionally, temporal lobe epilepsy in patients already diagnosed with dementia may go unrecognized. Diagnostic difficulties may also arise due to a lack of medical history or absence of eyewitness accounts. In older adults with newly diagnosed epilepsy, antiseizure medications are highly effective in controlling seizures. Accurate diagnosis is essential for effective seizure management and an improved quality of life.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "English Abstract"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Dementia",
+        "Epilepsy",
+        "Diagnosis, Differential",
+        "Aged"
+      ],
+      "chemicals": [],
+      "journal": "No shinkei geka. Neurological surgery",
+      "authors": [
+        "Naoki Akamatsu"
+      ]
+    },
+    {
+      "pmid": "41712824",
+      "title": "[Not Available].",
+      "abstract": "Epilepsy is a chronic and disabling pathology which begins, in more than 50% of cases, before the age of 10. Patients who are resistant to AEDs suffer from poor quality of life and socio-professional disintegration. Therapeutic pharmacological monitoring (TDM) of lamotrigine (LMT) in epileptic children is particularly useful in complex situations where it is difficult to assess the response and thus allows to improve the management of epilepsy and improve the quality of life of epileptic children. The aims of this study were to identify drug-resistant children on LMT and to assess demographic, clinical and pharmacokinetic factors associated with drug resistance in these children. This retrospective descriptive study was conducted at Clinical Pharmacology (2012-2021). We included children under 18 years old with epilepsy, on LMT, referred for trough plasma level (C0) measurement as part of the TDM of LMT. We included 114 epileptic children prescribed LMT. Drug resistance was reported in 38.6% (n=44) and was higher in boys (73%). LMT C0 were significantly higher in drug resistant epileptic children (4.75 \u00b5g/mL versus 8.7 \u00b5g/mL, p=0.000). Bioavailability was low in 20.5% of the cases of drug resistant epileptic children. Drug resistance was observed in 38.6% of epileptic children treated with LMT, the majority of whom were boys. Residual LMT concentrations were higher in drug-resistant epileptic children on LMT.",
+      "pub_date": "2025-04-05",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Lamotrigine",
+        "Child",
+        "Drug Monitoring",
+        "Male",
+        "Retrospective Studies",
+        "Female",
+        "Anticonvulsants",
+        "Drug Resistant Epilepsy",
+        "Child, Preschool",
+        "Adolescent",
+        "Infant",
+        "Epilepsy",
+        "Quality of Life"
+      ],
+      "chemicals": [
+        "Lamotrigine",
+        "Anticonvulsants"
+      ],
+      "journal": "La Tunisie medicale",
+      "authors": [
+        "Syrine Moussa",
+        "Rim Charfi",
+        "Khouloud Ferchichi",
+        "Mouna Daldoul",
+        "Mouna Ben Sassi",
+        "Syrine Ben Hammamia"
+      ]
+    },
+    {
+      "pmid": "41780062",
+      "title": "Zorevunersen in Children and Adolescents with Dravet Syndrome.",
+      "abstract": "Dravet syndrome is a severe developmental and epileptic encephalopathy caused primarily by We enrolled patients 2 to 18 years of age with Dravet syndrome who were receiving standard antiseizure medications in two phase 1-2a, open-label, multicenter studies (MONARCH and ADMIRAL). Patients were included in either a single-ascending-dose cohort, in which zorevunersen (10 to 70 mg) was administered on day 1 only, or a multiple-ascending-dose cohort, in which zorevunersen (20 to 70 mg) was administered two or three times in a 3-month period. Patients eligible for rollover to the two open-label extension studies (SWALLOWTAIL and LONGWING) continued to receive zorevunersen (\u226445 mg) every 4 months. The safety and pharmacokinetics of zorevunersen were assessed in the primary analysis; clinical effects were also evaluated. A total of 81 patients were enrolled in the phase 1-2a studies. As of May 30, 2025, a total of 75 patients had entered the extension studies. Most adverse events were mild or moderate. The most common adverse event was post-lumbar puncture syndrome (in 25% of patients) in the phase 1-2a studies and was an elevated protein level in cerebrospinal fluid (in 45%) in the extension studies. One patient had suspected unexpected serious adverse reactions, 1 had an adverse event that led to study withdrawal, 2 died from sudden unexpected death in epilepsy, and 1 died from malnutrition. Patients who received 70 mg of zorevunersen (one, two, or three doses) in the phase 1-2a studies, followed by up to 45 mg in the extension studies, had a median change from baseline in convulsive-seizure frequency ranging from -58.82% to -90.91% across 1-month intervals during the first 20 months of the extension studies. The data supported improvements in overall clinical status, quality of life, and adaptive behavior with continued treatment for up to 36 months in the extension studies. The safety profile and initial clinical improvement support the continued development of zorevunersen as a potential disease-modifying treatment for Dravet syndrome. (Supported by Stoke Therapeutics; MONARCH and SWALLOWTAIL ClinicalTrials.gov numbers, NCT04442295 and NCT04740476, respectively; ADMIRAL and LONGWING ISRCTN Registry numbers, ISRCTN99651026 and ISRCTN12811235, respectively.).",
+      "pub_date": "2026-03-05",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Clinical Trial, Phase I",
+        "Clinical Trial, Phase II"
+      ],
+      "mesh_descriptors": [
+        "Adolescent",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Male",
+        "Anticonvulsants",
+        "Dose-Response Relationship, Drug",
+        "Epilepsies, Myoclonic",
+        "NAV1.1 Voltage-Gated Sodium Channel",
+        "Oligonucleotides, Antisense",
+        "Up-Regulation",
+        "Injections, Spinal",
+        "Post-Dural Puncture Headache",
+        "Quality of Life",
+        "Treatment Outcome",
+        "Follow-Up Studies",
+        "Young Adult"
+      ],
+      "chemicals": [
+        "Anticonvulsants",
+        "NAV1.1 Voltage-Gated Sodium Channel",
+        "Oligonucleotides, Antisense",
+        "SCN1A protein, human"
+      ],
+      "journal": "The New England journal of medicine",
+      "authors": [
+        "Linda Laux",
+        "Joseph Sullivan",
+        "M Scott Perry",
+        "Andreas Brunklaus",
+        "Archana Desurkar",
+        "John M Schreiber"
+      ]
+    },
+    {
+      "pmid": "41393325",
+      "title": "Efficacy and Safety of Clobazam Adjunctive Therapy in Pediatric Patients with Drug-Resistant Epilepsy.",
+      "abstract": "To determine the efficacy and safety of clobazam, a benzodiazepine derivative endorsed for adjunctive therapy in drug-resistant epilepsy due to its broad-spectrum efficacy and tolerability profile, as an adjunctive treatment for pediatric patients with drug-resistant epilepsy. This was a multicenter, real-world, self-controlled study. Pediatric drug-resistant epilepsy patients receiving clobazam adjunctive treatment at three centers were retrospectively included. The primary outcomes were response rates and seizure-free rates at 6 and 12 months of treatment. The secondary outcomes included retention rates at months 6 and 12 of treatment and adverse events that occurred during the addition of clobazam therapy. A total of 146 patients were included. The retention rates were 87.67% (128/146) and 81.51% (119/146) at 6 and 12 months, respectively. The response rates were 58.99% (82/139) and 62.41% (83/133), and the seizure-free rates were 36.69% (51/139) and 35.34% (47/133) at 6 and 12 month, respectively. Clobazam has shown good efficacy in patients with epilepsy due to genetic variants (60.42%, 29/48) and its significantly better efficacy for the SCN1A genotype than for other genotypes (P=0.048). The independent factor associated with clinical response was a lower baseline seizure frequency (seizure frequency <1 seizure/day). Adverse reactions occurred in 24 (24/146, 16.64%) patients, with excessive salivation/hypersalivation (4/146, 2.74%) and loss of appetite (4/146, 2.74%) being the most common. Clobazam adjunctive therapy is effective, safe and well tolerated in pediatric patients with drug-resistant epilepsy.",
+      "pub_date": "2025-01-01",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Clobazam",
+        "Child",
+        "Male",
+        "Female",
+        "Drug Resistant Epilepsy",
+        "Anticonvulsants",
+        "Retrospective Studies",
+        "Adolescent",
+        "Child, Preschool",
+        "Benzodiazepines",
+        "Treatment Outcome",
+        "Drug Therapy, Combination"
+      ],
+      "chemicals": [
+        "Clobazam",
+        "Anticonvulsants",
+        "Benzodiazepines"
+      ],
+      "journal": "Drug design, development and therapy",
+      "authors": [
+        "Lingyan Yu",
+        "Shunan Chen",
+        "Zhou Zhang",
+        "Yani Hu",
+        "Yuting Fang",
+        "Fengqian Mao"
+      ]
+    },
+    {
+      "pmid": "40938500",
+      "title": "Long-term plasma monitoring of THC and CBD in pediatric drug-resistant epilepsy: Implications for cannabidiol therapy with Epidyolex\u00ae.",
+      "abstract": "This study evaluated long-term plasma concentrations of cannabidiol (CBD) and \u03949-tetrahydrocannabinol (THC) in children receiving highly purified cannabidiol (hpCBD; Epidyolex\u00ae) therapy for drug-resistant epilepsy. A retrospective analysis was performed on 38 patients with a median age of 11\u2009years (IQR, 5) treated in a single center from 2019 to 2024. Incremental doses of Epidyolex\u00ae (mean dose: 13.6\u2009mg/kg/day) were administered, and plasma levels of CBD and THC were measured using liquid chromatography-tandem mass spectrometry (LC-MS/MS). THC remained consistently undetectable (<0.2\u2009\u03bcg/L) at all time points, confirming the negligible systemic exposure. CBD levels increased dose-dependently, reaching a median concentration of 89.8\u2009\u03bcg/L (IQR, 112.2) at final follow-up, demonstrating a significant positive correlation (p\u2009<\u20090.0001) between dosage and plasma concentration. Epidyolex\u00ae treatment effectively maintains therapeutic CBD levels without detectable THC, supporting the safety and suitability of this therapy. These results highlight the value of plasma CBD monitoring to verify dose-dependent exposure and support safe, individualized treatment with CBD. PLAIN LANGUAGE SUMMARY: This study examined blood levels of cannabidiol (CBD) and tetrahydrocannabinol (THC) in children with drug-resistant epilepsy treated with highly purified CBD (Epidyolex). CBD levels increased proportionally with the dose, while THC levels remained undetectable. The consistent lack of THC detection across all measured time points and dose levels suggests that systemic exposure to THC remains negligible, even with prolonged administration.",
+      "pub_date": "2025-10-01",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Cannabidiol",
+        "Drug Resistant Epilepsy",
+        "Child",
+        "Dronabinol",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Adolescent",
+        "Anticonvulsants",
+        "Drug Monitoring",
+        "Child, Preschool",
+        "Tandem Mass Spectrometry",
+        "Dose-Response Relationship, Drug"
+      ],
+      "chemicals": [
+        "Cannabidiol",
+        "Dronabinol",
+        "Anticonvulsants"
+      ],
+      "journal": "Epilepsia open",
+      "authors": [
+        "Alessia Cafaro",
+        "Antonella Riva",
+        "Federica Pigliasco",
+        "Sebastiano Barco",
+        "Valentina Manca",
+        "Maria Stella Vari"
+      ]
+    },
+    {
+      "pmid": "40829586",
+      "title": "De novo design of a peptide modulator to reverse sodium channel dysfunction linked to cardiac arrhythmias and epilepsy.",
+      "abstract": "Ion channels orchestrate electrical signaling in excitable cells. In nature, ion channel function is customized by modulatory proteins that have evolved to fulfill distinct physiological needs. Yet, engineering synthetic modulators that precisely tune ion channel function is challenging. One example involves the voltage-gated sodium (Na",
+      "pub_date": "2025-10-30",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Animals",
+        "Epilepsy",
+        "Arrhythmias, Cardiac",
+        "Humans",
+        "Mice",
+        "Protein Engineering",
+        "Peptides",
+        "HEK293 Cells",
+        "Action Potentials",
+        "NAV1.5 Voltage-Gated Sodium Channel",
+        "Voltage-Gated Sodium Channel Blockers"
+      ],
+      "chemicals": [
+        "Peptides",
+        "NAV1.5 Voltage-Gated Sodium Channel",
+        "Voltage-Gated Sodium Channel Blockers"
+      ],
+      "journal": "Cell",
+      "authors": [
+        "Ryan Mahling",
+        "Bence Hegyi",
+        "Erin R Cullen",
+        "Timothy M Cho",
+        "Aaron R Rodriques",
+        "Lucile Fossier"
+      ]
+    },
+    {
+      "pmid": "41284246",
+      "title": "Medical Cannabis and Epilepsy: The Evidence.",
+      "abstract": "Epilepsy is a serious neurological condition that can affect individuals of all ages. Treatment is far from perfect, and roughly 30% of patients can experience seizures that are resistant to antiseizure medications. Interestingly, the cannabis plant, specifically the phytocannabinoids, cannabidiol and delta-9-tetrahydrocannabinol, has been shown to possess anticonvulsant properties and are effective in the treatment of seizures. The clinical evidence base for cannabis for epileptic conditions has been growing in the last few decades with studies aiming to establish the clinical efficacy and safety profile of the plant. Despite the advancements that are being made, clinicians and medical regulatory bodies are still reluctant for epilepsy patients to use cannabis. Thus, it is essential that individuals are educated about the therapeutic properties of cannabis and the clinical evidence base to help patients gain access to cannabis medicines.",
+      "pub_date": "2025-11-25",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Medical Marijuana",
+        "Epilepsy",
+        "Anticonvulsants",
+        "Cannabidiol",
+        "Cannabis",
+        "Phytotherapy"
+      ],
+      "chemicals": [
+        "Medical Marijuana",
+        "Anticonvulsants",
+        "Cannabidiol"
+      ],
+      "journal": "British journal of hospital medicine (London, England : 2005)",
+      "authors": [
+        "Varinder Kaur",
+        "Hannah Deacon",
+        "Michael Philip Barnes",
+        "David John Nutt"
+      ]
+    },
+    {
+      "pmid": "40956028",
+      "title": "Everolimus precision therapy in NPRL2- and NPRL3-related epilepsy.",
+      "abstract": "Disinhibition of the mechanistic target of rapamycin (mTOR) pathway has been observed in patients with loss-of-function variants in the disheveled, Egl-10, and pleckstrin domain-containing protein 5 (DEPDC5), and nitrogen permease regulator-like proteins 2 and 3 (NPRL2, and NPRL3) genes, which encode\u00a0the components of GTPase activating protein Activity Toward Rags Complex 1 (GATOR1) complex. Everolimus, a synthetic mTOR inhibitor, has shown efficacy in treating seizures in patients with DEPDC5 epilepsy, but seemed to worsen seizures in the one published patient with NPRL3 epilepsy. We studied four patients with NPRL2- and NPRL3-related epilepsies with intractable focal seizures treated with everolimus as add-on therapy. Age at treatment initiation was between 1\u2009month and 26\u2009years; patients had baseline seizure frequencies ranging from 15 to 301 per month and had failed 6-14 antiseizure medications. Daily doses ranged between 3.75 and 11.5\u2009mg with trough levels between 5 and 8.7\u2009ng/mL. Two patients became seizure-free by 2\u2009months of treatment. In one of them, seizures recurred at levels below 4\u2009ng/mL, and seizure freedom was regained with increased levels. The other two patients experienced a clinically meaningful seizure reduction of 52% and 86%, respectively. Two patients experienced stomatitis, resulting in everolimus discontinuation in one; one patient had hyperlipidemia and another had recurrent respiratory infections, which resolved with dose reduction. In conclusion, everolimus add-on may be effective in substantially reducing seizures in patients with NPRL2- and NPRL3-related epilepsies. However, strict surveillance is required, especially in young patients.",
+      "pub_date": "2025-09-01",
+      "publication_types": [
+        "Journal Article",
+        "Case Reports"
+      ],
+      "mesh_descriptors": [
+        "Adult",
+        "Child",
+        "Child, Preschool",
+        "Female",
+        "Humans",
+        "Male",
+        "Anticonvulsants",
+        "Epilepsy",
+        "Everolimus",
+        "MTOR Inhibitors",
+        "Precision Medicine",
+        "GTPase-Activating Proteins",
+        "Tumor Suppressor Proteins"
+      ],
+      "chemicals": [
+        "Anticonvulsants",
+        "Everolimus",
+        "MTOR Inhibitors",
+        "NPRL2 protein, human",
+        "NPRL3 protein, human",
+        "GTPase-Activating Proteins",
+        "Tumor Suppressor Proteins"
+      ],
+      "journal": "Epilepsia",
+      "authors": [
+        "Evelina Carapancea",
+        "Erik A Eklund",
+        "Helene Verhelst",
+        "Maria Roberta Cilio"
+      ]
+    },
+    {
+      "pmid": "40954165",
+      "title": "A retrospective cohort study of valproate and infertility in men with epilepsy or bipolar disorder using international health data.",
+      "abstract": "Valproate is highly effective at treating epilepsy and bipolar disorder. It faces prescribing restrictions in men due to concerns it causes testicular dysfunction and infertility. These mostly stem from animal models - the human evidence is limited and conflicting. We report the largest ever retrospective cohort study of infertility in men with epilepsy or bipolar disorder, using real-world healthcare data from TriNetX. 91,917 of the men are exposed to valproate, and 535,803 unexposed. Cohorts are propensity score matched for a comprehensive set of baseline covariates, and survival analysis is undertaken using Cox-proportional hazards models. No significant difference is seen between valproate-exposed and unexposed men across lifetime risks of infertility, testicular hypofunction, testicular atrophy, and a composite of low sperm concentration, motility, vitality, normal forms, and semen volume (p\u2009>\u20090.05). Our findings do not support an association between valproate and infertility in men with epilepsy or bipolar disorder in real-world settings.",
+      "pub_date": "2025-09-15",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Male",
+        "Valproic Acid",
+        "Humans",
+        "Bipolar Disorder",
+        "Retrospective Studies",
+        "Epilepsy",
+        "Infertility, Male",
+        "Adult",
+        "Anticonvulsants",
+        "Middle Aged",
+        "Proportional Hazards Models",
+        "Testis"
+      ],
+      "chemicals": [
+        "Valproic Acid",
+        "Anticonvulsants"
+      ],
+      "journal": "Nature communications",
+      "authors": [
+        "Gashirai K Mbizvo",
+        "Susan E Duncan",
+        "Lewis Nancarrow",
+        "Tessa Sagarino",
+        "Lance V Watkins",
+        "Michael T Mbizvo"
+      ]
+    },
+    {
+      "pmid": "41056528",
+      "title": "Factors Associated With More Medication Trials Before Surgical Evaluation and Postsurgical Outcomes in Pediatric Drug-Resistant Epilepsy.",
+      "abstract": "Despite strong evidence supporting timely surgical evaluation, many children with drug-resistant epilepsy undergo multiple antiseizure medication (ASM) trials before surgery. Because guidelines recommend evaluation after failure of 2 appropriate ASMs, evaluation after failure of >2 ASMs serves as a clinically relevant benchmark. The aim of this study was to identify factors associated with initiation of surgical evaluation after failure of >2 ASMs and evaluate its association with seizure freedom. We performed a retrospective analysis using the Pediatric Epilepsy Research Consortium Surgery Database, including 24 US pediatric epilepsy centers. Children aged 18 years and younger who initiated epilepsy surgery evaluation between January 2018 and February 2023 were included. Timing of evaluation was defined by the number of ASM failures before first phase I evaluation (\u22642 vs >2). Unadjusted analyses and multivariable logistic regression were used to identify predictors of later evaluation and assess its association with seizure freedom, adjusting for etiology, seizure type, MRI findings, and surgical procedure. Among 1,767 patients, 802 (45.4%) initiated surgical evaluation after failing \u22642 ASMs and 965 (54.6%) after failing >2 ASMs, with a median age at seizure onset of 5.96 and 4.00 years, respectively. Factors independently associated with later initiation of surgical evaluation included genetic etiology (odds ratio [OR] 1.83, 95% CI 1.28-2.60), generalized seizures (OR 2.64, 95% CI 1.58-4.40), daily seizures (OR 1.69, 95% CI 1.33-2.14), multiple seizure types (OR 1.59, 95% CI 1.39-1.82), normal MRI (OR 1.82, 95% CI 1.52-2.18), and abnormal neurologic examination (OR 2.44, 95% CI 2.01-2.96). Surgical intervention rates were similar (\u223c50%) between groups. Patients who initiated surgical evaluation after failure of \u22642 ASMs had significantly higher seizure freedom rates (60.8% vs 39.3%, Initiation of surgical evaluation after failure of more than 2 ASMs is associated with more complex epilepsy phenotypes and lower rates of seizure freedom. However, 80% of these patients still experienced a >50% reduction in seizures, highlighting the therapeutic benefits of timely epilepsy surgery-even when seizure freedom is unlikely-regardless of epilepsy subtype.",
+      "pub_date": "2025-11-11",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Drug Resistant Epilepsy",
+        "Child",
+        "Male",
+        "Female",
+        "Retrospective Studies",
+        "Anticonvulsants",
+        "Child, Preschool",
+        "Adolescent",
+        "Treatment Outcome",
+        "Infant",
+        "Neurosurgical Procedures"
+      ],
+      "chemicals": [
+        "Anticonvulsants"
+      ],
+      "journal": "Neurology",
+      "authors": [
+        "Debopam Samanta",
+        "Grace Newell",
+        "Avery Robert Caraway",
+        "Emily Brock",
+        "Gregory W Albert",
+        "Edward John Novotny"
+      ]
+    },
+    {
+      "pmid": "40871704",
+      "title": "Drugs and Nutrients in Epilepsy: Vitamin B6 and the Ketogenic Diet.",
+      "abstract": "Certain foods and specific drugs have been linked to epilepsy in the literature. Here, we query PubMed citations for the co-occurrence of epilepsy with foods and drugs, using a list of 217,776 molecules from the HMDB. Notably, the top associations with epilepsy include approved drugs and drug families, diagnostic markers, inducers, and vitamins. Drugs include fosphenytoin (40%), topiramate (37%), valproic acid (34%), hydantoin (20%), phenytoin (31%), carbamazepine (33%), carbamazepine-10,11-epoxide (40%), trimethadione (31%), gabapentin (14%), pregabalin (11%), flunarizine (7%), fenfluramine (4%), bumetanide (4%), KBr (18%), cannabidiol (14%), clonazepam (22%), nitrazepam (10%), diazepam (7%), lorazepam (6%), midazolam (3%), amobarbital (21%), phenobarbital (16%), flumazenil (7%) allopregnanolone (7%), pregnanolone (6%), epipregnanolone (6%), 3-hydroxypregnan-20-one (6%), and vitamin B6 (6%). Drug families and scaffolds include imidazolidine (18%), succinimide (10%), acetamide (7%), 2-pyrrolidinone (7%), pyrrolidine (6%), tetrahydropyridine (6%), and isoxazole (4%). Investigational compounds include cyano-7-nitroquinoxaline-2,3-dione (5%). Diagnostic markers include exametazime (10%) and quinolinic acid (3%). Inducers include flurothyl (37%), pentetrazol (32%), pilocarpine (25%), (+)-Bicuculline (8%), and 1-methyl-4-phenyl-1,2,5,6-tetrahydropyridine (MPTP, 6%). Our analysis highlights frequently cited associations between epilepsy and specific drugs and highlights the importance of supplementing nutrients with vitamin B6 and the ketogenic diet, which increases the gamma-aminobutyric acid (GABA)/glutamate ratio. As such, our study offers dietary approaches in the treatment of this neurodegenerative disease.",
+      "pub_date": "2025-08-19",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "mesh_descriptors": [
+        "Humans",
+        "Diet, Ketogenic",
+        "Epilepsy",
+        "Anticonvulsants",
+        "Vitamin B 6",
+        "Nutrients"
+      ],
+      "chemicals": [
+        "Anticonvulsants",
+        "Vitamin B 6",
+        "Nutrients"
+      ],
+      "journal": "Nutrients",
+      "authors": [
+        "Shani Bahalul-Yarchi",
+        "Feigy Hartman",
+        "Karin Ben Zaken",
+        "Ibrahim O Sawaid",
+        "Lior Segev",
+        "Samuel Mesfin"
+      ]
+    }
+  ]
+}

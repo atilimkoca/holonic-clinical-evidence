@@ -1,0 +1,1533 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Supplementary Material – Holonic Knowledge Representation for Clinical Evidence</title>
+<meta name="description" content="Supplementary Material (Sections S1–S11) of the article Holonic Knowledge Representation for Clinical Evidence: Boundary-Aware Validation and Hallucination Control in LLM-Augmented Knowledge Graphs.">
+<style>
+:root {
+  --bg: #ffffff; --fg: #1d1f23; --muted: #5b616b; --line: #d9dce1;
+  --accent: #1f4f8a; --code-bg: #f6f7f9; --rule: #8a9099;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #15171a; --fg: #e4e6ea; --muted: #a0a6b0; --line: #33373d;
+    --accent: #8db8ee; --code-bg: #1d2024; --rule: #6b717a;
+  }
+}
+* { box-sizing: border-box; }
+html { scroll-padding-top: 1rem; }
+body { margin: 0; background: var(--bg); color: var(--fg);
+  font: 16px/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+a { color: var(--accent); }
+code, pre { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace; font-size: 0.86em; }
+.layout { display: grid; grid-template-columns: minmax(0, 1fr); max-width: 76rem; margin: 0 auto; padding: 0 16px; }
+header { padding: 2.5rem 0 1.5rem; border-bottom: 1px solid var(--line); }
+header .kicker { margin: 0; color: var(--muted); font-size: .9rem; letter-spacing: .04em; text-transform: uppercase; }
+header h1 { margin: .4rem 0 .6rem; font-size: 1.6rem; line-height: 1.3; }
+header .authors { margin: 0; }
+header .affil { margin: .2rem 0 1rem; color: var(--muted); font-size: .92rem; }
+header .links { display: flex; flex-wrap: wrap; gap: .5rem 1.25rem; margin: 0; padding: 0; list-style: none; font-size: .95rem; }
+nav { font-size: .92rem; padding: 1.25rem 0; border-bottom: 1px solid var(--line); }
+nav h2 { font-size: 1rem; margin: 0 0 .5rem; }
+nav ol { list-style: none; margin: 0; padding: 0; }
+nav ol ol { padding-left: 2.6rem; }
+nav li { margin: .15rem 0; }
+nav a { display: grid; grid-template-columns: 2.6rem 1fr; text-decoration: none; color: var(--fg); }
+nav ol ol a { grid-template-columns: 3.2rem 1fr; }
+nav a:hover { color: var(--accent); text-decoration: underline; }
+nav span { color: var(--muted); font-variant-numeric: tabular-nums; }
+main { min-width: 0; padding-bottom: 3rem; }
+main > p:first-child { margin-top: 1.5rem; }
+section { border-top: 1px solid var(--line); margin-top: 2rem; }
+h2 { font-size: 1.35rem; margin: 1.5rem 0 .75rem; }
+h3 { font-size: 1.08rem; margin: 1.75rem 0 .6rem; }
+a.anchor { color: var(--muted); text-decoration: none; margin-right: .35rem; font-variant-numeric: tabular-nums; }
+a.anchor:hover { color: var(--accent); }
+.math i { font-family: "Times New Roman", Times, serif; font-size: 1.08em; }
+p, figcaption { overflow-wrap: anywhere; }
+figure { margin: 1.25rem 0; }
+figcaption { font-size: .92rem; color: var(--muted); margin: .5rem 0; }
+figcaption strong { color: var(--fg); }
+.scroll { overflow-x: auto; }
+table { border-collapse: collapse; font-size: .92rem; border-top: 1.5px solid var(--rule); border-bottom: 1.5px solid var(--rule); }
+th, td { padding: .35rem .75rem; vertical-align: top; }
+thead th { border-bottom: 1px solid var(--rule); }
+tr.rule td { border-top: 1px solid var(--line); }
+td code, th code { font-size: .82rem; word-break: break-all; }
+.listing pre { margin: 0; padding: .9rem 1rem; background: var(--code-bg); border: 1px solid var(--line);
+  border-radius: 4px; overflow: auto; max-height: 36rem; line-height: 1.45; }
+footer { border-top: 1px solid var(--line); padding: 1.25rem 0 2.5rem; color: var(--muted); font-size: .88rem; }
+@media (min-width: 1100px) {
+  .layout { grid-template-columns: 18rem minmax(0, 1fr); column-gap: 2.5rem; }
+  header, footer { grid-column: 1 / -1; }
+  nav { position: sticky; top: 0; align-self: start; max-height: 100vh; overflow-y: auto; border-bottom: 0; }
+}
+</style>
+</head>
+<body>
+<div class="layout">
+<header>
+<p class="kicker">Supplementary Material</p>
+<h1>Holonic Knowledge Representation for Clinical Evidence: Boundary-Aware Validation and Hallucination Control in LLM-Augmented Knowledge Graphs</h1>
+<p class="authors">Deniz Kılınç, Orhan Er, Okan Bursa, Murat Uçar, Ömer Atılım Koca, Emre Turan, Kaan Kıvırcık</p>
+<p class="affil">Department of Computer Engineering, Izmir Bakircay University, Izmir, Turkey</p>
+<ul class="links">
+<li><a href="supplementary_material.pdf">PDF version</a></li>
+<li><a href="https://github.com/atilimkoca/holonic-clinical-evidence">Code and data repository</a></li>
+<li><a href="https://atilimkoca.github.io/syz-ontology/">Ontology modules</a></li>
+</ul>
+</header>
+<nav aria-label="Contents"><h2>Contents</h2><ol><li><a href="#S1"><span>S1</span> Complete Holon Examples</a><ol><li><a href="#S1.1"><span>S1.1</span> Hypertension Treatment Holon</a></li><li><a href="#S1.2"><span>S1.2</span> Asthma Efficacy Holon</a></li><li><a href="#S1.3"><span>S1.3</span> Type 2 Diabetes Mellitus Treatment Holon</a></li></ol></li><li><a href="#S2"><span>S2</span> SHACL Shapes</a></li><li><a href="#S3"><span>S3</span> SHACL Validation Reports</a><ol><li><a href="#S3.1"><span>S3.1</span> T1 Structural Defect Report</a></li><li><a href="#S3.2"><span>S3.2</span> T4 Boundary Admissibility Report</a></li><li><a href="#S3.3"><span>S3.3</span> T6 Projection–Interior Report</a></li></ol></li><li><a href="#S4"><span>S4</span> LLM Prompt Templates and Generated Outputs</a><ol><li><a href="#S4.1"><span>S4.1</span> Clinical Question Prompt Template</a></li><li><a href="#S4.2"><span>S4.2</span> Evidence Reifier Prompt Template</a></li><li><a href="#S4.3"><span>S4.3</span> Generated Output: System A</a></li><li><a href="#S4.4"><span>S4.4</span> Generated Output: System B</a></li></ol></li><li><a href="#S5"><span>S5</span> Complete SPARQL Benchmark</a></li><li><a href="#S6"><span>S6</span> Inconsistency Corpus Statistics</a></li><li><a href="#S7"><span>S7</span> Statistical Test Details</a><ol><li><a href="#S7.1"><span>S7.1</span> SHACL Validation Comparison</a></li><li><a href="#S7.2"><span>S7.2</span> GraphRAG Conformance</a></li><li><a href="#S7.3"><span>S7.3</span> Hallucination Rate</a></li><li><a href="#S7.4"><span>S7.4</span> Grounding-Label Stability</a></li></ol></li><li><a href="#S8"><span>S8</span> Neo4J Cypher Query Examples</a><ol><li><a href="#S8.1"><span>S8.1</span> Cypher Benchmark Queries</a></li></ol></li><li><a href="#S9"><span>S9</span> Performance Comparison Tables</a></li><li><a href="#S10"><span>S10</span> Integration Test Results</a></li><li><a href="#S11"><span>S11</span> Full Formal Proof Material</a><ol><li><a href="#S11.1"><span>S11.1</span> Constraint Recoverability and Access Scope</a></li><li><a href="#S11.2"><span>S11.2</span> Context-Budget NP-Hardness</a></li><li><a href="#S11.3"><span>S11.3</span> SHACL-to-Prompt Transform Correctness</a></li><li><a href="#S11.4"><span>S11.4</span> Hallucination Taxonomy and Conditional Grounding</a></li></ol></li></ol></nav>
+<main>
+<p>This document is the Supplementary Material of the article named in the title. The article cites Sections S1–S11 by these numbers. A web version with the same numbering is available at <a href="https://atilimkoca.github.io/holonic-clinical-evidence/">https://atilimkoca.github.io/holonic-clinical-evidence/</a>. Every file reproduced below is distributed in the <code>paper_artifacts</code> folder of the code and data repository at <a href="https://github.com/atilimkoca/holonic-clinical-evidence">https://github.com/atilimkoca/holonic-clinical-evidence</a>.</p>
+<section id="S1"><h2><a class="anchor" href="#S1">S1</a> Complete Holon Examples</h2>
+<p>This section provides three full clinical-question holon examples exported by the representation pipeline. Each example contains the interior evidence assertion, the boundary/projection/context graph pointers, provenance, confidence metadata, source citations, and the published clinical-question projection.</p>
+<figure class="table" id="table-S1">
+<figcaption><strong>Table S1.</strong> Layer mapping for the three example holons.</figcaption>
+<div class="scroll"><table>
+<thead><tr><th style="text-align:left"><strong>Holon</strong></th><th style="text-align:left"><strong>Layer</strong></th><th style="text-align:left"><strong>Materialised identifier</strong></th></tr></thead><tbody>
+<tr class="rule"><td style="text-align:left"><code>q_hypertension_treatment</code></td><td style="text-align:left">Interior</td><td style="text-align:left"><code>q_hypertension_treatment-int</code></td></tr>
+<tr><td style="text-align:left"></td><td style="text-align:left">Boundary</td><td style="text-align:left"><code>q_hypertension_treatment-bnd</code></td></tr>
+<tr><td style="text-align:left"></td><td style="text-align:left">Projection</td><td style="text-align:left"><code>q_hypertension_treatment-prj</code></td></tr>
+<tr><td style="text-align:left"></td><td style="text-align:left">Context</td><td style="text-align:left"><code>q_hypertension_treatment-ctx</code></td></tr>
+<tr class="rule"><td style="text-align:left"><code>q_asthma_efficacy</code></td><td style="text-align:left">Interior</td><td style="text-align:left"><code>q_asthma_efficacy-int</code></td></tr>
+<tr><td style="text-align:left"></td><td style="text-align:left">Boundary</td><td style="text-align:left"><code>q_asthma_efficacy-bnd</code></td></tr>
+<tr><td style="text-align:left"></td><td style="text-align:left">Projection</td><td style="text-align:left"><code>q_asthma_efficacy-prj</code></td></tr>
+<tr><td style="text-align:left"></td><td style="text-align:left">Context</td><td style="text-align:left"><code>q_asthma_efficacy-ctx</code></td></tr>
+<tr class="rule"><td style="text-align:left"><code>q_type_2_diabetes_mellitus_treatment</code></td><td style="text-align:left">Interior</td><td style="text-align:left"><code>q_type_2_diabetes_mellitus_treatment-int</code></td></tr>
+<tr><td style="text-align:left"></td><td style="text-align:left">Boundary</td><td style="text-align:left"><code>q_type_2_diabetes_mellitus_treatment-bnd</code></td></tr>
+<tr><td style="text-align:left"></td><td style="text-align:left">Projection</td><td style="text-align:left"><code>q_type_2_diabetes_mellitus_treatment-prj</code></td></tr>
+<tr><td style="text-align:left"></td><td style="text-align:left">Context</td><td style="text-align:left"><code>q_type_2_diabetes_mellitus_treatment-ctx</code></td></tr>
+</tbody></table></div></figure>
+<h3 id="S1.1"><a class="anchor" href="#S1.1">S1.1</a> Hypertension Treatment Holon</h3>
+<figure class="listing" id="listing-S1"><pre><code>@prefix holon: &lt;https://atilimkoca.github.io/syz-ontology/holon#&gt; .
+@prefix oe: &lt;https://atilimkoca.github.io/syz-ontology/openevidence#&gt; .
+@prefix oed: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/&gt; .
+@prefix oedrug: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/&gt; .
+@prefix oeevt: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/events/&gt; .
+@prefix oeq: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/&gt; .
+@prefix oesrc: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/sources/&gt; .
+@prefix prov: &lt;http://www.w3.org/ns/prov#&gt; .
+@prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt; .
+@prefix rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt; .
+@prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt; .
+
+oeevt:entry_q_hypertension_treatment a holon:EntityEntry ;
+    holon:entity oed:hypertension ;
+    holon:entryMode &quot;topic-match&quot; .
+
+oeevt:ev_q_hypertension_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_hypertension_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.56 ;
+    holon:evidenceLevel &quot;Level-3&quot; ;
+    holon:inHolon oeq:q_hypertension_treatment ;
+    holon:recordedOn &quot;2026-03-07&quot;^^xsd:date ;
+    oe:cites oesrc:41712830 ;
+    oe:effectiveness &quot;effective&quot; .
+
+oedrug:lisinopril oe:treats oed:hypertension .
+
+oeevt:ev_q_hypertension_treatment-tt rdf:object oed:hypertension ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:lisinopril .
+
+oeq:q_hypertension_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label &quot;What is the recommended first-line pharmacological treatment for Hypertension?&quot;@en ;
+    prov:generatedAtTime &quot;2026-03-07T10:00:00+00:00&quot;^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom &lt;https://pubmed.ncbi.nlm.nih.gov/&gt; ;
+    holon:aggregateConfidence 0.48 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_hypertension_treatment-bnd ;
+    holon:hasContextGraph oeq:q_hypertension_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_hypertension_treatment-int ;
+    holon:hasProjectionGraph oeq:q_hypertension_treatment-prj ;
+    holon:narrativeFunction &quot;Summarises evidence on managing Hypertension with lisinopril.&quot;^^xsd:string ;
+    holon:prerequisiteFor oeq:q_hypertension_efficacy ;
+    holon:recordedOn &quot;2026-03-07&quot;^^xsd:date ;
+    holon:summaryConfidence 0.56 ;
+    oe:aboutDisease oed:hypertension ;
+    oe:answerText &quot;Therapeutic inertia is a major cause of uncontrolled hypertension. The aim of our work study is to describe the knowledge, attitudes, and practices of primary care physicians in the management of hypertension and to describe the factors of therapeutic inertia.&quot;^^xsd:string ;
+    oe:belongsToSpecialty &quot;Cardiology&quot; ;
+    oe:cites oesrc:41370563,
+        oesrc:41687677,
+        oesrc:41712811,
+        oesrc:41712830 ;
+    oe:questionText &quot;What is the recommended first-line pharmacological treatment for Hypertension?&quot;^^xsd:string .</code></pre><figcaption><strong>Listing S1.</strong> Complete RDF export for q_hypertension_treatment. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/holons/q_hypertension_treatment.ttl"><code>paper_artifacts/holons/q_hypertension_treatment.ttl</code></a>.</figcaption></figure>
+<h3 id="S1.2"><a class="anchor" href="#S1.2">S1.2</a> Asthma Efficacy Holon</h3>
+<figure class="listing" id="listing-S2"><pre><code>@prefix holon: &lt;https://atilimkoca.github.io/syz-ontology/holon#&gt; .
+@prefix oe: &lt;https://atilimkoca.github.io/syz-ontology/openevidence#&gt; .
+@prefix oed: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/&gt; .
+@prefix oedrug: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/&gt; .
+@prefix oeevt: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/events/&gt; .
+@prefix oeq: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/&gt; .
+@prefix oesrc: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/sources/&gt; .
+@prefix prov: &lt;http://www.w3.org/ns/prov#&gt; .
+@prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt; .
+@prefix rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt; .
+@prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt; .
+
+oeevt:entry_q_asthma_efficacy a holon:EntityEntry ;
+    holon:entity oed:asthma ;
+    holon:entryMode &quot;topic-match&quot; .
+
+oeevt:ev_q_asthma_efficacy a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_asthma_efficacy-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.93 ;
+    holon:evidenceLevel &quot;Level-1A&quot; ;
+    holon:inHolon oeq:q_asthma_efficacy ;
+    holon:recordedOn &quot;2026-06-01&quot;^^xsd:date ;
+    oe:cites oesrc:41005695 ;
+    oe:effectiveness &quot;effective&quot; .
+
+oedrug:salbutamol oe:treats oed:asthma .
+
+oeevt:ev_q_asthma_efficacy-tt rdf:object oed:asthma ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:salbutamol .
+
+oeq:q_asthma_efficacy a holon:ClinicalQuestionHolon ;
+    rdfs:label &quot;How effective is salbutamol compared with other agents for Asthma?&quot;@en ;
+    prov:generatedAtTime &quot;2026-06-01T10:00:00+00:00&quot;^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom &lt;https://pubmed.ncbi.nlm.nih.gov/&gt; ;
+    holon:aggregateConfidence 0.66 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_asthma_efficacy-bnd ;
+    holon:hasContextGraph oeq:q_asthma_efficacy-ctx ;
+    holon:hasInteriorGraph oeq:q_asthma_efficacy-int ;
+    holon:hasProjectionGraph oeq:q_asthma_efficacy-prj ;
+    holon:narrativeFunction &quot;Summarises evidence on managing Asthma with salbutamol.&quot;^^xsd:string ;
+    holon:prerequisiteFor oeq:q_asthma_safety ;
+    holon:recordedOn &quot;2026-06-01&quot;^^xsd:date ;
+    holon:summaryConfidence 0.93 ;
+    oe:aboutDisease oed:asthma ;
+    oe:answerText &quot;Severe asthma affects 5% to 10% of patients with asthma but constitutes close to one-half of the medical costs related to asthma due to higher morbidity and health care utilization. Biologic agents have become a standard of care in those unresponsive to standard treatments yet the choice of biologic agent is complex due to the varying mechanisms of action, efficacies, and lack of head-to-head comparisons.&quot;^^xsd:string ;
+    oe:belongsToSpecialty &quot;Pulmonology&quot; ;
+    oe:cites oesrc:41005695,
+        oesrc:41033330,
+        oesrc:41354402,
+        oesrc:41882474 ;
+    oe:questionText &quot;How effective is salbutamol compared with other agents for Asthma?&quot;^^xsd:string .</code></pre><figcaption><strong>Listing S2.</strong> Complete RDF export for q_asthma_efficacy. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/holons/q_asthma_efficacy.ttl"><code>paper_artifacts/holons/q_asthma_efficacy.ttl</code></a>.</figcaption></figure>
+<h3 id="S1.3"><a class="anchor" href="#S1.3">S1.3</a> Type 2 Diabetes Mellitus Treatment Holon</h3>
+<figure class="listing" id="listing-S3"><pre><code>@prefix holon: &lt;https://atilimkoca.github.io/syz-ontology/holon#&gt; .
+@prefix oe: &lt;https://atilimkoca.github.io/syz-ontology/openevidence#&gt; .
+@prefix oed: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/&gt; .
+@prefix oedrug: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/&gt; .
+@prefix oeevt: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/events/&gt; .
+@prefix oeq: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/&gt; .
+@prefix oesrc: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/sources/&gt; .
+@prefix prov: &lt;http://www.w3.org/ns/prov#&gt; .
+@prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt; .
+@prefix rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt; .
+@prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt; .
+
+oeevt:entry_q_type_2_diabetes_mellitus_treatment a holon:EntityEntry ;
+    holon:entity oed:type_2_diabetes_mellitus ;
+    holon:entryMode &quot;topic-match&quot; .
+
+oeevt:ev_q_type_2_diabetes_mellitus_treatment a holon:EvidenceAssertion ;
+    rdf:reifies oeevt:ev_q_type_2_diabetes_mellitus_treatment-tt ;
+    holon:assessedBy oeq:openevidence_ai ;
+    holon:confidence 0.55 ;
+    holon:evidenceLevel &quot;Level-3&quot; ;
+    holon:inHolon oeq:q_type_2_diabetes_mellitus_treatment ;
+    holon:recordedOn &quot;2026-04-02&quot;^^xsd:date ;
+    oe:cites oesrc:41781010 ;
+    oe:effectiveness &quot;effective&quot; .
+
+oedrug:metformin oe:treats oed:type_2_diabetes_mellitus .
+
+oeevt:ev_q_type_2_diabetes_mellitus_treatment-tt rdf:object oed:type_2_diabetes_mellitus ;
+    rdf:predicate oe:treats ;
+    rdf:subject oedrug:metformin .
+
+oeq:q_type_2_diabetes_mellitus_treatment a holon:ClinicalQuestionHolon ;
+    rdfs:label &quot;What is the recommended first-line pharmacological treatment for Type 2 Diabetes Mellitus?&quot;@en ;
+    prov:generatedAtTime &quot;2026-04-02T10:00:00+00:00&quot;^^xsd:dateTime ;
+    prov:wasAttributedTo oeq:openevidence_ai ;
+    prov:wasDerivedFrom &lt;https://pubmed.ncbi.nlm.nih.gov/&gt; ;
+    holon:aggregateConfidence 0.33 ;
+    holon:evidenceQualityThreshold 0.5 ;
+    holon:hasBoundaryGraph oeq:q_type_2_diabetes_mellitus_treatment-bnd ;
+    holon:hasContextGraph oeq:q_type_2_diabetes_mellitus_treatment-ctx ;
+    holon:hasInteriorGraph oeq:q_type_2_diabetes_mellitus_treatment-int ;
+    holon:hasProjectionGraph oeq:q_type_2_diabetes_mellitus_treatment-prj ;
+    holon:narrativeFunction &quot;Summarises evidence on managing Type 2 Diabetes Mellitus with metformin.&quot;^^xsd:string ;
+    holon:prerequisiteFor oeq:q_type_2_diabetes_mellitus_efficacy ;
+    holon:recordedOn &quot;2026-04-02&quot;^^xsd:date ;
+    holon:summaryConfidence 0.55 ;
+    oe:aboutDisease oed:type_2_diabetes_mellitus ;
+    oe:answerText &quot;To investigate whether initiation of glucagon-like peptide-1 (GLP-1) receptor agonists is associated with both reduced risks of incident alcohol, cannabis, cocaine, nicotine, opioid, and other substance use disorders (SUDs) in people with no history of SUDs (protocol 1) and with reduced risk of SUD related adverse clinical outcomes among people with a pre-existing SUD (protocol 2). Emulation of eight parallel, new user, active comparator target trials using electronic health records: seven trials for each incident SUD outcome (protocol 1) and one trial for adverse outcomes in people with pre-existing SUD (protocol 2).&quot;^^xsd:string ;
+    oe:belongsToSpecialty &quot;Endocrinology&quot; ;
+    oe:cites oesrc:41713504,
+        oesrc:41781010,
+        oesrc:41785010,
+        oesrc:41931049 ;
+    oe:questionText &quot;What is the recommended first-line pharmacological treatment for Type 2 Diabetes Mellitus?&quot;^^xsd:string .</code></pre><figcaption><strong>Listing S3.</strong> Complete RDF export for q_type_2_diabetes_mellitus_treatment. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/holons/q_type_2_diabetes_mellitus_treatment.ttl"><code>paper_artifacts/holons/q_type_2_diabetes_mellitus_treatment.ttl</code></a>.</figcaption></figure>
+</section>
+<section id="S2"><h2><a class="anchor" href="#S2">S2</a> SHACL Shapes</h2>
+<p>This section lists five complete SHACL shapes generated from the medical vocabulary layer. These shapes are representative of the automatically generated structural constraints used in the semantic validation layer.</p>
+<figure class="listing" id="listing-S4"><pre><code>@prefix gen: &lt;https://atilimkoca.github.io/syz-ontology/medical/shapes#&gt; .
+@prefix sh: &lt;http://www.w3.org/ns/shacl#&gt; .
+
+gen:AllowedDescriptorQualifierPairShape a sh:NodeShape ;
+    sh:not [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#DisallowedDescriptorQualifierPair&gt; ] ;
+    sh:targetClass &lt;http://id.nlm.nih.gov/mesh/vocab#AllowedDescriptorQualifierPair&gt; .
+
+gen:CheckTagShape a sh:NodeShape ;
+    sh:not [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#TopicalDescriptor&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#PublicationType&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#GeographicalDescriptor&gt; ] ;
+    sh:targetClass &lt;http://id.nlm.nih.gov/mesh/vocab#CheckTag&gt; .
+
+gen:ConceptShape a sh:NodeShape ;
+    sh:not [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#Term&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#Descriptor&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#SupplementaryConceptRecord&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#DescriptorQualifierPair&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#TreeNumber&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#Qualifier&gt; ] ;
+    sh:property [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#Concept&gt; ;
+            sh:path &lt;http://id.nlm.nih.gov/mesh/vocab#relatedConcept&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#Concept&gt; ;
+            sh:path &lt;http://id.nlm.nih.gov/mesh/vocab#narrowerConcept&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#Concept&gt; ;
+            sh:path &lt;http://id.nlm.nih.gov/mesh/vocab#broaderConcept&gt; ] ;
+    sh:targetClass &lt;http://id.nlm.nih.gov/mesh/vocab#Concept&gt; .
+
+gen:DescriptorQualifierPairShape a sh:NodeShape ;
+    sh:not [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#Term&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#TreeNumber&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#Qualifier&gt; ],
+        [ sh:class &lt;http://id.nlm.nih.gov/mesh/vocab#SupplementaryConceptRecord&gt; ] ;
+    sh:targetClass &lt;http://id.nlm.nih.gov/mesh/vocab#DescriptorQualifierPair&gt; .</code></pre><figcaption><strong>Listing S4.</strong> Five complete generated SHACL shapes. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/five_shacl_shapes.ttl"><code>paper_artifacts/five_shacl_shapes.ttl</code></a>.</figcaption></figure>
+</section>
+<section id="S3"><h2><a class="anchor" href="#S3">S3</a> SHACL Validation Reports</h2>
+<p>This section gives three complete SHACL validation reports: one structural defect, one semantic boundary violation, and one projection/interior incoherence case.</p>
+<h3 id="S3.1"><a class="anchor" href="#S3.1">S3.1</a> T1 Structural Defect Report</h3>
+<figure class="listing" id="listing-S5"><pre><code>Validation Report
+Conforms: False
+Results (2):
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: [ sh:datatype xsd:decimal ; sh:maxCount Literal(&quot;1&quot;, datatype=xsd:integer) ; sh:maxInclusive Literal(&quot;1.0&quot;, datatype=xsd:decimal) ; sh:message Literal(&quot;Evidence reification needs exactly one confidence in [0.0,1.0] (T1).&quot;) ; sh:minCount Literal(&quot;1&quot;, datatype=xsd:integer) ; sh:minInclusive Literal(&quot;0.0&quot;, datatype=xsd:decimal) ; sh:path holon:confidence ; sh:resultAnnotation [ sh:annotationProperty oe:injectedDefect ; sh:annotationValue Literal(&quot;structural-confidence&quot;) ] ; sh:severity sh:Violation ]
+	Focus Node: oeevt:ev2000_0
+	Result Path: holon:confidence
+	Message: Evidence reification needs exactly one confidence in [0.0,1.0] (T1).
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: [ sh:datatype xsd:decimal ; sh:maxCount Literal(&quot;1&quot;, datatype=xsd:integer) ; sh:maxInclusive Literal(&quot;1.0&quot;, datatype=xsd:decimal) ; sh:message Literal(&quot;EvidenceAssertion must carry exactly one confidence in [0,1].&quot;) ; sh:minCount Literal(&quot;1&quot;, datatype=xsd:integer) ; sh:minInclusive Literal(&quot;0.0&quot;, datatype=xsd:decimal) ; sh:path holon:confidence ; sh:severity sh:Violation ]
+	Focus Node: oeevt:ev2000_0
+	Result Path: holon:confidence
+	Message: EvidenceAssertion must carry exactly one confidence in [0,1].</code></pre><figcaption><strong>Listing S5.</strong> SHACL report for T1 structural inconsistency. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/shacl_reports/report_T1_T1_2000_setA.ttl"><code>paper_artifacts/shacl_reports/report_T1_T1_2000_setA.ttl</code></a>.</figcaption></figure>
+<h3 id="S3.2"><a class="anchor" href="#S3.2">S3.2</a> T4 Boundary Admissibility Report</h3>
+<figure class="listing" id="listing-S6"><pre><code>Validation Report
+Conforms: False
+Results (2):
+Constraint Violation in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: oe:T4_BoundaryAdmissionShape
+	Focus Node: oeevt:ev2028_0
+	Value Node: Literal(&quot;0.30&quot;, datatype=xsd:decimal)
+	Result Path: holon:confidence
+	Source Constraint: [ sh:message Literal(&quot;T4 semantic: &#x27;effective&#x27; claim admitted below the holon&#x27;s evidence-quality threshold.&quot;) ; sh:prefixes oe:_prefixes ; sh:select Literal(&quot;
+            SELECT $this (holon:confidence AS ?path) (?conf AS ?value)
+            WHERE {
+                $this holon:confidence ?conf .
+                $this oe:effectiveness &quot;effective&quot; .
+                $this holon:inHolon ?h .
+                ?h holon:evidenceQualityThreshold ?thr .
+                FILTER (?conf &lt; ?thr)
+            }
+        &quot;) ; sh:severity sh:Violation ]
+	Message: T4 semantic: &#x27;effective&#x27; claim admitted below the holon&#x27;s evidence-quality threshold.
+Constraint Violation in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: oe:T4_LevelConfidenceShape
+	Focus Node: oeevt:ev2028_0
+	Value Node: Literal(&quot;0.30&quot;, datatype=xsd:decimal)
+	Result Path: holon:confidence
+	Source Constraint: [ sh:message Literal(&quot;T4 semantic: evidence level and confidence are grossly inconsistent.&quot;) ; sh:prefixes oe:_prefixes ; sh:select Literal(&quot;
+            SELECT $this (holon:confidence AS ?path) (?conf AS ?value)
+            WHERE {
+                $this holon:inHolon ?h .
+                $this holon:evidenceLevel ?lvl .
+                $this holon:confidence ?conf .
+                FILTER (
+                    ( (?lvl = &quot;Level-1A&quot; || ?lvl = &quot;Level-1B&quot;) &amp;&amp; ?conf &lt; 0.4 ) ||
+                    ( (?lvl = &quot;Level-5&quot;  || ?lvl = &quot;Level-4&quot;)  &amp;&amp; ?conf &gt; 0.9 )
+                )
+            }
+        &quot;) ; sh:severity sh:Violation ]
+	Message: T4 semantic: evidence level and confidence are grossly inconsistent.</code></pre><figcaption><strong>Listing S6.</strong> SHACL report for T4 semantic boundary inconsistency. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/shacl_reports/report_T4_T4_2028_setA.ttl"><code>paper_artifacts/shacl_reports/report_T4_T4_2028_setA.ttl</code></a>.</figcaption></figure>
+<h3 id="S3.3"><a class="anchor" href="#S3.3">S3.3</a> T6 Projection–Interior Report</h3>
+<figure class="listing" id="listing-S7"><pre><code>Validation Report
+Conforms: False
+Results (1):
+Constraint Violation in SPARQLConstraintComponent (http://www.w3.org/ns/shacl#SPARQLConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: oe:ProjectionCoherenceShape
+	Focus Node: oeq:chain2042
+	Value Node: Literal(&quot;0.20&quot;, datatype=xsd:decimal)
+	Result Path: holon:aggregateConfidence
+	Source Constraint: [ sh:message Literal(&quot;T6 projection-interior: projected aggregate confidence diverges from interior evidence.&quot;) ; sh:prefixes oe:_prefixes ; sh:select Literal(&quot;
+            SELECT $this (holon:aggregateConfidence AS ?path) (?agg AS ?value)
+            WHERE {
+                $this holon:aggregateConfidence ?agg .
+                {
+                    SELECT $this (AVG(?c) AS ?mean)
+                    WHERE {
+                        ?a holon:inHolon $this .
+                        ?a holon:confidence ?c .
+                    } GROUP BY $this
+                }
+                FILTER (ABS(?agg - ?mean) &gt; 0.25)
+            }
+        &quot;) ; sh:severity sh:Violation ]
+	Message: T6 projection-interior: projected aggregate confidence diverges from interior evidence.</code></pre><figcaption><strong>Listing S7.</strong> SHACL report for T6 projection/interior inconsistency. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/shacl_reports/report_T6_T6_2042_setA.ttl"><code>paper_artifacts/shacl_reports/report_T6_T6_2042_setA.ttl</code></a>.</figcaption></figure>
+</section>
+<section id="S4"><h2><a class="anchor" href="#S4">S4</a> LLM Prompt Templates and Generated Outputs</h2>
+<p>This section provides two prompt templates generated from SHACL shapes and two corresponding RDF outputs. System A is holon-bounded and SHACL-guided; System B is naive and contains globally attested but locally ungrounded facts.</p>
+<p>Here, “globally attested” means present elsewhere in the benchmark corpus; it is not independent clinical verification. The generated examples exercise grounding and context leakage and must not be interpreted as curated treatment recommendations.</p>
+<h3 id="S4.1"><a class="anchor" href="#S4.1">S4.1</a> Clinical Question Prompt Template</h3>
+<figure class="listing" id="listing-S8"><pre><code>You are a careful biomedical knowledge engineer. Produce RDF 1.2 (Turtle) that is VALID against the SHACL shape below. Output ONLY Turtle (no prose). Use ONLY facts supplied in the GROUNDED EVIDENCE block; never invent drugs, diseases, sources, dates, or numbers.
+
+# SHACL TARGET: oe:ClinicalQuestionShape  (target class holon:ClinicalQuestionHolon)
+
+REQUIRED fields (omission =&gt; the output is REJECTED):
+  - holon:hasBoundaryGraph: (min 1, max 1)
+  - holon:hasContextGraph: (min 1, max 1)
+  - holon:hasInteriorGraph: (min 1, max 1)
+  - holon:hasProjectionGraph: (min 1, max 1)
+  - oe:answerText: datatype xsd:string; (min 1)
+  - oe:questionText: datatype xsd:string; (min 1, max 1)
+
+RECOMMENDED fields (warnings if missing):
+  - oe:belongsToSpecialty: one of {Cardiology, Neurology, Oncology, Pulmonology, Endocrinology, Gastroenterology, Nephrology, Rheumatology, Infectious Disease, Psychiatry, General Medicine}; (min 1)
+
+FILL THIS TEMPLATE (replace every &lt;...&gt;):
+oegen:node_&lt;id&gt; a holon:ClinicalQuestionHolon ;
+    holon:hasBoundaryGraph &lt;value&gt; ;
+    holon:hasContextGraph &lt;value&gt; ;
+    holon:hasInteriorGraph &lt;value&gt; ;
+    holon:hasProjectionGraph &lt;value&gt; ;
+    oe:answerText &quot;&lt;text&gt;&quot;^^xsd:string ;
+    oe:questionText &quot;&lt;text&gt;&quot;^^xsd:string ;
+    oe:belongsToSpecialty &quot;&lt;Cardiology|Neurology|Oncology|Pulmonology|...&gt;&quot; .</code></pre><figcaption><strong>Listing S8.</strong> SHACL-derived prompt template for clinical-question holons. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/prompts/oe_ClinicalQuestionShape.txt"><code>paper_artifacts/prompts/oe_ClinicalQuestionShape.txt</code></a>.</figcaption></figure>
+<h3 id="S4.2"><a class="anchor" href="#S4.2">S4.2</a> Evidence Reifier Prompt Template</h3>
+<figure class="listing" id="listing-S9"><pre><code>You are a careful biomedical knowledge engineer. Produce RDF 1.2 (Turtle) that is VALID against the SHACL shape below. Output ONLY Turtle (no prose). Use ONLY facts supplied in the GROUNDED EVIDENCE block; never invent drugs, diseases, sources, dates, or numbers.
+
+# SHACL TARGET: oe:EvidenceReifierShape  (target class holon:EvidenceAssertion)
+
+REQUIRED fields (omission =&gt; the output is REJECTED):
+  - holon:confidence: datatype xsd:decimal; in range [0.0, 1.0]; (min 1, max 1)
+  - holon:evidenceLevel: one of {Level-1A, Level-1B, Level-2A, Level-2B, Level-3, Level-4, Level-5}; (min 1)
+  - oe:cites: an instance of oe:EvidenceSource; (min 1)
+
+RECOMMENDED fields (warnings if missing):
+  - holon:assessedBy: (min 1)
+  - holon:inHolon: an instance of holon:Holon; (min 1)
+  - holon:recordedOn: datatype xsd:date; (min 1)
+
+FILL THIS TEMPLATE (replace every &lt;...&gt;):
+oegen:ev_&lt;id&gt; a holon:EvidenceAssertion ;
+    holon:confidence &quot;&lt;0.0-1.0&gt;&quot;^^xsd:decimal ;
+    holon:evidenceLevel &quot;&lt;Level-1A|Level-1B|Level-2A|Level-2B|...&gt;&quot; ;
+    oe:cites &lt;evidencesource-uri&gt; ;
+    holon:assessedBy &lt;value&gt; ;
+    holon:inHolon &lt;holon-uri&gt; ;
+    holon:recordedOn &quot;&lt;YYYY-MM-DD&gt;&quot;^^xsd:date .</code></pre><figcaption><strong>Listing S9.</strong> SHACL-derived prompt template for evidence reifiers. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/prompts/oe_EvidenceReifierShape.txt"><code>paper_artifacts/prompts/oe_EvidenceReifierShape.txt</code></a>.</figcaption></figure>
+<h3 id="S4.3"><a class="anchor" href="#S4.3">S4.3</a> Generated Output: System A</h3>
+<figure class="listing" id="listing-S10"><pre><code>@prefix holon: &lt;https://atilimkoca.github.io/syz-ontology/holon#&gt; .
+@prefix oe: &lt;https://atilimkoca.github.io/syz-ontology/openevidence#&gt; .
+@prefix oeq: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/&gt; .
+@prefix oegen: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/generated/&gt; .
+@prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt; .
+@prefix rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt; .
+@prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt; .
+
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy&gt; a holon:ClinicalQuestionHolon ;
+    oe:questionText &quot;How effective is salbutamol compared with other agents for Asthma?&quot;^^xsd:string ;
+    oe:answerText &quot;Severe asthma affects 5% to 10% of patients with asthma but constitutes close to one-half of the medical costs related to asthma due to higher morbidity and health care utilization. Biologic agents have become a standard of care in those unresponsive to standard treatments yet the choice of biologic agent is complex due to the varying mechanisms of action, efficacies, and lack of head-to-head comparisons.&quot;^^xsd:string ;
+    oe:belongsToSpecialty &quot;Pulmonology&quot; ;
+    holon:hasInteriorGraph &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-int&gt; ;
+    holon:hasBoundaryGraph &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-bou&gt; ;
+    holon:hasProjectionGraph &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-pro&gt; ;
+    holon:hasContextGraph &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-con&gt; ;
+    holon:evidenceQualityThreshold &quot;0.50&quot;^^xsd:decimal .
+
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/salbutamol&gt; oe:treats &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/asthma&gt; .
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/generated/ev_q_asthma_efficacy_0&gt; a holon:EvidenceAssertion ;
+    rdf:reifies &lt;https://atilimkoca.github.io/syz-ontology/openevidence/generated/ev_q_asthma_efficacy_0-tt&gt; ;
+    holon:confidence &quot;0.93&quot;^^xsd:decimal ;
+    holon:evidenceLevel &quot;Level-1A&quot; ;
+    holon:assessedBy &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/openevidence_ai&gt; ;
+    holon:recordedOn &quot;2026-12-31&quot;^^xsd:date ;
+    oe:cites &lt;https://atilimkoca.github.io/syz-ontology/openevidence/sources/41005695&gt; ;
+    holon:inHolon &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy&gt; ;
+    oe:effectiveness &quot;effective&quot; .
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/generated/ev_q_asthma_efficacy_0-tt&gt; rdf:subject &lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/salbutamol&gt; ;
+    rdf:predicate oe:treats ;
+    rdf:object &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/asthma&gt; .</code></pre><figcaption><strong>Listing S10.</strong> Generated RDF output for q_asthma_efficacy under System A. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/generated_outputs/q_asthma_efficacy_systemA.ttl"><code>paper_artifacts/generated_outputs/q_asthma_efficacy_systemA.ttl</code></a>.</figcaption></figure>
+<h3 id="S4.4"><a class="anchor" href="#S4.4">S4.4</a> Generated Output: System B</h3>
+<figure class="listing" id="listing-S11"><pre><code>@prefix holon: &lt;https://atilimkoca.github.io/syz-ontology/holon#&gt; .
+@prefix oe: &lt;https://atilimkoca.github.io/syz-ontology/openevidence#&gt; .
+@prefix oeq: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/&gt; .
+@prefix oegen: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/generated/&gt; .
+@prefix rdf: &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt; .
+@prefix rdfs: &lt;http://www.w3.org/2000/01/rdf-schema#&gt; .
+@prefix xsd: &lt;http://www.w3.org/2001/XMLSchema#&gt; .
+
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy&gt; a holon:ClinicalQuestionHolon ;
+    oe:questionText &quot;How effective is salbutamol compared with other agents for Asthma?&quot;^^xsd:string ;
+    oe:answerText &quot;Severe asthma affects 5% to 10% of patients with asthma but constitutes close to one-half of the medical costs related to asthma due to higher morbidity and health care utilization. Biologic agents have become a standard of care in those unresponsive to standard treatments yet the choice of biologic agent is complex due to the varying mechanisms of action, efficacies, and lack of head-to-head comparisons.&quot;^^xsd:string ;
+    holon:hasInteriorGraph &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-int&gt; ;
+    holon:hasBoundaryGraph &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-bou&gt; ;
+    holon:hasProjectionGraph &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-pro&gt; ;
+    holon:hasContextGraph &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy-con&gt; .
+
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/salbutamol&gt; oe:treats &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/asthma&gt; .
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/generated/ev_q_asthma_efficacy_0&gt; a holon:EvidenceAssertion ;
+    rdf:reifies &lt;https://atilimkoca.github.io/syz-ontology/openevidence/generated/ev_q_asthma_efficacy_0-tt&gt; ;
+    holon:confidence &quot;0.93&quot;^^xsd:decimal ;
+    holon:evidenceLevel &quot;Level-1A&quot; ;
+    holon:assessedBy &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/openevidence_ai&gt; ;
+    holon:recordedOn &quot;2026-12-31&quot;^^xsd:date ;
+    oe:cites &lt;https://atilimkoca.github.io/syz-ontology/openevidence/sources/41005695&gt; ;
+    holon:inHolon &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/q_asthma_efficacy&gt; ;
+    oe:effectiveness &quot;effective&quot; .
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/generated/ev_q_asthma_efficacy_0-tt&gt; rdf:subject &lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/salbutamol&gt; ;
+    rdf:predicate oe:treats ;
+    rdf:object &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/asthma&gt; .
+
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/atorvastatin&gt; oe:treats &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/coronary_artery_disease&gt; .   # ungrounded (naive)
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/levothyroxine&gt; oe:treats &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/hypothyroidism&gt; .   # ungrounded (naive)
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/morphine&gt; oe:treats &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/pancreatitis&gt; .   # ungrounded (naive)
+&lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/prednisone&gt; oe:treats &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/addison_disease&gt; .   # ungrounded (naive)</code></pre><figcaption><strong>Listing S11.</strong> Generated RDF output for q_asthma_efficacy under System B, including Type-A ungrounded additions. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/generated_outputs/q_asthma_efficacy_systemB.ttl"><code>paper_artifacts/generated_outputs/q_asthma_efficacy_systemB.ttl</code></a>.</figcaption></figure>
+</section>
+<section id="S5"><h2><a class="anchor" href="#S5">S5</a> Complete SPARQL Benchmark</h2>
+<p>The complete 50-query benchmark is provided below exactly as used by the experimental pipeline. The file contains simple, medium, complex, and hard queries, including the Model-A-only hard queries that require the holon layer partition.</p>
+<figure class="listing" id="listing-S12"><pre><code>&quot;&quot;&quot;The 50-query expressiveness benchmark used for RQ1.
+
+Each query is authored twice: ``a`` runs on Model A (holonic dataset, named
+graphs + materialised RDF 1.2 reification) and ``b`` runs on Model B (flat
+RDF 1.1, standard rdf:Statement reification, single graph). When a query cannot
+be expressed over Model B *as data* (because the flat model does not record the
+holon-layer partition -- there are no named graphs and layer membership is not a
+triple), ``b`` is ``None`` with a recorded justification.
+
+Categories:
+  simple  (15) -- single triple-pattern lookups over base relations
+  medium  (15) -- multi-hop and/or reification access
+  complex (10) -- temporal + provenance + confidence filtering
+  hard    (10) -- holon-layer / named-graph identity queries (Model-A only)
+
+Fields:
+  id, category, desc, kind (&quot;select&quot;|&quot;ask&quot;),
+  a  : SPARQL for Model A,
+  b  : SPARQL for Model B or None,
+  b_unanswerable_reason : str (when b is None),
+  patterns_a, patterns_b : authored triple-pattern counts (for the complexity metric),
+  compare : whether A and B result sets are expected to be identical,
+  cypher  : optional Cypher equivalent for the Neo4j path (informational).
+&quot;&quot;&quot;
+from __future__ import annotations
+
+PREFIXES = &quot;&quot;&quot;
+PREFIX rdf:   &lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#&gt;
+PREFIX rdfs:  &lt;http://www.w3.org/2000/01/rdf-schema#&gt;
+PREFIX xsd:   &lt;http://www.w3.org/2001/XMLSchema#&gt;
+PREFIX prov:  &lt;http://www.w3.org/ns/prov#&gt;
+PREFIX holon: &lt;https://atilimkoca.github.io/syz-ontology/holon#&gt;
+PREFIX oe:    &lt;https://atilimkoca.github.io/syz-ontology/openevidence#&gt;
+PREFIX oeq:   &lt;https://atilimkoca.github.io/syz-ontology/openevidence/questions/&gt;
+PREFIX oed:   &lt;https://atilimkoca.github.io/syz-ontology/openevidence/diseases/&gt;
+PREFIX oedrug:&lt;https://atilimkoca.github.io/syz-ontology/openevidence/drugs/&gt;
+PREFIX oesrc: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/sources/&gt;
+PREFIX oeevt: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/events/&gt;
+PREFIX oespec:&lt;https://atilimkoca.github.io/syz-ontology/openevidence/specialties/&gt;
+PREFIX oesym: &lt;https://atilimkoca.github.io/syz-ontology/openevidence/symptoms/&gt;
+&quot;&quot;&quot;
+
+QUERIES: list[dict] = []
+
+
+def _q(**kw) -&gt; None:
+    kw.setdefault(&quot;kind&quot;, &quot;select&quot;)
+    kw.setdefault(&quot;b&quot;, None)
+    kw.setdefault(&quot;b_unanswerable_reason&quot;, &quot;&quot;)
+    kw.setdefault(&quot;compare&quot;, True)
+    kw.setdefault(&quot;cypher&quot;, &quot;&quot;)
+    kw.setdefault(&quot;patterns_b&quot;, 0)
+    QUERIES.append(kw)
+
+
+# =============================================================================
+# SIMPLE (15) -- single-hop lookups over base relations; identical in both models
+# =============================================================================
+_q(id=&quot;S01&quot;, category=&quot;simple&quot;, desc=&quot;All diseases (typed oe:Disease).&quot;,
+   a=&quot;SELECT ?d WHERE { ?d a oe:Disease }&quot;,
+   b=&quot;SELECT ?d WHERE { ?d a oe:Disease }&quot;, patterns_a=1, patterns_b=1,
+   cypher=&quot;MATCH (d:Disease) RETURN d&quot;)
+_q(id=&quot;S02&quot;, category=&quot;simple&quot;, desc=&quot;All drugs.&quot;,
+   a=&quot;SELECT ?x WHERE { ?x a oe:Drug }&quot;, b=&quot;SELECT ?x WHERE { ?x a oe:Drug }&quot;,
+   patterns_a=1, patterns_b=1)
+_q(id=&quot;S03&quot;, category=&quot;simple&quot;, desc=&quot;ICD code of hypertension.&quot;,
+   a=&quot;SELECT ?c WHERE { oed:hypertension oe:icdCode ?c }&quot;,
+   b=&quot;SELECT ?c WHERE { oed:hypertension oe:icdCode ?c }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S04&quot;, category=&quot;simple&quot;, desc=&quot;ATC code of lisinopril.&quot;,
+   a=&quot;SELECT ?c WHERE { oedrug:lisinopril oe:atcCode ?c }&quot;,
+   b=&quot;SELECT ?c WHERE { oedrug:lisinopril oe:atcCode ?c }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S05&quot;, category=&quot;simple&quot;, desc=&quot;Drugs that treat hypertension (base triple).&quot;,
+   a=&quot;SELECT ?x WHERE { ?x oe:treats oed:hypertension }&quot;,
+   b=&quot;SELECT ?x WHERE { ?x oe:treats oed:hypertension }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S06&quot;, category=&quot;simple&quot;, desc=&quot;Symptoms of hypertension.&quot;,
+   a=&quot;SELECT ?s WHERE { oed:hypertension oe:hasSymptom ?s }&quot;,
+   b=&quot;SELECT ?s WHERE { oed:hypertension oe:hasSymptom ?s }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S07&quot;, category=&quot;simple&quot;, desc=&quot;All evidence sources.&quot;,
+   a=&quot;SELECT ?s WHERE { ?s a oe:EvidenceSource }&quot;,
+   b=&quot;SELECT ?s WHERE { ?s a oe:EvidenceSource }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S08&quot;, category=&quot;simple&quot;, desc=&quot;All clinical-question holons.&quot;,
+   a=&quot;SELECT ?h WHERE { ?h a holon:ClinicalQuestionHolon }&quot;,
+   b=&quot;SELECT ?h WHERE { ?h a holon:ClinicalQuestionHolon }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S09&quot;, category=&quot;simple&quot;, desc=&quot;Drug classes present.&quot;,
+   a=&quot;SELECT DISTINCT ?c WHERE { ?x oe:drugClass ?c }&quot;,
+   b=&quot;SELECT DISTINCT ?c WHERE { ?x oe:drugClass ?c }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S10&quot;, category=&quot;simple&quot;, desc=&quot;Diseases in the Cardiology specialty.&quot;,
+   a=&quot;SELECT ?d WHERE { ?d oe:inSpecialty oespec:Cardiology }&quot;,
+   b=&quot;SELECT ?d WHERE { ?d oe:inSpecialty oespec:Cardiology }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S11&quot;, category=&quot;simple&quot;, desc=&quot;PubMed IDs of all systematic reviews.&quot;,
+   a=&quot;SELECT ?p WHERE { ?s a oe:SystematicReview ; oe:pubmedId ?p }&quot;,
+   b=&quot;SELECT ?p WHERE { ?s a oe:SystematicReview ; oe:pubmedId ?p }&quot;, patterns_a=2, patterns_b=2)
+_q(id=&quot;S12&quot;, category=&quot;simple&quot;, desc=&quot;Approval date of metformin.&quot;,
+   a=&quot;SELECT ?d WHERE { oedrug:metformin oe:approvalDate ?d }&quot;,
+   b=&quot;SELECT ?d WHERE { oedrug:metformin oe:approvalDate ?d }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S13&quot;, category=&quot;simple&quot;, desc=&quot;Count of clinical-question holons.&quot;, kind=&quot;select&quot;,
+   a=&quot;SELECT (COUNT(?h) AS ?n) WHERE { ?h a holon:ClinicalQuestionHolon }&quot;,
+   b=&quot;SELECT (COUNT(?h) AS ?n) WHERE { ?h a holon:ClinicalQuestionHolon }&quot;,
+   patterns_a=1, patterns_b=1)
+_q(id=&quot;S14&quot;, category=&quot;simple&quot;, desc=&quot;Specialties (typed oe:Specialty).&quot;,
+   a=&quot;SELECT ?s WHERE { ?s a oe:Specialty }&quot;,
+   b=&quot;SELECT ?s WHERE { ?s a oe:Specialty }&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;S15&quot;, category=&quot;simple&quot;, desc=&quot;Does any drug treat hypertension? (ASK)&quot;, kind=&quot;ask&quot;,
+   a=&quot;ASK { ?x oe:treats oed:hypertension }&quot;,
+   b=&quot;ASK { ?x oe:treats oed:hypertension }&quot;, patterns_a=1, patterns_b=1)
+
+# =============================================================================
+# MEDIUM (15) -- multi-hop and reification access. Answerable in both, but the
+# flat model needs the verbose rdf:Statement pattern (higher patterns_b).
+# =============================================================================
+_q(id=&quot;M01&quot;, category=&quot;medium&quot;,
+   desc=&quot;Confidence of each treats-assertion (edge-level metadata).&quot;,
+   a=&quot;&quot;&quot;SELECT ?s ?o ?conf WHERE {
+         ?r a holon:EvidenceAssertion ; rdf:reifies ?tt ; holon:confidence ?conf .
+         ?tt rdf:subject ?s ; rdf:predicate oe:treats ; rdf:object ?o }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?s ?o ?conf WHERE {
+         ?r a rdf:Statement ; rdf:subject ?s ; rdf:predicate oe:treats ;
+            rdf:object ?o ; holon:confidence ?conf }&quot;&quot;&quot;,
+   patterns_a=5, patterns_b=5,
+   cypher=&quot;MATCH (:Drug)-[t:treats]-&gt;(:Disease) RETURN t.confidence&quot;)
+_q(id=&quot;M02&quot;, category=&quot;medium&quot;, desc=&quot;Assertions with evidence level Level-1A.&quot;,
+   a=&quot;&quot;&quot;SELECT ?r WHERE { ?r a holon:EvidenceAssertion ; holon:evidenceLevel &quot;Level-1A&quot; }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?r WHERE { ?r a rdf:Statement ; holon:evidenceLevel &quot;Level-1A&quot; }&quot;&quot;&quot;,
+   patterns_a=2, patterns_b=2)
+_q(id=&quot;M03&quot;, category=&quot;medium&quot;, desc=&quot;Drug-disease pairs asserted with confidence &gt; 0.9.&quot;,
+   a=&quot;&quot;&quot;SELECT ?s ?o WHERE {
+         ?r a holon:EvidenceAssertion ; rdf:reifies ?tt ; holon:confidence ?c .
+         ?tt rdf:subject ?s ; rdf:predicate oe:treats ; rdf:object ?o . FILTER(?c &gt; 0.9) }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?s ?o WHERE {
+         ?r a rdf:Statement ; rdf:subject ?s ; rdf:predicate oe:treats ;
+            rdf:object ?o ; holon:confidence ?c . FILTER(?c &gt; 0.9) }&quot;&quot;&quot;,
+   patterns_a=5, patterns_b=5)
+_q(id=&quot;M04&quot;, category=&quot;medium&quot;, desc=&quot;Sources cited by each evidence assertion.&quot;,
+   a=&quot;&quot;&quot;SELECT ?r ?src WHERE { ?r a holon:EvidenceAssertion ; oe:cites ?src }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?r ?src WHERE { ?r a rdf:Statement ; oe:cites ?src }&quot;&quot;&quot;,
+   patterns_a=2, patterns_b=2)
+_q(id=&quot;M05&quot;, category=&quot;medium&quot;, desc=&quot;Holons about diseases in Cardiology (2-hop join).&quot;,
+   a=&quot;&quot;&quot;SELECT ?h WHERE { ?h a holon:ClinicalQuestionHolon ; oe:aboutDisease ?d .
+         ?d oe:inSpecialty oespec:Cardiology }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?h WHERE { ?h a holon:ClinicalQuestionHolon ; oe:aboutDisease ?d .
+         ?d oe:inSpecialty oespec:Cardiology }&quot;&quot;&quot;, patterns_a=3, patterns_b=3)
+_q(id=&quot;M06&quot;, category=&quot;medium&quot;, desc=&quot;Drugs treating a disease that has the symptom &#x27;fatigue&#x27;.&quot;,
+   a=&quot;&quot;&quot;SELECT DISTINCT ?drug WHERE { ?drug oe:treats ?d . ?d oe:hasSymptom oesym:fatigue }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT DISTINCT ?drug WHERE { ?drug oe:treats ?d . ?d oe:hasSymptom oesym:fatigue }&quot;&quot;&quot;,
+   patterns_a=2, patterns_b=2)
+_q(id=&quot;M07&quot;, category=&quot;medium&quot;, desc=&quot;Evidence assertions and their owning holon.&quot;,
+   a=&quot;&quot;&quot;SELECT ?r ?h WHERE { ?r a holon:EvidenceAssertion ; holon:inHolon ?h }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?r ?h WHERE { ?r a rdf:Statement ; holon:inHolon ?h }&quot;&quot;&quot;,
+   patterns_a=2, patterns_b=2)
+_q(id=&quot;M08&quot;, category=&quot;medium&quot;, desc=&quot;Confidence of treats(lisinopril, hypertension).&quot;,
+   a=&quot;&quot;&quot;SELECT ?c WHERE { ?r rdf:reifies ?tt ; holon:confidence ?c .
+         ?tt rdf:subject oedrug:lisinopril ; rdf:predicate oe:treats ; rdf:object oed:hypertension }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?c WHERE { ?r a rdf:Statement ; rdf:subject oedrug:lisinopril ;
+         rdf:predicate oe:treats ; rdf:object oed:hypertension ; holon:confidence ?c }&quot;&quot;&quot;,
+   patterns_a=5, patterns_b=5)
+_q(id=&quot;M09&quot;, category=&quot;medium&quot;, desc=&quot;Distinct evidence levels used across assertions.&quot;,
+   a=&quot;&quot;&quot;SELECT DISTINCT ?lvl WHERE { ?r a holon:EvidenceAssertion ; holon:evidenceLevel ?lvl }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT DISTINCT ?lvl WHERE { ?r a rdf:Statement ; holon:evidenceLevel ?lvl }&quot;&quot;&quot;,
+   patterns_a=2, patterns_b=2)
+_q(id=&quot;M10&quot;, category=&quot;medium&quot;, desc=&quot;Side-effect assertions (drug causesSideEffect symptom).&quot;,
+   a=&quot;&quot;&quot;SELECT ?s ?o WHERE { ?r rdf:reifies ?tt . ?tt rdf:subject ?s ;
+         rdf:predicate oe:causesSideEffect ; rdf:object ?o }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?s ?o WHERE { ?r a rdf:Statement ; rdf:subject ?s ;
+         rdf:predicate oe:causesSideEffect ; rdf:object ?o }&quot;&quot;&quot;,
+   patterns_a=4, patterns_b=4)
+_q(id=&quot;M11&quot;, category=&quot;medium&quot;, desc=&quot;Holons citing at least one source (interior cites).&quot;,
+   a=&quot;&quot;&quot;SELECT DISTINCT ?h WHERE { ?h a holon:ClinicalQuestionHolon ; oe:cites ?s }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT DISTINCT ?h WHERE { ?h a holon:ClinicalQuestionHolon ; oe:cites ?s }&quot;&quot;&quot;,
+   patterns_a=2, patterns_b=2)
+_q(id=&quot;M12&quot;, category=&quot;medium&quot;, desc=&quot;Drugs and the classes contraindicated against them.&quot;,
+   a=&quot;&quot;&quot;SELECT ?a ?b WHERE { ?a oe:contraindicatedWith ?b }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?a ?b WHERE { ?a oe:contraindicatedWith ?b }&quot;&quot;&quot;, patterns_a=1, patterns_b=1)
+_q(id=&quot;M13&quot;, category=&quot;medium&quot;, desc=&quot;Count of evidence assertions per evidence level.&quot;,
+   a=&quot;&quot;&quot;SELECT ?lvl (COUNT(?r) AS ?n) WHERE {
+         ?r a holon:EvidenceAssertion ; holon:evidenceLevel ?lvl } GROUP BY ?lvl&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?lvl (COUNT(?r) AS ?n) WHERE {
+         ?r a rdf:Statement ; holon:evidenceLevel ?lvl } GROUP BY ?lvl&quot;&quot;&quot;,
+   patterns_a=2, patterns_b=2)
+_q(id=&quot;M14&quot;, category=&quot;medium&quot;, desc=&quot;Disease holons containing a given clinical-question holon.&quot;,
+   a=&quot;&quot;&quot;SELECT ?dh WHERE { ?dh a holon:DiseaseHolon ; holon:containsHolon oeq:q_hypertension_treatment }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?dh WHERE { ?dh a holon:DiseaseHolon ; holon:containsHolon oeq:q_hypertension_treatment }&quot;&quot;&quot;,
+   patterns_a=2, patterns_b=2)
+_q(id=&quot;M15&quot;, category=&quot;medium&quot;, desc=&quot;Is there a Level-1A assertion with confidence &gt;= 0.9? (ASK)&quot;,
+   kind=&quot;ask&quot;,
+   a=&quot;&quot;&quot;ASK { ?r a holon:EvidenceAssertion ; holon:evidenceLevel &quot;Level-1A&quot; ; holon:confidence ?c .
+         FILTER(?c &gt;= 0.9) }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;ASK { ?r a rdf:Statement ; holon:evidenceLevel &quot;Level-1A&quot; ; holon:confidence ?c .
+         FILTER(?c &gt;= 0.9) }&quot;&quot;&quot;, patterns_a=3, patterns_b=3)
+
+# =============================================================================
+# COMPLEX (10) -- temporal + provenance + confidence. Answerable in both.
+# =============================================================================
+_q(id=&quot;C01&quot;, category=&quot;complex&quot;,
+   desc=&quot;Assertions recorded after 2020 citing a systematic review, confidence &gt; 0.9.&quot;,
+   a=&quot;&quot;&quot;SELECT ?r ?c WHERE {
+         ?r a holon:EvidenceAssertion ; holon:confidence ?c ; holon:recordedOn ?d ; oe:cites ?src .
+         ?src a oe:SystematicReview . FILTER(?c &gt; 0.9 &amp;&amp; ?d &gt; &quot;2020-01-01&quot;^^xsd:date) }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?r ?c WHERE {
+         ?r a rdf:Statement ; holon:confidence ?c ; holon:recordedOn ?d ; oe:cites ?src .
+         ?src a oe:SystematicReview . FILTER(?c &gt; 0.9 &amp;&amp; ?d &gt; &quot;2020-01-01&quot;^^xsd:date) }&quot;&quot;&quot;,
+   patterns_a=5, patterns_b=5)
+_q(id=&quot;C02&quot;, category=&quot;complex&quot;,
+   desc=&quot;Drugs approved after 2000 that treat a disease first described before 1950 (temporal join).&quot;,
+   a=&quot;&quot;&quot;SELECT ?drug ?dis WHERE { ?drug oe:treats ?dis ; oe:approvalDate ?ad .
+         ?dis oe:firstDescribedDate ?fd .
+         FILTER(?ad &gt; &quot;2000-01-01&quot;^^xsd:date &amp;&amp; ?fd &lt; &quot;1950-01-01&quot;^^xsd:date) }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?drug ?dis WHERE { ?drug oe:treats ?dis ; oe:approvalDate ?ad .
+         ?dis oe:firstDescribedDate ?fd .
+         FILTER(?ad &gt; &quot;2000-01-01&quot;^^xsd:date &amp;&amp; ?fd &lt; &quot;1950-01-01&quot;^^xsd:date) }&quot;&quot;&quot;,
+   patterns_a=3, patterns_b=3, compare=True)
+_q(id=&quot;C03&quot;, category=&quot;complex&quot;, desc=&quot;Provenance: holons attributed to the AI agent.&quot;,
+   a=&quot;&quot;&quot;SELECT ?h WHERE { ?h prov:wasAttributedTo oeq:openevidence_ai }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?h WHERE { ?h prov:wasAttributedTo oeq:openevidence_ai }&quot;&quot;&quot;,
+   patterns_a=1, patterns_b=1)
+_q(id=&quot;C04&quot;, category=&quot;complex&quot;, desc=&quot;Five most-cited sources (by number of citing holons).&quot;,
+   a=&quot;&quot;&quot;SELECT ?src (COUNT(?h) AS ?n) WHERE { ?h a holon:ClinicalQuestionHolon ; oe:cites ?src }
+         GROUP BY ?src ORDER BY DESC(?n) ?src LIMIT 5&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?src (COUNT(?h) AS ?n) WHERE { ?h a holon:ClinicalQuestionHolon ; oe:cites ?src }
+         GROUP BY ?src ORDER BY DESC(?n) ?src LIMIT 5&quot;&quot;&quot;, patterns_a=2, patterns_b=2)
+_q(id=&quot;C05&quot;, category=&quot;complex&quot;,
+   desc=&quot;High-confidence (&gt;0.9) treats-assertions whose source is a meta-analysis or RCT.&quot;,
+   a=&quot;&quot;&quot;SELECT ?s ?o WHERE {
+         ?r a holon:EvidenceAssertion ; rdf:reifies ?tt ; holon:confidence ?c ; oe:cites ?src .
+         ?tt rdf:subject ?s ; rdf:predicate oe:treats ; rdf:object ?o .
+         { ?src a oe:MetaAnalysis } UNION { ?src a oe:ClinicalTrial } FILTER(?c &gt; 0.9) }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?s ?o WHERE {
+         ?r a rdf:Statement ; rdf:subject ?s ; rdf:predicate oe:treats ; rdf:object ?o ;
+            holon:confidence ?c ; oe:cites ?src .
+         { ?src a oe:MetaAnalysis } UNION { ?src a oe:ClinicalTrial } FILTER(?c &gt; 0.9) }&quot;&quot;&quot;,
+   patterns_a=8, patterns_b=8)
+_q(id=&quot;C06&quot;, category=&quot;complex&quot;,
+   desc=&quot;Mean assertion confidence per evidence level.&quot;,
+   a=&quot;&quot;&quot;SELECT ?lvl (AVG(?c) AS ?avg) WHERE {
+         ?r a holon:EvidenceAssertion ; holon:evidenceLevel ?lvl ; holon:confidence ?c }
+         GROUP BY ?lvl ORDER BY ?lvl&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?lvl (AVG(?c) AS ?avg) WHERE {
+         ?r a rdf:Statement ; holon:evidenceLevel ?lvl ; holon:confidence ?c }
+         GROUP BY ?lvl ORDER BY ?lvl&quot;&quot;&quot;, patterns_a=3, patterns_b=3)
+_q(id=&quot;C07&quot;, category=&quot;complex&quot;,
+   desc=&quot;Assertions whose recording date is at/after the cited source&#x27;s publication date &quot;
+        &quot;(temporal consistency witness).&quot;,
+   a=&quot;&quot;&quot;SELECT ?r WHERE {
+         ?r a holon:EvidenceAssertion ; holon:recordedOn ?rd ; oe:cites ?src .
+         ?src oe:publicationDate ?pd . FILTER(?rd &gt;= ?pd) }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?r WHERE {
+         ?r a rdf:Statement ; holon:recordedOn ?rd ; oe:cites ?src .
+         ?src oe:publicationDate ?pd . FILTER(?rd &gt;= ?pd) }&quot;&quot;&quot;, patterns_a=4, patterns_b=4)
+_q(id=&quot;C08&quot;, category=&quot;complex&quot;,
+   desc=&quot;Drug treating the most distinct diseases (with high-confidence evidence).&quot;,
+   a=&quot;&quot;&quot;SELECT ?drug (COUNT(DISTINCT ?o) AS ?n) WHERE {
+         ?r a holon:EvidenceAssertion ; rdf:reifies ?tt ; holon:confidence ?c .
+         ?tt rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?o . FILTER(?c &gt;= 0.85) }
+         GROUP BY ?drug ORDER BY DESC(?n) LIMIT 5&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?drug (COUNT(DISTINCT ?o) AS ?n) WHERE {
+         ?r a rdf:Statement ; rdf:subject ?drug ; rdf:predicate oe:treats ; rdf:object ?o ;
+            holon:confidence ?c . FILTER(?c &gt;= 0.85) }
+         GROUP BY ?drug ORDER BY DESC(?n) LIMIT 5&quot;&quot;&quot;, patterns_a=5, patterns_b=5)
+_q(id=&quot;C09&quot;, category=&quot;complex&quot;,
+   desc=&quot;Holons generated after 2024 (provenance dateTime).&quot;,
+   a=&quot;&quot;&quot;SELECT ?h WHERE { ?h prov:generatedAtTime ?t . FILTER(?t &gt; &quot;2024-01-01T00:00:00Z&quot;^^xsd:dateTime) }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?h WHERE { ?h prov:generatedAtTime ?t . FILTER(?t &gt; &quot;2024-01-01T00:00:00Z&quot;^^xsd:dateTime) }&quot;&quot;&quot;,
+   patterns_a=1, patterns_b=1, compare=True)
+_q(id=&quot;C10&quot;, category=&quot;complex&quot;,
+   desc=&quot;Evidence assertions citing a source published before 2015 (legacy evidence).&quot;,
+   a=&quot;&quot;&quot;SELECT ?r WHERE { ?r a holon:EvidenceAssertion ; oe:cites ?src .
+         ?src oe:publicationDate ?pd . FILTER(?pd &lt; &quot;2015-01-01&quot;^^xsd:date) }&quot;&quot;&quot;,
+   b=&quot;&quot;&quot;SELECT ?r WHERE { ?r a rdf:Statement ; oe:cites ?src .
+         ?src oe:publicationDate ?pd . FILTER(?pd &lt; &quot;2015-01-01&quot;^^xsd:date) }&quot;&quot;&quot;,
+   patterns_a=3, patterns_b=3)
+
+# =============================================================================
+# HARD (10) -- holon-layer / named-graph identity. Model-A only: the flat model
+# does not record the layer partition as data (no named graphs, no layer triple),
+# so these are not answerable over Model B without re-modelling it (which would
+# make it non-flat). See theory/expressiveness.md.
+# =============================================================================
+_NG_REASON = (&quot;Flat RDF 1.1 has no named graphs and does not record holon-layer &quot;
+              &quot;membership as a triple; the query ranges over graph/layer identity, &quot;
+              &quot;which is not present in Model B as data.&quot;)
+
+_q(id=&quot;H01&quot;, category=&quot;hard&quot;,
+   desc=&quot;Predicates asserted in the interior layer of a specific holon.&quot;,
+   a=&quot;&quot;&quot;SELECT DISTINCT ?p WHERE {
+         oeq:q_hypertension_treatment holon:hasInteriorGraph ?g . GRAPH ?g { ?s ?p ?o } }&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=2)
+_q(id=&quot;H02&quot;, category=&quot;hard&quot;,
+   desc=&quot;All triples in the projection layer of a specific holon.&quot;,
+   a=&quot;&quot;&quot;SELECT ?s ?p ?o WHERE {
+         oeq:q_hypertension_treatment holon:hasProjectionGraph ?g . GRAPH ?g { ?s ?p ?o } }&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=2)
+_q(id=&quot;H03&quot;, category=&quot;hard&quot;,
+   desc=&quot;Triple count per layer for a specific holon.&quot;,
+   a=&quot;&quot;&quot;SELECT ?layer (COUNT(*) AS ?n) WHERE {
+         VALUES (?lp ?layer) {
+           (holon:hasInteriorGraph &quot;interior&quot;) (holon:hasBoundaryGraph &quot;boundary&quot;)
+           (holon:hasProjectionGraph &quot;projection&quot;) (holon:hasContextGraph &quot;context&quot;) }
+         oeq:q_hypertension_treatment ?lp ?g . GRAPH ?g { ?s ?p ?o } }
+         GROUP BY ?layer ORDER BY ?layer&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=2)
+_q(id=&quot;H04&quot;, category=&quot;hard&quot;,
+   desc=&quot;Which named graph (layer) asserts the questionText of a holon? (provenance-by-graph)&quot;,
+   a=&quot;&quot;&quot;SELECT ?g WHERE { GRAPH ?g { oeq:q_hypertension_treatment oe:questionText ?t } }&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=1)
+_q(id=&quot;H05&quot;, category=&quot;hard&quot;,
+   desc=&quot;Holons whose interior graph contains more than 8 triples.&quot;,
+   a=&quot;&quot;&quot;SELECT ?h (COUNT(*) AS ?n) WHERE {
+         ?h holon:hasInteriorGraph ?g . GRAPH ?g { ?s ?p ?o } }
+         GROUP BY ?h HAVING (COUNT(*) &gt; 8)&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=2)
+_q(id=&quot;H06&quot;, category=&quot;hard&quot;,
+   desc=&quot;Total triple count grouped by layer across the whole corpus.&quot;,
+   a=&quot;&quot;&quot;SELECT ?layer (COUNT(*) AS ?n) WHERE {
+         VALUES (?lp ?layer) {
+           (holon:hasInteriorGraph &quot;interior&quot;) (holon:hasBoundaryGraph &quot;boundary&quot;)
+           (holon:hasProjectionGraph &quot;projection&quot;) (holon:hasContextGraph &quot;context&quot;) }
+         ?h ?lp ?g . GRAPH ?g { ?s ?p ?o } }
+         GROUP BY ?layer ORDER BY ?layer&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=2)
+_q(id=&quot;H07&quot;, category=&quot;hard&quot;,
+   desc=&quot;Boundary-layer entry events reached via the holon&#x27;s boundary graph.&quot;,
+   a=&quot;&quot;&quot;SELECT ?e ?entity WHERE {
+         oeq:q_hypertension_treatment holon:hasBoundaryGraph ?g .
+         GRAPH ?g { ?e a holon:EntityEntry ; holon:entity ?entity } }&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=3)
+_q(id=&quot;H08&quot;, category=&quot;hard&quot;,
+   desc=&quot;Subjects that appear in BOTH the interior and context layers of a holon (cross-layer join).&quot;,
+   a=&quot;&quot;&quot;SELECT DISTINCT ?s WHERE {
+         oeq:q_hypertension_treatment holon:hasInteriorGraph ?gi ; holon:hasContextGraph ?gc .
+         GRAPH ?gi { ?s ?p1 ?o1 } GRAPH ?gc { ?s ?p2 ?o2 } }&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=4)
+_q(id=&quot;H09&quot;, category=&quot;hard&quot;,
+   desc=&quot;The four layer-graph IRIs of a holon and the size of each.&quot;,
+   a=&quot;&quot;&quot;SELECT ?g (COUNT(*) AS ?n) WHERE {
+         { oeq:q_hypertension_treatment holon:hasInteriorGraph ?g }
+         UNION { oeq:q_hypertension_treatment holon:hasBoundaryGraph ?g }
+         UNION { oeq:q_hypertension_treatment holon:hasProjectionGraph ?g }
+         UNION { oeq:q_hypertension_treatment holon:hasContextGraph ?g }
+         GRAPH ?g { ?s ?p ?o } } GROUP BY ?g&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=5)
+_q(id=&quot;H10&quot;, category=&quot;hard&quot;,
+   desc=&quot;Holons whose projection-layer summary confidence is below 0.5 (graph-scoped read).&quot;,
+   a=&quot;&quot;&quot;SELECT ?h ?sc WHERE {
+         ?h a holon:ClinicalQuestionHolon ; holon:hasProjectionGraph ?g .
+         GRAPH ?g { ?h holon:summaryConfidence ?sc } FILTER(?sc &lt; 0.5) }&quot;&quot;&quot;,
+   b=None, b_unanswerable_reason=_NG_REASON, patterns_a=3)
+
+
+def by_category() -&gt; dict[str, int]:
+    out: dict[str, int] = {}
+    for q in QUERIES:
+        out[q[&quot;category&quot;]] = out.get(q[&quot;category&quot;], 0) + 1
+    return out
+
+
+if __name__ == &quot;__main__&quot;:
+    print(f&quot;Total queries: {len(QUERIES)}&quot;)
+    for cat, n in by_category().items():
+        print(f&quot;  {cat:&lt;8} {n}&quot;)</code></pre><figcaption><strong>Listing S12.</strong> Complete 50-query SPARQL benchmark with Model A and Model B variants. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/benchmark_queries.py"><code>paper_artifacts/benchmark_queries.py</code></a>.</figcaption></figure>
+</section>
+<section id="S6"><h2><a class="anchor" href="#S6">S6</a> Inconsistency Corpus Statistics</h2>
+<p>The inconsistency benchmark contains 100 holons: 50 consistent controls and 50 inconsistent cases. The inconsistent cases are distributed across six defect types. Table&nbsp;<a href="#table-S2">Table S2</a> reports the type-level counts and detection outcomes.</p>
+<figure class="table" id="table-S2">
+<figcaption><strong>Table S2.</strong> Inconsistency corpus statistics and detection counts.</figcaption>
+<div class="scroll"><table>
+<thead><tr><th style="text-align:left"><strong>Type</strong></th><th style="text-align:right"><strong>Cases</strong></th><th style="text-align:right"><strong>A TP</strong></th><th style="text-align:right"><strong>A FN</strong></th><th style="text-align:right"><strong>B TP</strong></th><th style="text-align:right"><strong>B FN</strong></th><th style="text-align:right"><strong>C TP</strong></th><th style="text-align:right"><strong>C FN</strong></th><th style="text-align:left"><strong>Class</strong></th></tr></thead><tbody>
+<tr class="rule"><td style="text-align:left">T1</td><td style="text-align:right">9</td><td style="text-align:right">9</td><td style="text-align:right">0</td><td style="text-align:right">9</td><td style="text-align:right">0</td><td style="text-align:right">9</td><td style="text-align:right">0</td><td style="text-align:left">Structural</td></tr>
+<tr><td style="text-align:left">T2</td><td style="text-align:right">9</td><td style="text-align:right">9</td><td style="text-align:right">0</td><td style="text-align:right">9</td><td style="text-align:right">0</td><td style="text-align:right">9</td><td style="text-align:right">0</td><td style="text-align:left">Referential</td></tr>
+<tr><td style="text-align:left">T3</td><td style="text-align:right">8</td><td style="text-align:right">8</td><td style="text-align:right">0</td><td style="text-align:right">8</td><td style="text-align:right">0</td><td style="text-align:right">8</td><td style="text-align:right">0</td><td style="text-align:left">Temporal</td></tr>
+<tr><td style="text-align:left">T4</td><td style="text-align:right">8</td><td style="text-align:right">8</td><td style="text-align:right">0</td><td style="text-align:right">0</td><td style="text-align:right">8</td><td style="text-align:right">8</td><td style="text-align:right">0</td><td style="text-align:left">Semantic</td></tr>
+<tr><td style="text-align:left">T5</td><td style="text-align:right">8</td><td style="text-align:right">8</td><td style="text-align:right">0</td><td style="text-align:right">0</td><td style="text-align:right">8</td><td style="text-align:right">8</td><td style="text-align:right">0</td><td style="text-align:left">Cross-holon</td></tr>
+<tr><td style="text-align:left">T6</td><td style="text-align:right">8</td><td style="text-align:right">8</td><td style="text-align:right">0</td><td style="text-align:right">0</td><td style="text-align:right">8</td><td style="text-align:right">8</td><td style="text-align:right">0</td><td style="text-align:left">Projection</td></tr>
+<tr class="rule"><td style="text-align:left">ALL</td><td style="text-align:right">50</td><td style="text-align:right">50</td><td style="text-align:right">0</td><td style="text-align:right">26</td><td style="text-align:right">24</td><td style="text-align:right">50</td><td style="text-align:right">0</td><td style="text-align:left">Mixed</td></tr>
+</tbody></table></div></figure>
+<p>Sets A and C have no false positives and no false negatives on the injected corpus; none of the three sets flags any of the 50 consistent controls. Set B also has no false positives, but misses all boundary-dependent defects T4–T6. This explains why Set B precision remains 1.00 while recall falls to 0.52 and <span class="math"><i>F</i><sub>1</sub></span> to 0.68.</p>
+</section>
+<section id="S7"><h2><a class="anchor" href="#S7">S7</a> Statistical Test Details</h2>
+<p>This section gives the statistical test choices, assumption checks, and effect-size reporting used in the main experiments.</p>
+<h3 id="S7.1"><a class="anchor" href="#S7.1">S7.1</a> SHACL Validation Comparison</h3>
+<p>The validation comparison is paired because Set A and Set B are applied to the same holons. Therefore, McNemar&#x27;s test is used for paired binary correctness. The contingency table is given in Table&nbsp;<a href="#table-S3">Table S3</a>.</p>
+<figure class="table" id="table-S3">
+<figcaption><strong>Table S3.</strong> McNemar contingency table for Set A vs. Set B correctness.</figcaption>
+<div class="scroll"><table>
+<thead><tr><th style="text-align:left"></th><th style="text-align:center"><strong>B correct</strong></th><th style="text-align:center"><strong>B wrong</strong></th></tr></thead><tbody>
+<tr class="rule"><td style="text-align:left">A correct</td><td style="text-align:center">76</td><td style="text-align:center">24</td></tr>
+<tr><td style="text-align:left">A wrong</td><td style="text-align:center">0</td><td style="text-align:center">0</td></tr>
+</tbody></table></div></figure>
+<p>The discordant counts are A-right/B-wrong = 24 and A-wrong/B-right = 0, yielding <span class="math"><i>p</i>=1.192×10<sup>−7</sup></span>. The bootstrap 95% confidence interval for the recall difference is [0.34, 0.62].</p>
+<h3 id="S7.2"><a class="anchor" href="#S7.2">S7.2</a> GraphRAG Conformance</h3>
+<p>For first-pass conformance, System A is correct on 100 paired cases where System B is not, yielding McNemar <span class="math"><i>p</i>=1.578×10<sup>−30</sup></span>. For converged conformance, the discordant count is 34 in favour of System A, yielding <span class="math"><i>p</i>=1.164×10<sup>−10</sup></span>.</p>
+<h3 id="S7.3"><a class="anchor" href="#S7.3">S7.3</a> Hallucination Rate</h3>
+<p>Per-question hallucination differences are non-normal according to the Shapiro–Wilk test (<span class="math"><i>p</i>=5.374×10<sup>−13</sup></span>); therefore, the Wilcoxon signed-rank test is used. The Wilcoxon test gives <span class="math"><i>p</i>=2.087×10<sup>−19</sup></span>, and the reported Cohen&#x27;s <span class="math"><i>d</i></span> is 23.27. Bootstrap 95% confidence intervals are [0.000, 0.000] for System A and [0.754, 0.766] for System B.</p>
+<h3 id="S7.4"><a class="anchor" href="#S7.4">S7.4</a> Grounding-Label Stability</h3>
+<p>The internal stability check compares the rule-based grounding labels with a deliberately perturbed second automated pass over 110 generated assertions, yielding Cohen&#x27;s <span class="math">κ=0.78</span>. This is not human inter-annotator agreement and does not establish a human gold standard; it measures stability of the automated labelling procedure under the declared perturbation.</p>
+</section>
+<section id="S8"><h2><a class="anchor" href="#S8">S8</a> Neo4J Cypher Query Examples</h2>
+<p>This section documents the Cypher export generated for the Neo4J/n10s portability path. The import and benchmark scripts are produced from the holonic RDF export and are included as artifacts; the measured query benchmark in this study uses rdflib SPARQL, and no Neo4J timings or cross-store comparisons are reported.</p>
+<p><strong>Clinical-semantic status.</strong> The historical export records 136 <code>TREATS</code> and 68 <code>CAUSES_SIDE_EFFECT</code> edges corresponding to the 204 canonical benchmark assertions. The Cypher projection does not carry the assertion-to-source links needed to verify those predicates clinically. These edges exercise storage, querying and validation and must not be interpreted as curated therapeutic recommendations; relation-level validity depends on the cited source and extraction context in the authoritative RDF release. All Cypher clinical edges therefore require source-level verification before clinical reuse. Table&nbsp;<a href="#table-S4">Table S4</a> records the specifically reviewed high-risk examples. The two prednisone–osteoporosis <code>TREATS</code> edges are preserved as comments but quarantined from execution because the available projection provides no supporting source mapping and the direction is clinically suspect; the reported RDF corpus counts and experiments are unchanged because the Neo4J import was outside the measured benchmark.</p>
+<figure class="table" id="table-S4">
+<figcaption><strong>Table S4.</strong> Clinical-semantic audit of selected high-risk Cypher relations.</figcaption>
+<div class="scroll"><table>
+<thead><tr><th style="text-align:left"><strong>Relation</strong></th><th style="text-align:left"><strong>Classification</strong></th><th style="text-align:left"><strong>Source support in supplied artifacts</strong></th><th style="text-align:left"><strong>Action</strong></th></tr></thead><tbody>
+<tr class="rule"><td style="text-align:left">prednisone–<code>TREATS</code>–osteoporosis</td><td style="text-align:left">Directionally suspect treatment relation</td><td style="text-align:left">None</td><td style="text-align:left">Quarantined from executable Cypher; source verification required before any replacement predicate is asserted.</td></tr>
+<tr><td style="text-align:left">apixaban–<code>TREATS</code>–atrial fibrillation</td><td style="text-align:left">Potentially coarse treatment versus risk-reduction relation</td><td style="text-align:left">None</td><td style="text-align:left">Retained as a historical benchmark assertion and flagged; a more precise predicate requires source and ontology support.</td></tr>
+<tr><td style="text-align:left">levetiracetam–<code>CAUSES_SIDE_EFFECT</code>–seizure</td><td style="text-align:left">Treatment target versus possible worsening event is ambiguous</td><td style="text-align:left">None</td><td style="text-align:left">Retained and flagged; source verification must distinguish an adverse event from disease context.</td></tr>
+<tr><td style="text-align:left">salbutamol–<code>CAUSES_SIDE_EFFECT</code>–dyspnea</td><td style="text-align:left">Symptom context versus adverse respiratory event is ambiguous</td><td style="text-align:left">None</td><td style="text-align:left">Retained and flagged; do not infer causality from the disease/safety holon pairing.</td></tr>
+<tr><td style="text-align:left">atorvastatin–<code>CAUSES_SIDE_EFFECT</code>–chest pain</td><td style="text-align:left">Unresolved symptom-context versus adverse-effect attribution</td><td style="text-align:left">None</td><td style="text-align:left">Retained only as an auditable historical benchmark assertion; source verification required.</td></tr>
+<tr><td style="text-align:left">sertraline–<code>CAUSES_SIDE_EFFECT</code>–depressed mood</td><td style="text-align:left">Worsening mood versus indication symptom is ambiguous</td><td style="text-align:left">None</td><td style="text-align:left">Retained and flagged; source verification required before interpreting it as an adverse effect.</td></tr>
+<tr><td style="text-align:left">apixaban–<code>CAUSES_SIDE_EFFECT</code>–dyspnea</td><td style="text-align:left">Unresolved symptom-context versus adverse-effect attribution</td><td style="text-align:left">None</td><td style="text-align:left">Retained only as an auditable historical benchmark assertion; source verification required.</td></tr>
+</tbody></table></div></figure>
+<h3 id="S8.1"><a class="anchor" href="#S8.1">S8.1</a> Cypher Benchmark Queries</h3>
+<figure class="listing" id="listing-S13"><pre><code>// S05_drugs_treating_htn
+MATCH (x:Drug)-[:TREATS]-&gt;(:Disease {id:&#x27;hypertension&#x27;}) RETURN x.id;
+
+// M01_treats_confidence
+MATCH (x:Drug)-[t:TREATS]-&gt;(d:Disease) RETURN x.id, d.id, t.confidence;
+
+// M03_high_conf_pairs
+MATCH (x:Drug)-[t:TREATS]-&gt;(d:Disease) WHERE t.confidence &gt; 0.9 RETURN x.id, d.id;
+
+// C08_drug_breadth
+MATCH (x:Drug)-[t:TREATS]-&gt;(d:Disease) WHERE t.confidence &gt;= 0.85 RETURN x.id, count(DISTINCT d) AS n ORDER BY n DESC LIMIT 5;</code></pre><figcaption><strong>Listing S13.</strong> Cypher equivalents of benchmark queries. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/cypher/benchmark_queries.cypher"><code>paper_artifacts/cypher/benchmark_queries.cypher</code></a>.</figcaption></figure>
+</section>
+<section id="S9"><h2><a class="anchor" href="#S9">S9</a> Performance Comparison Tables</h2>
+<p>This section reports the available latency, scalability, and budget-selection measurements. Memory profiling was not instrumented in the current experimental run; it is therefore explicitly recorded as unavailable rather than estimated.</p>
+<figure class="table" id="table-S5">
+<figcaption><strong>Table S5.</strong> Retrieval latency comparison.</figcaption>
+<div class="scroll"><table>
+<thead><tr><th style="text-align:right"><strong>Triples</strong></th><th style="text-align:right"><strong>Naive scan (s)</strong></th><th style="text-align:right"><strong>Holon-bounded (s)</strong></th><th style="text-align:right"><strong>Speedup</strong></th></tr></thead><tbody>
+<tr class="rule"><td style="text-align:right">14573</td><td style="text-align:right">0.002473</td><td style="text-align:right">0.000110</td><td style="text-align:right">22.5<span class="math">×</span></td></tr>
+</tbody></table></div></figure>
+<figure class="table" id="table-S6">
+<figcaption><strong>Table S6.</strong> Scalability profile for retrieval and context size.</figcaption>
+<div class="scroll"><table>
+<thead><tr><th style="text-align:right"><strong>Holons</strong></th><th style="text-align:right"><strong>Index build (s)</strong></th><th style="text-align:right"><strong>A ret. (ms)</strong></th><th style="text-align:right"><strong>B ret. (ms)</strong></th><th style="text-align:right"><strong>A ctx.</strong></th><th style="text-align:right"><strong>B ctx.</strong></th></tr></thead><tbody>
+<tr class="rule"><td style="text-align:right">100</td><td style="text-align:right">0.0375</td><td style="text-align:right">0.109</td><td style="text-align:right">0.118</td><td style="text-align:right">129.8</td><td style="text-align:right">502.9</td></tr>
+<tr><td style="text-align:right">500</td><td style="text-align:right">0.0438</td><td style="text-align:right">0.539</td><td style="text-align:right">0.528</td><td style="text-align:right">129.8</td><td style="text-align:right">587.4</td></tr>
+<tr><td style="text-align:right">1000</td><td style="text-align:right">0.0524</td><td style="text-align:right">1.024</td><td style="text-align:right">1.024</td><td style="text-align:right">129.8</td><td style="text-align:right">587.4</td></tr>
+<tr><td style="text-align:right">5000</td><td style="text-align:right">0.1208</td><td style="text-align:right">5.204</td><td style="text-align:right">5.189</td><td style="text-align:right">129.8</td><td style="text-align:right">587.4</td></tr>
+</tbody></table></div></figure>
+<figure class="table" id="table-S7">
+<figcaption><strong>Table S7.</strong> Context-budget greedy approximation results.</figcaption>
+<div class="scroll"><table>
+<thead><tr><th style="text-align:right"><strong>Budget</strong></th><th style="text-align:right"><strong>Greedy value</strong></th><th style="text-align:right"><strong>Optimal value</strong></th><th style="text-align:right"><strong>Ratio</strong></th></tr></thead><tbody>
+<tr class="rule"><td style="text-align:right">100</td><td style="text-align:right">1.30</td><td style="text-align:right">1.34</td><td style="text-align:right">0.9701</td></tr>
+<tr><td style="text-align:right">200</td><td style="text-align:right">2.70</td><td style="text-align:right">2.81</td><td style="text-align:right">0.9609</td></tr>
+<tr><td style="text-align:right">400</td><td style="text-align:right">5.20</td><td style="text-align:right">5.49</td><td style="text-align:right">0.9472</td></tr>
+<tr><td style="text-align:right">800</td><td style="text-align:right">10.34</td><td style="text-align:right">10.34</td><td style="text-align:right">1.0000</td></tr>
+<tr><td style="text-align:right">1600</td><td style="text-align:right">18.38</td><td style="text-align:right">18.65</td><td style="text-align:right">0.9855</td></tr>
+</tbody></table></div></figure>
+<figure class="table" id="table-S8">
+<figcaption><strong>Table S8.</strong> Memory profiling status.</figcaption>
+<div class="scroll"><table>
+<thead><tr><th style="text-align:left"><strong>Component</strong></th><th style="text-align:left"><strong>Peak memory</strong></th><th style="text-align:left"><strong>Status</strong></th></tr></thead><tbody>
+<tr class="rule"><td style="text-align:left">RDF generation</td><td style="text-align:left">Not recorded</td><td style="text-align:left">Profiling hook not enabled</td></tr>
+<tr><td style="text-align:left">SHACL validation</td><td style="text-align:left">Not recorded</td><td style="text-align:left">Profiling hook not enabled</td></tr>
+<tr><td style="text-align:left">GraphRAG retrieval</td><td style="text-align:left">Not recorded</td><td style="text-align:left">Profiling hook not enabled</td></tr>
+<tr><td style="text-align:left">LLM generation</td><td style="text-align:left">Not recorded</td><td style="text-align:left">Mock-provider run only</td></tr>
+</tbody></table></div></figure>
+</section>
+<section id="S10"><h2><a class="anchor" href="#S10">S10</a> Integration Test Results</h2>
+<p>This section summarises the integration tests that re-derive the headline figures reported in Section&nbsp;6 of the article. The tests cover deterministic data generation, dual-model construction, information preservation, the Set&nbsp;A/B/C validation comparison, SHACL-to-prompt transformation, the retrieval–guidance ablation, hallucination classification, context-budget approximation, natural-language query conversion, and deterministic provider behaviour. The commands that run them are listed in the repository README.</p>
+<figure class="table" id="table-S9">
+<figcaption><strong>Table S9.</strong> Integration test coverage.</figcaption>
+<div class="scroll"><table>
+<thead><tr><th style="text-align:left"><strong>Component</strong></th><th style="text-align:left"><strong>Representative tests</strong></th></tr></thead><tbody>
+<tr class="rule"><td style="text-align:left">Representation</td><td style="text-align:left">deterministic seed, dual model built, minimum data volume, expressiveness and bijection</td></tr>
+<tr><td style="text-align:left">Semantic validation</td><td style="text-align:left">consistent data conforms; Sets A and C recover all injected defect classes; assertion-scoped Set B detects T1–T3 but not T4–T6</td></tr>
+<tr><td style="text-align:left">GraphRAG</td><td style="text-align:left">deterministic SHACL-to-prompt transform, generated RDF parses, and the <span class="math">2×2</span> ablation separates retrieval scope from generation guidance</td></tr>
+<tr><td style="text-align:left">Hallucination classifier</td><td style="text-align:left">grounded, corpus-but-ungrounded and unsupported assertions are distinguished; controlled and real-model outputs use the same scoring interface</td></tr>
+<tr><td style="text-align:left">Context budget</td><td style="text-align:left">greedy solution remains within tested approximation bound against dynamic-programming optimum</td></tr>
+<tr><td style="text-align:left">Query interface</td><td style="text-align:left">natural-language query converted to SPARQL and Cypher in offline mode</td></tr>
+</tbody></table></div></figure>
+</section>
+<section id="S11"><h2><a class="anchor" href="#S11">S11</a> Full Formal Proof Material</h2>
+<p>This section reproduces the full formal notes used to qualify the propositions and empirical interpretations in the article. The notes distinguish conditional mathematical results from measured outcomes; they do not establish greater RDF/SHACL expressivity or unconditional grounding guarantees.</p>
+<h3 id="S11.1"><a class="anchor" href="#S11.1">S11.1</a> Constraint Recoverability and Access Scope</h3>
+<figure class="listing" id="listing-S14"><pre><code># Constraint Recoverability, Access, and Validation Scope
+
+Formal companion to the validation experiment (RQ2). The empirical comparison
+uses Set A (boundary-aware holonic constraints), Set B (assertion-scoped rules)
+and Set C (context-aware `sh:sparql` over a flat merged export). Set A and Set C
+both attain recall 1.00; Set B attains recall 0.52 because its authored rules do
+not reconstruct T4--T6. The formal interpretation must therefore distinguish
+information availability, constraint-language expressivity, and architectural
+accessibility/reuse.
+
+## 1. Formal setting
+
+Let `Sigma` be a finite system of holons and `obs_V(Sigma)` the RDF dataset
+available to validator `V` under its access policy. A contextual condition
+`phi` is a Boolean property of `Sigma`; a validator can decide `phi` only from
+the terms present in, or validly derivable from, `obs_V(Sigma)`.
+
+For T4--T6, the required operands are:
+
+- T4: assertion confidence/effectiveness, owning-holon membership and the
+  applicable evidence-quality threshold;
+- T5: the relevant drug--disease verdicts and holon memberships needed to compare
+  assertions across holons;
+- T6: the projection summary and the corresponding interior confidences.
+
+These operands are ordinary RDF terms. Explicit holonic structures make their
+scope and role directly addressable; a flat representation may retain or
+reconstruct the same bindings and evaluate them through SHACL-SPARQL.
+
+## 2. Proposition -- Constraint Recoverability under Equivalent Access
+
+&gt; **Proposition 1.** For the contextual validation conditions evaluated in
+&gt; T4--T6, suppose two validators receive datasets containing the operands and
+&gt; policy parameters required by a condition, with a correspondence preserving
+&gt; assertion identity, holon membership, relevant verdicts, thresholds and
+&gt; projection summaries. Equivalent detection can be implemented either by
+&gt; constraints reading explicit holonic boundary structures or by context-aware
+&gt; SHACL-SPARQL over a flat merged representation.
+
+**Argument.** Each evaluated condition is a finite query over the bindings
+listed above. Under the correspondence, replace each boundary/layer access in
+the holonic rule with joins over the retained flat membership and policy terms.
+The resulting `sh:sparql` constraint computes the same violating bindings. Set C
+is the constructive empirical instance: T4 supplies the evaluated policy&#x27;s
+fixed threshold 0.50, T5 groups assertions by retained membership, and T6
+compares retained summaries with member confidences. It reaches the same
+observed recall as Set A. This demonstrates recoverability for the evaluated
+checks and policy; because C does not retain arbitrary per-holon thresholds, it
+does not prove policy-preserving equivalence for every possible holon. QED.
+
+The proposition concerns constraint-language expressivity under equivalent
+access. It does not establish equality of arbitrary RDF datasets, identical
+authoring effort, fewer joins, lower runtime, greater portability or easier
+maintenance.
+
+## 3. Corollary -- Access Limitation
+
+&gt; **Corollary 2.** If a decisive operand or policy parameter is not exposed to a
+&gt; validator and is not derivable from its visible dataset, the validator cannot
+&gt; in general recover the corresponding contextual condition solely from that
+&gt; visible dataset.
+
+**Argument.** Construct two systems whose visible datasets are identical but
+whose hidden operand differs so that `phi` is true in one system and false in
+the other. Any deterministic validator receives identical inputs and therefore
+returns the same result for both, so it must be wrong for at least one. A
+randomised validator likewise has the same output distribution on both visible
+inputs and cannot guarantee correctness on each. QED.
+
+For T5, the hidden operand may be an opposite verdict in a foreign interior. If
+the verdict is not exposed by a projection or an authorised joint view, neither
+a flat nor a holonic validator can decide the cross-holon contradiction from the
+same incomplete view. T4 and T6 require only the relevant local layers when
+those layers are visible. Encapsulation changes the validator&#x27;s information; it
+does not create a stronger RDF or SHACL language.
+
+## 4. Three levels of comparison
+
+1. **Information availability/equivalence.** Are the required evidence and
+   policy terms present in the validator&#x27;s view? RQ1 proves equality only for
+   the specified normalised core facts and canonical assertions. Set C omits
+   per-holon thresholds, so no broader information-equivalence claim follows.
+2. **Constraint-language expressivity.** Can the rule be formulated over the
+   available terms? Proposition 1 and Set C show that the evaluated T4--T6
+   checks can be expressed in flat RDF with SHACL-SPARQL under merged access and
+   the supplied policy parameter.
+3. **Architectural accessibility and reuse.** Is admissibility scope explicit,
+   local and reusable across components, or reconstructed independently? The
+   holonic contribution primarily concerns this level. The same boundary is
+   used for validation, querying, retrieval, generation, projection, temporal
+   evidence management and governance.
+
+The experiments illustrate level-3 reuse but do not quantitatively establish
+lower authoring effort, better maintainability, auditability, portability,
+runtime or scalability relative to an equally integrated flat implementation.
+
+## 5. Architectural implication
+
+The boundary is a first-class declaration of evidence-admissibility scope. It
+specifies which assertions, policy values and projections belong to a clinical
+question and provides a shared address for multiple processing stages. This is
+an architectural contribution even though the individual T4--T6 checks remain
+recoverable in conventional RDF/SHACL when the same operands are available.
+The systems are therefore not identical in organisation or operational access,
+but the A--B detection gap is not evidence of exclusive RDF/SHACL expressivity.
+
+## 6. Finite-graph validation scope
+
+For the evaluated finite data graphs, finite shapes graphs, acyclic shape
+references and terminating local SPARQL queries, validation terminates by
+enumerating finitely many focus/value bindings. This is a termination statement
+for the supplied validation task, not a general complexity bound or a claim
+about satisfiability under unrestricted entailment. Cyclic shape references
+require an explicitly selected recursive semantics. Holon nesting alone does
+not establish undecidability or a strict language separation.
+
+## 7. Summary
+
+- Set C constructs equivalent detection for T4--T6 under merged access and the
+  evaluated policy.
+- Missing operands create an information-access limitation for any validator.
+- Explicit boundaries organise and govern scope; they do not manufacture hidden
+  information or add exclusive SHACL/RDF expressivity.
+- The supported contribution is explicit, reusable admissibility scope across
+  the knowledge-to-generation pipeline.</code></pre><figcaption><strong>Listing S14.</strong> Formal notes on constraint recoverability, information access and architectural scope. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/proofs/expressiveness_and_decidability.md"><code>paper_artifacts/proofs/expressiveness_and_decidability.md</code></a>.</figcaption></figure>
+<h3 id="S11.2"><a class="anchor" href="#S11.2">S11.2</a> Context-Budget NP-Hardness</h3>
+<figure class="listing" id="listing-S15"><pre><code># The Context Budget Problem: NP-hardness, Approximation, Complexity
+
+Formal companion to the context-budget component of the generation layer. This
+note defines the Context Budget Problem, proves it NP-hard, gives a `1/2`-
+approximation with proof, and analyses the retrieval-complexity gap between
+holon-bounded and naive GraphRAG. The corresponding measurements are reported
+in Sec. 6.4 of the article and Section S9 of the Supplementary Material.
+
+---
+
+## 1. Problem definition
+
+A holon hierarchy supplies candidate context units `h_1, ..., h_n` (holons or
+their projection layers). Each `h_i` has a **positive integer token cost**
+`t(h_i) in Z_{&gt;0}` and a **nonnegative information value** `v(h_i) in Q_{&gt;=0}`.
+Given a nonnegative integer context window budget `L` (the LLM token limit),
+the **Context Budget Problem (CBP)** is
+
+```
+maximize   Sigma_i v(h_i) * x_i
+subject to Sigma_i t(h_i) * x_i &lt;= L,    x_i in {0,1}.
+```
+
+This is exactly **0/1 Knapsack** with weights `t` and profits `v`.
+
+---
+
+## 2. NP-hardness
+
+&gt; **Proposition 1.** CBP is NP-hard. Its decision version (&quot;is there a selection
+&gt; with value &gt;= V and cost &lt;= L?&quot;) is NP-complete.
+
+*Proof.* Membership in NP: a selection `x` is a certificate checkable in `O(n)`.
+Hardness by reduction from **SUBSET-SUM**, which is NP-complete. Given a
+SUBSET-SUM instance `(a_1, ..., a_n; B)` (does some subset sum to exactly `B`?),
+build a CBP instance with `t(h_i) = v(h_i) = a_i` and budget `L = B`, asking
+whether value ` &gt;= B` is achievable under cost ` &lt;= B`. Any feasible selection has
+`Sigma value = Sigma cost &lt;= B`; achieving value ` &gt;= B` forces `Sigma cost = B`, i.e. a subset
+summing to exactly `B`, and conversely. The reduction is polynomial, so CBP is
+NP-hard and (with the NP certificate) NP-complete. QED
+
+Hence no polynomial exact algorithm is expected; the production retriever uses
+the greedy approximation below, and `dp_knapsack` (pseudo-polynomial `O(nL)`) is
+shipped only to *measure* the greedy&#x27;s quality offline.
+
+---
+
+## 3. A `1/2`-approximation
+
+Before selection, `greedy_knapsack` discards items whose token cost exceeds
+`L`. It then returns the better of two candidates: (G) the prefix packed in
+decreasing value/token ratio up to the first item that does not fit, and (S)
+the single highest-value item that fits.
+
+&gt; **Proposition 2.** `greedy_knapsack` runs in `O(n log n)` and returns value
+&gt; ` &gt;= OPT/2`.
+
+*Proof sketch (classical).* Order the remaining items by ratio `v/t` descending
+and let `k` be the first index the ratio-fill cannot take because it overflows
+`L`. Since items with cost greater than `L` were removed, item `k` fits by
+itself. The fractional-knapsack optimum is bounded by the value accumulated up
+to and including a *fraction* of item `k`, so `OPT &lt;= V_{&lt;k} + v(h_k)`, where
+`V_{&lt;k}` is the value of the greedily packed prefix. Therefore
+`OPT &lt;= V_{&lt;k} + v(h_k) &lt;= 2*max(V_{&lt;k}, v(h_k))`. Candidate (G) achieves
+` &gt;= V_{&lt;k}` and candidate (S) achieves ` &gt;= v(h_k)`, so
+`max(G, S) &gt;= max(V_{&lt;k}, v(h_k)) &gt;= OPT/2`. QED
+
+A fully polynomial-time approximation scheme (**FPTAS**) exists for 0/1 knapsack
+(Ibarra-Kim): value ` &gt;= (1-epsilon)*OPT` in `O(n^3/epsilon)` by profit scaling. We do not need
+it: the **empirical** ratio of `greedy_knapsack` to `dp_knapsack` in the final
+five-budget table is **0.9472 - 1.0000**, with mean approximately **0.973**,
+across budgets `L in {100,...,1600}`. This is far above the `1/2` worst-case
+bound for the evaluated items, not a general near-optimality guarantee.
+
+---
+
+## 4. Retrieval complexity: holon-based vs naive
+
+&gt; **Proposition 3.** Selecting the context for a query costs `O(|V|)` for naive
+&gt; GraphRAG (a scan over all triples) and `O(d * b)` for holon-based retrieval,
+&gt; where `d` is the holon-hierarchy depth and `b` the branching factor, under the
+&gt; assumption that boundary size is bounded by a constant.
+
+*Argument.* Naive retrieval ranks over every triple/node, so its work is linear
+in the graph size `|V|`. Holon-based retrieval descends the `containsHolon`
+hierarchy from the query-relevant root, touching only `O(d * b)` projection
+summaries and never opening interiors outside the chosen boundary; with bounded
+boundary size each visited holon costs `O(1)`. This is the windowing analogue of
+Proposition 3 (subgraph extraction bounded by
+holon boundaries is polynomial when the boundary is fixed-size).
+
+**Measured.** A naive linear scan over the **14 573**-triple corpus takes
+**2.473 ms**; holon-addressed context construction takes **0.110 ms** -- a
+reported **22.5x** speedup after rounding. The scalability sweep
+(100/500/1000/5000 holons,
+synthetic replication, seed 42) shows the decisive structural win is **context
+size**, not just wall-clock: System A&#x27;s average context stays **flat at ~130
+tokens** as the corpus grows 50x, whereas System B reaches **587.4 tokens** at
+500 holons and remains at that value through the 5,000-holon row. Because LLM
+cost and latency scale with context tokens, a
+budget-bounded, holon-windowed context is what makes the system scale.
+
+&gt; **Threats to validity.** (i) The lexical TF-IDF retriever ranks in `O(n)` for
+&gt; *both* systems, so the sweep&#x27;s retrieval *wall-clock* is linear for both; the
+&gt; `O(d*b)` advantage is realised in context **size** and in the bounded-vs-scan
+&gt; microbenchmark, not in the TF-IDF ranking step. A hierarchical index would
+&gt; also make A&#x27;s ranking sublinear. (ii) The 1000/5000-holon points are
+&gt; synthetic replications of the 216 real holons (only 216 were crawled); they
+&gt; measure *system scaling behaviour*, not new evidence, and
+&gt; are reported as such.</code></pre><figcaption><strong>Listing S15.</strong> Full proof notes for context-budget NP-hardness. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/proofs/context_budget_nphard.md"><code>paper_artifacts/proofs/context_budget_nphard.md</code></a>.</figcaption></figure>
+<h3 id="S11.3"><a class="anchor" href="#S11.3">S11.3</a> SHACL-to-Prompt Transform Correctness</h3>
+<figure class="listing" id="listing-S16"><pre><code># `Transform(S)`: Formal Definition, Correctness, and Convergence
+
+Formal companion to the SHACL-guided generation pipeline. This note gives
+the formal object behind the shape-to-prompt transformation: the map `Transform`
+from a SHACL shape to an LLM prompt template, the precise sense in which it is
+*correct*, and a convergence analysis of the iterative-repair loop.
+
+Notation: a SHACL shapes graph `S`, an RDF
+graph `O` produced by the model, `O |= S` for SHACL-conformance, and a holon
+`H = &lt;G_int, G_bnd, G_prj, G_ctx&gt;`.
+
+---
+
+## 1. The transformation
+
+### 1.1 Shape as a constraint tuple
+
+A SHACL node shape `s in S` with target class `C` is, after parsing, a finite
+set of property constraints
+
+```
+s = &lt;C, {pi_1, ..., pi_m}&gt;,   pi_j = (path_j, tau_j, kappa_j, iota_j, rho_j, sigma_j)
+```
+
+where for property `j`: `path_j` is the predicate, `tau_j` the datatype/class,
+`kappa_j = (min_j, max_j)` the cardinality, `iota_j` the value enumeration (`sh:in`),
+`rho_j` the range/pattern facets (`sh:minInclusive`, `sh:maxInclusive`,
+`sh:pattern`), and `sigma_j in {Info, Warning, Violation}` the severity. This is
+exactly the `ShapeTemplate` / `PropertyConstraint` dataclass pair produced by
+`transform(g, shape_uri)`.
+
+Define the **required set**
+
+```
+Req(s) = { path_j : sigma_j = Violation /\ min_j &gt;= 1 }.
+```
+
+A field&#x27;s omission is *rejected* (a Violation) iff its path is in `Req(s)`;
+`shacl_to_prompt.PropertyConstraint.required` computes exactly this predicate.
+For `oe:EvidenceReifierShape`, `Req = {holon:confidence, holon:evidenceLevel,
+oe:cites}` (verified by the runnable CLI).
+
+### 1.2 Definition (Transform)
+
+&gt; **Definition 1 (Transform).** `Transform` is the computable map
+&gt; `Transform(s, x) = (h || R(s) || K(s, x) || T(s))` where, given a shape `s` and a
+&gt; grounded-evidence context `x`:
+&gt; - `h` is a fixed instruction header forbidding ungrounded content;
+&gt; - `R(s)` is the rendering of `Req(s)` as imperative &quot;REQUIRED&quot; lines, each
+&gt;   carrying its datatype, range, enumeration and cardinality facets;
+&gt; - `K(s, x)` renders the recommended fields and the grounded facts of `x`;
+&gt; - `T(s)` is the fill-in skeleton (`subject a C ; path_j &lt;&lt;placeholder_j&gt;&gt; ...`).
+&gt;
+&gt; `Transform` is total and deterministic: it is a structural fold over the
+&gt; finite constraint tuple of `s`, so it always terminates and depends only on
+&gt; `(s, x)`. (`render_prompt` is a pure function of `ShapeTemplate`.)
+
+The naive baseline prompt `Naive(x)` ships the same grounded context `x` but
+omits `R(s)`, `T(s)` and `h`&#x27;s structural clauses -- i.e. it carries **no shape
+information**. This is the only difference the experiment manipulates.
+
+---
+
+## 2. Correctness
+
+Let `M` be a fixed model (temperature 0) inducing, for a prompt `p`, a
+distribution `Pr[O = * | p]` over outputs. Write
+
+```
+gamma(p) = Pr[ O |= s | p ]      (the conformance probability of prompt p).
+```
+
+&gt; **Definition 2 (Transform-correctness).** `Transform` is *correct for `(M, s)`
+&gt; on a context family `X`* iff
+&gt; ```
+&gt; gamma(Transform(s, x)) &gt; gamma(Naive(x))      for all x in X.
+&gt; ```
+
+### 2.1 Why the inequality should hold (information argument)
+
+Conformance `O |= s` is the conjunction of per-constraint events
+`A_j = &quot;O satisfies pi_j&quot;`. For a Violation field `j`, `A_j` requires the model to
+(i) *emit* `path_j` with the right cardinality and (ii) emit a value in the
+admissible set `V_j = iota_j inter tau_j inter rho_j`.
+
+`Transform(s, x)` states `path_j`, `V_j` and `kappa_j` **explicitly** in `R(s)` and
+pins their surface form in `T(s)`; `Naive(x)` leaves the model to *infer* the
+required predicates and admissible values from raw triples. Under any model
+whose emission probability for a field is monotone in the explicitness of the
+instruction (the standard &quot;instruction-following&quot; assumption),
+
+```
+Pr[A_j | Transform] &gt;= Pr[A_j | Naive]   for every j, with strict &#x27;&gt;&#x27; for at
+least one Violation field whenever Req(s) not subseteq surface(x).
+```
+
+Conformance is the conjunction `AND_j A_j`; the per-constraint domination plus one
+strict gain gives `gamma(Transform) &gt; gamma(Naive)`, i.e. Definition 2. The experiment
+reported in Sec. 6.3 of the article is the empirical test of this inequality:
+**first-pass conformance** is the Monte-Carlo estimate of `gamma(*)` over the
+100-question set.
+
+&gt; **Caveat (honest).** The argument is conditional on instruction-following
+&gt; monotonicity; it is *not* an unconditional theorem about arbitrary `M`. A model
+&gt; that ignores instructions, or a context `x` that already spells out every
+&gt; required field, collapses the gap. We therefore *measure* the effect rather
+&gt; than assert it, and report the deterministic-versus-real-provider distinction
+&gt; among the limitations in Sec. 8 of the article. The default deterministic mock satisfies the monotonicity
+&gt; assumption **by construction** (it emits `Req(s)` when `Req(s)` is supplied and
+&gt; omits holon-layer scaffolding otherwise), so it is a controlled witness of
+&gt; the prompt mechanism rather than an estimate of real-model behaviour.
+
+---
+
+## 3. The iterative-repair loop and its convergence
+
+The generator runs the loop (max `k` iterations):
+
+```
+p_0 = Transform(s, x)
+for t = 0 ... k-1:
+    O_t = M(p_t)
+    if O_t |= s: return (O_t, pass at t)
+    V_t = violations(O_t, s)              # pySHACL validation report
+    p_{t+1} = p_t (+) Repair(V_t)           # append the failed paths + messages
+return (O_{k-1}, fail)
+```
+
+`Repair(V_t)` extracts the focus paths and messages of the firing Violation
+results and appends them as additional REQUIRED lines (`repair_fields`), so each
+iteration strictly increases the explicit constraint information given to `M`.
+
+### 3.1 Convergence claim
+
+&gt; **Proposition 1 (monotone conformance under idealised repair).** Assume (a)
+&gt; each violated field, once named in `Repair`, is satisfied on the next
+&gt; iteration with probability &gt;= q &gt; 0 and never regresses (a satisfied field
+&gt; stays satisfied because its value is pinned in the prompt), and (b) the number
+&gt; of required fields `|Req(s)|` is finite. Then the per-iteration conformance
+&gt; probability `c_t = Pr[O_t |= s]` is non-decreasing, and the probability of
+&gt; non-conformance after `k` rounds is bounded by
+&gt; ```
+&gt; Pr[O_k |/= s] &lt;= |Req(s)| * (1 - q)^{k}.
+&gt; ```
+&gt; Hence `c_t -&gt; 1` geometrically; with `|Req| = 3` and `q ~= 0.7`, `k = 3` gives a
+&gt; residual &lt;= 3*0.027 ~= 0.08.
+
+*Proof sketch.* By (a) each of the &lt;= `|Req(s)|` initially-violated fields fails
+to be repaired across `k` independent rounds with probability &lt;= `(1-q)^k`; a
+union bound over the fields gives the stated bound, and &quot;no regression&quot; makes
+`c_t` monotone. QED
+
+The **non-regression** hypothesis is an explicit condition of the bound, not a
+property enforced by prompt accumulation or temperature zero. Restating pinned
+values may encourage preservation, but a model can ignore the repair, alter a
+previously valid field or add a new invalid node. This is why the manuscript
+reports both **first-pass** and **converged (k=3)** conformance as finite-budget
+empirical outcomes rather than claiming guaranteed geometric convergence.
+
+### 3.2 What convergence does *not* buy
+
+Conformance is *structural*. `O_k |= s` guarantees the shape&#x27;s constraints hold,
+**not** that the content is faithful to the sources -- that is the separate
+hallucination axis (Type A/B/C, see
+`hallucination_taxonomy.md`). A model can converge
+to a SHACL-valid graph that still asserts an ungrounded `oe:treats` edge. The
+boundary-aware System A attacks *that* axis with confidence-filtered,
+projection-only context; the SHACL loop attacks only the structural axis. The
+two are complementary, which is exactly why RQ_3 measures both.</code></pre><figcaption><strong>Listing S16.</strong> Full proof notes for SHACL-to-prompt transform correctness. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/proofs/transform_correctness.md"><code>paper_artifacts/proofs/transform_correctness.md</code></a>.</figcaption></figure>
+<h3 id="S11.4"><a class="anchor" href="#S11.4">S11.4</a> Hallucination Taxonomy and Conditional Grounding</h3>
+<figure class="listing" id="listing-S17"><pre><code># Hallucination Taxonomy and Conditional Grounding Result
+
+Formal companion to the hallucination measurement reported for RQ3. This note
+separates admissible evidence, retrieved context and generated assertions so
+that retrieval control is not mistaken for a guarantee about a general LLM.
+
+## 1. Grounding model
+
+Fix a question holon `q`. Let `G(q)` be the assertions supported by evidence
+admissible for `q` under the evaluated grounding policy. Let
+`K = UNION_h G(h)` be the corpus-supported assertion set. An assertion is written
+as `(p,e)`, where `p` is a drug--disease pair and `e` is an effectiveness verdict,
+possibly omitted. Let `R(q)` be the assertions represented in the retrieved
+context and `A(O)` the assertions extracted from output `O`.
+
+Corpus support is not a claim of clinical truth outside the benchmark. A pair
+attested elsewhere in `K` may be inappropriate for `q`, and absence from `K`
+may reflect corpus incompleteness rather than falsehood in the wider literature.
+
+## 2. Operational taxonomy
+
+For `a=(p,e)` in `A(O)`:
+
+&gt; **Grounded.** `p` is locally supported in `G(q)` and `e` is either omitted or
+&gt; agrees with the applicable local verdict. A bare relation supports the pair,
+&gt; not an effectiveness verdict.
+
+&gt; **Type A -- corpus-attested but outside the target evidence.** `p` is absent
+&gt; from `pairs(G(q))` but present in `pairs(K)`. This is a boundary-grounding or
+&gt; context-leakage error, not proof that the assertion is clinically true.
+
+&gt; **Type B -- absent from the corpus grounding set.** `p` is absent from
+&gt; `pairs(K)`. The label is corpus-relative and does not establish falsehood in
+&gt; the wider literature.
+
+&gt; **Type C -- contradictory verdict.** The pair is attested, but the explicit
+&gt; verdict contradicts the applicable reference under the declared conflict and
+&gt; tie policy.
+
+The operational precedence is grounded, then C, then A, then B, so each
+ungrounded assertion receives at most one label.
+
+For nonempty `A(O)`, the grounding-error rate is
+
+```
+HR(O,q) = |{a in A(O) : a is not grounded for q}| / |A(O)|.
+```
+
+This equals the sum of Type A/B/C counts divided by `|A(O)|` when every
+ungrounded assertion is assigned exactly one category. Empty or unparsable
+outputs require a separately declared handling rule and are not evidence of a
+grounded answer. Pair-level information coverage is
+
+```
+|pairs(A(O)) intersect pairs(G(q))| / |pairs(G(q))|
+```
+
+when the denominator is nonempty; coverage does not validate emitted verdicts.
+
+## 3. Retrieval is not generation
+
+For System A, the implemented boundary policy is intended to support
+
+```
+R_A(q) subseteq G(q).
+```
+
+This inclusion constrains evidential exposure. It does **not** imply
+
+```
+A(O_A) subseteq R_A(q)
+```
+
+for a general LLM. A model may add assertions through parametric knowledge,
+inference, schema completion or semantic over-generation. Boundary-aware
+retrieval therefore does not logically imply `HR(O_A,q)=0`.
+
+&gt; **Proposition 1 (Conditional zero-error result).** Assume both
+&gt; `R_A(q) subseteq G(q)` and the faithful-transducer condition
+&gt; `A(O_A) subseteq R_A(q)`. Then, for a nonempty output,
+&gt; `A(O_A) subseteq G(q)` and `HR(O_A,q)=0`.
+
+**Proof.** Transitivity of set inclusion gives
+`A(O_A) subseteq R_A(q) subseteq G(q)`. Every emitted assertion is therefore
+grounded under the operational reference, so the numerator of `HR` is zero.
+QED.
+
+The faithful-transducer condition is an additional generator assumption, not a
+property of boundary-aware retrieval or SHACL conformance.
+
+## 4. Deterministic provider and real models
+
+The deterministic provider is deliberately specified to render the retrieved
+content according to fixed rules. It therefore approximates the
+faithful-transducer condition by construction for the controlled mechanism
+experiment. The measured change from 0.760 to 0.000 should be interpreted as a
+demonstration of the retrieval policy&#x27;s effect under specified context adherence,
+not as an upper bound on or estimate of general LLM behaviour.
+
+For a real LLM, `A(O) not-subseteq R(q)` is possible. The tested
+Llama-3.1-8B configuration demonstrates that unsupported semantic expansion can
+occur under boundary-aware retrieval; it does not establish prevalence across
+Llama models or model families. Retrieval admissibility, SHACL conformance and
+assertion-level grounding must therefore be measured separately.
+
+## 5. Two gates plus an independent grounding check
+
+- **Gate 1 -- evidence admissibility:** boundary-aware retrieval controls which
+  evidence is exposed to the generator.
+- **Gate 2 -- structural admissibility:** SHACL-derived prompting guides output
+  structure and post-generation validation checks the selected schema/shape
+  constraints.
+- **Independent grounding check:** assertion-level comparison determines whether
+  emitted claims are supported by admissible evidence.
+
+Passing Gate 1 does not ensure structural conformance. Passing Gate 2 does not
+establish evidential grounding. Passing both does not mathematically prevent a
+general LLM from adding unsupported assertions.
+
+## 6. Annotation stability
+
+The final internal stability check compares rule-based labels with a deliberately
+perturbed second automated pass over 110 generated assertions and reports
+`kappa = 0.78`. This is not human inter-annotator agreement and not a human gold
+standard. It measures stability of the automated grounding procedure under the
+declared perturbation. Independent human annotation remains future work.</code></pre><figcaption><strong>Listing S17.</strong> Formalisation of the hallucination taxonomy and the conditional zero-error result. File: <a href="https://github.com/atilimkoca/holonic-clinical-evidence/blob/main/paper_artifacts/proofs/hallucination_taxonomy.md"><code>paper_artifacts/proofs/hallucination_taxonomy.md</code></a>.</figcaption></figure>
+</section>
+</main>
+<footer>
+<p>Generated from <code>supplementary/supplementary_material.tex</code> by <code>supplementary/build_web.py</code> in the
+<a href="https://github.com/atilimkoca/holonic-clinical-evidence">repository</a>. Code: MIT Licence. Data, RDF exports, SHACL shapes and other generated artifacts:
+CC BY 4.0. The extracted clinical relations are research artifacts and must not be used for clinical decisions.</p>
+</footer>
+</div>
+</body>
+</html>

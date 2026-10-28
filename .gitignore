@@ -5,3 +5,11 @@ __pycache__/
 .DS_Store
 .venv/
 venv/
+
+# LaTeX build files of the Supplementary Material
+supplementary/*.aux
+supplementary/*.log
+supplementary/*.toc
+supplementary/*.out
+supplementary/*.lol
+supplementary/*.pdf

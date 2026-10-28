@@ -1,10 +1,10 @@
 # The Context Budget Problem: NP-hardness, Approximation, Complexity
 
 Formal companion to the context-budget component of the generation layer. This
-appendix defines the Context Budget Problem, proves it NP-hard, gives a `1/2`-
+note defines the Context Budget Problem, proves it NP-hard, gives a `1/2`-
 approximation with proof, and analyses the retrieval-complexity gap between
 holon-bounded and naive GraphRAG. The corresponding measurements are reported
-in Sec. VI-D and Appendix I.
+in Sec. 6.4 of the article and Section S9 of the Supplementary Material.
 
 ---
 

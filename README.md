@@ -10,6 +10,10 @@ This repository contains the code, data and generated artifacts for the article
 The ontology modules (`holon:`, `oe:`, `medical`) are published separately at
 <https://atilimkoca.github.io/syz-ontology/>.
 
+The article's Supplementary Material (Sections S1–S11) is available as a web page at
+<https://atilimkoca.github.io/holonic-clinical-evidence/> and as a
+[PDF](docs/supplementary_material.pdf).
+
 ## Contents
 
 | Folder | What it contains | Article |
@@ -19,7 +23,9 @@ The ontology modules (`holon:`, `oe:`, `medical`) are published separately at
 | `project_3_llm/` | SHACL-guided holon-bounded GraphRAG, the deterministic provider, cached real-model completions, the 2×2 ablation, the hallucination classifier, context-budget optimisation, LLM-context governance, temporal evidence updating | RQ3, RQ4 (LLM-context layer) |
 | `integration/` | End-to-end smoke pipeline and integration tests | Integration results |
 | `shared/` | Shared ontology files, API contracts, 20-holon integration test set | — |
-| `paper_artifacts/` | The files reproduced in the article's appendices (holon examples, SHACL shapes and reports, prompts, generated outputs, queries, proof notes) | Appendices |
+| `paper_artifacts/` | The files reproduced in the Supplementary Material (holon examples, SHACL shapes and reports, prompts, generated outputs, queries, proof notes) | Supplementary Material |
+| `supplementary/` | LaTeX source of the Supplementary Material and the script that builds its web version | Supplementary Material |
+| `docs/` | The published Supplementary Material: web version (`index.html`, served by GitHub Pages) and PDF | Supplementary Material |
 
 The README files inside the sub-project folders were written during the original project and
 summarise the first results. The article is the authoritative description and interpretation;
@@ -64,6 +70,19 @@ python -m project_1_crawling.src.crawler --offline --refresh
 
 Set your own e-mail address in `project_1_crawling/config/crawl_config.yaml` before a live crawl,
 as NCBI requests.
+
+## Rebuilding the Supplementary Material
+
+The listings are read directly from `paper_artifacts/`, so the PDF and the web page always reproduce
+those files:
+
+```bash
+cd supplementary && pdflatex supplementary_material.tex && pdflatex supplementary_material.tex \
+  && cp supplementary_material.pdf ../docs/ && cd ..
+python supplementary/build_web.py      # writes docs/index.html
+```
+
+`tectonic supplementary_material.tex` can be used instead of the two `pdflatex` runs.
 
 ## Data notes
 

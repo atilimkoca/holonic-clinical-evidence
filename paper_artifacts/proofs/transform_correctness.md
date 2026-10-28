@@ -1,6 +1,6 @@
 # `Transform(S)`: Formal Definition, Correctness, and Convergence
 
-Formal companion to the SHACL-guided generation pipeline. This appendix gives
+Formal companion to the SHACL-guided generation pipeline. This note gives
 the formal object behind the shape-to-prompt transformation: the map `Transform`
 from a SHACL shape to an LLM prompt template, the precise sense in which it is
 *correct*, and a convergence analysis of the iterative-repair loop.
@@ -96,7 +96,7 @@ least one Violation field whenever Req(s) not subseteq surface(x).
 
 Conformance is the conjunction `AND_j A_j`; the per-constraint domination plus one
 strict gain gives `gamma(Transform) > gamma(Naive)`, i.e. Definition 2. The experiment
-reported in Sec. VI-C is the empirical test of this inequality:
+reported in Sec. 6.3 of the article is the empirical test of this inequality:
 **first-pass conformance** is the Monte-Carlo estimate of `gamma(*)` over the
 100-question set.
 
@@ -105,7 +105,7 @@ reported in Sec. VI-C is the empirical test of this inequality:
 > that ignores instructions, or a context `x` that already spells out every
 > required field, collapses the gap. We therefore *measure* the effect rather
 > than assert it, and report the deterministic-versus-real-provider distinction
-> among the threats to validity in Sec. VIII. The default deterministic mock satisfies the monotonicity
+> among the limitations in Sec. 8 of the article. The default deterministic mock satisfies the monotonicity
 > assumption **by construction** (it emits `Req(s)` when `Req(s)` is supplied and
 > omits holon-layer scaffolding otherwise), so it is a controlled witness of
 > the prompt mechanism rather than an estimate of real-model behaviour.

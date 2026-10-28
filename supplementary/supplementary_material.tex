@@ -1,0 +1,353 @@
+%% Supplementary Material for the holonic clinical evidence article.
+%% The listings are read from ../paper_artifacts, so compile from this folder:
+%%   pdflatex supplementary_material.tex   (or: tectonic supplementary_material.tex)
+%% build_web.py turns this file into the web version (docs/index.html).
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{stix}
+\usepackage[scaled=.85]{inconsolata}
+\usepackage[a4paper,margin=2.3cm]{geometry}
+\usepackage{amsmath}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{seqsplit}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{float}
+\usepackage[font=small,labelfont=bf]{caption}
+\usepackage{tocloft}
+\setlength{\cftsecnumwidth}{2.4em}
+\setlength{\cftsubsecindent}{2.4em}
+\setlength{\cftsubsecnumwidth}{3.2em}
+\setlength{\cftbeforesecskip}{4pt}
+\usepackage[colorlinks,linkcolor=blue!50!black,urlcolor=blue!50!black]{hyperref}
+
+\definecolor{codebg}{RGB}{248,248,248}
+
+\lstset{
+  basicstyle=\ttfamily\footnotesize,
+  breaklines=true,
+  breakatwhitespace=false,
+  breakindent=0pt,
+  postbreak=\mbox{\textcolor{gray}{\footnotesize$\hookrightarrow$}\space},
+  frame=single,
+  backgroundcolor=\color{codebg},
+  columns=fullflexible,
+  keepspaces=true,
+  showstringspaces=false,
+  captionpos=b,
+  literate={=}{{=\allowbreak}}1 {/}{{/\allowbreak}}1 {.}{{.\allowbreak}}1 {:}{{:\allowbreak}}1 {_}{{\_\allowbreak}}1
+}
+
+% Sections, tables and listings are numbered S1, S2, ... as cited in the article.
+\renewcommand{\thesection}{S\arabic{section}}
+\renewcommand{\thetable}{S\arabic{table}}
+\AtBeginDocument{\renewcommand{\thelstlisting}{S\arabic{lstlisting}}}
+
+\newcommand{\breakid}[1]{\begingroup\ttfamily\footnotesize\expandafter\seqsplit\expandafter{\detokenize{#1}}\endgroup}
+
+% \artifact{path}{caption}: reproduces paper_artifacts/<path> in full.
+\newcommand{\artifact}[2]{%
+  \lstinputlisting[caption={#2 File: \texttt{\detokenize{paper_artifacts/#1}}.}]{../paper_artifacts/#1}}
+
+\emergencystretch=1em
+\raggedbottom
+
+\title{\textbf{Supplementary Material}\\[6pt]
+  \large Holonic Knowledge Representation for Clinical Evidence: Boundary-Aware Validation and Hallucination Control in LLM-Augmented Knowledge Graphs}
+\author{Deniz K{\i}l{\i}n\c{c}, Orhan Er, Okan Bursa, Murat U\c{c}ar,\\ {\"{O}}mer At{\i}l{\i}m Koca, Emre Turan, Kaan K{\i}v{\i}rc{\i}k\\[2pt]
+  \small Department of Computer Engineering, Izmir Bakircay University, Izmir, Turkey}
+\date{}
+
+\begin{document}
+\maketitle
+
+This document is the Supplementary Material of the article named in the title. The article cites Sections S1--S11 by these numbers. A web version with the same numbering is available at
+\url{https://atilimkoca.github.io/holonic-clinical-evidence/}. Every file reproduced below is distributed in the \texttt{paper\_artifacts} folder of the code and data repository at \url{https://github.com/atilimkoca/holonic-clinical-evidence}.
+
+\tableofcontents
+\clearpage
+
+%% ---- S1 (holons) ----
+\section{Complete Holon Examples}
+\label{sec:holons}
+This section provides three full clinical-question holon examples exported by the representation pipeline. Each example contains the interior evidence assertion, the boundary/projection/context graph pointers, provenance, confidence metadata, source citations, and the published clinical-question projection.
+
+\begin{table}[H]
+\centering
+\caption{Layer mapping for the three example holons.}
+\label{tab:holon_layers}
+\small
+\begin{tabular}{@{}p{0.30\linewidth}p{0.14\linewidth}p{0.42\linewidth}@{}}
+\toprule
+\textbf{Holon} & \textbf{Layer} & \textbf{Materialised identifier} \\
+\midrule
+\breakid{q_hypertension_treatment} & Interior & \breakid{q_hypertension_treatment-int} \\
+ & Boundary & \breakid{q_hypertension_treatment-bnd} \\
+ & Projection & \breakid{q_hypertension_treatment-prj} \\
+ & Context & \breakid{q_hypertension_treatment-ctx} \\
+\midrule
+\breakid{q_asthma_efficacy} & Interior & \breakid{q_asthma_efficacy-int} \\
+ & Boundary & \breakid{q_asthma_efficacy-bnd} \\
+ & Projection & \breakid{q_asthma_efficacy-prj} \\
+ & Context & \breakid{q_asthma_efficacy-ctx} \\
+\midrule
+\breakid{q_type_2_diabetes_mellitus_treatment} & Interior & \breakid{q_type_2_diabetes_mellitus_treatment-int} \\
+ & Boundary & \breakid{q_type_2_diabetes_mellitus_treatment-bnd} \\
+ & Projection & \breakid{q_type_2_diabetes_mellitus_treatment-prj} \\
+ & Context & \breakid{q_type_2_diabetes_mellitus_treatment-ctx} \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Hypertension Treatment Holon}
+\artifact{holons/q_hypertension_treatment.ttl}{Complete RDF export for q\_hypertension\_treatment.}
+\subsection{Asthma Efficacy Holon}
+\artifact{holons/q_asthma_efficacy.ttl}{Complete RDF export for q\_asthma\_efficacy.}
+\subsection{Type 2 Diabetes Mellitus Treatment Holon}
+\artifact{holons/q_type_2_diabetes_mellitus_treatment.ttl}{Complete RDF export for q\_type\_2\_diabetes\_mellitus\_treatment.}
+
+%% ---- S2 (SHACL shapes) ----
+\section{SHACL Shapes}
+\label{sec:shacl}
+This section lists five complete SHACL shapes generated from the medical vocabulary layer. These shapes are representative of the automatically generated structural constraints used in the semantic validation layer.
+\artifact{five_shacl_shapes.ttl}{Five complete generated SHACL shapes.}
+
+%% ---- S3 (validation reports) ----
+\section{SHACL Validation Reports}
+\label{sec:reports}
+This section gives three complete SHACL validation reports: one structural defect, one semantic boundary violation, and one projection/interior incoherence case.
+
+\subsection{T1 Structural Defect Report}
+\artifact{shacl_reports/report_T1_T1_2000_setA.ttl}{SHACL report for T1 structural inconsistency.}
+\subsection{T4 Boundary Admissibility Report}
+\artifact{shacl_reports/report_T4_T4_2028_setA.ttl}{SHACL report for T4 semantic boundary inconsistency.}
+\subsection{T6 Projection--Interior Report}
+\artifact{shacl_reports/report_T6_T6_2042_setA.ttl}{SHACL report for T6 projection/interior inconsistency.}
+
+%% ---- S4 (prompts and outputs) ----
+\section{LLM Prompt Templates and Generated Outputs}
+\label{sec:prompts}
+This section provides two prompt templates generated from SHACL shapes and two corresponding RDF outputs. System A is holon-bounded and SHACL-guided; System B is naive and contains globally attested but locally ungrounded facts.
+
+Here, ``globally attested'' means present elsewhere in the benchmark corpus; it is not independent clinical verification. The generated examples exercise grounding and context leakage and must not be interpreted as curated treatment recommendations.
+
+\subsection{Clinical Question Prompt Template}
+\artifact{prompts/oe_ClinicalQuestionShape.txt}{SHACL-derived prompt template for clinical-question holons.}
+\subsection{Evidence Reifier Prompt Template}
+\artifact{prompts/oe_EvidenceReifierShape.txt}{SHACL-derived prompt template for evidence reifiers.}
+\subsection{Generated Output: System A}
+\artifact{generated_outputs/q_asthma_efficacy_systemA.ttl}{Generated RDF output for q\_asthma\_efficacy under System A.}
+\subsection{Generated Output: System B}
+\artifact{generated_outputs/q_asthma_efficacy_systemB.ttl}{Generated RDF output for q\_asthma\_efficacy under System B, including Type-A ungrounded additions.}
+
+%% ---- S5 (SPARQL benchmark) ----
+\section{Complete SPARQL Benchmark}
+\label{sec:sparql}
+The complete 50-query benchmark is provided below exactly as used by the experimental pipeline. The file contains simple, medium, complex, and hard queries, including the Model-A-only hard queries that require the holon layer partition.
+\artifact{benchmark_queries.py}{Complete 50-query SPARQL benchmark with Model A and Model B variants.}
+
+%% ---- S6 (inconsistency corpus) ----
+\section{Inconsistency Corpus Statistics}
+\label{sec:corpusstats}
+The inconsistency benchmark contains 100 holons: 50 consistent controls and 50 inconsistent cases. The inconsistent cases are distributed across six defect types. Table~\ref{tab:corpus_stats} reports the type-level counts and detection outcomes.
+
+\begin{table}[H]
+\centering
+\caption{Inconsistency corpus statistics and detection counts.}
+\label{tab:corpus_stats}
+\small
+\begin{tabular}{lrrrrrrrl}
+\toprule
+\textbf{Type} & \textbf{Cases} & \textbf{A TP} & \textbf{A FN} & \textbf{B TP} & \textbf{B FN} & \textbf{C TP} & \textbf{C FN} & \textbf{Class} \\
+\midrule
+T1 & 9 & 9 & 0 & 9 & 0 & 9 & 0 & Structural \\
+T2 & 9 & 9 & 0 & 9 & 0 & 9 & 0 & Referential \\
+T3 & 8 & 8 & 0 & 8 & 0 & 8 & 0 & Temporal \\
+T4 & 8 & 8 & 0 & 0 & 8 & 8 & 0 & Semantic \\
+T5 & 8 & 8 & 0 & 0 & 8 & 8 & 0 & Cross-holon \\
+T6 & 8 & 8 & 0 & 0 & 8 & 8 & 0 & Projection \\
+\midrule
+ALL & 50 & 50 & 0 & 26 & 24 & 50 & 0 & Mixed \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Sets A and C have no false positives and no false negatives on the injected corpus; none of the three sets flags any of the 50 consistent controls. Set B also has no false positives, but misses all boundary-dependent defects T4--T6. This explains why Set B precision remains 1.00 while recall falls to 0.52 and $F_1$ to 0.68.
+
+%% ---- S7 (statistical tests) ----
+\section{Statistical Test Details}
+\label{sec:stats}
+This section gives the statistical test choices, assumption checks, and effect-size reporting used in the main experiments.
+
+\subsection{SHACL Validation Comparison}
+The validation comparison is paired because Set A and Set B are applied to the same holons. Therefore, McNemar's test is used for paired binary correctness. The contingency table is given in Table~\ref{tab:mcnemar_shacl}.
+
+\begin{table}[H]
+\centering
+\caption{McNemar contingency table for Set A vs.\ Set B correctness.}
+\label{tab:mcnemar_shacl}
+\small
+\begin{tabular}{lcc}
+\toprule
+ & \textbf{B correct} & \textbf{B wrong} \\
+\midrule
+A correct & 76 & 24 \\
+A wrong & 0 & 0 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The discordant counts are A-right/B-wrong = 24 and A-wrong/B-right = 0, yielding \(p=1.192\times10^{-7}\). The bootstrap 95\% confidence interval for the recall difference is [0.34, 0.62].
+
+\subsection{GraphRAG Conformance}
+For first-pass conformance, System A is correct on 100 paired cases where System B is not, yielding McNemar \(p=1.578\times10^{-30}\). For converged conformance, the discordant count is 34 in favour of System A, yielding \(p=1.164\times10^{-10}\).
+
+\subsection{Hallucination Rate}
+Per-question hallucination differences are non-normal according to the Shapiro--Wilk test (\(p=5.374\times10^{-13}\)); therefore, the Wilcoxon signed-rank test is used. The Wilcoxon test gives \(p=2.087\times10^{-19}\), and the reported Cohen's \(d\) is 23.27. Bootstrap 95\% confidence intervals are [0.000, 0.000] for System A and [0.754, 0.766] for System B.
+
+\subsection{Grounding-Label Stability}
+The internal stability check compares the rule-based grounding labels with a deliberately perturbed second automated pass over 110 generated assertions, yielding Cohen's \(\kappa=0.78\). This is not human inter-annotator agreement and does not establish a human gold standard; it measures stability of the automated labelling procedure under the declared perturbation.
+
+%% ---- S8 (Neo4J) ----
+\section{Neo4J Cypher Query Examples}
+\label{sec:neo4j}
+This section documents the Cypher export generated for the Neo4J/n10s portability path. The import and benchmark scripts are produced from the holonic RDF export and are included as artifacts; the measured query benchmark in this study uses rdflib SPARQL, and no Neo4J timings or cross-store comparisons are reported.
+
+\textbf{Clinical-semantic status.} The historical export records 136 \texttt{TREATS} and 68 \texttt{CAUSES\_SIDE\_EFFECT} edges corresponding to the 204 canonical benchmark assertions. The Cypher projection does not carry the assertion-to-source links needed to verify those predicates clinically. These edges exercise storage, querying and validation and must not be interpreted as curated therapeutic recommendations; relation-level validity depends on the cited source and extraction context in the authoritative RDF release. All Cypher clinical edges therefore require source-level verification before clinical reuse. Table~\ref{tab:clinical_relation_audit} records the specifically reviewed high-risk examples. The two prednisone--osteoporosis \texttt{TREATS} edges are preserved as comments but quarantined from execution because the available projection provides no supporting source mapping and the direction is clinically suspect; the reported RDF corpus counts and experiments are unchanged because the Neo4J import was outside the measured benchmark.
+
+\begin{table}[H]
+\centering
+\caption{Clinical-semantic audit of selected high-risk Cypher relations.}
+\label{tab:clinical_relation_audit}
+\small
+\begin{tabularx}{\textwidth}{@{}p{0.22\textwidth}p{0.18\textwidth}p{0.13\textwidth}X@{}}
+\toprule
+\textbf{Relation} & \textbf{Classification} & \textbf{Source support in supplied artifacts} & \textbf{Action} \\
+\midrule
+prednisone--\texttt{TREATS}--osteoporosis & Directionally suspect treatment relation & None & Quarantined from executable Cypher; source verification required before any replacement predicate is asserted. \\
+apixaban--\texttt{TREATS}--atrial fibrillation & Potentially coarse treatment versus risk-reduction relation & None & Retained as a historical benchmark assertion and flagged; a more precise predicate requires source and ontology support. \\
+levetiracetam--\texttt{CAUSES\_SIDE\_EFFECT}--seizure & Treatment target versus possible worsening event is ambiguous & None & Retained and flagged; source verification must distinguish an adverse event from disease context. \\
+salbutamol--\texttt{CAUSES\_SIDE\_EFFECT}--dyspnea & Symptom context versus adverse respiratory event is ambiguous & None & Retained and flagged; do not infer causality from the disease/safety holon pairing. \\
+atorvastatin--\texttt{CAUSES\_SIDE\_EFFECT}--chest pain & Unresolved symptom-context versus adverse-effect attribution & None & Retained only as an auditable historical benchmark assertion; source verification required. \\
+sertraline--\texttt{CAUSES\_SIDE\_EFFECT}--depressed mood & Worsening mood versus indication symptom is ambiguous & None & Retained and flagged; source verification required before interpreting it as an adverse effect. \\
+apixaban--\texttt{CAUSES\_SIDE\_EFFECT}--dyspnea & Unresolved symptom-context versus adverse-effect attribution & None & Retained only as an auditable historical benchmark assertion; source verification required. \\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\subsection{Cypher Benchmark Queries}
+\artifact{cypher/benchmark_queries.cypher}{Cypher equivalents of benchmark queries.}
+
+%% ---- S9 (performance) ----
+\section{Performance Comparison Tables}
+\label{sec:performance}
+This section reports the available latency, scalability, and budget-selection measurements. Memory profiling was not instrumented in the current experimental run; it is therefore explicitly recorded as unavailable rather than estimated.
+
+\begin{table}[H]
+\centering
+\caption{Retrieval latency comparison.}
+\label{tab:latency}
+\small
+\begin{tabular}{rrrr}
+\toprule
+\textbf{Triples} & \textbf{Naive scan (s)} & \textbf{Holon-bounded (s)} & \textbf{Speedup} \\
+\midrule
+14573 & 0.002473 & 0.000110 & 22.5$\times$ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Scalability profile for retrieval and context size.}
+\label{tab:scalability}
+\small
+\begin{tabular}{rrrrrr}
+\toprule
+\textbf{Holons} & \textbf{Index build (s)} & \textbf{A ret.\ (ms)} & \textbf{B ret.\ (ms)} & \textbf{A ctx.} & \textbf{B ctx.} \\
+\midrule
+100 & 0.0375 & 0.109 & 0.118 & 129.8 & 502.9 \\
+500 & 0.0438 & 0.539 & 0.528 & 129.8 & 587.4 \\
+1000 & 0.0524 & 1.024 & 1.024 & 129.8 & 587.4 \\
+5000 & 0.1208 & 5.204 & 5.189 & 129.8 & 587.4 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Context-budget greedy approximation results.}
+\label{tab:knapsack}
+\small
+\begin{tabular}{rrrr}
+\toprule
+\textbf{Budget} & \textbf{Greedy value} & \textbf{Optimal value} & \textbf{Ratio} \\
+\midrule
+100 & 1.30 & 1.34 & 0.9701 \\
+200 & 2.70 & 2.81 & 0.9609 \\
+400 & 5.20 & 5.49 & 0.9472 \\
+800 & 10.34 & 10.34 & 1.0000 \\
+1600 & 18.38 & 18.65 & 0.9855 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[H]
+\centering
+\caption{Memory profiling status.}
+\label{tab:memory}
+\small
+\begin{tabular}{lll}
+\toprule
+\textbf{Component} & \textbf{Peak memory} & \textbf{Status} \\
+\midrule
+RDF generation & Not recorded & Profiling hook not enabled \\
+SHACL validation & Not recorded & Profiling hook not enabled \\
+GraphRAG retrieval & Not recorded & Profiling hook not enabled \\
+LLM generation & Not recorded & Mock-provider run only \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+%% ---- S10 (integration tests) ----
+\section{Integration Test Results}
+\label{sec:tests}
+This section summarises the integration tests that re-derive the headline figures reported in Section~6 of the article. The tests cover deterministic data generation, dual-model construction, information preservation, the Set~A/B/C validation comparison, SHACL-to-prompt transformation, the retrieval--guidance ablation, hallucination classification, context-budget approximation, natural-language query conversion, and deterministic provider behaviour. The commands that run them are listed in the repository README.
+
+\begin{table}[H]
+\centering
+\caption{Integration test coverage.}
+\label{tab:tests}
+\small
+\begin{tabular}{p{0.28\linewidth}p{0.64\linewidth}}
+\toprule
+\textbf{Component} & \textbf{Representative tests} \\
+\midrule
+Representation & deterministic seed, dual model built, minimum data volume, expressiveness and bijection \\
+Semantic validation & consistent data conforms; Sets A and C recover all injected defect classes; assertion-scoped Set B detects T1--T3 but not T4--T6 \\
+GraphRAG & deterministic SHACL-to-prompt transform, generated RDF parses, and the \(2\times2\) ablation separates retrieval scope from generation guidance \\
+Hallucination classifier & grounded, corpus-but-ungrounded and unsupported assertions are distinguished; controlled and real-model outputs use the same scoring interface \\
+Context budget & greedy solution remains within tested approximation bound against dynamic-programming optimum \\
+Query interface & natural-language query converted to SPARQL and Cypher in offline mode \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+%% ---- S11 (proof notes) ----
+\section{Full Formal Proof Material}
+\label{sec:proofs}
+This section reproduces the full formal notes used to qualify the propositions and empirical interpretations in the article. The notes distinguish conditional mathematical results from measured outcomes; they do not establish greater RDF/SHACL expressivity or unconditional grounding guarantees.
+
+\subsection{Constraint Recoverability and Access Scope}
+\artifact{proofs/expressiveness_and_decidability.md}{Formal notes on constraint recoverability, information access and architectural scope.}
+\subsection{Context-Budget NP-Hardness}
+\artifact{proofs/context_budget_nphard.md}{Full proof notes for context-budget NP-hardness.}
+\subsection{SHACL-to-Prompt Transform Correctness}
+\artifact{proofs/transform_correctness.md}{Full proof notes for SHACL-to-prompt transform correctness.}
+\subsection{Hallucination Taxonomy and Conditional Grounding}
+\artifact{proofs/hallucination_taxonomy.md}{Formalisation of the hallucination taxonomy and the conditional zero-error result.}
+
+\end{document}
